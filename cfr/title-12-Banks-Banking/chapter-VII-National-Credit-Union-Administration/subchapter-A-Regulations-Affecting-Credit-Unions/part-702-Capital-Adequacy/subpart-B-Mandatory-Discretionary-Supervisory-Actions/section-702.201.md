@@ -8,7 +8,7 @@
 
 (ii) Would further the purpose of this part.
 
-(2) Notwithstanding paragraph (a) of this section, starting on May 28, 2020 and ending on December 31, 2020, for a credit union that is adequately capitalized:
+(2) Notwithstanding paragraph (a) of this section, starting on April 19, 2021 and ending on March 31, 2022, for a credit union that is adequately capitalized:
 
 (i) The NCUA Board may issue an administrative order specifying temporary revisions to the earnings retention requirement, to the extent the NCUA Board determines that such lesser amount -
 
@@ -22,4 +22,4 @@
 
 (d) *Periodic review.* A decision under paragraph (b) of this section to permit a credit union to decrease its earnings retention is subject to quarterly review and revocation except when the credit union is operating under an approved net worth restoration plan that provides for decreasing its earnings retention as provided under paragraph (b).
 
-[67 FR 71091, Nov. 29, 2002, as amended at 85 FR 31956, May 28, 2020]
+[67 FR 71091, Nov. 29, 2002, as amended at 85 FR 31956, May 28, 2020; 86 FR 20264, Apr. 19, 2021]

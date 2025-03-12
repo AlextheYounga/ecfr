@@ -1,5 +1,7 @@
 ##### § 62.27 Alien physicians. #####
 
+Link to an amendment published at 86 FR 20287, Apr. 19, 2021.
+
 (a) *Purpose.* Pursuant to the Mutual Educational and Cultural Exchange Act, as amended by the Health Care Professions Act, Public Law 94-484, the Department of State facilitates exchanges for foreign medical graduates seeking to pursue graduate medical education or training at accredited schools of medicine or scientific institutions. The Department of State also facilitates exchanges of foreign medical graduates seeking to pursue programs involving observation, consultation, teaching, or research activities.
 
 (b) *Clinical exchange programs.* The Educational Commission for Foreign Medical Graduates must sponsor alien physicians who wish to pursue programs of graduate medical education or training conducted by accredited U.S. schools of medicine or scientific institutions. Such Foreign Medical Graduates shall:

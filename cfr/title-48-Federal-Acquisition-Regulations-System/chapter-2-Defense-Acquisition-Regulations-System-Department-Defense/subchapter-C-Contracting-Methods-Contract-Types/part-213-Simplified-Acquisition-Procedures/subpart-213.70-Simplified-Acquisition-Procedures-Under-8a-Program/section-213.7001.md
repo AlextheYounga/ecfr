@@ -1,8 +1,8 @@
 ##### 213.7001 Procedures. #####
 
-(a)(1) For acquisitions that are otherwise appropriate to be conducted using procedures set forth in this part, and also eligible for the 8(a) Program, contracting officers may use -
+(a)(1) For acquisitions that are otherwise appropriate to be conducted using procedures set forth in this part, and also eligible for the 8(a) Program, contracting officers may use—
 
-(a)(1)(i) For sole source purchase orders not exceeding the simplified acquisition threshold, the procedures in PGI 219.804-2(2); or
+(i) For sole source purchase orders not exceeding the simplified acquisition threshold, the procedures in PGI 219.804-2(2); or
 
 (ii) For other types of acquisitions, the procedures in PGI 219.8, excluding the procedures in PGI 219.804-2(2); or
 

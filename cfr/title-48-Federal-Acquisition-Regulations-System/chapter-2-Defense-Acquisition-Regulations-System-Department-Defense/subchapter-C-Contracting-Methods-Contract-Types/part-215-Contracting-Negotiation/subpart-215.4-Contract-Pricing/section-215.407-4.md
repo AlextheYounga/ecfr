@@ -1,8 +1,6 @@
 ##### 215.407-4 Should-cost review. #####
 
-(a) *General.*
-
-See PGI 215.407-4 for guidance on determining whether to perform a program or overhead should-cost review.
+(a) *General.* See PGI 215.407-4 for guidance on determining whether to perform a program or overhead should-cost review.
 
 (b) *Program should-cost review.* Major weapon system should-cost program reviews shall be conducted in a manner that is transparent, objective, and provides for the efficiency of the DoD systems acquisition process (section 837 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91)).
 

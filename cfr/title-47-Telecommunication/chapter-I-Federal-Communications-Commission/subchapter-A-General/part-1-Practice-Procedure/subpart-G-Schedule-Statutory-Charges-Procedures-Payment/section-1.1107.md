@@ -1,106 +1,98 @@
 ##### § 1.1107 Schedule of charges for applications and other filings for the international services. #####
 
-Link to an amendment published at 86 FR 15065, Mar. 19, 2021.
-
 Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.*
 
-|                                                   Service                                                   |                 FCC Form No.                  |           Fee amount           |   Payment type code   |
-|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------|-----------------------|
-|                      1. International Fixed Public Radio (Public & Control Stations).                       |                                               |                                |                       |
-|                                a. Initial Construction Permit (per station)                                 |                   407 & 159                   |           $1,000.00            |          CSN          |
-|                                 b. Assignment or Transfer (per Application)                                 |         702 & 159 or  <br/>704 & 159          |    1,000.00  <br/>1,000.00     |     CSN  <br/>CSN     |
-|                                          c. Renewal (per license )                                          |                   405 & 159                   |             725.00             |          CON          |
-|                                        d. Modification (per station)                                        |                   403 & 159                   |             725.00             |          CON          |
-|                          e. Extension of Construction Authorization (per station)                           |                   701 & 159                   |             365.00             |          CKN          |
-|                     f. Special Temporary Authority or request for Waiver (per request)                      |                 Corres & 159                  |             365.00             |          CKN          |
-|                                        2. Section 214 Applications:                                         |                                               |                                |                       |
-|                                       a. Overseas Cable Construction                                        |                 Corres & 159                  |           17,850.00            |          BIT          |
-|                                          b. Cable Landing License:                                          |                                               |                                |                       |
-|                                             (i) Common Carrier                                              |                 Corres & 159                  |            2,005.00            |          CXT          |
-|                                           (ii) Non-Common Carrier                                           |                 Corres & 159                  |           19,855.00            |          BJT          |
-|                                 c. All other International 214 Applications                                 |                 Corres & 159                  |            1,195.00            |          CUT          |
-|                                d. Special Temporary Authority (all services)                                |                 Corres & 159                  |            1,195.00            |          CUT          |
-|                                 e. Assignments or transfers (all services)                                  |                 Corres & 159                  |            1,195.00            |          CUT          |
-|                             3. Fixed Satellite Transmit/Receive Earth Stations:                             |                                               |                                |                       |
-|                                    a. Initial Application (per station)                                     |          312 Main & Schedule B & 159          |            2,985.00            |          BAX          |
-|                                  b. Modification of License (per station)                                   |          312 Main & Schedule B & 159          |             210.00             |          CGX          |
-|                                         c. Assignment or Transfer:                                          |                                               |                                |                       |
-|                                              (i) First station                                              |          312 Main & Schedule A & 159          |             590.00             |          CNX          |
-|                                        (ii) Each Additional Station                                         |         Attachment to 312-Schedule A          |             200.00             |          CFX          |
-|                                    d. Renewal of License (per station )                                     |                  312-R & 159                  |             210.00             |          CGX          |
-|                                e. Special Temporary Authority (per request)                                 |                312 Main & 159                 |             210.00             |          CGX          |
-|                              f. Amendment of Pending Application (per station)                              |          312 Main & Schedule B & 159          |             210.00             |          CGX          |
-|                      g. Extension of Construction Permit (modification) (per station)                       |                312 Main & 159                 |             210.00             |          CGX          |
-|4. Fixed Satellite transmit/receive Earth Stations (2 meters or less operating in the4/6 GHz frequency band):|                                               |                                |                       |
-|                                             a. Lead Application                                             |          312 Main & Schedule B & 159          |            6,615.00            |          BDS          |
-|                                    b. Routine Application (per station)                                     |          312 Main & Schedule B & 159          |             70.00              |          CAS          |
-|                                  c. Modification of License (per station)                                   |          312 Main & Schedule B & 159          |             210.00             |          CGS          |
-|                                         d. Assignment or Transfer:                                          |                                               |                                |                       |
-|                                              (i) First Station                                              |          312 Main & Schedule A & 159          |             590.00             |          CNS          |
-|                                        (ii) Each Additional Station                                         |         Attachment to 312-Schedule A          |             70.00              |          CAS          |
-|                                     e. Renewal of License (per station)                                     |                  312-R & 159                  |             210.00             |          CGS          |
-|                                f. Special Temporary Authority (per request)                                 |                312 Main & 159                 |             210.00             |          CGS          |
-|                              g. Amendment of Pending Application (per station)                              |       312 Main & Schedule A or B & 159        |             210.00             |          CGS          |
-|                      h. Extension of Construction Permit (modification) (per station )                      |                   312 & 159                   |             210.00             |          CGS          |
-|                                       5. Receive Only Earth Stations:                                       |                                               |                                |                       |
-|                      a. Initial Applications for Registration or License (per station)                      |          312 Main & Schedule B & 159          |             450.00             |          CMO          |
-|                          b. Modification of License or Registration (per station)                           |          312 Main & Schedule B & 159          |             210.00             |          CGO          |
-|                                         c. Assignment or Transfer:                                          |                                               |                                |                       |
-|                                              (i) First Station                                              |          312 Main & Schedule A & 159          |             590.00             |          CNO          |
-|                                        (ii) Each Additional Station                                         |         Attachment to 312-Schedule A          |             200.00             |          CFO          |
-|                                     d. Renewal of License (per station)                                     |                  312-R & 159                  |             210.00             |          CGO          |
-|                              e. Amendment of Pending Application (per station)                              |       312 Main & Schedule A or B & 159        |             210.00             |          CGO          |
-|                      f. Extension of Construction Permit (modification) (per station)                       |                312 Main & 159                 |             210.00             |          CGO          |
-|                                          g. Waivers (per request)                                           |                 Corres & 159                  |             210.00             |          CGO          |
-|                       6. Fixed Satellite Very Small Aperture Terminal (VSAT) Systems:                       |                                               |                                |                       |
-|                                    a. Initial Application (per station)                                     |          312 Main & Schedule B & 159          |           11,015.00            |          BGV          |
-|                                   b. Modification of License (per system)                                   |          312 Main & Schedule B & 159          |             210.00             |          CGV          |
-|                                     c. Assignment or Transfer of System                                     |          312 Main & Schedule A & 159          |            2,945.00            |          CZV          |
-|                                     d. Renewal of License (per system)                                      |                  312-R & 159                  |             210.00             |          CGV          |
-|                                e. Special Temporary Authority (per request)                                 |                   312 & 159                   |             210.00             |          CGV          |
-|                              f. Amendment of Pending Application (per system)                               |       312 Main & Schedule A or B & 159        |             210.00             |          CGV          |
-|                       g. Extension of Construction Permit (modification) (per system)                       |                   312 & 159                   |             210.00             |          CGV          |
-|                                     7. Mobile Satellite Earth Stations:                                     |                                               |                                |                       |
-|                              a. Initial Applications of Blanket Authorization                               |          312 Main & Schedule B & 159          |           11,015.00            |          BGB          |
-|                             b. Initial Application for Individual Earth Station                             |          312 Main & Schedule B & 159          |            2,645.00            |          CYB          |
-|                                   c. Modification of License (per system)                                   |          312 Main & Schedule B & 159          |             210.00             |          CGB          |
-|                                   d. Assignment or Transfer (per system)                                    |          312 Main & Schedule A & 159          |            2,945.00            |          CZB          |
-|                                     e. Renewal of License (per system)                                      |                  312-R & 159                  |             210.00             |          CGB          |
-|                                f. Special Temporary Authority (per request)                                 |                   312 & 159                   |             210.00             |          CGB          |
-|                              g. Amendment of Pending Application (per system)                               |          312 Main & Schedule B & 159          |             210.00             |          CGB          |
-|                       h. Extension of Construction Permit (modification) (per system)                       |                   312 & 159                   |             210.00             |          CGB          |
-|                                     8. Space Stations (Geostationary):                                      |                                               |                                |                       |
-|                      a. Application for Authority to Launch & Operate (per satellite):                      |                                               |                                |                       |
-|                                           (i) Initial Application                                           |          312 Main & Schedule S & 159          |           136,930.00           |          BNY          |
-|                                         (ii) Replacement Satellite                                          |          312 Main & Schedule S & 159          |           136,930.00           |          BNY          |
-|                                  b. Assignment or Transfer (per satellite)                                  |          312 Main & Schedule A & 159          |            9,785.00            |          BFY          |
-|                                       c. Modification (per satellite)                                       |    312 Main & Schedule S (if needed) & 159    |            9,785.00            |          BFY          |
-|                               d. Special Temporary Authority (per satellite)                                |                   312 & 159                   |             980.00             |          CRY          |
-|                             e. Amendment of Pending Application (per satellite)                             |    312 Main & Schedule S (if needed) & 159    |            1,960.00            |          CWY          |
-|                              f. Extension of Launch Authority (per satellite)                               |            312 Main & Corres & 159            |             980.00             |          CRY          |
-|                                          9. Space Stations (NGSO):                                          |                                               |                                |                       |
-|a. Application for Authority to Launch & Operate (per system of technically identical satellites) satellites)|          312 Main & Schedule S & 159          |           471,575.00           |          CLW          |
-|          b. Application (license or market access for small satellite or small spacecraft system)           |          312 Main & Schedule S & 159          |           30,000.00            |          CLW          |
-|                                   c. Assignment or Transfer (per system)                                    |          312 Main & Schedule A & 159          |           13,480.00            |          CZW          |
-|                                        d. Modification (per system)                                         |    312 Main & Schedule S (if needed) & 159    |           33,685.00            |          CGW          |
-|                                e. Special Temporary Authority (per request)                                 |                 Corres & 159                  |            3,375.00            |          CXW          |
-|                              f. Amendment of Pending Application (per request)                              |          312 Main & Schedule S & 159          |            6,740.00            |          CAW          |
-|                                g. Extension of Launch Authority (per system)                                |                312 Main & 159                 |            3,375.00            |          CXW          |
-|                                      10. Direct Broadcast Satellites:                                       |                                               |                                |                       |
-|                     a. Authorization to Construct or Major Modification (per satellite)                     |          312 Main & Schedule S & 159          |            3,975.00            |          MTD          |
-|                         b. Construction Permit and Launch Authority (per satellite)                         |          312 Main & Schedule S & 159          |           38,555.00            |          MXD          |
-|                                    c. License to Operate (per satellite)                                    |          312 Main & Schedule S & 159          |            1,110.00            |          MPD          |
-|                               d. Special Temporary Authority (per satellite)                                |                312 Main & 159                 |             200.00             |          MGD          |
-|                                    11. International Broadcast Stations:                                    |                                               |                                |                       |
-|                  a. New Station & Facilities Change Construction Permit (per application)                   |                   309 & 159                   |            3,340.00            |          MSN          |
-|                                      b. New License (per application)                                       |                   310 & 159                   |             755.00             |          MNN          |
-|                                    c. License Renewal (per application)                                     |                   311 & 159                   |             190.00             |          MFN          |
-|                     d. License Assignment or Transfer of Control (per station license)                      |314 & 159 or  <br/>315 & 159 or  <br/>316 & 159|120.00  <br/>120.00  <br/>120.00|MCN  <br/>MCN  <br/>MCN|
-|                         e. Frequency Assignment & Coordination (per frequency hour)                         |                 Corres & 159                  |             70.00              |          MAN          |
-|                            f. Special Temporary Authorization (per application)                             |                 Corres & 159                  |             200.00             |          MGN          |
-|               12. Permit to Deliver Programs to Foreign Broadcast Stations (per application):               |                                               |                                |                       |
-|                                      a. Commercial Television Stations                                      |                   308 & 159                   |             110.00             |          MBT          |
-|                                    b. Commercial AM or FM Radio Stations                                    |                   308 & 159                   |             110.00             |          MBR          |
-|                              13. Recognized Operating Agency (per application)                              |                 Corres & 159                  |            1,195.00            |          CUG          |
+Table 1 to § 1.1107
 
-[83 FR 38049, Aug. 3, 2018, as amended at 85 FR 17284, Mar. 27, 2020; 85 FR 43733, July 20, 2020]
+|                                                                                                                          |                              New fee                              |
+|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+|                                         Cable Landing License, per Application:                                          |                                                                   |
+|                                                       New License                                                        |                              $3,835.                              |
+|                                              Assignment/Transfer of Control                                              |                              $1,230.                              |
+|                                         Pro Forma Assignment/Transfer of Control                                         |                               $400.                               |
+|                                         Foreign Carrier Affiliation Notification                                         |                               495.                                |
+|                                                       Modification                                                       |                              $1,230.                              |
+|                                                         Renewal                                                          |                              $2,440.                              |
+|                                               Special Temporary Authority                                                |                               $675.                               |
+|                                                          Waiver                                                          |                               $335.                               |
+|                                International Section 214 Authorization, per Application:                                 |                                                                   |
+|                                                    New Authorization                                                     |                               $785.                               |
+|                                              Assignment/transfer of control                                              |                              $1,230.                              |
+|                                         Pro forma Assignment/transfer of control                                         |                               $400.                               |
+|                                         Foreign Carrier Affiliation Notification                                         |                               $495.                               |
+|                                                       Modification                                                       |                               $675.                               |
+|                                               Special Temporary Authority                                                |                               $675.                               |
+|                                                          Waiver                                                          |                               $335.                               |
+|                                                Discontinuance of services                                                |                               $335.                               |
+|                                    Section 310(b) Foreign Ownership, per Application:                                    |                                                                   |
+|                                             Petition for Declaratory Ruling                                              |                              $2,485.                              |
+|                                                          Waiver                                                          |                               $335.                               |
+|                                       Recognized Operating Agency per Application:                                       |                                                                   |
+|                                                Application for ROA Status                                                |                              $1,145.                              |
+|                                                          Waiver                                                          |                               $335.                               |
+|                                Data Network Identification Code (DNIC), per Application:                                 |                                                                   |
+|                                                         New DNIC                                                         |                               $785.                               |
+|                                                          Waiver                                                          |                               $335.                               |
+|                               International Signaling Point Code (ISPC), per Application:                                |                                                                   |
+|                                                         New ISPC                                                         |                               $785.                               |
+|                                                   Transfer of Control                                                    |                               $675.                               |
+|                                                       Modification                                                       |                               $675.                               |
+|                                                          Waiver                                                          |                               $335.                               |
+|                                          Satellite Earth Station Applications:                                           |                                                                   |
+|                   Fixed or Temporary Fixed Transmit or Transmit/Receive Earth Stations, per Call Sign:                   |                                                                   |
+|                                             Initial application, single site                                             |                               $360.                               |
+|                                           Initial application, multiple sites                                            |                              $6,515.                              |
+|                   Receive Only Earth Stations License or Registration, per Call Sign or Registration:                    |                                                                   |
+|                                     Initial application or registration, single site                                     |                               $175.                               |
+|                             Initial application or registration, multiple sites, per system                              |                               $465.                               |
+|                              Initial application for Blanket Earth Stations, per Call Sign                               |                               $360.                               |
+|                                    Mobile Earth Stations Applications, per Call Sign:                                    |                                                                   |
+|                         Initial Application for Blanket Authorization, per system, per Call Sign                         |                               $815.                               |
+|                         Amendments to Earth Station Applications or Registrations per Call Sign:                         |                                                                   |
+|                                                       Single Site                                                        |                               $430.                               |
+|                                                      Multiple Sites                                                      |                               $630.                               |
+|                                           Earth Stations, Other Applications:                                            |                                                                   |
+|                 Applications for Modification of Earth Station Licenses or Registrations, per Call Sign                  |                               $545.                               |
+|               Assignment or Transfer of Control of Earth Station Licenses or Registrations, per Call Sign                |$745 (first call sign).  <br/>$400 (for each additional call sign).|
+|         Pro Forma Assignment or Transfer of Control of Earth Station Licenses or Registrations, per Transaction          |                               $400.                               |
+|                                    Earth Station Renewals of Licenses, per Call Sign:                                    |                                                                   |
+|                                                       Single Site                                                        |                               $115.                               |
+|                                                      Multiple Sites                                                      |                               $145.                               |
+|                    Earth Station Requests for U.S. Market Access for Non-U.S. Licensed Space Stations                    |                        See Space Stations.                        |
+|                                          Satellite Space Station Applications:                                           |                                                                   |
+|                                           Space Stations, Geostationary Orbit:                                           |                                                                   |
+|                        Application for Authority to Construct, Deploy, and Operate, per satellite                        |                              $3,555.                              |
+|                                   Application for Authority to Operate, per satellite                                    |                              $3,555.                              |
+|                                         Space Stations, Non-Geostationary Orbit:                                         |                                                                   |
+|Application for Authority to Construct, Deploy, and Operate, per system of technically identical satellites, per Call Sign|                             $15,050.                              |
+|           Application for Authority to Operate, per system of technically identical satellites, per Call Sign            |                             $15,050.                              |
+|      Space Stations, Petition for Declaratory Ruling for Foreign-Licensed Space Station to Access the U.S. Market:       |                                                                   |
+|                                            Geostationary Orbit, per Call Sign                                            |                              $3,555.                              |
+|                                          Non-Geostationary Orbit, per Call Sign                                          |                             $15,050.                              |
+|                                             Small Satellites, per Call Sign                                              |                              $2,175.                              |
+|                                  Space Stations, Small Satellites, or Small Spacecraft:                                  |                                                                   |
+|                               Application to Construct, Deploy, and Operate, per Call Sign                               |                              $2,175.                              |
+|                                          Other Applications for Space Stations:                                          |                                                                   |
+|                                        Space Stations, Amendments, per Call Sign                                         |                              $1,620.                              |
+|                                       Space Stations, Modifications, per Call Sign                                       |                              $2,495.                              |
+|                             Space Stations, Assignment or Transfer of Control, per Call Sign                             |$745 (first call sign).  <br/>$400 (for each additional call sign).|
+|                       Space Stations, Pro Forma Assignment or Transfer of Control, per transaction                       |                               $400.                               |
+|                                Space Stations, Special Temporary Authority, per Call Sign                                |                              $1,435.                              |
+|                Unified Space Station and Earth Station Initial Application, Amendment, and Modification:                 |                                                                   |
+|                 Unified Space Station and Earth Station Initial Application, Amendment, and Modification                 |   Applicable Space Station Fee + Applicable Earth Station Fee.    |
+|                                   International Broadcast Stations (IBS) Applications:                                   |                                                                   |
+|                                                 New Construction Permit                                                  |                              $4,010.                              |
+|                                             Construction Permit Modification                                             |                              $4,010.                              |
+|                                                       New License                                                        |                               $905.                               |
+|                                                     License Renewal                                                      |                               $230.                               |
+|                                                   Frequency Assignment                                                   |                               $80.                                |
+|                                                   Transfer of Control                                                    |                               $595.                               |
+|                                               Special Temporary Authority                                                |                               $395.                               |
+|               Permit to Deliver Programs to Foreign Broadcast Stations under Section 325(c) Applications:                |                                                                   |
+|                                                       New License                                                        |                               $360.                               |
+|                                                   License Modification                                                   |                               $185.                               |
+|                                                     License Renewal                                                      |                               $155.                               |
+|                                               Special Temporary Authority                                                |                               $155.                               |
+|                                                   Transfer of Control                                                    |                               $260.                               |
+
+[83 FR 38049, Aug. 3, 2018, as amended at 85 FR 17284, Mar. 27, 2020; 85 FR 43733, July 20, 2020; 86 FR 15065, Mar. 19, 2021]

@@ -1,5 +1,7 @@
 ##### § 1205.29 Reporting results. #####
 
+Link to an amendment published at 86 FR 20258, Apr. 19, 2021.
+
 (a) Each county FSA office shall prepare and transmit to the state FSA office, by August 21, 2015, a written report of the number of eligible producers who requested the conduct of a referendum, and the number of ineligible persons who made requests.
 
 (b) DAFO shall prepare, by August 21, 2015, a written report of the number of eligible importers who requested the conduct of a referendum, and the number of ineligible persons who made requests.

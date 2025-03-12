@@ -46,11 +46,7 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (ii) Closure: June 15-July 15 for waterfowl; July 20-August 20 for all other birds.
 
-(e) *Kodiak Archipelago region.* The Kodiak Island Roaded Area is open to the harvesting of migratory birds and their eggs by registration permit only as administered by the Alaska Department of Fish and Game, Division of Subsistence, in cooperation with the Sun'aq Tribe of Kodiak. No hunting or egg gathering for Arctic terns, Aleutian terns, mew gulls, and emperor geese is allowed for the Kodiak Island Roaded Area Registration Permit Hunt. The closed area consists of all lands and waters (including exposed tidelands) east of a line extending from Crag Point in the north to the west end of Saltery Cove in the south and all lands and water south of a line extending from Termination Point along the north side of Cascade Lake extending to Anton Larsen Bay. Marine waters adjacent to the closed area are closed to harvest within 500 feet from the water's edge. The offshore islands are open to harvest.
-
-(1) Season: April 2-June 30 and July 31-August 31 for seabirds; April 2-June 20 and July 22-August 31 for all other birds.
-
-(2) Closure: July 1-July 30 for seabirds; June 21-July 21 for all other birds.
+(e) *Kodiak Archipelago region.* The Kodiak Island Roaded Area is open to the harvesting of migratory birds and their eggs by registration permit only as administered by the Alaska Department of Fish and Game, Division of Subsistence, in cooperation with the Sun'aq Tribe of Kodiak. No hunting or egg gathering for Arctic terns, Aleutian terns, mew gulls, and emperor geese is allowed for the Kodiak Island Roaded Area Registration Permit Hunt. The Kodiak Island Roaded Area consists of that portion of Kodiak Island (including exposed tidelands) south of a line from Termination Point along the north side of Cascade Lake to Anton Larsen Bay and east of a line from Crag Point to the west end of Saltery Cove. Marine waters adjacent to the Kodiak Island Roaded Area within 500 feet from the water's edge are included in the Kodiak Island Roaded Area. The Kodiak Island Roaded Area does not include islands offshore of Kodiak Island. A registration permit is not required to hunt on lands and waters outside the Kodiak Island Roaded Area.
 
 (f) *Northwest Arctic region.* (1) Season: April 2-June 14 and July 16-August 31 (hunting in general); waterfowl egg gathering April 2-June 14 only; seabird egg gathering May 20-July 12 only; hunting molting/non-nesting waterfowl July 1-July 15 only.
 
@@ -146,4 +142,4 @@ The season dates for the eligible subsistence-harvest areas are as follows:
 
 (ii) Closure: July 1-August 31.
 
-[84 FR 12951, Apr. 3, 2019, as amended at 85 FR 18459, Apr. 2, 2020; 85 FR 73233, Nov. 17, 2020]
+[84 FR 12951, Apr. 3, 2019, as amended at 85 FR 18459, Apr. 2, 2020; 85 FR 73233, Nov. 17, 2020; 86 FR 20319, Apr. 19, 2021]

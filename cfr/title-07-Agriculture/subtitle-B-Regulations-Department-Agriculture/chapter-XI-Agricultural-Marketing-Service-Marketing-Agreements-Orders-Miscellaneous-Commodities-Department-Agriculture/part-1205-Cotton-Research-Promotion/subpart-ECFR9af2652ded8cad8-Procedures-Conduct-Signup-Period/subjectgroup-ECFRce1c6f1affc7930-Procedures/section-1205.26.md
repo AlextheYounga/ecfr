@@ -1,5 +1,7 @@
 ##### § 1205.26 Eligibility. #####
 
+Link to an amendment published at 86 FR 20257, Apr. 19, 2021.
+
 Only persons who meet the eligibility requirements in this subpart may participate in the sign-up period. No person is entitled to sign up more than once.
 
 (a) Except as set forth in paragraphs (b) and (c) of this section, the following persons are eligible to request the conduct of a continuance referendum:

@@ -1,5 +1,7 @@
 ##### § 1205.27 Participation in the sign-up period. #####
 
+Link to an amendment published at 86 FR 20257, Apr. 19, 2021.
+
 The sign-up period will be from August 3, 2015, until August 14, 2015. Those persons who favor the conduct of a continuance referendum and who wish to request that USDA conduct such a referendum may do so by submitting such request in accordance with this section. All requests must be received by the appropriate USDA office by August 14, 2015.
 
 (a) Before the sign-up period begins, FSA shall establish a list of known, eligible, Upland cotton producers in the county that it serves during the representative period, and AMS shall also establish a list of known, eligible Upland cotton importers.

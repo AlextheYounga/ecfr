@@ -1,6 +1,6 @@
 ##### § 866.4750 Automated indirect immunofluorescence microscope and software-assisted system. #####
 
-(a) *Identification.* An automated indirect immunofluorescence microscope and software-assisted system is a device that acquires, analyzes, stores, and displays digital images of indirect immunofluorescent slides. It is intended to be used as an aid in the determination of antibody status in clinical samples. The device may include a fluorescence microscope with light source, a motorized microscope stage, dedicated instrument controls, a camera, a computer, a sample processor, or other hardware components. The software may include fluorescent signal acquisition and processing software, data storage and transferring mechanisms, or assay specific algorithms to suggest results. A trained operator must confirm results generated with the device.
+(a) *Identification.* An automated indirect immunofluorescence microscope and software assisted system is a device that acquires, analyzes, stores, and displays digital images of indirect immunofluorescent slides. It is intended to be used as an aid in the determination of antibody status in clinical samples. The device may include a fluorescence microscope with light source, a motorized microscope stage, dedicated instrument controls, a camera, a computer, a sample processor, or other hardware components. The device may use fluorescent signal acquisition and processing software, data storage and transferring mechanisms, or assay specific algorithms to suggest results. A trained operator must confirm results generated with the device.
 
 (b) *Classification.* Class II (special controls). The special controls for this device are:
 
@@ -56,4 +56,4 @@
 
 (iv) A description of the protocol and performance studies performed in accordance with paragraph (b)(2)(ii) of this section and a summary of the results, if applicable.
 
-[82 FR 52648, Nov. 14, 2017]
+[82 FR 52648, Nov. 14, 2017, as amended at 86 FR 20283, Apr. 19, 2021]

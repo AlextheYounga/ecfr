@@ -1,6 +1,6 @@
 ##### 210.001 Policy. #####
 
-(a) In addition to the requirements of FAR 10.001(a) -
+(a) In addition to the requirements of FAR 10.001(a)—
 
 (i)(A) Agencies shall conduct market research appropriate to the circumstances before issuing a solicitation with tiered evaluation of offers (section 816 of Pub. L. 109-163); and
 
@@ -10,4 +10,4 @@
 
 (c)(2) In addition to the notification requirements at FAR 10.001(c)(2)(i) and (ii), see 205.205-70 for the bundling notification publication requirement.
 
-[71 FR 53043, Sept. 8, 2006, as amended at 75 FR 40716, \>July 13, 2010; 83 FR 15996, Apr. 13, 2018; 85 FR 34531, June 5, 2020]
+[71 FR 53043, Sept. 8, 2006, as amended at 75 FR 40716, July 13, 2010; 83 FR 15996, Apr. 13, 2018; 85 FR 34531, June 5, 2020]

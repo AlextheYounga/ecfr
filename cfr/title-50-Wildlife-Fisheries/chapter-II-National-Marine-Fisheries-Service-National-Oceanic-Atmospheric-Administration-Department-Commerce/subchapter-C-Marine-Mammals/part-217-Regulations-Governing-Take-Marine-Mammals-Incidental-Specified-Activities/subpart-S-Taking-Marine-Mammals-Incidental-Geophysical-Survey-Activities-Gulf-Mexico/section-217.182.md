@@ -1,0 +1,3 @@
+##### § 217.182 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to §§ 216.106 of this chapter and 217.186, LOA-holders may incidentally, but not intentionally, take marine mammals within the area described in § 217.180(b) by Level A and Level B harassment associated with geophysical survey activities, provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA.
