@@ -1,3 +1,3 @@
-##### § 4002.5 Meetings. #####
+##### § 4002.5 Voting without a meeting. #####
 
-Regular meetings of the Board of Directors shall be held as often as required to provide appropriate oversight and guidance to the Corporation and at such times as the Chair shall select. Special meetings of the Board of Directors shall be called by the Chair on the request of any other Board Member. Reasonable notice of any meetings shall be given to each Board Member. The General Counsel of the Corporation shall serve as Secretary to the Board of Directors and keep its minutes. As soon as practicable after each meeting, a draft of the minutes of such meeting shall be distributed to each Member of the Board for approval.
+A resolution of the Board of Directors signed by all of the Board Members or all of the Board Representatives will have the same effect as if agreed to at a meeting and must be kept in the Corporate Minutes Book. A resolution for an action taken on any matter for which a Board Member has been disqualified under § 4002.6 may be signed by the Board Representative of the disqualified Board Member to the extent the matter is delegable under these bylaws.

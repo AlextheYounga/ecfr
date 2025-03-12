@@ -1,5 +1,7 @@
 ##### § 94.29 Restrictions on importation of fresh (chilled or frozen) beef and ovine meat from specified regions. #####
 
+Link to an amendment published at 82 FR 42732, Sept. 12, 2017.
+
 Notwithstanding any other provisions of this part, fresh (chilled or frozen) beef from a region in Argentina located north of Patagonia South and Patagonia North B, referred to as Northern Argentina (the region sometimes referred to as Patagonia North A is included in Northern Argentina); fresh (chilled or frozen) beef from a region in Brazil composed of the States of Bahia, Distrito Federal, Espírito Santo, Goiás, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Rio Grande do Sul, Rio de Janeiro, Rondônia, São Paulo, Sergipe, and Tocantins; and fresh (chilled or frozen) beef and ovine meat from Uruguay may be exported to the United States under the following conditions:
 
 (a) The meat is:

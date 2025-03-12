@@ -2,7 +2,7 @@
 
 (a) *Notice of appearance.* When first making an appearance, each representative must file a notice of appearance that indicates on whose behalf the appearance is made and the proceeding name and docket number. Any attorney representative must include in the notice of appearance the license registration number(s) assigned to the attorney.
 
-(b) *Categories of representation; admission standards* - (1) *Attorney representative.* Under these rules, “attorney” or “attorney representative” means an individual who has been admitted to the bar of the highest court of a State, Commonwealth, or Territory of the United States, or the District of Columbia.
+(b)  *Categories of representation; admission standards*—(1) *Attorney representative.* Under these rules, “attorney” or “attorney representative” means an individual who has been admitted to the bar of the highest court of a State, Commonwealth, or Territory of the United States, or the District of Columbia.
 
 (i) *Attorney in good standing.* An attorney who is in good standing in his or her licensing jurisdiction may represent a party or subpoenaed witness before the Office of Administrative Law Judges. The filing of the Notice of Appearance required in paragraph (a) of this section constitutes an attestation that:
 

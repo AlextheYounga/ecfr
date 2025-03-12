@@ -40,4 +40,4 @@ Deregistration of a program may be effected upon the voluntary action of the spo
 
 (8) Every order of deregistration must contain a provision that the sponsor must, within 15 days of the effective date of the order, notify all registered apprentices of the deregistration of the program; the effective date thereof; that such cancellation automatically deprives the apprentice of individual registration; that the deregistration removes the apprentice from coverage for Federal purposes which require the Secretary of Labor's approval of an apprenticeship program; and that all apprentices are referred to the Registration Agency for information about potential transfer to other registered apprenticeship programs.
 
-[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92107, Dec. 19, 2016]
+[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92108, Dec. 19, 2016]

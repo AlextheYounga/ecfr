@@ -1,3 +1,5 @@
-##### § 4002.4 Quorum. #####
+##### § 4002.4 Place of meetings; use of conference call communications equipment. #####
 
-A majority of the Board Members shall constitute a quorum for the transaction of business. Any act of a majority of the Members present at any meeting at which there is a quorum shall be the act of the Board.
+(a) *Place of meetings.* Meetings of the Board of Directors will be held at the principal office of the Corporation or the Department of Labor unless otherwise determined by the Board of Directors or the Chair.
+
+(b) *Teleconference.* Any Member may participate in a meeting of the Board of Directors through the use of conference call telephone or similar communications equipment, by means of which all persons participating in the meeting can speak to and hear each other. Any Board Member so participating in a meeting will be deemed present for all purposes. Actions taken by the Board of Directors at meetings conducted through the use of such equipment, including the votes of each Member, must be recorded in the minutes of the meetings of the Board of Directors.

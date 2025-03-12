@@ -1,3 +1,3 @@
-##### § 4002.2 Offices. #####
+##### § 4002.2 Quorum. #####
 
-The principal office of the Corporation is in the Metropolitan area of the City of Washington, District of Columbia. The Corporation may have additional offices at such other places as the Board of Directors may deem necessary or desirable to the conduct of its business.
+Section 4002(d)(2) of ERISA establishes that a majority of the Board Members will constitute a quorum for the transaction of business. Any act of a majority of the Members present at any meeting at which there is a quorum will be the act of the Board.

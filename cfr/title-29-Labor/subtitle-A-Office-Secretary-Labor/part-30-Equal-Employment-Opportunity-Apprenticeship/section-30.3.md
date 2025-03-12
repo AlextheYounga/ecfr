@@ -80,8 +80,6 @@
 
 (2) The nondiscrimination bases listed in this pledge may be broadened to conform to consistent State and local requirements. Sponsors may include additional protected bases but may not exclude any of the bases protected by this part.
 
-(d) *Compliance.*
-
-(1) Current sponsors: A sponsor that has a registered apprenticeship program as of the effective date of this regulation must comply with all obligations of this section within 180 days of the effective date of this rule.
+(d)  *Compliance.* (1) Current sponsors: A sponsor that has a registered apprenticeship program as of the effective date of this regulation must comply with all obligations of this section within 180 days of the effective date of this rule.
 
 (2) New sponsors: A sponsor registering with a Registration Agency after the effective date of this regulation shall comply with all obligations of this section upon registration or 180 days after the effective date of this regulation, whichever is later.

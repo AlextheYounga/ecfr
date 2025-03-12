@@ -1,6 +1,6 @@
 ##### § 217.2 Definitions. #####
 
-Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment published at 80 FR 49103, Aug. 14, 2015.
+Link to an amendment published at 82 FR 42918, Sept. 12, 2017.Link to an amendment published at 79 FR 24540, May 1, 2014.Link to an amendment published at 80 FR 49103, Aug. 14, 2015.
 
 As used in this part:
 

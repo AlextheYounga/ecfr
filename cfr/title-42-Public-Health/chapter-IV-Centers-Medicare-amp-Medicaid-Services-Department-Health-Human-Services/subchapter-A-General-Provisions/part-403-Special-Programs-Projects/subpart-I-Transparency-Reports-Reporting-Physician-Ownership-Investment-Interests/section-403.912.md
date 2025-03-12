@@ -1,6 +1,6 @@
 ##### § 403.912 Penalties for failure to report. #####
 
-(a) *Failure to report.* (1) Any applicable manufacturer or applicable group purchasing organization that fails to timely, accurately or completely report the information required in accordance with the rules established under this subpart is subject to a civil monetary penalty of not less than $10,000, but not more than $100,000, as adjusted annually under 45 CFR part 102 for each payment or other transfer of value or ownership or investment interest not reported timely, accurately, or completely.
+(a) *Failure to report.* (1) Any applicable manufacturer or applicable group purchasing organization that fails to timely, accurately or completely report the information required in accordance with the rules established under this subpart is subject to a civil monetary penalty of not less than $1,000, but not more than $10,000, as adjusted annually under 45 CFR part 102 for each payment or other transfer of value or ownership or investment interest not reported timely, accurately, or completely.
 
 (2) The total amount of civil monetary penalties imposed on each applicable manufacturer or applicable group purchasing organization (regardless of whether the applicable manufacturer was a part of a consolidated report) with respect to failures to report in an annual submission of information will not exceed $150,000 as adjusted annually under 45 CFR part 102.
 
@@ -38,4 +38,4 @@
 
 (g) *Notice, hearings, appeals, and collection.* Civil monetary penalties imposed under this section are subject to the provisions set forth in subparts A and B of part 402 of this chapter, including those pertaining to notice, opportunity for a hearing, appeals procedures, and collection of penalties.
 
-[78 FR 9521, Feb. 8, 2013, as amended at 81 FR 61561, Sept. 6, 2016}
+[78 FR 9521, Feb. 8, 2013, as amended at 81 FR 61561, Sept. 6, 2016; 82 FR 42749, Sept. 12, 2017}

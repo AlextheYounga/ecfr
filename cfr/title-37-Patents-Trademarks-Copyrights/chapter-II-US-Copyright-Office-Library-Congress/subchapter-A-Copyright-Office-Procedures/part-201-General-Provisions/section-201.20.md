@@ -1,5 +1,7 @@
 ##### § 201.20 Methods of affixation and positions of the copyright notice on various types of works. #####
 
+Link to an amendment published at 82 FR 42736, September 12, 2017.
+
 (a) *General.* (1) This section specifies examples of methods of affixation and positions of the copyright notice on various types of works that will satisfy the notice requirement of section 401(c) of title 17 of the United States Code, as amended by Pub. L. 94-553. A notice considered “acceptable” under this regulation shall be considered to satisfy the requirement of that section that it be “affixed to the copies in such manner and location as to give reasonable notice of the claim of copyright.” As provided by that section, the examples specified in this regulation shall not be considered exhaustive of methods of affixation and positions giving reasonable notice of the claim of copyright.
 
 (2) The provisions of this section are applicable to copies publicly distributed on or after December 1, 1981. This section does not establish any rules concerning the form of the notice or the legal sufficiency of particular notices, except with respect to methods of affixation and positions of notice. The adequacy or legal sufficiency of a copyright notice is determined by the law in effect at the time of first publication of the work.

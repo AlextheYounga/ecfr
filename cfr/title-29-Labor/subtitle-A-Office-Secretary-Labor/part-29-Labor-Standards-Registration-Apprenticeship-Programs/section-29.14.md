@@ -54,4 +54,4 @@ The recognition for Federal purposes of a State Apprenticeship Agency may be wit
 
 (i) A State Apprenticeship Agency whose recognition has been withdrawn under this part may have its recognition reinstated upon presentation of adequate evidence that it has fulfilled the requirements established in §§ 29.13(i) and 29.14(g) and (h) and is operating in conformity with the requirements of this part.
 
-[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92107, Dec. 19, 2016]
+[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92108, Dec. 19, 2016]

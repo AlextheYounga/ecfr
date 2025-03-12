@@ -1,7 +1,5 @@
-##### § 4002.10 Emergency procedures. #####
+##### § 4002.10 Authority and amendments. #####
 
-(a) An emergency exists if a quorum of the Corporation's Board cannot readily be assembled or act through written contact because of the declaration of a government-wide emergency. These emergency procedures shall remain in effect during the emergency and upon the termination of the emergency shall cease to be operative unless and until another emergency occurs. The emergency procedures shall operate in conjunction with the PBGC Continuity of Operations Plan (“COOP Plan”) of the current year, and any government-wide COOP protocols in effect.
+(a) Section 4002 of ERISA and the bylaws establish the authority and responsibilities of the Board, the Board Representatives, and the Director.
 
-(b) During an emergency, the business of the PBGC shall continue to be managed in accordance with its COOP Plan. The functions of the Board of Directors will be carried out by those Members of the Board of Directors in office at the time the emergency arises, or by persons designated by the agencies' COOP plans to act in place of the Board Members, who are available to act during the emergency. If no such persons are available, then the authority of the Board shall be transferred to the Board Representatives who are available. If no Board Representatives are available, then the Director of the Corporation shall perform essential Board functions.
-
-(c) During an emergency, meetings of the Board may be called by any available Member of the Board. The notice thereof shall specify the time and place of the meeting. To the extent possible, notice shall be given in accordance with these bylaws. Notice shall be given to those Board Members whom it is feasible to reach at the time of the emergency, and notice may be given at a time less than 24 hours before the meeting if deemed necessary by the person giving notice.
+(b) These bylaws may be amended or new bylaws adopted by unanimous vote of the Board.

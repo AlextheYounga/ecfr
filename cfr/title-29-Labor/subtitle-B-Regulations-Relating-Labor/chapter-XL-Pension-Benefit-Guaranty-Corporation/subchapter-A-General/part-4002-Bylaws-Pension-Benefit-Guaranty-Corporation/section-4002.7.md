@@ -1,3 +1,5 @@
-##### § 4002.7 Voting without a meeting. #####
+##### § 4002.7 Director of the Corporation and senior officers. #####
 
-A resolution of the Board of Directors signed by each of the Board Members or each of the Board Representatives shall have the same effect as if agreed to at a meeting and shall be kept in the Corporate Minutes Book. A resolution for an action taken on any matter for which a Board Member has been disqualified under § 4002.8 may be signed by the Board Representative of the disqualified Board Member.
+(a) *Director of the Corporation.* Section 4002(a) and (c) of ERISA establish that the Corporation is administered by a Director. Subject to policies established by the Board, the Director is responsible for the Corporation's management, including its personnel, organization and budget practices, and for carrying out the Corporation's functions under Title IV of ERISA. The Director will timely provide the Board any information necessary to assist the Board in exercising its statutory responsibilities. The Director must submit the Corporation's budget to the Chair of the Board for review and approval before formally submitting the budget to OMB.
+
+(b) *Senior officers.* The senior officers of the Corporation report directly to the Director. The Director must consult with the Board before eliminating or creating a senior officer position or making an appointment to a senior officer position.

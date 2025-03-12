@@ -1,10 +1,10 @@
 ##### § 18.60 Interrogatories to parties. #####
 
-(a) *In general* - (1) *Number.* Unless otherwise stipulated or ordered by the judge, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with § 18.51.
+(a)  *In general*—(1) *Number.* Unless otherwise stipulated or ordered by the judge, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with § 18.51.
 
 (2) *Scope.* An interrogatory may relate to any matter that may be inquired into under § 18.51. An interrogatory is not objectionable merely because it asks for an opinion or contention that relates to fact or the application of law to fact, but the judge may order that the interrogatory need not be answered until designated discovery is complete, or until a prehearing conference or some other time.
 
-(b) *Answers and objections* - (1) *Responding party.* The interrogatories must be answered:
+(b) *Answers and objections*—(1) *Responding party.* The interrogatories must be answered:
 
 (i) By the party to whom they are directed; or
 

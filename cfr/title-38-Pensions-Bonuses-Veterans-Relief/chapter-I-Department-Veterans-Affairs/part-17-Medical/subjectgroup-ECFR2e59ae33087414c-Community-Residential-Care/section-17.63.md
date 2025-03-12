@@ -1,7 +1,5 @@
 ##### § 17.63 Approval of community residential care facilities. #####
 
-Link to a correction published at 82 FR 35451, July 31, 2017.
-
 The approving official may approve a community residential care facility, based on the report of a VA inspection and on any findings of necessary interim monitoring of the facility, if that facility meets the following standards:
 
 (a) *Health and safety standards.* The facility must:
@@ -124,7 +122,7 @@ The approving official may approve a community residential care facility, based 
 
 (J) Child or elder abuse, or cruelty to children or elders; or
 
-(K) Unlawful distribution or possession with intent to distribute, a controlled substance; or
+(K) Unlawful distribution or possession with intent to distribute a controlled substance; or
 
 (ii) Have had a finding entered within 6 months into an applicable State registry or with the applicable licensing authority concerning abuse, neglect, mistreatment of individuals or misappropriation of property.
 
@@ -208,4 +206,4 @@ The approving official may approve a community residential care facility, based 
 
 (iii) The approving official may approve a deviation from the requirements of paragraphs (k)(3)(i) through (ii) of this section upon request from a community residential care facility representative, a resident in the facility, or an applicant for residency, if the approving official determines that the cost of care for the resident will be greater than the average cost of care for other residents, or if the resident chooses to pay more for the care provided at a facility which exceeds VA standards.
 
-(Authority: 38 U.S.C. 1730)(The information collection requirements in this section have been approved by the Office of Management and Budget under control number 2900-0844.)[54 FR 20842, May 15, 1989, as amended at 54 FR 22754, May 26, 1989. Redesignated at 61 FR 21965, May 13, 1996, as amended at 61 FR 63720, Dec. 2, 1996; 69 FR 18803, Apr. 9, 2004; 74 FR 63308, Dec. 3, 2009; 76 FR 10248, Feb. 24, 2011; 82 FR 34415, July 25, 2017]
+(Authority: 38 U.S.C. 1730)(The information collection requirements in this section have been approved by the Office of Management and Budget under control number 2900-0844.)[54 FR 20842, May 15, 1989, as amended at 54 FR 22754, May 26, 1989. Redesignated at 61 FR 21965, May 13, 1996, as amended at 61 FR 63720, Dec. 2, 1996; 69 FR 18803, Apr. 9, 2004; 74 FR 63308, Dec. 3, 2009; 76 FR 10248, Feb. 24, 2011; 82 FR 34415, July 25, 2017; 82 FR 35451, July 31, 2017]
