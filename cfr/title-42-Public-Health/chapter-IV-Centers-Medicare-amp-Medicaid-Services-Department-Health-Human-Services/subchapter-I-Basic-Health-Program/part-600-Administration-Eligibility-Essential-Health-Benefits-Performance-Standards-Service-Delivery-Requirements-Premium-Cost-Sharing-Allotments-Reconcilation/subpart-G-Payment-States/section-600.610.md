@@ -1,5 +1,7 @@
 ##### § 600.610 Secretarial determination of BHP payment amount. #####
 
+Link to an amendment published at 87 FR 77742, Dec. 20, 2022.
+
 (a) *Proposed payment notice.* (1) Beginning in FY 2015 and each subsequent year thereafter, the Secretary will determine and publish in a Federal Register document the next fiscal year's BHP payment methodology. The Secretary will publish this document annually in October upon receiving certification from the Chief Actuary of CMS.
 
 (2) A State may be required to submit data in accordance with the published proposed payment document in order for the Secretary to determine the State's payment rate as described in paragraph (b) of this section.

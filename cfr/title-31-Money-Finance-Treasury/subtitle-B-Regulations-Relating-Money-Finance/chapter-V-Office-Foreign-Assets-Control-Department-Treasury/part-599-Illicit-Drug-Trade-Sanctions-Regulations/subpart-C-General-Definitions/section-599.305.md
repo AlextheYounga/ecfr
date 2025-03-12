@@ -1,0 +1,3 @@
+##### § 599.305 Financial institution. #####
+
+The term *financial institution* includes a depository institution (as defined in section 3(c)(l) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)(l))), including a branch or agency of a foreign bank (as defined in section 1(b)(7) of the International Banking Act of 1978 (12 U.S.C. 3101(7))); a credit union; a securities firm, including a broker or dealer; an insurance company, including an agency or underwriter; and any other company that provides financial services.

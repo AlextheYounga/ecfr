@@ -1,5 +1,7 @@
 ##### § 622.187 Bag and possession limits. #####
 
+Link to an amendment published at 87 FR 77747, Dec. 20, 2022.
+
 (a) *Additional applicability provisions for South Atlantic snapper-grouper.* Section 622.11(a) provides the general applicability for bag and possession limits. However, § 622.11(a) notwithstanding:
 
 (1) The bag and other limits specified in § 622.182(b) apply for South Atlantic snapper-grouper in or from the EEZ to a person aboard a vessel for which a commercial permit for South Atlantic snapper-grouper has been issued that has on board a longline in the longline closed area.
