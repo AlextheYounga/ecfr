@@ -1,10 +1,8 @@
 ##### § 752.604 Procedures. #####
 
-Link to an amendment published at 87 FR 67783, Nov. 10, 2022.
-
 (a) *Statutory entitlements.* An appointee against whom action is proposed under this subpart is entitled to the procedures provided in 5 U.S.C. 7543(b).
 
-(b) *Notice of proposed action.* (1) An appointee against whom an action is proposed is entitled to at least 30 days' advance written notice unless there is an exception pursuant to paragraph (d) of this section. However, to the extent an agency in its sole and exclusive discretion deems practicable, agencies should limit a written notice of an adverse action to the 30 days prescribed in section 7543(b)(1) of title 5, United States Code. Advance notices of greater than 30 days must be reported to the Office of Personnel Management. The notice must state the specific reason(s) for the proposed action, and inform the appointee of his or her right to review the material that is relied on to support the reasons for action given in the notice. The notice must further include detailed information with respect to any right to appeal the action pursuant to section 1097(b) (2) (A) of Public Law 115-91, the forums in which the employee may file an appeal, and any limitations on the rights of the employee that would apply because of the forum in which the employee decides to file.
+(b) *Notice of proposed action.* (1) An appointee against whom an action is proposed is entitled to at least 30 days' advance written notice unless there is an exception pursuant to paragraph (d) of this section. The notice must state the specific reason(s) for the proposed action and inform the appointee of his or her right to review the material that is relied on to support the reasons for action given in the notice. The notice must further include detailed information with respect to any right to appeal the action pursuant to section 1097(b)(2)(A) of Public Law 115-91, the forums in which the employee may file an appeal, and any limitations on the rights of the employee that would apply because of the forum in which the employee decides to file.
 
 (2) Under ordinary circumstances, an appointee whose removal has been proposed will remain in a duty status in his or her regular position during the advance notice period. In those rare circumstances where the agency determines that the appointee's continued presence in the work place during the notice period may pose a threat to the appointee or others, result in loss of or damage to Government property, or otherwise jeopardize legitimate Government interests, the agency may elect one or a combination of the following alternatives:
 
@@ -32,8 +30,6 @@ Link to an amendment published at 87 FR 67783, Nov. 10, 2022.
 
 (2) The notice must specify in writing the reasons for the decision and advise the appointee of any appeal rights under § 752.605 of this part. The agency must deliver the notice of decision to the appointee on or before the effective date of the action.
 
-(3) To the extent practicable, an agency should issue the decision on a proposed removal under this subpart within 15 business days of the conclusion of the employee's opportunity to respond under paragraph (c) of this section.
-
 (h) *Applications for disability retirement.* Section 831.1204(e) of this chapter provides that an appointee's application for disability retirement need not delay any other appropriate personnel action. Section 831.1205 and § 844.202 of this chapter set forth the basis under which an agency must file an application for disability retirement on behalf of an appointee.
 
-[74 FR 63532, Dec. 4, 2009, as amended at 85 FR 65987, Oct. 16, 2020]
+[74 FR 63532, Dec. 4, 2009, as amended at 85 FR 65987, Oct. 16, 2020; 87 FR 67783, Nov. 10, 2022]

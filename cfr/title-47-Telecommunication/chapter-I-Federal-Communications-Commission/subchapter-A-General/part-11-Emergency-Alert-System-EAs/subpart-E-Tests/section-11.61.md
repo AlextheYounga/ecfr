@@ -1,7 +1,5 @@
 ##### § 11.61 Tests of EAS procedures. #####
 
-Link to an amendment published at 87 FR 67826, Nov. 10, 2022.
-
 (a) EAS Participants shall conduct tests at regular intervals, as specified in paragraphs (a)(1) and (a)(2) of this section. Additional tests may be performed anytime. EAS activations and special tests may be performed in lieu of required tests as specified in paragraph (a)(4) of this section.
 
 (1) Required Monthly Tests of the EAS header codes, Attention Signal, Test Script and EOM code.
@@ -11,6 +9,8 @@ Link to an amendment published at 87 FR 67826, Nov. 10, 2022.
 (ii) Effective May 31, 2007, DBS providers must comply with this section by monitoring a state or local primary source to participate in testing. Tests should be performed on 10% of all channels monthly (excluding local-into-local channels for which the monthly transmission tests are passed through by the DBS provider), with channels tested varying from month to month, so that over the course of a given year, 100% of all channels are tested.
 
 (iii) SDARS providers must comply with this section by monitoring a state or local primary source to participate in testing. Tests should be performed on 10% of all channels monthly, with channels tested varying from month to month, so that over the course of a given year, 100% of all channels are tested.
+
+(iv) Upon receipt of an EAS message in the EAS Protocol format with the Required Monthly Test (RMT) event code, an EAS Participant shall follow the steps set forth in § 11.55(c)(1) through(3).
 
 (2) Required Weekly Tests:
 
@@ -28,7 +28,7 @@ Link to an amendment published at 87 FR 67826, Nov. 10, 2022.
 
 (iv) EAS Participants are not required to transmit a video message when transmitting the required weekly test.
 
-(3) *National tests.* (i) All EAS Participants shall participate in national tests as scheduled by the Commission in consultation with the Federal Emergency Management Agency (FEMA). Such tests will consist of the delivery by FEMA to PEP/NP stations of a coded EAS message, including EAS header codes, Attention Signal, Test Script, and EOM code. All other EAS Participants will then be required to relay that EAS message. The coded message shall utilize EAS test codes as designated by the Commission's rules.
+(3) *Nationwide Tests of the Emergency Alert System (NPT) (national tests).* (i) All EAS Participants shall participate in national tests as scheduled by the Commission in consultation with the Federal Emergency Management Agency (FEMA). Such tests will consist of the delivery by FEMA to PEP/NP stations of a coded EAS message, including EAS header codes, Attention Signal, Test Script, and EOM code. All other EAS Participants will then be required to relay that EAS message. The coded message shall utilize EAS test codes as designated by the Commission's rules.
 
 (ii) A national test shall replace the required weekly and monthly tests for all EAS Participants, as set forth in paragraphs (a)(1) and (a)(2) of this section, in the week and month in which it occurs.
 
@@ -56,4 +56,4 @@ Link to an amendment published at 87 FR 67826, Nov. 10, 2022.
 
 (b) Entries shall be made in EAS Participant records, as specified in § 11.35(a) and 11.54(a)(3).
 
-[70 FR 71038, Nov. 25, 2005, as amended at 76 FR 12604, Mar. 8, 2011; 77 FR 16707, Mar. 22, 2012; 80 FR 37177, June 30, 2015; 83 FR 39621, Aug. 10, 2018; 85 FR 30634, May 20, 2020]
+[70 FR 71038, Nov. 25, 2005, as amended at 76 FR 12604, Mar. 8, 2011; 77 FR 16707, Mar. 22, 2012; 80 FR 37177, June 30, 2015; 83 FR 39621, Aug. 10, 2018; 85 FR 30634, May 20, 2020; 87 FR 67826, Nov. 10, 2022]

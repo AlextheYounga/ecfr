@@ -1,7 +1,5 @@
 ##### § 432.102 Coverage. #####
 
-Link to an amendment published at 87 FR 67782, Nov. 10, 2022.
-
 (a) *Actions covered.* This part covers reduction in grade and removal of employees based on unacceptable performance.
 
 (b) *Actions excluded.* This part does not apply to:
@@ -32,9 +30,11 @@ Link to an amendment published at 87 FR 67782, Nov. 10, 2022.
 
 (13) An action that terminates a temporary or term promotion and returns the employee to the position from which temporarily promoted, or to a different position of equivalent grade and pay if the agency informed the employee that it was to be of limited duration;
 
-(14) A termination in accordance with terms specified as conditions of employment at the time the appointment was made; and
+(14) A termination in accordance with terms specified as conditions of employment at the time the appointment was made;
 
-(15) An involuntary retirement because of disability under part 831 of this chapter.
+(15) An involuntary retirement because of disability under part 831 of this chapter; and
+
+(16) An action against a technician in the National Guard concerning any activity under 32 U.S.C. 709(f)(4), except as provided by 32 U.S.C. 709(f)(5).
 
 (c) *Agencies covered.* This part applies to:
 
@@ -90,10 +90,8 @@ Link to an amendment published at 87 FR 67782, Nov. 10, 2022.
 
 (11) A reemployed annuitant;
 
-(12) A technician in the National Guard described in 5 U.S.C. 8337(h)(1), employed under section 709(b) of title 32;
+(12) An individual occupying a position in the excepted service for which employment is not reasonably expected to exceed 120 calendar days in a consecutive 12 month period; and
 
-(13) An individual occupying a position in the excepted service for which employment is not reasonably expected to exceed 120 calendar days in a consecutive 12 month period; and
+(13) A manager or supervisor returned to his or her previously held grade pursuant to 5 U.S.C. 3321 (a)(2) and (b).
 
-(14) A manager or supervisor returned to his or her previously held grade pursuant to 5 U.S.C. 3321 (a)(2) and (b).
-
-[54 FR 26179, June 21, 1989, as amended at 57 FR 10125, Mar. 24, 1992; 57 FR 20042, May 11, 1992; 58 FR 13192, Mar. 10, 1993; 58 FR 65533, Dec. 15, 1993]
+[54 FR 26179, June 21, 1989, as amended at 57 FR 10125, Mar. 24, 1992; 57 FR 20042, May 11, 1992; 58 FR 13192, Mar. 10, 1993; 58 FR 65533, Dec. 15, 1993; 87 FR 67782, Nov. 10, 2022]

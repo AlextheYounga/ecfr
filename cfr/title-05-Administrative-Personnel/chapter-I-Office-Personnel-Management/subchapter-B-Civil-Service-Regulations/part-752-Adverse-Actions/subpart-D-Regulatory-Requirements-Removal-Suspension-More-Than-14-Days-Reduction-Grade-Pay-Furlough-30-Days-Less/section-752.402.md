@@ -1,10 +1,6 @@
 ##### § 752.402 Definitions. #####
 
-Link to an amendment published at 87 FR 67783, Nov. 10, 2022.
-
-In this subpart -
-
-*Business day* means any day other than a Saturday, Sunday, or legal public holiday under 5 U.S.C. 6103(a).
+In this subpart—
 
 *Current continuous employment* means a period of employment or service immediately preceding an adverse action without a break in Federal civilian employment of a workday.
 
@@ -22,4 +18,4 @@ In this subpart -
 
 *Suspension* means the placing of an employee, for disciplinary reasons, in a temporary status without duties and pay for more than 14 days.
 
-[74 FR 63532, Dec. 4, 2009, as amended at 85 FR 65986, Oct. 16, 2020]
+[74 FR 63532, Dec. 4, 2009, as amended at 85 FR 65986, Oct. 16, 2020; 87 FR 67783, Nov. 10, 2022]

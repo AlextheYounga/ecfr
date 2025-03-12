@@ -1,5 +1,7 @@
 ##### § 1222.26 What are the general recordkeeping requirements for agency programs? #####
 
+Link to an amendment published at 87 FR 75931, Dec. 12, 2022.
+
 To ensure the adequate and proper documentation of agency programs, each program must develop recordkeeping requirements that identify:
 
 (a) The record series and systems that must be created and maintained to document program policies, procedures, functions, activities, and transactions;

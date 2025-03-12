@@ -2,7 +2,7 @@
 
 (a) *Applicability.* The aliens in paragraphs (a)(1) through (3) of this section are required to submit a payment in the amount indicated for their status to the Student and Exchange Visitor Program (SEVP) in advance of obtaining nonimmigrant status as an F or M student or J exchange visitor, in addition to any other applicable fees, except as otherwise provided for in this section:
 
-(1) An alien who applies for F-1 or F-3 status in order to enroll in a program of study at an SEVP-certified institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965, as amended, or in a program of study at any other SEVP-certified academic or language training institution, including private elementary and secondary schools and public secondary schools, the amount of $350;
+(1) An alien who applies for F-1 or F-3 status in order to enroll in a program of study at an SEVP-certified institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965, as amended, or in a program of study at any other SEVP-certified academic or language training institution, including private elementary, middle, and secondary schools and public secondary schools, the amount of $350;
 
 (2) An alien who applies for J-1 status in order to commence participation in an exchange visitor program designated by the Department of State, the amount of $220, with a reduced fee for certain exchange visitor categories as provided in paragraphs (b)(1) and (c) of this section; and
 
@@ -14,15 +14,13 @@
 
 (2) Dependents of F, M, or J nonimmigrants. The principal alien must pay the fee, when required under this section, in order for his/her qualifying dependents to obtain F-2, J-2, or M-2 status. However, an F-2, J-2, or M-2 dependent is not required to pay a separate fee under this section in order to obtain that status or during the time he/she remains in that status.
 
-(3) A nonimmigrant described in paragraph (a) of this section whose Form I-20 or Form DS-2019 for initial attendance was issued on or before August 31, 2004.
-
 (c) *Special Fee for Certain J-1 Nonimmigrants.* A J-1 exchange visitor coming to the United States as an au pair, camp counselor, or participant in a summer work/travel program is subject to a fee of $35.
 
 (d) *Time for payment of SEVIS fee.* An alien who is subject to payment of the SEVIS fee must remit the fee directly to DHS as follows:
 
-(1) An alien seeking an F-1, F-3, J-1, M-1, or M-3 visa from a consular officer abroad for initial attendance at a DHS-approved school or to commence participation in a Department of State-designated exchange visitor program, must pay the fee to DHS before issuance of the visa.
+(1) An alien seeking an F-1, F-3, J-1, M-1, or M-3 visa from a consular officer abroad for initial attendance at a an SEVP-certified school or to commence participation in a Department of State-designated exchange visitor program, must pay the fee to DHS before issuance of the visa.
 
-(2) An alien who is exempt from the visa requirement described in section 212(d)(4) of the Act must pay the fee to DHS before the alien applies for admission at a U.S. port-of-entry to begin initial attendance at a DHS-approved school or initial participation in a Department of State-designated exchange visitor program.
+(2) An alien who is exempt from the visa requirement described in section 212(d)(4) of the Act must pay the fee to DHS before the alien applies for admission at a U.S. port-of-entry to begin initial attendance at a an SEVP-certified school or initial participation in a Department of State-designated exchange visitor program.
 
 (3) A nonimmigrant alien in the United States seeking a change of status to F-1, F-3, J-1, M-1, or M-3 must pay the fee to DHS before the alien is granted the change of nonimmigrant status, except as provided in paragraph (e)(4) of this section.
 
@@ -68,7 +66,7 @@
 
 (g) *Procedures for payment of the SEVIS fee* - (1) *Options for payment.* An alien subject to payment of a fee under this section may pay the fee by any procedure approved by DHS, including:
 
-(i) Submission of Form I-901, to DHS by mail, along with the proper fee paid by check, money order, or foreign draft drawn on a financial institution in the United States and payable in United States currency, as provided by 8 CFR 103.7(a)(1);
+(i) Submission of Form I-901, to DHS by mail, along with the proper fee paid by check, money order, or foreign draft drawn on a financial institution in the United States and payable in United States currency, as provided by 8 CFR 103.7(d)(8);
 
 (ii) Electronic submission of Form I-901 to DHS using a credit card or other electronic means of payment accepted by DHS; or,
 
@@ -84,7 +82,7 @@
 
 (3) *Electronic record of fee payment.* DHS will maintain an electronic record of payment for the alien as verification of receipt of the required fee under this section. If DHS records indicate that the fee has been paid, an alien who has lost or did not receive a receipt for a fee payment under this section will not be denied an immigration benefit, including visa issuance or admission to the United States, solely because of a failure to present a paper receipt of fee payment.
 
-(4) *Third-party payments.* DHS will accept payment of the required fee for an alien from an approved school or a designated exchange visitor program sponsor, or from another source, in accordance with procedures approved by DHS.
+(4) *Third-party payments.* DHS will accept payment of the required fee for an alien from a certified school or a designated exchange visitor program sponsor, or from another source, in accordance with procedures approved by DHS.
 
 (h) *Failure to pay the fee.* The failure to pay the required fee is grounds for denial of F, M, or J nonimmigrant status or status-related benefits. Payment of the fee does not preserve the lawful status of any F, J, or M nonimmigrant that has violated his or her status in some other manner.
 
@@ -92,4 +90,4 @@
 
 (2) For purposes of reinstatement to valid J program status, failure to pay the required fee will not be considered a “minor or technical infraction” under 22 CFR 62.45.
 
-[69 FR 39825, July 1, 2004; 69 FR 41388, July 9, 2004, as amended at 73 FR 55704, Sept. 26, 2008; 84 FR 23979, May 23, 2019]
+[69 FR 39825, July 1, 2004; 69 FR 41388, July 9, 2004, as amended at 73 FR 55704, Sept. 26, 2008; 84 FR 23979, May 23, 2019; 87 FR 75911, Dec. 12, 2022]

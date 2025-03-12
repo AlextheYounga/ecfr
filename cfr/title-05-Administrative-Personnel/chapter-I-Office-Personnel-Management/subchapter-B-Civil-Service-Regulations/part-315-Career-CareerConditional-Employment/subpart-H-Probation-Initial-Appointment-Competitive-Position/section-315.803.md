@@ -1,9 +1,7 @@
 ##### § 315.803 Agency action during probationary period (general). #####
 
-Link to an amendment published at 87 FR 67782, Nov. 10, 2022.
-
-(a) The agency shall utilize the probationary period as fully as possible to determine the fitness of the employee and shall terminate his or her services during this period if the employee fails to demonstrate fully his or her qualifications for continued employment. The agency must notify its supervisors that an employee's probationary period is ending three months prior to the expiration of an employee's probationary period, and then again one month prior to the expiration of the probationary period, and advise a supervisor to make an affirmative decision regarding an employee's fitness for continued employment or otherwise take appropriate action. For example, if an employee's probationary period ends on August 15, 2020, the agency must notify the employee's supervisor on May 15, 2020, and then again on July 15, 2020. If the 3-month and 1-month dates fall on a holiday or weekend, agencies must provide notification on the last business day before the holiday or weekend.
+(a) The agency shall utilize the probationary period as fully as possible to determine the fitness of the employee and shall terminate his or her services during this period if the employee fails to demonstrate fully his or her qualifications for continued employment.
 
 (b) Termination of an individual serving a probationary period must be taken in accordance with subpart D of part 752 of this chapter if the individual has completed one year of current continuous service under other than a temporary appointment limited to 1 year or less and is not otherwise excluded by the provisions of that subpart.
 
-[73 FR 7187, Feb. 7, 2008, as amended at 85 FR 65982, Oct. 16, 2020
+[73 FR 7187, Feb. 7, 2008, as amended at 85 FR 65982, Oct. 16, 2020; 87 FR 67782, Nov. 10, 2022]

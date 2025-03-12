@@ -1,5 +1,7 @@
 ##### § 1220.18 What definitions apply to the regulations in Subchapter B? #####
 
+Link to an amendment published at 87 FR 75931, Dec. 12, 2022.
+
 As used in subchapter B -
 
 *Adequate and proper documentation* means a record of the conduct of Government business that is complete and accurate to the extent required to document the organization, functions, policies, decisions, procedures, and essential transactions of the agency and that is designed to furnish the information necessary to protect the legal and financial rights of the Government and of persons directly affected by the agency's activities.

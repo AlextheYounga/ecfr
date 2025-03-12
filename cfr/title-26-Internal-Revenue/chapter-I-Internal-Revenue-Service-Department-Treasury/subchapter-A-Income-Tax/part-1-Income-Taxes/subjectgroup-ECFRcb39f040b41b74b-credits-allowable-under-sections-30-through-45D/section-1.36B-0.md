@@ -1,7 +1,5 @@
 ##### § 1.36B-0 Table of contents. #####
 
-Link to an amendment published at 87 FR 62000, Oct. 13, 2022.
-
 This section lists the captions contained in §§ 1.36B-1 through 1.36B-6.
 
 § 1.36B-1 Premium tax credit definitions.(a) In general.(b) Affordable Care Act.(c) Qualified health plan.(d) Family and family size.(1) In general.(2) Special rule for tax years to which section 151(d)(5) applies.(e) Household income.(1) In general.(2) Modified adjusted gross income.(f) Dependent.(g) Lawfully present.(h) Federal poverty line.(i) [Reserved](j) Advance credit payment.(k) Exchange.(l) Self-only coverage.(m) Family coverage.(n) Rating area.(o) Applicability dates.§ 1.36B-2 Eligibility for premium tax credit.(a) In general.(b) Applicable taxpayer.(1) In general.(2) Married taxpayers must file joint return.(i) In general.(ii) Victims of domestic abuse and abandonment.(iii) Domestic abuse.(iv) Abandonment.(v) Three-year rule.(3) Dependents.(4) Individuals not lawfully present or incarcerated.(5) Individuals lawfully present.(6) Special rule for taxpayers with household income below 100 percent of the Federal poverty line for the taxable year.(i) In general.(ii) Exceptions.(7) Computation of premium assistance amounts for taxpayers with household income below 100 percent of the Federal poverty line.(c) Minimum essential coverage.(1) In general.(2) Government-sponsored minimum essential coverage.(i) In general.(ii) Obligation to complete administrative requirements to obtain coverage.(iii) Special rule for coverage for veterans and other individuals under chapter 17 or 18 of title 38, U.S.C.(iv) Retroactive effect of eligibility determination.(v) Determination of Medicaid or Children's Health Insurance Program (CHIP) ineligibility.(vi) Examples.(3) Employer-sponsored minimum essential coverage.(i) In general.
@@ -10,7 +8,7 @@ This section lists the captions contained in §§ 1.36B-1 through 1.36B-6.
 
 (B) HRAs and other account-based group health plans integrated with individual health insurance coverage.
 
-(ii) Plan year.(iii) Eligibility for months during a plan year.(A) Failure to enroll in plan.(B) Waiting periods.(C) Example.(iv) Post employment coverage.(v) Affordable coverage.(A) In general.(*1*) Affordability for employee.(*2*) Affordability for related individual.(*3*) Employee safe harbor.(*4*) Wellness program incentives.(*5*) Employer contributions to health reimbursement arrangements.(*6*) Employer contributions to cafeteria plans.(*7*) Opt-out arrangements.(B) Affordability for part-year period.(C) Required contribution percentage.(D) Examples.(vi) Minimum value.(vii) Enrollment in eligible employer-sponsored plan.(A) In general.(B) Automatic enrollment.(C) Examples.(4) Special eligibility rules.(i) Related individual.(ii) Exchange unable to discontinue advance credit payments.(A) In general.(B) Medicaid or CHIP.
+(ii) Plan year.(iii) Eligibility for months during a plan year.(A) Failure to enroll in plan.(B) Waiting periods.(C) Example.(iv) Post employment coverage.(v) Affordable coverage.(A) In general.(*1*) Affordability for employee.(*2*) Affordability for related individual.(*3*) Employee safe harbor.(*4*) Wellness program incentives.(*5*) Employer contributions to health reimbursement arrangements.(*6*) Employer contributions to cafeteria plans.(*7*) Opt-out arrangements.(*8*) Multiple offers of coverage.(B) Affordability for part-year period.(C) Required contribution percentage.(D) Examples.(vi) Minimum value.(vii) Enrollment in eligible employer-sponsored plan.(A) In general.(B) Automatic enrollment.(C) Examples.(4) Special eligibility rules.(i) Related individual.(ii) Exchange unable to discontinue advance credit payments.(A) In general.(B) Medicaid or CHIP.
 
 (5) Affordable HRA or other account-based group health plan.
 
@@ -48,6 +46,14 @@ This section lists the captions contained in §§ 1.36B-1 through 1.36B-6.
 
 (a) In general.
 
+(1) Employees.
+
+(2) Related individuals
+
+(i) In general.
+
+(ii) Plans providing MV to employees.
+
 (b) MV standard population.
 
 (c) MV percentage.
@@ -84,6 +90,6 @@ This section lists the captions contained in §§ 1.36B-1 through 1.36B-6.
 
 (1) In general.
 
-(2) Exception.
+(2) Exceptions.
 
-[T.D. 9590, 77 FR 30385, May 23, 2012, as amended by T.D. 9663, 79 FR 26117, May 7, 2014; T.D. 9745, 80 FR 78974, Dec. 18, 2015; T.D. 9604, 81 FR 91763, Dec. 19, 2016; T.D. 9822, 82 FR 34605, July 26, 2017; T.D. 9867, 84 FR 28984, June 20, 2019; T.D. 9912, 85 FR 76978, Dec. 1, 2020]
+[T.D. 9590, 77 FR 30385, May 23, 2012, as amended by T.D. 9663, 79 FR 26117, May 7, 2014; T.D. 9745, 80 FR 78974, Dec. 18, 2015; T.D. 9604, 81 FR 91763, Dec. 19, 2016; T.D. 9822, 82 FR 34605, July 26, 2017; T.D. 9867, 84 FR 28984, June 20, 2019; T.D. 9912, 85 FR 76978, Dec. 1, 2020; T.D. 9968, 87 FR 62000, Oct. 13, 2022]

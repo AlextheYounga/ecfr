@@ -1,10 +1,8 @@
 ##### § 432.105 Proposing and taking action based on unacceptable performance. #####
 
-Link to an amendment published at 87 FR 67782, Nov. 10, 2022.
-
 (a) *Proposing action based on unacceptable performance.*
 
-(1) Once an employee has been afforded a reasonable opportunity to demonstrate acceptable performance pursuant to § 432.104, an agency may propose a reduction-in-grade or removal action if the employee's performance during or following the opportunity to demonstrate acceptable performance is unacceptable in one or more of the critical elements for which the employee was afforded an opportunity to demonstrate acceptable performance. For the purposes of this section, the agency's obligation to provide assistance, under 5 U.S.C. 4302(c)(5), may be discharged through measures, such as supervisory assistance, taken prior to the beginning of the opportunity period in addition to measures taken during the opportunity period. The agency must take some measures to provide assistance during the opportunity period in order to both comply with section 4302(c)(5) and provide an opportunity to demonstrate acceptable performance under 4302(c)(6).
+(1) Once an employee has been afforded a reasonable opportunity to demonstrate acceptable performance pursuant to § 432.104, an agency may propose a reduction-in-grade or removal action if the employee's performance during or following the opportunity to demonstrate acceptable performance is unacceptable in one or more of the critical elements for which the employee was afforded an opportunity to demonstrate acceptable performance.
 
 (2) If an employee has performed acceptably for 1 year from the beginning of an opportunity to demonstrate acceptable performance (in the critical element(s) for which the employee was afforded an opportunity to demonstrate acceptable performance), and the employee's performance again becomes unacceptable, the agency shall afford the employee an additional opportunity to demonstrate acceptable performance before determining whether to propose a reduction in grade or removal under this part.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 67782, Nov. 10, 2022.
 
 (*5*) If agency procedures so require, to consider positions to which the employee might be reassigned or reduced in grade; or
 
-(*6*) To comply with a stay ordered by a member of the Merit Systems Protection Board under 5 U.S.C. 1208(b).
+(*6*) To comply with a stay ordered by a member of the Merit Systems Protection Board under 5 U.S.C. 1214(b)(1)(A) or (B).
 
 (C) If an agency believes that an extension of the advance notice period is necessary for another reason, it may request prior approval for such extension from the Manager, Employee Accountability, Accountability and Workforce Relations, Employee Services, Office of Personnel Management, 1900 E Street NW, Washington, DC 20415.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 87 FR 67782, Nov. 10, 2022.
 
 (b) *Final written decision.* The agency shall make its final decision within 30 days after expiration of the advance notice period. Unless proposed by the head of the agency, such written decision shall be concurred in by an employee who is in a higher position than the person who proposed the action. In arriving at its decision, the agency shall consider any answer of the employee and/or his or her representative furnished in response to the agency's proposal. A decision to reduce in grade or remove an employee for unacceptable performance may be based only on those instances of unacceptable performance that occurred during the 1 year period ending on the date of issuance of the advance notice of proposed action under § 432.105(a)(4)(i). The agency shall issue written notice of its decision to the employee at or before the time the action will be effective. Such notice shall specify the instances of unacceptable performance by the employee on which the action is based and shall inform the employee of any applicable appeal and/or grievance rights.
 
-[54 FR 26179, June 21, 1989. Redesignated and amended at 54 FR 49076, Nov. 29, 1989. Redesignated and amended at 58 FR 65534, Dec. 15, 1993; 85 FR 65982, Oct. 16, 2020]
+[54 FR 26179, June 21, 1989. Redesignated and amended at 54 FR 49076, Nov. 29, 1989. Redesignated and amended at 58 FR 65534, Dec. 15, 1993; 85 FR 65982, Oct. 16, 2020; 87 FR 67782, Nov. 10, 2022]

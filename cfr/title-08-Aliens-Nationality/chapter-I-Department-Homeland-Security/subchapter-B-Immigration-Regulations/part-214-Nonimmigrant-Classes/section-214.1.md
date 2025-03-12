@@ -104,7 +104,7 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (iii) At the time a nonimmigrant alien applies for admission or extension of stay, he or she must post a bond on Form I-352 in the sum of not less than $500, to ensure the maintenance of his or her nonimmigrant status and departure from the United States, if required to do so by the Commissioner of CBP, the Director of U.S. Citizenship and Immigration Services, an immigration judge, or the Board of Immigration Appeals.
 
-(b) *Readmission of nonimmigrants under section 101(a)(15) (F), (J), (M), or (Q)(ii) to complete unexpired periods of previous admission or extension of stay* - (1) *Section 101(a)(15)(F).* The inspecting immigration officer shall readmit for duration of status as defined in § 214.2(f)(5)(iii), any nonimmigrant alien whose nonimmigrant visa is considered automatically revalidated pursuant to 22 CFR 41.125(f) and who is applying for readmission under section 101(a)(15)(F) of the Act, if the alien:
+(b) *Readmission of nonimmigrants under section 101(a)(15) (F), (J), (M), or (Q)(ii) to complete unexpired periods of previous admission or extension of stay* - (1) *Section 101(a)(15)(F).* The inspecting immigration officer shall readmit for duration of status as defined in § 214.2(f)(5)(i), any nonimmigrant alien whose nonimmigrant visa is considered automatically revalidated pursuant to 22 CFR 41.112(d) and who is applying for readmission under section 101(a)(15)(F) of the Act, if the alien:
 
 (i) Is admissible;
 
@@ -112,13 +112,13 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (iii) Is in possession of a valid passport unless exempt from the requirement for presentation of a passport; and
 
-(iv) Presents, or is the accompanying spouse or child of an alien who presents, an Arrival-Departure Record, Form I-94 (see § 1.4), issued to the alien in connection with the previous admission or stay, the alien's Form I-20 ID copy, and either:
+(iv) Presents, or is the accompanying spouse or child of an alien who presents, an Arrival-Departure Record, Form I-94 (see § 1.4 of this chapter), issued to the alien in connection with the previous admission or stay, and either:
 
-(A) A properly endorsed page 4 of Form I-20A-B if there has been no substantive change in the information on the student's most recent Form I-20A since the form was initially issued; or
+(A) A properly endorsed Form I-20 or successor form if there has been no substantive change in the information on the student's most recent Form I-20 or successor form since the form was initially issued; or
 
-(B) A new Form I-20A-B if there has been any substantive change in the information on the student's most recent Form I-20A since the form was initially issued.
+(B) A new Form I-20 or successor form if there has been any substantive change in the information on the student's most recent Form I-20 or successor form since the form was initially issued.
 
-(2) *Section 101(a)(15)(J).* The inspecting immigration officer shall readmit for the unexpired period of stay authorized prior to the alien's departure, any nonimmigrant alien whose nonimmigrant visa is considered automatically revalidated pursuant to 22 CFR 41.125(f) and who is applying for readmission under section 101(a)(15)(J) of the Act, if the alien:
+(2) *Section 101(a)(15)(J).* The inspecting immigration officer shall readmit for the unexpired period of stay authorized prior to the alien's departure, any nonimmigrant alien whose nonimmigrant visa is considered automatically revalidated pursuant to 22 CFR 41.112(d) and who is applying for readmission under section 101(a)(15)(J) of the Act, if the alien:
 
 (i) Is admissible;
 
@@ -126,9 +126,9 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (iii) Is in possession of a valid passport unless exempt from the requirement for the presentation of a passport; and
 
-(iv) Presents, or is the accompanying spouse or child of an alien who presents, Form I-94 issued to the alien in connection with the previous admission or stay or copy three of the last Form IAP-66 issued to the alien. Form I-94 or Form IAP-66 must show the unexpired period of the alien's stay endorsed by the Service.
+(iv) Presents, or is the accompanying spouse or child of an alien who presents, Form I-94 issued to the alien in connection with the previous admission or stay or the last Form DS-“2019 issued to the alien. Form I-94 or Form IAP-66 must show the unexpired period of the alien's stay properly endorsed.
 
-(3) *Section 101(a)(15)(M).* The inspecting immigration officer shall readmit for the unexpired period of stay authorized prior to the alien's departure, any nonimmigrant alien whose nonimmigrant visa is considered automatically revalidated pursuant to 22 CFR 41.125(f) and who is applying for readmission under section 101(a)(15)(M) of the Act, if the alien:
+(3) *Section 101(a)(15)(M).* The inspecting immigration officer shall readmit for the unexpired period of stay authorized prior to the alien's departure, any nonimmigrant alien whose nonimmigrant visa is considered automatically revalidated pursuant to 22 CFR 41.112(d) and who is applying for readmission under section 101(a)(15)(M) of the Act, if the alien:
 
 (i) Is admissible;
 
@@ -190,7 +190,7 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (g) *Criminal activity.* A condition of a nonimmigrant's admission and continued stay in the United States is obedience to all laws of United States jurisdictions which prohibit the commission of crimes of violence and for which a sentence of more than one year imprisonment may be imposed. A nonimmigrant's conviction in a jurisdiction in the United States for a crime of violence for which a sentence of more than one year imprisonment may be imposed (regardless of whether such sentence is in fact imposed) constitutes a failure to maintain status under section 241(a)(1)(C)(i) of the Act.
 
-(h) *Education privacy and F, J, and M nonimmigrants.* As authorized by section 641(c)(2) of Division C of Pub. L. 104-208, 8 U.S.C. 1372, and § 2.1(a) of this chapter, the Service has determined that, with respect to F and M nonimmigrant students and J nonimmigrant exchange visitors, waiving the provisions of the Family Educational Rights and Privacy Act (FERPA), 20 U.S.C. 1232g, is necessary for the proper implementation of 8 U.S.C. 1372. An educational agency or institution may not refuse to report information concerning an F or M nonimmigrant student or a J nonimmigrant exchange visitor that the educational agency or institution is required to report under 8 U.S.C. 1372 and § 214.3(g) (or any corresponding Department of State regulation concerning J nonimmigrants) on the basis of FERPA and any regulation implementing FERPA. The waiver of FERPA under this paragraph authorizes and requires an educational agency or institution to report information concerning an F, J or M nonimmigrant that would ordinarily be protected by FERPA, but only to the extent that 8 U.S.C. 1372 and § 214.3(g) (or any corresponding Department of State regulation concerning J nonimmigrants) requires the educational agency or institution to report information.
+(h) *Education privacy and F, J, and M nonimmigrants.* As authorized by section 641(c)(2) of Division C of Pub. L. 104-208, 8 U.S.C. 1372, and § 2.1 of this chapter, DHS has determined that, with respect to F and M nonimmigrant students and J nonimmigrant exchange visitors, waiving the provisions of the Family Educational Rights and Privacy Act (FERPA), 20 U.S.C. 1232g, is necessary for the proper implementation of 8 U.S.C. 1372. An educational agency or institution may not refuse to report information concerning an F or M nonimmigrant student or a J nonimmigrant exchange visitor that the educational agency or institution is required to report under 8 U.S.C. 1372 and § 214.3(g) (or any corresponding Department of State regulation concerning J nonimmigrants) on the basis of FERPA and any regulation implementing FERPA. The waiver of FERPA under this paragraph authorizes and requires an educational agency or institution to report information concerning an F, J or M nonimmigrant that would ordinarily be protected by FERPA, but only to the extent that 8 U.S.C. 1372 and § 214.3(g) (or any corresponding Department of State regulation concerning J nonimmigrants) requires the educational agency or institution to report information.
 
 (i) *Employment in a health care occupation.* (1) Except as provided in 8 CFR 212.15(n), any alien described in 8 CFR 212.15(a) who is coming to the United States to perform labor in a health care occupation described in 8 CFR 212.15(c) must obtain a certificate from a credentialing organization described in 8 CFR 212.15(e). The certificate or certified statement must be presented to the Department of Homeland Security in accordance with 8 CFR 212.15(d). In the alternative, an eligible alien seeking admission as a nurse may obtain a certified statement as provided in 8 CFR 212.15(h).
 
@@ -210,4 +210,4 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (3) An alien in any authorized period described in paragraph (l) of this section may apply for and be granted an extension of stay under paragraph (c)(4) of this section or change of status under 8 CFR 248.1, if otherwise eligible.
 
-[26 FR 12067, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 214.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[26 FR 12067, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 214.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 87 FR 75902, Dec. 12, 2022, § 214.1 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.

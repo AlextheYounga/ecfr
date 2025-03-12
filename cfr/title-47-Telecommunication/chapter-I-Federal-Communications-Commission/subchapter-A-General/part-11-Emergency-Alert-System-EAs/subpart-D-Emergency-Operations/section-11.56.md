@@ -1,7 +1,5 @@
 ##### § 11.56 Obligation to process CAP-formatted EAS messages. #####
 
-Link to an amendment published at 87 FR 67826, Nov. 10, 2022.
-
 (a) On or by June 30, 2012, EAS Participants must have deployed operational equipment that is capable of the following:
 
 (1) Acquiring EAS alert messages in accordance with the monitoring requirements in § 11.52(d)(2);
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 67826, Nov. 10, 2022.
 
 (c) EAS Participants shall configure their systems to reject all CAP-formatted EAS messages that include an invalid digital signature.
 
-(d) The standards required in this section are incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Federal Communications Commission must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the Federal Communications Commission, located at the address indicated in 47 CFR 0.401(a) (Reference Information Center), and is available from the sources indicated in this paragraph (d). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(d) The material listed in this paragraph (d) is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Federal Communications Commission (FCC) must publish notice of change in the Federal Register and the material must be available to the public. All approved material is available for inspection at the FCC and at the National Archives and Records Administration (NARA). Contact FCC at: the address indicated in 47 CFR 0.401(a) of this chapter (Reference Information Center). For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the following sources in this paragraph (d).
 
 (1) The following standard is available from the EAS-CAP Industry Group (ECIG), 21010 Southbank Street, #365, Sterling, VA 20165, or go to *http://www.eas-cap.org.*
 
@@ -28,4 +26,4 @@ Link to an amendment published at 87 FR 67826, Nov. 10, 2022.
 
 (ii) “Common Alerting Protocol, v. 1.2 USA Integrated Public Alert and Warning System Profile Version 1.0” (Oct. 13, 2009).
 
-[77 FR 16706, Mar. 22, 2012, as amended at 77 FR 26703, May 7, 2012; 83 FR 39621, Aug. 10, 2018; 85 FR 64406, Oct. 13, 2020]
+[77 FR 16706, Mar. 22, 2012, as amended at 77 FR 26703, May 7, 2012; 83 FR 39621, Aug. 10, 2018; 85 FR 64406, Oct. 13, 2020; 87 FR 67826, Nov. 10, 2022]
