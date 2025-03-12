@@ -1,0 +1,3 @@
+##### § 9.7 Settlement. #####
+
+At any time before there has been a final determination by the Commission with respect to any notice of appeal filed in accordance with § 9.20, the parties may file a stipulation for dismissal based on a settlement agreement. Thereupon, the Commission may issue an order terminating the proceeding before the Commission as to the parties to the settlement agreement. The entry of such an order does not affect the Commission's authority under the Act.

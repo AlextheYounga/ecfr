@@ -1,0 +1,3 @@
+##### § 209.13 Delegation of authority. #####
+
+Responsibility for administration and enforcement of this part, with respect to Federal financial assistance administered by another Federal department or agency pursuant to delegation, transfer interagency service agreement, or other arrangement is vested in the head of such department or agency, or his delegate, and subject to such delegations or redelegations as he may make or authorize.

@@ -1,0 +1,3 @@
+##### § 1423.16 Rights of parties. #####
+
+A party shall have the right to appear at any hearing in person, by counsel, or by other representative, and to examine and cross-examine witnesses, and to introduce into the record documentary or other relevant evidence, and to submit rebuttal evidence, except that the participation of any party shall be limited to the extent prescribed by the Administrative Law Judge. Two (2) copies of documentary evidence shall be submitted and a copy furnished to each of the other parties. Stipulations of fact may be introduced in evidence with respect to any issue.

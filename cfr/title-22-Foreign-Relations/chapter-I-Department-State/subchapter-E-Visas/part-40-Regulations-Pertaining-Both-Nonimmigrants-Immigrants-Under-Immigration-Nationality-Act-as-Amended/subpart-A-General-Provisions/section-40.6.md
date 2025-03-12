@@ -1,0 +1,3 @@
+##### § 40.6 Basis for refusal. #####
+
+A visa can be refused only upon a ground specifically set out in the law or implementing regulations. The term “reason to believe”, as used in INA 221(g), shall be considered to require a determination based upon facts or circumstances which would lead a reasonable person to conclude that the applicant is ineligible to receive a visa as provided in the INA and as implemented by the regulations. Consideration shall be given to any evidence submitted indicating that the ground for a prior refusal of a visa may no longer exist. The burden of proof is upon the applicant to establish eligibility to receive a visa under INA 212 or any other provision of law or regulation.

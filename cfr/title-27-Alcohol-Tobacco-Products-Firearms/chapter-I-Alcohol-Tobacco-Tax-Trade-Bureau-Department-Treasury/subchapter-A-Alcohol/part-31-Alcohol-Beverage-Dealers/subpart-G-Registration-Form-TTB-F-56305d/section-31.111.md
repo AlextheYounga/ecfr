@@ -1,0 +1,7 @@
+##### § 31.111 Date registration form is due. #####
+
+(a) *General.* Dealers must register by filing the registration form, TTB Form 5630.5d, before engaging in business and on or before July 1 of each year thereafter. However, as long as none of the information specified on the form has changed since the previous registration form was filed, no additional registration is required. If the registration form is received in the mail and the U.S. postmark on the cover shows that it was deposited in the mail in the United States within the time prescribed for filing in an envelope or other appropriate wrapper that was properly addressed with postage prepaid, the form will be considered as timely filed. If the postmark is not legible, the sender has the burden of proving the date when the postmark was made. When registered mail is used, the date of postal registration will be accepted as the postmark date.
+
+(b) *Transition rule.* Dealers already engaged in business prior to July 1, 2008, must register as an “existing business” unless they had registered, in accordance with regulations in effect at the time of registration, on or after January 1, 2007. This one-time registration is due on or before July 1, 2009.
+
+(26 U.S.C. 6071)

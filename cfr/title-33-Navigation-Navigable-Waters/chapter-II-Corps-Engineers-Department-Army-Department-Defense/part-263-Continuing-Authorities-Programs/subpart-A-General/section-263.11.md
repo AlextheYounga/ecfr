@@ -1,0 +1,3 @@
+##### § 263.11 Applicability and effective date. #####
+
+This regulation is applicable to all OCE elements and all field operating agencies having Civil Works responsibilities. This regulation is effective December 1, 1975, as published in the Federal Register on November 3, 1975 and codified as 33 CFR part 263. The provisions of this regulation are fully applicable to studies commenced and projects initiated after the effective date. For studies underway on the effective date, reporting and approving officers shall fully consider the requirements of this regulation and shall take those actions as necessary to insure that projects are approved on the basis of criteria established by this regulation.

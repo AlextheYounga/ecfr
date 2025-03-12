@@ -1,0 +1,3 @@
+##### § 13.01-10 Gold and silver bars. #####
+
+No person shall receive more than one Gold Lifesaving Medal and one Silver Lifesaving Medal; but any person who has received or may hereafter receive a Gold or Silver Lifesaving Medal and who again performs an act which would entitle him to receive another medal of the same class, may be awarded, in lieu of a second medal of the same class, a gold or silver bar, as the case may be, to be worn with the medal already bestowed, and for every such additional act, an additional bar may be awarded. Gold and silver bars may be awarded posthumously.

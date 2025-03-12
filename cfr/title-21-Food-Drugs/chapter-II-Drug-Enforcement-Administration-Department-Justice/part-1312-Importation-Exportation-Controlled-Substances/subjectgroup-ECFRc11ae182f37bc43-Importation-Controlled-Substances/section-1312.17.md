@@ -1,0 +1,5 @@
+##### § 1312.17 Special report from importers. #####
+
+Whenever requested by the Administrator, importers shall render to him not later than 30 days after receipt of the request therefor a statement under oath of the stocks of controlled substances on hand as of the date specified by the Administrator in his request, and, if desired by the Administrator, an estimate of the probable requirements for legitimate uses of the importer for any subsequent period that may be designated by the Administrator. In lieu of any special statement that may be considered necessary, the Administrator may accept the figures given upon the reports subsequent by said importer under part 1304 of this chapter.
+
+[36 FR 7815, Apr. 24, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973, as amended at 62 FR 13969, Mar. 24, 1997]

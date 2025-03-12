@@ -1,0 +1,3 @@
+##### § 1305.10 Procedure when a decision is not made prior to the time a response is required. #####
+
+If a response to a demand is required before the General Counsel can make the determination referred to above, the General Counsel, when necessary, will provide the court or other competent authority with a copy of this part, inform the court or other competent authority that the demand is being reviewed, and respectfully seek a stay of the demand pending a final determination.

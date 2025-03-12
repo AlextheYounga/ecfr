@@ -1,0 +1,3 @@
+##### § 479.49 Failure to register change or removal. #####
+
+Any person succeeding to and carrying on a business for which special (occupational) tax has been paid without registering such change within 30 days thereafter, and any taxpayer removing his business with respect to which special (occupational) tax has been paid to a place other than that for which tax was paid without obtaining approval therefor (see § 479.46), will incur liability to an additional payment of the tax, addition to tax and interest, as provided in sections 5801, 6651, and 6601, respectively, I.R.C., for failure to make return (see § 479.50) or pay tax, as well as criminal penalties for carrying on business without payment of special (occupational) tax (see section 5871 I.R.C.).

@@ -1,0 +1,3 @@
+##### § 31.21 Basis of regulation. #####
+
+Persons engaging in or carrying on the business or occupation of selling or offering for sale alcoholic liquors fit for use as a beverage, or any alcoholic liquors sold for use as a beverage, are subject to the provisions of this part. The classes of liquor dealer business and the conditions under which the provisions of this part apply to them are specified in §§ 31.31 through 31.34.

@@ -1,0 +1,5 @@
+##### § 110.166 York River, Va., naval anchorage. #####
+
+(a) *The anchorage grounds.* Between Yorktown and the Naval Mine Depot, beginning at latitude 37°15′34″, longitude 76°31′25″; thence to latitude 37°15′25″, longitude 76°31′39.5″; thence to latitude 37°16′21.5″, longitude 76°32′46″; thence to latitude 37°17′07.5″, longitude 76°34′17″; thence to latitude 37°17′55″, longitude 76°35′14.5″; thence to latitude 37°18′05″, longitude 76°35′01″; thence to latitude 37°17′20″, longitude 76°34′07″; thence to latitude 37°16′33.5″, longitude 76°32′34″, and thence to the point of beginning.
+
+(b) *The regulations.* This anchorage is reserved for the exclusive use of naval vessels and except in cases of emergency, no other vessel shall anchor therein without permission from the local naval authorities, obtained through the Captain of the Port, Norfolk, Virginia. Movement of vessels through the anchorage will not be restricted.

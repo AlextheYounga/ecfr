@@ -1,0 +1,7 @@
+##### § 206.3 Procedure in the event of a demand for production or disclosure. #####
+
+(a) Whenever an employee or former employee of the Agency receives a demand for the production of material or the disclosure of information described in § 206.1(a), he shall immediately notify and provide a copy of the demand to the General Counsel or his designee. The General Counsel, or his designee, shall be furnished by the party causing the demand to be issued or served a written summary of the information sought, its relevance to the proceeding in connection with which it was served and why the information sought is unavailable by any other means or from any other sources.
+
+(b) The General Counsel, or his designee, in consultation with appripriate Agency officials, and in light of the considerations listed in § 206.6, will determine whether the person on whom the demand was served should respond to the demand.
+
+(c) To the extent he deems it necessary or appropriate, the General Counsel, or his designee, may also require from the party causing such demand to be issued or served a plan of all reasonably foreseeable demands, including but not limited to names of all employees and former employees from whom discovery will be sought, areas of inquiry, length of time of proceedings requiring oral testimony and identification of documents to be used or whose production is sought.

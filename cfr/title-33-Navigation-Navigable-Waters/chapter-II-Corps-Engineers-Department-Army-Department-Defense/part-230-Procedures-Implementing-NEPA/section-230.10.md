@@ -1,0 +1,7 @@
+##### § 230.10 Environmental Assessments (EA). #####
+
+(a) *Purpose.* An EA is a brief document which provides sufficient information to the district commander on potential environmental effects of the proposed action and, if appropriate, its alternatives, for determining whether to prepare an EIS or a FONSI (40 CFR 1508.9). The district commander is responsible for making this determination and for keeping the public informed of the availability of the EA and FONSI.
+
+(b) *Format.* While no special format is required, the EA should include a brief discussion of the need for the proposed action, or appropriate alternatives if there are unresolved conflicts concerning alternative uses of available resources, of the environmental impacts of the proposed action and alternatives and a list of the agencies, interested groups and the public consulted. The document is to be concise for meaningful review and decision.
+
+(c) *Integration with Corps Reports.* In the case of planning and/or engineering reports not requiring an EIS, the EA may be combined with or integrated into the report. The same guidance on combining or integrating an EIS within the report shall apply equally to an EA. Where the EA is combined with a Corps report or prepared as a separate document in the case of construction, operating projects and real estate actions requiring an EA, the EA normally should not exceed 15 pages.

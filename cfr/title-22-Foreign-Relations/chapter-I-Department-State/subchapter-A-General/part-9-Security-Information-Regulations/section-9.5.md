@@ -1,0 +1,5 @@
+##### § 9.5 Original classification authority. #####
+
+(a) Authority for original classification of information as Top Secret may be exercised by the Secretary and those officials delegated this authority in writing by the Secretary. Such authority has been delegated to the Deputy Secretaries, the Under Secretaries, the Counselor, Assistant Secretaries and equivalents; Chiefs of Mission and U.S. representatives to international organizations; and certain other officers within the Department and at posts abroad.
+
+(b) Authority for original classification of information as Secret or Confidential may be exercised only by the Secretary, the Senior Agency Official, and those officials delegated this authority in writing by the Secretary or the Senior Agency Official. Such authority has been delegated to Deputy Assistant Secretaries, Principal Officers at consulates general and consulates abroad, and certain other officers within the Department and at posts abroad. In the absence of the Secret or Confidential classification authority, the person designated to act for that official may exercise that authority.

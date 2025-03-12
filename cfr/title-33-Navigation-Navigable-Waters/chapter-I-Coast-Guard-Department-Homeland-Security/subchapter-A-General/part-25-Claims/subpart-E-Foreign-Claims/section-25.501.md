@@ -1,0 +1,3 @@
+##### § 25.501 Scope. #####
+
+This subpart prescribes the requirements for the administrative settlement of claims against the United States by a foreign country, political subdivision or inhabitant thereof, for death, personal injury, damage to or loss of property occurring outside the United States, its territories, commonwealths, or possessions, caused by a military member or civilian employee of the Coast Guard, or otherwise incident to noncombat activities of the Coast Guard.

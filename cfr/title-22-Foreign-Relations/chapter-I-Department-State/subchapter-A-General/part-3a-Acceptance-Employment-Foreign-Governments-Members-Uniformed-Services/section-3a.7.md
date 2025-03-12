@@ -1,0 +1,9 @@
+##### § 3a.7 Notification of disapproval and reconsideration. #####
+
+(a) The Director, Bureau of Politico-Military Affairs, will notify the applicant directly when an applicant's proposed foreign employment is disapproved, and will inform the Secretary concerned.
+
+(b) Each notification of disapproval under this section must include a statement of the reasons for the disapproval, with as much specificity as security and foreign policy considerations permit, together with a notice of the applicant's right to seek reconsideration of the disapproval under paragraph (c) of this section.
+
+(c) Within 60 days after receipt of the notice of disapproval, an applicant whose request has been disapproved may submit a request for reconsideration by the Director, Bureau of Politico-Military Affairs. A request for reconsideration should provide information relevant to the reasons set forth in the notice of disapproval.
+
+(d) The disapproval of a request by the Director, Bureau of Politico-Military Affairs, will be final, unless a timely request for reconsideration is received. In the event of a request for reconsideration, the Director, Bureau of Politico-Military Affairs, will make a final decision after reviewing the record of the request. A final decision after reconsideration to approve the applicant's proposed employment with a foreign government will be communicated to the Secretary concerned as provided in § 3a.6. A final decision after reconsideration to disapprove the applicant's proposed employment with a foreign government will be communicated directly to the applicant as provided in paragraph (a) of this section and the Secretary concerned will be informed. The Director's authority to make a final decision after reconsideration may not be redelegated.

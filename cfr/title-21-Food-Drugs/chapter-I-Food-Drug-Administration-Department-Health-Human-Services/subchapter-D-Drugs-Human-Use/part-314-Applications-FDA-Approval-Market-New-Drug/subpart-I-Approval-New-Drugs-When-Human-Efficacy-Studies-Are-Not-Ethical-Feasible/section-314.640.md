@@ -1,0 +1,3 @@
+##### § 314.640 Promotional materials. #####
+
+For drug products being considered for approval under this subpart, unless otherwise informed by the agency, applicants must submit to the agency for consideration during the preapproval review period copies of all promotional materials, including promotional labeling as well as advertisements, intended for dissemination or publication within 120 days following marketing approval. After 120 days following marketing approval, unless otherwise informed by the agency, the applicant must submit promotional materials at least 30 days prior to the intended time of initial dissemination of the labeling or initial publication of the advertisement.

@@ -1,0 +1,3 @@
+##### § 71.128 What constitutes record. #####
+
+The transcript of testimony, pleadings and exhibits, all papers and requests filed in the proceeding, together with all findings, decisions and orders, shall constitute the exclusive record. Where the decision rests on official notice of material fact not appearing in the record, the administrative law judge shall so state in his findings and any party shall, on timely request, be afforded an opportunity to show facts to the contrary.

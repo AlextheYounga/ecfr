@@ -1,0 +1,3 @@
+##### § 822.35 Can you inspect my manufacturing site or other sites involved in my postmarket surveillance plan? #####
+
+We can review your postmarket surveillance programs during regularly scheduled inspections, inspections initiated to investigate recalls or other similar actions, and inspections initiated specifically to review your postmarket surveillance plan. We may also inspect any other person or site involved in your postmarket surveillance, such as investigators or contractors. Any person authorized to grant access to a facility must permit authorized FDA employees to enter and inspect any facility where the device is held or where records regarding postmarket surveillance are held.

@@ -1,0 +1,3 @@
+##### § 37.501 Establish and enforce rules. #####
+
+A swap execution facility shall establish and enforce rules that will allow the swap execution facility to have the ability and authority to obtain sufficient information to allow it to fully perform its operational, risk management, governance, and regulatory functions and any requirements under this part, including the capacity to carry out international information-sharing agreements as the Commission may require.

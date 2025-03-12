@@ -1,0 +1,5 @@
+##### § 478.75 Service on applicant or licensee. #####
+
+All notices and other documents required to be served on an applicant or licensee under this subpart shall be served by certified mail or by personal delivery. Where service is by certified mail, a signed duplicate original copy of the formal document shall be mailed, with return receipt requested, to the applicant or licensee at the address stated in his application or license, or at his last known address. Where service is by personal delivery, a signed duplicate original copy of the formal document shall be delivered to the applicant or licensee, or, in the case of a corporation, partnership, or association, by delivering it to an officer, manager, or general agent thereof, or to its attorney of record.
+
+[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and further redesignated by T.D. ATF-241, 51 FR 39619, Oct. 29, 1986; T.D. ATF-270, 53 FR 10496, Mar. 31, 1988]

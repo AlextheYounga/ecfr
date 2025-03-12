@@ -1,0 +1,7 @@
+##### § 70.192 Action to enforce lien or to subject property to payment of tax. #####
+
+(a) *Civil actions.* In any case where there has been a refusal or neglect to pay any tax (with respect to the provisions of 26 U.S.C. enforced and administered by the Bureau) or to discharge any liability in respect thereof, whether or not levy has been made, the Attorney General or designated delegate at the request of the appropriate TTB officer, may direct a civil action to be filed in any court of the United States to enforce the lien of the United States under the Internal Revenue Code with respect to such tax or liability or to subject any property, of whatever nature, of the delinquent, or in which the delinquent has any right, title or interest, to the payment of such tax or liability. In any such proceeding, at the instance of the United States, the court may appoint a receiver to enforce the lien, or, upon certification by the appropriate TTB officer during the pendency of such proceedings that it is in the public interest, may appoint a receiver with all the powers of a receiver in equity.
+
+(b) *Bid by the United States.* If property is sold to satisfy a first lien held by the United States, the United States may bid at the sale a sum which does not exceed the amount of its lien and the expenses of the sale. See also 31 U.S.C. 3715.
+
+(26 U.S.C. 7403)[T.D. ATF-301, 55 FR 47633, Nov. 14, 1990, as amended by 66 FR 29027, May 29, 2001]

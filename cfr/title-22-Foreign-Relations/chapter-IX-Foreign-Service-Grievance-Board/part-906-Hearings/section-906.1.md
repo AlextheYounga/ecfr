@@ -1,0 +1,3 @@
+##### § 906.1 Decision whether to hold a hearing. #####
+
+After deciding either to accept jurisdiction over a grievance or to postpone decision of that question under § 904.2(a) of this chapter, the Board will make an initial determination of whether a hearing shall be held in accordance with part 906 of this chapter, or whether the grievance shall be resolved without a hearing in accordance with part 907 of this chapter. The Board may reconsider its decision as to holding a hearing upon the written request of any party or on its own initiative.

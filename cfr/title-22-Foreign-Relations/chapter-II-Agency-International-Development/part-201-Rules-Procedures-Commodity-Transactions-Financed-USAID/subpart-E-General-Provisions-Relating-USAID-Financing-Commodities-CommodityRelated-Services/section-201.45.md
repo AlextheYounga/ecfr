@@ -1,0 +1,7 @@
+##### § 201.45 Termination or modification of a loan, grant or implementing document. #####
+
+(a) *Effect of termination or modification.* (1) Except as provided in paragraph (a)(2) of this section, the availability of USAID funds to finance the procurement of commodities and commodity-related services shall terminate or shall be modified, whenever and to the same extent that the implementing document which relates to such delivery is terminated or modified by operation of provisions contained in the document, or by the exercise of rights otherwise reserved to USAID.
+
+(2) Unless the supplier and USAID agree otherwise, to the extent that the supplier has received an irrevocable letter of credit from a bank under an USAID letter of commitment, the purchase contract shall be affected only to the extent necessary to comply with any vesting order issued by USAID in accordance with § 201.44.
+
+(b) *Responsibilities of parties after termination or modification of USAID-financing.* Upon termination or modification of USAID-financing of commodities or commodity-related services, the supplier, importer and approved applicant shall make such arrangements as are necessary to obtain the cancellation or modification of any letter of credit in favor of the supplier.

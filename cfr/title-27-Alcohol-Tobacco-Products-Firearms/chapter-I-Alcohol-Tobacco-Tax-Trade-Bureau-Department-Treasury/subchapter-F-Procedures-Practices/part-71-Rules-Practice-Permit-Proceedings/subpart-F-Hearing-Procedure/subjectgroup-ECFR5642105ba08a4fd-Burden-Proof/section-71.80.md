@@ -1,0 +1,5 @@
+##### § 71.80 Applications. #####
+
+In hearings on the contemplated disapproval of applications there may be incorporated in the record sufficient testimony, reports, affidavits and other documents to be considered only for the limited purpose of establishing probable cause for the issuance of the notice of contemplated disapproval by showing that the appropriate TTB officer had reason to believe that the applicant is not entitled to a permit. The burden of proof shall be upon the applicant to produce evidence to show he is entitled to a permit. The appropriate TTB officer may, instead of following the aforementioned procedure, assume the burden of going forward.
+
+[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-199, 50 FR 9197, Mar. 6, 1985; T.D. ATF-374, 61 FR 29957, June 13, 1996]

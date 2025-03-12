@@ -1,0 +1,5 @@
+##### § 401.6 Exemption for branches and agencies of foreign banks that deal solely with non-United States citizens resident offshore. #####
+
+(a) Subject to the requirements of paragraph (b) of this section, a branch or agency of a foreign bank shall be exempt from the provisions of section 15C (a), (b), and (d) of the Act (15 U.S.C. 78o-5 (a), (b), (d)) and the regulations of this subchapter, if all the customers with or on behalf of whom it engages in government securities transactions are limited to foreign governments, agencies of foreign governments and other persons and entities who are not citizens of the United States and who reside or, in the case of a corporation, partnership or other entity, have their principal place of business, outside of the United States.
+
+(b) A branch or agency that relies on the exemption contained in paragraph (a) of this section is required to comply with the regulations of part 450 of this chapter concerning custodial holdings of government securities.

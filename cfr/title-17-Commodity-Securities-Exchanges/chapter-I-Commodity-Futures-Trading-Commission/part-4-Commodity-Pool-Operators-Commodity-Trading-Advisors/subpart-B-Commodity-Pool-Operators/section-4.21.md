@@ -1,0 +1,9 @@
+##### § 4.21 Required delivery of pool Disclosure Document. #####
+
+(a)(1) Subject to the provisions of paragraph (a)(2) of this section, each commodity pool operator registered or required to be registered under the Act must deliver or cause to be delivered to a prospective participant in a pool that it operates or intends to operate a Disclosure Document for the pool prepared in accordance with §§ 4.24 and 4.25 by no later than the time it delivers to the prospective participant a subscription agreement for the pool; *Provided,* That any information distributed in advance of the delivery of the Disclosure Document to a prospective participant is consistent with or amended by the information contained in the Disclosure Document and with the obligations of the commodity pool operator under the Act, the Commission's regulations issued thereunder, and the laws of any other applicable federal or state authority; *Provided, further,* That in the event such previously distributed information is amended by the Disclosure Document in any material respect, the prospective participant must be in receipt of the Disclosure Document at least 48 hours prior to its subscription being accepted by the pool operator.
+
+(2) For the purpose of the Disclosure Document delivery requirement, including any offering memorandum delivered pursuant to § 4.7(b)(1) or 4.12(b)(2)(i), the term “prospective pool participant” does not include a commodity pool operated by a pool operator that is the same as, or that controls, is controlled by, or is under common control with, the pool operator of the offered pool.
+
+(b) [Reserved]
+
+[60 FR 38183, July 25, 1995, as amended at 62 FR 39115, July 22, 1997; 65 FR 58649, Oct. 2, 2000; 68 FR 47234, Aug. 8, 2003; 78 FR 52333, Aug. 22, 2013]

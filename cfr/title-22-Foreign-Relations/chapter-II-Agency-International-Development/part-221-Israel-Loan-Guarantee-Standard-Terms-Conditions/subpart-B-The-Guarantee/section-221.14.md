@@ -1,0 +1,3 @@
+##### § 221.14 Transferability of Guarantee; Note Register. #####
+
+A Noteholder may assign, transfer or pledge an Eligible Note to any Person. Any such assignment, transfer or pledge shall be effective on the date that the name of the new Noteholder is entered on the Note Register required to be maintained by the Fiscal Agent pursuant to the Fiscal Agency Agreement. A.I.D. shall be entitled to treat the Persons in whose names the Eligible Notes are registered as the owners thereof for all purposes of this Guarantee and A.I.D. shall not be affected by notice to the contrary.

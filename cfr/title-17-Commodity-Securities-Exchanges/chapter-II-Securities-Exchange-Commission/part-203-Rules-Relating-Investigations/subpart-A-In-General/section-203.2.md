@@ -1,0 +1,5 @@
+##### § 203.2 Information obtained in investigations and examinations. #####
+
+Information or documents obtained by the Commission in the course of any investigation or examination, unless made a matter of public record, shall be deemed non-public, but the Commission approves the practice whereby officials of the Divisions of Enforcement, Corporation Finance, Market Regulation and Investment Management and the Office of International Affairs at the level of Assistant Director or higher, and officials in Regional Offices at the level of Assistant Regional Director or higher, may engage in and may authorize members of the Commission's staff to engage in discussions with persons identified in § 240.24c-1(b) of this chapter concerning information obtained in individual investigations or examinations, including formal investigations conducted pursuant to Commission order.
+
+[58 FR 52419, Oct. 8, 1993, as amended at 59 FR 5945, Feb. 9, 1994; 73 FR 32227, June 5, 2008]

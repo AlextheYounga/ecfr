@@ -1,0 +1,3 @@
+##### § 228.20 Purpose. #####
+
+Sections 228.21 through 228.24 of this part set forth the rules governing the eligibility of commodity-related services, both delivery services and incidental services, for USAID financing. These rules, except for §§ 228.21 and 228.22, may be waived in accordance with the provisions in subpart D of this part. The rules on delivery services apply whether or not USAID is also financing the commodities being transported. In order to be identified and eligible as incidental services, such services must be connected with a USAID-financed commodity procurement.

@@ -1,0 +1,9 @@
+##### § 96.25 Access to information and documents requested by the accrediting entity. #####
+
+(a) The agency or person must give the accrediting entity access to information and documents, including adoption case files and proprietary information, that it requires or requests to evaluate an agency or person for accreditation or approval and to perform its oversight, enforcement, renewal, data collection, and other functions. The agency or person must also cooperate with the accrediting entity by making employees available for interviews upon request.
+
+(b) Accrediting entity review of adoption case files pursuant to paragraph (a) shall be limited to Convention adoption case files and cases subject to the UAA, except that, in the case of first-time applicants for accreditation or approval, the accrediting entity may review adoption case files related to other non-Convention cases for purposes of assessing the agency's or person's capacity to comply with record-keeping and data-management standards in subpart F of this part. The accrediting entity shall permit the agency or person to redact names and other information that identifies birth parent(s), prospective adoptive parent(s), and adoptee(s) from such non-Convention adoption case files not subject to the UAA prior to their inspection by the accrediting entity.
+
+(c) If an agency or person fails to provide requested documents or information, or to make employees available as requested, the accrediting entity may deny accreditation or approval or, in the case of an accredited agency or approved person, take appropriate adverse action against the agency or person solely on that basis.
+
+[71 FR 8131, Feb. 15, 2006, as amended at 79 FR 40634, July 14, 2014]

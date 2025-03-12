@@ -1,0 +1,5 @@
+##### § 19.257 Imported spirits. #####
+
+The proprietor will incur a tax liability greater than the internal revenue tax imposed by 26 U.S.C. 5001(a)(1), if spirits originally imported for nonbeverage purposes are transferred from customs custody to TTB bonded premises pursuant to 26 U.S.C. 5232, and the proprietor subsequently decides to withdraw the spirits for beverage purposes. If the spirits would have been subject to a higher duty had they been imported for beverage purpose, the proprietor must pay a tax equal to the difference between the higher duty and the duty actually paid. Proprietors will refer to this additional tax as “additional tax—less duty” and pay it at the same time and in the same manner as the distilled spirits excise tax. Proprietors must compute the amount of “additional tax—less duty” owed by applying this rate to the total quantity of proof gallons withdrawn. The proprietor must make a separate entry on the tax return labeled “additional tax—less duty” and show the amount of tax due.
+
+(26 U.S.C. 5001)

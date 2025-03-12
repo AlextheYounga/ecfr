@@ -1,0 +1,3 @@
+##### § 1316.33 Conduct of proceeding. #####
+
+Presentation of views at a hearing under this subpart shall be private and informal. The views presented shall be confined to matters relevant to bringing violations into compliance with the Act or to other contemplated proceedings under the Act. These views may be presented orally or in writing by the person to whom the notice was given, or by his authorized representative.

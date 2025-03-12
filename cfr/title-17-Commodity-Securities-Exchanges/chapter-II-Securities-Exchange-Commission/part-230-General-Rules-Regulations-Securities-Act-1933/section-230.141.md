@@ -1,0 +1,9 @@
+##### § 230.141 Definition of “commission from an underwriter or dealer not in excess of the usual and customary distributors' or sellers' commissions” in section 2(11), for certain transactions. #####
+
+(a) The term *commission* in section 2(11) of the Act shall include such remuneration, commonly known as a spread, as may be received by a distributor or dealer as a consequence of reselling securities bought from an underwriter or dealer at a price below the offering price of such securities, where such resales afford the distributor or dealer a margin of profit not in excess of what is usual and customary in such transactions.
+
+(b) The term *commission from an underwriter or dealer* in section 2(11) of the Act shall include commissions paid by an underwriter or dealer directly or indirectly controlling or controlled by, or under direct or indirect common control with the issuer.
+
+(c) The term *usual and customary distributors' or sellers' commission* in section 2(11) of the Act shall mean a commission or remuneration, commonly known as a spread, paid to or received by any person selling securities either for his own account or for the account of others, which is not in excess of the amount usual and customary in the distribution and sale of issues of similar type and size; and not in excess of the amount allowed to other persons, if any, for comparable service in the distribution of the particular issue; but such term shall not include amounts paid to any person whose function is the management of the distribution of all or a substantial part of the particular issue, or who performs the functions normally performed by an underwriter or underwriting syndicate.
+
+[2 FR 1075, May 26, 1937]

@@ -1,0 +1,3 @@
+##### § 38.603 Protection of customer funds. #####
+
+A designated contract market must have rules concerning the protection of customer funds. These rules shall address appropriate minimum financial standards for intermediaries, the segregation of customer and proprietary funds, the custody of customer funds, the investment standards for customer funds, intermediary default procedures and related recordkeeping. A designated contract market must review the default rules and procedures of the derivatives clearing organization that clears for such designated contract market to wind down operations, transfer customers, or otherwise protect customers in the event of a default of a clearing member or the derivatives clearing organization.

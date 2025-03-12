@@ -1,0 +1,7 @@
+##### § 96.76 Procedures governing adverse action by the accrediting entity. #####
+
+(a) The accrediting entity must decide which adverse action to take based on the seriousness and type of violation and on the extent to which the accredited agency or approved person has corrected or failed to correct deficiencies of which it has been previously informed. The accrediting entity must notify an accredited agency or approved person in writing of its decision to take an adverse action against the agency or person. The accrediting entity's written notice must identify the deficiencies prompting imposition of the adverse action.
+
+(b) Before taking adverse action, the accrediting entity may, in its discretion, advise an accredited agency or approved person in writing of any deficiencies in its performance that may warrant an adverse action and provide it with an opportunity to demonstrate that an adverse action would be unwarranted before the adverse action is imposed. If the accrediting entity takes the adverse action without such prior notice, it must provide a similar opportunity to demonstrate that the adverse action was unwarranted after the adverse action is imposed, and may withdraw the adverse action based on the information provided.
+
+(c) The provisions in §§ 96.25 and 96.26 govern requests for and use of information.

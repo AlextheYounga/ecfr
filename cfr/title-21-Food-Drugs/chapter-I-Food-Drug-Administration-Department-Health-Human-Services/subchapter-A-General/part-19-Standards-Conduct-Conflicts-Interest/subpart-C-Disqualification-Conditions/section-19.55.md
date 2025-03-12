@@ -1,0 +1,3 @@
+##### § 19.55 Permanent disqualification of former employees. #####
+
+No former Food and Drug Administration employee, including a special government employee, shall knowingly act as agent or attorney for anyone other than United States in connection with any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, or other particular matter involving a specific party or parties in which the United States is a party or has a direct and substantial interest and in which he participated personally and substantially through decision, approval, disapproval, recommendation, rendering of advice, investigation, or otherwise as a Food and Drug Administration employee.

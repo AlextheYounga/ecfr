@@ -1,0 +1,3 @@
+##### § 290.5 Drugs; statement of required warning. #####
+
+The label of any drug listed as a “controlled substance” in schedule II, III, or IV of the Federal Controlled Substances Act shall, when dispensed to or for a patient, contain the following warning: “Caution: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.” This statement is not required to appear on the label of a controlled substance dispensed for use in clinical investigations which are “blind.”

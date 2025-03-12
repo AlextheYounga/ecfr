@@ -1,0 +1,5 @@
+##### § 70.141 Lien for taxes. #####
+
+If any person liable to pay any tax under provisions of 26 U.S.C. enforced and administered by the Bureau neglects or refuses to pay the same after demand, the amount (including any interest, additional amount, addition to tax, or assessable penalty, together with any costs that may accrue in addition thereto) shall be a lien in favor of the United States upon all property and rights to property, whether real or personal, tangible or intangible, belonging to such person. The lien attaches to all property and rights to property belonging to such person at any time during the period of the lien, including any property or rights to property acquired by such person after the lien arises. Solely for purposes of this section and §§ 70.161 and 70.162 of this part, any interest in restricted land held in trust by the United States for an individual noncompetent Indian (and not for a tribe) shall not be deemed to be property, or a right to property, belonging to such Indian.
+
+(26 U.S.C. 6321)

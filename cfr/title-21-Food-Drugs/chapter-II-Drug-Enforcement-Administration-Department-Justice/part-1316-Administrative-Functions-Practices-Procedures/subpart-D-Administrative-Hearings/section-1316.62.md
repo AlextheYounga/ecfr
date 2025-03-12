@@ -1,0 +1,3 @@
+##### § 1316.62 Appeal from ruling of presiding officer. #####
+
+Rulings of the presiding officer may not be appealed to the Administrator prior to his consideration of the entire hearing, except with the consent of the presiding officer and where he certifies on the record or in writing that the allowance of an interlocutory appeal is clearly necessary to prevent exceptional delay, expense, or prejudice to any party or substantial detriment to the public interest. If an appeal is allowed, any party in the hearing may file a brief in quintuplicate with the Administrator within such period that the presiding officer directs. No oral argument will be heard unless the Administrator directs otherwise.

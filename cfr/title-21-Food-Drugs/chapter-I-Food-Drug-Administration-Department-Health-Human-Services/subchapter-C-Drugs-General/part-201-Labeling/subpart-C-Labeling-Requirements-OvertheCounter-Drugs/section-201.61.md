@@ -1,0 +1,7 @@
+##### § 201.61 Statement of identity. #####
+
+(a) The principal display panel of an over-the-counter drug in package form shall bear as one of its principal features a statement of the identity of the commodity.
+
+(b) Such statement of identity shall be in terms of the established name of the drug, if any there be, followed by an accurate statement of the general pharmacological category(ies) of the drug or the principal intended action(s) of the drug. In the case of an over-the-counter drug that is a mixture and that has no established name, this requirement shall be deemed to be satisfied by a prominent and conspicuous statement of the general pharmacological action(s) of the mixture or of its principal intended action(s) in terms that are meaningful to the layman. Such statements shall be placed in direct conjunction with the most prominent display of the proprietary name or designation and shall employ terms descriptive of general pharmacological category(ies) or principal intended action(s); for example, “antacid,” “analgesic,” “decongestant,” “antihistaminic,” etc. The indications for use shall be included in the directions for use of the drug, as required by section 502(f)(1) of the act and by the regulations in this part.
+
+(c) The statement of identity shall be presented in bold face type on the principal display panel, shall be in a size reasonably related to the most prominent printed matter on such panel, and shall be in lines generally parallel to the base on which the package rests as it is designed to be displayed.

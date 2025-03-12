@@ -1,0 +1,7 @@
+##### § 22.113 Receipt of tax-free alcohol. #####
+
+(a) When tax-free alcohol is received, it shall be placed in the storage facilities prescribed by § 22.91 and kept there under lock until withdrawn for use. Unless required by city or State fire code regulations or authorized by the appropriate TTB officer or the terms of the permit, the permittee may not remove tax-free alcohol from the original packages or containers in which received until the alcohol is withdrawn for use. If the tax-free alcohol is transferred to “safety” containers in accordance with fire code regulations, the containers to which they are transferred shall be appropriately marked to identify the package from which transferred, the quantity transferred, the date of transfer, and the name and address of the vendor.
+
+(b) When tax-free alcohol is received, the permittee shall ascertain and account for any losses in transit in accordance with subpart I of this part. The permittee shall note any loss or deficiency in the shipment on the record of receipt.
+
+(c) Records of receipt shall consist of the consignors invoice or bill. Records of receipt may be filed in accordance with the permittee's own filing system as long as it does not cause inconvenience to appropriate TTB officers desiring to examine the records. The filing system shall systematically and accurately account for the receipt of all tax-free alcohol.

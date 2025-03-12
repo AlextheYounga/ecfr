@@ -1,0 +1,3 @@
+##### § 6.26 Indirect interest. #####
+
+Industry member interest in retail licenses includes any interest acquired by corporate officials, partners, employees or other representatives of the industry member. Any interest in a retail license acquired by a separate corporation in which the industry member or its officials, hold ownership or are otherwise affiliated, is an interest in a retail license.

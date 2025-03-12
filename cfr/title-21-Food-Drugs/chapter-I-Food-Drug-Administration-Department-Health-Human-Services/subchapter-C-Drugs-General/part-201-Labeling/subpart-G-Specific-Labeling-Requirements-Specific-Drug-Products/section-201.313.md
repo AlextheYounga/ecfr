@@ -1,0 +1,3 @@
+##### § 201.313 Estradiol labeling. #####
+
+The article presently recognized in The National Formulary under the heading “Estradiol” and which is said to be “17-cis-beta estradiol” is the same substance formerly recognized in the United States Pharmacopeia under the designation “Alpha Estradiol.” The substance should no longer be referred to in drug labeling as “Alpha Estradiol.” The Food and Drug Administration would not object to label references to the article as simply “Estradiol”; nor would it object if the label of a preparation containing this substance referred to the presence of “Estradiol (formerly known as Alpha Estradiol).”

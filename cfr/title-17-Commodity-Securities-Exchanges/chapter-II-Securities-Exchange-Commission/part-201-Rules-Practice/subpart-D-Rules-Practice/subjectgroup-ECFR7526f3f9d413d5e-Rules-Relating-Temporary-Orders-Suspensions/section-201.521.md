@@ -1,0 +1,15 @@
+##### § 201.521 Suspension of registration of brokers, dealers, or other Exchange Act-registered entities: Notice and opportunity for hearing on application. #####
+
+(a) *How given.* Notice of an application to suspend a registration pursuant to § 201.520 shall be made by serving a notice of hearing and order to show cause pursuant to § 201.141(b) or, where timely service of a notice of hearing pursuant to § 201.141(b) is not practicable, by any other means reasonably calculated to give actual notice that a hearing will be held, including telephonic notification of the general subject matter, time, and place of the hearing.
+
+(b) *Hearing: before whom held.* Except as provided in paragraph (d) of this section, hearings on an application to suspend a registration pursuant to § 201.520 shall be held before the Commission.
+
+(c) *Presiding officer: designation.* The Chairman shall preside or designate a Commissioner to preside at the hearing. If the Chairman is absent or unavailable at the time of hearing and no other Commissioner has been designated to preside, the duty officer on the day the hearing begins shall preside or designate another Commissioner to preside.
+
+(d) *Procedure at hearing.* (1) The presiding officer shall have all those powers of a hearing officer set forth in § 201.111 and shall rule on the admissibility of evidence and other procedural matters, including, but not limited to whether oral testimony will be heard; the time allowed each party for the submission of evidence or argument; and whether post-hearing submission of briefs, proposed findings of fact and conclusions of law will be permitted and if so, the procedures for submission; provided, however, that the person presiding may consult with other Commissioners participating in the hearing on these or any other question of procedure.
+
+(2) Each Commissioner present at the hearing shall be afforded a reasonable opportunity to ask questions of witnesses, if any, or counsel.
+
+(3) A party or witness may participate by telephone. Alternative means of remote access, including a video link, shall be permitted in the Commission's discretion. Factors the Commission may consider in determining whether to permit alternative means of remote access include, but are not limited to, whether allowing an alternative means of access will delay the hearing, whether the alternative means is reliable, and whether the party proposing its use has made arrangements to pay for its cost.
+
+(4) After a hearing has begun, the Commission may, on its own motion or the motion of a party, assign a hearing officer to preside at the taking of oral testimony or other evidence and to certify the record of such testimony or other evidence to the Commission within a fixed period of time. No recommended or initial decision shall be made.

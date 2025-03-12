@@ -1,0 +1,57 @@
+##### § 334.140 Chesapeake Bay; U.S. Army Proving Ground Reservation, Aberdeen, Md. #####
+
+(a) *Restricted area defined.* The following indicates the limits of the waters of or adjacent to the Aberdeen Proving Ground, Maryland, and inside of which boundaries will lie the restricted area known as the Aberdeen Proving Ground, Maryland.
+
+(1) Beginning at a point on the westerly side of Chesapeake Bay, at the south side of the mouth of Swan Creek, Harford County, Maryland, the most northerly point of the reservation known as Plum Point; thence southeasterly along the low water mark on the shore of Chesapeake Bay to and across the north entrance of Spesutie Narrows to and thence along the low water mark on the north shore of Spesutie Island to Locust Point; thence along straight line from Locust Point to Turkey Point for a distance of approximately 1,400 yards; thence following a line parallel with and 1,000 yards from the low water mark on the easterly shore of Spesutie Island to a point 1,000 yards due southeast of Sandy Point; thence approximately southwest in a straight line to a point approximately 1,250 yards S. 10°30′ W. from Bear Point; thence approximately 9,275 yards S. 51°04′ W. to a point in Chesapeake Bay about 1,700 yards due east from Taylor Island Point; thence southwesterly in a straight course, except such variations as may be necessary to include all of Pooles Island to the southwesterly point of Pooles Island, thence in a northwesterly direction to the most southwesterly point of Spry Island, including all of Spry Island; thence northwesterly in a straight line to extreme southerly island off Lower Island Point; thence northwesterly in a straight line through Brier Point to a point in Seneca Creek where this line intersects a straight line which passes through monuments No. 124 and No. 125 on westerly part of Carroll Island; thence northeasterly in a straight line passing through Marshy Point, at the junction of Dundee Creek and Saltpeter Creek, to the intersection of the center line of Reardon Inlet with Gunpowder River, except such variations as may be necessary to exclude any and all parts of the point of land on the westerly side of Gunpowder River about one mile south of Oliver Point; thence northerly along the center line of Reardon Inlet to its intersection with the southeasterly line of the right of way of the Pennsylvania Railroad; thence northeast along the Pennsylvania Railroad following the reservation boundary line to shore of Bush River, and along its western shore to Fairview Point; thence northeast in a straight line across Bush River to concrete monument No. 64, located on the eastern shore of Bush River, south of Chelsea; thence along the eastern shore of Bush River northerly to the mouth of Sod Run; thence by a broken line along the boundary of the reservation to Swan Creek; and thence in a straight line to Plum Point. (The above description may be traced on Coast and Geodetic Chart No. 1226).
+
+(b) *Authority delegated Commanding Officer.* The Commanding Officer, Aberdeen Proving Ground, has been delegated the authority by the Secretary of the Army to designate from time to time by suitably posted bulletins or announcements, the conditions under which the public, including food fishermen and crabbers, may enter restricted waters of the Aberdeen Proving Ground.
+
+(c) *Penalty.* All persons who enter the restricted waters, except as authorized in this section, without the authority of the Commanding Officer, Aberdeen Proving Ground, Md., are under the terms of the information given above, guilty of a misdemeanor and upon conviction thereon are punishable by a fine not exceeding $500 or by imprisonment not exceeding 6 months.
+
+(d) *Entrance into restricted waters by the public.* (1) The following water areas are closed to the public at all times:
+
+(i) Supesutie Narrows—all waters north and east of a line between Bear Point and Black Point;
+
+(ii) All creeks except Landerick Creek;
+
+(iii) The water adjacent to Carroll Island which lies between Brier Point and Lower Island Point also known as Hawthorne Cove;
+
+(iv) The waters immediately off the mouth of Romney Creek;
+
+(v) The waters adjacent to Abbey Point Recovery Field more accurately described as area number 16; depicted in Aberdeen Proving Ground Regulation 210-10, Appendix A.
+
+(vi) The waters on the north side of the Bush River from Pond Point to Chelsea Chimney are closed for fishing purposes.
+
+(2) The remainder of the restricted areas will normally be open for authorized use (including navigation and fishing) during the following hours:
+
+(i) Monday through Thursday, 5 p.m. to 7:30 a.m.;
+
+(ii) Weekends, 5 p.m. Friday to 7:30 a.m. Monday;
+
+(iii) National (not state) holidays, 5 p.m. the day preceding the holiday to 7:30 a.m. the day following the holiday.
+
+(3) When requirements of tests, as determined by the Commanding Officer, Aberdeen Proving Ground, or his designee, necessitate closing the restricted areas during the aforementioned times and days, the Commanding Officer, Aberdeen Proving Ground, will publish appropriate circulars or cause to be broadcast over local radio stations notices informing the public of the time and days which entrance to the restricted waters of Aberdeen Proving Ground by the general public will be prohibited.
+
+(4) A fleet of patrol boats will be positioned at the perimeter of the restricted water zone boundaries (except in extreme weather conditions such as gales or ice) during periods of testing to prevent unauthorized entry. If necessary to attract attention of another vessel about to penetrate the restricted area, the patrol boat may operate a distinctive rotating blue and red light, public address system, sound a siren, or by radio contact on shipshore FM channel 16 and citizen band channel 12. Buoys will mark the restricted waters along the Chesapeake Bay perimeter during the period, normally 4 June through 1 October annually.
+
+(5) *Authorized use.* Authorized use as used in this section is defined as fishing from a vessel, navigation using a vessel to traverse a water area or anchoring a vessel in a water area. Any person who touches any land, or docks or grounds a vessel, within the boundaries of Aberdeen Proving Ground, Maryland, is not using the area for an authorized use and is in violation of this regulation. Further, water skiing in the water area of Aberdeen Proving Ground is permitted as an authorized use when the water area is open for use by the general public providing that no water skier touches any land, either dry land (fast land) or subaqueous land and comes no closer than 200 meters from any shoreline. Further, if any person is in the water area of Aberdeen Proving Ground, Maryland, outside of any vessel (except for the purposes of water skiing as outlined above) including, but not limited to, swimming, scuba diving, or other purpose, that person is not using the water in an authorized manner and is in violation of this regulation.
+
+(e) *Entry onto land and limitation of firing over land.* (1) Entry onto any land, either dry land (fast land) or subaqueous land, within the boundaries of the Aberdeen Proving Ground Reservation as defined in paragraph (a)(1) of this section is prohibited at all times. Provided, the Commander, Aberdeen Proving Ground, is authorized to grant exceptions to this regulation either by written permission or by local regulation. Entry onto the land is punishable as in paragraph (c) of this section.
+
+(2) There are no limitations on test firing by Federal testing facilities at Aberdeen Proving Ground over land belonging to Aberdeen Proving Ground.
+
+(f) *Permits required from the Commanding Officer to set fixed nets in restricted waters.* (1) Fishermen and crabbers desiring to set fixed nets within the restricted waters of Aberdeen Proving Ground Reservation are required in every instance to have a written permit. A fixed net for the purpose of this paragraph is defined as a pound net, staked gill net, hedge fike net, hoop net, eel pot, crab pot, and all other types of nets fastened by means of poles, stakes, weights, or anchors. Permits to fish and crab within the restricted waters of Aberdeen Proving Ground may be obtained by written application to the Commanding Officer, Department of the Army, Aberdeen Proving Ground, Attention: Provost Marshall Division, Aberdeen Proving Ground, Md. Applicants for permits must state the location at which they desire to set fixed nets and state the period of time for which they desire the permit to cover. Nets placed in the restricted waters are subject to damage by gunfire and bombing, and the risk of such damage will be assumed by the holder of the permit.
+
+(2) Holders of permits for setting fixed nets must comply with the provisions of this part and also with § 206.50(d) of this chapter.
+
+(g) *Identification signs required at each location of fixed nets.* Fishermen and crabbers who have been granted permits to fish or crab within the restricted waters of Aberdeen Proving Ground Reservation with fixed nets must at each location have a stake securely driven at the outer end of the line of nets on which is mounted a sign board which contains their name and permit number. All stakes set within the restricted area established by this regulation will project at least three (3) feet above the surface of the water at all ordinary high stages of the tide. Nets and other fishing and crabbing structures erected will be marked by stakes set at intervals not greater than fifty (50) feet. Fishing and crabbing structures erected in Aberdeen Proving Ground waters will be plainly marked on both ends, and will be lighted with a white light between sunset and sunrise, by and at the expense of the owner.
+
+(h) *Removal of pound net poles and/or stakes.* At the end of the fishing and crabbing season, fishermen and crabbers must remove and haul away from the location all pound nets, pots, poles or stakes used in their operation. Pound net poles or stakes must not be cast adrift after removal.
+
+(i) *Restrictions on fishermen and crabbers.* It must be distinctly understood that holders of permits to fish or crab are not authorized to enter the restricted waters of Aberdeen Proving Ground Reservation outside the hours as announced by the Commanding Officer, Aberdeen Proving Ground. In addition, the privileges granted in this paragraph include no right to land nor to cut or procure pound net poles or stakes on the Aberdeen Proving Ground Reservation.
+
+(j) Aberdeen Proving Ground Regulations (APGR) 210-10 will govern commercial fishing and crabbing and APGR 210-26 will govern recreational (non-commercial) fishing and crabbing. This section shall be enforced by the Commander, Aberdeen Proving Ground, and such agencies as he/she may designate.
+
+(k) *Compliance with Federal, State and county laws required.* The taking of fish and crabs in the waters of Aberdeen Proving Ground Reservation and the setting of and location of nets, in a manner not in compliance with Federal, State, and county laws is prohibited.
+
+(40 Stat. 266; 33 U.S.C. 3)[13 FR 6915, Nov. 24, 1948, and 32 FR 15673, Nov. 14, 1967, as amended at 42 FR 41281, Aug. 16, 1977; 48 FR 54597, Dec. 6, 1983. Redesignated at 50 FR 42696, Oct. 22, 1985]

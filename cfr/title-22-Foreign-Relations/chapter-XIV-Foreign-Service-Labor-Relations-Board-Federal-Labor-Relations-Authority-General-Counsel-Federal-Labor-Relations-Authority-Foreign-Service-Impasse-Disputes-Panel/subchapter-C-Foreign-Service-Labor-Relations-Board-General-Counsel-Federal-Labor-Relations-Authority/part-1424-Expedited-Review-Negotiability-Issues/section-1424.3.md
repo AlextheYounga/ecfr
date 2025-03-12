@@ -1,0 +1,3 @@
+##### § 1424.3 Time limits for filing. #####
+
+(a) The time limit for filing an appeal under this part is fifteen (15) days from the Department's allegation, which was requested in writing by the exclusive representative, is served on the exclusive representative. The Department shall make the allegation in writing and serve a copy on the exclusive representative: *Provided, however,* That review of a negotiability issue may be requested by the exclusive representative under this part without a prior written allegation by the Department if a written allegation has not been served upon the exclusive representative within ten (10) days after the date of receipt by any Department bargaining representative at the negotiations of a written request for such allegation.

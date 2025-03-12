@@ -1,0 +1,5 @@
+##### § 6.14-2 Condition of waterfront facility a danger to vessel. #####
+
+Whenever the captain of the port finds that the mooring of any vessel to a wharf, dock, pier, or other waterfront structure would endanger such vessel, or any other vessel, or the harbor or any facility therein by reason of conditions existing on or about such wharf, dock, pier, or other waterfront structure, including, but not limited to, inadequate guard service, insufficient lighting, fire hazards, inadequate fire protection, unsafe machinery, internal disturbance, or unsatisfactory operation, the captain of the port may prevent the mooring of any vessel to such wharf, dock, pier, or other waterfront structure until the unsatisfactory condition or conditions so found are corrected, and he may, for the same reasons, after any vessel has been moored, compel the shifting of such vessel from any such wharf, dock, pier, or other waterfront structure.
+
+[E.O. 10277, 16 FR 7541, Aug. 2, 1951]

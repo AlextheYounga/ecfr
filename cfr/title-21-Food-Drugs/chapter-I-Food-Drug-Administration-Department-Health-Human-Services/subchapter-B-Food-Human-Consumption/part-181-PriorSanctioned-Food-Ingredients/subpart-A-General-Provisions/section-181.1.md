@@ -1,0 +1,9 @@
+##### § 181.1 General. #####
+
+(a) An ingredient whose use in food or food packaging is subject to a prior sanction or approval within the meaning of section 201(s)(4) of the Act is exempt from classification as a food additive. The Commissioner will publish in this part all known prior sanctions. Any interested person may submit to the Commissioner a request for publication of a prior sanction, supported by evidence to show that it falls within section 201(s)(4) of the Act.
+
+(b) Based upon scientific data or information that shows that use of a prior-sanctioned food ingredient may be injurious to health, and thus in violation of section 402 of the Act, the Commissioner will establish or amend an applicable prior sanction regulation to impose whatever limitations or conditions are necessary for the safe use of the ingredient, or to prohibit use of the ingredient.
+
+(c) Where appropriate, an emergency action level may be issued for a prior-sanctioned substance, pending the issuance of a final regulation in accordance with paragraph (b) of this section. Such an action level shall be issued pursuant to section 402(a) of the Act to identify, based upon available data, conditions of use of the substance that may be injurious to health. Such an action level shall be issued in a notice published in the Federal Register and shall be followed as soon as practicable by a proposed regulation in accordance with paragraph (b) of this section. Where the available data demonstrate that the substance may be injurious at any level, use of the substance may be prohibited. The identification of a prohibited substance may be made in part 189 of this chapter when appropriate.
+
+[42 FR 14638, Mar. 15, 1977, as amended at 42 FR 52821, Sept. 30, 1977; 54 FR 39635, Sept. 27, 1989]

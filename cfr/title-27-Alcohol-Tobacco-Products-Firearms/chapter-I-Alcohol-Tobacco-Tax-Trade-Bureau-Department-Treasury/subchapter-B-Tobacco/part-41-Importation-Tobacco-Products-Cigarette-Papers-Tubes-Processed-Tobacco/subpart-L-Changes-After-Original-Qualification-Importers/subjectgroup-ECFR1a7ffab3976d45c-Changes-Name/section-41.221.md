@@ -1,0 +1,3 @@
+##### § 41.221 Change in trade name. #####
+
+When there is a change in, or an addition or discontinuance of, a trade name used by an importer of tobacco products in connection with operations authorized by the permit, the importer must, within 30 days of the change, apply for an amended permit on TTB F 5230.5 to reflect such change. The importer must also furnish a true copy of any new trade name certificate or document issued to the business, or a statement in lieu thereof, as required by § 41.195.

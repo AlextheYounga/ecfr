@@ -1,0 +1,3 @@
+##### § 201.1106 Right to challenge. #####
+
+Other than in connection with the opportunity to submit comments as provided in § 201.1103, no person shall be granted leave to intervene or to participate or otherwise to appear in any agency proceeding or otherwise to challenge an order of disgorgement or creation of a Fair Fund; or an order approving, approving with modifications, or disapproving a plan of disgorgement or a Fair Fund plan; or any determination relating to a plan based solely upon that person's eligibility or potential eligibility to participate in a fund or based upon any private right of action such person may have against any person who is also a respondent in the proceeding.

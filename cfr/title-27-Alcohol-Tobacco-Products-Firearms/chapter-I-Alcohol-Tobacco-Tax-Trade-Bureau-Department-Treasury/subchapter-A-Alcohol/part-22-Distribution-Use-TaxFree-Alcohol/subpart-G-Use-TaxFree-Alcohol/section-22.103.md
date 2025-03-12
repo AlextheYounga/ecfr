@@ -1,0 +1,5 @@
+##### § 22.103 States and the District of Columbia. #####
+
+Except as otherwise provided in this section, tax-free alcohol withdrawn by a State or political subdivision of a State, or the District of Columbia shall be used solely for mechanical and scientific purposes, and except on approval of the appropriate TTB officer, the use of tax-free alcohol or the use of any resulting product will be confined to the premises under the control of the State or political subdivision of a State, or the District of Columbia. Tax-free alcohol withdrawn for use in hospitals, clinics, and other establishments specified in §§ 22.104 through 22.108, operated by a State, political subdivision of a State, or the District of Columbia, shall be used in the manner prescribed for those establishments.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1362, as amended (26 U.S.C. 5214))

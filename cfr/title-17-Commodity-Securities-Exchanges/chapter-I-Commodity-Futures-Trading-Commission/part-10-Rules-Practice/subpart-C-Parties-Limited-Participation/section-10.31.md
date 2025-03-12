@@ -1,0 +1,3 @@
+##### § 10.31 Parties. #####
+
+The parties to an adjudicatory proceeding shall include the Division of Enforcement, each respondent named in the complaint and each person permitted to intervene pursuant to § 10.33 of these rules. A respondent shall cease to be a party or purposes of a pending proceeding when (a) a default order is entered against him pursuant to § 10.93; or (b) the Commission accepts an offer of settlement pursuant to § 10.108 of these rules.

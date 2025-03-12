@@ -1,0 +1,3 @@
+##### § 1423.30 Compliance with decisions and orders of the Board. #####
+
+When remedial action is ordered, the respondent shall report to the appropriate Regional Director within a specified period that the required remedial action has been effected. When the General Counsel finds that the required remedial action has not been effected, the General Counsel shall take such action as may be appropriate, including referral to the Board for enforcement.

@@ -1,0 +1,15 @@
+##### § 20.5 Series S filings. #####
+
+(a) *102S filing.* (1) When a counterparty consolidated account first becomes reportable, the reporting entity shall submit a 102S filing, in accordance with the form instructions and as specified in this section.
+
+(2) A reporting entity may submit a 102S filing only once for each counterparty, even if such persons at various times have multiple reportable positions in the same or different paired swaps or swaptions.
+
+(3) Reporting entities shall submit a 102S filing within three days following the first day a consolidated account first becomes reportable or at such time as instructed by the Commission upon special call.
+
+(4) *Change updates.* If any change causes the information filed by a clearing member or swap dealer on a Form 102 for a consolidated account to no longer be accurate, then such clearing member or swap dealer shall file an updated Form 102 with the Commission no later than 9 a.m. on the business day after such change occurs, or on such other date as directed by special call of the Commission, *provided that,* a clearing member or swap dealer may stop providing change updates for a Form 102 that it has submitted to the Commission for any consolidated account upon notifying the Commission or its designee that the account in question is no longer reportable as a consolidated account and has not been reportable as a consolidated account for the past six months. Unless otherwise specified by the Commission or its designee, the stated time is eastern time for information concerning markets located in that time zone, and central time for information concerning all other markets.
+
+(5) *Refresh updates.* For Consolidated Accounts - Starting on a date specified by the Commission or its designee and at the end of each annual increment thereafter (or such other date specified by the Commission or its designee that is equal to or greater than six months), each clearing member or swap dealer shall resubmit every Form 102 that it has submitted to the Commission for each of its consolidated accounts, *provided that,* a clearing member or swap dealer may stop providing refresh updates for a Form 102 that it has submitted to the Commission for any consolidated account upon notifying the Commission or its designee that the account in question is no longer reportable as a consolidated account and has not been reportable as a consolidated account for the past six months.
+
+(b) *40S filing.* Every person subject to books or records under § 20.6 shall after a special call upon such person by the Commission file with the Commission a 40S filing at such time and place as directed in the call. A 40S filing shall consist of the submission of a Form 40, which shall be completed by such person as if any references to futures or option contracts were references to paired swaps or swaptions as defined in § 20.1.
+
+[76 FR 43862, July 22, 2011, as amended at 78 FR 69265, Nov. 18, 2013]

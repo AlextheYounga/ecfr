@@ -1,0 +1,3 @@
+##### § 22.114 Alcohol received from the General Services Administration. #####
+
+Any nonprofit charitable institution holding a permit on Form 5150.9, and receiving alcohol from the General Services Administration under the provisions of 26 U.S.C. 5688(a)(2)(B), shall include any quantity of alcohol received in computing the quantity of tax-free alcohol that may be procured under its permit during the calendar year. The alcohol, on receipt, shall be placed in the storage facilities prescribed in § 22.91 and kept there under lock until withdrawn for use.

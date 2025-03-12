@@ -1,0 +1,21 @@
+##### § 200.18 Director of Division of Corporation Finance. #####
+
+The Director of the Division of Corporation Finance is responsible to the Commission for the administration of all matters (except those pertaining to investment companies registered under the Investment Company Act of 1940) relating to establishing and requiring adherence to standards of business and financial disclosure with respect to securities being offered for public sale pursuant to the registration requirements of the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) or the exemptions therefrom; establishing and requiring adherence to standards of reporting and disclosure with respect to securities traded on national securities exchanges or required to be registered pursuant to section 12 (g) of the Securities Exchange Act of 1934 (15 U.S.C. 78*l*(g)) and with respect to securities whose issuers are required to file reports pursuant to section 15(d) of that Act (15 U.S.C. 78*c*(d)); establishing and requiring adherence to disclosure and procedural standards in the solicitation of proxies for the election of directors and other corporate actions; establishing and requiring adherence to standards of disclosure with respect to the filing of statements respecting beneficial ownership and transaction statements pursuant to sections 13 (d), (e), and (g) (15 U.S.C. 78m(d), 78m(e), and 78m(g)) of the Securities Exchange Act of 1934; administering the disclosure and substantive provisions of the Williams Act relating to tender offers; and ensuring adherence to enforcement of the standards set forth in the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*) regarding indenture covering debt securities. Those duties shall include, with the exception of enforcement and related activities under the jurisdiction of the Division of Enforcement, the responsibility to the Commission for the administration of the disclosure requirements and other provisions of the Securities Act of 1933, the Securities Exchange Act of 1934, and the Trust Indenture Act of 1939, as listed below:
+
+(a) All matters under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) including the examination and processing of material filed pursuant to the requirements of that Act (except such material filed by investment companies registered under the Investment Company Act of 1940), the interpretation of the provisions of the Securities Act of 1933, and the proposing to the Commission of rules under that Act.
+
+(b) All matters, except those pertaining to investment companies registered under the Investment Company Act of 1940, arising under the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*) in connection with:
+
+(1) The registration of securities pursuant to section 12 of the Act (15 U.S.C. 78*l*), including the exemptive provisions of section 12(h) (15 U.S.C. 78*l*(h)).
+
+(2) The examination and processing of periodic reports filed pursuant to sections 13 and 15(d) of the Act (15 U.S.C. 78m, 78*o*(d)).
+
+(3) The examination and processing of proxy soliciting material filed pursuant to section 14(a) and information statements filed pursuant to section 14(c) of the Act (15 U.S.C. 78n(a), 78n(c)).
+
+(4) The examination and processing of statements respecting beneficial ownership transaction statements and tender offer statements filed pursuant to sections 13 (d), (e), and (g) and 14 (d), (e), (f), and (g) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(d), 78m(e), 78m(g), and 78n(d)), and the administration of the other protective standards of these provisions.
+
+(5) The interpretation of the foregoing provisions of the Act, as well as Section 16 thereof (15 U.S.C. 78p), and proposing of rules under those portions of the Act to the Commission.
+
+(c) All matters, except those pertaining to investment companies registered under the Investment Company Act of 1940, arising under the Trust Indenture Act of 1939 (15 U.S.C. 77aaa *et seq.*).
+
+[41 FR 29374, July 16, 1976, as amended at 50 FR 12239, Mar. 28, 1985; 60 FR 14625, Mar. 20, 1995]

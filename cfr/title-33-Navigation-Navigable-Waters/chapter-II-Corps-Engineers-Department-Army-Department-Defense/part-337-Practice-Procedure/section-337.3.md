@@ -1,0 +1,3 @@
+##### § 337.3 Transfer of the section 404 program to the states. #####
+
+Section 404(g-1) of the CWA allows the Administrator of the EPA to transfer to qualified states administration of the section 404 permit program for discharges into certain waters of the U.S. Once a state's 404 program is approved, the district engineer will follow state procedures developed in accordance with section 404(g-1) of the CWA for all on-going Corps projects involving the discharge of fill material in transferred waters to the state agency responsible for administering the program. Corps projects involving the discharge of dredged or fill material in waters not transferred to the state will be processed in accordance with this regulation.

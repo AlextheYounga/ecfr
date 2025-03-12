@@ -1,0 +1,7 @@
+##### § 866.3280 Francisella tularensis serological reagents. #####
+
+(a) *Identification. Francisella tularensis* serological reagents are devices that consist of antigens and antisera used in serological tests to identify antibodies to *Francisella tularensis* in serum or to identify *Francisella tularensis* in cultured isolates derived from clinical specimens. Additionally, some of these reagents consist of antisera conjugated with a fluorescent dye (immunofluorescent reagents) used to identify *Francisella tularensis* directly from clinical specimens. The identification aids in the diagnosis of tularemia caused by *Francisella tularensis* and provides epidemiological information on this disease. Tularemia is a desease principally of rodents, but may be transmitted to humans through handling of infected animals, animal products, or by the bites of fleas and ticks. The disease takes on several forms depending upon the site of infection, such as skin lesions, lymph node enlargements, or pulmonary infection.
+
+(b) *Classification.* Class II (special controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to § 866.9.
+
+[47 FR 50823, Nov. 9, 1982, as amended at 63 FR 59226, Nov. 3, 1998]

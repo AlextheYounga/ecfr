@@ -1,0 +1,5 @@
+##### § 11.23 Sales conditioned on the acquisition of other products. #####
+
+(a) *General.* A sale in which any part of the sale involves, directly or indirectly, the acquisition by the industry member from the trade buyer, or the agreement, as a condition to present or future sales, to accept other products from the trade buyer is prohibited.
+
+(b) *Exchange.* The exchange of one product for another is prohibited as a sales transaction conditioned on the acquisition of other products. However, the exchange of a product for equal quantities (case for case) of the same type and brand of product, in containers of another size is not considered an acquisition of “other” products and is not prohibited if there was no direct or implied privilege of return extended when the product was originally sold. Industry members may make price adjustments on products eligible for exchange under this paragraph.

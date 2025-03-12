@@ -1,0 +1,3 @@
+##### § 203.33 Drug sample forms. #####
+
+A sample request or receipt form may be delivered by mail, common carrier, or private courier or may be transmitted photographically or electronically (*i.e.*, by telephoto, wirephoto, radiophoto, facsimile transmission (FAX), xerography, or electronic data transfer) or by any other system, provided that the method for transmission meets the security requirements set forth in § 203.60(c).

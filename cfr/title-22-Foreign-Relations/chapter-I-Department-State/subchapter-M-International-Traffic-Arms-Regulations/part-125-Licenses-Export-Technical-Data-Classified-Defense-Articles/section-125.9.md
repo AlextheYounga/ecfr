@@ -1,0 +1,5 @@
+##### § 125.9 Filing of licenses and other authorizations for exports of classified technical data and classified defense articles. #####
+
+Licenses and other authorizations for the export of classified technical data or classified defense articles will be forwarded by the Directorate of Defense Trade Controls to the Defense Security Service of the Department of Defense in accordance with the provisions of the Department of Defense National Industrial Security Program Operating Manual (unless such requirements are in direct conflict with guidance provided by the Directorate of Defense Trade Controls, in which case the latter guidance must be followed). The Directorate of Defense Trade Controls will forward a copy of the license to the applicant for the applicant's information. The Defense Security Service will return the endorsed license to the Directorate of Defense Trade Controls upon completion of the authorized export or expiration of the license, whichever occurs first.
+
+[71 FR 20546, Apr. 21, 2006]

@@ -1,0 +1,15 @@
+##### § 334.640 Gulf of Mexico south of Apalachee Bay, Fla.; Air Force rocket firing range. #####
+
+(a) *The danger zone.* An area about 45 statute miles wide and 60 statute miles long, approximately parallel to and about 30 miles off the west coast of Florida, south of Apalachee Bay. The area is bounded as follows: Beginning at latitude 29°42′30″, longitude 84°40′00″; thence east along latitude 29°42′30″ to longitude 84°00′00″; thence southeast to latitude 28°56′00″, longitude 83°31′00″; thence southwest to latitude 28°37′00″, longitude 84°11′00″; thence northwest to latitude 29°17′30″, longitude 84°40′00″; thence northwest to latitude 29°32′00″, longitude 85°00′00″; thence northeast along a line three miles off the meanderings of the shore to the point of beginning.
+
+(b) *The regulations.* (1) The fact that aerial rocket firing will be conducted over the danger zone will be advertised to the public through the usual media for the dissemination of information. Inasmuch as such firing is likely to be conducted during the day or night throughout the year without regard to season, such advertising of firing will be repeated at intervals not exceeding three months and at more frequent intervals when in the opinion of the enforcing agency, repetition is necessary in the interest of public safety.
+
+(2) Prior to the conduct of rocket firing, the area will be patrolled by surface patrol boat and/or patrol aircraft to insure that no persons or watercraft are within the danger zone and to warn any such persons or watercraft seen in the vicinity that rocket firing is about to take place in the area. When aircraft is used to patrol the area, low flight of the aircraft across the bow will be used as a signal or warning.
+
+(3) Any such person or watercraft shall, upon being so warned, immediately leave the area, and until the conclusion of the firing shall remain at such a distance that they will be safe from the fallout resulting from such rocket firing.
+
+(4) The regulations in this section shall not deny access to or egress from harbors contiguous to the danger zone in the case of regular passenger or cargo carrying vessels proceeding to or from such harbors. In the case of the presence of any such vessel in the danger zone the officer in charge shall cause the cessation or postponement of fire until the vessel shall have cleared that part of the area in which it might be endangered by the fallout. The vessel shall proceed on its normal course and shall not delay its progress unnecessarily. Masters are requested to avoid the danger zone whenever possible so that interference with firing training may be minimized.
+
+(c) The regulations in this section shall be enforced by the Commander, Moody Air Force Base, Valdosta, Georgia, and such agencies as he may designate.
+
+[21 FR 2944, May 3, 1956, as amended at 22 FR 3755, May 29, 1957. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17554, Apr. 10, 1997]

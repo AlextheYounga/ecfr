@@ -1,0 +1,5 @@
+##### § 11.8 Sequestration. #####
+
+(a) *Sequestration of witnesses.* All witnesses and potential witnesses shall be sequestered and prohibited from being present during the examination of any other witness unless otherwise permitted in the discretion of the person conducting the investigation.
+
+(b) *Sequestration of counsel.* When a reasonable basis exists to believe that an investigation may be obstructed or impeded, directly or indirectly, by an attorney's representation of more than one witness during the course of an investigation, the member of the Commission or of the Commission's staff conducting the investigation may prohibit that attorney from being present during the testimony of any witness other than the witness in whose behalf counsel first appeared in the investigatory proceeding. To the extent practicable, consistent with the integrity of the investigation, the attorney will be advised of the reasons for his having been sequestered.

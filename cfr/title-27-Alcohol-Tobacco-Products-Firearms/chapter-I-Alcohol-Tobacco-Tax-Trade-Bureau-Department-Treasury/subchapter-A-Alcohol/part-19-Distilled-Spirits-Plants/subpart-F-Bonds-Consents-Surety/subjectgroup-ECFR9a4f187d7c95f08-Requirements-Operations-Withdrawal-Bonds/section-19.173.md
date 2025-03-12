@@ -1,0 +1,5 @@
+##### § 19.173 Release of pledged securities. #####
+
+Securities that are pledged and deposited with TTB under § 19.154 will only be released by TTB in accordance with the provisions of 31 CFR Part 225, Acceptance of Bonds Secured by Government Obligations in Lieu of Bonds with Sureties. The appropriate TTB officer will not release pledged securities prior to termination of the liability under the bond for which they were pledged. When the appropriate TTB officer is satisfied that the pledged securities may be released, the official will set a date or dates on which a part or all of the securities may be released. At any time prior to the release of the securities, the appropriate TTB officer may extend the date of release for any additional length of time deemed necessary.
+
+(31 U.S.C. 9301, 9303)

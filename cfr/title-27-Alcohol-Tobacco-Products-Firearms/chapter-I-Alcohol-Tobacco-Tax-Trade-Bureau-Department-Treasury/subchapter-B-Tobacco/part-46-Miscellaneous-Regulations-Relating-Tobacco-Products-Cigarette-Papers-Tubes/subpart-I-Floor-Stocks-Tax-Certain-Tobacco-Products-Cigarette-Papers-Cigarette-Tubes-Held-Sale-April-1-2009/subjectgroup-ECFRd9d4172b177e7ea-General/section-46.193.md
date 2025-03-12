@@ -1,0 +1,3 @@
+##### § 46.193 Persons liable for floor stocks tax. #####
+
+A dealer who holds for sale any articles subject to floor stocks tax on April 1, 2009, is liable for floor stocks tax. See §§ 46.204 and 46.205 regarding articles subject to floor stocks tax that are in transit on April 1, 2009 and § 46.206 regarding articles subject to floor stocks tax that are held in a foreign trade zone on April 1, 2009.

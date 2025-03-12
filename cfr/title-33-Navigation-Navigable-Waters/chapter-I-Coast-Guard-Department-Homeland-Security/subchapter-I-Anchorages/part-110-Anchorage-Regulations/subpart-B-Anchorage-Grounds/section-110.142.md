@@ -1,0 +1,5 @@
+##### § 110.142 Nantucket Harbor, Mass. #####
+
+(a) *The anchorage grounds.* In the Nantucket Harbor, beginning at a point 210 yards, 90°, from Brant Point Light; thence easterly to latitude 41°17′23″, longitude 70°05′14.5″; thence southerly to latitude 41°17′03″, longitude 70°05′14.5″; thence southwesterly to latitude 41°16′54″, longitude 70°05′23″; thence northwesterly to latitude 41°16′55″, longitude 70°05′31″; thence northeasterly to latitude 41°17′07.5″, longitude 70°05′27″; thence northeasterly to the point of beginning.
+
+(b) *The regulations.* The anchorage is for the use of commercial and pleasure craft. Temporary floats or buoys for marking anchors or moorings in place will be allowed. Fixed mooring piles or stakes are prohibited. The anchoring of vessels including the placing of anchors and moorings is subject to the supervision and approval of the local harbor master.

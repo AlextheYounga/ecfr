@@ -1,0 +1,3 @@
+##### § 41.223 Fiduciary successor. #####
+
+If an administrator, executor, receiver, trustee, assignee, or other fiduciary is to take over the business of an importer of tobacco products as a continuing operation, the fiduciary must, before commencing operations, apply for a permit in accordance with § 41.191 and furnish certified copies, in duplicate, of the order of the court or other pertinent documents, showing his or her appointment and qualification as the fiduciary. Where a fiduciary intends only to liquidate the business, qualification as an importer of tobacco products is not required if the fiduciary promptly files with the appropriate TTB officer a written statement to that effect.

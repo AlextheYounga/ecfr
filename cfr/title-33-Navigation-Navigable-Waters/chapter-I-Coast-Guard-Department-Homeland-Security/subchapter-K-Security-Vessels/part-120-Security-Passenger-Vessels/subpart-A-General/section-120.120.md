@@ -1,0 +1,7 @@
+##### § 120.120 Incorporation by reference. #####
+
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR Part 51. To enforce any edition other than that specified in paragraph (b) of this section, the Coast Guard must publish notice of change in the Federal Register and must make the material available to the public. All approved material may be inspected at the Coast Guard Headquarters. Contact Commandant (CG-ENG), Attn: Office of Design and Engineering Standards, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509. Copies may be obtained from IMO, 4 Albert Embankment, London SE1 7SR, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(b) The materials approved for incorporation by reference in this part and the sections affected are:
+
+International Maritime Organization (IMO)4 Albert Embankment, London SE1 7SR MSC Circular 443, Measures to Prevent Unlawful Acts Against Passengers and Crews on Board Ships September 26, 1986 - 120.220, 120.300[CGD 91-012, 61 FR 37652, July 18, 1996, as amended at 69 FR 18803, Apr. 9, 2004; USCG-2010-0351, 75 FR 36283, June 25, 2010; USCG-2014-0410, 79 FR 38433, July 7, 2014]

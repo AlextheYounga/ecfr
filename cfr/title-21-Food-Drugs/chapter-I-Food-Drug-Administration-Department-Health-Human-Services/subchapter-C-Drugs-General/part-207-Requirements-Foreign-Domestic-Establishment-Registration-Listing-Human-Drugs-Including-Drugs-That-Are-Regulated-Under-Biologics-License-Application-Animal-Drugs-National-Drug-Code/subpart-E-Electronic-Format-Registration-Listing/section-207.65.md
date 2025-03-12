@@ -1,0 +1,7 @@
+##### § 207.65 How can a waiver of the electronic submission requirement be obtained? #####
+
+(a) All information submitted under this part must be transmitted to FDA electronically in accordance with § 207.61(a) unless FDA has granted a request for waiver of this requirement prior to the date on which submission of such information is due. Submission of a request for waiver does not excuse timely compliance with the registration and listing requirements. FDA will grant a waiver request if FDA determines that the use of electronic means for submission of registration and listing information is not reasonable for the registrant making the waiver request.
+
+(b) Waiver requests under this section must be submitted in writing and must include the specific reasons why electronic submission is not reasonable for the registrant and a U.S. telephone number and mailing address where FDA can contact the registrant. All waiver requests must be sent to: SPL Coordinator, U.S. Food and Drug Administration, 10903 New Hampshire Ave., Bldg. 32, Silver Spring, MD 20993.
+
+(c) If FDA grants the waiver request, FDA may limit its duration and will specify terms of the waiver and provide information on how to submit establishment registration, drug listings, other information, and updates, as applicable.

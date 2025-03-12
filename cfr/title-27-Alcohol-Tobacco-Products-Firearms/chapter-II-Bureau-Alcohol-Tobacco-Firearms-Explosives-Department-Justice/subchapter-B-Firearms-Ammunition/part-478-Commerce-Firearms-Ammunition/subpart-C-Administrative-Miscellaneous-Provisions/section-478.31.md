@@ -1,0 +1,11 @@
+##### § 478.31 Delivery by common or contract carrier. #####
+
+(a) No person shall knowingly deliver or cause to be delivered to any common or contract carrier for transportation or shipment in interstate or foreign commerce to any person other than a licensed importer, licensed manufacturer, licensed dealer, or licensed collector, any package or other container in which there is any firearm or ammunition without written notice to the carrier that such firearm or ammunition is being transported or shipped: *Provided,* That any passenger who owns or legally possesses a firearm or ammunition being transported aboard any common or contract carrier for movement with the passenger in interstate or foreign commerce may deliver said firearm or ammunition into the custody of the pilot, captain, conductor or operator of such common or contract carrier for the duration of that trip without violating any provision of this part.
+
+(b) No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container indicating that such package, luggage, or other container contains a firearm.
+
+(c) No common or contract carrier shall transport or deliver in interstate or foreign commerce any firearm or ammunition with knowledge or reasonable cause to believe that the shipment, transportation, or receipt thereof would be in violation of any provision of this part: *Provided, however,* That the provisions of this paragraph shall not apply in respect to the transportation of firearms or ammunition in in-bond shipment under Customs laws and regulations.
+
+(d) No common or contract carrier shall knowingly deliver in interstate or foreign commerce any firearm without obtaining written acknowledgement of receipt from the recipient of the package or other container in which there is a firearm: *Provided,* That this paragraph shall not apply with respect to the return of a firearm to a passenger who places firearms in the carrier's custody for the duration of the trip.
+
+[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16385, Apr. 15, 1975, and amended by T.D. ATF-354, 59 FR 7112, Feb. 14, 1994; T.D. ATF-361, 60 FR 10786, Feb. 27, 1995]

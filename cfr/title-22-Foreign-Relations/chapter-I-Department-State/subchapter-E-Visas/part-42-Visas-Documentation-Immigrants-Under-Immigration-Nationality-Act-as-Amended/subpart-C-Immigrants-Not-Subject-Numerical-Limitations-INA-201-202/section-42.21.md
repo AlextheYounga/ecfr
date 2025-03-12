@@ -1,0 +1,9 @@
+##### § 42.21 Immediate relatives. #####
+
+(a) *Entitlement to status.* An alien who is a spouse or child of a United States citizen, or a parent of a U.S. citizen at least 21 years of age, shall be classified as an immediate relative under INA 201(b) if the consular officer has received from DHS an approved Petition to Classify Status of Alien Relative for Issuance of an Immigrant Visa, filed on the alien's behalf by the U.S. citizen and approved in accordance with INA 204, and the officer is satisfied that the alien has the relationship claimed in the petition. An immediate relative shall be documented as such unless the U.S. citizen refuses to file the required petition, or unless the immediate relative is also a special immigrant under INA 101(a)(27) (A) or (B) and not subject to any numerical limitation.
+
+(b) *Spouse of a deceased U.S. citizen.* The spouse of a deceased U.S. citizen, and each child of the spouse, will be entitled to immediate relative status after the date of the citizen's death provided the spouse or child meets the criteria of INA 201(b)(2)(A)(i) or of section 423(a)(1) of Public Law 107-56 (USA Patriot Act) and the Consular Officer has received an approved petition from the DHS which accords such status, or official notification of such approval, and the Consular Officer is satisfied that the alien meets those criteria.
+
+(c) *Child of a U.S. citizen victim of terrorism.* The child of a U.S. citizen slain in the terrorist actions of September 11, 2001, shall retain the status of an immediate relative child (regardless of changes in age or marital status) if the child files a petition for such status within two years of the citizen's death pursuant to section 423(a)(2) of Public Law 107-56, and the consular officer has received an approved petition according such status or official notification of such approval.
+
+[56 FR 49676, Oct. 1, 1991, as amended at 64 FR 55419, Oct. 13, 1999; 67 FR 1415, Jan. 11, 2002]

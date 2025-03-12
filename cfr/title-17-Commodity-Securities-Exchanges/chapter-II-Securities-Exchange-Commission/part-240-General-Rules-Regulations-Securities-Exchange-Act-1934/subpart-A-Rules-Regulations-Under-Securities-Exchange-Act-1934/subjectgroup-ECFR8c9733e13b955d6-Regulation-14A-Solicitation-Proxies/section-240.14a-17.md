@@ -1,0 +1,9 @@
+##### § 240.14a-17 Electronic shareholder forums. #####
+
+(a) A shareholder, registrant, or third party acting on behalf of a shareholder or registrant may establish, maintain, or operate an electronic shareholder forum to facilitate interaction among the registrant's shareholders and between the registrant and its shareholders as the shareholder or registrant deems appropriate. Subject to paragraphs (b) and (c) of this section, the forum must comply with the federal securities laws, including Section 14(a) of the Act and its associated regulations, other applicable federal laws, applicable state laws, and the registrant's governing documents.
+
+(b) No shareholder, registrant, or third party acting on behalf of a shareholder or registrant, by reason of establishing, maintaining, or operating an electronic shareholder forum, will be liable under the federal securities laws for any statement or information provided by another person to the electronic shareholder forum. Nothing in this section prevents or alters the application of the federal securities laws, including the provisions for liability for fraud, deception, or manipulation, or other applicable federal and state laws to the person or persons that provide a statement or information to an electronic shareholder forum.
+
+(c) Reliance on the exemption in § 240.14a-2(b)(6) to participate in an electronic shareholder forum does not eliminate a person's eligibility to solicit proxies after the date that the exemption in § 240.14a-2(b)(6) is no longer available, or is no longer being relied upon, provided that any such solicitation is conducted in accordance with this regulation.
+
+[73 FR 4458, Jan. 25, 2008]

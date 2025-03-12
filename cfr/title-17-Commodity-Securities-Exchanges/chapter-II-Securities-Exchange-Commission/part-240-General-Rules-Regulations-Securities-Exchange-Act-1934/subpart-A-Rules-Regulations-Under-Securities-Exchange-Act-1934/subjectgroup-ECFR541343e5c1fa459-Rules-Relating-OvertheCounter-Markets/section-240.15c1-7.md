@@ -1,0 +1,7 @@
+##### § 240.15c1-7 Discretionary accounts. #####
+
+(a) The term *manipulative, deceptive, or other fraudulent device or contrivance,* as used in section 15(c) of the Act, is hereby defined to include any act of any broker, dealer or municipal securities dealer designed to effect with or for any customer's account in respect to which such broker, dealer or municipal securities dealer or his agent or employee is vested with any discretionary power any transactions or purchase or sale which are excessive in size or frequency in view of the financial resources and character of such account.
+
+(b) The term *manipulative, deceptive, or other fraudulent device or contrivance,* as used in section 15(c)(1) of the Act, is hereby defined to include any act of any broker, dealer or municipal securities dealer designed to effect with or for any customer's account in respect to which such broker, dealer or municipal securities dealer or his agent or employee is vested with any discretionary power any transaction of purchase or sale unless immediately after effecting such transaction such broker, dealer or municipal securities dealer makes a record of such transaction which record includes the name of such customer, the name, amount and price of the security, and the date and time when such transaction took place.
+
+[41 FR 22826, June 7, 1976]

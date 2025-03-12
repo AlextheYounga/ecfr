@@ -1,0 +1,3 @@
+##### § 201.81 Rights of USAID against borrower/grantees. #####
+
+If any transaction financed hereunder violates the requirements of this part or any U.S. statute or any rule or regulation of USAID promulgated under any such statute, USAID may require the borrower/grantee to refund the amounts USAID determines are attributable to such violation and may exercise any right of acceleration or termination contained in the implementing document. The borrower/grantee shall be deemed to have agreed to make such refund or accelerated payment promptly upon request by USAID and shall be deemed to have consented to any modification of the implementing document determined by USAID to be necessary to reflect any such refund or acceleration.

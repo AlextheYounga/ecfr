@@ -1,0 +1,7 @@
+##### § 26.163 General requirements. #####
+
+Except as provided in § 26.164, every person, other than a tourist, bringing liquor into the United States from Puerto Rico shall keep records and render reports of the physical receipt and disposition of such liquors in accordance with part 311 of this chapter: *Provided,* That if the person who is responsible for release of the liquors from customs custody does not take physical possession of the liquors, he shall keep commercial records reflecting such release; such records shall identify the kind and quantity of the liquors released, the name and address of the person receiving the liquors from customs custody, and shall be filed chronologically by release dates. Records and reports will not be required under this part with respect of liquors while in customs custody.
+
+1 (“Alcohol Beverage Dealers”)
+
+(Approved by the Office of Management and Budget under control number 1512-0352)(72 Stat. 1342, 1395; 26 U.S.C. 5114, 5555)[T.D. ATF-2, 37 FR 22736, Oct. 21, 1972. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-172, 49 FR 14943, Apr. 16, 1984. Redesignated and amended by T.D. ATF-459, 66 FR 38550, 38552, July 25, 2001; T.D. TTB-25, 70 FR 19883, Apr. 15, 2005]

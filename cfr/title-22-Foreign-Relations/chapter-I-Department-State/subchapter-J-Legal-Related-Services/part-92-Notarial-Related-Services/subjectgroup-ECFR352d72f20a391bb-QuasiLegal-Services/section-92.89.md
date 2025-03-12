@@ -1,0 +1,3 @@
+##### § 92.89 Fees for service of legal process. #####
+
+No charge should be made for serving a subpoena or order to show cause issuing out of Federal court under the procedures set forth in §§ 92.86 and 92.87. The taking of the affidavit of the officer effecting the service, or the performance of any other notarial act which may be involved in making the return, should be without charge, under the caption “Exemption for Federal Agencies and Corporations” of the Tariff of Fees, Foreign Service of the United States of America (§ 22.1 of this chapter).

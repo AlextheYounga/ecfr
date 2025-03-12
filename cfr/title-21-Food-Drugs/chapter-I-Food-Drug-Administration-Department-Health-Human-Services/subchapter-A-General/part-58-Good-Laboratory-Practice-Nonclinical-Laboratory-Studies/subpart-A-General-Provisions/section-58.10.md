@@ -1,0 +1,3 @@
+##### § 58.10 Applicability to studies performed under grants and contracts. #####
+
+When a sponsor conducting a nonclinical laboratory study intended to be submitted to or reviewed by the Food and Drug Administration utilizes the services of a consulting laboratory, contractor, or grantee to perform an analysis or other service, it shall notify the consulting laboratory, contractor, or grantee that the service is part of a nonclinical laboratory study that must be conducted in compliance with the provisions of this part.

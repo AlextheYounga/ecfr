@@ -1,0 +1,3 @@
+##### § 165.18 Staff communications with whistleblowers from represented entities. #####
+
+If the whistleblower is a whistleblower who is a director, officer, member, agent, or employee of an entity that has counsel, and the whistleblower has initiated communication with the Commission relating to a potential violation of the Commodity Exchange Act, the Commission's staff is authorized to communicate directly with the whistleblower regarding the subject of the whistleblower's communication without seeking the consent of the entity's counsel.

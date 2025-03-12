@@ -1,0 +1,5 @@
+##### § 71.35 Opportunity for compliance. #####
+
+Except in proceedings involving willfulness or those in which the public interest requires otherwise, and the appropriate TTB officer so alleges in his citation, stating his reasons therefor, no permit shall be suspended, revoked or annulled, unless, prior to the institution of proceedings, facts or conduct warranting such action shall have been called to the attention of the permittee by the appropriate TTB officer, in writing, and the permittee shall have been accorded an opportunity to demonstrate or achieve compliance with all lawful requirements, as set forth in section 9(b) of the Administrative Procedure Act. If the permittee fails to meet the requirements of the law and regulations within such reasonable time as may be specified by the appropriate TTB officer, proceedings for suspension, revocation or annulment of the permit shall be initiated.
+
+[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-199, 50 FR 9196, Mar. 6, 1985; T.D. ATF-374, 61 FR 29957, June 13, 1996]

@@ -1,0 +1,5 @@
+##### § 156.200 Applicability. #####
+
+This subpart applies to each vessel to be lightered and each service vessel engaged in a lightering operation in the marine environment beyond the baseline from which the territorial sea is measured when the oil or hazardous material lightered is destined for a port or place subject to the jurisdiction of the U.S. This subpart does not apply to lightering operations involving public vessels, or to the dedicated response vessels and vessels of opportunity in accordance with the National Contingency Plan (40 CFR parts 9 and 300) when conducting response activities, or to tank vessels of 150 gross tons or more engaged in the transfer of oil cargo between tank vessels at sea on or after April 1, 2012. These rules are in addition to the rules of subpart A of this part, as well as the rules in the applicable sections of parts 151, 153, 155, 156, and 157 of this chapter.
+
+[CGD 93-081, 60 FR 45017, Aug. 29, 1995, as amended by USCG-2010-0194, 80 FR 5935, Feb. 4, 2015]

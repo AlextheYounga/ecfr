@@ -1,0 +1,9 @@
+##### § 240.14a-18 Disclosure regarding nominating shareholders and nominees submitted for inclusion in a registrant's proxy materials pursuant to applicable state or foreign law, or a registrant's governing documents. #####
+
+To have a nominee included in a registrant's proxy materials pursuant to a procedure set forth under applicable state or foreign law, or the registrant's governing documents addressing the inclusion of shareholder director nominees in the registrant's proxy materials, the nominating shareholder or nominating shareholder group must provide notice to the registrant of its intent to do so on a Schedule 14N (§ 240.14n-101) and file that notice, including the required disclosure, with the Commission on the date first transmitted to the registrant. This notice shall be postmarked or transmitted electronically to the registrant by the date specified by the registrant's advance notice provision or, where no such provision is in place, no later than 120 calendar days before the anniversary of the date that the registrant mailed its proxy materials for the prior year's annual meeting, except that, if the registrant did not hold an annual meeting during the prior year, or if the date of the meeting has changed by more than 30 calendar days from the prior year, then the nominating shareholder or nominating shareholder group must provide notice a reasonable time before the registrant mails its proxy materials, as specified by the registrant in a Form 8-K (§ 249.308 of this chapter) filed pursuant to Item 5.08 of Form 8-K.
+
+Instruction to § 240.14a-18.
+
+The registrant is not responsible for any information provided in the Schedule 14N (§ 240.14n-101) by the nominating shareholder or nominating shareholder group, which is submitted as required by this section or otherwise provided by the nominating shareholder or nominating shareholder group that is included in the registrant's proxy materials.
+
+[75 FR 56787, Sept. 16, 2010]

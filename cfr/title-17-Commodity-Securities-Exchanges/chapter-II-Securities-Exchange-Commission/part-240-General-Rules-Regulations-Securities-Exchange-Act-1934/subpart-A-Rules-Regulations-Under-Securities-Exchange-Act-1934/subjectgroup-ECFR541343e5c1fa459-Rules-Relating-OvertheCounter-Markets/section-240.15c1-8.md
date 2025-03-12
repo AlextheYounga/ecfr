@@ -1,0 +1,5 @@
+##### § 240.15c1-8 Sales at the market. #####
+
+The term *manipulative, deceptive, or other fraudulent device or contrivance,* as used in section 15(c)(1) of the Act, is hereby defined to include any representation made to a customer by a broker, dealer or municipal securities dealer who is participating or otherwise financially interested in the primary or secondary distribution of any security which is not admitted to trading on a national securities exchange that such security is being offered to such customer “at the market” or at a price related to the market price unless such broker, dealer or municipal securities dealer knows or has reasonable grounds to believe that a market for such security exists other than that made, created, or controlled by him, or by any person for whom he is acting or with whom he is associated in such distribution, or by any person controlled by, controlling or under common control with him.
+
+[41 FR 22826, June 7, 1976]

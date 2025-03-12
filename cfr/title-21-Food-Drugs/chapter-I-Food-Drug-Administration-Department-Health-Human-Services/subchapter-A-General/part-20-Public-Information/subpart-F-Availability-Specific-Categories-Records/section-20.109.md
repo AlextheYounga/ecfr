@@ -1,0 +1,5 @@
+##### § 20.109 Data and information obtained by contract. #####
+
+(a) All data and information obtained by the Food and Drug Administration by contract, including all progress reports pursuant to a contract, are available for public disclosure when accepted by the responsible agency official except to the extent that they remain subject to an exemption established in subpart D of this part, e.g., they relate to law enforcement matters as provided in § 20.88(b).
+
+(b) Upon the awarding of a contract by the Food and Drug Administration, the technical proposal submitted by the successful offeror will be available for public disclosure. All cost proposals and the technical proposals of unsuccessful offerors submitted in response to a request for proposals are exempt from disclosure as confidential commercial or financial information pursuant to § 20.61.

@@ -1,0 +1,5 @@
+##### § 40.356 Adjustments in the return of manufacturer. #####
+
+Adjustments may be made in Schedules A and B of the manufacturer's semimonthly tax return, TTB Form 5000.24, as provided in this section. Schedule A of the return will be used where an unintentional error in a previous return resulted in an underpayment of tax. Schedule B of the return will be used where an unintentional error in a previous return resulted in an overpayment of tax, or where notice has been received from the appropriate TTB officer that a claim for allowance of tax has been approved. In the case of an overpayment, the manufacturer shall have the option of filing a claim on TTB TTB F 5620.8 for refund or taking credit in Schedule B of the return, both subject to the period of limitations prescribed in 26 U.S.C. 6511. Any adjustment made in a return must be fully explained in the appropriate schedule or in a statement attached to and made a part of the return in which such adjustment is made.
+
+(72 Stat. 1417, 68A Stat. 791; 26 U.S.C. 5703, 6402)

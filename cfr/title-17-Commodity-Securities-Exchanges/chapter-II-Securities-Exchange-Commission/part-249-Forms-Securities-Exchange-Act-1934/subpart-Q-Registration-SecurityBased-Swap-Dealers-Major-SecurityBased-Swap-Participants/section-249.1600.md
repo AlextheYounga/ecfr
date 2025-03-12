@@ -1,0 +1,3 @@
+##### § 249.1600 Form SBSE, for application for registration as a security-based swap dealer or major security-based swap participant or to amend such an application for registration. #####
+
+This form shall be used for application for registration as a security-based swap dealer or major security-based swap participant by firms that are not registered with the Commission as a broker or dealer and that are not registered or registering with the Commodity Futures Trading Commission as a swap dealer or major swap participant, pursuant to Section 15F(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(b)) and to amend such an application for registration.

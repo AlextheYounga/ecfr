@@ -1,0 +1,7 @@
+##### § 872.3670 Resin impression tray material. #####
+
+(a) *Identification.* Resin impression tray material is a device intended for use in a two-step dental mold fabricating process. The device consists of a resin material, such as methyl methacrylate, and is used to form a custom impression tray for use in cases in which a preformed impression tray is not suitable, such as the fabrication of crowns, bridges, or full dentures. A preliminary plaster or stone model of the patient's teeth and gums is made. The resin impression tray material is applied to this preliminary study model to form a custom tray. This tray is then filled with impression material and inserted into the patient's mouth to make an impression, from which a final, more precise, model of the patient's mouth is cast.
+
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 872.9. If the device is not labeled or otherwise represented as sterile, it is exempt from the current good manufacturing practice requirements of the quality system regulation in part 820 of this chapter, with the exception of § 820.180, with respect to general requirements concerning records, and § 820.198, with respect to complaint files.
+
+[52 FR 30097, Aug. 12, 1987, as amended at 59 FR 63008, Dec. 7, 1994; 66 FR 38798, July 25, 2001]

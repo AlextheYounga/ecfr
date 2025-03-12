@@ -1,0 +1,3 @@
+##### § 37.1 Scope. #####
+
+The provisions of this part shall apply to every swap execution facility that is registered or is applying to become registered as a swap execution facility under section 5h of the Commodity Exchange Act (“the Act”); provided, however, nothing in this provision affects the eligibility of swap execution facilities to operate under the provisions of parts 38 or 49 of this chapter.

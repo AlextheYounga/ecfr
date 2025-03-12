@@ -1,0 +1,3 @@
+##### § 37.1303 Computation of projected operating costs to meet financial resource requirement. #####
+
+A swap execution facility shall, each fiscal quarter, make a reasonable calculation of its projected operating costs over a twelve-month period in order to determine the amount needed to meet the requirements of § 37.1301. The swap execution facility shall have reasonable discretion in determining the methodology used to compute such projected operating costs. The Commission may review the methodology and require changes as appropriate.

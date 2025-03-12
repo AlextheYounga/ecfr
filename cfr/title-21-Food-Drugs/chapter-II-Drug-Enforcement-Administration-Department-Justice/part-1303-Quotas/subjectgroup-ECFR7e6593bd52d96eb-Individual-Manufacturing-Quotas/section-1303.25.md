@@ -1,0 +1,7 @@
+##### § 1303.25 Increase in individual manufacturing quotas. #####
+
+(a) Any registrant who holds an individual manufacturing quota for a basic class of controlled substance listed in Schedule I or II may file with the Administrator an application on Administration Form 189 for an increase in such quota in order for him to meet his estimated net disposal, inventory and other requirements during the remainder of such calendar year.
+
+(b) The Administrator, in passing upon a registrant's application for an increase in his individual manufacturing quota, shall take into consideration any occurrences since the filing of such registrant's initial quota application that may require an increased manufacturing rate by such registrant during the balance of the calendar year. In passing upon such application the Administrator may also take into consideration the amount, if any, by which his determination of the total quantity for the basic class of controlled substance to be manufactured under § 1303.11 exceeds the aggregate of all the individual manufacturing quotas for the basic class of controlled substance, and the equitable distribution of such excess among other registrants.
+
+[36 FR 7786, Apr. 24, 1971, as amended at 36 FR 13386, July 21, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973]

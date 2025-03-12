@@ -1,0 +1,3 @@
+##### § 1307.31 Native American Church. #####
+
+The listing of peyote as a controlled substance in Schedule I does not apply to the nondrug use of peyote in bona fide religious ceremonies of the Native American Church, and members of the Native American Church so using peyote are exempt from registration. Any person who manufactures peyote for or distributes peyote to the Native American Church, however, is required to obtain registration annually and to comply with all other requirements of law.

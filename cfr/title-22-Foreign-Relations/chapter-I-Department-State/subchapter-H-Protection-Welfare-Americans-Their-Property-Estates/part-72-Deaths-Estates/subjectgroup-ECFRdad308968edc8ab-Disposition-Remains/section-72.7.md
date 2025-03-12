@@ -1,0 +1,7 @@
+##### § 72.7 Consular responsibility. #####
+
+(a) A consular officer has no authority to create Department or personal financial obligations in connection with the disposition of the remains of a United States citizen or non-citizen national who dies abroad. Responsibility for the disposition of the remains and all related costs (including but not limited to costs of embalming or cremation, burial expenses, cost of a burial plot or receptacle for ashes, markers, and grave upkeep), rests with the legal representative of the deceased. In the absence of a legal representative (including when the next of kin is not a legal representative), the consular officer should ask the next of kin to provide funds and instructions for disposition of remains. If the consular officer cannot locate a legal representative or next of kin, the consular officer may ask friends or other interested parties to provide the funds and instructions.
+
+(b) Arrangements for the disposition of remains must be consistent with the law and regulations of the host country and any relevant United States laws and regulations. Local law may, for example, require an autopsy, forbid cremation, require burial within a certain period of time, or specify who has the legal authority to make arrangements for the disposition of remains.
+
+(c) If funds are not available for the disposition of the remains within the period provided by local law for the interment or preservation of dead bodies, the remains must be disposed of by the local authorities in accordance with local law or regulations.

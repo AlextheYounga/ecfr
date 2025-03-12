@@ -1,0 +1,3 @@
+##### § 60.44 Hearing procedures. #####
+
+The due diligence hearing shall be conducted in accordance with this part, supplemented by the nonconflicting procedures in part 16. During the due diligence hearing, the applicant and the petitioner shall enjoy all the rights and privileges accorded a person requesting a hearing under part 16. The standard of due diligence set forth in § 60.36 will apply in the due diligence hearing. The party requesting the due diligence hearing shall have the burden of proof at the hearing.

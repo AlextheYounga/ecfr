@@ -1,0 +1,3 @@
+##### § 555.53 License and permit not transferable. #####
+
+Licenses and permits issued under this part are not transferable to another person. In the event of the lease, sale, or other transfer of the business or operations covered by the license or permit, the successor must obtain the license or permit required by this part before commencing business or operations. However, for rules on right of succession, see § 555.59.

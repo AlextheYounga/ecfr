@@ -1,0 +1,3 @@
+##### § 19.6-8 Allotment to beneficiary. #####
+
+If a court order is not a qualifying court order because it directs or implies that payment to the beneficiary is to be made by the principal rather than the Secretary of State, the principal may make an allotment to the beneficiary from his/her annuity. An annuitant may also make an allotment from his/her annuity to a previous spouse in the absence of a court order.

@@ -1,0 +1,5 @@
+##### § 70.227 Suspension of running of period of limitation; wrongful seizure of property of third party. #####
+
+The running of the period of limitations on collection after assessment prescribed in 26 U.S.C. 6502 (relating to collection after assessment) shall be suspended for a period equal to a period beginning on the date property (including money) is wrongfully seized or received by an appropriate TTB officer and ending on the date 30 days after the date on which the appropriate TTB officer returns the property pursuant to 26 U.S.C. 6343(b) (relating to authority to return property) or the date 30 days after the date on which a judgment secured pursuant to 26 U.S.C. 7426 (relating to civil actions by persons other than taxpayers) with respect to such property becomes final. The running of the period of limitations on collection after assessment shall be suspended under this section only with respect to the amount of such assessment which is equal to the amount of money or the value of specific property returned.
+
+(26 U.S.C. 6503)[T.D. ATF-301, 55 FR 47642, Nov. 14, 1990, as amended by T.D. ATF-450, 66 FR 29028, May 29, 2001]Limitations on Liens

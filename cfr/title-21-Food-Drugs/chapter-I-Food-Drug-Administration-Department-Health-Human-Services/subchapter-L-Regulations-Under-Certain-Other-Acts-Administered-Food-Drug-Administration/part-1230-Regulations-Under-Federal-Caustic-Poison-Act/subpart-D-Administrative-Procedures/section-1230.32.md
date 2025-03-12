@@ -1,0 +1,3 @@
+##### § 1230.32 Analyzing of samples. #####
+
+Samples collected by an authorized agent shall be analyzed at the laboratory designated by the Food and Drug Administration. Only such samples as are collected in accordance with §§ 1230.30, 1230.31 may be analyzed by or under the direction and supervision of the Food and Drug Administration. Upon request one subdivision of the sample, if available, shall be delivered to the party or parties interested.

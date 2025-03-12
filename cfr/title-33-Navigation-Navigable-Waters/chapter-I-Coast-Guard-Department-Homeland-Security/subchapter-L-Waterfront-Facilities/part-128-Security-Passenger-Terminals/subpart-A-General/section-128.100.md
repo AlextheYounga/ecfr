@@ -1,0 +1,3 @@
+##### § 128.100 Does this part apply to me? #####
+
+This part applies to all passenger terminals in the United States or its territories when being used for the assembling, processing, embarking, or disembarking of passengers or baggage for passenger vessels over 100 gross tons, carrying more than 12 passengers for hire; making a voyage lasting more than 24 hours, any part of which is on the high seas. It does not apply to terminals when serving ferries that hold Coast Guard Certificates of Inspection endorsed for “Lakes, Bays, and Sounds”, and that transit international waters for only short periods of time, on frequent schedules.

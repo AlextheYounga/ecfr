@@ -1,0 +1,7 @@
+##### § 1314.40 Self-certification. #####
+
+(a) A regulated seller must submit to the Administration the self-certification referred to in § 1314.35(a) in order to sell any scheduled listed chemical product. The certification is not effective for purposes of this section unless, in addition to provisions regarding the training of individuals referred to in § 1314.35(a), the certification includes a statement that the regulated seller understands each of the requirements that apply under this part and agrees to comply with the requirements.
+
+(b) When a regulated seller files the initial self-certification, the Administration will assign the regulated seller to one of twelve groups. The expiration date of the self-certification for all regulated sellers in any group will be the last day of the month designated for that group. In assigning a regulated seller to a group, the Administration may select a group with an expiration date that is not less than 12 months or more than 23 months from the date of the self-certification. After the initial certification period, the regulated seller must update the self-certifications annually.
+
+(c) The regulated seller must provide a separate certification for each place of business at which the regulated seller sells scheduled listed chemical products at retail.

@@ -1,0 +1,11 @@
+##### § 312.56 Review of ongoing investigations. #####
+
+(a) The sponsor shall monitor the progress of all clinical investigations being conducted under its IND.
+
+(b) A sponsor who discovers that an investigator is not complying with the signed agreement (Form FDA-1572), the general investigational plan, or the requirements of this part or other applicable parts shall promptly either secure compliance or discontinue shipments of the investigational new drug to the investigator and end the investigator's participation in the investigation. If the investigator's participation in the investigation is ended, the sponsor shall require that the investigator dispose of or return the investigational drug in accordance with the requirements of § 312.59 and shall notify FDA.
+
+(c) The sponsor shall review and evaluate the evidence relating to the safety and effectiveness of the drug as it is obtained from the investigator. The sponsors shall make such reports to FDA regarding information relevant to the safety of the drug as are required under § 312.32. The sponsor shall make annual reports on the progress of the investigation in accordance with § 312.33.
+
+(d) A sponsor who determines that its investigational drug presents an unreasonable and significant risk to subjects shall discontinue those investigations that present the risk, notify FDA, all institutional review boards, and all investigators who have at any time participated in the investigation of the discontinuance, assure the disposition of all stocks of the drug outstanding as required by § 312.59, and furnish FDA with a full report of the sponsor's actions. The sponsor shall discontinue the investigation as soon as possible, and in no event later than 5 working days after making the determination that the investigation should be discontinued. Upon request, FDA will confer with a sponsor on the need to discontinue an investigation.
+
+[52 FR 8831, Mar. 19, 1987, as amended at 52 FR 23031, June 17, 1987; 67 FR 9586, Mar. 4, 2002]

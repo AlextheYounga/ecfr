@@ -1,0 +1,7 @@
+##### § 151.1515 Ballast water management alternatives under extraordinary conditions. #####
+
+(a) As long as ballast water exchange (BWE) remains an option under the schedule in § 151.1512(b) of this subpart, the master of any vessel subject to this subpart who uses BWE to meet the requirements of this subpart and, due to weather, equipment failure, or other extraordinary conditions, is unable to effect a BWE before entering the Exclusive Economic Zone, and intends to discharge ballast water into the waters of the United States, must request permission from the Captain of the Port (COTP) to exchange the vessel's ballast water within an area agreed to by the COTP at the time of the request and then discharge the vessel's ballast water within that designated area.
+
+(b) Once BWE is no longer an option under the schedule in § 151.1512(b) of this subpart, if the ballast water management system required by this subpart stops operating properly during a voyage or the vessel's BWM method is unexpectedly unavailable, the master, owner, operator, agent, or person in charge of the vessel must ensure that the problem is reported to the COTP as soon as practicable. The vessel may continue to the next port of call, subject to the directions of the COTP or the Ninth District Commander, as provided by 33 CFR part 160.
+
+[USCG-2001-10486, 77 FR 17306, Mar. 23, 2012, as amended at 77 FR 33970, June 8, 2012]

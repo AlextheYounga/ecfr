@@ -1,0 +1,3 @@
+##### § 46.262 Application. #####
+
+The dealer seeking approval of an alternate method or procedure under this subpart must apply in writing to the National Revenue Center, 550 Main Street, Room 8002, Cincinnati, Ohio 45202-5215. The dealer must describe the alternate method or procedure and reasons the dealer wishes to use it. The dealer cannot use the alternate method until the dealer receives written approval from the appropriate TTB officer.

@@ -1,0 +1,5 @@
+##### § 24.150 Powers of attorney. #####
+
+Each bond, and each consent to changes in the terms of a bond, will be accompanied by a power of attorney whereby the surety authorizes the agent or officer who executed the bond or consent to act on behalf of the surety. The appropriate TTB officer may require additional evidence of the authority of the agent or officer of the surety to execute the bond or consent. The power of attorney will be prepared on a form provided by the surety and executed under the corporate seal of the surety. If the power of attorney is other than a manually signed original, the appropriate TTB officer may require a certification of validity.
+
+(July 30, 1947, Ch. 390, Pub. L. 80-280, 61 Stat. 648, as amended (26 U.S.C. 6, 7))(Approved by the Office of Management and Budget under control number 1512-0058)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, Mar. 22, 1999]

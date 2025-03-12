@@ -1,0 +1,5 @@
+##### § 24.320 Chemical record. #####
+
+A proprietor who uses chemicals, preservatives, or other such materials shall maintain a record of the purchase, receipt and disposition of these materials. The record will show the kinds and quantities received, the date of receipt, and the names and addresses from whom purchased. A record of use in juice or wine of any of these materials, except for filtering aids, inert fining agents, sulfur dioxide, carbon dioxide (except as provided in § 24.319), nitrogen and oxygen, will be maintained, showing the kind, quantity, and date of use, and kind and volume of juice or wine in which used.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367))(Approved by the Office of Management and Budget under control number 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31083, July 9, 1991]

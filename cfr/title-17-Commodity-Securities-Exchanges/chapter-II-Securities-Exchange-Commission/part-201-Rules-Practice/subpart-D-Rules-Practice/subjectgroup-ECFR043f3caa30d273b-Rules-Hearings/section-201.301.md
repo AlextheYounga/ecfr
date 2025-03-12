@@ -1,0 +1,3 @@
+##### § 201.301 Hearings to be public. #####
+
+All hearings, except hearings on applications for confidential treatment filed pursuant to § 201.190, hearings held to consider a motion for a protective order pursuant to § 201.322, and hearings on *ex parte* application for a temporary cease-and-desist order, shall be public unless otherwise ordered by the Commission on its own motion or the motion of a party. No hearing shall be nonpublic where all respondents request that the hearing be made public.

@@ -1,0 +1,5 @@
+##### § 110.5 Current good manufacturing practice. #####
+
+(a) The criteria and definitions in this part shall apply in determining whether a food is adulterated (1) within the meaning of section 402(a)(3) of the act in that the food has been manufactured under such conditions that it is unfit for food; or (2) within the meaning of section 402(a)(4) of the act in that the food has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health. The criteria and definitions in this part also apply in determining whether a food is in violation of section 361 of the Public Health Service Act (42 U.S.C. 264).
+
+(b) Food covered by specific current good manufacturing practice regulations also is subject to the requirements of those regulations.

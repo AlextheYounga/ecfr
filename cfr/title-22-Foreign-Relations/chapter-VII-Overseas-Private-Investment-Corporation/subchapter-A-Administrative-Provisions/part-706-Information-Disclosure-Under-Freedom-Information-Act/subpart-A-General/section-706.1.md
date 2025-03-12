@@ -1,0 +1,3 @@
+##### § 706.1 Description. #####
+
+This part contains the rules that the Overseas Private Investment Corporation (“OPIC”) follows in processing requests for records under the Freedom of Information Act (“FOIA”), 5 U.S.C. 552 as amended. These rules should be read together with the FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget at 52 FR 10012 (Mar. 27, 1987) (“OMB Guidelines”).

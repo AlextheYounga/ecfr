@@ -1,0 +1,3 @@
+##### § 401.30 Proceedings under Article X. #####
+
+When a question or matter of difference arising between the two Governments involving the rights, obligations or interests of either in relation to the other or to their respective inhabitants has been or is to be referred to the Commission for decision under Article X of the Treaty, the Commission, after consultation with the said Governments, will adopt such rules of procedure as may be appropriate to the question or matter referred or to be referred.

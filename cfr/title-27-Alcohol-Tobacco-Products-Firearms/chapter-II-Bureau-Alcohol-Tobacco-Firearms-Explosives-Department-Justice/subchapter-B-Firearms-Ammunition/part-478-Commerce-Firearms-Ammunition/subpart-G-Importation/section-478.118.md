@@ -1,0 +1,5 @@
+##### § 478.118 Importation of certain firearms classified as curios or relics. #####
+
+Notwithstanding any other provision of this part, a licensed importer may import all rifles and shotguns classified by the Director as curios or relics, and all handguns classified by the Director as curios or relics that are determined to be generally recognized as particularly suitable for or readily adaptable to sporting purposes. The importation of such curio or relic firearms must be in accordance with the applicable importation provisions of this part and the importation provisions of 27 CFR part 447. Curios or relics which fall within the definition of “firearm” under 26 U.S.C. 5845(a) must also meet the importation provisions of 27 CFR part 479 before they may be imported.
+
+[T.D. ATF-202, 50 FR 14383, Apr. 12, 1985]

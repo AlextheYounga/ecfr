@@ -1,0 +1,3 @@
+##### § 312.85 Phase 4 studies. #####
+
+Concurrent with marketing approval, FDA may seek agreement from the sponsor to conduct certain postmarketing (phase 4) studies to delineate additional information about the drug's risks, benefits, and optimal use. These studies could include, but would not be limited to, studying different doses or schedules of administration than were used in phase 2 studies, use of the drug in other patient populations or other stages of the disease, or use of the drug over a longer period of time.

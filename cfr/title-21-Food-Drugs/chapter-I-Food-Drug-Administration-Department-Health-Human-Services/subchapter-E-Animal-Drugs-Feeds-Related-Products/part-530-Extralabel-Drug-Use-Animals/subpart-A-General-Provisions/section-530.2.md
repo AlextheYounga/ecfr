@@ -1,0 +1,3 @@
+##### § 530.2 Purpose. #####
+
+The purpose of this part is to establish conditions for extralabel use or intended extralabel use in animals by or on the lawful order of licensed veterinarians of Food and Drug Administration approved new animal drugs and approved new human drugs. Such use is limited to treatment modalities when the health of an animal is threatened or suffering or death may result from failure to treat. This section implements the Animal Medicinal Drug Use Clarification Act of 1994 (the AMDUCA) (Pub. L. 103-396).

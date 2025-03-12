@@ -1,0 +1,3 @@
+##### § 1.90 Distilled spirits in bulk. #####
+
+By the terms of the Act (27 U.S.C. 206), all warehouse receipts for distilled spirits in bulk must require that the warehouseman shall package such distilled spirits, before delivery, in bottles labeled and marked in accordance with law, or deliver such distilled spirits in bulk only to persons to whom it is lawful to sell or otherwise dispose of distilled spirits in bulk.

@@ -1,0 +1,5 @@
+##### § 1.329 Do other statutory provisions and regulations apply? #####
+
+(a) In addition to the regulations in this subpart, you must comply with all other applicable statutory provisions and regulations related to the establishment and maintenance of records for foods except as described in paragraph (b) of this section. For example, the regulations in this subpart are in addition to existing recordkeeping regulations for low acid canned foods, juice, seafood, infant formula, color additives, bottled water, animal feed, and medicated animal feed.
+
+(b) Records established or maintained to satisfy the requirements of this subpart that meet the definition of electronic records in § 11.3(b)(6) (21 CFR 11.3 (b)(6)) of this chapter are exempt from the requirements of part 11 of this chapter. Records that satisfy the requirements of this subpart but that are also required under other applicable statutory provisions or regulations remain subject to part 11 of this chapter.

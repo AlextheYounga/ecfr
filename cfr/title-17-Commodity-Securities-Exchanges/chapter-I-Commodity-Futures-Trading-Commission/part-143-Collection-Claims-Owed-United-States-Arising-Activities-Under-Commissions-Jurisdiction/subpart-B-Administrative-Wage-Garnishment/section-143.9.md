@@ -1,0 +1,3 @@
+##### § 143.9 Administrative wage garnishment orders. #####
+
+Whenever an individual owes the United States a delinquent non-tax debt arising from activities under the Commission's jurisdiction, the Commission, or another federal agency collecting the debt on behalf of the Commission, may initiate administrative proceedings to garnish the disposable income of the delinquent debtor in accordance with the requirements of, and the procedures set forth in, 31 CFR 285.11. The Commission's use of other debt-collection measures set forth in subpart A of this part does not preclude the initiation of an administrative wage garnishment proceeding against a delinquent debtor.

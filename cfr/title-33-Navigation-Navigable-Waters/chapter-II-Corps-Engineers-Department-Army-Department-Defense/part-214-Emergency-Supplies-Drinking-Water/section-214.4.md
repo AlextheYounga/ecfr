@@ -1,0 +1,3 @@
+##### § 214.4 Additional authority. #####
+
+Section 82(2), Pub. L. 93-251, dated 7 March 1974, revised Pub. L. 84-99, as amended, by adding the following new sentence. “The Chief of Engineers, in the exercise of his discretion, is further authorized to provide emergency supplies of clean drinking water, on such terms as he determines to be advisable, to any locality which he finds is confronted with a source of contaminated drinking water causing or likely to cause a substantial threat to the public health and welfare of the inhabitants of the locality.” This authority expands the measures the Chief of Engineers may employ in providing emergency relief pursuant to Pub. L. 84-99.

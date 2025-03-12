@@ -1,0 +1,9 @@
+##### § 153.203 Procedure for the notice of discharge. #####
+
+Any person in charge of a vessel or of an onshore or offshore facility shall, as soon as they have knowledge of any discharge of oil or a hazardous substance from such vessel or facility in violation of section 311(b)(3) of the Act, immediately notify the Commandant (CG-MER-3), Attn: Industry and Interagency Coordination Division, U.S. Coast Guard Stop 7516, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7516, *toll free telephone number*: 800-424-8802, *direct telephone:* 202-267-2675, *or Fax:* 202-267-1322. If direct reporting to the NRC is not practicable, reports may be made to the Coast Guard or EPA predesignated OSC for the geographic area where the discharge occurs. All such reports shall be promptly relayed to the NRC. If it is not possible to notify the NRC or the predesignated OSC immediately, reports may be made immediately to the nearest Coast Guard unit, provided that the person in charge of the vessel or onshore or offshore facility notifies the NRC as soon as possible. A report made under this section satisfies the reporting requirements of § 151.15 of this chapter and of 46 CFR 4.05-1, if required under that provision.
+
+Note:
+
+Geographical jurisdiction of Coast Guard and EPA OSC's are specified in the applicable Regional Contingency Plan. Regional Contingency Plans are available at Coast Guard District Offices and EPA Regional Offices as indicated in Table 2. Addresses and telephone numbers for these offices are listed in Table 1.
+
+[CGD 84-067, 51 FR 17966, May 16, 1986, as amended by CGD 88-052, 53 FR 25121, July 1, 1988; USCG-2000-6927, 70 FR 74675, Dec. 16, 2005; USCG-2006-25150, 71 FR 39209, July 12, 2006; USCG-2008-0179, 73 FR 35014, June 19, 2008; USCG-2010-0351, 75 FR 36284, June 25, 2010; USCG-2014-0410, 79 FR 38435, July 7, 2014]

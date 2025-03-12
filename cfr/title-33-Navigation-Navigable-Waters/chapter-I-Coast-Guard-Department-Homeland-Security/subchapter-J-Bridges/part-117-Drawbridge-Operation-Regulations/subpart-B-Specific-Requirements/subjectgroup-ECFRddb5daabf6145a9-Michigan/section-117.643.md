@@ -1,0 +1,3 @@
+##### § 117.643 Pine River (St. Clair). #####
+
+The draw of the S29 bridge, mile 0.1 at St. Clair, shall open on signal from April 1 through November 30 from 2 a.m. to 8 a.m. and from 8 a.m. to 2 a.m. on the hour and one-half hour. From December 1 through March 31, the draw shall open on signal if at least 24 hours notice is given. Public vessels of the United States, state or local vessels used for public safety, and vessels in distress shall be passed through the draw as soon as possible.

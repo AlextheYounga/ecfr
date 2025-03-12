@@ -1,0 +1,3 @@
+##### § 12.105 Submission of proof only in documentary or tangible form. #####
+
+Proof in support of the complaint and in support of the respondent's answer (including counterclaims, if any), and any reply thereto, may be found in those verified documents, in verified statements of non-party witnesses, in other verified statements of fact, and in other documents and tangible evidence. No oral testimony by, or examination of, the parties or their witnesses shall be permitted.

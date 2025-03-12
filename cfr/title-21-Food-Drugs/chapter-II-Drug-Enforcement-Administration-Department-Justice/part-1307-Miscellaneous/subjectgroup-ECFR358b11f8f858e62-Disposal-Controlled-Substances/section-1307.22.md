@@ -1,0 +1,5 @@
+##### § 1307.22 Delivery of surrendered and forfeited controlled substances. #####
+
+Any controlled substance surrendered by delivery to the Administration under part 1317 of this chapter or forfeited pursuant to section 511 of the Act (21 U.S.C. 881) may be delivered to any department, bureau, or other agency of the United States or of any State upon proper application addressed to the Office of Diversion Control, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. The application shall show the name, address, and official title of the person or agency to whom the controlled drugs are to be delivered, including the name and quantity of the substances desired and the purpose for which intended. The delivery of such controlled drugs shall be ordered by the Administrator, if, in his opinion, there exists a medical or scientific need therefor.
+
+[75 FR 10678, Mar. 9, 2010, as amended at 79 FR 53565, Sept. 9, 2014]

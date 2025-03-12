@@ -1,0 +1,5 @@
+##### § 150.513 What occurs during the monthly tests and inspections? #####
+
+(a) The operator must inspect each item of lifesaving equipment under § 150.502(b) of this subpart monthly, to ensure that the equipment is complete and in good order. The operator must keep on the deepwater port, or in the operator's principal office in the case of an unmanned deepwater port, a report of the inspection that includes a statement as to the condition of the equipment, and make the report available for review by the Coast Guard.
+
+(b) The operator must test, on a monthly basis, each emergency position indicating radio beacon (EPIRB) and each search and rescue transponder (SART), other than an EPIRB or SART in an inflatable liferaft. The operator must test the EPIRB using the integrated test circuit and output indicator to determine whether the EPIRB is operational.

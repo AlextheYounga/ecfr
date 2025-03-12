@@ -1,0 +1,3 @@
+##### § 21.10 Policy concerning records about individuals. #####
+
+Information about individuals in Food and Drug Administration records shall be collected, maintained, used, and disseminated so as to protect the right to privacy of the individual to the fullest possible extent consistent with laws relating to disclosure of information to the general public, the law enforcement responsibilities of the agency, and administrative and program management needs.

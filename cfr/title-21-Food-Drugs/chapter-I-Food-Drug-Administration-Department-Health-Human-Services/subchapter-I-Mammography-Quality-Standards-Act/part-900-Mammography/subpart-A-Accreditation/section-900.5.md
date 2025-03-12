@@ -1,0 +1,3 @@
+##### § 900.5 Evaluation. #####
+
+FDA shall evaluate annually the performance of each accreditation body. Such evaluation shall include an assessment of the reports of FDA or State inspections of facilities accredited by the body as well as any additional information deemed relevant by FDA that has been provided by the accreditation body or other sources or has been required by FDA as part of its oversight initiatives. The evaluation shall include a determination of whether there are major deficiencies in the accreditation body's performance that, if not corrected, would warrant withdrawal of the approval of the accreditation body under the provisions of § 900.6.

@@ -1,0 +1,5 @@
+##### § 822.12 Do you have any information that will help me prepare my submission or design my postmarket surveillance plan? #####
+
+Guidance documents that discuss our current thinking on preparing a postmarket surveillance submission and designing a postmarket surveillance plan are available on the Center for Devices and Radiological Health's Web site and from the Food and Drug Administration, Center for Devices and Radiological Health, Office of Surveillance and Biometrics, 10903 New Hampshire Ave., Bldg. 66, rm. 3219, Silver Spring, MD 20993-0002. Guidance documents represent our current interpretation of, or policy on, a regulatory issue. They do not establish legally enforceable rights or responsibilities and do not legally bind you or FDA. You may choose to use an approach other than the one set forth in a guidance document, as long as your alternative approach complies with the relevant statutes (laws) and regulations. If you wish, we will meet with you to discuss whether an alternative approach you are considering will satisfy the requirements of the act and regulations.
+
+[75 FR 20915, Apr. 22, 2010]

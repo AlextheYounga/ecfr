@@ -1,0 +1,5 @@
+##### § 163.117 Cocoa with dioctyl sodium sulfosuccinate for manufacturing. #####
+
+(a) *Description.* Cocoa with dioctyl sodium sulfosuccinate for manufacturing is the food additive complying with the provisions prescribed in § 172.520 of this chapter. It conforms to the definition and standard of identity, and is subject to the requirements for label declaration of ingredients, for breakfast cocoa in § 163.112, or for cocoa in § 163.113, or for lowfat cocoa in § 163.114, except that the food additive contains dioctyl sodium sulfosuccinate (complying with the requirements of § 172.810 of this chapter, including the limit of not more than 0.4 percent by weight of the finished food additive).
+
+(b) *Nomenclature.* The name of the food additive is “cocoa with dioctyl sodium sulfosuccinate for manufacturing” to which is added any modifier of the word “cocoa” required by the definition and standard of identity to which the food additive otherwise conforms. When the food additive is used in a fabricated food, the phrase “for manufacturing” may be omitted from any declaration of ingredients required under § 101.4 of this chapter.

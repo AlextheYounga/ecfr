@@ -1,0 +1,5 @@
+##### § 28.93 Carrier to be designated. #####
+
+The name of the carrier or carriers to be used in transporting the distilled spirits from the bonded premises of the distilled spirits plant to the port of export, or to the customs bonded warehouse, or to the manufacturing bonded warehouse, or to the foreign-trade zone, as the case may be, shall be shown in the application. If the spirits are shipped on a through bill of lading and all carriers handling the spirits while in transit are not known, the name of the carrier to whom the distilled spirits are to be delivered at the shipping premises shall be shown.
+
+(72 Stat. 1362, 84 Stat. 1965; 26 U.S.C. 5214, 5066)[T.D. 7112, 36 FR 8581, May 8, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-62, 44 FR 71722, Dec. 11, 1979]

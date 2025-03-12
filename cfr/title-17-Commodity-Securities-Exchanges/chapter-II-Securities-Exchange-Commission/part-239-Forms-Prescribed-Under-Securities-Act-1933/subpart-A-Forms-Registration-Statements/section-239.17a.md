@@ -1,0 +1,5 @@
+##### § 239.17a Form N-3, registration statement for separate accounts organized as management investment companies. #####
+
+Form N-3 shall be used for registration under the Securities Act of 1933 of securities of separate accounts that offer variable annuity contracts and which register under the Investment Company Act of 1940 as management investment companies, and certain other separate accounts. This form is also to be used for the registration statement of such separate accounts pursuant to section 8(b) of the Investment Company Act of 1940 (§ 274.11b of this chapter).
+
+[50 FR 26160, June 25, 1985]Editorial Note:For Federal Register citations affecting Form N-3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

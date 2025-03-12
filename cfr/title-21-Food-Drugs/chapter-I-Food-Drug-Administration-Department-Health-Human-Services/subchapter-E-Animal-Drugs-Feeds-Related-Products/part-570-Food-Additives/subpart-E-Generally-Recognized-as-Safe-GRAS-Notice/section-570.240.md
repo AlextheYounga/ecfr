@@ -1,0 +1,3 @@
+##### § 570.240 Part 4 of a GRAS notice: Self-limiting levels of use. #####
+
+In circumstances where the amount of the notified substance that can be added to animal food is limited because animal food containing levels of the notified substance above a particular level would become unpalatable or technologically impractical, in Part 4 of your GRAS notice you must include data and information on such self-limiting levels of use.

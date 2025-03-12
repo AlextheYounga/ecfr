@@ -1,0 +1,3 @@
+##### § 3a.8 Change in status. #####
+
+In the event that an applicant's foreign government employment approved under this part is to be materially changed, either by a substantial change in duties from those described in the request upon which the original approval was based, or by a change of employer, the applicant must obtain further approval in accordance with this part for such changed employment.

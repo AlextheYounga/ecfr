@@ -1,0 +1,5 @@
+##### § 41.126 Termination of bond. #####
+
+Any bond given under the provisions of this subpart may be terminated as to future transactions, by the appropriate TTB officer, (a) pursuant to application of surety as provided in § 41.127; (b) on approval of a superseding bond; (c) on notification by the bonded manufacturer to the appropriate TTB officer that he has discontinued the deferral of taxes under the bond; or (d) on notification by the bonded manufacturer to the appropriate TTB officer that he has discontinued business. When any bond is terminated, the appropriate TTB officer shall notify both the bonded manufacturer and surety on such bond, in writing, of such action.
+
+[26 FR 8196, Aug. 31, 1961. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-251, 52 FR 19341, May 22, 1987. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

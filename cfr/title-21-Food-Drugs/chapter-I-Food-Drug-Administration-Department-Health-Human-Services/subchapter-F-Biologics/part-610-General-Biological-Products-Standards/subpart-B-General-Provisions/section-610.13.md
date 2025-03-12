@@ -1,0 +1,17 @@
+##### § 610.13 Purity. #####
+
+Products shall be free of extraneous material except that which is unavoidable in the manufacturing process described in the approved biologics license application. In addition, products shall be tested as provided in paragraphs (a) and (b) of this section.
+
+(a)(1) *Test for residual moisture.* Each lot of dried product shall be tested for residual moisture and shall meet and not exceed established limits as specified by an approved method on file in the biologics license application. The test for residual moisture may be exempted by the Director, Center for Biologics Evaluation and Research or the Director, Center for Drug Evaluation and Research, when deemed not necessary for the continued safety, purity, and potency of the product.
+
+(2) *Records.* Appropriate records for residual moisture under paragraph (a)(1) of this section shall be prepared and maintained as required by the applicable provisions of §§ 211.188 and 211.194 of this chapter.
+
+(b) *Test for pyrogenic substances.* Each lot of final containers of any product intended for use by injection shall be tested for pyrogenic substances by intravenous injection into rabbits as provided in paragraphs (b) (1) and (2) of this section: *Provided,* That notwithstanding any other provision of Subchapter F of this chapter, the test for pyrogenic substances is not required for the following products: Products containing formed blood elements; Cryoprecipitate; Plasma; Source Plasma; Normal Horse Serum; bacterial, viral, and rickettsial vaccines and antigens; toxoids; toxins; allergenic extracts; venoms; diagnostic substances and trivalent organic arsenicals.
+
+(1) *Test dose.* The test dose for each rabbit shall be at least 3 milliliters per kilogram of body weight of the rabbit and also shall be at least equivalent proportionately, on a body weight basis, to the maximum single human dose recommended, but need not exceed 10 milliliters per kilogram of body weight of the rabbit, except that: (i) Regardless of the human dose recommended, the test dose per kilogram of body weight of each rabbit shall be at least 1 milliliter for immune globulins derived from human blood; (ii) for Streptokinase, the test dose shall be at least equivalent proportionately, on a body weight basis, to the maximum single human dose recommended.
+
+(2) *Test procedure, results, and interpretation; standards to be met.* The test for pyrogenic substances shall be performed according to the requirements specified in United States Pharmacopeia XX.
+
+(3) *Retest.* If the lot fails to meet the test requirements prescribed in paragraph (b)(2) of this section, the test may be repeated once using five other rabbits. The temperature rises recorded for all eight rabbits used in testing shall be included in determining whether the requirements are met. The lot meets the requirements for absence of pyrogens if not more than three of the eight rabbits show individual rises in temperature of 0.6 °C or more, and if the sum of the eight individual maximum temperature rises does not exceed 3.7 °C.
+
+[38 FR 32056, Nov. 20, 1973, as amended at 40 FR 29710, July 15, 1975; 41 FR 10429, Mar. 11, 1976; 41 FR 41424, Sept. 22, 1976; 44 FR 40289, July 10, 1979; 46 FR 62845, Dec. 29, 1981; 49 FR 15187, Apr. 18, 1984; 50 FR 4134, Jan. 29, 1985; 55 FR 28381, July 11, 1990; 64 FR 56453, Oct. 20, 1999; 67 FR 9587, Mar. 4, 2002; 70 FR 14985, Mar. 24, 2005]

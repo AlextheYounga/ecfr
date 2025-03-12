@@ -1,0 +1,5 @@
+##### § 24.103 Other operations. #####
+
+Upon the specific approval of the appropriate TTB officer, other operations not provided for in this part may be conducted on wine premises. Authority to conduct other operations may be obtained by submitting an application to the appropriate TTB officer. The application must specifically describe the operation to be conducted and the wine premises and equipment to be used. An appropriate TTB officer may make any inquiry necessary to determine whether the conduct of other operations on wine premises would jeopardize the revenue, conflict with wine operations, or be contrary to law. Other operations authorized under this section will be conducted in accordance with the conditions, limitations, procedures, and terms stated in the approved application. Authority to conduct other operations may be withdrawn whenever the appropriate TTB officer determines the conduct of the other operations on wine premises jeopardizes the revenue, conflicts with wine operations, or is contrary to law.
+
+[T.D. ATF-409, 64 FR 13685, Mar. 22, 1999]

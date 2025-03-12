@@ -1,0 +1,3 @@
+##### § 518.4 Deviations. #####
+
+The Office of Management and Budget (OMB) may grant exceptions for classes of grants or recipients subject to the requirements of this part when exceptions are not prohibited by statute. However, in the interest of maximum uniformity, exceptions from the requirements of this part shall be permitted only in unusual circumstances. Federal awarding agencies may apply more restrictive requirements to a class of recipients when approved by OMB. Federal awarding agencies may apply less restrictive requirements when awarding small awards, except for those requirements which are statutory. Exceptions on a case-by-case basis may also be made by Federal awarding agencies.

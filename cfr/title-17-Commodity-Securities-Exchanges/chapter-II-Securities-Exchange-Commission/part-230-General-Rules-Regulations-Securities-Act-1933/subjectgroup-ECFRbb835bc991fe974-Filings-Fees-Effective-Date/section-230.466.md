@@ -1,0 +1,17 @@
+##### § 230.466 Effective date of certain registration statements on Form F-6. #####
+
+(a) A depositary that previously has filed a registration statement on Form F-6 (§ 239.36 of this chapter) may designate a date and time for a registration statement (including post-effective amendments) on Form F-6 to become effective and such registration statement shall become effective in accordance with such designation if the following conditions are met:
+
+(1) The depositary previously has filed a registration statement on Form F-6 (§ 239.36 of this chapter), which the Commission has declared effective, with identical terms of deposit, except for the number of foreign securities a Depositary Share represents, and the depositary so certifies; and
+
+(2) The designation of the effective date and time is set forth on the facing-page of the registration statement, or in any pre-effective amendment thereto. A pre-effective amendment containing such a designation properly made shall be deemed to have been filed with the consent of the Commission.
+
+(b)(1) The Commission may, in the manner and under the circumstances set forth in paragraph (b)(2) of this section, suspend the ability of a depositary to designate the date and time of effectiveness of a registration statement, and such suspension shall remain in effect until the Commission furnishes written notice to the depositary that the suspension has been terminated. Any suspension, so long as it is in effect, shall apply to any registration statement that has been filed but has not, at the time of such suspension, become effective and to any registration statement the depositary files after such suspension. Any such suspension applies only to the ability to designate the date and time of effectiveness under paragraph (a) of this section and does not otherwise affect the registration statement.
+
+(2) Any suspension under paragraph (b)(1) of this section becomes effective when the Commission furnishes written notice thereof to the depositary. The Commission may issue a suspension if it appears to the Commission:
+
+(i) That any registration statement containing a designation under this section is incomplete or inaccurate in any material respect, whether or not such registration has become effective, or
+
+(ii) That the depositary has not complied with any of the conditions of this section. The depositary may petition the Commission to review the suspension. The Commission will order a hearing on the matter if a request for such a hearing is included in the petition.
+
+(Secs. 6, 7, 8, 10, 19(a), 48 Stat. 78, 79, 81, 85; secs. 205, 209, 48 Stat. 906, 908; sec. 301, 54 Stat. 857; sec. 8, 68 Stat. 685; sec. 1, 79 Stat. 1051; sec. 308(a)(2), 90 Stat. 57; secs. 12, 13, 15(d), 23(a), 48 Stat. 892, 894, 895, 901; secs. 1, 3, 8, 49 Stat. 1375, 1377, 1379; sec. 203(a), 49 Stat. 704; sec. 202, 68 Stat. 686; secs. 3, 4, 6, 78 Stat. 565-568, 569, 570-574; secs. 1, 2, 82 Stat. 454; sec. 28(c), 84 Stat. 1435; secs. 1, 2, 84 Stat. 1497; sec. 105(b), 88 Stat. 1503; secs. 8, 9, 10, 18, 89 Stat. 117, 118, 119, 155; sec. 308(b), 90 Stat. 57; secs. 202, 203, 204, 91 Stat. 1494, 1498, 1499, 1500; 15 U.S.C. 77f, 77g, 77h, 77j, 77s(a), 78*l,* 78m, 78*o*(d), 78w(a))[48 FR 12347, Mar. 24, 1983]

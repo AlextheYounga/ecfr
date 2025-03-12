@@ -1,0 +1,7 @@
+##### § 888.3358 Hip joint metal/polymer/metal semi-constrained porous-coated uncemented prosthesis. #####
+
+(a) *Identification.* A hip joint metal/polymer/metal semi-constrained porous-coated uncemented prosthesis is a device intended to be implanted to replace a hip joint. The device limits translation and rotation in one or more planes via the geometry of its articulating surfaces. It has no linkage across the joint. This generic type of device has a femoral component made of a cobalt-chromium-molybdenum (Co-Cr-Mo) alloy or a titanium-aluminum-vanadium (Ti-6Al-4V) alloy and an acetabular component composed of an ultra-high molecular weight polyethylene articulating bearing surface fixed in a metal shell made of Co-Cr-Mo or Ti-6Al-4V. The femoral stem and acetabular shell have a porous coating made of, in the case of Co-Cr-Mo substrates, beads of the same alloy, and in the case of Ti-6Al-4V substrates, fibers of commercially pure titanium or Ti-6Al-4V alloy. The porous coating has a volume porosity between 30 and 70 percent, an average pore size between 100 and 1,000 microns, interconnecting porosity, and a porous coating thickness between 500 and 1,500 microns. The generic type of device has a design to achieve biological fixation to bone without the use of bone cement.
+
+(b) *Classification.* Class II.
+
+[58 FR 3228, Jan. 8, 1993]

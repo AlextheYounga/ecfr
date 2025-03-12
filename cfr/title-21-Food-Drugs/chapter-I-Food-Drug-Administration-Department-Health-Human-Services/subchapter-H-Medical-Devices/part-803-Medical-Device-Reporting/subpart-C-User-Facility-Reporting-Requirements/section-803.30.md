@@ -1,0 +1,9 @@
+##### § 803.30 If I am a user facility, what reporting requirements apply to me? #####
+
+(a) You must submit reports to the manufacturer or to us, or both, as specified in paragraphs (a)(1) and (a)(2) of this section as follows:
+
+(1) *Reports of death.* You must submit a report to us as soon as practicable but no more than 10 work days after the day that you become aware of information, from any source, that reasonably suggests that a device has or may have caused or contributed to the death of a patient of your facility. You must also submit the report to the device manufacturer, if known. You must submit the information required by § 803.32. Reports sent to the Agency must be submitted in accordance with the requirements of § 803.12(b).
+
+(2) *Reports of serious injury.* You must submit a report to the manufacturer of the device no later than 10 work days after the day that you become aware of information, from any source, that reasonably suggests that a device has or may have caused or contributed to a serious injury to a patient of your facility. If the manufacturer is not known, you must submit the report to us. You must report information required by § 803.32. Reports sent to the Agency must be submitted in accordance with the requirements of § 803.12 (b).
+
+(b) *What information does FDA consider “reasonably known” to me?* You must submit all information required in this subpart C that is reasonably known to you. This information includes information found in documents that you possess and any information that becomes available as a result of reasonable followup within your facility. You are not required to evaluate or investigate the event by obtaining or evaluating information that you do not reasonably know.

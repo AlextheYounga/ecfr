@@ -1,0 +1,3 @@
+##### § 511.11 Acceptance of award. #####
+
+The acceptance by the claimant of any award will be final and conclusive on the claimant. The acceptance will constitute a complete release of any claim by reason of the same subject matter against the United States and against the employee whose act or omission resulted in the claim. Adjudication and payment shall likewise be conclusive on all officers of the United States, unless procured by fraud.

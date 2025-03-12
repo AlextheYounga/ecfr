@@ -1,0 +1,3 @@
+##### § 46.274 Penalties for failure to comply. #####
+
+If the dealer fails to follow the regulations set forth in this subpart, TTB may apply applicable civil and criminal penalties under the Internal Revenue Code of 1986. For example, failure to file and failure to pay penalties may be assessed against the dealer if the dealer does not timely file the tax return or timely pay the taxes due. In addition, interest under 26 U.S.C. 6621 accrues for any underpayment of tax and on all assessed penalties until paid.

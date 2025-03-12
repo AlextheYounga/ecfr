@@ -1,0 +1,5 @@
+##### § 740.19 Suntanning preparations. #####
+
+The labeling of suntanning preparations that do not contain a sunscreen ingredient must display the following warning: “Warning—This product does not contain a sunscreen and does not protect against sunburn. Repeated exposure of unprotected skin while tanning may increase the risk of skin aging, skin cancer, and other harmful effects to the skin even if you do not burn.” For purposes of this section, the term “suntanning preparations” includes gels, creams, liquids, and other topical products that are intended to provide cosmetic effects on the skin while tanning through exposure to UV radiation (e.g., moisturizing or conditioning products), or to give the appearance of a tan by imparting color to the skin through the application of approved color additives (e.g., dihydroxyacetone) without the need for exposure to UV radiation. The term “suntanning preparations” does not include products intended to provide sun protection or otherwise intended to affect the structure or any function of the body.
+
+[64 FR 27693, May 21, 1999]

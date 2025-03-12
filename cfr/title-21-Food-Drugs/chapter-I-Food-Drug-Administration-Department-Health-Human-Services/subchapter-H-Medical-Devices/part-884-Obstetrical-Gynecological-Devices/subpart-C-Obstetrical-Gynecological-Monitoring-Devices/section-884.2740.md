@@ -1,0 +1,5 @@
+##### § 884.2740 Perinatal monitoring system and accessories. #####
+
+(a) *Identification.* A perinatal monitoring system is a device used to show graphically the relationship between maternal labor and the fetal heart rate by means of combining and coordinating uterine contraction and fetal heart monitors with appropriate displays of the well-being of the fetus during pregnancy, labor, and delivery. This generic type of device may include any of the devices subject to §§ 884.2600, 884.2640, 884.2660, 884.2675, 884.2700, and 884.2720. This generic type of device may include the following accessories: Central monitoring system and remote repeaters, signal analysis and display equipment, patient and equipment supports, and component parts.
+
+(b) *Classification.* Class II (performance standards).

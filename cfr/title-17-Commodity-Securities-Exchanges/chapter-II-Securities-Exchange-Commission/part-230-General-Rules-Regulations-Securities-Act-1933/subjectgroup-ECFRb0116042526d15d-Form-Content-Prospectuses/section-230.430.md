@@ -1,0 +1,11 @@
+##### § 230.430 Prospectus for use prior to effective date. #####
+
+(a) A form of prospectus filed as a part of the registration statement shall be deemed to meet the requirements of section 10 of the Act for the purpose of section 5(b)(1) thereof prior to the effective date of the registration statement, provided such form of prospectus contains substantially the information required by the Act and the rules and regulations thereunder to be included in a prospectus meeting the requirements of section 10(a) of the Act for the securities being registered, or contains substantially that information except for the omission of information with respect to the offering price, underwriting discounts or commissions, discounts or commissions to dealers, amount of proceeds, conversion rates, call prices, or other matters dependent upon the offering price. Every such form of prospectus shall be deemed to have been filed as a part of the registration statement for the purpose of section 7 of the Act.
+
+(b) A form of prospectus filed as part of a registration statement on Form N-1A (§ 239.15A and § 274.11A of this chapter), Form N-2 (§ 239.14 and § 274.11a-1 of this chapter), Form N-3 (§ 239.17a and § 274.11b of this chapter), Form N-4 (§ 239.17b and § 274.11c of this chapter), or Form N-6 (§ 239.17c and § 274.11d of this chapter) shall be deemed to meet the requirements of Section 10 of the Act (15 U.S.C. 77j) for the purpose of Section 5(b)(1) thereof (15 U.S.C. 77e(b)(1)) prior to the effective date of the registration statement, provided that:
+
+(1) Such form of prospectus meets the requirements of paragraph (a) of this section; and
+
+(2) Such registration statement contains a form of Statement of Additional Information that is made available to persons receiving such prospectus upon written or oral request, and without charge, unless the form of prospectus contains the information otherwise required to be disclosed in the form of Statement of Additional Information. Every such form of prospectus shall be deemed to have been filed as part of the registration statement for the purpose of section 7 of the Act.
+
+[47 FR 11440, Mar. 16, 1982, as amended at 57 FR 56834, Dec. 1, 1992; 67 FR 19868, Apr. 23, 2002; 76 FR 71876, Nov. 21, 2011]

@@ -1,0 +1,7 @@
+##### § 66.4 Availability of final opinions, orders, policies, interpretations, manuals and instructions. #####
+
+NED is not an adjudicatory organization and therefore does not issue final opinions and orders made in the adjudication of cases. NED will, however, in accordance with the rules in this section and § 526.7, make available for public inspection and copying those statements of policy and interpretation that have been adopted by NED and are not published in the Federal Register, and administrative staff manuals and instructions to staff that affect any member of the public.
+
+(a) *Deletion to protect privacy.* To the extent required to prevent a clearly unwarranted invasion of personal privacy, NED may delete identifying details when it makes available or publishes a statement of policy, interpretation, or staff manual or instruction. Whenever NED finds any such deletion necessary, the responsible officer or employee must fully explain the justification therefor in writing.
+
+(b) *Current index.* NED will maintain and make available on its premises for public inspection and copying a current index providing identifying information for the public as to any matter issued, adopted or promulgated after July 4, 1967, and required by this section to be made available or published. NED will provide copies on request at a cost of $0.15 per page.

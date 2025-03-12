@@ -1,0 +1,3 @@
+##### § 26.36 Listing of CAB's. #####
+
+Each party shall designate conformity assessment bodies (CAB's) to participate in confidence building activities by transmitting to the other party a list of CAB's which meet the criteria for technical competence and independence, as identified in appendix A of this subpart. The list shall be accompanied by supporting evidence. Designated CAB's will be listed in appendix D of this subpart for participation in the confidence building activities once confirmed by the importing party. Nonconfirmation would have to be justified based on documented evidence.

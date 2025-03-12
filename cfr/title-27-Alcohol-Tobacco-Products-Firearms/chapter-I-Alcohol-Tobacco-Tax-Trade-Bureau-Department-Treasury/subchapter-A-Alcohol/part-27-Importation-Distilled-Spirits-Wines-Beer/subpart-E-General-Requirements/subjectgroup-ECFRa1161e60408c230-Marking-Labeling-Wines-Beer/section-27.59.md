@@ -1,0 +1,5 @@
+##### § 27.59 Wines. #####
+
+All imported wines containing not less than 7 percent and not more than 24 percent of alcohol by volume are required to be packaged, marked, branded, and labeled in conformity with the Federal Alcohol Administration Act and regulations promulgated thereunder (27 CFR part 4), prior to their removal from customs custody. Containers of imported wine bottled or packaged after taxpayment and withdrawal from customs custody are required to be covered by a certificate of label approval or a certificate of exemption from label approval on TTB Form 5100.31 issued pursuant to the Federal Alcohol Administration Act and regulations promulgated thereunder (27 CFR part 4). Imported containers of wine are required also to be marked, branded and labeled in accordance with customs regulations (19 CFR parts 11 and 12).
+
+[20 FR 3561, May 21, 1955. Redesignated at 40 FR 16835, Apr. 15, 1975 and amended by T.D. ATF-242, 51 FR 39526, Oct. 29, 1986; T.D. ATF-474, 67 FR 11232, Mar. 13, 2002]

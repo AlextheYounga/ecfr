@@ -1,0 +1,5 @@
+##### § 479.25 Collector's items. #####
+
+The Director shall determine in accordance with 26 U.S.C. 5845(a), whether a firearm or device, which although originally designed as a weapon, is by reason of the date of its manufacture, value, design, and other characteristics primarily a collector's item and is not likely to be used as a weapon. A person who desires to obtain a determination under that provision of law shall follow the procedures prescribed in § 479.24 relating to destructive device determinations, and shall include information as to date of manufacture, value, design and other characteristics which would sustain a finding that the firearm or device is primarily a collector's item and is not likely to be used as a weapon.
+
+[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55842, Sept. 28, 1979]

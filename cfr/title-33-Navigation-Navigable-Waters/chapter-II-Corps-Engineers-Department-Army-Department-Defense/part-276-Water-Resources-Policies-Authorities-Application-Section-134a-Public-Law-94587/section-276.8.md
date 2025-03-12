@@ -1,0 +1,3 @@
+##### § 276.8 Cessation. #####
+
+The legislation specifies that this authority shall cease to be in effect after December 31, 1977. No requests for certification will be processed after that date. To be eligible for credit, proposals for local work must have been certified by the District Engineer no later than December 31, 1977. There is no requirement that the local improvement be initiated or accomplished by that date.

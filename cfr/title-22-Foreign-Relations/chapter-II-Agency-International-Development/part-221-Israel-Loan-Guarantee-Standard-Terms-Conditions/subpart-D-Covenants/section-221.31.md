@@ -1,0 +1,3 @@
+##### § 221.31 Prosecution of claims. #####
+
+After payment by A.I.D. to an Applicant pursuant to § 221.21, A.I.D. shall have exclusive power to prosecute all claims related to rights to receive payments under the Eligible Notes to which it is thereby subrogated. If a Noteholder continues to have an interest in the outstanding Eligible Notes, such a Noteholder and A.I.D. shall consult with each other with respect to their respective interests in such Eligible Notes and the manner of and responsibility for prosecuting claims.

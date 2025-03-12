@@ -1,0 +1,11 @@
+##### § 24.158 Extent of relief. #####
+
+(a) *General.* The surety on any bond required by this part who has filed a notice for relief from liability as provided in § 24.157 will be relieved from liability under bond as set forth in this section.
+
+(b) *Wine bond.* Where a new or superseding bond is filed, the surety of the existing bond will be relieved of future liability with respect to wine, spirits, volatile fruit-flavor concentrate, or any other commodities subject to tax under 26 U.S.C. chapter 51 on hand or in transit to bonded wine premises on or after the effective date of the new or superseding bond. Notwithstanding such relief, the surety will remain liable for the tax on all wine or volatile fruit-flavor concentrate produced at, and for wine, spirits, and volatile fruit-flavor concentrate consigned to, the bonded wine premises, and for all other liabilities incurred, during the term of the bond. Where a new or superseding bond is not filed the surety will, in addition to the continuing liabilities specified above, remain liable for all wine, spirits, volatile fruit-flavor concentrate, or other commodities subject to tax under 26 U.S.C. chapter 51 on hand or in transit to bonded wine premises on the date specified in the notice, until all the wine, spirits, volatile fruit-flavor concentrate, or commodities subject to tax under 26 U.S.C. chapter 51 have been lawfully disposed of, or a new bond has been filed covering the liability.
+
+(c) *Tax deferral bond.* The surety will be relieved of liability for the tax on any wine removed from the bonded wine premises after the date specified in the notice. The surety will continue to be liable for the tax on wine removed for consumption or sale on or before the date specified in the notice, until all tax is fully paid.
+
+(d) *Wine vinegar plant bond.* The surety will be relieved of liability for tax on wine withdrawn for the manufacture of vinegar after the date specified in the notice. The surety will continue to be liable for the tax on wine withdrawn on or before the date specified in the notice, until all wine is fully accounted for.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended, 1380, as amended (26 U.S.C. 5354, 5362))(Approved by the Office of Management and Budget under control number 1512-0058)

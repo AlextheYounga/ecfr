@@ -1,0 +1,5 @@
+##### § 46.10 Bond, Form 2490. #####
+
+Each claim for a refund or credit of tax on articles which the claimant or the owner, as the case may be, has neither sold nor contracted to sell at the time of filing of the claim must be accompanied by a bond on TTB Form 5620.10. The bond shall be executed by the claimant or the owner of the articles, as the case may be, in accordance with the provisions of this subpart and the instructions printed on the form. Such bond shall be conditioned that there will be no relief or shifting of the ultimate burden of the tax to any other person. The penal sum shall not be less than the amount of tax claimed on all articles which have not been sold or contracted for sale at the time of filing of the claim. Bonds required by this subpart shall be given with corporate surety or with collateral security. A separate bond must be filed for each claim.
+
+[T.D. 6395, 24 FR 599, Jan. 28, 1959. Redesignated at 40 FR 16835, Apr. 15, 1975, as amended by T.D. ATF-472, 67 FR 8880, Feb. 27, 2002]

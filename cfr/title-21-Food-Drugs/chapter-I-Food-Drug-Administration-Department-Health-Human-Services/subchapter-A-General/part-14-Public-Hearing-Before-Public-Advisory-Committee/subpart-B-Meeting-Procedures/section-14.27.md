@@ -1,0 +1,29 @@
+##### § 14.27 Determination to close portions of advisory committee meetings. #####
+
+(a) No committee meeting may be entirely closed. A portion of a meeting may be closed only in accordance with a written determination by the Commissioner under this section.
+
+(b) The Designated Federal Officer or other designated agency employee shall prepare the initial request for a determination to close a portion of a meeting, specifying the matter(s) to be discussed during the closed portion and the reasons why the portion should be closed. The Commissioner, based upon this request and with the concurrence of the Chief Counsel, will determine whether to close a portion of a meeting. The reasons for closing a portion of a meeting will be announced in the Federal Register notice of the meeting under § 14.20 in accordance with the following rules:
+
+(1) Any determination to close a portion of a meeting restricts the closing to the shortest possible time consistent with the policy in this section.
+
+(2) A portion of a meeting may be closed only if the Commissioner determines that the closing is permitted under 5 U.S.C. 552b(c), and that the closing is necessary.
+
+(3) Portions of meetings may ordinarily be closed if they concern the review, discussion, and evaluation of drafts or regulations, guidance documents or similar preexisting internal agency documents, but only if their premature disclosure would significantly impede proposed agency action; review of trade secrets and confidential commercial or financial information; consideration of matters involving investigatory files compiled for law enforcement purposes; and review of matters, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
+
+(4) Portions of meetings ordinarily may not be closed if they concern review, discussion, and evaluation of general preclinical and clinical test protocols and procedures for a class of drugs or devices; consideration of labeling requirements for a class of marketed drugs and devices; review of information on specific investigational or marketed drugs and devices that have previously been made public; presentation of any other information not exempt from public disclosure under 5 U.S.C. 552b(c); the formulation of advice and recommendations to FDA on matters that do not independently justify closing.
+
+(5) No portion of a meeting devoted to matters other than those designated in paragraph (b) (1) through (3) of this section may be closed.
+
+(6) A matter which is properly considered in an open portion of a meeting may instead be considered in a closed portion only if it is so inextricably intertwined with matters to be discussed in a closed portion that it is not feasible to separate them or discussion of the matter in an open portion would compromise the matters to be discussed in the closed portion.
+
+(c) Attendance at a closed portion of a meeting is governed by the following rules:
+
+(1) A portion of a meeting closed for the presentation or discussion of information that constitutes a trade secret or confidential commercial or financial information as defined in § 20.61 may be attended only by voting advisory committee members, nonvoting members representing consumer interests who are also special government employees as provided in § 14.80(b), the Designated Federal Officer of the advisory committee, a transcriber, consultants, and such other regular employees of FDA (including members of the Office of the Chief Counsel) as the Chairperson of the advisory committee may invite, and by those persons authorized to be present under § 14.25(c), for presentation of information prohibited from public disclosure. A person making a presentation described in § 14.25(c) may be accompanied by a reasonable number of employees, consultants, or other persons in a commercial arrangement within the meaning of § 20.81(a).
+
+(2) A portion of a meeting that has been closed for consideration of existing internal agency documents falling within § 20.62 where premature disclosure is likely to significantly impede proposed agency action; personnel, medical, and similar files, disclosure of which would be a clearly unwarranted invasion of personal privacy within the meaning of § 20.63; or investigatory records compiled for law enforcement purposes as defined in § 20.64 may be attended only by committee members (voting and nonvoting), the Designated Federal Officer of the committee, a transcriber, and other regular employees of FDA (including members of the Office of the Chief Counsel) whom the Chairperson of the committee may invite. Consultants, individuals performing personal service contracts, employees of other Federal agencies, and the general public may not attend such portions.
+
+(3) If a person other than a person permitted to attend in accordance with paragraph (c) (1) and (2) of this section attempts to attend a closed portion of a meeting without the approval of the Designated Federal Officer and the Chairperson, and the matter is brought to their attention, the person will be required to leave the meeting immediately. This inadvertent and unauthorized attendance does not enable other unauthorized persons to attend, nor does it, of itself, constitute grounds for release of transcripts of closed portions or any other documents otherwise exempt from disclosure under § 14.75 and part 20.
+
+(4) If a person other than a person permitted to attend in accordance with paragraphs (c) (1) and (2) of this section is allowed by the Designated Federal Officer and the Chairperson to attend a closed portion of a meeting, that portion is open to attendance by any interested person.
+
+[44 FR 22351, Apr. 13, 1979, as amended at 65 FR 56479, Sept. 19, 2000]

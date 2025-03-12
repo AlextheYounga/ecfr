@@ -1,0 +1,5 @@
+##### § 270.8b-13 Preparation of registration statement or report. #####
+
+The registration statement or report shall contain the numbers and captions of all items of the appropriate form, but the text of the items may be omitted provided the answers thereto are so prepared as to indicate to the reader the coverage of the items without the necessity of his referring to the text of the items or instructions thereto. However, where any item requires information to be given in tabular form, it shall be given in substantially the tabular form specified in the item. All instructions, whether appearing under the items of the form or elsewhere therein, are to be omitted from the registration statement or report. Unless expressly provided otherwise, if any item is inapplicable or the answer thereto is in the negative, an appropriate statement to that effect shall be made.
+
+[18 FR 8576, Dec. 19, 1953]

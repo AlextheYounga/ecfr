@@ -1,0 +1,9 @@
+##### § 640.68 Processing. #####
+
+(a) *Sterile system.* All administration and transfer sets inserted into blood containers used for processing Source Plasma intended for manufacturing into injectable or noninjectable products and all interior surfaces of plasma containers used for processing Source Plasma intended for manufacturing into injectable products shall be sterile, pyrogen-free, nontoxic, and compatible with the contents under normal conditions of use. Only Sodium Chloride Injection USP shall be used as a red blood cell diluent. If the method of separation of the plasma intended for injectable products involves a system in which an airway must be inserted into the plasma container, the airway shall be sterile and constructed so as to exclude microorganisms and maintain a sterile system.
+
+(b) *Final containers.* Final containers used for Source Plasma, whether integrally attached or separated from the original blood container, shall not be entered prior to issuance for any purpose except for filling with the plasma. Such containers shall be uncolored and hermetically sealed, and shall permit clear visibility of the contents. Final containers and their components shall not interact with the plasma contents under conditions of storage and use so as to alter the safety, quality, purity, or potency of the plasma and shall provide adequate protection against external factors that may cause deterioration or contamination. Prior to filling, the final container shall be marked or identified by number or other symbol which will relate it directly to the donor.
+
+(c) *Preservative.* Source Plasma shall not contain a preservative.
+
+[38 FR 32089, Nov. 20, 1973, as amended at 41 FR 10769, Mar. 12, 1976; 50 FR 4140, Jan. 29, 1985]

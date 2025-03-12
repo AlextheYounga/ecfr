@@ -1,0 +1,25 @@
+##### § 203.48 Inspection guidelines for non-Federal flood control works. #####
+
+(a) *Intent.* The intent of these guidelines is to facilitate inspections of the design, construction, and maintenance of non-Federal flood control works. The guidelines are not intended to establish design standards for non-Federal flood control works, but to provide uniform procedures within the Corps for conducting required inspections. The results of these inspections determine Active status in the RIP, and thus determine eligibility for Rehabilitation Assistance. The contents of this section are applicable to both IEI's and CEI's.
+
+(b) *Level of detail.* Evaluations of non-Federal flood control works will be made through on site inspections and technical analyses by Corps technical personnel. The level of detail required in an inspection will be commensurate with the complexity of the inspected project, the potential for catastrophic failure to cause significant loss of life, the economic benefits of the area protected, and other special circumstances that may occur. Technical evaluation procedures are intended to establish the general capability of a non-Federal flood control work to provide reliable flood protection.
+
+(c) *Purposes.* The IEI assesses the integrity and reliability of the flood control work. In addition, other essential information required to help determine the Federal interest in future repairs/rehabilitation to the flood control work will be obtained. The IEI will establish the estimated level of protection and structural reliability of the existing flood control work. Subsequent CEI's will seek to detect changed project conditions that may have an impact on the reliability of the flood protection provided by the flood control work, to include the level of maintenance being performed on the flood control work.
+
+(d) *Inspection components*—(1) *Hydrologic/hydraulic analyses.* The level of protection provided by a non-Federal flood control work will be evaluated and expressed in terms of exceedence frequency (e.g., a 20% chance of a levee being overtopped in any given year). These analyses also include an evaluation of existing or needed erosion control features for portions of a project that may be threatened by stream flows, overland flows, or wind generated waves.
+
+(2) *Geotechnical analyses.* The Geotechnical evaluation will be based primarily on a detailed visual inspection. As a minimum, for levees, the IEI will identify critical sections where levee stability appears weakest and will document the location, reach, and cross-section at these points.
+
+(3) *Maintenance.* Project maintenance analysis will evaluate the maintenance performance of the non-Federal sponsor, and deficiencies of the project. This evaluation should reflect the level of maintenance needed to assure the intended degree of flood protection, and assess the performance of recent maintenance on the project. The effects of structures on, over, or under the flood control work, such as buried fiber optic cables, gas pipelines, etc., will be evaluated for impact on the stability of the structure.
+
+(4) *Other structural features.* Other features that may be present, such as pump stations, culverts, closure structures, etc., will be evaluated.
+
+(e) *Ratings.* Inspected flood control works will receive a rating in accordance with the table below. The table below provides the general assessment parameters used in assigning a rating to the inspected flood control work.
+
+|        Rating        |                                                                                         Assessment                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     A—Acceptable     |No immediate work required, other than routine maintenance. The flood control project will function as designed and intended, and necessary cyclic maintenance is being adequately performed.|
+|M—Minimally Acceptable|      One or more deficient conditions exist in the flood control project that need to be improved/corrected. However, the project will essentially function as designed and intended.       |
+|    U—Unacceptable    |                     One or more deficient conditions exist which can reasonably be foreseen to prevent the project from functioning as designed, intended, or required.                     |
+
+(f) *Sponsor reclama.* If the results of a Corps evaluation are not acceptable to the project sponsor, the sponsor may choose, at its own expense, to provide a detailed engineering study, preferably certified by a qualified Professional Engineer, as a reclama to attempt to change the Corps evaluation.

@@ -1,0 +1,5 @@
+##### § 66.05-40 Corps of Engineers' approval. #####
+
+(a) In each instance where a regulatory marker is to be established in navigable waters of the United States which have been designated by the Commandant as State waters for private aids to navigation, the State Administrator is responsible for obtaining prior permission from the District Engineer, U.S. Army Corps of Engineers concerned, authorizing the State to regulate the water area involved, or a statement that there is no objection to the proposed regulation of the water area. A copy of the Corps of Engineers permit or letter of authority shall be provided by the Administrator to the District Commander upon request.
+
+(b) Similarly, where an aid to navigation is to be placed on a fixed structure or a mooring buoy is to be established in State waters for private aids to navigation, the State Administrator shall assure that prior permission or a statement of no objection to the structures or mooring buoys proposed is obtained from the District Engineer concerned. A copy of the permit or letter is not required by the District Commander.

@@ -1,0 +1,5 @@
+##### § 1.1 General. #####
+
+(a) The regulations in this part relate to requirements governing the issuance, amendment, denial, revocation, suspension, automatic termination, and annulment of basic permits and the duration of permits, except that the provisions of part 71, Rules of Practice in Permit Proceedings, of this chapter are hereby made applicable to administrative proceedings with respect to the application for, and to the suspension, revocation, or annulment of, basic permits under the Federal Alcohol Administration Act.
+
+(b) The regulations in this part also specify what uses of distilled spirits and wine are “nonindustrial,” as that term is used in section 117 of the Federal Alcohol Administration Act (27 U.S.C. 211). Finally, this part, in accordance with section 106 of the Federal Alcohol Administration Act (27 U.S.C. 206), contains the substantive requirements relative to bulk sales and bottling of distilled spirits under the Federal Alcohol Administration Act, including the terms of warehouse receipts for distilled spirits in bulk. No procedural requirements are prescribed.

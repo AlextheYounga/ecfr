@@ -1,0 +1,3 @@
+##### § 31.221 General. #####
+
+A State, a political subdivision of a State, or a person holding a wholesale liquor dealer's basic permit issued under part 1 of this chapter may export bottled taxpaid distilled spirits with benefit of drawback as provided in § 28.171 of this chapter. The marking of cases, the preparation of notice of shipment on TTB Form 5110.30, the removal and exportation of the distilled spirits, and the filing of claims by the processor of the spirits must be in accordance with the applicable provisions of parts 19 and 28 of this chapter.

@@ -1,0 +1,3 @@
+##### § 225.130 Equipment. #####
+
+Equipment shall be capable of producing a medicated feed of intended potency and purity, and shall be maintained in a reasonably clean and orderly manner. Scales and liquid metering devices shall be accurate and of suitable size, design, construction, precision, and accuracy for their intended purposes. All equipment shall be designed, constructed, installed, and maintained so as to facilitate inspection and use of cleanout procedure(s).

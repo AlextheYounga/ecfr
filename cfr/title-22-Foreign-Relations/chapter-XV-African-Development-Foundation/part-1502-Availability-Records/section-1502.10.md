@@ -1,0 +1,3 @@
+##### § 1502.10 Judicial review. #####
+
+On complaint, the district court of the United States in the district in which the complainant resides, or has his/her principal place of business, or in which the agency records are situated, or in the District of Columbia, has jurisdiction to enjoin the Foundation from withholding Foundation records, and to order the production of any agency records improperly withheld from the complainant (5 U.S.C. 552(a)(4)(B)).

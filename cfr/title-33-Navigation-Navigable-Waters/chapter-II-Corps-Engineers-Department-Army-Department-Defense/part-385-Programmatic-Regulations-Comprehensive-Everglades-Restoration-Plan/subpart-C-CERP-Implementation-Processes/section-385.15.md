@@ -1,0 +1,3 @@
+##### § 385.15 Consistency with requirements of the State of Florida. #####
+
+The State of Florida has established procedures, requirements, and approvals that are needed before the State or the South Florida Water Management District can participate as the non-Federal sponsor for projects of the Plan. Project Implementation Reports shall include such information and analyses, consistent with this part, as are necessary to facilitate review and approval of projects by the South Florida Water Management District and the State pursuant to the requirements of Florida law.

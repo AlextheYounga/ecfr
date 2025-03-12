@@ -1,0 +1,3 @@
+##### § 113.5 Current good manufacturing practice. #####
+
+The criteria in §§ 113.10, 113.40, 113.60, 113.81, 113.83, 113.87, 113.89, and 113.100 shall apply in determining whether the facilities, methods, practices, and controls used by the commercial processor in the manufacture, processing, or packing of low-acid foods in hermetically sealed containers are operated or administered in a manner adequate to protect the public health.

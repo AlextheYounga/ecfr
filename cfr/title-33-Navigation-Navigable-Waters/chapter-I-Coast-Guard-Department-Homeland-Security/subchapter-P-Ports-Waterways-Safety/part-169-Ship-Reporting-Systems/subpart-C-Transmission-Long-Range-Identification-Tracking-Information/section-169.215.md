@@ -1,0 +1,3 @@
+##### § 169.215 How must a ship transmit position reports? #####
+
+A ship must transmit position reports using Long Range Identification and Tracking (LRIT) equipment that has been type-approved by their Administration. To be type-approved by the Coast Guard, LRIT equipment must meet the requirements of IMO Resolutions A.694(17), MSC.210(81), and MSC.254(83), and IEC standard IEC 60945 (Incorporated by reference, see § 169.15).

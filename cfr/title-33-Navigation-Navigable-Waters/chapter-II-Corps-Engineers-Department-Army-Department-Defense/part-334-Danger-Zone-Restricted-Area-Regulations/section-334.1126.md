@@ -1,0 +1,9 @@
+##### § 334.1126 Naval Base Ventura County, Point Mugu, California; restricted area. #####
+
+(a) *The area.* The restricted area at Naval Base Ventura County Point Mugu incorporates its shoreline and connects the following points: latitude 34°7′9.9″, longitude 119°9′35.6″ (up-coast shoreline point); latitude 34°7′0.0″, longitude 119°9′46.7″ latitude 34°6′44.9″, longitude 119°9′22.5″; latitude 34°6′30.2″, longitude 119°8′59.0″; latitude 34°6′20.5″, longitude 119°8′46.7″; latitude 34°6′8.4″, longitude 119°8′25.2″; latitude 34°5′53.7″; longitude 119°7′59.5″; latitude 34°5′45.9″, longitude 119°7′41.5″; latitude 34°5′40.1″, longitude 119°7′21.0″; latitude 34°5′33.6″, longitude 119°6′58.1″; latitude 34°5′31.2″, longitude 119°6′37.9″; latitude 34°5′31.0″, longitude 119°6′22.2″; latitude 34°5′32.9″, longitude 119°6′14.4″; latitude; 34°5′44.7″, longitude 119°5′54.0″; latitude 34°5′45.2″, longitude 119°5′43.5″; latitude 34°5′41.0″, longitude 119°5′21.2″; latitude 34°5′42.2″, longitude 119°5′13.3″; latitude 34°5′27.8″, longitude 119°4′49.5″; latitude 34°5′17.9″, longitude 119°4′27.9″; latitude 34°5′5.7″, longitude 119°3′59.90″; latitude; 34°5′17.9″, longitude 119°3′55.4″ (down-coast shoreline point).
+
+(b) *The regulation.* No vessels may enter the restricted area unless permission is obtained in advance from the Commanding Officer of Naval Base Ventura County. Contact Naval Base Ventura County Security at (805) 989-7907.
+
+(c) *Enforcement.* The regulation in this section, promulgated by the United States Army Corps of Engineers, shall be enforced by the Commanding Officer of Naval Base Ventura County, and such agencies or persons as he/she may designate.
+
+[69 FR 20546, Apr. 16, 2004]

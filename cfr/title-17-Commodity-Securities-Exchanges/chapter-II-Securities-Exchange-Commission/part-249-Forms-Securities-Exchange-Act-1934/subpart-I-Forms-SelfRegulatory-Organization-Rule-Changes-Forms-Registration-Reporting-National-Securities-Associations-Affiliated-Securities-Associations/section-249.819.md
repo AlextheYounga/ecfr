@@ -1,0 +1,5 @@
+##### § 249.819 Form 19b-4, for electronic filings with respect to proposed rule changes, advance notices and security-based swap submissions by all self-regulatory organizations. #####
+
+This form shall be used by all self-regulatory organizations, as defined in Section 3(a)(26) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(26)), to file electronically proposed rule changes with the Commission pursuant to Section 19(b) of the Act (15 U.S.C. 78s(b)) and § 240.19b-4 of this chapter, advance notices with the Commission pursuant to Section 806(e) of the Payment, Clearing and Settlement Supervision Act (12 U.S.C. 5465(e)) and § 240.19b-4 of this chapter and security-based swap submissions with the Commission pursuant to Section 3C(b)(2) of the Act (15 U.S.C. 78c-3(b)(2)) and § 240.19b-4 of this chapter.
+
+[77 FR 41650, July 13, 2012]Editorial Note:Copies of Form 19b-4 have been filed with the Office of the Federal Register and will be forwarded to the self-regulatory organizations. Copies may be requested from the Commission.

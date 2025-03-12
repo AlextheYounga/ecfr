@@ -1,0 +1,15 @@
+##### § 270.8b-12 Requirements as to paper, printing and language. #####
+
+(a) Registration statements and reports shall be filed on good quality, unglazed, white paper, no larger than 81/2 × 11 inches in size, insofar as practicable. To the extent that the reduction of larger documents would render them illegible, such documents may be filed on paper larger than 81/2 × 11 inches in size.
+
+(b) In the case of a registration statement filed on Form N-1A (§§ 239.15A and 274.11A of this chapter), Form N-2 (§§ 239.14 and 274.11a-1 of this chapter), Form N-3 (§§ 239.17a and 274.11b of this chapter), Form N-4 (§§ 239.17b and 274.11c of this chapter), or Form N-6 (§ 239.17c and § 274.11d of this chapter), Part C of the registration statement shall be filed on good quality, unglazed, white paper, no larger than 81/2 × 11 inches in size, insofar as practicable. The prospectus and, if applicable, the Statement of Additional Information, however, may be filed on smaller-sized paper provided that the size of paper used in each document is uniform.
+
+(c) The registration statement or report and, insofar as practicable all papers and documents filed as a part thereof, shall be printed, lithographed, mimeographed or typewritten. However, the registration statement or report or any portion thereof may be prepared by any similar process which, in the opinion of the Commission, produces copies suitable for permanent record. Irrespective of the process used, all copies of any such material shall be clear, easily readable and suitable for repeated photocopying. Debits in credit categories and credits in debit categories shall be designated so as to be clearly distinguishable as such on photocopies.
+
+(d) The body of all printed registration statements and reports and all notes to financial statements and other tabular data included therein shall be in roman type at least as large as 10-point modern type. However, to the extent necessary for convenient presentation, financial statements and other statistical or tabular data, including tabular data in notes, may be set in type at least as large and as legible as 8-point modern type. All type shall be leaded at least 2-points.
+
+(e) Registration statements and reports shall be in the English language. If any exhibit or other paper or document filed with a registration statement or report is in a foreign language, it shall be accompanied by a translation into the English language.
+
+(f) Where a registration statement or report is distributed through an electronic medium, issuers may satisfy legibility requirements applicable to printed documents, such as paper size, type size and font, bold-face type, italics and red ink, by presenting all required information in a format readily communicated to investors, and where indicated, in a manner reasonably calculated to draw investor attention to specific information.
+
+[49 FR 32060, Aug. 10, 1984, as amended at 50 FR 26160, June 25, 1985; 57 FR 56836, Dec. 1, 1992; 61 FR 24657, May 15, 1996; 67 FR 19870, Apr. 23, 2002]

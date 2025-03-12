@@ -1,0 +1,7 @@
+##### § 17.126 Formulas for intermediate products. #####
+
+(a) The manufacturer shall submit a formula on TTB Form 5154.1 for each self-manufactured ingredient made with taxpaid spirits and intended for the manufacturer's own use in nonbeverage products, unless the formula for any such ingredient is fully expressed as part of the approved formula for each nonbeverage product in which that ingredient is used, or unless the formula for the ingredient is contained in one of the pharmaceutical publications listed in § 17.132.
+
+(b) Upon receipt of Form 5154.1 covering a self-manufactured ingredient made with taxpaid spirits, the formula shall be examined under § 17.131. If the formula is approved for drawback, the ingredient shall be treated as a finished nonbeverage product for purposes of this part, rather than as an intermediate product, notwithstanding its use by the manufacturer. (For example, see § 17.152(d).) If the formula is disapproved for drawback, the ingredient may be treated as an intermediate product in accordance with this part. Requirements pertaining to intermediate products are found in § 17.185(b).
+
+(c) If there is a change in the composition of an intermediate product, the manufacturer shall submit an amended or revised formula, as provided in § 17.122.

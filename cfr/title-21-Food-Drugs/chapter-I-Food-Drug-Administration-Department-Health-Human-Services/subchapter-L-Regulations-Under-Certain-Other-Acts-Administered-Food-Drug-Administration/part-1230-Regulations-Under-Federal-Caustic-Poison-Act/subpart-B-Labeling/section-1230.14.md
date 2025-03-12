@@ -1,0 +1,3 @@
+##### § 1230.14 Directions for treatment. #####
+
+Except as provided in § 1230.16, the container shall bear in all cases upon the label or sticker thereof, immediately following the word “Poison,” directions for treatment in the case of internal personal injury; in addition, if the substance may cause external injury, directions for appropriate treatment shall be given. The directions shall prescribe such treatments for personal injury as are sanctioned by competent medical authority, and the materials called for by such directions shall be, whenever practicable, such as are usually available in the household.

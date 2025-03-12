@@ -1,0 +1,3 @@
+##### § 1210.26 Permits for raw milk or cream. #####
+
+Except as provided in § 1210.27, permits to ship or transport raw milk or cream into the United States will be granted only when the milk or cream comes from dairy farms or plants where pasteurization is not carried on and then only upon compliance with the requirements of clauses 1, 2, and 3 of section 2 of the Federal Import Milk Act, §§ 1210.11 to 1210.14 as applicable.

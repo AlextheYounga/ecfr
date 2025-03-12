@@ -1,0 +1,7 @@
+##### § 18.10 Service of complaint and other papers. #####
+
+(a) *Complaint.* The complaint or a copy thereof may be served upon the respondent by certified mail; by delivering it to the respondent or his/her attorney or agent of record either in person; or by leaving it at the office or place of business of the respondent, attorney or agent; in any other manner which has been agreed to by the respondent; or by first-class mail in case of a person resident abroad.
+
+(b) *Service of papers other than complaint.* Any paper other than the complaint may be served upon a respondent as provided in paragraph (a) of this section or by mailing the paper by first-class mail to the respondent at the last address known to the Director General, or by mailing the paper by first-class mail to the respondent's attorney or agent of record. Such mailing shall constitute complete service.
+
+(c) Whenever the filing of a paper is required or permitted in connection with a proceeding, and the place of filing is not specified by this subpart or by rule or order of the hearing examiner, the paper shall be filed with the Director General, Department of State, Washington, DC 20520. All papers shall be filed in duplicate.

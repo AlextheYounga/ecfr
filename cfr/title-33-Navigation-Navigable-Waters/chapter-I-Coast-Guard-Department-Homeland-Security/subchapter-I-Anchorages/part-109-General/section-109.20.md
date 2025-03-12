@@ -1,0 +1,7 @@
+##### § 109.20 Publication; notice of proposed rule making. #####
+
+(a) Section 4 of the Administrative Procedure Act (5 U.S.C. 553), requires publication of general notice of proposed rule making in the Federal Register (unless all persons subject thereto are named and either personally served or otherwise have actual notice thereof in accordance with law), except to the extent that there is involved (1) any military, naval, or foreign affairs function of the United States or (2) any matter relating to agency management or personnel or to public property, loans, grants, benefits, or contracts. Except where notice or hearing is required by statute, this requirement does not apply to interpretative rules, general statements of policy, rules of agency organization, procedure, or practice, or in any situation in which the agency for good cause finds (and incorporates the finding and a brief statement of the reasons therefor in the rules issued) that notice and public procedure thereon are impracticable, unnecessary, or contrary to the public interest.
+
+(b) General notice of proposed rule making published in accordance with the above will include (1) a statement of the time, place, and nature of public rule making proceedings; (2) reference to the authority under which the rule is proposed; and (3) either the terms or substance of the proposed rule or a description of the subjects and issues involved.
+
+[CGFR 67-46, 32 FR 17727, Dec. 12, 1967]

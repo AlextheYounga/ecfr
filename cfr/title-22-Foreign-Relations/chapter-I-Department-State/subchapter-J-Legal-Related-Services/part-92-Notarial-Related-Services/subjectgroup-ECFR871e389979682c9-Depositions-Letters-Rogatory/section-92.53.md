@@ -1,0 +1,5 @@
+##### § 92.53 “Commission to take depositions” defined. #####
+
+A *commission to take depositions* is a written authority issued by a court of justice, or by a quasi-judicial body, or a body acting in such capacity, giving power to take the testimony of witnesses who cannot appear personally to be examined in the court or before the body issuing the commission. In Federal practice, a commission to take depositions is issued only when necessary or convenient, on application and notice. The commission indicates the action or hearing in which the depositions are intended to be used, and the person or persons required to take the depositions, usually by name or descriptive title (see § 92.55 for manner of designating notarizing officers). Normally a commission is accompanied by detailed instructions for its execution.
+
+[22 FR 10858, Dec. 27, 1957, as amended at 60 FR 51723, Oct. 3, 1995]

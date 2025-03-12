@@ -1,0 +1,9 @@
+##### § 230.131 Definition of security issued under governmental obligations. #####
+
+(a) Any part of an obligation evidenced by any bond, note, debenture, or other evidence of indebtedness issued by any governmental unit specified in section 3(a)(2) of the Act which is payable from payments to be made in respect of property or money which is or will be used, under a lease, sale, or loan arrangement, by or for industrial or commercial enterprise, shall be deemed to be a separate *security* within the meaning of section 2(l) of the Act, issued by the lessee or obligor under the lease, sale or loan arrangement.
+
+(b) An obligation shall not be deemed a separate *security* as defined in paragraph (a) of this section if, (1) the obligation is payable from the general revenues of a governmental unit, specified in section 3(a)(2) of the Act, having other resources which may be used for payment of the obligation, or (2) the obligation relates to a public project or facility owned and operated by or on behalf of and under the control of a governmental unit specified in such section, or (3) the obligation relates to a facility which is leased to and under the control of an industrial or commercial enterprise but is a part of a public project which, as a whole, is owned by and under the general control of a governmental unit specified in such section, or an instrumentality thereof.
+
+(c) This rule shall apply to transactions of the character described in paragraph (a) of this section only with respect to bonds, notes, debentures or other evidences of indebtedness sold after December 31, 1968.
+
+(15 U.S.C. 77w)[33 FR 12648, Sept. 6, 1968, as amended at 35 FR 6000, Apr. 11, 1970]

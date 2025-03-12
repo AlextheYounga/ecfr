@@ -1,0 +1,3 @@
+##### § 20.243 Procurement of specially denatured spirits. #####
+
+Government agencies shall retain the original permit, Form 5150.33, on file. When placing an initial order with a vendor, the agency shall forward a photocopy of its permit with the purchase order for specially denatured spirits. In the case of an agency holding a single permit for use of other sub-agencies, the photocopy of the permit will contain an attachment listing all other locations authorized to procure specially denatured spirits. Any subsequent purchases from the same vendor need only contain the permit number on the purchase order.

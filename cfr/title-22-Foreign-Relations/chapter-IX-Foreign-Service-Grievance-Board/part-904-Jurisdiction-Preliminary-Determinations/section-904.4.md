@@ -1,0 +1,9 @@
+##### § 904.4 Suspension of agency actions. #####
+
+(a) If the Board determines that the agency is considering involuntary separation of the Grievant, disciplinary action against the Grievant, or recovery from the Grievant of alleged overpayment of salary, expenses, or allowances, which is related to a grievance pending before the Board, and that such action should be suspended, the agency shall suspend such action until the Board has ruled on the grievance. Notwithstanding such suspension of action, the head of the agency concerned or a chief of mission or principal officer may exclude the Grievant from official premises or from the performance of specified functions when such exclusion is determined in writing to be essential to the functioning of the post or office to which the Grievant is assigned.
+
+(b) Notwithstanding paragraph (a) of this section, the Board shall not determine that action to suspend without pay a Grievant shall be suspended if the head of an agency or his designee has determined that there is reasonable cause to believe that a Grievant has committed a job-related crime for which a sentence of imprisonment may be imposed and has taken action to suspend the Grievant without pay pending a final resolution of the underlying matter. For this purpose, reasonable cause to believe that a member has committed a crime for which a sentence of imprisonment may be imposed shall be defined as a member of the Service having been convicted of, and sentence of imprisonment having been imposed for a job-related crime.
+
+(c) The Board shall expedite its decisions on requested suspensions of proposed Agency actions. The Board may permit or require argument with respect to such requests by the Parties and Exclusive Representative, if any.
+
+[56 FR 55459, Oct. 28, 1991]

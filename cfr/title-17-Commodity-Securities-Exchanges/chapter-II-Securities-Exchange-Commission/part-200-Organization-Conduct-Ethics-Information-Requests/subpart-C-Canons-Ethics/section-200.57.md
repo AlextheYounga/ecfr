@@ -1,0 +1,3 @@
+##### § 200.57 Relationships with other members. #####
+
+Each member should recognize that his conscience and those of other members are distinct entities and that differing shades of opinion should be anticipated. The free expression of opinion is a safeguard against the domination of this Commission by less than a majority, and is a keystone of the commission type of administration. However, a member should never permit his personal opinion so to conflict with the opinion of another member as to develop animosity or unfriendliness in the Commission, and every effort should be made to promote solidarity of conclusion.

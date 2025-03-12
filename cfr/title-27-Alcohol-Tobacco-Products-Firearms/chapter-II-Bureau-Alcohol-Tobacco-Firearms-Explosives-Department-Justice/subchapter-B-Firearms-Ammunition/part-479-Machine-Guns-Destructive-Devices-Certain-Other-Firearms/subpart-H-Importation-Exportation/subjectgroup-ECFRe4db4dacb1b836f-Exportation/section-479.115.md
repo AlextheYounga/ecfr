@@ -1,0 +1,3 @@
+##### § 479.115 Action by Director. #####
+
+If the application is acceptable, the Director will execute the permit, Part 2 of Form 9 (Firearms), to export the firearm described on the form and return three copies thereof to the applicant. Issuance of the permit by the Director will suspend assertion of tax liability for a period of six (6) months from the date of issuance. If the application is disapproved, the Director will indicate thereon the reason for such action and return the forms to the applicant.

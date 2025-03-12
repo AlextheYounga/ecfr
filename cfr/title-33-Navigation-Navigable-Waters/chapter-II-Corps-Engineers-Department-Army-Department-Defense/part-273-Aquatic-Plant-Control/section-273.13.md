@@ -1,0 +1,23 @@
+##### § 273.13 Program policy. #####
+
+(a) *Program orientation.* The Aquatic Plant Control Program is designed to deal primarily with weed infestations of major economic significance including those that have reached that stage (such as water-hyacinth) and those that have that potential (such as alligatorweed and Eurasian watermilfoil) in navigable waters, tributaries, streams, connecting channels and allied waters. This does not imply that the infestation must have countrywide distribution. However, the infestation should constitute a known problem of economic importance in the area involved. Initial planning should constitute investigation of a specific problem weed or weed complex, not generalized surveys of aquatic vegetation. The common submersed aquatics and floating or emergent, wetland, marsh, and swamp vegetation do not generally meet those criteria for special problems merely because they may qualify as “obnoxious aquatic plants” under the language of the legislation authorizing the program except as indicated in § 273.13(b).
+
+(b) *Work not eligible under this program.* Weed control for operation and maintenance of reservoirs, channels, harbors, or other water areas of authorized projects under jurisdiction of the Corps of Engineers or other Federal agencies will not be undertaken as a part of the Aquatic Plant Control Program, except as such areas may be used for experimental purposes in research performed for the program. Aquatic plant control work for the operation and maintenance of Federal projects are eligible to be included under this authority for the purpose of cost-sharing with participating State or local agencies, but are not eligible for budgeting or funding under the Aquatic Plant Control Program.
+
+(c) *Applied research.* Applied research developed by OCE with the assistance of the Interagency Aquatic Plant Control Research Advisory Committee and the appropriate Division Engineer will be an all Federal cost. This research will be accomplished through contracts with Federal, State and private research institutions. A research planning meeting will be held the last quarter of each calendar year to provide professional presentation of current research projects, review of current operation activities, and review new research proposals. Requested programs, estimated cost, and other information will be developed in the field and submitted to HQDA (DAEN-CWD-R) Washington, DC 20314, for approval and financing as prescribed by ER 70-2-3. Attendance of the Technical Advisory Committee meetings by Corps personnel has been authorized.
+
+(d) *Planning.* Planning will be an all Federal cost item, will be developed by reporting officers in accordance with their needs and will be fully justified for funds requested. Normally, the program will be initiated with a reconnaissance report (§ 273.14(a)) and will be accomplished under a State design memorandum (§ 273.14(b)). Supplement design memorandums will be used to implement changes in the program. These memorandums will establish a continuing program and will be used to enable the Chief of Engineers to allot available funds on a priority basis in accordance with the urgency of the needs of each area.
+
+(e) *Criteria for recommending a Federal project.* (1) A recommendation favorable to adoption of the project under the authority provided by section 302, as amended, will be warranted when the following conditions exist:
+
+(i) The problem and practical measures of improvement are of such nature that there is a clear and definite Federal interest warranting Federal participation under the purview of this special authority.
+
+(ii) The proposed work will result in an independent and complete-within-itself project.
+
+(iii) Analysis based on sound economic principles clearly demonstrates that the project will provide information and/or control of aquatic plants.
+
+(iv) Each separable element of the project, as well as the entire project, is economically justified.
+
+(v) Local interests are legally and financially able and willing to meet fully all requirements of local cooperation.
+
+(2) Recommendations for preparation of a detailed planning report for new work on a new problem in a District or Division where control of other aquatic plant problems is currently underway should consider whether such new work represents an equal or higher priority of need for allocation of funds in the same State. Projects will not be recommended which produce undesirable short-term or long-term damage to the human or natural environment.

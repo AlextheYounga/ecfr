@@ -1,0 +1,3 @@
+##### § 71.4 Real property of deceased American citizens. #####
+
+In the absence of special provisions by treaty the devolution and transfer of real property are covered by the law of the place where the property is situated. When real property is left by the decedent within the country where death occurs, or where the decedent was domiciled at the time of death, the consular officer, or diplomatic officer, if there be no consular officer, should if feasible informally observe the proceedings and report to the diplomatic mission or the Department any apparent irregularity or unnecessary delay in settling the estate.

@@ -1,0 +1,3 @@
+##### § 230.12 Notice of intent and scoping. #####
+
+As soon as practicable after a decision is made to prepare an EIS or supplement, the scoping process for the draft EIS or supplement will be announced in a notice of intent. Guidance on preparing a notice of intent to prepare an EIS for publication in the Federal Register is discussed in Appendix C. Also, a public notice will be widely distributed inviting public participation in the scoping process. As described in 40 CFR 1501.7 and reference 3(m), this process is the key to preparing a concise EIS and clarifying the significant issues to be analyzed in depth. Public concerns on issues, studies needed, alternatives to be examined, procedures and other related matters will be addressed during scoping.

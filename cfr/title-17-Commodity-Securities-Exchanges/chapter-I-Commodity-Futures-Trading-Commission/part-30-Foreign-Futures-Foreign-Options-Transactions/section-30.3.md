@@ -1,0 +1,7 @@
+##### § 30.3 Prohibited transactions. #####
+
+(a) It shall be unlawful for any person to engage in the offer and sale of any foreign futures contract or foreign options transaction for or on behalf of a foreign futures or foreign options customer, except in accordance with the provisions of this part: Provided, that, with the exception of the disclosure and antifraud provisions set forth in §§ 30.6 and 30.9 of this part, the provisions of this part shall not apply to transactions executed on a foreign board of trade, and carried for or on behalf of a customer at a designated contract market, subject to an agreement with and rules of a contract market which permit positions in a commodity interest which have been established on one market to be liquidated on another market.
+
+(b) Except as otherwise provided in § 30.4 of this part or pursuant to an exemption granted under § 30.10 of this part, it shall be unlawful for any person to engage in the offer and sale of any foreign futures contract or foreign option transaction for or on behalf of any foreign futures or foreign options customer other than by or through a futures commission merchant on a fully-disclosed basis.
+
+[52 FR 28998, Aug. 5, 1987, as amended at 61 FR 10895, Mar. 18, 1996]

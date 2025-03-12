@@ -1,0 +1,11 @@
+##### § 334.595 Atlantic Ocean off Cape Canaveral; 45th Space Wing, Cape Canaveral Air Force Station, FL; restricted area. #####
+
+(a) *The area.* The restricted area shall encompass all navigable waters of the United States, as defined at 33 CFR part 329, contiguous to the area offshore of Cape Canaveral Air Force Station, Florida. The area is bounded by a line connecting the following coordinates: Commencing from the shoreline at the northwest portion of the area, at latitude 28°35.008′ N, longitude 80°34.448′ W, thence directly to latitude 28°35.716′ N, longitude 80°32.938′ W, thence following the mean high water line at a distance of 1.5 nautical miles offshore proceed southerly to a point at latitude 28°24.187′ N, longitude 80°33.443′ W, thence proceeding westerly to terminate at a point on the shoreline at latitude 28°24.69′ N, longitude 80°35.05′ W.
+
+(b) *The regulation.* (1) The area described in paragraph (a) of this section will be closed when it is deemed necessary by the Commander, 45th Space Wing or his/her designee to address any perceived threat to the local area. With the exception of local, State, and Federal law enforcement entities, all persons, vessels, and other craft are prohibited from entering, transiting, anchoring, or drifting within the restricted area when it is closed without the permission of the Commander, 45th Space Wing or his/her designee.
+
+(2) Due to the nature of this restricted area, closures may occur with very little advance notice. Closure of the area shall be noticed by the display of a red ball and red beacon from a 90-foot pole near the shoreline at approximately latitude 28°35.0′ N, longitude 80°34.8′ W and from a 90-foot pole near the shoreline at approximately latitude 28°25.3′ N, longitude 80°35.0′ W. Information will be provided via marine radio broadcast and a warning statement displayed on an electronic marquee sign located on the north side of the Port Canaveral ship channel between the Trident and Poseidon Wharf during the duration of the area closure.
+
+(c) *Enforcement.* The regulations in this section shall be enforced by the Commander, 45th Space Wing, Patrick Air Force Base, Florida and/or such persons or agencies as he/she may designate.
+
+[74 FR 36401, July 23, 2009; 74 FR 58849, Nov. 16, 2009]

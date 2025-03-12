@@ -1,0 +1,3 @@
+##### § 479.142 Stolen or lost documents. #####
+
+When any Forms 1, 2, 3, 4, 5, 6A, or 10 (Firearms) evidencing possession of a firearm is stolen, lost, or destroyed, the person losing possession will immediately upon discovery of the theft, loss, or destruction report the matter to the Director. The report will show in detail the circumstances of the theft, loss, or destruction and will include all known facts which may serve to identify the document. Upon receipt of the report, the Director will make such investigation as appears appropriate and may issue a duplicate document upon such conditions as the circumstances warrant.

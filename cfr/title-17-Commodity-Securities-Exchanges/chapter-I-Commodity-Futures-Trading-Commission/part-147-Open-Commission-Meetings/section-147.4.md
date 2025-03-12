@@ -1,0 +1,19 @@
+##### § 147.4 Procedure for announcing meetings. #####
+
+(a) Advance notice of all meetings of the Commission shall be provided to the public. In the case of each meeting, except as provided in paragraph (b) of this section and in § 147.6, the Commission shall, except to the extent that such information is exempt from disclosure under the provisions of § 147.3(b), make a public announcement, at least one week before the date of the meeting of the time, place and subject matter of the meeting and which portions of the meeting shall be open or closed to the public, and shall indicate an official of the Commission who may be contacted at a designated telephone number for information about the meeting.
+
+(b) When a majority of Commissioners determines by a recorded vote that Commission business requires a meeting be held upon public notice of less than one week as required by paragraph (a) of this section, the Commission shall, except to the extent that such information is exempt from disclosure under the provisions of § 147.3(b), make a public announcement, at the earliest practicable time, of the time, place and subject matter of the meeting and which portions of the meeting shall be open or closed to the public, and indicate an official of the Commission who may be contacted at a designated telephone number for information about the meeting.
+
+(c)(1) When it becomes necessary to change the time or place of a meeting for which a public announcement has been made pursuant to paragraphs (a) or (b) of this section, the Commission shall publicly announce such change at the earliest practicable time.
+
+(2) When it becomes necessary with respect to a meeting for which a public announcement has already been made pursuant to paragraphs (a), (b) or (c)(1) of this section to change the subject matter of a meeting, or change the Commission's determination as to which portions of a meeting shall be open or closed to the public, a majority of all Commissioners shall determine by a recorded vote that Commission business requires such a change and that no earlier announcement of the charge was possible, and the Commission shall publicly announce such change and the vote of each Commissioner upon such change at the earliest practicable time.
+
+(d) Public announcement of meetings, as required by this section, shall be provided as follows:
+
+(1) A public calendar shall be printed and distributed by the Commission on a regular basis to interested persons to provide advance public notice of meetings as required by paragraph (a) of this section, and, to the extent practicable, as required by paragraphs (b) and (c) of this section. Upon request in writing to the Office of Public Affairs, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581, any person or organization will be sent the public calendar on a regular basis free of charge. Copies of the public calendar also will be publicly available in the Commission's Office of Public Affairs.
+
+(2) Interested persons may contact the Commission's Office of the Secretariat during normal business hours to obtain information concerning future meetings.
+
+(e) Immediately following each public announcement required by this section, the Commission shall submit for publication in the Federal Register, except to the extent that such information is exempt from disclosure under the provisions of § 147.3(b), notice of the time, place, and subject matter of a meeting, which portions of the meeting shall be open or closed to the public, any change in one of the preceding, and the name and telephone number of an official of the Commission who may be contacted for information about the meeting.
+
+[42 FR 13704, Mar. 11, 1977, as amended at 60 FR 49336, Sept. 25, 1995]

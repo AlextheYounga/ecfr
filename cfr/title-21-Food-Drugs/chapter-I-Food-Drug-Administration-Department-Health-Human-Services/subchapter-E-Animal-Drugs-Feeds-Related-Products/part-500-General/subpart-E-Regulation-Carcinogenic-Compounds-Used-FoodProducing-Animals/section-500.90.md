@@ -1,0 +1,5 @@
+##### § 500.90 Waiver of requirements. #####
+
+In response to a petition or on the Commissioner's own initiative, the Commissioner may waive, in whole or in part, the requirements of this subpart except those provided under § 500.88. A petition for this waiver may be filed by any person who would be adversely affected by the application of the requirements to a particular compound. The petition shall explain and document why the requirements from which a waiver is requested are not reasonably applicable to the compound, and set forth clearly the reasons why the alternative procedures will provide the basis for concluding that approval of the compound satisfies the requirements of the anticancer provisions of the act. If the Commissioner determines that waiver of any of the requirements of this subpart is appropriate, the Commissioner will state the basis for that determination in the regulation approving marketing of the sponsored compound.
+
+(Approved by the Office of Management and Budget under control number 0910-0228)

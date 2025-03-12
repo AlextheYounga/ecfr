@@ -1,0 +1,3 @@
+##### § 228.17 Special procurement rules for construction and engineering services. #####
+
+Advanced developing countries, as defined in § 228.01, which USAID has determined to have attained a competitive capability in international markets for construction services or engineering services are not eligible to furnish USAID-financed construction and engineering services unless approved to do so under a waiver to Code 935 under subpart D of this part.

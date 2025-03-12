@@ -1,0 +1,5 @@
+##### § 154.1120 Operating restrictions and interim operating authorization. #####
+
+(a) The owner or operator of a TAPAA facility may not operate in Prince William Sound, Alaska, unless the requirements of this subpart as well as § 154.1025 have been met. The owner or operator of a TAPAA facility shall certify to the COTP that he or she has provided, through an oil spill removal organization required by § 154.1125, the necessary response resources to remove, to the maximum extend practicable, a worst case discharge or a discharge of 200,000 barrels of oil, whichever is grater, in Prince William Sound.
+
+(b) Coast Guard approval of a TAPAA facility response plan is effective only so long as the appropriate Regional Citizens Advisory Council(s) is funded pursuant to the requirements of section 5002(k) of the Oil Pollution Act of 1990 (Pub. L. 101-380; 104 Stat. 484, 550).

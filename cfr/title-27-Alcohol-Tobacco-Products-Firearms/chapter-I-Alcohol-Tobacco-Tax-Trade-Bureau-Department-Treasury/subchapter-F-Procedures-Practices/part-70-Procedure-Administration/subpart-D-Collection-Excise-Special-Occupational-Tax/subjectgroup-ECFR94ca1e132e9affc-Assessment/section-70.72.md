@@ -1,0 +1,5 @@
+##### § 70.72 Method of assessment. #####
+
+The assessment shall be made by an appropriate TTB officer signing the summary record of assessment. The summary record, through supporting records, shall provide identification of the taxpayer, the character of the liability assessed, the taxable period, if applicable, and the amount of the assessment. The amount of the assessment shall, in the case of tax shown on a return by the taxpayer, be the amount so shown, and in all other cases the amount of the assessment shall be the amount shown on the supporting list or record. The date of the assessment is the date the summary record is signed by an appropriate TTB officer. If the taxpayer requests a copy of the record of assessment, the taxpayer shall be furnished a copy of the pertinent parts of the assessment which set forth the name of the taxpayer, the date of assessment, the character of the liability assessed, the taxable period, if applicable, and the amounts assessed.
+
+(26 U.S.C. 6203)[T.D. ATF-251, 52 FR 19314, May 22, 1987. Redesignated and amended by T.D. ATF-301, 55 FR 47606, 47612, Nov. 14, 1990; T.D. ATF-450, 66 FR 29025, May 29, 2001]

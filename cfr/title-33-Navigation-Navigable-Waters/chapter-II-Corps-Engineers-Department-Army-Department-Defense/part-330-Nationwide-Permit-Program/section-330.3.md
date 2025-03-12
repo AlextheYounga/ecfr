@@ -1,0 +1,7 @@
+##### § 330.3 Activities occurring before certain dates. #####
+
+The following activities were permitted by NWPs issued on July 19, 1977, and, unless the activities are modified, they do not require further permitting:
+
+(a) Discharges of dredged or fill material into waters of the United States outside the limits of navigable waters of the United States that occurred before the phase-in dates which extended Section 404 jurisdiction to all waters of the United States. The phase-in dates were: After July 25, 1975, discharges into navigable waters of the United States and adjacent wetlands; after September 1, 1976, discharges into navigable waters of the United States and their primary tributaries, including adjacent wetlands, and into natural lakes, greater than 5 acres in surface area; and after July 1, 1977, discharges into all waters of the United States, including wetlands. (section 404)
+
+(b) Structures or work completed before December 18, 1968, or in waterbodies over which the DE had not asserted jurisdiction at the time the activity occurred, provided in both instances, there is no interference with navigation. Activities completed shoreward of applicable Federal Harbor lines before May 27, 1970 do not require specific authorization. (section 10)

@@ -1,0 +1,5 @@
+##### § 45.41 Packages. #####
+
+All tobacco products, and cigarette papers and tubes shall, before removal under this part, be put up by the manufacturer in packages which shall be of such construction as will securely contain the articles therein and maintain the mark, notice, and label thereon, as required by this subpart. No package of tobacco products, or cigarette papers or tubes shall have contained therein, attached thereto, or stamped, marked, written, or printed thereon (a) any certificate, coupon, or other device purporting to be or to represent a ticket, chance, share, or an interest in, or dependent on, the event of a lottery, or (b) any indecent or immoral picture, print, or representation.
+
+(72 Stat. 1422; 26 U.S.C. 5723)[T.D. 6871, 31 FR 58, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975 and amended by T.D. ATF-232, 51 FR 28090, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986]

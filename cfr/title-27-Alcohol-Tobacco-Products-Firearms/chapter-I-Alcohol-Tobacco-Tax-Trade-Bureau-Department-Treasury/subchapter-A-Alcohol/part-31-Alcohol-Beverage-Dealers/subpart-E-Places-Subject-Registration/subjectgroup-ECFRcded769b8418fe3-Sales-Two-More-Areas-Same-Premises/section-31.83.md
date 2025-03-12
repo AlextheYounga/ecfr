@@ -1,0 +1,3 @@
+##### § 31.83 Ball park, race track, etc.; sales throughout the premises. #####
+
+The proprietor of a ball park, race track, stadium, pavilion, or other similar enclosure constituting one premises, who engages in the business of selling liquors throughout that enclosure, including sales from baskets or containers by employees on the proprietor's behalf, is required to register only once for the entire enclosure. Each concessionaire having the same privilege throughout the enclosure, whether the privilege is exercised separately or simultaneously with the proprietor or another concessionaire, is required to register only once for the entire enclosure.

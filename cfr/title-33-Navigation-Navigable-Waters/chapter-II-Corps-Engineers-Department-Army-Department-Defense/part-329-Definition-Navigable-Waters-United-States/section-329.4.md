@@ -1,0 +1,3 @@
+##### § 329.4 General definition. #####
+
+Navigable waters of the United States are those waters that are subject to the ebb and flow of the tide and/or are presently used, or have been used in the past, or may be susceptible for use to transport interstate or foreign commerce. A determination of navigability, once made, applies laterally over the entire surface of the waterbody, and is not extinguished by later actions or events which impede or destroy navigable capacity.

@@ -1,0 +1,5 @@
+##### § 44.258 To officers of the armed forces for subsequent exportation. #####
+
+Where cigars are withdrawn from a customs warehouse for delivery to officers of the armed forces of the United States in this country for subsequent shipment to, and use by, the armed forces outside the United States, the customs warehouse proprietor making the shipment shall forward a copy of the notice of removal, Form 5200.14, to the officer at the base or installation authorized to receive the cigars described on the notice of removal. Upon execution by the armed forces receiving officer of the certificate of receipt on the copy of the notice of removal, he shall return such copy to the customs warehouse proprietor making the shipment for filing with the appropriate TTB officer.
+
+[25 FR 4725, May 28, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, as amended by T.D. ATF-421, 64 FR 71926, Dec. 22, 1999]

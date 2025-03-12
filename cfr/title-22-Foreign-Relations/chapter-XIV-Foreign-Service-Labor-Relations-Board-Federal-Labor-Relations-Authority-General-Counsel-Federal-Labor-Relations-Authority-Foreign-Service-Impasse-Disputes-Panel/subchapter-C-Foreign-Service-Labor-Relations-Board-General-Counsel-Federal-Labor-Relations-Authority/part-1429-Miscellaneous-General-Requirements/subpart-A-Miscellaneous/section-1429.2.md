@@ -1,0 +1,3 @@
+##### § 1429.2 Transfer and consolidation of cases. #####
+
+In any matter arising pursuant to parts 1422 and 1423 of this subchapter, whenever it appears necessary in order to effectuate the purposes of the Foreign Service Labor-Management Relations Statute or to avoid unnecessary costs or delay, Regional Directors may consolidate cases within their own region or may transfer such cases to any other region, for the purpose of investigation or consolidation with any proceedings which may have been instituted in, or transferred to, such region.

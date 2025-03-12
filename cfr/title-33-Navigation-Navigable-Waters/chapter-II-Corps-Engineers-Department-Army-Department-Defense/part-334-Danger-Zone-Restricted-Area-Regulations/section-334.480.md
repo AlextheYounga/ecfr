@@ -1,0 +1,19 @@
+##### § 334.480 Archers Creek, Ribbon Creek, and Broad River; U.S. Marine Corps Recruit Depot, Parris Island, South Carolina; danger zones. #####
+
+(a) *The areas.* (1) The danger zone on Archers Creek (between the Broad River and Beaufort River), Ribbon Creek, and the Broad River shall encompass all navigable waters of the United States, as defined at 33 CFR part 329, adjacent to the existing rifle range. This area is bounded by a line connecting the following coordinates: Commencing from the shoreline at the southernmost portion of the area, at latitude 32°19′59″ N, longitude 80°42′54″ W, thence to a point at latitude 32°20′05″ N, longitude 80°43′16″ W, thence to a point at latitude 32°21′40″ N, longitude 80°44′54″ W, thence to a point at latitude 32°22′20″ N, longitude 80°43′52″ W, thence to a point on the shoreline at latitude 32°21′34″ N, longitude 80°42′48″ W, thence follow the mean high water line southwesterly around Horse Island approximately 2.3 nautical miles to a point at latitude 32°21′22″ N, longitude 80°42′30″ W, thence to a point on the shoreline at latitude 32°20′56″ N, longitude 80°41′50″ W, thence follow the mean high water line southwesterly approximately 2.2 nautical miles to terminate at the southernmost portion of the area (the starting point).
+
+(2) The danger zone on the Broad River shall encompass all navigable waters of the United States, as defined at 33 CFR part 329, adjacent to the existing pistol range. This area is bounded by a line connecting the following coordinates: Commencing from the shoreline at the easternmost portion of the area, at latitude 32°19′36″ N, longitude 80°42′34″ W, thence to a point at latitude 32°19′23″ N, longitude 80°42′50″ W, thence to a point at latitude 32°19′06″ N, longitude 80°43′31″ W, thence to a point at latitude 32°19′28″ N, longitude 80°43′54″ W, thence to a point at latitude 32°19′59″ N, longitude 80°43′28″ W, thence to a point on the shoreline at latitude 32°20′10″ N, longitude 80°43′10″ W, and thence follow the mean high water line southeasterly approximately 0.75 nautical miles to terminate at the easternmost portion of the area (the starting point).
+
+(b) *The regulations.* (1) All persons, vessels, or other watercraft are prohibited from entering, transiting, anchoring, or drifting within the danger zones described in paragraph (a) of this section when the adjacent rifle or pistol ranges on U.S. Marine Corps Recruit Depot Parris Island are in use.
+
+(2) Firing over these ranges will normally take place between the hours of 6 a.m. and 5 p.m., Monday through Friday, and from 6 a.m. to 12 p.m. on Saturday, National holidays excepted, and at other times as designated and properly published by the Commanding General, U.S. Marine Corps Recruit Depot Parris Island.
+
+(3) Warning signs indicating the periods when the rifle range is in use will be posted by the entrances to Archers Creek and Ribbon Creek. In addition, warning signs will be placed along the shoreline on the Broad River near the upstream and downstream boundaries of both the rifle range and the pistol range.
+
+(4) Warning flags shall be flown from the top of the lookout tower and on the rifle range and pistol range during actual firing. In addition, a sentry lookout will be on duty during actual firing and a patrol boat will be accessible for clearing the area and warning all approaching vessels of the danger zone and the schedule of firing.
+
+(5) During storms or similar emergencies these areas shall be opened to vessels to reach safety without undue delay for the preservation of life and property.
+
+(c) *Enforcement.* The regulations in this section shall be enforced by the Commanding General, U.S. Marine Corps Recruit Depot Parris Island and/or such persons or agencies as he/she may designate.
+
+[76 FR 62631, Oct. 11, 2011]

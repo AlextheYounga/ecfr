@@ -1,0 +1,5 @@
+##### § 607.21 Times for establishment registration and blood product listing. #####
+
+The owner or operator of an establishment entering into an operation defined in § 607.3(d) shall register such establishment within 5 days after the beginning of such operation and submit a list of every blood product in commercial distribution at the time. If the owner or operator of the establishment has not previously entered into such operation (defined in § 607.3(d) of this chapter) for which a license is required, registration shall follow within 5 days after the submission of a biologics license application in order to manufacture blood products. Owners or operators of all establishments so engaged must register annually between October 1 and December 31 and must update their blood product listing every June and December.
+
+[40 FR 52788, Nov. 12, 1975, as amended at 64 FR 56453, Oct. 20, 1999; 81 FR 60222, Aug. 31, 2016]

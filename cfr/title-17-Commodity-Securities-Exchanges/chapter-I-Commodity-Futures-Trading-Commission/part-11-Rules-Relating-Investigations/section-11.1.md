@@ -1,0 +1,5 @@
+##### § 11.1 Scope and applicability of rules. #####
+
+The rules of this part apply to investigatory proceedings conducted by the Commission or its staff pursuant to sections 6(c) and 8 and 12(f) of the Commodity Exchange Act, as amended, 7 U.S.C. 9 and 15 and 12 and 16(f) (Supp. IV, 1974), to determine whether there have been violations of that Act, or the rules, regulations or orders adopted thereunder, or, in accordance with the provisions of section 12(f) of the Act, whether there have been violations of the laws, rules or regulations relating to futures or options matters administered or enforced by a foreign futures authority, or whether an application for designation or registration under the Act should be denied. Except as otherwise specified herein, the rules will apply to the conduct of investigation whether or not the Commission has authorized the use of subpoenas in the particular matter to compel the production of evidence.
+
+[63 FR 5233, Feb. 2, 1998]

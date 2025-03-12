@@ -1,0 +1,3 @@
+##### § 159.301 Purpose. #####
+
+The purpose of this subpart is to implement “Title XIV—Certain Alaskan Cruise Ship Operations” contained in section 1(a)(4) of Pub. L. 106-554, enacted on December 21, 2000, by prescribing regulations governing the discharges of sewage and graywater from cruise vessels, require sampling and testing of sewage and graywater discharges, and establish reporting and record keeping requirements.

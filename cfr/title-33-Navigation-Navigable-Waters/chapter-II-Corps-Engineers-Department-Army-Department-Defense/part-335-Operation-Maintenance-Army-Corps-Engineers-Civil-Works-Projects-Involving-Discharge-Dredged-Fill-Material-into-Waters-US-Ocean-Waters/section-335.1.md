@@ -1,0 +1,3 @@
+##### § 335.1 Purpose. #####
+
+This regulation prescribes the practices and procedures to be followed by the Corps of Engineers to ensure compliance with the specific statutes governing Army Civil Works operations and maintenance projects involving the discharge of dredged or fill material into waters of the U.S. or the transportation of dredged material for the purpose of disposal into ocean waters. These practices and procedures should be employed throughout the decision/management process concerning methodologies and alternatives to be used to ensure prudent operation and maintenance activities.

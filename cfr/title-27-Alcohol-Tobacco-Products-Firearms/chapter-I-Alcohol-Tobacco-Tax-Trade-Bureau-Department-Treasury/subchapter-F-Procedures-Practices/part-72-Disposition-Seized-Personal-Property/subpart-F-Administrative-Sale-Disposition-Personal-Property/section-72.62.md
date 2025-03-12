@@ -1,0 +1,3 @@
+##### § 72.62 All bids on unit basis. #####
+
+All competitive bids, whether sealed or otherwise, shall be on a unit basis, i.e. if a number of forfeited automobiles are advertised for sale at the same date, hour and place, whether or not in the same notice of sale, there shall be a separate, individual bid required as to each automobile, and it shall not be permissible to accept one blanket bid to cover the entire group of cars offered for sale.

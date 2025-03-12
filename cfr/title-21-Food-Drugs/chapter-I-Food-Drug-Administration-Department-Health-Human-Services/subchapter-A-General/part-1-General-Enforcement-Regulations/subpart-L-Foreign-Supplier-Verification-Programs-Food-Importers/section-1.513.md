@@ -1,0 +1,9 @@
+##### § 1.513 What FSVP may I have if I am importing certain food from a country with an officially recognized or equivalent food safety system? #####
+
+(a) *General.* (1) If you meet the conditions and requirements of paragraph (b) of this section for a food of the type specified in paragraph (a)(2) of this section that you are importing, then you are not required to comply with the requirements in §§ 1.504 through 1.508. You would still be required to comply with the requirements in §§ 1.503, 1.509, and 1.510.
+
+(2) This section applies to food that is not intended for further manufacturing/processing, including packaged food products and raw agricultural commodities that will not be commercially processed further before consumption.
+
+(b) *Conditions and requirements.* (1) Before importing a food from the foreign supplier and annually thereafter, you must document that the foreign supplier is in, and under the regulatory oversight of, a country whose food safety system FDA has officially recognized as comparable or determined to be equivalent to that of the United States, and that the food is within the scope of that official recognition or equivalency determination.
+
+(2) Before importing a food from the foreign supplier, you must determine and document whether the foreign supplier of the food is in good compliance standing with the food safety authority of the country in which the foreign supplier is located. You must continue to monitor whether the foreign supplier is in good compliance standing and promptly review any information obtained. If the information indicates that food safety hazards associated with the food are not being significantly minimized or prevented, you must take prompt corrective action. The appropriate corrective action will depend on the circumstances but could include discontinuing use of the foreign supplier. You must document any corrective actions that you undertake in accordance with this paragraph (b)(2).

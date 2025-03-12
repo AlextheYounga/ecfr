@@ -1,0 +1,3 @@
+##### § 1240.45 Report of disease. #####
+
+The master of any vessel or person in charge of any conveyance engaged in interstate traffic, on which a case or suspected case of a communicable disease develops shall, as soon as practicable, notify the local health authority at the next port of call, station, or stop, and shall take such measures to prevent the spread of the disease as the local health authority directs.

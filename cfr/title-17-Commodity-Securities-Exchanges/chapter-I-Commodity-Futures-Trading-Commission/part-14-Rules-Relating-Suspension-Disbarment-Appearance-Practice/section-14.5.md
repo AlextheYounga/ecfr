@@ -1,0 +1,3 @@
+##### § 14.5 Criminal conviction. #####
+
+Any person who after licensing or certification to practice his profession by any competent authority has been convicted of any felony or of a misdemeanor involving fraud or involving moral turpitude in matters related to the regulatory responsibilities of the Commission, and whose conviction has not been reversed by an appellate court, may not appear or practice before the Commission. A conviction within the meaning of this section shall be deemed to have occurred when the convicting court enters its judgment or order, regardless of whether an appeal is pending or could be taken, and includes a judgment on a plea of nolo contendere.

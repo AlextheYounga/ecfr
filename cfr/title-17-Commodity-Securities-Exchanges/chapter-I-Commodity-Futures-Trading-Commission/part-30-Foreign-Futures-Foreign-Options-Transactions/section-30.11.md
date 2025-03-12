@@ -1,0 +1,3 @@
+##### § 30.11 Applicability of state law. #####
+
+Pursuant to section 12(e)(2) of the Act, the provisions of any state law, including any rule or regulation thereunder, may be applicable to any person required to be registered under this part who solicits foreign futures and foreign options customers and who shall fail or refuse to obtain such registration, unless such person is exempt from such registration in accordance with the provisions of § 30.4, § 30.5 or § 30.10 of this part.

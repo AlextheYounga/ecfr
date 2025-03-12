@@ -1,0 +1,5 @@
+##### § 1423.21 Objection to conduct of hearing. #####
+
+(a) Any objection with respect to the conduct of the hearing, including any objection to the introduction of evidence, may be stated orally or in writing accompanied by a short statement of the grounds for such objection, and included in the record. No such objection shall be deemed waived by further participation in the hearing. Such objection shall not stay the conduct of the hearing.
+
+(b) Formal exceptions to adverse rulings are unnecessary. Automatic exceptions will be allowed to all adverse rulings. Except by special permission of the Board, and in view of § 1429.11 of this subchapter, rulings by the Administrative Law Judge shall not be appealed prior to the transmittal of the case to the Board, but shall be considered by the Board only upon the filing of exceptions to the Administrative Law Judge's decision in accordance with § 1423.27. In the discretion of the Administrative Law Judge, the hearing may be continued or adjourned pending any such request for special permission to appeal.

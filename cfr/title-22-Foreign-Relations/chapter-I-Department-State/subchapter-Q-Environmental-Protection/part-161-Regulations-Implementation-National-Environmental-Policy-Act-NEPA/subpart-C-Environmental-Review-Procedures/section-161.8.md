@@ -1,0 +1,27 @@
+##### § 161.8 General description of the Department's NEPA process. #####
+
+In reviewing proposed actions for potential environmental effects in the United States responsible action officers will follow the procedural steps set forth below. These steps are developed in conjunction with the procedural steps required by the CEQ Regulations which are referenced in the following sections.
+
+(a) *Preliminary environmental evaluations.* Early in the process of considering any possible action the responsible action officer shall review the action to determine if it may cause potential significant environmental effects on the environment of the United States. A proposed action shall be reviewed initially to determine into which of the following three basic categories of action it falls:
+
+(1) Actions normally requiring environmental impact statements;
+
+(2) Actions categorically excluded from environmental impact statements; or
+
+(3) Actions normally requiring environmental assessments. If the responsible action officer concludes that the proposed action is a major action potentially having significant effects in the United States he should, in cooperation with other appropriate Departmental officials, carry out the steps described in these regulations. If during his review of the location of potential environmental effects or following preparation of an environmental assessment it is determined that the action could affect the environment of the global commons or a foreign nation the officer is responsible for ensuring compliance with the Department's procedures for implementing Executive Order No. 12114 on Environmental Effects Abroad of Major Federal Actions (Foreign Affairs Manual, Volume 2).
+
+(b) *Environmental Assessment.* An environmental assessment is a concise document which analyzes potential environmental effects to determine if an environmental impact statement is required (CEQ Regulations §§ 1501.3 and 1508.9). If the action does not fall into either the category of those actions normally requiring an environmental impact statement or that of actions categorically excluded from the requirement to prepare an environmental impact statement, then the responsible action officer, in cooperation with other Departmental officials, shall prepare an environmental assessment to determine whether it is necessary to prepare an environmental impact statement or a “Finding of no significant impact”. If the action normally requires an environmental impact statement, there is ordinarily no need for the preparation of an environmental assessment and the environmental impact statement process should be initiated without preparing such an assessment. If the action is categorically excluded, no further environmental review is needed. If an environmental assessment is prepared it may also be used to evaluate whether the proposed action may have effects outside the United States.
+
+(c) *Finding of no significant impact.* If the environmental assessment indicates that the environmental effects of the action in the United States are not significant, then the responsible action officer shall make a “Finding of no significant impact”, thereby concluding the NEPA review process (CEQ Regulations §§ 1501.4 and 1508.13).
+
+(d) *Environmental impact statement.* If the environmental assessment demonstrates that the environmental effects of the action with the United States may be “significant” (see § 1508.27 of the CEQ Regulations) the Department is required to prepare an environmental impact statement (EIS) in accordance with these regulations (see also CEQ Regulations § 1501.8, part 1502 and §§ 1506.2 through 1506.7). In preparing the environmental impact statement the following steps will be carried out:
+
+(1) *Notice of intent to prepare an EIS.* If an impact statement is required, the Department will publish in the Federal Register a “Notice of intent” to prepare such a statement (CEQ Regulations §§ 1501.7 and 1508.22).
+
+(2) *Scoping procedures.* The Department will then hold a scoping meeting with interested agencies and individuals to determine the proper content (“scope”) of the statement (CEQ Regulations §§ 1501.7 and 1508.25).
+
+(3) *Draft environmental impact statement (DEIS).* The Department will then prepare a draft EIS (DEIS) which will be filed with the Environmental Protection Agency and circulated to agencies and the public for comment for at least 45 days, except where the CEQ Regulations and these regulations permit the time period to be shortened (CEQ Regulations § 1501.8, part 1502, §§ 1506.2 through 1506.7, 1506.10(d) and 1506.11; 161.7(d), 161.9(n)(2)).
+
+(4) *Final environmental impact statement (FEIS).* In light of the comments and following any revision in the draft EIS, the Department will file with the Environmental Protection Agency and circulate to agencies and the public a final EIS at least 30 days before making a final decision on the action, except where the CEQ Regulations and these regulations permit the time period to be shortened (CEQ Regulations §§ 1506.9, 1506.10(d), 1506.11; 161.7(d), 161.9(n)(2)).
+
+(5) *Record of decision.* After making a decision on the action, the Department will make available a formal “Record of decision” (CEQ Regulations § 1505.2).

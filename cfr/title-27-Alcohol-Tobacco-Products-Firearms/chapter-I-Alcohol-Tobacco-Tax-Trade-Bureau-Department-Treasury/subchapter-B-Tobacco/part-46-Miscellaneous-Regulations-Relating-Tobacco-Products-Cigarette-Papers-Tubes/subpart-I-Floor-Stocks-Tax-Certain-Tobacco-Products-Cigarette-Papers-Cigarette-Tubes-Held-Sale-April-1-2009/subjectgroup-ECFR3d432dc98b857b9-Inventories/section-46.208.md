@@ -1,0 +1,5 @@
+##### § 46.208 Unmerchantable articles. #####
+
+Articles that the dealer holds for return to a supplier because of some defect are not subject to the floor stocks tax. However, the dealer must segregate any such unmerchantable articles and include them in a separate section of the inventory record. The dealer cannot include as unmerchantable any items that may be held because of poor market demand or to reduce the dealer's inventory. If, for any reason, the tobacco products or cigarette papers or tubes that were determined to be unmerchantable are not subsequently returned or destroyed, the dealer must file an additional floor stocks tax return and pay tax on such products plus any applicable penalties and interest.
+
+(Approved by the Office of Management and Budget under control number 1513-0129)

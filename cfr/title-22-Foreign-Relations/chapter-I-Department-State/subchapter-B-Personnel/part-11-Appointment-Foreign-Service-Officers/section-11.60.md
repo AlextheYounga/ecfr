@@ -1,0 +1,3 @@
+##### § 11.60 Limited non-career appointments. #####
+
+Consistent with section 303 of the Act (22 U.S.C. 3943), the Secretary of State may also appoint Civil Service employees and other individuals to the Foreign Service, and, consistent with section 309 of the Act (22 U.S.C. 3949), such appointments may include limited non-career appointments (LNAs). After meeting the job specific requirements, candidates must meet applicable medical, security, and suitability requirements. Limited non-career appointments are covered under 3 FAM 2290.

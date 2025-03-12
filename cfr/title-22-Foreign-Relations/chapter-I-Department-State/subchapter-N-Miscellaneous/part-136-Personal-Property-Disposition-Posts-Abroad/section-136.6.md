@@ -1,0 +1,3 @@
+##### § 136.6 Contractors. #####
+
+To the extent that contractors enjoy importation or tax privileges in a foreign country because of their contractual relationship to the United States Government, contracting agencies shall include provisions in their contracts that require the contractors to observe the requirements of these regulations and all policies, rules, and procedures issued by the chief of mission in that foreign country.

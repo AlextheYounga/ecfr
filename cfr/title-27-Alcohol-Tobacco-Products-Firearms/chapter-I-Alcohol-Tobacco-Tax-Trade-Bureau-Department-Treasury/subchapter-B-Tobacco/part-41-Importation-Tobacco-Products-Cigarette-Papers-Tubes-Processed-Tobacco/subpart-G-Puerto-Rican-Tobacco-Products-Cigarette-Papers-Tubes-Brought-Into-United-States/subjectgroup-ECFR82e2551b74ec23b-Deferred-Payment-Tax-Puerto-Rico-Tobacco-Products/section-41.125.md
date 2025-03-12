@@ -1,0 +1,5 @@
+##### § 41.125 Approval of bond and extension of coverage of bond. #####
+
+The appropriate TTB officer is authorized to approve all bonds and extensions of coverage of bonds (except under § 41.136) filed under this subpart. No manufacturer of tobacco products in Puerto Rico shall defer taxes under this subpart until he receives from the appropriate TTB officer notice of approval of the bond or of an appropriate extension of coverage of the bond required under this subpart. Upon receipt of the duplicate copy of an approved bond or extension of coverage of bond from the appropriate TTB officer, such copy of the bond or extension of coverage of bond shall be retained by the bonded manufacturer and shall be made available for inspection by the appropriate TTB officer upon his request.
+
+[T.D. 6871, 31 FR 45, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28086, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-251, 52 FR 19341, May 22, 1987. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

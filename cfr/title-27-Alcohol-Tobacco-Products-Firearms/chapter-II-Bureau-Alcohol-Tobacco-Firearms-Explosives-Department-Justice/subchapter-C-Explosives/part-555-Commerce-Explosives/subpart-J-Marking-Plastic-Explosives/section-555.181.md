@@ -1,0 +1,5 @@
+##### § 555.181 Reporting of plastic explosives. #####
+
+All persons, other than an agency of the United States (including any military reserve component) or the National Guard of any State, possessing any plastic explosive on April 24, 1996, shall submit a report to the Director no later than August 22, 1996. The report shall be in writing and mailed by certified mail (return receipt requested) to the Director at P.O. Box 50204, Washington, DC 20091-0204. The report shall include the quantity of plastic explosives possessed on April 24, 1996; any marks of identification on such explosives; the name and address of the manufacturer or importer; the storage location of such explosives, including the city and State; and the name and address of the person possessing the plastic explosives.
+
+[T.D. ATF-382, 61 FR 38085, July 23, 1996, as amended by T.D. ATF-387, 62 FR 8377, Feb. 25, 1997; T.D. ATF-11F, 73 FR 57242, Oct. 2, 2008]

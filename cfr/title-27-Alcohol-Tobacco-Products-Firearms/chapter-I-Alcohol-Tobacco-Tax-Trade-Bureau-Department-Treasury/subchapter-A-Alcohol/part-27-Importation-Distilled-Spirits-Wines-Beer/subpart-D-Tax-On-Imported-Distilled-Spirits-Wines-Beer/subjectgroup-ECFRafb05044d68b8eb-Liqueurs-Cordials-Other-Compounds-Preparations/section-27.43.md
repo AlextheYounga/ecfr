@@ -1,0 +1,5 @@
+##### § 27.43 Liqueurs, cordials, and similar compounds. #####
+
+A tax is imposed by 26 U.S.C. 5001 on all liqueurs, cordials, and similar compounds, containing distilled spirits, in a customs bonded warehouse or imported into the United States at the rate prescribed in such section on each proof gallon, and a proportionate tax at a like rate on all fractional parts of such proof gallon. The tax shall be determined at the time of importation, or, if entered into bond, at the time of withdrawal therefrom. Fortified or unfortified wines, containing not over 24 percent alcohol by volume, to which sweetening or flavoring materials, but no distilled spirits, have been added are not classified as liqueurs, cordials, or similar compounds, but are considered to be flavored wines only and are subject to internal revenue tax at the rates applicable to wines.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1314, as amended, 1331, as amended (26 U.S.C. 5001, 5041))[T.D. ATF-62, 44 FR 71718, Dec. 11, 1979]

@@ -1,0 +1,5 @@
+##### § 41.75 Exemptions. #####
+
+The provisions of this subpart requiring that tobacco products and cigarette papers and tubes be put up in packages and that proper notice be placed on such packages shall not apply to imported tobacco products and cigarette papers and tubes authorized to be released from customs custody, without payment of internal revenue tax, pursuant to § 41.50, and shall not apply to tobacco products imported in passengers' baggage, or by mail where the value does not exceed $250, where such products are solely for the personal consumption of the importer or for disposition as his bona fide gift.
+
+(72 Stat. 1422; 26 U.S.C. 5723)[T.D. 6871, 31 FR 41, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, as amended by T.D. ATF-232, 51 FR 28085, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

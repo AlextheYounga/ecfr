@@ -1,0 +1,3 @@
+##### § 1250.87 Wash water. #####
+
+Where systems installed on vessels for wash water, as defined in § 1250.3(n), do not comply with the requirements of a potable water system, prescribed in § 1250.82, they shall be constructed so as to minimize the possibility of the water therein being contaminated. The storage tanks shall comply with the requirements of § 1250.83, and the distribution system shall not be cross connected to a system carrying water of a lower sanitary quality. All faucets shall be labeled “Unfit for drinking”.

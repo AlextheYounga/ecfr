@@ -1,0 +1,5 @@
+##### § 150.430 What are the requirements for a declaration of inspection? #####
+
+(a) No person may transfer cargo from a tanker to a manned deepwater port unless a declaration of inspection complying with § 156.150(c) for oil, or § 127.317 for natural gas, of this chapter has been filled out and signed by the vessel's officer in charge of cargo transfer and the person in charge (PIC) of cargo transfer for the deepwater port.
+
+(b) Before signing a declaration of inspection, the vessel's officer in charge of cargo transfer must inspect the tanker, and the PIC of cargo transfer for the deepwater port must inspect the deepwater port. They must indicate, by initialing each item on the declaration of inspection form, that the tanker and deepwater port comply with § 156.150 for oil, or § 127.317 for natural gas, of this chapter.

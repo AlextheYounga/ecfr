@@ -1,0 +1,15 @@
+##### § 70.10 Color additives in standardized foods and new drugs. #####
+
+(a) *Standardized foods.* (1) Where a petition is received for issuance or amendment of a regulation establishing a definition and standard of identity for a food under section 401 of the act, which proposes the inclusion of a color additive in the standardized food, the provisions of the regulations in part 71 of this chapter shall apply with respect to the information that must be submitted with respect to the safety of the color additive (if such information has not previously been submitted and safety of the color additive for the intended use has not been already established), and the petition must show also that the use of the color additive in the standardized food would be in conformance with section 401 of the act or with the terms of a temporary permit issued under § 130.17 of this chapter.
+
+(2) If a petition for a definition and standard of identity contains a proposal for a color additive regulation, and the petitioner fails to designate it as such, the Commissioner, upon determining that the petition includes a proposal for a color additive regulation, shall so notify the petitioner and shall thereafter proceed in accordance with the regulations in part 71 of this chapter.
+
+(3) A regulation will not be issued allowing the use of a color additive in a food for which a definition and standard of identity is established, unless its issuance is in conformance with section 401 of the act or with the terms of a temporary permit issued under § 130.17 of this chapter. When the contemplated use of such additive complies with the terms of a temporary permit, the color additive regulation will be conditioned on such compliance and will expire with the expiration of the temporary permit.
+
+(b) *New drugs.* (1) Where an application for a new drug is received and this application proposes, for coloring purposes only, the inclusion of a color additive, the provisions of the regulations in part 71 of this chapter shall apply with respect to the information that must be submitted about the safety of the color additive, if such information has not previously been submitted and safety of the color additive for the intended use has not already been established.
+
+(2) If an application for a new drug inferentially contains a proposal for a color additive regulation, and the applicant fails to designate it as such, the Commissioner, upon determining that the application includes a proposal for a color additive regulation, shall so notify the applicant and shall thereafter proceed in accordance with the regulations in part 71 of this chapter.
+
+(3) Where a petition for a color additive must be filed in accordance with paragraph (b)(2) of this section, the date of filing of the color additive petition shall be considered as the date of filing of the new-drug application.
+
+[42 FR 15636, Mar. 22, 1977, as amended at 64 FR 400, Jan. 5, 1999]

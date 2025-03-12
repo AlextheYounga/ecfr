@@ -1,0 +1,9 @@
+##### § 240.8 Credit criteria for projects authorized after 17 November 1986. #####
+
+(a) In general, for projects authorized after 17 November 1986, work eligible for credit will be explicitly addressed in recommendations to Congress. If a report has been submitted to Congress, work on an element of the recommended Federal project or work that reduces its construction cost can be considered for credit.
+
+(b) Local work initiated after 17 November 1981 or within 5 years before the first obligation of funds for the reconnaissance study began, whichever is later, can be incorporated into the recommended plan for the purpose of economic evaluation. However, credit can be considered only for local work undertaken after the end of the reconnaissance study and for which a credit application has been acted upon prior to construction pursuant to § 240.9 procedures. (For any portion of such work undertaken prior to 17 November 1986, credit may be granted only if a letter application was received prior to 31 March 1987.) If such work was undertaken between 17 November 1986 and the effective date of this regulation, an after-the-fact application pursuant to the § 240.9 procedures will be accepted.
+
+(c) Reports recommending Federal participation in a plan should include the following, “Future non-Federal expenditures for improvements that, prior to their construction, are found to be compatible with the plan recommended herein, as it may be subsequently modified, will entitle the (*sponsor's name*) to consideration for credit in accordance with the guidelines established under section 104, Pub. L. 99-662.”
+
+(d) All costs for non-Federal work incorporated in the recommended plan in accordance with this paragraph shall be included in total project first costs and will therefore be subject to cost sharing. Related benefits will be included in the project's economic evaluation.

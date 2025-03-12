@@ -1,0 +1,9 @@
+##### § 1306.04 Purpose of issue of prescription. #####
+
+(a) A prescription for a controlled substance to be effective must be issued for a legitimate medical purpose by an individual practitioner acting in the usual course of his professional practice. The responsibility for the proper prescribing and dispensing of controlled substances is upon the prescribing practitioner, but a corresponding responsibility rests with the pharmacist who fills the prescription. An order purporting to be a prescription issued not in the usual course of professional treatment or in legitimate and authorized research is not a prescription within the meaning and intent of section 309 of the Act (21 U.S.C. 829) and the person knowingly filling such a purported prescription, as well as the person issuing it, shall be subject to the penalties provided for violations of the provisions of law relating to controlled substances.
+
+(b) A prescription may not be issued in order for an individual practitioner to obtain controlled substances for supplying the individual practitioner for the purpose of general dispensing to patients.
+
+(c) A prescription may not be issued for “detoxification treatment” or “maintenance treatment,” unless the prescription is for a Schedule III, IV, or V narcotic drug approved by the Food and Drug Administration specifically for use in maintenance or detoxification treatment and the practitioner is in compliance with requirements in § 1301.28 of this chapter.
+
+[36 FR 7799, Apr. 24, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973, and amended at 39 FR 37986, Oct. 25, 1974; 70 FR 36343, June 23, 2005]

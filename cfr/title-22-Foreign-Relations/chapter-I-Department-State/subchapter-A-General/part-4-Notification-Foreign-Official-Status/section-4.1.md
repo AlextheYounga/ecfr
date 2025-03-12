@@ -1,0 +1,3 @@
+##### § 4.1 General. #####
+
+In accordance with Article 10 of the Vienna Convention on Diplomatic Relations and Article 24 of the Vienna Convention on Consular Relations, diplomatic missions must notify the Office of Protocol immediately upon the arrival, in the United States, of any foreign government officer or employee (including domestics and family members), who are serving at diplomatic missions, consular posts, or miscellaneous foreign government offices. If the employee is already in the United States in some other capacity, the notification should be made upon assumption of duties. This initial notification requirement also includes all U.S. citizens and permanent resident aliens who are employed by foreign missions.

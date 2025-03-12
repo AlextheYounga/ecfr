@@ -1,0 +1,3 @@
+##### § 570.215 Incorporation into a GRAS notice. #####
+
+You may incorporate into your GRAS notice either specifically identified data and information that you previously submitted to the Center for Veterinary Medicine (CVM), or specifically identified publicly available data and information submitted by another party, when such data and information remain in CVM's records, such as data and information contained in a previous GRAS notice or a food additive petition.

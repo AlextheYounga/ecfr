@@ -1,0 +1,5 @@
+##### § 182.70 Substances migrating from cotton and cotton fabrics used in dry food packaging. #####
+
+Substances migrating to food from cotton and cotton fabrics used in dry food packaging that are generally recognized as safe for their intended use, within the meaning of section 409 of the Act, are as follows:
+
+Beef tallow.Carboxymethylcellulose.Coconut oil, refined.Cornstarch.Gelatin.Lard.Lard oil.Oleic acid.Peanut oil.Potato starch.Sodium acetate.Sodium chloride.Sodium silicate.Sodium tripolyphosphate.Soybean oil (hydrogenated).Talc.Tallow (hydrogenated).Tallow flakes.Tapioca starch.Tetrasodium pyrophosphate.Wheat starch.Zinc chloride.[42 FR 14640, Mar. 15, 1977, as amended at 43 FR 11698, Mar. 21, 1978; 44 FR 28323, May 15, 1979; 45 FR 6085, Jan. 25, 1980; 47 FR 27807, 27814, June 25, 1982; 48 FR 51150, Nov. 7, 1983; 48 FR 51616, Nov. 10, 1983; 48 FR 51909, Nov. 15, 1983; 48 FR 52441, 52443, 52445, 52446, Nov. 18, 1983; 51 FR 16830, May 7, 1986; 51 FR 27171, July 30, 1986; 60 FR 62208, Dec. 5, 1995]

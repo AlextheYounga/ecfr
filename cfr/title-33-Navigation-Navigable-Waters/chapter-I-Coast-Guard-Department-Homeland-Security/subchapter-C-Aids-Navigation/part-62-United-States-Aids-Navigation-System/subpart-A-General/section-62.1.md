@@ -1,0 +1,11 @@
+##### § 62.1 Purpose. #####
+
+(a) The Coast Guard administers the U.S. Aids to Navigation System. The system consists of Federal aids to navigation operated by the Coast Guard, aids to navigation operated by the other armed services, and private aids to navigation operated by other persons.
+
+(b)(1) This part describes the general characteristics of the U.S. Aids to Navigation System, and the details, policies and procedures employed by the Coast Guard in establishing, maintaining, operating, changing or discontinuing Federal aids to navigation. Regulations concerning the marking of wrecks, structures, and other obstructions are found in 33 CFR part 64. Regulations concerning private aids are found in 33 CFR part 66. Regulations concerning the marking of artificial islands and structures which are erected on or over the seabed and subsoil of the Outer Continental Shelf of the United States or its possessions are found in 33 CFR part 67. Regulations concerning the marking of bridges are found in 33 CFR part 118. Regulations concerning aids to navigation at deepwater ports are found in subchapter NN of this chapter.
+
+(2) The regulations found in 33 CFR subpart 66.10 expire on December 31, 2003, at which time the provisions of this part will apply.
+
+(c) The Coast Guard maintains systems of marine aids to navigation consisting of visual, audible, and electronic signals which are designed to assist the prudent mariner in the process of navigation. The aids to navigation system is not intended to identify every shoal or obstruction to navigation which exists in the navigable waters of the United States, but rather provides for reasonable marking of marine features as resources permit. The primary objective of the aids to navigation system is to mark navigable channels and waterways, obstructions adjacent to these waterways, and obstructions in areas of general navigation which may not be anticipated. Other waters, even if navigable, are generally not marked.
+
+[CGD 86-031, 52 FR 42640, Nov. 6, 1987, as amended by CGD 88-018, 54 FR 48608, Nov. 24, 1989; CGD 97-018, 63 FR 33573, June 19, 1998]

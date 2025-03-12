@@ -1,0 +1,3 @@
+##### § 142.9 Administrative requirements for small recipients. #####
+
+The Secretary may require any recipient with fewer than fifteen employees, or any class of such recipients, to comply with § 142.7, in whole or in part, when the Secretary finds a violation of this part or finds that such compliance will not significantly impair the ability of the recipient or class of recipients to provide benefits or services.

@@ -1,0 +1,3 @@
+##### § 5.4 Applicability of part 4 of this chapter to commodity pool operators and commodity trading advisors. #####
+
+Part 4 of this chapter applies to any person required pursuant to the provisions of this part 5 to register as a commodity pool operator or as a commodity trading advisor. Failure by any such person to comply with the requirements of part 4 will constitute a violation of this section and the relevant section of part 4.

@@ -1,0 +1,9 @@
+##### § 171.100 Regulation based on petition. #####
+
+(a) The Commissioner will forward for publication in the Federal Register, within 90 days after filing of the petition (or within 180 days if the time is extended as provided for in section 409(c)(2) of the Act), a regulation prescribing the conditions under which the food additive may be safely used (including, but not limited to, specifications as to the particular food or classes of food in or on which such additive may be used, the maximum quantity that may be used or permitted to remain in or on such food, the manner in which such additive may be added to or used in or on such food, and any directions or other labeling or packaging requirements for such additive deemed necessary by him to assure the safety of such use), and prior to the forwarding of the order to the Federal Register for publication shall notify the petitioner of such order and the reasons for such action; or by order deny the petition, and shall notify the petitioner of such order and of the reasons for such action.
+
+(b) The regulation shall describe the conditions under which the substance may be safely used in any meat product, meat food product, or poultry product subject to the Federal Meat Inspection Act (FMIA) (21 U.S.C. 601 *et seq.*) or the Poultry Products Inspection Act (PPIA) (21 U.S.C. 451 *et seq.*).
+
+(c) If the Commissioner determines that additional time is needed to study and investigate the petition, he shall by written notice to the petitioner extend the 90-day period for not more than 180 days after the filing of the petition.
+
+[42 FR 14489, Mar. 15, 1977, as amended at 65 FR 51763, Aug. 25, 2000]

@@ -1,0 +1,3 @@
+##### § 479.117 Action by Customs. #####
+
+Upon receipt of a permit, Form 9 (Firearms), in duplicate, authorizing the exportation of firearms, the District Director of Customs may order such inspection as deemed necessary prior to lading of the merchandise. If satisfied that the shipment is proper and the information contained in the permit to export is in agreement with information shown in the shipper's export declaration, the District Director of Customs will, after the merchandise has been duly exported, execute the certificate of exportation (Part 3 of Form 9 (Firearms)). One copy of the form will be retained with the shipper's export declaration and the remaining copy thereof will be transmitted to the Director.

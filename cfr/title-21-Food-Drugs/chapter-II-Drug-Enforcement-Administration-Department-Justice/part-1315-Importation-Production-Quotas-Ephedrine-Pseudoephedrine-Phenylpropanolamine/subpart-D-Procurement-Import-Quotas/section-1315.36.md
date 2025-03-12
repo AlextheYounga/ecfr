@@ -1,0 +1,9 @@
+##### § 1315.36 Amending an import quota. #####
+
+(a) An import quota authorizes the registered importer to import up to the set quantity of ephedrine, pseudoephedrine, or phenylpropanolamine and distribute the chemical or drug products on the DEA Form 488. An importer must apply to change the quantity to be imported.
+
+(b) Any person to whom an import quota has been issued may at any time request an increase in the quota quantity by applying to the Administrator with a statement showing the need for the adjustment. The application must be filed with the Drug & Chemical Evaluation Section, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. The Administrator may increase the import quota of the person if and to the extent that he determines that the approval is necessary to provide for medical, scientific, or other legitimate purposes regarding the chemical. The Administrator shall specify a period of time for which the approval is in effect or shall provide that the approval is in effect until the Administrator notifies the applicant in writing that the approval is terminated.
+
+(c) With respect to the application under paragraph (b) of this section, the Administrator shall approve or deny the application within 60 days of receiving the application. If the Administrator does not approve or deny the application within 60 days of receiving it, the application is deemed to be approved and the approval remains in effect until the Administrator notifies the applicant in writing that the approval is terminated.
+
+[72 FR 37448, July 10, 2007, as amended at 75 FR 10685, Mar. 9, 2010]

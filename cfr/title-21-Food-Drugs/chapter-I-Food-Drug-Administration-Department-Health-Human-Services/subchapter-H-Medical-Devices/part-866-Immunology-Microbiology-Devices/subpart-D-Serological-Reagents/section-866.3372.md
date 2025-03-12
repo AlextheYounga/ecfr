@@ -1,0 +1,7 @@
+##### § 866.3372 Nucleic acid-based in vitro diagnostic devices for the detection of Mycobacterium tuberculosis complex in respiratory specimens. #####
+
+(a) *Identification.* Nucleic acid-based in vitro diagnostic devices for the detection of *Mycobacterium tuberculosis* complex in respiratory specimens are qualitative nucleic acid-based in vitro diagnostic devices intended to detect *Mycobacterium tuberculosis* complex nucleic acids extracted from human respiratory specimens. These devices are non-multiplexed and intended to be used as an aid in the diagnosis of pulmonary tuberculosis when used in conjunction with clinical and other laboratory findings. These devices do not include devices intended to detect the presence of organism mutations associated with drug resistance. Respiratory specimens may include sputum (induced or expectorated), bronchial specimens (e.g., bronchoalveolar lavage or bronchial aspirate), or tracheal aspirates.
+
+(b) *Classification.* Class II (special controls). The special control for this device is the FDA document entitled “Class II Special Controls Guideline: Nucleic Acid-Based In Vitro Diagnostic Devices for the Detection of *Mycobacterium tuberculosis* Complex in Respiratory Specimens.” For availability of the guideline document, see § 866.1(e).
+
+[79 FR 31027, May 30, 2014]

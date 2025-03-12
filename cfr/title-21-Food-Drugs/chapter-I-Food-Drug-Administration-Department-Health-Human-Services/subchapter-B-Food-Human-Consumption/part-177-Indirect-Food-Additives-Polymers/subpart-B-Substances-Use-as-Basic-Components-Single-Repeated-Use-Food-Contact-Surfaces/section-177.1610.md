@@ -1,0 +1,9 @@
+##### § 177.1610 Polyethylene, chlorinated. #####
+
+Chlorinated polyethylene identified in this section may be safely used as articles or components of articles that contact food, except for articles used for packing or holding food during cooking, subject to the provisions of this section.
+
+(a) For the purpose of this section, chlorinated polyethylene consists of basic polymers produced by the direct chlorination of polyethylene conforming to the density, maximum *n-*hexane extractable fraction, and maximum xylene soluble fraction specifications prescribed under item 2.1 of the table in § 177.1520(c). Such chlorinated polyethylene contains a maximum of 60 percent by weight of total chlorine, as determined by ASTM 1method D1303-55 (Reapproved 1979), “Standard Test Method for Total Chlorine in Vinyl Chloride Polymers and Copolymers,” which is incorporated by reference (Copies may be obtained from the American Society for Testing Materials, 100 Barr Harbor Dr., West Conshohocken, Philadelphia, PA 19428-2959, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*), and has a 7.0 percent maximum extractable fraction in *n*-hexane at 50 °C, as determined by the method described in § 177.1520(d)(3)(ii).
+
+(b) Chlorinated polyethylene may be used in contact with all types of food, except that when used in contact with fatty food of Types III, IV-A, V, VII-A, and IX described in table 1 of § 176.170(c) of this chapter, chlorinated polyethylene is limited to use only as a modifier admixed at levels not exceeding 15 weight percent in plastic articles prepared from polyvinyl chloride and/or from vinyl chloride copolymers complying with § 177.1980.
+
+[42 FR 14572, Mar. 15, 1977, as amended at 49 FR 10109, Mar. 19, 1984; 59 FR 14550, Mar. 29, 1994]

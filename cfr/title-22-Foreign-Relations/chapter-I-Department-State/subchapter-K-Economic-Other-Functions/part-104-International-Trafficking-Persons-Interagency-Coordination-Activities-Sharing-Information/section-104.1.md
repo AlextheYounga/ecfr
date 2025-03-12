@@ -1,0 +1,3 @@
+##### § 104.1 Coordination of implementation of the Trafficking Victims Protection Act of 2000, as amended. #####
+
+The Director of the Office to Monitor and Combat Trafficking in Persons of the Department of State, who is the Chairperson of the Senior Policy Operating Group of the President's Interagency Task Force to Monitor and Combat Trafficking in Persons, shall call meetings of the Senior Policy Operating Group on a regular basis to coordinate activities of Federal departments and agencies regarding policies (including grants and grant policies) involving the international trafficking in persons and the implementation of the Trafficking Victims Protection Act of 2000, as amended.

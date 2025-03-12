@@ -1,0 +1,3 @@
+##### § 326.1 Purpose. #####
+
+This part prescribes enforcement policies (§ 326.2) and procedures applicable to activities performed without required Department of the Army permits (§ 326.3) and to activities not in compliance with the terms and conditions of issued Department of the Army permits (§ 326.4). Procedures for initiating legal actions are prescribed in § 326.5. Nothing contained in this part shall establish a non-discretionary duty on the part of district engineers nor shall deviation from these procedures give rise to a private right of action against a district engineer.

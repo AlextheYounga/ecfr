@@ -1,0 +1,7 @@
+##### § 878.4800 Manual surgical instrument for general use. #####
+
+(a) *Identification.* A manual surgical instrument for general use is a nonpowered, hand-held, or hand-manipulated device, either reusable or disposable, intended to be used in various general surgical procedures. The device includes the applicator, clip applier, biopsy brush, manual dermabrasion brush, scrub brush, cannula, ligature carrier, chisel, clamp, contractor, curette, cutter, dissector, elevator, skin graft expander, file, forceps, gouge, instrument guide, needle guide, hammer, hemostat, amputation hook, ligature passing and knot-tying instrument, knife, blood lancet, mallet, disposable or reusable aspiration and injection needle, disposable or reusable suturing needle, osteotome, pliers, rasp, retainer, retractor, saw, scalpel blade, scalpel handle, one-piece scalpel, snare, spatula, stapler, disposable or reusable stripper, stylet, suturing apparatus for the stomach and intestine, measuring tape, and calipers. A surgical instrument that has specialized uses in a specific medical specialty is classified in separate regulations in parts 868 through 892.
+
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter, subject to the limitations in § 878.9.
+
+[53 FR 23872, June 24, 1988, as amended at 54 FR 13828, Apr. 5, 1989; 59 FR 63010, Dec. 7, 1994; 66 FR 38803, July 25, 2001]

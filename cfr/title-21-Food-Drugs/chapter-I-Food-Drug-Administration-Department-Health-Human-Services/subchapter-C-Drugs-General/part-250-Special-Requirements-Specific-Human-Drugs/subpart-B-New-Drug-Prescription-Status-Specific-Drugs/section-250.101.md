@@ -1,0 +1,7 @@
+##### § 250.101 Amphetamine and methamphetamine inhalers regarded as prescription drugs. #####
+
+(a) Recurring reports of abuse and misuse of methamphetamine (also known as desoxyephedrine) inhalers show that they have a potentiality for harmful effect and that they should not be freely available to the public through over-the-counter sale. From complaints by law-enforcement officials, health officials, individual physicians, parents, and others as well as from Food and Drug Administration investigations, it is evident that the wicks from these inhalers are being removed and the methamphetamine they contain is being used as a substitute for amphetamine tablets. Amphetamine tablets and amphetamine inhalers have been restricted to prescription sale because of their potentiality for harm to the user.
+
+(b) It is the considered opinion of the Food and Drug Administration that, in order to adequately protect the public health, inhalers containing methamphetamine or methamphetamine salts (d-desoxyephedrine, or dl-desoxyephedrine, or their salts), as well as amphetamine inhalers should be restricted to prescription sale and should be labeled with the statement “Rx only.”
+
+[40 FR 14033, Mar. 27, 1975, as amended at 67 FR 4906, Feb. 1, 2002]

@@ -1,0 +1,3 @@
+##### § 201.490 Receipt of petitions for judicial review pursuant to 28 U.S.C. 2112(a)(1). #####
+
+The Commission officer and office designated pursuant to 28 U.S.C. 2112(a)(1) to receive copies of petitions for review of Commission orders from the persons instituting review in a court of appeals, are the Secretary and the Office of the Secretary at the Commission's Headquarters. Ten copies of each petition shall be submitted. Each copy shall state on its face that it is being submitted to the Commission pursuant to 28 U.S.C. 2112 by the person or persons who filed the petition in the court of appeals.

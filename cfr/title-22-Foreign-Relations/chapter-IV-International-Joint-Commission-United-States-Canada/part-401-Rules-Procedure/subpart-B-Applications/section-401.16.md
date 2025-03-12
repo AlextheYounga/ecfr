@@ -1,0 +1,5 @@
+##### § 401.16 Statement in response. #####
+
+(a) Except as otherwise provided pursuant to § 410.19, a Government and any interested person, other than the applicant, may present a statement in response to the Commission within thirty days after the filing of an application. A statement in response shall set forth facts and arguments bearing on the subject matter of the application and tending to oppose or support the application, in whole or in part. If it is desired that conditional approval be granted, the statement in response should set forth the particular condition or conditions desired. An address for service of documents should be included in the statement in response.
+
+(b) When a statement in response has been filed, the secretaries shall send a copy forthwith to the applicant and to each Government except the Government which presented the said statement in response. If so directed by the Commission, the secretaries shall inform those who have presented statements in response, of the nature of the total response.

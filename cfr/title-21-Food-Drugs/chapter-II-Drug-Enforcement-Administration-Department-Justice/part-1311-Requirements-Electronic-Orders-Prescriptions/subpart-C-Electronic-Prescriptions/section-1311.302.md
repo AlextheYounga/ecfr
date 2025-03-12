@@ -1,0 +1,5 @@
+##### § 1311.302 Additional application provider requirements. #####
+
+(a) If an application provider identifies or is made aware of any issue with its application that make the application non-compliant with the requirements of this part, the application provider must notify practitioners or pharmacies that use the application as soon as feasible, but no later than five business days after discovery, that the application should not be used to issue or process electronic controlled substance prescriptions.
+
+(b) When providing practitioners or pharmacies with updates to any issue that makes the application non-compliant with the requirements of this part, the application provider must indicate that the updates must be installed before the practitioner or pharmacy may use the application to issue or process electronic controlled substance prescriptions.

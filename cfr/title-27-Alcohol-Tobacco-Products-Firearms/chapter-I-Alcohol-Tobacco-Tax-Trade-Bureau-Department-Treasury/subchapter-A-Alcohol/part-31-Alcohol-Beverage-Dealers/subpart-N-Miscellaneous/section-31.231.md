@@ -1,0 +1,3 @@
+##### § 31.231 Destruction of marks and brands on wine containers. #####
+
+A dealer who empties any cask, barrel, keg, or other bulk container of wine must scrape or obliterate from the empty container all marks, brands, tags, or labels placed thereon under the provisions of part 24 of this chapter as evidence of the payment or determination of the tax on the wine removed in the container from the bonded wine cellar.

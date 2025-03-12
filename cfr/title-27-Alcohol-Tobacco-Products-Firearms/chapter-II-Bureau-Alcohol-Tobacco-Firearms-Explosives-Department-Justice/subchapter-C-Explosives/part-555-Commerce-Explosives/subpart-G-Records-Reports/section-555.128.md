@@ -1,0 +1,5 @@
+##### § 555.128 Discontinuance of business. #####
+
+Where an explosive materials business or operations is discontinued and succeeded by a new licensee or new permittee, the records prescribed by this subpart shall appropriately reflect such facts and shall be delivered to the successor. Where discontinuance of the business or operations is absolute, the records required by this subpart must be delivered within 30 days following the business or operations discontinuance to any ATF office located in the region in which the business was located, or to the ATF Out-of-Business Records Center, 244 Needy Road, Martinsburg, West Virginia 25405. Where State law or local ordinance requires the delivery of records to other responsible authority, the Chief, Federal Explosives Licensing Center may arrange for the delivery of the records required by this subpart to such authority. (See also, § 555.61.)
+
+[T.D. ATF-290, 54 FR 53054, Dec. 27, 1989, as amended by T.D. ATF-446a, 66 FR 19089, Apr. 13, 2001; ATF No. 1, 68 FR 13792, Mar. 20, 2003; T.D. ATF-11F, 73 FR 57242, Oct. 2, 2008; T.D. ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]

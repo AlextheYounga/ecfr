@@ -1,0 +1,5 @@
+##### § 44.153 Claim for abatement of assessment. #####
+
+A claim for abatement of the unpaid portion of the assessment of any tax on tobacco products, and cigarette papers and tubes, or any liability in respect of such tax, alleged to be excessive in amount, assessed after the expiration of the period of limitation applicable thereto, or erroneously or illegally assessed, shall be filed on Form 5620.8. Such claim shall set forth the reasons relied upon for the allowance of the claim and shall be supported by such evidence as is necessary to establish to the satisfaction of the appropriate TTB officer that the claim is valid.
+
+(68A Stat. 792; 26 U.S.C. 6404)[T.D. 6871, 31 FR 51, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28088, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-251, 52 FR 19341, May 22, 1987; T.D. ATF-421, 64 FR 71925, Dec. 22, 1999; T.D. ATF-480, 67 FR 30802, May 8, 2002]

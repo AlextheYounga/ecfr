@@ -1,0 +1,5 @@
+##### § 822.15 How long must I conduct postmarket surveillance of my device? #####
+
+The length of postmarket surveillance will depend on the postmarket surveillance question identified in our order. We may order prospective surveillance for a period up to 36 months; longer periods require your agreement. If we believe that a prospective period of greater than 36 months is necessary to address the surveillance question, and you do not agree, we will use the Medical Devices Dispute Resolution Panel to resolve the matter. You may obtain guidance regarding dispute resolution procedures from the Center for Devices and Radiological Health's (CDRH') Web site (*http://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDRH/CDRHOmbudsman/default.htm.*). The 36-month period refers to the surveillance period, not the length of time from the issuance of the order.
+
+[72 FR 17400, Apr. 9, 2007, as amended at 78 FR 18233, Mar. 26, 2013]

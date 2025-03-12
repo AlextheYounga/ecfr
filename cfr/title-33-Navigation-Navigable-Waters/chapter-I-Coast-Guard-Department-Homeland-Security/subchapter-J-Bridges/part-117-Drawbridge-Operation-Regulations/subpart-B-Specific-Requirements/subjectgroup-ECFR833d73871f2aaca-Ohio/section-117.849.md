@@ -1,0 +1,3 @@
+##### § 117.849 Muskingum River (Zanesville Canal). #####
+
+The draw of the Conrail bridge, mile 77.1 at Zanesville, shall open on signal Tuesday through Friday if the Conrail office is notified by 12:01 p.m. on the day preceding the day the opening is required. For openings Saturday through Monday, the Conrail office shall be notified by 12:01 p.m. on Friday specifying which day and time the opening is required. In case of emergency, the draw shall open as soon as possible.

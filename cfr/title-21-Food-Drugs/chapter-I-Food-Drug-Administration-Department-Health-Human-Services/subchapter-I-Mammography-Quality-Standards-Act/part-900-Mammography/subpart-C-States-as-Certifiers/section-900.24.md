@@ -1,0 +1,19 @@
+##### § 900.24 Withdrawal of approval. #####
+
+If FDA determines, through the evaluation activities of § 900.23, or through other means, that a certification agency is not in substantial compliance with this subpart, FDA may initiate the following actions:
+
+(a) *Major deficiencies.* If, after providing notice and opportunity for corrective action, FDA determines that a certification agency has demonstrated willful disregard for public health, has committed fraud, has failed to provide adequate resources for the program, has submitted material false statements to the agency, has failed to achieve the MQSA goals of quality mammography and access, or has performed or failed to perform a delegated function in a manner that may cause serious risk to human health, FDA may withdraw its approval of that certification agency. The certification agency shall notify, within a time period and in a manner approved by FDA, all facilities certified or seeking certification by it that it has been required to correct major deficiencies.
+
+(1) FDA shall notify the certification agency of FDA's action and the grounds on which the approval was withdrawn.
+
+(2) A certification agency that has lost its approval shall notify facilities certified or seeking certification by it, as well as the appropriate accreditation bodies with jurisdiction in the State, that its approval has been withdrawn. Such notification shall be made within a timeframe and in a manner approved by FDA.
+
+(b) *Minor deficiencies.* If FDA determines that a certification agency has demonstrated deficiencies in performing certification functions and responsibilities that are less serious or more limited than the deficiencies in paragraph (a) of this section, including failure to follow the certification agency's own procedures and policies as approved by FDA, FDA shall notify the certification agency that it has a specified period of time to take particular corrective measures as directed by FDA or to submit to FDA for approval the certification agency's own plan of corrective action addressing the minor deficiencies. If the approved corrective actions are not being implemented satisfactorily or within the established schedule, FDA may place the agency on probationary status for a period of time determined by FDA, or may withdraw approval of the certification agency.
+
+(1) If FDA places a certification agency on probationary status, the certification agency shall notify all facilities certified or seeking certification by it of its probationary status within a time period and in a manner approved by FDA.
+
+(2) Probationary status shall remain in effect until such time as the certification agency can demonstrate to the satisfaction of FDA that it has successfully implemented or is implementing the corrective action plan within the established schedule, and that the corrective actions have substantially eliminated all identified problems, or
+
+(3) If FDA determines that a certification agency that has been placed on probationary status is not implementing corrective actions satisfactorily or within the established schedule, FDA may withdraw approval of the certification agency. The certification agency shall notify all facilities certified or seeking certification by it, as well as the appropriate accreditation bodies with jurisdiction in the State, of its loss of FDA approval, within a timeframe and in a manner approved by FDA.
+
+(c) *Transfer of records.* A certification agency that has its approval withdrawn shall transfer facility records and other related information as required by FDA to a location and according to a schedule approved by FDA.

@@ -1,0 +1,5 @@
+##### § 210.2-05 Examination of financial statements by more than one accountant. #####
+
+If, with respect to the examination of the financial statements, part of the examination is made by an independent accountant other than the principal accountant and the principal accountant elects to place reliance on the work of the other accountant and makes reference to that effect in his report, the separate report of the other accountant shall be filed. However, notwithstanding the provisions of this section, reports of other accountants which may otherwise be required in filings need not be presented in annual reports to security holders furnished pursuant to the proxy and information statement rules under the Securities Exchange Act of 1934 [§§ 240.14a-3 and 240.14c-3].
+
+[46 FR 40872, Aug. 13, 1981]

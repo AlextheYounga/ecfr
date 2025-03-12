@@ -1,0 +1,5 @@
+##### § 45.34 Loss or shortage in shipment. #####
+
+Immediately upon receipt of information of a loss of all or part of a shipment, or of a shortage therein, of tobacco products, or cigarette papers or tubes removed under this part, the manufacturer shall notify the appropriate TTB officer, furnish all pertinent details with respect to the loss or shortage, and either pay the tax due thereon in accordance with the provisions of § 45.36, or file claim for remission of the tax liability under the provisions of part 40 of this chapter, as the case may be.
+
+(72 Stat. 1417, 1419, as amended; 26 U.S.C. 5703, 5705)[T.D. 6871, 31 FR 57, as amended by T.D. ATF-243, 51 FR 28090, Aug. 5, 1986; 51 FR 43194, Dec. 1, 1986; T.D. ATF-384, 61 FR 54096, Oct. 17, 1996; T.D. ATF-469, 66 FR 56758, Nov. 13, 2001; T.D. ATF-472, 67 FR 8880, Feb. 27, 2002]

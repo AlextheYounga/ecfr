@@ -1,0 +1,3 @@
+##### § 1471.4 Copies and service. #####
+
+Any party submitting a request for Panel consideration of an impasse and any party submitting a response to such requests shall file an original and one copy with the Panel, shall serve a copy promptly on the other party to the dispute, and shall file a statement of such service with the Executive Director. When the Panel acts on a request from the Executive Director, it will notify the parties to the dispute.

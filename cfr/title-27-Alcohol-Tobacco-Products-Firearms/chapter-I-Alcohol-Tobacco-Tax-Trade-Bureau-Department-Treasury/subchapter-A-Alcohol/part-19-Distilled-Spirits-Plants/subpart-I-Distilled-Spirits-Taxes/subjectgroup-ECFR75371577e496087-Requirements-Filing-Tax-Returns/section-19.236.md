@@ -1,0 +1,7 @@
+##### § 19.236 Due dates for returns. #####
+
+(a) *Semimonthly returns.* Except when payment is pursuant to a quarterly return as provided in paragraph (b) of this section, where the proprietor of bonded premises has withdrawn spirits from such premises on determination and before payment of tax, the proprietor must file a semimonthly tax return covering such spirits on form TTB F 5000.24, Excise Tax Return, and remittance, as required by § 19.238, § 19.239 or § 19.240, not later than the 14th day after the last day of the return period, except for returns filed for September as provided in § 19.237. If the due date falls on a Saturday, Sunday, or legal holiday, the return and payment are due on the immediately preceding day that is not a Saturday, Sunday, or legal holiday, except as provided in § 19.237(c).
+
+(b) *Quarterly returns.* Where the proprietor of bonded premises has withdrawn spirits from such premises on determination and before payment of tax, and the proprietor uses quarterly return periods as provided in § 19.235(b), the proprietor must file a quarterly return covering such spirits on TTB F 5000.24, and remittance, as required by § 19.238, § 19.239, or § 19.240, not later than the 14th day after the last day of the quarterly return period. If the due date falls on a Saturday, Sunday, or legal holiday, the return and remittance will be due on the immediately preceding day which is not a Saturday, Sunday, or legal holiday.
+
+(26 U.S.C. 5061)

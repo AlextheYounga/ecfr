@@ -1,0 +1,5 @@
+##### § 803.15 How will I know if you require more information about my medical device report? #####
+
+(a) We will notify you in writing if we require additional information and will tell you what information we need. We will require additional information if we determine that protection of the public health requires additional or clarifying information for medical device reports submitted to us and in cases when the additional information is beyond the scope of FDA reporting forms or is not readily accessible to us.
+
+(b) In any request under this section, we will state the reason or purpose for the information request, specify the due date for submitting the information, and clearly identify the reported event(s) related to our request. If we verbally request additional information, we will confirm the request in writing.

@@ -1,0 +1,5 @@
+##### § 240.15b7-1 Compliance with qualification requirements of self-regulatory organizations. #####
+
+No registered broker or dealer shall effect any transaction in, or induce the purchase or sale of, any security unless any natural person associated with such broker or dealer who effects or is involved in effecting such transaction is registered or approved in accordance with the standards of training, experience, competence, and other qualification standards (including but not limited to submitting and maintaining all required forms, paying all required fees, and passing any required examinations) established by the rules of any national securities exchange or national securities association of which such broker or dealer is a member or under the rules of the Municipal Securities Rulemaking Board (if it is subject to the rules of that organization).
+
+[58 FR 27658, May 11, 1993]

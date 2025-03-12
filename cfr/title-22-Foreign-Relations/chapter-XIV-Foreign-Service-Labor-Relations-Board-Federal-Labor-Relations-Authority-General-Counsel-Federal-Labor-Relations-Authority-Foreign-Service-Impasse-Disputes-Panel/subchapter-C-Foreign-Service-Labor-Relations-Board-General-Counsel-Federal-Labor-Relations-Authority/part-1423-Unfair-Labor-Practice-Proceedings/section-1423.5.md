@@ -1,0 +1,7 @@
+##### § 1423.5 Selection of the unfair labor practice procedure or the negotiability procedure. #####
+
+(a) Where a labor organization files an unfair labor practice charge pursuant to this part which involves a negotiability issue, and the labor organization also files pursuant to part 1424 of this subchapter a petition for review of the same negotiability issue, the Board and the General Counsel ordinarily will not process the unfair labor practice charge and the petition for review simultaneously.
+
+(b) Under such circumstances, the labor organization must select under which procedure to proceed. Upon selection of one procedure, further action under the other procedure will ordinarily be suspended. Such selection must be made regardless of whether the unfair labor practice charge or the petition for review of a negotiability issue is filed first. Notification of this selection must be made in writing at the time that both procedures have been invoked, and must be served on the Board, the appropriate Regional Director and all parties to both the unfair labor practice case and the negotiability case.
+
+(c) Cases which solely involve an agency's allegation that the duty to bargain in good faith does not extend to the matter proposed to be bargained and which do not involve actual or contemplated changes in conditions of employment may only be filed under part 1424 of this subchapter.

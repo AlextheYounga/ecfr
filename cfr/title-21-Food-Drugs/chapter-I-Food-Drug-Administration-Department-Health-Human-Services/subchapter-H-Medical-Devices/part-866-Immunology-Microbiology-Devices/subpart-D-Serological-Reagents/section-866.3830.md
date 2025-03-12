@@ -1,0 +1,5 @@
+##### § 866.3830 Treponema pallidum treponemal test reagents. #####
+
+(a) *Identification. Treponema pallidum* treponemal test reagents are devices that consist of the antigens, antisera and all control reagents (standardized reagents with which test results are compared) which are derived from treponemal sources and that are used in the fluorescent treponemal antibody absorption test (FTA-ABS), the *Treponema pallidum* immobilization test (T.P.I.), and other treponemal tests used to identify antibodies to *Treponema pallidum* directly from infecting treponemal organisms in serum. The identification aids in the diagnosis of syphilis caused by bacteria belonging to the genus *Treponema* and provides epidemiological information on syphilis.
+
+(b) *Classification.* Class II (performance standards).

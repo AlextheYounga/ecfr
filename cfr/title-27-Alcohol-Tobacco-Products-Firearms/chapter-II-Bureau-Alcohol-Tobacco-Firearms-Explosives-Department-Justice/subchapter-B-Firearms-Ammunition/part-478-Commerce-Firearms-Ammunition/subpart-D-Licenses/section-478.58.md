@@ -1,0 +1,3 @@
+##### § 478.58 State or other law. #####
+
+A license issued under this part confers no right or privilege to conduct business or activity contrary to State or other law. The holder of such a license is not by reason of the rights and privileges granted by that license immune from punishment for operating a firearm or ammunition business or activity in violation of the provisions of any State or other law. Similarly, compliance with the provisions of any State or other law affords no immunity under Federal law or regulations.

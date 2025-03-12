@@ -1,0 +1,5 @@
+##### § 803.21 Where can I find the reporting codes for adverse events that I use with medical device reports? #####
+
+(a) The MedWatch Medical Device Reporting Code Instruction Manual contains adverse event codes for use with Form FDA 3500A. You may obtain the coding manual from FDA's Web site at: *http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/FormsandInstructions/default.htm;* and from the Division of Small Manufacturers, International and Consumer Assistance, Center for Devices and Radiological Health, 10903 New Hampshire Ave., Bldg. 66, Rm. 4621, Silver Spring, MD 20993-0002, FAX: 301-847-8149, or email to *DSMICA@fda.hhs.gov*.
+
+(b) We may sometimes use additional coding of information on the reporting forms or modify the existing codes. If we do make modifications, we will ensure that we make the new coding information available to all reporters.

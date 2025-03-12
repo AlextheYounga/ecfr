@@ -1,0 +1,3 @@
+##### § 18.1 Scope. #####
+
+This part contains rules governing disciplinary action against a former officer or employee of the Department of State, including the Foreign Service, because of a violation of the post employment conflict of interest prohibitions. Such disciplinary action may include prohibition from practice before the Department of State and any component thereof as defined in this part.

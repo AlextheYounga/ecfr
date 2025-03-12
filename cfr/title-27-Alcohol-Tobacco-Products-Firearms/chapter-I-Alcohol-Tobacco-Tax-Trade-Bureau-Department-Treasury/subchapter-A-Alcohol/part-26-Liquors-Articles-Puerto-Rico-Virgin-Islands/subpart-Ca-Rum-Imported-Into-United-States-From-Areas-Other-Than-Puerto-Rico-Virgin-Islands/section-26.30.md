@@ -1,0 +1,5 @@
+##### § 26.30 Excise taxes. #####
+
+Distilled spirits excise taxes, less the estimated amounts necessary for payment of refunds and drawbacks, collected on all rum imported into the United States (including rum from possessions other than Puerto Rico and the Virgin Islands), will be deposited into the Treasuries of Puerto Rico and the Virgin Islands according to the formula described in § 26.31. The amount deposited into the Treasuries of Puerto Rico and the Virgin Islands shall be the lesser of $10.50, or the rate imposed by 26 U.S.C. 5001(a)(1) (including adjustments to the effective tax rate under 26 U.S.C. 5010), on each proof gallon of rum imported into the United States.
+
+(Aug. 16, 1954, Chapter 736, 68A Stat. 907, as amended (26 U.S.C. 7652))[T.D. ATF-203, 50 FR 15888, Apr. 23, 1985. Redesignated and amended by T.D. ATF-459, 66 FR 38550, July 25, 2001]

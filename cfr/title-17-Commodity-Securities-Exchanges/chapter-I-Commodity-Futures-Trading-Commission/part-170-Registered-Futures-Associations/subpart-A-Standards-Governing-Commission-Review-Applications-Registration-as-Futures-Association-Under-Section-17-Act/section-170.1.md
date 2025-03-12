@@ -1,0 +1,3 @@
+##### § 170.1 Demonstration of purposes (section 17(b)(1) of the Act). #####
+
+A futures association must demonstrate that it will be able to carry out the purposes of section 17 of the Act. Since a basic purpose of a futures association is to regulate the practices of its members, an association should demonstrate that it will require its members to adhere to regulatory requirements governing their business practices at least as stringent as those imposed by the Commission. For example, the association should be prepared to establish and maintain in accordance with § 1.52 of this chapter, a financial compliance program for those members of the association who are futures commission merchants.

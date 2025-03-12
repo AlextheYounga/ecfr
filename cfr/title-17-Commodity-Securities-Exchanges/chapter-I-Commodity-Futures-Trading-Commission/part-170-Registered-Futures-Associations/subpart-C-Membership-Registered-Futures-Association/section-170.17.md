@@ -1,0 +1,5 @@
+##### § 170.17 Introducing brokers, commodity pool operators, and commodity trading advisors. #####
+
+Each person registered as an introducing broker, commodity pool operator, or commodity trading advisor must become and remain a member of at least one futures association that is registered under Section 17 of the Act and that provides for the membership therein of introducing brokers, commodity pool operators, or commodity trading advisors, as the case may be, unless no such futures association is so registered; provided, however that a person registered as a commodity trading advisor shall not be required to become or remain a member of such a futures association, solely in respect of its registration as a commodity trading advisor, if such person is eligible for the exemption from registration as such pursuant to § 4.14(a)(9) of this chapter.
+
+[80 FR 55029, Sept. 14, 2015]

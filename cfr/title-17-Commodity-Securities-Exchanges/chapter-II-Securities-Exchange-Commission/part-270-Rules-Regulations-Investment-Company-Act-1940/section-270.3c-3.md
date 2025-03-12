@@ -1,0 +1,5 @@
+##### § 270.3c-3 Definition of certain terms used in section 3(c)(1) of the Act with respect to certain debt securities offered by small business investment companies. #####
+
+The term *public offering* as used in section 3(c)(1) of the Act shall not be deemed to include the offer and sale by a small business investment company, licensed under the Small Business Investment Act of 1958, of any debt security issued by it which is (a) not convertible into, exchangeable for, or accompanied by any equity security, and (b) guaranteed as to timely payment of principal and interest by the Small Business Administration and backed by the full faith and credit of the United States. The holders of any securities offered and sold as described in this section shall be counted, in the aggregate, as one person for purposes of section 3(c)(1) of the Act.
+
+[37 FR 7590, Apr. 18, 1972]

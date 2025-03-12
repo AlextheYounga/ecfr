@@ -1,0 +1,3 @@
+##### § 201.42 Reexport of USAID-financed commodities. #####
+
+Unless specifically authorized by USAID, commodities imported into a cooperating country under USAID-financing may not be exported in the same or substantially in the same form from the cooperating country. In the event of any unauthorized reexport, the borrower/grantee shall pay promptly to USAID, upon demand, the entire amount reimbursed or such lesser or greater amount as USAID may deem appropriate under the circumstances of the particular transaction. Such an amount shall in no event, however, exceed the greater of either the amount reimbursed or the amount realized from the reexport.

@@ -1,0 +1,3 @@
+##### § 1317.01 Scope. #####
+
+This part sets forth the rules for the delivery, collection, and destruction of damaged, expired, returned, recalled, unused, or otherwise unwanted controlled substances that are lawfully possessed by registrants (subpart A) and non-registrants (subpart B). The purpose of such rules is to provide prompt, safe, and effective disposal methods while providing effective controls against the diversion of controlled substances.

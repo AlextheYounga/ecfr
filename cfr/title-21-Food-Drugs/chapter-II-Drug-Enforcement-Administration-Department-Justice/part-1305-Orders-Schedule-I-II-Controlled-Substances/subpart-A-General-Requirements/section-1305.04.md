@@ -1,0 +1,5 @@
+##### § 1305.04 Persons entitled to order Schedule I and II controlled substances. #####
+
+(a) Only persons who are registered with DEA under section 303 of the Act (21 U.S.C. 823) to handle Schedule I or II controlled substances, and persons who are registered with DEA under section 1008 of the Act (21 U.S.C. 958) to export these substances may obtain and use DEA Form 222 (order forms) or issue electronic orders for these substances. Persons not registered to handle Schedule I or II controlled substances and persons registered only to import controlled substances are not entitled to obtain Form 222 or issue electronic orders for these substances.
+
+(b) An order for Schedule I or II controlled substances may be executed only on behalf of the registrant named on the order and only if his or her registration for the substances being purchased has not expired or been revoked or suspended.

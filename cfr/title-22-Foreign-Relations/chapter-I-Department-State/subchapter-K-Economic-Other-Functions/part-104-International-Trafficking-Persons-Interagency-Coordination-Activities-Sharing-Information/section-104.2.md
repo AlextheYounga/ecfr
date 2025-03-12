@@ -1,0 +1,3 @@
+##### § 104.2 Sharing of information regarding international trafficking in persons. #####
+
+Each Federal Department or agency represented on the Senior Policy Operating Group shall, to the extent permitted by law, share information on all matters relating to grants, grant policies, or other significant actions regarding the international trafficking in persons. In its coordinating role, the Senior Policy Operating Group shall establish appropriate mechanisms to effect such information sharing.

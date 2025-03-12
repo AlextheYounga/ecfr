@@ -1,0 +1,3 @@
+##### § 223.4 Examiner. #####
+
+When a former Government employee after receiving adequate notice requests a hearing, a presiding official (hereinafter referred to as “examiner”) shall be appointed by the Administrator to make an initial decision. The examiner shall be a responsible person who is impartial and who has not participated in any manner in the decision to initiate the proceeding. The hearing officer shall be an individual with suitable experience and training to conduct the hearing, reach a determination and render an initial decision in an equitable manner.

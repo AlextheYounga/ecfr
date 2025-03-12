@@ -1,0 +1,9 @@
+##### § 19.151 General. #####
+
+(a) *Bond required.* Any person who plans to establish and operate a distilled spirits plant must provide TTB with one or more bonds on form TTB F 5110.56, Distilled Spirits Bond. TTB will not approve a registration or allow a person to operate a distilled spirits plant until the applicant has provided the necessary bonds. If a proprietor fails to pay any liability covered by a bond, TTB may seek payment from the proprietor, from the surety (see § 19.153) or from both the proprietor and the surety. The types and penal sums of bonds required will depend upon the type and size of the operations that the proprietor will conduct.
+
+(b) *Bond terms and conditions.* The terms and conditions of a distilled spirits bond require that the proprietor comply with all provisions of law and regulations relating to activities covered by the bond, and to pay all taxes imposed by 26 U.S.C. chapter 51, including taxes on unexplained shortages of bottled distilled spirits. The bond will further specify that the proprietor will pay all penalties incurred, or fines imposed, for violations of law and regulations relating to activities covered by the bond. The specific terms of the required bond(s) are stated on TTB F 5110.56.
+
+(c) *Corporations and controlled subsidiaries.* For purposes of this subpart, the term “corporation” includes a Limited Liability Company (LLC) or Limited Liability Partnership (LLP) in any jurisdiction where the law authorizes such a business organization to operate. Whenever used in this subpart, the term “controlled subsidiary” means a corporation (or LLC or LLP) in which more than 50 percent of the voting power is controlled by a parent corporation.
+
+(26 U.S.C. 5173, 5551)

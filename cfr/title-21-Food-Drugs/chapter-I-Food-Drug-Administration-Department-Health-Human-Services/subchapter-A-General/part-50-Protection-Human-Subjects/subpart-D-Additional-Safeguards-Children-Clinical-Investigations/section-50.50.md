@@ -1,0 +1,3 @@
+##### § 50.50 IRB duties. #####
+
+In addition to other responsibilities assigned to IRBs under this part and part 56 of this chapter, each IRB must review clinical investigations involving children as subjects covered by this subpart D and approve only those clinical investigations that satisfy the criteria described in § 50.51, § 50.52, or § 50.53 and the conditions of all other applicable sections of this subpart D.

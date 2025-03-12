@@ -1,0 +1,5 @@
+##### § 31.43 States, political subdivisions of States, or the District of Columbia. #####
+
+A State, a political subdivision of a State, or the District of Columbia, that engages in the business of selling, or offering for sale, distilled spirits, wines, or beer is not exempt from the requirements of this part. However, no such governmental entity shall be required to register more than once as a retail dealer in liquors regardless of the number of locations at which the entity carries on business as a retail dealer in liquors. Any such governmental entity that has properly registered as a wholesale dealer at its principal office, and that has properly registered once as a retail dealer in liquors or beer, is not required to register again at its retail stores by reason of the sale of distilled spirits, wines, or beer at any of those locations to dealers qualified to do business as a dealer within the jurisdiction of that governmental entity.
+
+(26 U.S.C. 5121)

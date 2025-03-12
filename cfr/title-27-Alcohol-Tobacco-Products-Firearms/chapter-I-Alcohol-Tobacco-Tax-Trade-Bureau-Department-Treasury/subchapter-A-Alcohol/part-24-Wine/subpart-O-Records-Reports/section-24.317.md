@@ -1,0 +1,5 @@
+##### § 24.317 Sugar record. #####
+
+A proprietor who receives, stores, or uses sugar shall maintain a record of receipt and use. The record will show the date of receipt, from whom received, and the kind and quantity. Invoices covering purchases will be retained. When sugar is used for chaptalization (Brix adjustment), amelioration or sweetening, the record will show the date, kind, and quantity used. The sugar record will also show sugar used in the production of allied products and any sugar removed from the wine premises. At the close of each reporting period, the account will be balanced and the quantity of each kind of sugar remaining on hand will be shown.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367))(Approved by the Office of Management and Budget under control number 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-338, 58 FR 19065, Apr. 12, 1993]

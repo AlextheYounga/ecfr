@@ -1,0 +1,3 @@
+##### § 555.162 False statement or representation. #####
+
+Any person who knowingly withholds information or makes any false or fictitious oral or written statement or furnishes or exhibits any false, fictitious, or misrepresented identification, intended or likely to deceive for the purpose of obtaining explosive materials, or a license, permit, exemption, or relief from disability under the Act, shall be fined not more than $10,000 or imprisoned not more than 10 years, or both.

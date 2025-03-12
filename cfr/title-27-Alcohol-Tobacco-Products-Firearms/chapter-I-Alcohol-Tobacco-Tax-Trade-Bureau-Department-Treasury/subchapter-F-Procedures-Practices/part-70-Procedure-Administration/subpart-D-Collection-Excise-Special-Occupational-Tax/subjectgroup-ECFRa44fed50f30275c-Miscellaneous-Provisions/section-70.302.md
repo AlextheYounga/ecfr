@@ -1,0 +1,39 @@
+##### § 70.302 Fees and costs for witnesses. #####
+
+(a) *Introduction.* Title 26 U.S.C. 7610 provides that the Bureau may make payments to certain persons who are summoned to give information to the Bureau under 26 U.S.C. 7602 and § 70.22 of this part. Under 26 U.S.C. 7610 witnesses generally will not be reimbursed for actual expenses incurred but instead will be paid in accordance with the payment rates established by regulations. Paragraph (b) of this section contains elaborations of certain terms found in 26 U.S.C. 7610 and definitions of other terms used in the regulations under 26 U.S.C. 7610 (a) and (b); and paragraphs (c) and (d) of this section contain rules and rates applicable to payments under 26 U.S.C. 7610.
+
+(b) *Definitions*—(1) *Directly incurred costs.* Directly incurred costs are costs incurred solely, immediately, and necessarily as a consequence of searching for, reproducing, or transporting records in order to comply with a summons. They do not include a proportionate allocation of fixed costs, such as overhead, equipment depreciation, etc. However, where a third party's records are stored at an independent storage facility that charges the third party a search fee to search for, reproduce, or transport particular records requested, these fees are considered to be directly incurred by the summoned third party.
+
+(2) *Reproduction cost.* Reproduction costs are costs incurred in making copies or duplicates of summoned documents, transcripts, and other similar material.
+
+(3) *Search costs.* Search costs include only the total cost of personnel time directly incurred in searching for records or information and the cost of retrieving information stored by computer. Salaries of persons locating and retrieving summoned material are not included in search costs. Also, search costs do not include salaries, fees, or similar expenditures for analysis of material or for managerial or legal advice, expertise, or research, or time spent for these activities.
+
+(4) *Third party.* A third party is any person served with a summons, other than a person with respect to whose liability a summons is issued, or an officer, employee, agent, accountant, or attorney of that person.
+
+(5) *Third party records.* Third party records are books, papers, records, or other data in which the person with respect to whose liability a summons is issued does not have a proprietary interest at the time the summons is served.
+
+(6) *Transportation costs.* Transportation costs include only costs incurred to transport personnel to search for records or information requested and costs incurred solely by the need to transport the summoned material to the place of examination. These costs do not include the cost of transporting the summoned witness for appearance at the place of examination. See paragraph (c)(2) of this section for payment of travel expenses.
+
+(c) *Conditions and rates of payments*—(1) *Basis for payment.* Payment for search, reproduction, and transportation costs will be made only to third parties served with a summons to produce third party records or information and only for material requested by the summons. Payment will be made only for those costs both directly incurred and reasonably necessary. No payment will be made until the third party has satisfactorily complied with the summons and has submitted an itemized bill or invoice showing specific details concerning the costs to the Bureau employee before whom the third party was summoned. If a third party charges any other person for any cost for which the third party is seeking payment from the Bureau, the amount charged to the other person must be subtracted from the amount the Bureau must pay.
+
+(2) *Payment rates.* The following rates are established.
+
+(i) *Search costs.* (A) For the total amount of personnel time required to locate records or information, $8.50 per person hour.
+
+(B) For retrieval of information stored by computer in the format in which it is normally produced, actual costs, based on computer time and necessary supplies, except that personnel time for computer search is payable only under paragraph (c)(2)(i)(A) of this section.
+
+(ii) *Reproduction costs.* (A) For copies of documents $.20 per page.
+
+(B) For photographers, films and other materials, actual cost, except that personnel time is payable only under paragraph (a)(2)(i)(A) of this section.
+
+(iii) *Transportation costs.* For transportation costs, actual cost, except that personnel time is payable only under paragraph (c)(2)(i)(A) of this section.
+
+(d) *Appearance fees and allowances*—(1) *In general.* Under 26 U.S.C. 7610(a)(1) and this paragraph, the Bureau shall pay a summoned person certain fees and allowances. No payments will be made until after the party summoned appears and has submitted any necessary receipts or other evidence of costs to the Bureau employee before whom the person was summoned.
+
+(2) *Attendance fees.* A summoned person shall be paid an attendance fee for each day's attendance. A summoned person shall also be paid the attendance fee for the time necessarily occupied in going to and returning from the place of attendance at the beginning and end of the attendance or at any time during the attendance. The attendance fee is the higher of $30 per day or the amount paid under 28 U.S.C. 1821(b) to witnesses in attendance at courts of the United States at the time of the summoned person's appearance.
+
+(3) *Travel allowances.* A summoned person who travels by common carrier shall be paid for the actual expenses of travel on the basis of the means of transportation reasonably utilized and the distance necessarily traveled to and from the summoned person's residence by the shortest practical route in going to and returning from the place of attendance. Such a summoned person shall utilize a common carrier at the most economical rate reasonably available. A receipt or other evidence of actual cost shall be furnished. A travel allowance equal to the mileage allowance which the Administrator of General Services has prescribed, under 5 U.S.C. 5704, for official travel of employees of the Federal Government shall be paid to each summoned person who travels by privately owned vehicle. Computation of mileage under this paragraph shall be made on the basis of a uniform table of distances adopted by the Administrator of General Services. Toll charges for toll roads, bridges, tunnels and ferries, taxicab fares between places of lodging and carrier terminals, and parking fees (upon presentation of a valid parking receipt) shall be paid in full to a summoned person incurring those expenses.
+
+(4) *Subsistence allowances.* A subsistence allowance shall be paid to a summoned person (other than a summoned person who is incarcerated) when an overnight stay is required at the place of attendance because the place is so far removed from the residence of the summoned person as to prohibit return thereto from day to day. A subsistence allowance for a summoned person shall be paid in an amount not to exceed the maximum allowance prescribed by the Administrator of General Services, under 5 U.S.C. 5702(a), for official travel in the area of attendance by employees of the Federal Government. An alien who has been paroled into the United States by the Attorney General, under 8 U.S.C. 1182(d)(5)(A), or an alien who either has admitted belonging to a class of aliens who are deportable or has been determined under 8 U.S.C. 1252(b) to be deportable, shall be ineligible to receive the fees or allowances provided for under 26 U.S.C. 7610(a)(1).
+
+(26 U.S.C. 7610)

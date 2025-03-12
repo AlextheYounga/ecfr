@@ -1,0 +1,3 @@
+##### § 14.3 Hearings. #####
+
+Hearings required or permitted to be held under provisions of this part shall be held before an Administrative Law Judge, utilizing the procedures established in the rules of practice (part 10) for adjudicatory proceedings. Any proceeding brought under provisions of this part shall, unless otherwise determined by the Commission, be prosecuted by the General Counsel of the Commission or by such attorneys in his office as he may assign.

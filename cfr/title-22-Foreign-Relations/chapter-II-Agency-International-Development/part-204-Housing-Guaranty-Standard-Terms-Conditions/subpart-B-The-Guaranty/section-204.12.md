@@ -1,0 +1,5 @@
+##### § 204.12 Guaranty eligibility. #####
+
+(a) Eligible Notes only may be guarantied hereunder, and Eligible Investors only are entitled to the benefits of this Guaranty. Notes in order to achieve Eligible Note status must be signed on behalf of the Borrower, manually or in facsimile, by a duly authorized representative of the Borrower; and they must contain a guaranty legend incorporating these standard terms and conditions signed on behalf of A.I.D. by either a manual signature or a facsimile signature or an authorized representative of A.I.D. together with a certificate of authentication manually executed by a Paying Agent whose appointment by the Borrower is consented to by A.I.D. in a Paying and Transfer Agency Agreement.
+
+(b) A.I.D. shall designate in a certificate delivered to the Lender and to the Paying Agent, the person(s) whose signature shall be binding on A.I.D. The certificate of authentication of the Paying Agent issued pursuant to the Paying and Transfer Agency Agreement shall, when manually executed by the Paying Agent, be conclusive evidence binding on A.I.D. that the Note has been duly executed on behalf of the Borrower and delivered.

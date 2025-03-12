@@ -1,0 +1,9 @@
+##### § 706.23 Advance payments. #####
+
+(a) For requests other than those described in paragraphs (i)(2) and (i)(3) of § 706.22, OPIC will not require the requester to make an advance payment before work is commenced or continued on a request. Payment owed for work already completed (i.e., payment before copies are sent to a requester) is not an advance payment.
+
+(b) When OPIC determines or estimates that a total fee to be charged under this section will exceed $250.00, it may require that the requester make an advance payment up to the amount of the entire anticipated fee before beginning to process the request. OPIC may elect to process the request prior to collecting fees when it receives a satisfactory assurance of full payment from a requester with a history of prompt payment.
+
+(c) Where a requester has previously failed to pay a properly charged FOIA fee to any agency within thirty calendar days of the billing date, OPIC may require that the requester pay the full amount due, plus any applicable interest on that prior request. OPIC may also require that the requester make an advance payment of the full amount of any anticipated fee before OPIC begins to process a new request or continues to process a pending request or any pending appeal. Where OPIC has a reasonable basis to believe that a requester has misrepresented his or her identity in order to avoid paying outstanding fees, it may require that the requester provide proof of identity.
+
+(d) In cases in which OPIC requires advance payment, OPIC's response time will be tolled and further work will not be completed until the required payment is received. If the requester does not pay the advance payment within thirty calendar days after the date of OPIC's fee letter, OPIC may administratively close the request.

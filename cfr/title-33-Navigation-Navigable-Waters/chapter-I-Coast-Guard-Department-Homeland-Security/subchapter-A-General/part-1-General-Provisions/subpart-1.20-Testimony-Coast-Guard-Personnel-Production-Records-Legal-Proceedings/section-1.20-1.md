@@ -1,0 +1,11 @@
+##### § 1.20-1 Testimony by Coast Guard personnel and production of records. #####
+
+(a) The regulations in 49 CFR part 9 apply to the testimony of Coast Guard personnel, production of Coast Guard records, and service of process in legal proceedings.
+
+(b) Except for the acceptance of service of process or pleadings under paragraph (d) of this section and 49 CFR 9.19, the Legal Officer of each Maintenance and Logistics Command, each District Legal Officer, and the Legal Officer assigned to any other Coast Guard unit or command, for matters involving personnel assigned to their command, are delegated the functions of “agency counsel” described in 49 CFR part 9.
+
+(c) A request for a member or employee of the Coast Guard to testify, or for permission to interview such a member or employee, should be made to the Legal officer serving the command to which that member or employee is assigned, or, if the member or employee is serving at Coast Guard Headquarters, or with a command receiving legal services from the Judge Advocate General and Chief Counsel, U.S. Coast Guard (CG-094), to the Chief, Office of Claims and Litigation (CG-0945). Should the member or employee no longer be employed by the Coast Guard, and the testimony or information sought falls within the provisions of 49 CFR part 9, the request should be made to the District Legal Officer serving the geographic area where the former member or employee resides or, if no District Legal Officer has geographic responsibility, to the Chief, Office of Claims and Litigation.
+
+(d) Process or pleadings in any legal proceeding concerning the Coast Guard may be served, at the option of the server, on the Judge Advocate General and Chief Counsel or the Deputy Judge Advocate General and Deputy Chief Counsel of the Coast Guard (CG-094) with the same effect as if served on the Commandant of the Coast Guard. The official accepting the service under this section acknowledges the service and takes further action as appropriate.
+
+(80 Stat. 383, as amended, sec. 1, 33 Stat. 1022, as amended, sec. 9, 80 Stat. 944; 5 U.S.C. 552, 14 U.S.C. 632, 633, 46 U.S.C. 375, 416, 49 U.S.C. 1657 (a) and (e); 49 CFR 1.46, and part 9)[CGFR 71-30, 36 FR 8732, May 12, 1971, as amended by CGD 95-057, 60 FR 34150, June 30, 1995; USCG-1998-3799, 63 FR 35525, June 30, 1998]

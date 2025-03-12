@@ -1,0 +1,3 @@
+##### § 31.66 Retail dealer selling entire stock in liquidation. #####
+
+No retail dealer in liquors or retail dealer in beer shall be deemed to be a wholesale dealer in liquors or a wholesale dealer in beer by virtue of selling in liquidation that dealer's entire stock of liquors in one parcel, or in parcels, each of which embraces not less than the entire stock of distilled spirits, of wines, or of beer, which parcels may contain a combination of any or all such liquors, to any other dealer. A retail dealer making such sale or sales is not required to register or to keep records or submit reports of those sales.

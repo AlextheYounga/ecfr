@@ -1,0 +1,3 @@
+##### § 51.5 Objective of review. #####
+
+The objective of the discharge review is to examine the propriety and equity of the applicant's discharge and to effect changes if necessary. The DRB will utilize its discretion to reach a fair and just resolution of the applicant's claim. The standards of review and the underlying factors which aid in determining whether the standards are met shall be historically consistent with criteria for determining honorable service. No factors shall be established which require automatic change, or denial of change, in a discharge.

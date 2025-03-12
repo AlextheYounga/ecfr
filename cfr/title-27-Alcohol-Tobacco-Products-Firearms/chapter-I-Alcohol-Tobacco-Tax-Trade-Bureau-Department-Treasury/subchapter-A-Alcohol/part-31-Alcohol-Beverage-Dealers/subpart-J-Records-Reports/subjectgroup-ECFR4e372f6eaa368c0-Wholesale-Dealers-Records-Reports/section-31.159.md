@@ -1,0 +1,7 @@
+##### § 31.159 Variations in format or preparation of records. #####
+
+(a) *Authorization.* The appropriate TTB officer may approve variations in the type and format of records of receipt and disposition required under §§ 31.155 and 31.156, or in the methods of preparing those records, when it is shown that variations from the requirements are necessary in order to use data processing equipment, other business machines, or existing accounting systems, and provided that the variation will not unduly hinder the effective administration of this part, jeopardize the revenue, or be contrary to any provision of law. A dealer who wishes to employ such a variation must submit a written application to the appropriate TTB officer. The application must describe the proposed variation and set forth the need for it. Variations in type and format of records or methods of preparation must not be employed until approval is received from the appropriate TTB officer.
+
+(b) *Requirements.* Any information required by this part to be kept or filed is subject to the provisions of law and this part relating to required records and reports, regardless of the form or manner in which kept or filed.
+
+(Approved by the Office of Management and Budget under control number 1513-0067)

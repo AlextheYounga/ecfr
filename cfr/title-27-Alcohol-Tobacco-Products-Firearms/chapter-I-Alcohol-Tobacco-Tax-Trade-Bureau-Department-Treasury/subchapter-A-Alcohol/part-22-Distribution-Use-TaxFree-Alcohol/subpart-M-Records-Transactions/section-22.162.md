@@ -1,0 +1,5 @@
+##### § 22.162 Inventories. #####
+
+Each permittee shall take a physical inventory of the tax-free and recovered alcohol in its possession semi-annually for the periods ending June 30 and December 31 of each year; or other inventory periods which are approximately 6 months apart, upon filing written notice with the appropriate TTB officer establishing other inventory periods. These inventories may be recorded separately or as an entry in the record of usage with any necessary adjustments (losses or gains). If an inventory results in a loss in excess of the quantities prescribed by subpart I of this part, the permittee shall file a claim for allowance of loss.
+
+(Notice approved by the Office of Management and Budget under control number 1512-0335; recordkeeping approved by the Office of Management and Budget under control number 1512-0334)

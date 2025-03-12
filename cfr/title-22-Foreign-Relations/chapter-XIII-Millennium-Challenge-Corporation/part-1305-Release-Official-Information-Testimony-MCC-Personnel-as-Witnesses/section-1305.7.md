@@ -1,0 +1,3 @@
+##### § 1305.7 Final determination. #####
+
+The General Counsel makes the final determination on demands to employees for production of official documents and information or testimony. All final determinations are within the sole discretion of the General Counsel. The General Counsel will notify the requester and the Court or other authority of the final determination, the reasons for the grant or denial of the demand, and any conditions that the General Counsel may impose on the release of documents, or on the testimony of an employee. When in doubt about the propriety of granting or denying a demand for testimony or documents, the General Counsel should consult with the Department of Justice.

@@ -1,0 +1,3 @@
+##### § 1.62 Use of distilled spirits or wine for experimental purposes and in manufacture of nonbeverage products. #####
+
+The use of distilled spirits or wine for experimental purposes and in the manufacture of (a) medicinal, pharmaceutical, or antiseptic products, including prescriptions compounded by retail druggists; (b) toilet preparations; (c) flavoring extracts, syrups, or food products; or (d) scientific, chemical, mechanical, or industrial products, provided such products are unfit for beverage use, is regarded as “industrial,” and will be excluded from any application of the term “nonindustrial use.”

@@ -1,0 +1,7 @@
+##### § 162.1 Purpose and scope. #####
+
+(a) *Purpose.* The purpose of this part is to implement various provisions in the Fair Credit Reporting Act, 15 U.S.C. 1681, *et seq.* (“FCRA”), which provide certain protections to consumer information.
+
+(b) *Scope.* This part applies to certain consumer information held by the entities listed below. This part shall apply to futures commission merchants, retail foreign exchange dealers, commodity trading advisors, commodity pool operators, introducing brokers, major swap participants and swap dealers, regardless of whether they are required to register with the Commission. This part does not apply to foreign futures commission merchants, foreign retail foreign exchange dealers, commodity trading advisors, commodity pool operators, introducing brokers, major swap participants and swap dealers unless such entity registers with the Commission. Nothing in this part modifies limits or supersedes the requirements set forth in part 160 of this title.
+
+(c) *Examples.* The examples in this part are not exclusive. Compliance with an example, to the extent applicable, constitutes compliance with this part. Examples in a section illustrate only the issue described in the section and do not illustrate any other issue that may arise in this part.

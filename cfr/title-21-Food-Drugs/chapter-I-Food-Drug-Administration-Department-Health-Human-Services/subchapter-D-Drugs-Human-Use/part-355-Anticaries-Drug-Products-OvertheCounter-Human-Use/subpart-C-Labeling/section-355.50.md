@@ -1,0 +1,43 @@
+##### § 355.50 Labeling of anticaries drug products. #####
+
+(a) *Statement of identity.* The labeling of the product contains the established name of the drug, if any, and identifies the product as: (select one or both of the following: ‘anticavity’ or ‘fluoride’) (select one of the following as appropriate: “dentifrice,” “toothpaste,” “tooth polish,” “tooth powder;” (optional: “dental”) “preventive treatment gel;” or (optional: “treatment” or “dental”)) (select one of the following: “rinse,” “concentrated solution,” “rinse powder,” or “rinse effervescent tablets”). The word “mouthwash” may be substituted for the word “rinse” in this statement of identity if the product also has a cosmetic use, as defined in section 201(i) of the Federal Food, Drug, and Cosmetic Act (the act) (21 U.S.C. 321(i)).
+
+(b) *Indication.* The labeling of the product states, under the heading “Indication,” the following: “Aids in the prevention of dental (select one of the following: “cavities,” “decay,” “caries (decay),” or “caries (cavities)”). Other truthful and nonmisleading statements, describing only the indication for use that has been established and listed in this paragraph (b), may also be used, as provided in § 330.1(c)(2) of this chapter, subject to the provisions of section 502 of the Federal Food, Drug, and Cosmetic Act (the act) relating to misbranding and the prohibition in section 301(d) of the act against the introduction or delivery for introduction into interstate commerce of unapproved new drugs in violation of section 505(a) of the act.
+
+(c) *Warning.* The labeling of the product contains the following warning under the heading “Warning”:
+
+(1) *For all fluoride dentifrice (gel, paste, and powder) products.* “Keep out of reach of children under 6 years of age. [highlighted in bold type] If more than used for brushing is accidentally swallowed, get medical help or contact a Poison Control Center right away.” These warnings shall be used in place of the general warning statements required by § 330.1(g) of this chapter.
+
+(2) *For all fluoride rinse and preventive treatment gel products.* “Keep out of reach of children. [highlighted in bold type] If more than used for” (select appropriate word: “brushing” or “rinsing”) “is accidentally swallowed, get medical help or contact a Poison Control Center right away.” These warnings shall be used in place of the general warning statements required by § 330.1(g) of this chapter.
+
+(d) *Directions.* The labeling of the product contains the following statements under the heading “Directions”:
+
+(1) *For anticaries dentifrice products*—(i) *Gel or paste dosage form with a theoretical total fluorine concentration of 850 to 1,150 ppm identified in § 355.10(a)(1), (b)(1), and (c)(1).* Adults and children 2 years of age and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Instruct children under 6 years of age in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 2 years of age: Consult a dentist or doctor.
+
+(ii) *Gel or paste dosage form with a theoretical total fluorine concentration of 1,500 ppm identified in § 355.10(b)(2).* Adults and children 6 years of age and older: Brush teeth thoroughly, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Instruct children under 12 years of age in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: Do not use unless directed by a dentist or doctor.
+
+(iii) *Powdered dosage form with a theoretical total fluorine concentration of 850 to 1,150 ppm identified in § 355.10(a)(2).* Adults and children 6 years of age and older: Apply powder to a wet toothbrush; completely cover all bristles. Brush for at least 30 seconds. Reapply powder as before and brush again. Rinse and spit out thoroughly. Brush teeth, preferably after each meal or at least twice a day, or as directed by a dentist or doctor. Instruct children under 12 years of age in good brushing and rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: Do not use unless directed by a dentist or doctor.
+
+(2) *For anticaries treatment rinse products*—(i) *For acidulated phosphate fluoride solution containing 0.02 percent fluoride ion, sodium fluoride 0.05 percent, sodium fluoride concentrate, and stannous fluoride concentrate identified in § 355.10(a)(3)(i), (a)(3)(iv), (a)(3)(v), and (c)(3).* Adults and children 6 years of age and older: Use once a day after brushing your teeth with a toothpaste. Vigorously swish 10 milliliters of rinse between your teeth for 1 minute and then spit out. Do not swallow the rinse. Do not eat or drink for 30 minutes after rinsing. Instruct children under 12 years of age in good rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: Consult a dentist or doctor.
+
+(ii) *For acidulated phosphate fluoride solution containing 0.01 percent fluoride ion and sodium fluoride 0.02 percent aqueous solution identified in § 355.10(a)(3)(ii) and (a)(3)(iii).* Adults and children 6 years of age and older: Use twice a day after brushing your teeth with a toothpaste. Vigorously swish 10 milliliters of rinse between your teeth for 1 minute and then spit out. Do not swallow the rinse. Do not eat or drink for 30 minutes after rinsing. Instruct children under 12 years of age in good rinsing habits (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: consult a dentist or doctor.
+
+(3) *For stannous fluoride treatment rinse products.* (i) “Use immediately after preparing the rinse.”
+
+(ii) *For powder or effervescent tablets used to prepare treatment rinses.* “Do not use as a rinse until all the” (select one of the following: “powder” or “tablet”) “has dissolved.”
+
+(4) *For anticaries preventive treatment gel products.* Adults and children 6 years of age and older: Use once a day after brushing your teeth with a toothpaste. Apply the gel to your teeth and brush thoroughly. Allow the gel to remain on your teeth for 1 minute and then spit out. Do not swallow the gel. Do not eat or drink for 30 minutes after brushing. Instruct children under 12 years of age in the use of this product (to minimize swallowing). Supervise children as necessary until capable of using without supervision. Children under 6 years of age: consult a dentist or doctor.
+
+(5) *For all concentrated treatment rinse solutions, powders, and effervescent tablets.* The following statement shall appear as the first statement under directions: “Do not use before mixing with water.”
+
+(e) *Additional labeling statements for anticaries drug products.* The following statements need not appear under warnings, but are required to appear on the label of anticaries drugs products as applicable.
+
+(1) *For all preventive treatment gels.* “This is a(n)” (select one or both of the following: “anticavity” or “fluoride”) “preventive treatment gel, not a toothpaste. Read directions carefully before using.”
+
+(2) *For all stannous fluoride treatment rinse, preventive treatment gel, and dentifrice products.* “This product may produce surface staining of the teeth. Adequate toothbrushing may prevent these stains which are not harmful or permanent and may be removed by your dentist.”
+
+(f) *Optional additional labeling statements*—(1) *For fluoride treatment rinses and preventive treatment gels.* The following labeling statement may appear in the required boxed area designated “APPROVED USES”: “The combined daily use of a fluoride preventive treatment” (select one of the following: “rinse” or “gel”) “and a fluoride toothpaste can help reduce the incidence of dental cavities.”
+
+(2) *For dentifrice products containing 1,500 ppm theoretical total fluorine.* “Adults and children over 6 years of age may wish to use this extra-strength fluoride dentifrice if they reside in a nonfluoridated area or if they have a greater tendency to develop cavities.”
+
+[60 FR 52507, Oct. 6, 1995; 60 FR 57927, Nov. 24, 1995; 61 FR 51187, Oct. 7, 1996; 64 FR 13296, Mar. 17, 1999]

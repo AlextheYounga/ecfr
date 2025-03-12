@@ -1,0 +1,5 @@
+##### § 19.19 Discontinuance of storage facilities. #####
+
+If TTB determines that a proprietor's bonded storage facility for spirits is unsafe or unfit for use, or causes excessive waste or loss of spirits, TTB can require that the proprietor discontinue using the facility. Further, TTB can require the transfer of the spirits stored in the facility to another storage facility. The transfer will take place at such time and under such supervision as TTB may require, and will be at the expense of the owner or warehouseman of the spirits. If the owner or warehouseman fails to transfer the spirits within the prescribed time or to pay the expense of the transfer, as ascertained and determined by the appropriate TTB officer, the spirits may be seized and sold. TTB will first apply the proceeds of such sale to the payment of the taxes due on the spirits and then to the cost and expense of the sale and removal, and the remaining balance, if any, will be paid over to the owner or warehouseman.
+
+(26 U.S.C. 5236)

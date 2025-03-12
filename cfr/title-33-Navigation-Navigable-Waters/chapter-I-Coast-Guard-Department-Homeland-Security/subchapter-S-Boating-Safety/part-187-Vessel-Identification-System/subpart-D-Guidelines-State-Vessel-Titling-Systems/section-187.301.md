@@ -1,0 +1,3 @@
+##### § 187.301 What are the eligibility requirements for certification of a State titling system to confer preferred mortgage status? #####
+
+The Commandant, under 46 U.S.C. 31322(d)(1)(A) and § 187.13, may certify a State vessel titling system that meets the requirements of this subpart as complying with the guidelines for vessel titling systems. This certification is for the purpose of conferring preferred mortgage status on a mortgage, instrument, or agreement granting a security interest perfected under State law, covering the whole of a vessel titled in that State. The State must also comply with the VIS participation requirements of § 187.11 and subpart C of this part and make vessel information it collects available to VIS.

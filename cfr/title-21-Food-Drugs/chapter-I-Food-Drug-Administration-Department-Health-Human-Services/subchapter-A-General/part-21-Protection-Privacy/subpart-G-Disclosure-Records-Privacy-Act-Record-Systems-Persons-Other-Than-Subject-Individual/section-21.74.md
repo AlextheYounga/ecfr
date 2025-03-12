@@ -1,0 +1,3 @@
+##### § 21.74 Providing notice that a record is disputed. #####
+
+Whenever an individual has filed a statement of disagreement with the Food and Drug Administration concerning a refusal to amend a record under § 21.51(a)(2) or with another agency that provides the record to the Food and Drug Administration, the Food and Drug Administration shall in any subsequent disclosure under this subpart provide a copy of the statement of disagreement and a concise statement by the agency, if one has been prepared, of the reasons for not making the amendment(s) requested.

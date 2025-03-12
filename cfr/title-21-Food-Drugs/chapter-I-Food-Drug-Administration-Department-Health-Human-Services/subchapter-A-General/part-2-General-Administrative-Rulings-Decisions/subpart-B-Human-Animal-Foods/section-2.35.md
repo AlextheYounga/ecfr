@@ -1,0 +1,11 @@
+##### § 2.35 Use of secondhand containers for the shipment or storage of food and animal feed. #####
+
+(a) Investigations by the Food and Drug Administration, the National Communicable Disease Center of the U.S. Public Health Service, the Consumer and Marketing Service of the U.S. Department of Agriculture, and by various State public health agencies have revealed practices whereby food and animal feed stored or shipped in secondhand containers have been rendered dangerous to health. Such contamination has been the result of the original use of these containers for the storage and shipment of articles containing or bearing disease organisms or poisonous or deleterious substances.
+
+(b) The Commissioner concludes that such dangerous or potentially dangerous practices include, but are not limited to, the following:
+
+(1) Some vegetable growers and packers employ used poultry crates for shipment of fresh vegetables, including cabbage and celery. Salmonella organisms are commonly present on dressed poultry and in excreta and fluid exudates from dressed birds. Thus wooden crates in which dressed poultry has been iced and packed are potential sources of Salmonella or other enteropathogenic microorganisms that may contaminate fresh vegetables which are frequently consumed without heat treatment.
+
+(2) Some potato growers and producers of animal feeds use secondhand bags for shipment of these articles. Such bags may have originally been used for shipping or storing pesticide-treated seed or other articles bearing or containing poisonous substances. Thus these secondhand bags are potential sources of contamination of the food or animal feed stored or shipped therein.
+
+(c) In a policy statement issued April 11, 1968, the Food and Drug Administration declared adulterated within the meaning of section 402(a) of the Federal Food, Drug, and Cosmetic Act shipments of vegetables or other edible food in used crates or containers that may render the contents injurious to health. This policy statement is extended so that the Food and Drug Administration will regard as adulterated within the meaning of section 402(a) of the act shipments of vegetables, other edible food, or animal feed in used crates, bags, or other containers that may render the contents injurious to health.

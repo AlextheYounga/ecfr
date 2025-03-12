@@ -1,0 +1,3 @@
+##### § 707.13 Preservation of records. #####
+
+OPIC preserves all correspondence pertaining to the requests that it receives under this part, as well as copies of all requested records, until disposition or destruction is authorized pursuant to title 44 of the United States Code or the General Records Schedule 14 of the National Archives and Records Administration. Records that are identified as responsive to a request will not be disposed of or destroyed while they are the subject of a pending request, appeal, or lawsuit under the Privacy Act.

@@ -1,0 +1,3 @@
+##### § 110.47 Little Narragansett Bay, Watch Hill, R.I. #####
+
+All of the navigable waters of Watch Hill Cove southeasterly of a line beginning at the shore end of the United States project groin on the southerly shore of the cove and running 41°30′ true, to the northerly shore of the cove at a point about 200 feet west of the west side of the shore end of Meadow Lane, with the exception of a 100-foot wide channel running from the westerly end of the cove in a southeasterly direction to the Watch Hill Yacht Club pier, thence along in front of the piers on the easterly side of the cove northerly to the shore at the north end of the cove.

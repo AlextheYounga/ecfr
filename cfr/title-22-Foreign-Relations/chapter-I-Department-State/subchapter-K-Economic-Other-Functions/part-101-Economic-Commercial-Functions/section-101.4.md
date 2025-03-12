@@ -1,0 +1,3 @@
+##### § 101.4 Economic and commercial reporting. #####
+
+Officers of the Foreign Service shall prepare and submit reports in connection with their duties of protecting and promoting American agricultural commercial interests and for the purpose of providing general information on economic developments within their respective districts for the Departments of State, Agriculture, and Commerce, and for other governmental departments and agencies, in accordance with such rules and regulations as the Secretary of State may prescribe.

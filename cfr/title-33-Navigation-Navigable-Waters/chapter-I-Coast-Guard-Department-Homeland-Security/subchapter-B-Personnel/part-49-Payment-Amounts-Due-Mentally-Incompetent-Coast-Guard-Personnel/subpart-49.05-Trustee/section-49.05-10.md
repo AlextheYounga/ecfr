@@ -1,0 +1,3 @@
+##### § 49.05-10 Affidavits required. #####
+
+The trustee or trustees appointed to receive moneys due incompetent personnel shall, prior to the payment of any such moneys, execute and file with the Commandant an affidavit or affidavits saying and deposing that any moneys henceforth received by virtue of such appointment shall be applied solely to the use and benefit of the incompetent and that no fee, commission, or charge shall be demanded, or in any manner accepted, for any service or services rendered in connection with such appointment as trustee or trustees.

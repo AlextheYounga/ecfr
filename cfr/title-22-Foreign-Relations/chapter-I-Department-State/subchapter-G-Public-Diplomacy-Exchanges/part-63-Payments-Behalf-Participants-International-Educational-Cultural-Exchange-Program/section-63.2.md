@@ -1,0 +1,7 @@
+##### § 63.2 Applicability of this part under special circumstances. #####
+
+(a) *Funds administered by another department or agency.* The regulations in this part shall apply to payments made to or on behalf of participants from funds appropriated or allocated to the Agency and transferred by the Agency to some other department, agency or independent establishment of the Government unless the terms of the transfer provide that such regulations shall not apply in whole or in part or with such modification as may be prescribed in each case to meet the exigencies of the particular situation.
+
+(b) *Funds administered by private organizations.* The regulations in this part shall apply to payments made to or on behalf of participants from funds appropriated or allocated to the Agency and administered by an institution, facility, or organization in accordance with the terms or a contract or grant made by the Agency with or to such private organizations, unless the terms of such contract or grant provide that the regulations in this part are not to be considered applicable or that they are to be applied with such modifications as may be prescribed in each case to meet the exigencies of the particular situation.
+
+(c) *Appropriations or allocations.* The regulations in this part shall apply to payments made by the Agency with respect to appropriations or allocations which are or may hereafter be made available to the Agency for the program so far as the regulations in this part are not inconsistent therewith.

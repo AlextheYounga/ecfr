@@ -1,0 +1,5 @@
+##### § 240.15c1-6 Disclosure of interest in distribution. #####
+
+The term *manipulative, deceptive, or other fraudulent device or contrivance,* as used in section 15(c)(1) of the Act, is hereby defined to include any act of any broker who is acting for a customer or for both such customer and some other person, or of any dealer or municipal securities dealer who receives or has promise of receiving a fee from a customer for advising such customer with respect to securities, designed to effect with or for the account of such customer any transaction in, or to induce the purchase or sale by such customer of, any security in the primary or secondary distribution of which such broker, dealer or municipal securities dealer is participating or is otherwise financially interested unless such broker, dealer or municipal securities dealer, at or before the completion of each such transaction gives or sends to such customer written notification of the existence of such participation or interest.
+
+[41 FR 22826, June 7, 1976]

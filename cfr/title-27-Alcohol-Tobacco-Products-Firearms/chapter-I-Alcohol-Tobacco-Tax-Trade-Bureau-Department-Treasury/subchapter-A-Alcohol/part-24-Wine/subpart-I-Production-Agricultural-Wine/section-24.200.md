@@ -1,0 +1,5 @@
+##### § 24.200 General. #####
+
+Agricultural wine may be produced on bonded wine premises from suitable agricultural products other than the juice of fruit. Water or sugar, or both, may be used within the limitations of this subpart in the production of agricultural wine. Agricultural wine may not be flavored or colored; however, hops may be used in the production of honey wine. Spirits may not be used in the production of the wine and a wine made from one agricultural product may not be blended with a wine made from another agricultural product. Agricultural wine made with sugar in excess of the limitations of this subpart is other than standard wine and will be segregated and clearly identified. Since grain, cereal, malt, or molasses are not suitable materials for the production of agricultural wine, these materials may not be received on bonded wine premises. Beverage alcohol products made with these materials are not classed as wine and may not be produced or stored on bonded wine premises.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1386, as amended (26 U.S.C. 5387))

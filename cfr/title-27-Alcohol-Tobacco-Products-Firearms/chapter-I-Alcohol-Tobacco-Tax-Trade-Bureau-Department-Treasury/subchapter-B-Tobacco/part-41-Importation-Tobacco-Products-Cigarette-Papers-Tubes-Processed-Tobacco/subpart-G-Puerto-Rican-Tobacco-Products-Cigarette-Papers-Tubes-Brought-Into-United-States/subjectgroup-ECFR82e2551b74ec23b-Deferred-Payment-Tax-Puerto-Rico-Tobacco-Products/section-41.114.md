@@ -1,0 +1,19 @@
+##### § 41.114 Time for filing. #####
+
+(a) *General rule.* Semimonthly tax returns under this subpart shall be filed by the bonded manufacturer, for each return period, not later than the 14th day after the last day of the return period, except as provided by paragraph (b) of this section. The tax shall be paid in full by remittance at the time the return is filed as prescribed in § 41.115 or § 41.115a.
+
+(b) *Special rule for taxes due for the month of September.* (1) *Division of second semimonthly period.* (i) *General.* Except as otherwise provided in paragraph (b)(1)(ii) of this section, the second semimonthly period for the month of September is divided into two payment periods, from the 16th day through the 26th day, and from the 27th day through the 30th day. The bonded manufacturer shall file a return on TTB F 5000.25, and make remittance, for the period September 16-26, no later than September 29. The bonded manufacturer shall file a return on TTB F 5000.25, and make remittance, for the period September 27-30, no later than October 14.
+
+(ii) *Taxpayment not by electronic fund transfer.* In the case of taxes for which remittance by electronic fund transfer (EFT) is not required by § 41.115a, the second semimonthly period of September is divided into two payment periods, from the 16th day through the 25th day, and from the 26th day through the 30th day. The bonded manufacturer shall file a return on TTB F 5000.25, and make remittance, for the period September 16-25, no later than September 28. The bonded manufacturer shall file a return on TTB F 5000.25, and make remittance, for the period September 26-30, no later than October 14.
+
+(2) *Amount of payment—Safe harbor rule.* (i) *General.* Taxpayers are considered to have met the requirements of paragraph (b)(1)(i) of this section if the amount paid no later than September 29 is not less than 11/15ths (73.3 percent) of the tax liability incurred for the semimonthly period beginning on September 1 and ending on September 15, and if any underpayment of tax is paid by October 14.
+
+(ii) *Taxpayment not by EFT.* Taxpayers are considered to have met the requirements of paragraph (b)(1)(ii) of this section if the amount paid no later than September 28 is not less than 2/3rds (66.7 percent) of the tax liability incurred for the semimonthly period beginning on September 1 and ending on September 15, and if any underpayment of tax is paid by October 14.
+
+(3) *Weekend or holiday due date.* If the required taxpayment due date for the period September 16-25 or September 16-26, as applicable, falls on a Saturday or legal holiday, the return and remittance are due on the immediately preceding day. If the required due date falls on a Sunday, the return and remittance are due on the immediately following day.
+
+(c) *Postmark.* If the return, and remittance as the case may be, are delivered by U.S. Mail to the appropriate TTB officer, the date of the official postmark of the U.S. Postal Service stamped on the cover in which the return, and remittance as the case may be, were mailed shall be treated as the date of delivery.
+
+(d) *Weekends and holidays.* Except as otherwise provided in paragraph (b)(3) of this section, if the due date falls on a Saturday, Sunday, or legal holiday, the return and remittance are due on the immediately preceding day that is not a Saturday, Sunday, or legal holiday.
+
+(Approved by the Office of Management and Budget under control number 1512-0467)[T.D. ATF-246, 52 FR 669, Jan. 8, 1987, as amended by T.D. ATF-251, 52 FR 19340, May 22, 1987; T.D. ATF-365, 60 FR 33675, June 28, 1995; T.D. ATF-444, 66 FR 13851, Mar. 8, 2001. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004; T.D. TTB-89, 76 FR 3515, Jan. 20, 2011]

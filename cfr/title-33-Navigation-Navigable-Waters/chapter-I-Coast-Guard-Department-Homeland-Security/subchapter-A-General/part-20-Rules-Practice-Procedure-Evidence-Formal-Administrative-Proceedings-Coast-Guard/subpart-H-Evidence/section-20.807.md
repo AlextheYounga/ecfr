@@ -1,0 +1,7 @@
+##### § 20.807 Exhibits and documents. #####
+
+(a) Each exhibit must be numbered and marked for identification by the party offering it. The original of each exhibit so marked, whether or not offered or admitted into evidence, must be filed and retained in the record of the proceeding, unless the ALJ permits the substitution of a copy. The party introducing each exhibit so marked shall supply a copy of the exhibit to the ALJ and to every party to the proceeding.
+
+(b) Unless the ALJ directs otherwise, each party who would offer an exhibit upon direct examination shall make it available to every other party for inspection 15 days or more before the hearing. The ALJ will deem admitted the authenticity of each exhibit submitted before the hearing unless a party either files written objection and serves it on all parties or shows good cause for failure to do both.
+
+(c) In class II civil penalty proceedings under 33 U.S.C. 1321(b)(6), each exhibit introduced by an interested person must be marked, and filed and retained in the record of the proceeding, unless the ALJ permits the substitution of a copy. The interested person shall supply a copy of the exhibit to the ALJ and to every party to the proceeding. The requirements of paragraph (b) of this section apply to any interested person who would offer an exhibit upon direct examination.

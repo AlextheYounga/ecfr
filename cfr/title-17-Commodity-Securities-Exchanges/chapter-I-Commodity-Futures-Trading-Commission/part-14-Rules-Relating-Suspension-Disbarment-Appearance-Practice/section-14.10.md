@@ -1,0 +1,3 @@
+##### § 14.10 Reinstatement. #####
+
+Any person who is disqualified from appearing or practicing before the Commission under any of the provisions of this part may at any time file an application of reinstatement and the applicant may, in the Commission's discretion, be afforded a hearing on the application. However, denial of the privilege of appearing or practicing before the Commission shall continue unless and until the applicant has been reinstated by order of the Commission.

@@ -1,0 +1,5 @@
+##### § 24.131 Change in building construction and use of premises. #####
+
+Where a change is to be made to buildings located on wine premises, or in the use of any portion of the wine premises, which affects the accuracy of the application, the proprietor shall, before making such change in construction or use, submit a notice to the appropriate TTB officer. The notice will describe the proposed change in detail. The proprietor shall include the change covered by the notice in the next amended TTB F 5120.25 required to be filed, unless the appropriate TTB officer requires immediate amendment.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended (26 U.S.C. 5356))(Approved by the Office of Management and Budget under control number 1512-0058)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31077, July 9, 1991; T.D. ATF-409, 64 FR 13685, Mar. 22, 1999]

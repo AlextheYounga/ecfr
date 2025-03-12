@@ -1,0 +1,5 @@
+##### § 24.214 Spanish type blending sherry. #####
+
+Blending wine made with partially caramelized grape concentrate may be produced, stored, and handled on, or transferred in bond between, bonded wine premises, or removed upon payment of tax, not for sale or consumption as beverage wine. Wine of a high solids content and dark in color, produced under this section, is designated “Spanish Type Blending Sherry.” Upon removal, the shipping containers will be marked with the applicable designation and the legend “Not for Sale or Consumption as Beverage Wine.” Spanish type blending sherry is not standard wine and may not be blended with standard wine except pursuant to an approved formula or in the further production of this type of wine.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1380, as amended, 1381, as amended, 1387, as amended (26 U.S.C. 5361, 5388))(Approved by the Office of Management and Budget under control numbers 1512-0059 and 1512-0503)

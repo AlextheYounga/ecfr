@@ -1,0 +1,5 @@
+##### § 105.130 Waivers. #####
+
+Any facility owner or operator may apply for a waiver of any requirement of this part that the facility owner or operator considers unnecessary in light of the nature or operating conditions of the facility, prior to operating. A request for a waiver must be submitted in writing with justification to the Commandant (CG-5P), Attn: Assistant Commandant for Prevention Policy, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501. The Commandant (CG-5P) may require the facility owner or operator to provide data for use in determining the validity of the requested waiver. The Commandant (CG-5P) may grant, in writing, a waiver with or without conditions only if the waiver will not reduce the overall security of the facility, its employees, visiting vessels, or ports.
+
+[USCG-2003-14732, 68 FR 39322, July 1, 2003; 68 FR 41916, July 16, 2003; USCG-2008-0179, 73 FR 35009, June 19, 2008; USCG-2010-0351, 75 FR 36282, June 25, 2010; USCG-2013-0397, 78 FR 39173, July 1, 2013; USCG-2014-0410, 79 FR 38432, July 7, 2014]

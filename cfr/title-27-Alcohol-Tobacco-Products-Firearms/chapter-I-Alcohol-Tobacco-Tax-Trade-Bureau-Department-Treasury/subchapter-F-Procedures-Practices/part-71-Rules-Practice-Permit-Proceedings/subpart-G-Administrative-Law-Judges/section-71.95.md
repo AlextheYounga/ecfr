@@ -1,0 +1,5 @@
+##### § 71.95 Responsibilities of administrative law judges. #####
+
+Administrative law judges shall be under the administrative control of the Administrator. They shall be responsible for the conduct of hearings and shall render their decisions as soon as is reasonably possible after the hearing is closed. Administrative law judges shall also be responsible for the preparation, certification and forwarding of reports of hearings, and the administrative work relating thereto, and, by arrangement with the appropriate TTB officer and representatives of the Chief Counsel, shall have access to facilities and temporary use of personnel at such times and places as are needed in the prompt dispatch of official business.
+
+[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 43 FR 13531, Mar. 31, 1978; 44 FR 55846, Sept. 28, 1979; T.D. ATF-374, 61 FR 29957, June 13, 1996]

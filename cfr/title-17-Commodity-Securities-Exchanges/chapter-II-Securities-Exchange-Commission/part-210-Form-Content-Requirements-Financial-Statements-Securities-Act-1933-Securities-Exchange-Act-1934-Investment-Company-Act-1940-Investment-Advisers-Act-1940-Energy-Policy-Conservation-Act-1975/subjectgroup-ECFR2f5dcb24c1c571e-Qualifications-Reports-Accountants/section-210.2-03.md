@@ -1,0 +1,3 @@
+##### § 210.2-03 Examination of financial statements by foreign government auditors. #####
+
+Notwithstanding any requirements as to examination by independent accountants, the financial statements of any foreign governmental agency may be examined by the regular and customary auditing staff of the respective government if public financial statements of such governmental agency are customarily examined by such auditing staff.

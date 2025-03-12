@@ -1,0 +1,11 @@
+##### § 230.477 Withdrawal of registration statement or amendment. #####
+
+(a) Except as provided in paragraph (b) of this section, any registration statement or any amendment or exhibit thereto may be withdrawn upon application if the Commission, finding such withdrawal consistent with the public interest and the protection of investors, consents thereto.
+
+(b) Any application for withdrawal of a registration statement filed on Form F-2 (§ 239.32 of this chapter) relating to a dividend or interest reinvestment plan, or on Form S-4 (§ 239.25 of this chapter) complying with General Instruction G of that Form, and/or any pre-effective amendment thereto, will be deemed granted upon filing if such filing is made prior to the effective date. Any other application for withdrawal of an entire registration statement made before the effective date of the registration statement will be deemed granted at the time the application is filed with the Commission unless, within 15 calendar days after the registrant files the application, the Commission notifies the registrant that the application for withdrawal will not be granted.
+
+(c) The registrant must sign any application for withdrawal and must state fully in it the grounds on which the registrant makes the application. The fee paid upon the filing of the registration statement will not be refunded to the registrant. The registrant must state in the application that no securities were sold in connection with the offering. If the registrant applies for withdrawal in anticipation of reliance on § 230.155(c), the registrant must, without discussing any terms of the private offering, state in the application that the registrant may undertake a subsequent private offering in reliance on § 230.155(c).
+
+(d) Any withdrawn document will remain in the Commission's public files, as well as the related request for withdrawal.
+
+[47 FR 11445, Mar. 16, 1982, as amended at 47 FR 54770, Dec. 6, 1982; 50 FR 19001, May 6, 1985; 59 FR 21650, Apr. 26, 1994; 66 FR 8897, Feb. 5, 2001]

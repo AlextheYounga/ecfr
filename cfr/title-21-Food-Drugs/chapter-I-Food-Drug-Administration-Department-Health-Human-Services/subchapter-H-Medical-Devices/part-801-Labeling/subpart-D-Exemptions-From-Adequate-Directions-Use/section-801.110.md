@@ -1,0 +1,3 @@
+##### § 801.110 Retail exemption for prescription devices. #####
+
+A device subject to § 801.109 shall be exempt at the time of delivery to the ultimate purchaser or user from section 502(f)(1) of the act if it is delivered by a licensed practitioner in the course of his professional practice or upon a prescription or other order lawfully issued in the course of his professional practice, with labeling bearing the name and address of such licensed practitioner and the directions for use and cautionary statements, if any, contained in such order.

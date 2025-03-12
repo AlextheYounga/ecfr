@@ -1,0 +1,5 @@
+##### § 478.25a Responses to requests for information. #####
+
+Each licensee shall respond immediately to, and in no event later than 24 hours after the receipt of, a request by an ATF officer at the National Tracing Center for information contained in the records required to be kept by this part for determining the disposition of one or more firearms in the course of a bona fide criminal investigation. The requested information shall be provided orally to the ATF officer within the 24-hour period. Verification of the identity and employment of National Tracing Center personnel requesting information may be established at the time the requested information is provided by telephoning the toll-free number 1-800-788-7132 or using the toll-free facsimile (FAX) number 1-800-788-7133.
+
+(Approved by the Office of Management and Budget under control number 1140-0032)[T.D. ATF-363, 60 FR 17451, Apr. 6, 1996, as amended by T.D. ATF-396, 63 FR 12646, Mar. 16, 1998; T.D. ATF-11F, 73 FR 57240, Oct. 2, 2008]

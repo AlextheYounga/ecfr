@@ -1,0 +1,7 @@
+##### § 866.3305 Herpes simplex virus serological assays. #####
+
+(a) *Identification.* Herpes simplex virus serological assays are devices that consist of antigens and antisera used in various serological tests to identify antibodies to herpes simplex virus in serum. Additionally, some of the assays consist of herpes simplex virus antisera conjugated with a fluorescent dye (immunofluorescent assays) used to identify herpes simplex virus directly from clinical specimens or tissue culture isolates derived from clinical specimens. The identification aids in the diagnosis of diseases caused by herpes simplex viruses and provides epidemiological information on these diseases. Herpes simplex viral infections range from common and mild lesions of the skin and mucous membranes to a severe form of encephalitis (inflammation of the brain). Neonatal herpes virus infections range from a mild infection to a severe generalized disease with a fatal outcome.
+
+(b) *Classification.* Class II (special controls). The device is classified as class II (special controls). The special control for the device is FDA's revised guidance document entitled “Class II Special Controls Guidance Document: Herpes Simplex Virus Types 1 and 2 Serological Assays.” For availability of the guidance revised document, see § 866.1(e).
+
+[72 FR 15830, Apr. 3, 2007, as amended at 74 FR 42775, Aug. 25, 2009; 76 FR 48717, Aug. 9, 2011]

@@ -1,0 +1,3 @@
+##### § 12.91 Time and place of prehearing conference. #####
+
+A prehearing conference will commence at the date, time, and place announced in the notice of hearing, or in a later notice, or as specified by the presiding officer in a notice modifying a prior notice. At that conference the presiding officer will establish the methods and procedures to be used in developing the evidence, determine reasonable time periods for the conduct of the hearing, and designate the times and places for the production of witnesses for direct and cross-examination if leave to conduct oral examination is granted on any issue, as far as practicable at that time.

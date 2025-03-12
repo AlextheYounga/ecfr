@@ -1,0 +1,3 @@
+##### § 22.176 Disposition of excess spirits. #####
+
+At the time of discontinuance of use of tax-free spirits, a Government agency may dispose of any excess tax-free spirits (a) by transferring the spirits to another Government agency holding a permit, (b) by returning the spirits to a vendor, or (c) in any manner authorized by the appropriate TTB officer. Tax-free spirits may not be disposed of to the general public.

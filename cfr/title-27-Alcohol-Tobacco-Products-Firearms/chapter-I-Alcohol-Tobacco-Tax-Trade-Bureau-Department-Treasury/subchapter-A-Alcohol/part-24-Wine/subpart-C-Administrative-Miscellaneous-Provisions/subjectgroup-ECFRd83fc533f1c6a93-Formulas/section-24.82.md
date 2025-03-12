@@ -1,0 +1,5 @@
+##### § 24.82 Samples. #####
+
+Except for vinegar and salted wine as defined in § 24.215, the proprietor shall submit under separate cover at the time of filing any nonbeverage wine formula a 750 mL sample of the base wine used and a 750 mL sample of the finished wine or wine product. The latter sample will be considered representative of the finished product. Any material change in the flavor or other characteristics of the finished product from that of the approved sample will require the filing of a new formula even though the ingredients may be the same. In addition, the appropriate TTB officer may, at any time, require the proprietor to submit samples of any wine or wine product made in accordance with an approved formula or of any materials used in production.
+
+(Sec. 201, Pub. L 85-859, 72 Stat. 1380, as amended (26 U.S.C. 5362))(Approved by the Office of Management and Budget under control number 1512-0059)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31077, July 9, 1991; T.D. ATF-409, 64 FR 13684, Mar. 22, 1999]

@@ -1,0 +1,3 @@
+##### § 151.1 Purpose. #####
+
+This part establishes regulations required under section 6 of the Diplomatic Relations Act (Pub. L. 95-393; 22 U.S.C. 254e). These regulations require all missions, members of missions and their families, and those officials of the United Nations who are entitled to diplomatic immunity to have and maintain liability insurance against the risks of bodily injury, including death, and property damage, including loss of use, arising from the ownership, maintenance, or use in the United States of any motor vehicle, vessel, or aircraft.

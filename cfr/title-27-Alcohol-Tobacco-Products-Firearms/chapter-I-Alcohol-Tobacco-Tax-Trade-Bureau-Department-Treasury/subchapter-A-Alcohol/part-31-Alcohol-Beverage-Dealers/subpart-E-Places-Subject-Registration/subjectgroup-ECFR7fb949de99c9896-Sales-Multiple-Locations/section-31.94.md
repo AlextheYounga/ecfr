@@ -1,0 +1,3 @@
+##### § 31.94 Retail dealers “At Large.” #####
+
+A retail dealer in liquors or a retail dealer in beer whose business requires the dealer to travel from place to place, such as a dealer who sells at carnivals or circuses, must register “At Large” covering the dealer's activities throughout the United States by filing only one registration. A dealer submitting such a registration must state on the registration form, or on an attachment thereto, the nature of the dealer's business and the reason the dealer requires registration “At Large.”

@@ -1,0 +1,35 @@
+##### § 320.1 Purpose and scope. #####
+
+(a) *Regulatory approach of the Corps of Engineers.* (1) The U.S. Army Corps of Engineers has been involved in regulating certain activities in the nation's waters since 1890. Until 1968, the primary thrust of the Corps' regulatory program was the protection of navigation. As a result of several new laws and judicial decisions, the program has evolved to one involving the consideration of the full public interest by balancing the favorable impacts against the detrimental impacts. This is known as the “public interest review.” The program is one which reflects the national concerns for both the protection and utilization of important resources.
+
+(2) The Corps is a highly decentralized organization. Most of the authority for administering the regulatory program has been delegated to the thirty-six district engineers and eleven division engineers. A district engineer's decision on an approved jurisdictional determination, a permit denial, or a declined individual permit is subject to an administrative appeal by the affected party in accordance with the procedures and authorities contained in 33 CFR part 331. Such administrative appeal must meet the criteria in 33 CFR 331.5; otherwise, no administrative appeal of that decision is allowed. The terms “approved jurisdictional determination,” “permit denial,” and “declined permit” are defined at 33 CFR 331.2. There shall be no administrative appeal of any issued individual permit that an applicant has accepted, unless the authorized work has not started in waters of the United States, and that issued permit is subsequently modified by the district engineer pursuant to 33 CFR 325.7 (see 33 CFR 331.5(b)(1)). An affected party must exhaust any administrative appeal available pursuant to 33 CFR part 331 and receive a final Corps decision on the appealed action prior to filing a lawsuit in the Federal courts (see 33 CFR 331.12).
+
+(3) The Corps seeks to avoid unnecessary regulatory controls. The general permit program described in 33 CFR parts 325 and 330 is the primary method of eliminating unnecessary federal control over activities which do not justify individual control or which are adequately regulated by another agency.
+
+(4) The Corps is neither a proponent nor opponent of any permit proposal. However, the Corps believes that applicants are due a timely decision. Reducing unnecessary paperwork and delays is a continuing Corps goal.
+
+(5) The Corps believes that state and federal regulatory programs should complement rather than duplicate one another. The Corps uses general permits, joint processing procedures, interagency review, coordination, and authority transfers (where authorized by law) to reduce duplication.
+
+(6) The Corps has authorized its district engineers to issue formal determinations concerning the applicability of the Clean Water Act or the Rivers and Harbors Act of 1899 to activities or tracts of land and the applicability of general permits or statutory exemptions to proposed activities. A determination pursuant to this authorization shall constitute a Corps final agency action. Nothing contained in this section is intended to affect any authority EPA has under the Clean Water Act.
+
+(b) *Types of activities regulated.* This part and the parts that follow (33 CFR parts 321 through 330) prescribe the statutory authorities, and general and special policies and procedures applicable to the review of applications for Department of the Army (DA) permits for controlling certain activities in waters of the United States or the oceans. This part identifies the various federal statutes which require that DA permits be issued before these activities can be lawfully undertaken; and related Federal laws and the general policies applicable to the review of those activities. Parts 321 through 324 and 330 address special policies and procedures applicable to the following specific classes of activities:
+
+(1) Dams or dikes in navigable waters of the United States (part 321);
+
+(2) Other structures or work including excavation, dredging, and/or disposal activities, in navigable waters of the United States (part 322);
+
+(3) Activities that alter or modify the course, condition, location, or capacity of a navigable water of the United States (part 322);
+
+(4) Construction of artificial islands, installations, and other devices on the outer continental shelf (part 322);
+
+(5) Discharges of dredged or fill material into waters of the United States (part 323);
+
+(6) Activities involving the transportation of dredged material for the purpose of disposal in ocean waters (part 324); and
+
+(7) Nationwide general permits for certain categories of activities (part 330).
+
+(c) *Forms of authorization.* DA permits for the above described activities are issued under various forms of authorization. These include individual permits that are issued following a review of individual applications and general permits that authorize a category or categories of activities in specific geographical regions or nationwide. The term “general permit” as used in these regulations (33 CFR parts 320 through 330) refers to both those regional permits issued by district or division engineers on a regional basis and to nationwide permits which are issued by the Chief of Engineers through publication in the Federal Register and are applicable throughout the nation. The nationwide permits are found in 33 CFR part 330. If an activity is covered by a general permit, an application for a DA permit does not have to be made. In such cases, a person must only comply with the conditions contained in the general permit to satisfy requirements of law for a DA permit. In certain cases pre-notification may be required before initiating construction. (See 33 CFR 330.7)
+
+(d) *General instructions.* General policies for evaluating permit applications are found in this part. Special policies that relate to particular activities are found in parts 321 through 324. The procedures for processing individual permits and general permits are contained in 33 CFR part 325. The terms “navigable waters of the United States” and “waters of the United States” are used frequently throughout these regulations, and it is important from the outset that the reader understand the difference between the two. “Navigable waters of the United States” are defined in 33 CFR part 329. These are waters that are navigable in the traditional sense where permits are required for certain work or structures pursuant to Sections 9 and 10 of the Rivers and Harbors Act of 1899. “Waters of the United States” are defined in 33 CFR part 328. These waters include more than navigable waters of the United States and are the waters where permits are required for the discharge of dredged or fill material pursuant to section 404 of the Clean Water Act.
+
+[51 FR 41220, Nov. 13, 1986, as amended at 64 FR 11714, Mar. 9, 1999; 65 FR 16492, Mar. 28, 2000]

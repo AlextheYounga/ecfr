@@ -1,0 +1,11 @@
+##### § 181.7 Transmittal to the Congress. #####
+
+(a) International agreements other than treaties shall be transmitted by the Assistant Legal Adviser for Treaty Affairs to the President of the Senate and the Speaker of the House of Representatives as soon as practicable after the entry into force of such agreements, but in no event later than 60 days thereafter.
+
+(b) Classified agreements shall be transmitted by the Assistant Legal Adviser for Treaty Affairs to the Senate Committee on Foreign Relations and to the House Committee on International Relations.
+
+(c) The Assistant Legal Adviser for Treaty Affairs shall also transmit to the President of the Senate and to the Speaker of the House of Representatives background information to accompany each agreement reported under the Act. Background statements, while not expressly required by the act, have been requested by the Congress and have become an integral part of the reporting requirement. Each background statement shall include information explaining the agreement and a precise citation of legal authority. At the request of the Assistant Legal Adviser for Treaty Affairs, each background statement is to be prepared in time for transmittal with the agreement it accompanies by the office most closely concerned with the agreement. Background statements for classified agreements are to be transmitted by the Assistant Legal Adviser for Treaty Affairs to the Senate Committee on Foreign Relations and to the House Committee on International Relations.
+
+(d) Pursuant to section 12 of the Taiwan Relations Act (22 U.S.C. 3311), any agreement entered into between the American Institute in Taiwan and the governing authorities on Taiwan, or any agreement entered into between the Institute and an agency of the United States Government, shall be transmitted by the Assistant Legal Adviser for Treaty Affairs to the President of the Senate and to the Speaker of the House of Representatives as soon as practicable after the entry into force of such agreements, but in no event later than 60 days thereafter. Classified agreements entered into by the Institute shall be transmitted by the Assistant Legal Adviser for Treaty Affairs to the Senate Committee on Foreign Affairs.
+
+[46 FR 35918, July 13, 1981, as amended at 71 FR 53009, Sept. 8, 2006]

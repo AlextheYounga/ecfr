@@ -1,0 +1,5 @@
+##### § 1.21 Care of money and equities accruing to futures customers. #####
+
+All money received directly or indirectly by, and all money and equities accruing to, a futures commission merchant from any derivatives clearing organization or from any clearing member or from any member of a contract market incident to or resulting from any trade, contract or commodity option made by or through such futures commission merchant on behalf of any futures customer shall be considered as accruing to such futures customer within the meaning of the Act and these regulations. Such money and equities shall be treated and dealt with as belonging to such futures customer in accordance with the provisions of the Act and these regulations. Money and equities accruing in connection with futures customers' open trades, contracts, or commodity options need not be separately credited to individual accounts but may be treated and dealt with as belonging undivided to all futures customers having open trades, contracts, or commodity option positions which if closed would result in a credit to such futures customers.
+
+[77 FR 66321, Nov. 2, 2012]

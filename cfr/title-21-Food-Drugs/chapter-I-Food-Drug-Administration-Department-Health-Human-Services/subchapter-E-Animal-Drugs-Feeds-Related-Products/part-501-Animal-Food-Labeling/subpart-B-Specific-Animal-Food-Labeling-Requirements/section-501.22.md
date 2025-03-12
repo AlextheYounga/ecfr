@@ -1,0 +1,87 @@
+##### § 501.22 Animal foods; labeling of spices, flavorings, colorings, and chemical preservatives. #####
+
+(a)(1) The term *artificial flavor* or *artificial flavoring* means any substance, the function of which is to impart flavor, which is not derived from a spice, fruit or fruit juice, vegetable or vegetable juice, edible yeast, herb, bark, bud, root, leaf or similar plant material, meat, fish, poultry, eggs, dairy products, or fermentation products thereof. Artificial flavor includes the substances listed in §§ 172.515(b) and 582.60 of this chapter except where these are derived from natural sources.
+
+(2) The term *spice* means any aromatic vegetable substance in the whole, broken, or ground form, except for those substances which have been traditionally regarded as foods, such as onions, garlic and celery; whose significant function in food is seasoning rather than nutritional; that is true to name; and from which no portion of any volatile oil or other flavoring principle has been removed. Spices include the spices listed in subpart A of part 582 of this chapter, such as the following:
+
+Allspice, Anise, Basil, Bay leaves, Caraway seed, Cardamon, Celery seed, Chervil, Cinnamon, Cloves, Coriander, Cumin seed, Dill seed, Fennel seed, Fenugreek, Ginger, Horseradish, Mace, Marjoram, Mustard flour, Nutmeg, Oregano, Paprika, Parsley, Pepper, black; Pepper, white; Pepper, red; Rosemary, Saffron, Sage, Savory, Star aniseed, Tarragon, Thyme, Turmeric.Paprika, turmeric, and saffron or other spices which are also colors, shall be declared as *spice and coloring* unless declared by their common or usual name.
+
+(3) The term *natural flavor* or *natural flavoring* means the essential oil, oleoresin, essence or extractive, protein hydrolysate, distillate, or any product of roasting, heating or enzymolysis, which contains the flavoring constituents derived from a spice, fruit or fruit juice, vegetable or vegetable juice, edible yeast, herb, bark, bud, root, leaf or similar plant material, meat, seafood, poultry, eggs, dairy products, or fermentation products thereof, whose significant function in food is flavoring rather than nutritional. Natural flavors, include the natural essence or extractives obtained from plants listed in subpart A of part 582 of this chapter, and the substances listed in § 172.510 of this chapter.
+
+(4) The term *artificial color* or *artificial coloring* means any *color additive* as defined in § 70.3(f) of this chapter.
+
+(5) The term *chemical preservative* means any chemical that, when added to food, tends to prevent or retard deterioration thereof, but does not include common salt, sugars, vinegars, spices, or oils extracted from spices, substances added to food by direct exposure thereof to wood smoke, or chemicals applied for their insecticidal or herbicidal properties.
+
+(b) A food which is subject to the requirements of section 403(k) of the act shall bear labeling, even though such food is not in package form.
+
+(c) A statement of artificial flavoring, artificial coloring, or chemical preservative shall be placed on the food, or on its container or wrapper, or on any two or all of these, as may be necessary to render such statement likely to be read by the ordinary individual under customary conditions of purchase and use of such food.
+
+(d) A food shall be exempt from compliance with the requirements of section 403(k) of the act if it is not in package form and the units thereof are so small that a statement of artificial flavoring, artificial coloring, or chemical preservative, as the case may be, cannot be placed on such units with such conspicuousness as to render it likely to be read by the ordinary individual under customary conditions of purchase and use.
+
+(e) A food shall be exempt while held for sale from the requirements of section 403(k) of the act (requiring label statement of any artificial flavoring, artificial coloring, or chemical preservatives) if said food, having been received in bulk containers at a retail establishment, is displayed to the purchaser with either (1) the labeling of the bulk container plainly in view or (2) a counter card, sign, or other appropriate device bearing prominently and conspicuously the information required to be stated on the label pursuant to section 403(k) of the act.
+
+(f) A fruit or vegetable shall be exempt from compliance with the requirements of section 403(k) of the act with respect to a chemical preservative applied to the fruit or vegetable as a pesticide chemical prior to harvest.
+
+(g) A flavor shall be labeled in the following way when shipped to a food manufacturer or processor (but not a consumer) for use in the manufacture of a fabricated food, unless it is a flavor for which a standard of identity has been promulgated, in which case it shall be labeled as provided in the standard:
+
+(1) If the flavor consists of one ingredient, it shall be declared by its common or usual name.
+
+(2) If the flavor consists of two or more ingredients, the label either may declare each ingredient by its common or usual name or may state “All flavor ingredients contained in this product are approved for use in a regulation of the Food and Drug Administration.” Any flavor ingredient not contained in one of these regulations, and any nonflavor ingredient, shall be separately listed on the label.
+
+(3) In cases where the flavor contains a solely natural flavor(s), the flavor shall be so labeled, e.g., *strawberry flavor, banana flavor,* or *natural strawberry flavor.* In cases where the flavor contains both a natural flavor and an artificial flavor, the flavor shall be so labeled, e.g., *natural and artificial strawberry flavor.* In cases where the flavor contains a solely artificial flavor(s), the flavor shall be so labeled, e.g., *artificial strawberry flavor.*
+
+(h) The label of a food to which flavor is added shall declare the flavor in the statement of ingredients in the following way:
+
+(1) Spice, natural flavor, and artificial flavor may be declared as *spice, natural flavor,* or *artificial flavor,* or any combination thereof, as the case may be.
+
+(2) An incidental additive in a food, originating in a spice or flavor used in the manufacture of the food, need not be declared in the statement of ingredients if it meets the requirements of § 501.100(a)(3).
+
+(3) Substances obtained by cutting, grinding, drying, pulping, or similar processing of tissues derived from fruit, vegetable, meat, fish, or poultry, e.g., powdered or granulated onions, garlic powder, and celery powder, are commonly understood by consumers to be food rather than flavor and shall be declared by their common or usual name.
+
+(4) Any salt (sodium chloride) used as an ingredient in food shall be declared by its common or usual name *salt.*
+
+(5) Any monosodium glutamate used as an ingredient in food shall be declared by its common or usual name *monosodium glutamate.*
+
+(6) Any pyroligneous acid or other artificial smoke flavors used as an ingredient in a food may be declared as *artificial flavor* or *artificial smoke flavor.* No representation may be made, either directly or implied, that a food flavored with pyroligneous acid or other artificial smoke flavor has been smoked or has a true smoked flavor, or that a seasoning sauce or similar product containing pyroligneous acid or other artificial smoke flavor and used to season or flavor other foods will result in a smoked product or one having a true smoked flavor.
+
+(i) If the label, labeling, or advertising of a food makes any direct or indirect representations with respect to the primary recognizable flavor(s), by word, *vignette,* e.g., depiction of a fruit, or other means, or if for any other reason the manufacturer or distributor of a food wishes to designate the type of flavor in the food other than through the statement of ingredients, such flavor shall be considered the characterizing flavor and shall be declared in the following way:
+
+(1) If the food contains no artificial flavor which simulates, resembles or reinforces the characterizing flavor, the name of the food on the principal display panel or panels of the label shall be accompanied by the common or usual name of the characterizing flavor in letters not less than one-half the height of the letters used in the name of the food, except that:
+
+(i) If the food is one that is commonly expected to contain a characterizing food ingredient, and the food contains natural flavor derived from such ingredient and an amount of characterizing ingredient insufficient to independently characterize the food, or the food contains no such ingredient, the name of the characterizing flavor may be immediately preceded by the word *natural* and shall be immediately followed by the word *flavored* in letters not less than one-half the height of the letters in the name of the characterizing flavor.
+
+(ii) If none of the natural flavor used in the food is derived from the product whose flavor is simulated, the food in which the flavor is used shall be labeled either with the flavor of the product from which the flavor is derived or as *artificially flavored.*
+
+(iii) If the food contains both a characterizing flavor from the product whose flavor is simulated and other natural flavor which simulates, resembles or reinforces the characterizing flavor, the food shall be labeled in accordance with the introductory text and paragraph (i)(1)(i) of this section and the name of the food shall be immediately followed by the words *with other natural flavor* in letters not less than one-half the height of the letters used in the name of the characterizing flavor.
+
+(2) If the food contains any artificial flavor which simulates, resembles or reinforces the characterizing flavor, the name of the food on the principal display panel or panels of the label shall be accompanied by the common or usual name(s) of the characterizing flavor, in letters not less than one-half the height of the letters used in the name of the food and the name of the characterizing flavor shall be accompanied by the word(s) *artificial* or *artificially flavored,* in letters not less than one-half the height of the letters in the name of the characterizing flavor.
+
+(3) Wherever the name of the characterizing flavor appears on the label (other than in the statement of ingredients) so conspicuously as to be easily seen under customary conditions of purchase, the words prescribed by this paragraph shall immediately and conspicuously precede or follow such name, without any intervening written, printed, or graphic matter, except:
+
+(i) Where the characterizing flavor and a trademark or brand are presented together, other written, printed, or graphic matter that is a part of or is associated with the trademark or brand may intervene if the required words are in such relationship with the trademark or brand as to be clearly related to the characterizing flavor; and
+
+(ii) If the finished product contains more than one flavor subject to the requirements of this paragraph, the statements required by this paragraph need appear only once in each statement of characterizing flavors present in such food.
+
+(iii) If the finished product contains three or more distinguishable characterizing flavors, or a blend of flavors with no primary recognizable flavor, the flavor may be declared by an appropriately descriptive generic term in lieu of naming each flavor.
+
+(4) A flavor supplier shall certify, in writing, that any flavor he supplies which is designated as containing no artificial flavor does not, to the best of his knowledge and belief, contain any artificial flavor, and that he has added no artificial flavor to it. The requirement for such certification may be satisfied by a guarantee under section 303(c)(2) of the act which contains such a specific statement. A flavor used shall be required to make such a written certification only where he adds to or combines another flavor with a flavor which has been certified by a flavor supplier as containing no artificial flavor, but otherwise such user may rely upon the supplier's certification and need make no separate certification. All such certifications shall be retained by the certifying party throughout the period in which the flavor is supplied and for a minimum of 3 years thereafter, and shall be subject to the following conditions:
+
+(i) The certifying party shall make such certifications available upon request at all reasonable hours to any duly authorized officer, or employee of the Food and Drug Administration or any other employee acting on behalf of the Secretary of Health and Human Services. Such certifications are regarded by the Food and Drug Administration as reports to the government and as guarantees or other undertakings within the meaning of section 301(h) of the act and subject the certifying party to the penalties for making any false report to the government under 18 U.S.C. 1001 and any false guarantee or undertaking under section 303(a) of the act. The defenses provided under section 303(c)(2) of the act shall be applicable to the certifications provided for in this section.
+
+(ii) Wherever possible, the Food and Drug Administration shall verify the accuracy of a reasonable number of certifications made pursuant to this section, constituting a representative sample of such certifications, and shall not request all such certifications.
+
+(iii) Where no person authorized to provide such information is reasonably available at the time of inspection, the certifying party shall arrange to have such person and the relevant materials and records ready for verification as soon as practicable; provided that, whenever the Food and Drug Administration has reason to believe that the supplier or user may utilize this period to alter inventories or records, such additional time shall not be permitted. Where such additional time is provided, the Food and Drug Administration may require the certifying party to certify that relevant inventories have not been materially disturbed and relevant records have not been altered or concealed during such period.
+
+(iv) The certifying party shall provide, to an officer or representative duly designated by the Secretary, such qualitative statement of the composition of the flavor or product covered by the certification as may be reasonably expected to enable the Secretary's representatives to determine which relevant raw and finished materials and flavor ingredient records are reasonably necessary to verify the certifications. The examination conducted by the Secretary's representative shall be limited to inspection and review of inventories and ingredient records for those certifications which are to be verified.
+
+(v) Review of flavor ingredient records shall be limited to the qualitative formula and shall not include the quantitative formula. The person verifying the certifications may make only such notes as are necessary to enable him to verify such certification. Only such notes or such flavor ingredient records as are necessary to verify such certification or to show a potential or actual violation may be removed or transmitted from the certifying party's place of business: *Provided,* That, where such removal or transmittal is necessary for such purposes the relevant records and notes shall be retained as separate documents in Food and Drug Administration files, shall not be copied in other reports, and shall not be disclosed publicly other than in a judicial proceeding brought pursuant to the act or 18 U.S.C. 1001.
+
+(j) A food to which a chemical preservative(s) is added shall, except when exempt pursuant to § 501.100, bear a label declaration stating both the common or usual name of the ingredient(s) and a separate description of its function, e.g., *preservative, to retard spoilage, a mold inhibitor, to help protect flavor* or *to promote color retention.*
+
+(k) The label of an animal food to which any coloring has been added shall declare the coloring in the statement of ingredients in the manner specified in paragraphs (k)(1) and (k)(2) of this section.
+
+(1) A color additive or the lake of a color additive subject to certification under section 721(c) of the act shall be declared by the name of the color additive listed in the applicable regulation in part 74 or part 82 of this chapter, except that it is not necessary to include the “FD&C” prefix or the term “No.” in the declaration, but the term “Lake” shall be included in the declaration of the lake of the certified color additive (e.g., Blue 1 Lake). Manufacturers may parenthetically declare an appropriate alternative name of the certified color additive following its common or usual name as specified in part 74 or part 82 of this chapter.
+
+(2) Color additives not subject to certification may be declared as “Artificial Color,” “Artificial Color Added,” or “Color Added” (or by an equally informative term that makes clear that a color additive has been used in the food). Alternatively, such color additives may be declared as “Colored with \_\_\_\_” or “\_\_\_\_ color,” the blank to be filled with the name of the color additive listed in the applicable regulation in part 73 of this chapter.
+
+[41 FR 38619, Sept. 10, 1976, as amended at 42 FR 14091, Mar. 15, 1977; 42 FR 15675, Mar. 22, 1977; 76 FR 71254, Nov. 17, 2011]

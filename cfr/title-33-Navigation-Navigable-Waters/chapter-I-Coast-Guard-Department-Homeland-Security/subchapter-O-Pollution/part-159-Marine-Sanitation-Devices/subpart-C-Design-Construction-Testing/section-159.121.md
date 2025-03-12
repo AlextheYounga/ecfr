@@ -1,0 +1,11 @@
+##### § 159.121 Sewage processing test. #####
+
+(a) The device must process human sewage in the manner for which it is designed when tested in accordance with this section. There must be no sewage or sewage-treating chemicals remaining on surfaces or in crevices that could come in contact with a person using the device or servicing the device in accordance with the instructions supplied under § 159.57(b)(7).
+
+(b) During the test the device must be operated and maintained in accordance with the manufacturer's instructions. Any initial start-up time specified by the manufacturer must be allowed before test periods begin. For 1 hour of each 8-hour test period, the device must be tilted to the maximum angles specified by the manufacturer under §§ 159.55 and 159.57.
+
+(c) Except for devices described in paragraph (d) of this section, the devices must process and discharge or store human sewage over at least an 8-consecutive hour period on at least 10 days within a 20-day period. The device must receive human sewage consisting of fecal matter, urine, and toilet paper in a ratio of four urinations to one defecation with at least one defecation per person per day. Devices must be tested at their average rate of capacity as specified in § 159.57. In addition, during three periods of each day the system must process sewage at the peak capacity for the period of time it is rated at peak capacity.
+
+(d) A device that processes and discharges continuously between individual use periods or a large device, as determined by the Coast Guard, must process and discharge sewage over at least 10-consecutive days at the average daily capacity specified by the manufacturer. During three periods of each day the system must process sewage at the peak capacity for the period of time it is rated at peak capacity. The sewage for this test must be fresh, domestic sewage to which primary sludge has been added, as necessary, to create a test sewage with a minimum of 500 milligrams of suspended solids per liter.
+
+[CGD 73-83, 40 FR 4624, Jan. 30, 1975, as amended by USCG-2002-12471, 67 FR 41333, June 18, 2002]

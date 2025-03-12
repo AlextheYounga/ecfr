@@ -1,0 +1,7 @@
+##### § 22.2 Requests for services in the United States. #####
+
+(a) *Requests for records.* Requests by the file subject or the individual's authorized agent for services involving U.S. passport applications and related records, including consular birth, marriage and death records and authentication of other passport file documents, as well as records of births, marriages and deaths within the former Canal Zone of Panama recorded and maintained by the Canal Zone Government from 1904 to September 30, 1979, shall be addressed to Passport Services, Correspondence Branch, Department of State, Washington, D.C. 20524. Requests for consular birth records should specify whether a Consular Report of Birth (Form FS 240, or long form) or Certification of Birth (Form DS 1350, or short form) is desired. Advance remittance of the exact fee is required for each service.
+
+(b) *Authentication services.* Requests for Department of State authentication of documents other than passport file documents must be accompanied by remittance of the exact total fee chargeable and addressed to the Authentication Officer, Department of State, Washington, DC 20520.
+
+[46 FR 58071, Nov. 30, 1981, as amended at 64 FR 66770, Nov. 30, 1999]

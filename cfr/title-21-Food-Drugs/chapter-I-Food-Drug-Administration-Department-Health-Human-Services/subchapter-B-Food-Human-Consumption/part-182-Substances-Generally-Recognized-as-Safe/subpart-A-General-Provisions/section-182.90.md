@@ -1,0 +1,5 @@
+##### § 182.90 Substances migrating to food from paper and paperboard products. #####
+
+Substances migrating to food from paper and paperboard products used in food packaging that are generally recognized as safe for their intended use, within the meaning of section 409 of the Act, are as follows:
+
+Alum (double sulfate of aluminum and ammonium potassium, or sodium).Aluminum hydroxide.Aluminum oleate.Aluminum palmitate.Casein.Cellulose acetate.Cornstarch.Diatomaceous earth filler.Ethyl cellulose.Ethyl vanillin.Glycerin.Oleic acid.Potassium sorbate.Silicon dioxides.Sodium aluminate.Sodium chloride.Sodium hexametaphosphate.Sodium hydrosulfite.Sodium phosphoaluminate.Sodium silicate.Sodium sorbate.Sodium tripolyphosphate.Sorbitol.Soy protein, isolated.Starch, acid modified.Starch, pregelatinized.Starch, unmodified.Talc.Vanillin.Zinc hydrosulfite.Zinc sulfate.[42 FR 14640, Mar. 15, 1977]Editorial Note:For Federal Register citations affecting § 182.90, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

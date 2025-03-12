@@ -1,0 +1,5 @@
+##### § 3a.4 Procedure for requesting approval. #####
+
+(a) An applicant must submit a request for approval of foreign government employment to the Secretary concerned, whose approval is also required by law for the applicant's acceptance of civil employment from a foreign government. The request must contain information concerning the applicant's status, the nature of the proposed employment in as much detail as possible, the identity of and relationship to the foreign government concerned, and other matters as may be required by the Secretary concerned.
+
+(b) Requests approved by the Secretary concerned will be referred to the Director, Bureau of Politico-Military Affairs, for approval. Requests received by the Director, Bureau of Politico-Military Affairs, directly from an applicant will be initially forwarded to the Secretary concerned, or his designee, for approval of disapproval.

@@ -1,0 +1,3 @@
+##### § 1304.1 General provisions. #####
+
+This part contains the regulations the Millennium Challenge Corporation (MCC) follows in implementing the Freedom of Information Act (FOIA) (5 U.S.C. 552) as amended. These regulations provide procedures by which you may obtain access to records compiled, created, and maintained by MCC, along with the procedures that MCC must follow in response to such requests for records. These regulations should be read together with the FOIA, which provides additional information about access to records maintained by MCC.

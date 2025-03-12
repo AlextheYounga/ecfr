@@ -1,0 +1,3 @@
+##### § 337.10 Supervision of Federal projects. #####
+
+District engineers should assure that dredged or fill material disposal activities are conducted in conformance with current plans and description of the project as expressed in the SOF or ROD. Conditions and/or limitations required by a state (e.g., water quality certification), as identified through the coordination process, should be included in the project specifications. Contracting officers should assure that contractors are aware of their responsibilities for compliance with the terms and conditions of state certifications and other conditions expressed in the SOF or ROD.

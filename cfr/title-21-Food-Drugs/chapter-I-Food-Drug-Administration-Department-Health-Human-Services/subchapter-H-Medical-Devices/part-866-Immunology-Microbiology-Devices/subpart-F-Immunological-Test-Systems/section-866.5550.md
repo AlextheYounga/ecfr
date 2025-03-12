@@ -1,0 +1,5 @@
+##### § 866.5550 Immunoglobulin (light chain specific) immunological test system. #####
+
+(a) *Identification.* An immunoglobulin (light chain specific) immunological test system is a device that consists of the reagents used to measure by immunochemical techniques both kappa and lambda types of light chain portions of immunoglobulin molecules in serum, other body fluids, and tissues. In some disease states, an excess of light chains are produced by the antibody-forming cells. These free light chains, unassociated with gamma globulin molecules, can be found in a patient's body fluids and tissues. Measurement of the various amounts of the different types of light chains aids in the diagnosis of multiple myeloma (cancer of antibody-forming cells), lymphocytic neoplasms (cancer of lymphoid tissue), Waldenstrom's macroglobulinemia (increased production of large immunoglobulins), and connective tissue diseases such as rheumatoid arthritis or systemic lupus erythematosus.
+
+(b) *Classification.* Class II (performance standards).

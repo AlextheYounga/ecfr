@@ -1,0 +1,5 @@
+##### § 1301.91 Employee responsibility to report drug diversion. #####
+
+Reports of drug diversion by fellow employees is not only a necessary part of an overall employee security program but also serves the public interest at large. It is, therefore, the position of DEA that an employee who has knowledge of drug diversion from his employer by a fellow employee has an obligation to report such information to a responsible security official of the employer. The employer shall treat such information as confidential and shall take all reasonable steps to protect the confidentiality of the information and the identity of the employee furnishing information. A failure to report information of drug diversion will be considered in determining the feasibility of continuing to allow an employee to work in a drug security area. The employer shall inform all employees concerning this policy.
+
+[40 FR 17143, Apr. 17, 1975]

@@ -1,0 +1,9 @@
+##### § 202.3 Freight reimbursement limitations. #####
+
+Economic utilization of AID funds available for reimbursement to agencies for freight charges incurred and paid by such agencies for the shipment of donated or purchased supplies to a recipient country requires the following limitations on amounts reimbursable:
+
+(a) *Ocean freight.* The amount of ocean freight charges reimbursable to an agency is limited to the actual cost of transportation of the supplies as assessed by the delivering carrier either in accordance with its applicable tariff for delivery to the discharge port or in accordance with the applicable charter or booking contract at a rate not exceeding the prevailing rate, if any, for similar freight services, or the rate paid to the supplier of ocean transportation for similar services by other customers similarly situated, as attested to by the supplier in Block 13 of Form AID 1550-1, entitled “Voluntary Agency and Carrier Certificate.” (See § 202.4(a).)
+
+(b) *Inland freight.* The amount of inland freight charges reimbursable to an agency is limited to the actual cost of transportation of supplies from pickup point in initial port of discharge to designated point of entry in the recipient country at a rate negotiated by the agency representative as attested to by such agency representative in Block 14 of Form AID 1550-1, entitled “Voluntary Agency and Carrier Certificate.” (See § 202.4(b).)
+
+(c) *Related shipping costs.* Where inland freight charges are reimbursed, expenses incurred in transferring supplies from ocean carrier to inland carrier may be reimbursed to the agency when such expenses are not for account of the ship nor included in the inland transportation charges.

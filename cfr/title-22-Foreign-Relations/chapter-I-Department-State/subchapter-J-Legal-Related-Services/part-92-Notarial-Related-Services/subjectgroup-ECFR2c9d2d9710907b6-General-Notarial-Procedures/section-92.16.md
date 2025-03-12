@@ -1,0 +1,3 @@
+##### § 92.16 Sealing the notarial certificate. #####
+
+The notarizing officer should seal a notarial certificate with the impression seal of the post on the lower left-hand side of the certificate. A notarial certificate executed at a Foreign Service post which has not been officially designated as an embassy, legation, consulate general, consulate, or consular agency should be sealed with an impression seal bearing the legend “American Consular Service” and the name of the locality.

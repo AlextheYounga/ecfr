@@ -1,0 +1,3 @@
+##### § 92.50 Use of depositions in court actions. #####
+
+Generally depositions may be taken and used in all civil actions or suits. In criminal cases in the United States, a deposition cannot be used, unless a statute has been enacted which permits a defendant in a criminal case to have a deposition taken in his own behalf, or unless the defendant consents to the taking of a deposition by the State for use by the prosecution. (For exception in connection with the proving of foreign documents for use in criminal actions, see § 92.65.)

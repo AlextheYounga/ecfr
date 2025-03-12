@@ -1,0 +1,3 @@
+##### § 13.91 Computation of time. #####
+
+In computing any period of time prescribed or allowed by this part, the day of the act, event or default after which the designated period of time is to run, is not counted. The last day of the period to be computed is counted, unless it is a Saturday, Sunday, or legal holiday, in which case the period runs until the next day that is not a Saturday, Sunday, or legal holiday. Papers or documents that are required or permitted to be filed under this part must be received at the appropriate office within the filing time limits, if any.

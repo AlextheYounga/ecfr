@@ -1,0 +1,5 @@
+##### § 249b.300 FORM NRSRO, application for registration as a nationally recognized statistical rating organization pursuant to section 15E of the Securities Exchange Act of 1934 and § 240.17g-1 of this chapter. #####
+
+This Form shall be used for an initial application for and an application to add a class of credit ratings to, a supplement to an initial application for and an application to add a class of credit ratings to, an update and amendment to an application for, and a withdrawal from a registration as a nationally recognized statistical rating organization pursuant to section 15E of the Securities Exchange Act of 1934 (15 U.S.C. 78o-7) and § 240.17g-1 of this chapter.
+
+[72 FR 33624, June 18, 2007]Editorial Note:For Federal Register citations affecting Form NRSRO, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

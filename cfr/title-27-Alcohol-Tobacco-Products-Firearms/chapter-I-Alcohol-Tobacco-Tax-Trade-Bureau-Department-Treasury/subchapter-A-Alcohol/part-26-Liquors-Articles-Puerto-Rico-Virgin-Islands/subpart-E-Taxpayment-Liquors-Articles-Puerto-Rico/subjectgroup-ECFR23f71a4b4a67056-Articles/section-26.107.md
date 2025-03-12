@@ -1,0 +1,5 @@
+##### § 26.107 Taxable status. #####
+
+Articles of Puerto Rican manufacture which are to be shipped to the United States and which are not exempt fom tax under the provisions of § 26.36 are subject, under section 7652(a) to a tax equal to the tax imposed by the internal revenue laws of the United States. If such articles contain distilled spirits, the tax will be collected at the rate prescribed by 26 U.S.C. 5001(a)(1) on all alcohol contained therein, regardless of the source. Such articles containing only wine and/or beer will be taxed at the rates prescribed by 26 U.S.C. 5041 and/or 5051, respectively. A formula covering the manufacture of each article shall be filed by the manufacturer in accordance with subpart D of this part.
+
+[T.D. ATF-62, 44 FR 71712, Dec. 11, 1979. Redesignated and amended by T.D. ATF-459, 66 FR 38550, July 25, 2001]

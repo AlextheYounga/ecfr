@@ -1,0 +1,21 @@
+##### § 70.27 Right to intervene; right to institute a proceeding to quash. #####
+
+(a) *Notified person.* Under 26 U.S.C. 7609(a), the Bureau must give a notice of summons to any person, other than the person summoned, who is identified in the description of the books and records contained in the summons in order that such person may contest the right of the Bureau to examine the summoned records by instituting a proceeding to quash the summons. Thus, if the Bureau issues a summons to a bank requesting checking account records of more than one person all of whom are identified in the description of the records contained in the summons, then all such persons are notified persons entitled to notice under 26 U.S.C. 7609(a). Therefore, if the Bureau requests the records of a joint bank account of A and B, both of whom are named in the summons, then both A and B are notified persons entitled to notice under 26 U.S.C. 7609(a).
+
+(b) *Right to institute a proceeding to quash*—(1) *In general.* Title 26 U.S.C. 7609(b) grants a notified person the right to institute a proceeding to quash the summons in the United States district court for the district within which the person summoned resides or is found. Jurisdiction of the court is based on 26 U.S.C. 7609(b). The act of filing a petition in district court does not in and of itself institute a proceeding to quash under 26 U.S.C. 7609(b)(2). Rather, the filing of the petition must be coupled with notice as required by 26 U.S.C. 7609(b)(2)(B).
+
+(2) *Elements of institution of a proceeding to quash.* In order to institute a proceeding to quash a summons, the notified person (or the notified person's agent, nominee, or other person acting under the direction or control of the notified person) must, not later than the 20th day following the day the notice of the summons was served on or mailed to such notified person:
+
+(i) File a petition to quash in the name of the notified person in a district court having jurisdiction.
+
+(ii) Notify the Bureau by sending a copy of that petition by registered or certified mail to the Bureau employee and office designated to receive the copy in the notice of summons that was given to the notified person, and
+
+(iii) Notify the recordkeeper by sending to that recordkeeper by registered or certified mail a copy of the petition.
+
+Failure to give timely notice to either the summoned party or the Bureau in the manner described in this paragraph means that the notified person has failed to institute a proceeding to quash and the district court has no jurisdiction to hear the proceeding. Thus, for example, if the notified person mails a copy of the petition to the summoned person but not to the designated Bureau employee and office, the notified person has failed to institute a proceeding to quash. Similarly, if the notified person mails a copy of such petition to the summoned person, but instead of sending a copy of the petition by registered or certified mail to the designated employee and office, the notified person gives the designated employee and office the petition by some other means, the notified person has failed to institute a proceeding to quash.
+
+(3) *Failure to institute a proceeding to quash.* If the notified person fails to institute a proceeding to quash within 20 days following the day the notice was served on or mailed to such notified person, the Bureau may examine the summoned records following the 23rd day after notice of the summons was served on or mailed to the notified person (see 26 U.S.C. 7609(d)(1)).
+
+(c) *Presumption no notice has been mailed.* Title 26 U.S.C. 7609(b)(2)(B) permits a notified person to institute a proceeding to quash by filing a petition in district court and notifying both the Bureau and the summoned person. Unless the notified person has notified both the Bureau and the summoned person in the appropriate manner, the notified person has failed to institute a proceeding to quash. If the copy of the petition has not been delivered to the summoned person or the person and office designated to receive the notice on behalf of the Bureau within 3 days from the close of the 20-day period allowed to institute a proceeding to quash, it is presumed that the notification has not been timely mailed.
+
+(26 U.S.C. 7609)[T.D. ATF-301, 55 FR 47609, Nov. 14, 1990]

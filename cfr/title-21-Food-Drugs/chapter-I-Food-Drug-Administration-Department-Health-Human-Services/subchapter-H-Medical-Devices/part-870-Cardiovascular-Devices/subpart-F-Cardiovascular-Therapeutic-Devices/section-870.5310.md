@@ -1,0 +1,9 @@
+##### § 870.5310 Automated external defibrillator system. #####
+
+(a) *Identification.* An automated external defibrillator (AED) system consists of an AED and those accessories necessary for the AED to detect and interpret an electrocardiogram and deliver an electrical shock (*e.g.,* battery, pad electrode, adapter, and hardware key for pediatric use). An AED system analyzes the patient's electrocardiogram, interprets the cardiac rhythm, and automatically delivers an electrical shock (fully automated AED), or advises the user to deliver the shock (semi-automated or shock advisory AED) to treat ventricular fibrillation or pulseless ventricular tachycardia.
+
+(b) *Classification.* Class III (premarket approval)
+
+(c) *Date PMA or notice of completion of PDP is required.* A PMA will be required to be submitted to the Food and Drug Administration by April 29, 2015, for any AED that was in commercial distribution before May 28, 1976, or that has, by April 29, 2015, been found to be substantially equivalent to any AED that was in commercial distribution before May 28, 1976. A PMA will be required to be submitted to the Food and Drug Administration by April 29, 2015, for any AED accessory described in paragraph (a) that was in commercial distribution before May 28, 1976, or that has, by April 29, 2015, been found to be substantially equivalent to any AED accessory described in paragraph (a) that was in commercial distribution before May 28, 1976. Any other AED and AED accessory described in paragraph (a), shall have an approved PMA or declared completed PDP in effect before being placed in commercial distribution.
+
+[68 FR 61344, Oct. 28, 2003; 69 FR 10615, Mar. 8, 2004, as amended at 80 FR 5682, Feb. 3, 2015]

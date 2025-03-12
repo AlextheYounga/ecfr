@@ -1,0 +1,5 @@
+##### § 44.200 Transfers between factories and export warehouses. #####
+
+Where tobacco products, and cigarette papers and tubes are transferred from a factory to an export warehouse or between export warehouses, the manufacturer or export warehouse proprietor making the shipment shall forward three copies of the notice of removal, Form 5200.14 to the export warehouse proprietor to whom the shipment is consigned. Immediately upon receipt of the shipment at his warehouse, the export warehouse proprietor shall properly execute the certificate of receipt on each copy of the notice of removal, noting thereon any discrepancy; return one copy to the manufacturer or export warehouse proprietor making the shipment for filing with the appropriate TTB officer; retain one copy at his warehouse as a part of his records; and file the remaining copy with his report, required by § 44.147.
+
+(72 Stat. 1418, as amended; 26 U.S.C. 5704)[T.D. 6871, 31 FR 53, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28089, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-421, 64 FR 71926, Dec. 22, 1999]

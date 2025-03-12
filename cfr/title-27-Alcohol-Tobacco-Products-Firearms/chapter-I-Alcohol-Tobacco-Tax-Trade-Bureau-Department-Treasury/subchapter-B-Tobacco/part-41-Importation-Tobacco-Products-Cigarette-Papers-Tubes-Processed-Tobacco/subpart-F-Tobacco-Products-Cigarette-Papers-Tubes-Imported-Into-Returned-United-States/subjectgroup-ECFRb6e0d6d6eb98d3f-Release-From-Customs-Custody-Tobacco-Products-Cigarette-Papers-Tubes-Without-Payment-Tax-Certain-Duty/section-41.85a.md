@@ -1,0 +1,9 @@
+##### § 41.85a Release from customs custody of returned articles. #####
+
+(a) Domestically manufactured tobacco products (classifiable under item 9801.00.80 of the Harmonized Tariff Schedule of the United States, 19 U.S.C. 1202) exported from and returned to the United States without change to the product or the shipping container may be released from customs custody in the United States, under the bond of the original manufacturer or of the export warehouse proprietor who has been authorized by the original manufacturer (see § 41.82), without payment of that part of the duty attributable to internal revenue tax, for delivery to the bonded premises of the original tobacco products manufacturer or to the bonded premises of the export warehouse proprietor.
+
+(b) Domestically manufactured cigarette papers and tubes (classifiable under item 9801.00.80 of the Harmonized Tariff Schedule of the United States, 19 U.S.C. 1202) exported from and returned to the United States without change to the product or the shipping container may be released from customs custody in the United States, without payment of that part of the duty attributable to internal revenue tax, for delivery to the bonded premises of the original manufacturer of the cigarette papers and tubes or an export warehouse proprietor authorized by the original manufacturer to receive such products.
+
+(c) Releases under this section must be in accordance with the procedures set forth in § 41.86. Once released, the tobacco products and cigarette papers and tubes are subject to the tax and other provisions of 26 U.S.C. chapter 52 and, as applicable, to the regulations in part 40 of this chapter as if they had not been exported or otherwise removed from internal revenue bond.
+
+[78 FR 38569, June 27, 2013]

@@ -1,0 +1,5 @@
+##### § 28.25 General. #####
+
+The proprietor of a duly constituted manufacturing bonded warehouse, established in accordance with law and the regulations in 19 CFR chapter I, may withdraw distilled spirits or wine from any distilled spirits plant or bonded wine cellar, as the case may be, without payment of tax, for use in the manufacture of products for export, or for shipment in bond to Puerto Rico, or for use by foreign governments, organizations, and individuals, as authorized by 26 U.S.C. 5066, 5214(a)(6) and 5362; and 19 U.S.C. 1311. The proprietor of the manufacturing bonded warehouse shall furnish bond in accordance with the provisions of § 28.63 or § 28.64.
+
+(Sec. 311, Tariff Act of 1930, 46 Stat. 691, as amended (19 U.S.C. 1311); sec. 201, Pub. L. 85-859, 72 Stat. 1362, as amended, 1380, as amended (26 U.S.C. 5214, 5362); sec. 3, Pub. L. 91-659, 84 Stat. 1965, as amended (26 U.S.C. 5066))[T.D. ATF-88, 46 FR 39814, Aug. 5, 1981, as amended by T.D. TTB-8, 69 FR 3831, Jan. 27, 2004]

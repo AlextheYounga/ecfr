@@ -1,0 +1,7 @@
+##### § 2.30 Exclusive Economic Zone. #####
+
+(a) With respect to the United States, including the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, the United States Virgin Islands, and any other territory or possession over which the United States exercises sovereignty, *exclusive economic zone* means the zone seaward of and adjacent to the territorial sea, as defined in § 2.22(a), including the contiguous zone, and extending 200 nautical miles from the territorial sea baseline (except where otherwise limited by treaty or other agreement recognized by the United States) in which the United States has the sovereign rights and jurisdiction and all nations have the high seas freedoms mentioned in Presidential Proclamation 5030 of March 10, 1983.
+
+(b) Under customary international law as reflected in Article 55 of the 1982 United Nations Convention on the Law of the Sea, and with respect to other nations, *exclusive economic zone* means the waters seaward of and adjacent to the territorial sea, not extending beyond 200 nautical miles from the territorial sea baseline, as recognized by the United States.
+
+[USCG-2001-9044, 68 FR 42598, July 18, 2003, as amended by USCG-2012-0306, 77 FR 37309, June 21, 2012]

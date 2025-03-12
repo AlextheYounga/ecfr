@@ -1,0 +1,3 @@
+##### § 17.151 Use of distilled spirits. #####
+
+Distilled spirits are considered to have been used in the manufacture of a product under this part if the spirits are consumed in the manufacture, are incorporated into the product, or are determined by TTB to have been otherwise utilized as an essential part of the manufacturing process. However, spirits lost by causes such as spillage, leakage, breakage or theft, and spirits used for purposes such as rinsing or cleaning a system, are not considered to have been used in the manufacture of a product.

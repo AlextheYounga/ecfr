@@ -1,0 +1,5 @@
+##### § 589.1000 Gentian violet. #####
+
+The Food and Drug Administration has determined that gentian violet has not been shown by adequate scientific data to be safe for use in animal feed. Use of gentian violet in animal feed causes the feed to be adulterated and in violation of the Federal Food, Drug, and Cosmetic Act (the act), in the absence of a regulation providing for its safe use as a food additive under section 409 of the act, unless it is subject to an effective notice of claimed investigational exemption for a food additive under § 570.17 of this chapter, or unless the substance is intended for use as a new animal drug and is subject to an approved application under section 512 of the act, or an index listing under section 572 of the act, or an effective notice of claimed investigational exemption for a new animal drug under part 511 of this chapter or § 516.125 of this chapter.
+
+[72 FR 69131, Dec. 6, 2007]

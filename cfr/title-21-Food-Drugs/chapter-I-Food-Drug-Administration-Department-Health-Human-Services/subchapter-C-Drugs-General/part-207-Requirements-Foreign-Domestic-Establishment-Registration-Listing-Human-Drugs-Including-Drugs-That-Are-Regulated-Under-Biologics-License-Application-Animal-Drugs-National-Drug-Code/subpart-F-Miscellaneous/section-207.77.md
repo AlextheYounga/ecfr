@@ -1,0 +1,7 @@
+##### § 207.77 What legal status is conferred by registration and listing? #####
+
+(a) Registration of an establishment or listing of a drug does not denote approval of the establishment, the drug, or other drugs of the establishment, nor does it mean that a product may be legally marketed. Any representation that creates an impression of official approval or that a drug is approved or is legally marketable because of registration or listing is misleading and constitutes misbranding.
+
+(b) FDA's acceptance of registration and listing information, inclusion of a drug in our database of drugs, or assignment of an NDC does not denote approval of the establishment or the drug or any other drugs of the establishment, nor does it mean that the drug may be legally marketed. Any representation that creates the impression that a drug is approved or is legally marketable because it appears in our database of drugs, has been assigned or displays an NDC, or the establishment has been assigned an establishment registration number or Unique Facility Identifier is misleading and constitutes misbranding. Failure to comply with § 207.37 may also constitute misbranding.
+
+(c) Neither registration nor listing constitutes a determination by FDA that a product is a drug as defined by section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act. Registration or listing may, however, be evidence that a facility intends to or does manufacture, repack, relabel, distribute, or salvage drugs or that a product is intended to be a drug.

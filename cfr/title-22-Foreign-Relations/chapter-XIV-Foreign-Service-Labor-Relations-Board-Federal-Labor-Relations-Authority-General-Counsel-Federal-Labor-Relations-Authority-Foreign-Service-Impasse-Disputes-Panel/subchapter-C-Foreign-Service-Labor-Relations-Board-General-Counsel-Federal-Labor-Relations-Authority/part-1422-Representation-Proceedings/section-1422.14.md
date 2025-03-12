@@ -1,0 +1,3 @@
+##### § 1422.14 Filing of briefs. #####
+
+A party desiring to file a brief with the Board shall file the original and three (3) copies within thirty (30) days from the close of the hearing. Copies thereof shall be served on all other parties to the proceeding. Requests for additional time in which to file a brief under authority of this section shall be made to the Regional Director, in writing, and copies thereof shall be served on the other parties and a statement of such service shall be filed with the Regional Director. Requests for extension of time shall be in writing and received not later than five (5) days before the date such briefs are due. No reply brief may be filed in any proceeding except by special permission of the Board.

@@ -1,0 +1,7 @@
+##### § 125.12 Period of validity of Coast Guard Port Security Cards. #####
+
+(a) The Coast Guard Port Security Card (Form CG-2514) shall be valid for a period of eight years from the date of issuance thereof unless sooner suspended or revoked by proper authority. On the first day after eight years from the date of issuance, the Coast Guard Port Security Card (Form CG-2514) is hereby declared invalid and shall be considered null and void for all purposes.
+
+(b) The holder of a Coast Guard Port Security Card, which is about to expire or has expired, may apply for a new Coast Guard Port Security Card in accordance with the procedures set forth in § 125.21. In the event the applicant's Coast Guard Port Security Card has expired, such card shall accompany the application for a new Coast Guard Port Security Card. In the event the applicant is holding a valid Coast Guard Port Security Card at the time he submits his application for a new card, such person shall surrender the old or expired Coast Guard Port Security Card at the time he is issued a new Coast Guard Port Security Card. In the event the old Coast Guard Port Security Card was lost, stolen, or destroyed, then the applicant shall comply with the provisions in § 125.51, regarding the replacement of a lost Coast Guard Port Security Card and the new card issued as a replacement for a lost card which has expired or is about to expire shall bear a current issuance date.
+
+[CGFR 58-52, 23 FR 9751, Dec. 18, 1958]

@@ -1,0 +1,13 @@
+##### § 42.67 Execution of application, registration, and fingerprinting. #####
+
+(a) *Execution of visa application* - (1) *Application fee.* A fee is prescribed for each application for an immigrant visa. It shall be collected prior to the execution of the application and a receipt shall be issued.
+
+(2) *Oath and signature on Form DS-230.* The applicant shall be required to read the Form DS-230, Application for Immigrant Visa and Alien Registration, when it is completed, or it shall be read to the applicant in the applicant's language, or the applicant shall otherwise be informed of its full contents. Applicants shall be asked whether they are willing to subscribe thereto. If the applicant is not willing to subscribe to the application unless changes are made in the information stated therein, the required changes shall be made. The application shall then be sworn to or affirmed and signed by or on behalf of the applicant before a consular officer, or a designated officer of the American Institute of Taiwan, who shall then sign the application over the officer's title.
+
+(3) *Oath and signature on Form DS-260.* The applicant shall be required to read the Form DS-260, Electronic Application for Immigrant Visa and Alien Registration, when it has been completed, or it shall be read to the applicant in the applicant's language, or the applicant shall otherwise be informed of its full contents, before the applicant electronically signs and submits the application to the Department. At the time of the applicant's interview the applicant shall be asked whether they are willing to subscribe thereto to the information provided on Form DS-260. If the alien is not willing to subscribe to the application unless changes are made in the information stated therein, the required changes shall be made. The application shall then be sworn to or affirmed and signed, biometrically, by or on behalf of the applicant before a consular officer, or a designated officer of the American Institute of Taiwan, who shall then electronically sign the application.
+
+(b) *Registration.* The alien shall be considered to be registered for the purposes of INA 221(b) and 203(g) upon the filing of Form DS-230 or Form DS-260, when duly executed, or the transmission by the Department to the alien of a notification of the availability of an immigrant visa, whichever occurs first.
+
+(c) *Fingerprinting.* Every applicant for an immigrant visa must furnish fingerprints prior to the execution of Form DS-230 or Form DS-260.
+
+[75 FR 45476, Aug. 3, 2010]

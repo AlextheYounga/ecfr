@@ -1,0 +1,5 @@
+##### § 249.331 Form N-CSR, certified shareholder report. #####
+
+This form shall be used by registered management investment companies to file reports pursuant to § 270.30b2-1(a) of this chapter not later than 10 days after the transmission to stockholders of any report that is required to be transmitted to stockholders under § 270.30e-1 of this chapter.
+
+[68 FR 5365, Feb. 3, 2003]

@@ -1,0 +1,3 @@
+##### § 911.1 Definition. #####
+
+An implementation dispute is any dispute between the agency and the exclusive representative, as provided in regulations adopted as a result of collective bargaining between the agencies and the employee representatives. Such a dispute, also referred to as an institutional dispute, is one which directly concerns the rights and obligations of an agency and an exclusive representative toward each other or the rights or obligations between an agency and one or more employees as set forth in a collective bargaining agreement.

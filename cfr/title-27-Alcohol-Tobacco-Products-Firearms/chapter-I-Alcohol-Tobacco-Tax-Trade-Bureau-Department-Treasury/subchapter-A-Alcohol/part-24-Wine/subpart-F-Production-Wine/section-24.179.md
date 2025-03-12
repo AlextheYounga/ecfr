@@ -1,0 +1,11 @@
+##### § 24.179 Sweetening. #####
+
+(a) *General.* In producing natural wine, sugar, juice or concentrated fruit juice of the same kind of fruit may be added after fermentation to sweeten wine. When juice or concentrated fruit juice is added, the solids content of the finished wine may not exceed 21 percent by weight. When liquid sugar or invert sugar syrup is used, the resulting volume may not exceed the volume which would result from the maximum use of pure dry sugar only.
+
+(b) *Grape wine.* Any natural grape wine of a winemaker's own production may have sugar added after amelioration and fermentation provided the finished wine does not exceed 17 percent total solids by weight if the alcohol content is more than 14 percent by volume or 21 percent total solids by weight if the alcohol content is not more than 14 percent by volume.
+
+(c) *Fruit wine.* Any natural fruit wine of a winemaker's own production may have sugar added after amelioration and fermentation provided the finished wine does not exceed 21 percent total solids by weight and the alcohol content is not more than 14 percent by volume.
+
+(d) *Specially sweetened natural wine.* Specially sweetened natural wine is produced by adding to natural wine of the winemaker's own production sufficient pure dry sugar, juice or concentrated fruit juice of the same kind of fruit, separately or in combination, so that the finished product has a total solids content between 17 percent and 35 percent by weight, and an alcohol content of not more than 14 percent by volume. Natural wine containing added wine spirits may be used in the production of specially sweetened natural wine; however, wine spirits may not be added to specially sweetened natural wine. Specially sweetened natural wines may be blended with each other, or with natural wine or heavy bodied blending wine (including juice or concentrated fruit juice to which wine spirits have been added), in the further production of specially sweetened natural wine only if the wines (or juice) so blended are made from the same kind of fruit.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1383, as amended, 1384, as amended, 1385, as amended, 1386, as amended (26 U.S.C. 5382, 5383, 5384, 5385))[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31078, July 9, 1991]

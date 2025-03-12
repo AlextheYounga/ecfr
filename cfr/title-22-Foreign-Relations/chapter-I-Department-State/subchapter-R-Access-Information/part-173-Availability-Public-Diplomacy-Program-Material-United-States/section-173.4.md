@@ -1,0 +1,3 @@
+##### § 173.4 Terms of use and other compliance. #####
+
+Requesters and users of Department Web sites, or third-party Web sites containing Program Material, are responsible for complying with the Terms of Use applicable to any such site. Requesters are also solely responsible for complying with any applicable statutes governing the use of such material and securing appropriate licenses for use of such material, if required.

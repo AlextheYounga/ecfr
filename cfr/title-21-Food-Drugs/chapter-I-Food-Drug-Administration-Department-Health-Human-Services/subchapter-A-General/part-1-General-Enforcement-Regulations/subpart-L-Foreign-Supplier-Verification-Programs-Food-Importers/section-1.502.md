@@ -1,0 +1,15 @@
+##### § 1.502 What foreign supplier verification program (FSVP) must I have? #####
+
+(a) *General.* Except as specified in paragraph (b) of this section, for each food you import, you must develop, maintain, and follow an FSVP that provides adequate assurances that your foreign supplier is producing the food in compliance with processes and procedures that provide at least the same level of public health protection as those required under section 418 (regarding hazard analysis and risk-based preventive controls for certain foods) or 419 (regarding standards for produce safety), if either is applicable, and the implementing regulations, and is producing the food in compliance with sections 402 (regarding adulteration) and 403(w) (if applicable) (regarding misbranding with respect to labeling for the presence of major food allergens) of the Federal Food, Drug, and Cosmetic Act.
+
+(b) *Low-acid canned foods*—(1) *Importers of low-acid canned foods not subject to further manufacturing or processing.* With respect to those microbiological hazards that are controlled by part 113 of this chapter, if you import a thermally processed low-acid food packaged in a hermetically sealed container (low-acid canned food), you must verify and document that the food was produced in accordance with part 113. With respect to all matters that are not controlled by part 113, you must have an FSVP as specified in paragraph (a) of this section.
+
+(2) *Certain importers of raw materials or other ingredients subject to part 113 of this chapter.* With respect to microbiological hazards that are controlled by part 113, you are not required to comply with the requirements of this subpart for raw materials or other ingredients that you import and use in the manufacturing or processing of low-acid canned food provided that you are in compliance with part 113 with respect to the low-acid canned food that you manufacture or process from the imported raw materials or other ingredients. With respect to all hazards other than microbiological hazards that are controlled by part 113, you must have an FSVP as specified in paragraph (a) of this section for the imported raw materials and other ingredients that you use in the manufacture or processing of low-acid canned foods.
+
+(c) *Importers subject to section 418 of the Federal Food, Drug, and Cosmetic Act.* You are deemed to be in compliance with the requirements of this subpart for a food you import, except for the requirements in § 1.509, if you are a receiving facility as defined in § 117.3 or § 507.3 of this chapter and you are in compliance with the following requirements of part 117 or part 507 of this chapter, as applicable:
+
+(1) You implement preventive controls for the hazards in the food in accordance with § 117.135 or § 507.34 of this chapter;
+
+(2) You are not required to implement a preventive control under § 117.136 or § 507.36 of this chapter with respect to the food; or
+
+(3) You have established and implemented a risk-based supply-chain program in compliance with subpart G of part 117 or subpart E of part 507 of this chapter with respect to the food.

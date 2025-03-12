@@ -1,0 +1,3 @@
+##### § 1203.735-104 Applicability to detailed employees. #####
+
+All the regulations of subparts A, B, and D of this part are applicable to an employee of another U.S. Government agency who may be serving on detail or assignment, formally or informally, on a reimbursable or nonreimbursable basis through a Participating Agency Service Agreement or otherwise, with an agency named in § 1203.735-102(a). However, disciplinary action shall be taken against such an employee only by the employing agency.

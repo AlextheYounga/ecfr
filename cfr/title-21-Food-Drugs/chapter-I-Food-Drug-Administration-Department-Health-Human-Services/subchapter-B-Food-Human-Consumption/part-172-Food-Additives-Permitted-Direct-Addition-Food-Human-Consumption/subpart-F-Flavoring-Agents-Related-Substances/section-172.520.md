@@ -1,0 +1,3 @@
+##### § 172.520 Cocoa with dioctyl sodium sulfosuccinate for manufacturing. #####
+
+The food additive “cocoa with dioctyl sodium sulfosuccinate for manufacturing,” conforming to § 163.117 of this chapter and § 172.810, is used or intended for use as a flavoring substance in dry beverage mixes whereby the amount of dioctyl sodium sulfosuccinate does not exceed 75 parts per million of the finished beverage. The labeling of the dry beverage mix shall bear adequate directions to assure use in compliance with this section.

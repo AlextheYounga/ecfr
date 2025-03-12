@@ -1,0 +1,5 @@
+##### § 240.15c1-5 Disclosure of control. #####
+
+The term *manipulative, deceptive, or other fraudulent device or contrivance,* as used in section 15(c)(1) of the Act, is hereby defined to include any act of any broker, dealer or municipal securities dealer controlled by, controlling, or under common control with, the issuer of any security, designed to effect with or for the account of a customer any transaction in, or to induce the purchase or sale by such customer of, such security unless such broker, dealer or municipal securities dealer, before entering into any contract with or for such customer for the purchase or sale of such security, discloses to such customer the existence of such control, and unless such disclosure, if not made in writing, is supplemented by the giving or sending of written disclosure at or before the completion of the transaction.
+
+[41 FR 22825, June 7, 1976]

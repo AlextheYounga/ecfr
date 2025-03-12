@@ -1,0 +1,7 @@
+##### § 25.173 Brewer in default. #####
+
+(a) When a remittance in payment of taxes on beer is not paid upon presentment of check or money order tendered, or when the brewer is otherwise in default in payment of tax under § 25.164, beer may not be removed for consumption or sale or taken from the brewery for consumption or sale until the tax has been prepaid as provided in § 25.175. The brewer shall continue to prepay while in default and thereafter until the appropriate TTB officer finds the revenue will not be jeopardized by deferred payment of tax as provided in § 25.164.
+
+(b) Any remittance made while the brewer is required to prepay under this section will be in cash or in the form of a certified, cashier's or treasurer's check drawn on any bank or trust company incorporated under the laws of the United States, or under the law of any State, Territory, or possession of the United States, or in the form of a money order as provided in § 70.61 of this chapter (payment by check or money order), or will be made in the form of an electronic fund transfer as provided by §§ 25.164 and 25.165.
+
+[T.D. ATF-224, 51 FR 7673, Mar. 5, 1987, as amended by T.D. ATF-251, 52 FR 19313, May 22, 1987; T.D. ATF-301, 55 FR 47605, Nov. 14, 1990]

@@ -1,0 +1,5 @@
+##### § 204.11 Jeopardy procedure. #####
+
+The Commission may effect an administrative offset against a payment to be made to the debtor prior to the completion of the procedures required by § 204.4(a) if failure to take the offset would substantially jeopardize the Commission's ability to collect the debt, and the time available before the payment is to be made does not reasonably permit the completion of those procedures. Such prior offset shall be promptly followed by the completion of those procedures. Amounts recovered by offset but later found not to be owed to the Commission shall be promptly refunded. This section applies only to administrative offset pursuant to 31 CFR 901.3(c), and does not apply when debts are referred to the Department of the Treasury for mandatory centralized administrative offset under 31 CFR 901.3(b)(1).
+
+[58 FR 64370, Dec. 7, 1993, as amended at 66 FR 54131, Oct. 26, 2001]

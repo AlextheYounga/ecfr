@@ -1,0 +1,3 @@
+##### § 515.23 Voluntary revocation of medicated feed mill license. #####
+
+A license issued under section 512(m)(2) of the Federal Food, Drug, and Cosmetic Act (the act) will be revoked on the basis of a request for its revocation submitted in writing by a responsible individual holding such license on the grounds that the facility no longer manufactures any animal feed covered under § 558.4(b) of this chapter. A written request for such revocation shall be construed as a waiver of the opportunity for a hearing as otherwise provided for in this section. Revocation of approval of a medicated feed mill license under the provisions of this paragraph shall be without prejudice.

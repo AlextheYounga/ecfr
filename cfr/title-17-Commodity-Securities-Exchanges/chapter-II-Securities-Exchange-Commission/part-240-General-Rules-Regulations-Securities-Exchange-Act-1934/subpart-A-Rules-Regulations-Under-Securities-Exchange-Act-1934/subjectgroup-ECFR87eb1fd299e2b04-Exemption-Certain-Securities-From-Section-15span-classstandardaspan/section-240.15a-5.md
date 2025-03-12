@@ -1,0 +1,5 @@
+##### § 240.15a-5 Exemption of certain nonbank lenders. #####
+
+A lender approved under the rules and regulations of the Small Business Administration shall be exempt from the registration requirement of section 15(a) (1) of the Act if it does not engage in the business of effecting transactions in securities or of buying and selling securities for its own account except in respect of receiving notes evidencing loans to small business concerns and selling the portion of such notes guaranteed by the Small Business Administration through or to a registered broker or dealer or to a bank, a savings institution, an insurance company, or an account over which an investment adviser registered pursuant to the Investment Advisers Act of 1940 exercises investment discretion.
+
+[41 FR 50645, Nov. 17, 1976]

@@ -1,0 +1,3 @@
+##### § 201.117 Inactive ingredients. #####
+
+A harmless drug that is ordinarily used as an inactive ingredient, such as a coloring, emulsifier, excipient, flavoring, lubricant, preservative, or solvent, in the preparation of other drugs shall be exempt from section 502(f)(1) of the act. This exemption shall not apply to any substance intended for a use which results in the preparation of a new drug, unless an approved new-drug application provides for such use.

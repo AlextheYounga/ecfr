@@ -1,0 +1,9 @@
+##### § 240.14a-14 Modified or superseded documents. #####
+
+(a) Any statement contained in a document incorporated or deemed to be incorporated by reference shall be deemed to be modified or superseded, for purposes of the proxy statement, to the extent that a statement contained in the proxy statement or in any other subsequently filed document that also is or is deemed to be incorporated by reference modifies or replaces such statement.
+
+(b) The modifying or superseding statement may, but need not, state it has modified or superseded a prior statement or include any other information set forth in the document that is not so modified or superseded. The making of a modifying or superseding statement shall not be deemed an admission that the modified or superseded statement, when made, constituted an untrue statement of a material fact, an omission to state a material fact necessary to make a statement not misleading, or the employment of a manipulative, deceptive, or fraudulent device, contrivance, scheme, transaction, act, practice, course of business or artifice to defraud, as those terms are used in the Securities Act of 1933, the Securities Exchange Act of 1934 (“the Act”), the Investment Company Act of 1940, or the rules and regulations thereunder.
+
+(c) Any statement so modified shall not be deemed in its unmodified form to constitute part of the proxy statement for purposes of the Act. Any statement so superseded shall not be deemed to constitute a part of the proxy statement for purposes of the Act.
+
+[52 FR 21936, June 10, 1987, as amended at 73 FR 17814, Apr. 1, 2008]

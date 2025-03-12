@@ -1,0 +1,87 @@
+##### § 155.5050 Response plan development and evaluation criteria for nontank vessels carrying groups I through IV petroleum oil. #####
+
+(a) *Criteria for evaluating operability of response resources.* The criteria used to evaluate the operability of response resources identified in a vessel response plan (VRP) for specified operating environments must be in accordance with 33 CFR 155.1050(a).
+
+(b) *Operating environment reclassification of specific bodies of water.* Captain of the Port (COTP) reclassification of a specific body of water or location within the COTP zone must be in accordance with 33 CFR 155.1050(b).
+
+(c) *Criteria for response equipment.* Response equipment must—
+
+(1) Meet or exceed the criteria listed in Table 1 of appendix B of this part;
+
+(2) Be capable of functioning in the applicable operating environment; and
+
+(3) Be appropriate for the amount of oil capable of being carried.
+
+(d) *Average most probable discharge.* (1) The owner or operator of a nontank vessel that carries groups I through IV petroleum oil as cargo must identify in the VRP and ensure the availability of, through contract or other approved means, the response resources that will respond to a discharge up to the vessel's average most probable discharge (AMPD). Nontank vessels that carry oil as cargo must meet the requirements for AMPD coverage, as applicable, per 33 CFR 155.1050(d).
+
+(2) Nontank vessels that only carry groups I through IV petroleum oil as fuel do not have to ensure the availability of AMPD resources by contract or other approved means, but must plan for and identify response resources required in § 155.1050(d)(1) and list this information in the applicable geographic-specific appendix for bunkering or fueling operations. Permission or acknowledgement from the listed resource providers is not required.
+
+(e) *Maximum most probable discharge.* (1) The owner or operator of a nontank vessel with a capacity of 250 barrels or greater carrying groups I through IV petroleum oil as fuel or cargo must identify in the VRP and ensure the availability of, through contract or other approved means, the response resources necessary to respond to a discharge up to the vessel's maximum most probable discharge (MMPD) volume. For the purposes of meeting the requirements of this paragraph, vessel owners or operators must meet 33 CFR 155.1050(e).
+
+(2) The owner or operator of a nontank vessel with a capacity less than 250 barrels must plan for and identify MMPD response resources in the VRP but do not have to ensure these resources are available by contract. Submission of a written consent for plan listing from the recognized response resource provider must accompany the VRP for approval or revision. This is considered an acceptable “other approved means.” See 33 CFR 155.5020, paragraph (5) of the definition of “Contract or other approved means.”
+
+(f) *Worst case discharge.* The owner or operator of a nontank vessel with a capacity of 2,500 barrels or greater carrying groups I through IV petroleum oil as fuel or cargo must identify in the VRP and ensure the availability of, through contract or other approved means, the response resources necessary to respond to discharges up to the worst case discharge (WCD) volume of the oil to the maximum extent practicable. For the purposes of meeting the requirements of this paragraph, vessel owners or operators must meet 33 CFR 155.1050(f). Nontank vessels need only plan for Tier 1 response resources.
+
+(g) *Tier 1 response times.* Response equipment identified to respond to a WCD should be capable of arriving on scene within the times specified in this paragraph for the applicable response in a higher volume port area, Great Lakes, or in other areas. Table 155.5050(g) details response times for this tier, from the time of discovery of a discharge.
+
+|                                                   **Tier 1**                                                   |       |
+|----------------------------------------------------------------------------------------------------------------|-------|
+|                                            Higher volume port area                                             |12 hrs.|
+|                                                  Great Lakes                                                   |18 hrs.|
+|All other operating environments, including rivers and canals, inland, nearshore, offshore, and open ocean areas|24 hrs.|
+
+(h) *Planning standards for the mobilization and response times for required MMPD and WCD response resources.* For the purposes of arranging for MMPD or WCD response resources through contract or other approved means, response equipment identified for plan credit should be capable of being mobilized and en route to the scene of a discharge within 2 hours of notification. The notification procedures identified in the VRP should provide for notification and authorization for mobilization of response resources—
+
+(1) Either directly or through the qualified individual; and
+
+(2) Within 30 minutes of a discovery of a discharge or substantial threat of discharge.
+
+(i) *Salvage, emergency lightering, and marine firefighting requirements.* The owner or operator of a nontank vessel carrying groups I through IV petroleum oil as fuel or cargo must plan for salvage, emergency lightering, and marine firefighting response resources, as applicable.
+
+(1) Nontank vessels with a capacity of 2,500 barrels or greater must meet the salvage, emergency lightering, and marine firefighting requirements found in subpart I of this part.
+
+(2) Nontank vessels with a capacity less than 2,500 barrels, but greater than or equal to 250 barrels, need to plan for and identify salvage, emergency lightering, and marine firefighting response resources found in subpart I in the VRP but do not have to ensure these resources are available by contract. Submission of a written consent for plan listing from the recognized response resource provider must accompany the VRP for approval or revision. This is considered an acceptable “other approved means.” See 33 CFR 155.5020, paragraph (5) of the definition of “Contract or other approved means.”
+
+(3) Nontank vessels with a capacity less than 250 barrels need to plan for and identify salvage response resources found in subpart I in the VRP but do not have to ensure these resources are available by contract. Submission of a written consent for plan listing from the recognized response resource provider must accompany the VRP for approval or revision. This is considered an acceptable “other approved means.” See 33 CFR 155.5020, paragraph (5) of the definition of “Contract or other approved means.”
+
+(j) *Dispersants.* (1) The owner or operator of a nontank vessel carrying groups II through IV petroleum oil as fuel or cargo with a capacity of 2,500 barrels or greater that operates in any area pre-authorized for dispersant use must identify in their VRP, and ensure the availability of, through contract or other approved means, response resources capable of conducting dispersant operations within those areas. Vessel owners or operators must meet 33 CFR 155.1050(k). These nontank vessels must meet Tier 1 for dispersant effective daily application capability.
+
+(2) The owner or operator of a nontank vessel with a capacity less than 2,500 barrels, but greater than or equal to 250 barrels, needs to plan for and identify dispersant response resources in the VRP but do not have to ensure these resources are available by contract. Submission of a written consent for plan listing from the recognized response resource provider must accompany the VRP for approval or revision. This is considered an acceptable “other approved means.” See 33 CFR 155.5020, paragraph (5) of the definition of “Contract or other approved means.”
+
+(k) *Aerial oil spill tracking and observation response resources.* (1) The owner or operator of a nontank vessel carrying groups I through IV petroleum oil as fuel or cargo with a capacity of—
+
+(i) 2,500 barrels or greater must identify in the VRP, and ensure availability of, through contract or other approved means, the response resources necessary to provide aerial oil spill tracking to support oil spill assessment and cleanup activities. Vessel owners or operators of these vessels must meet 33 CFR 155.1050(l).
+
+(ii) Less than 2,500 barrels, but greater than 250 barrels, need to plan for and identify aerial oil tracking response resources in the VRP but do not have to ensure these resources are available by contract. Submission of a written consent for plan listing from the recognized response resource provider must accompany the VRP for approval or revision. This is considered an acceptable “other approved means.” See 33 CFR 155.5020, “Contract or other approved means”, paragraph (5).
+
+(2) Nontank vessels operating exclusively on the inland areas of the United States are not required to comply with paragraph (k) of this section.
+
+(l) *Response resources necessary to perform shoreline protection operations.* The owner or operator of a nontank vessel carrying groups I through IV petroleum oil as fuel or cargo with a capacity of 250 barrels or greater must identify in the VRP, and ensure the availability of, through contract or other approved means, the response resources necessary to perform shoreline protection operations. The response resources must include the quantities of boom listed in Table 2 of appendix B of this part, based upon the specific COTP zones in which the vessel operates.
+
+(m) *Shoreline cleanup operations.* The owner or operator of a nontank vessel carrying groups I through IV petroleum oil as fuel or cargo with a capacity of 250 barrels or greater must identify in the VRP, and ensure the availability of, through contract or other approved means, an oil spill removal organization capable of effecting a shoreline cleanup operation commensurate with the quantity of emulsified petroleum oil to be planned for in shoreline cleanup operations. The shoreline cleanup resources required must be determined as described in appendix B of this part.
+
+(n) *Practical and technical limits of response capabilities.* Appendix B of this part sets out response capability capacities (caps) that recognize the practical and technical limits of response capabilities for which an individual vessel owner or operator can contract in advance. Table 6 in appendix B lists the contracting caps that are applicable. The owner or operator of a nontank vessel carrying groups I through IV petroleum oil as fuel or cargo, with a capacity of 2,500 barrels or greater, whose required daily recovery capacity exceeds the applicable contracting caps in Table 6, must identify commercial sources of additional equipment equal to twice the cap listed for each tier or the amount necessary to reach the calculated planning volume, whichever is lower, to the extent that this equipment is available. The equipment so identified must be capable of arriving on scene no later than the applicable tier response times contained in § 155.5050(g) or as quickly as the nearest available resource permits. A VRP must identify the specific sources, locations, and quantities of this additional equipment. No contract is required.
+
+(o) *Review of response capability limits.* The Coast Guard will continue to evaluate the environmental benefits, cost efficiency, and practicality of increasing mechanical recovery capability requirements. This continuing evaluation is part of the Coast Guard's long term commitment to achieving and maintaining an optimum mix of oil spill response capability across the full spectrum of response modes. As best available technology demonstrates a need to evaluate or change mechanical recovery capacities, a review of cap increases and other requirements contained within this subpart may be performed. Any changes in the requirements of this section will occur through a rulemaking process. During this review, the Coast Guard will determine if established caps remain practicable and if increased caps will provide any benefit to oil spill recovery operations. The review will include, at least, an evaluation of—
+
+(1) Best available technologies for containment and recovery;
+
+(2) Oil spill tracking technology;
+
+(3) High rate response techniques;
+
+(4) Other applicable response technologies; and
+
+(5) Increases in the availability of private response resources.
+
+(p) *Nontank vessel response plan required response resources matrix.* Table 155.5050(p) summarizes the VRP required response resources.
+
+|                                                                                                                                                                                                                 Nontank vessel's fuel or cargo oil capacity                                                                                                                                                                                                                  |     AMPD      |      MMPD      |WCD|    Salvage     |Emergency lightering| Fire fighting  |Dispersant <sup>3</sup>|Aerial tracking <sup>4</sup>|Shoreline protection|Shore line cleanup|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------|---|----------------|--------------------|----------------|-----------------------|----------------------------|--------------------|------------------|
+|                                                                                                                                                                                                                           2,500 barrels or greater                                                                                                                                                                                                                           |NO <sup>1</sup>|      YES       |YES|      YES       |        YES         |      YES       |          YES          |            YES             |        YES         |       YES.       |
+|                                                                                                                                                                                                      Less than 2,500 barrels, but greater than or equal to 250 barrels                                                                                                                                                                                                       |NO <sup>1</sup>|      YES       |NO |YES <sup>2</sup>|  YES <sup>2</sup>  |YES <sup>2</sup>|   YES <sup>2</sup>    |      YES <sup>2</sup>      |        YES         |       YES.       |
+|                                                                                                                                                                                                                            Less than 250 barrels                                                                                                                                                                                                                             |NO <sup>1</sup>|YES <sup>2</sup>|NO |YES <sup>2</sup>|         NO         |       NO       |          NO           |             NO             |         NO         |       NO.        |
+|                                                                                                                                                 <sup>1</sup> For nontank vessels carrying oil as fuel only. Nontank vessels carrying oil as cargo must meet AMPD response resources in 33 CFR 155.5050(d)(1) as applicable.                                                                                                                                                  |               |                |   |                |                    |                |                       |                            |                    |                  |
+|<sup>2</sup> The indicated response resources that must be located within the stipulated response times in the specified geographic areas need only be identified and planned for in the VRP, but not ensured available by contract. Submission of a written consent from the response resource provider must accompany the VRP for approval. This is considered an acceptable “other approved means.” See 33 CFR 155.5020, “Contract or other approved means”, paragraph (5).|               |                |   |                |                    |                |                       |                            |                    |                  |
+
+[USCG-2008-1070, 78 FR 60124, Sept. 30, 2013, as amended by USCG-2014-0410, 79 FR 38437, July 7, 2014]

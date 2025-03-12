@@ -1,0 +1,7 @@
+##### § 864.3260 OTC test sample collection systems for drugs of abuse testing. #####
+
+(a) *Identification.* An over-the-counter (OTC) test sample collection system for drugs of abuse testing is a device intended to: Collect biological specimens (such as hair, urine, sweat, or saliva), outside of a medical setting and not on order of a health care professional (e.g., in the home, insurance, sports, or workplace setting); maintain the integrity of such specimens during storage and transport in order that the matter contained therein can be tested in a laboratory for the presence of drugs of abuse or their metabolites; and provide access to test results and counseling. This section does not apply to collection, transport, or laboratory testing of biological specimens for the presence of drugs of abuse or their metabolites that is performed to develop evidence for law enforcement purposes.
+
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification requirements in part 807, subpart E of this chapter subject to the limitations in § 864.9 if it is sold, distributed, and used in accordance with the restrictions set forth in § 809.40 of this chapter. If the device is not labeled or otherwise represented as sterile, it is exempt from the current good manufacturing practice requirements of the quality system regulation in part 820 of this chapter, with the exception of § 820.198 of this chapter with respect to complaint files.
+
+[65 FR 18234, Apr. 7, 2000]

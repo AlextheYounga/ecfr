@@ -1,0 +1,11 @@
+##### § 310.534 Drug products containing active ingredients offered over-the-counter (OTC) for human use as oral wound healing agents. #####
+
+(a) Allantoin, carbamide peroxide in anhydrous glycerin, water soluble chlorophyllins, and hydrogen peroxide in aqueous solution have been present in oral mucosal injury drug products for use as oral wound healing agents. Oral wound healing agents have been marketed as aids in the healing of minor oral wounds by means other than cleansing and irrigating, or by serving as a protectant. Allantoin, carbamide peroxide in anhydrous glycerin, water soluble chlorophyllins, and hydrogen peroxide in aqueous solution are safe for use as oral wound healing agents, but there are inadequate data to establish general recognition of the effectiveness of these ingredients as oral wound healing agents.
+
+(b) Any OTC drug product that is labeled, represented, or promoted for use as an oral wound healing agent is regarded as a new drug within the meaning of section 201(p) of the Federal Food, Drug, and Cosmetic Act, for which an approved new drug application under section 505 of the act and part 314 of this chapter is required for marketing. In the absence of an approved new drug application, such product is also misbranded under section 502 of the act.
+
+(c) Clinical investigations designed to obtain evidence that any drug product labeled, represented, or promoted for OTC use as an oral wound healing agent is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter.
+
+(d) After the effective date of the final regulation, any OTC drug product that is labeled, represented, or promoted for use as an oral wound healing agent may not be initially introduced or initially delivered for introduction into interstate commerce unless it is the subject of an approved new drug application.
+
+[51 FR 26114, July 18, 1986, as amended at 55 FR 11579, Mar. 29, 1990]

@@ -1,0 +1,5 @@
+##### § 41.40 Persons liable for tax. #####
+
+The importer of tobacco products or cigarette papers and tubes is liable for the internal revenue taxes imposed thereon by 26 U.S.C. 5701 or 7652, except when tobacco products or cigarette papers or tubes imported or brought into the United States (other than those previously exported and returned) are released from customs custody, without payment of tax as provided under 26 U.S.C. 5704(c). Under section 5704(c), tobacco products and cigarette papers and tubes, imported or brought into the United States, may be released from customs custody, without payment of tax, for delivery to the proprietor of an export warehouse, or to a manufacturer of tobacco products or cigarette papers and tubes if such articles are not put up in packages. Under these circumstances the transferee will become liable for the internal revenue tax on these articles upon release from customs custody, and the importer will thereupon be relieved from the liability for the tax. However, if the transferee is also the importer, the importer will not be relieved from the liability for the tax.
+
+[78 FR 38568, June 27, 2013]

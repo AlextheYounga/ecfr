@@ -1,0 +1,5 @@
+##### § 20.9 Sunset provision. #####
+
+(a) Except as otherwise provided in paragraph (b) of this section, the sections of this part shall become ineffective and unenforceable upon a Commission finding that, through the issuance of an order, operating swap data repositories are processing positional data and that such processing will enable the Commission to effectively surveil trading in paired swaps and swaptions and paired swap and swaption markets.
+
+(b) The Commission may determine, in its discretion, to maintain the effectiveness and enforceability of any section of this part, or any requirement therein, in an order issued under paragraph (a) of this section, upon finding that such sections, or requirements therein, provide the Commission with positional data or data elements that materially improves the accuracy and surveillance utility of the positional data processed by swap data repositories.

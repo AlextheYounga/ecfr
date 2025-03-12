@@ -1,0 +1,11 @@
+##### § 1500.7 Procedure for closing meetings. #####
+
+(a) Action to close a meeting or a portion thereof, pursuant to the exemptions set forth in § 1500.5, shall be taken only when:
+
+(1) A majority of the membership of the Foundation's Board of Directors votes to take such action. That vote shall determine whether or not any portion or portions of a meeting or portions of a series of meetings may be closed to public, obervation for any of the reasons provided in § 1500.5 and whether or not the public interest nevertheless requires that portion of the meeting or meetings remain open. A single vote may be taken with respect to a series of meetings, a portion or portions of which are proposed to be closed to the public, or with respect to any information concerning such series of meetings, so long as each meeting in such series involves the same particular matters and is scheduled to be held no more than thirty days after the initial meeting in such series. The vote of each Board member participating in such vote shall be recorded, and no proxies shall be allowed.
+
+(2) Whenever any person whose interests may be directly affected by a portion of a meeting requests that the Foundation close such portion to the public for any of the reasons referred to in § 1500.5 (a) (5), (6), or (7), the Foundation, upon request of any one of its Board members, shall take a recorded vote whether to close such portion of the meeting.
+
+(b) Within one day of any vote taken, the Foundation shall make publicly available a written copy of such vote, reflecting the vote of each member on the question, and a full written explanation of the action to close a portion of or the entire meeting, together with a list of persons expected to attend the meeting and their affiliations.
+
+(c) For every closed meeting, the General Counsel of the Foundation shall publicly certify prior to a Board of Directors' vote on closing the meeting that, in his or her opinion, the meeting may be closed to the public, and shall state each relevant exemptive provision. A copy of such certification, together with a statement from the presiding officer of the meeting setting forth the time and place of the meeting and the persons present, shall be retained by the Foundation.

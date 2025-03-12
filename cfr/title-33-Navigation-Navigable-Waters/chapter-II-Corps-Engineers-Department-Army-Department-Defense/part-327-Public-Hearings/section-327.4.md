@@ -1,0 +1,9 @@
+##### § 327.4 General policies. #####
+
+(a) A public hearing will be held in connection with the consideration of a DA permit application or a Federal project whenever a public hearing is needed for making a decision on such permit application or Federal project. In addition, a public hearing may be held when it is proposed to modify or revoke a permit. (See 33 CFR 325.7).
+
+(b) Unless the public notice specifies that a public hearing will be held, any person may request, in writing, within the comment period specified in the public notice on a DA permit application or on a Federal project, that a public hearing be held to consider the material matters at issue in the permit application or with respect to Federal project. Upon receipt of any such request, stating with particularity the reasons for holding a public hearing, the district engineer may expeditiously attempt to resolve the issues informally. Otherwise, he shall promptly set a time and place for the public hearing, and give due notice thereof, as prescribed in § 327.11 of this part. Requests for a public hearing under this paragraph shall be granted, unless the district engineer determines that the issues raised are insubstantial or there is otherwise no valid interest to be served by a hearing. The district engineer will make such a determination in writing, and communicate his reasons therefor to all requesting parties. Comments received as form letters or petitions may be acknowledged as a group to the person or organization responsible for the form letter or petition.
+
+(c) In case of doubt, a public hearing shall be held. HQDA has the discretionary power to require hearings in any case.
+
+(d) In fixing the time and place for a hearing, the convenience and necessity of the interested public will be duly considered.

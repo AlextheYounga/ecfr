@@ -1,0 +1,5 @@
+##### § 5.2 Related regulations. #####
+
+The following regulations also relate to this part:
+
+7 CFR Part 205 - National Organic Program27 CFR Part 1 - Basic Permit Requirements Under the Federal Alcohol Administration Act, Nonindustrial Use of Distilled Spirits and Wine, Bulk Sales and Bottling of Distilled Spirits27 CFR Part 4 - Labeling and Advertising of Wine27 CFR Part 7 - Labeling and Advertising of Malt Beverages27 CFR Part 13 - Labeling Proceedings27 CFR Part 16 - Alcoholic Beverage Health Warning Statement27 CFR Part 19 - Distilled Spirits Plants27 CFR Part 26 - Liquors and Articles From Puerto Rico and the Virgin Islands27 CFR Part 27 - Importation of Distilled Spirits, Wines, and Beer27 CFR Part 28 - Exportation of Alcohol27 CFR Part 71 - Rules of Practice in Permit Proceedings[T.D. ATF-483, 67 FR 62858, Oct. 8, 2002, as amended by T.D. TTB-8, 69 FR 3829, Jan. 27, 2004]

@@ -1,0 +1,3 @@
+##### § 22.153 Disposition after revocation of permit. #####
+
+When any permit issued on Form 5150.9 is revoked, all tax-free alcohol in transit and all alcohol on the former permit premises, may be lawfully possessed by the former permittee for the exclusive purpose of disposing of the alcohol, for a period of 60 days following the date of revocation. Any tax-free or recovered alcohol not disposed of within the specified 60-day period, is subject to seizure and forfeiture.

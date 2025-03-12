@@ -1,0 +1,27 @@
+##### § 606.60 Equipment. #####
+
+(a) Equipment used in the collection, processing, compatibility testing, storage and distribution of blood and blood components shall be maintained in a clean and orderly manner and located so as to facilitate cleaning and maintenance. The equipment shall be observed, standardized and calibrated on a regularly scheduled basis as prescribed in the Standard Operating Procedures Manual and shall perform in the manner for which it was designed so as to assure compliance with the official requirements prescribed in this chapter for blood and blood products.
+
+(b) Equipment that shall be observed, standardized and calibrated with at least the following frequency, include but are not limited to:
+
+|          Equipment           |                            Performance check                            |   Frequency    |                                        Frequency of calibration                                        |
+|------------------------------|-------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------|
+|     Temperature recorder     |                       Compare against thermometer                       |     Daily      |                                             As necessary.                                              |
+|   Refrigerated centrifuge    |                      Observe speed and temperature                      |Each day of use |                                                   Do.                                                  |
+|    Hematocrit centrifuge     |                                                                         |                |     Standardize before initial use, after repairs or adjustments, and annually. Timer every 3 mo.      |
+|    General lab centrifuge    |                                                                         |                |                                         Tachometer every 6 mo.                                         |
+|Automated blood-typing machine|                  Observe controls for correct results                   |Each day of use |                                                                                                        |
+|       Hemoglobinometer       |             Standardize against cyanmethemoglobin standard              |    ......do    |                                                                                                        |
+|        Refractometer         |                   Standardize against distilled water                   |    ......do    |                                                                                                        |
+|    Blood container scale     |              Standardize against container of known weight              |    ......do    |                                             As necessary.                                              |
+|          Water bath          |                           Observe temperature                           |    ......do    |                                                   Do.                                                  |
+|         Rh view box          |                                ......do                                 |    ......do    |                                                   Do.                                                  |
+|          Autoclave           |                                ......do                                 |Each time of use|                                                   Do.                                                  |
+|      Serologic rotators      |                  Observe controls for correct results                   |Each day of use |                                          Speed as necessary.                                           |
+|   Laboratory thermometers    |                                                                         |                |                                          Before initial use.                                           |
+|   Electronic thermometers    |                                                                         |                |                                                Monthly.                                                |
+|    Vacuum blood agitator     |Observe weight of the first container of blood filled for correct results|Each day of use |Standardize with container of known mass or volume before initial use, and after repairs or adjustments.|
+
+(c) Equipment employed in the sterilization of materials used in blood collection or for disposition of contaminated products shall be designed, maintained and utilized to ensure the destruction of contaminating microorganisms. The effectiveness of the sterilization procedure shall be no less than that achieved by an attained temperature of 121.5 °C (251 °F) maintained for 20 minutes by saturated steam or by an attained temperature of 170 °C (338 °F) maintained for 2 hours with dry heat.
+
+[40 FR 53532, Nov. 18, 1975; 40 FR 55849, Dec. 2, 1975, as amended at 45 FR 9261, Feb. 12, 1980; 57 FR 11263, Apr. 2, 1992; 57 FR 12862, Apr. 13, 1992]

@@ -1,0 +1,3 @@
+##### § 165.40 Restricted waterfront areas. #####
+
+The Commandant, may direct the COTP to prevent access to waterfront facilities, and port and harbor areas, including vessels and harbor craft therein. This section may apply to persons who do not possess the credentials outlined in § 125.09 of this chapter when certain shipping activities are conducted that are outlined in § 125.15 of this chapter.

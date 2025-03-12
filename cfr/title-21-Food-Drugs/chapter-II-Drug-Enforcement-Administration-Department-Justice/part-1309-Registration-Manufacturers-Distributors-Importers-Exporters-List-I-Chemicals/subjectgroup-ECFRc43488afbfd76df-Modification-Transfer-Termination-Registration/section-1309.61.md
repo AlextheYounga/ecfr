@@ -1,0 +1,5 @@
+##### § 1309.61 Modification in registration. #####
+
+Any registrant may apply to modify his or her registration to authorize the handling of additional List I chemicals or to change his or her name or address, by submitting a letter of request to the Registration Section, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. The letter shall contain the registrant's name, address, and registration number as printed on the certificate of registration, and the List I chemicals to be added to his registration or the new name or address and shall be signed in accordance with § 1309.32(g). No fee shall be required to be paid for the modification. The request for modification shall be handled in the same manner as an application for registration. If the modification in registration is approved, the Administrator shall issue a new certificate of registration (DEA Form 511) to the registrant, who shall maintain it with the old certificate of registration until expiration.
+
+[75 FR 10680, Mar. 9, 2010]

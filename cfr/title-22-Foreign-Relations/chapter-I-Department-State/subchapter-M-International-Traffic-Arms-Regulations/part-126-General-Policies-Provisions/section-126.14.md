@@ -1,0 +1,45 @@
+##### § 126.14 Special comprehensive export authorizations for NATO, Australia, Japan, and Sweden. #####
+
+(a) *Comprehensive authorizations.* With respect to NATO members, Australia, Japan, and Sweden, the Directorate of Defense Trade Controls may provide the comprehensive authorizations described in paragraphs (a) and (b) of this section for circumstances where the full parameters of a commercial export endeavor including the needed defense exports can be well anticipated and described in advance, thereby making use of such comprehensive authorizations appropriate.
+
+(1) *Major project authorization.* With respect to NATO members, Australia, Japan, and Sweden, the Directorate of Defense Trade Controls may provide comprehensive authorizations for well circumscribed commercially developed “major projects”, where a principal registered U.S. exporter/prime contractor identifies in advance the broad parameters of a commercial project including defense exports needed, other participants (e.g., exporters with whom they have “teamed up,” or subcontractors), and foreign government end users. Projects eligible for such authorization may include a commercial export of a major weapons system for a foreign government involving, for example, multiple U.S. suppliers under a commercial teaming agreement to design, develop and manufacture defense articles to meet a foreign government's requirements. U.S. exporters seeking such authorization must provide detailed information concerning the scope of the project, including other exporters, U.S. subcontractors, and planned exports (including re-exports) of defense articles, defense services, and technical data, and meet the other requirements set forth in paragraph (b) of this section.
+
+(2) *Major program authorization.* With respect to NATO members, Australia, Japan, and Sweden, the Directorate of Defense Trade Controls may provide comprehensive authorizations for well circumscribed commercially developed “major program”. This variant would be available where a single registered U.S. exporter defines in advance the parameters of a broad commercial program for which the registrant will be providing all phases of the necessary support (including the needed hardware, technical data, defense services, development, manufacturing, and logistic support). U.S. exporters seeking such authorization must provide detailed information concerning the scope of the program, including planned exports (including re-exports) of defense articles, defense services, and technical data, and meet the other requirements set forth in paragraph (b) of this section.
+
+(3)(i) *Global project authorization.* With respect to NATO members, Australia, Japan, and Sweden, the Directorate of Defense Trade Controls may provide a comprehensive “Global Project Authorization” to registered U.S. exporters for exports of defense articles, technical data or defense services in support of government to government cooperative projects (covering research and development or production) with one of these countries undertaken pursuant to an agreement between the U.S. Government and the government of such country, or a memorandum of understanding/agreement between the Department of Defense and the country's Ministry of Defense.
+
+(ii) A set of standard terms and conditions derived from and corresponding to the breadth of the activities and phases covered in such a cooperative MOU will provide the basis for this comprehensive authorization for all U.S. exporters (and foreign end users) identified by DoD as participating in such cooperative project. Such authorizations may cover a broad range of defined activities in support of such programs including multiple shipments of defense articles and technical data and performance of defense services for extended periods, and re-exports to approved end users.
+
+(iii) Eligible end users will be limited to ministries of defense of MOU signatory countries and foreign companies serving as contractors of such countries.
+
+(iv) Any requirement for non-transfer and use assurances from a foreign government may be deemed satisfied by the signature by such government of a cooperative agreement or by its ministry of defense of a cooperative MOU/MOA where the agreement or MOU contains assurances that are comparable to that required by a DSP-83 with respect to foreign governments and that clarifies that the government is undertaking responsibility for all its participating companies. The authorized non-government participants or end users (e.g., the participating government's contractors) will still be required to execute DSP-83s.
+
+(4) *Technical data supporting an acquisition, teaming arrangement, merger, joint venture authorization.* With respect to NATO member countries, Australia, Japan, and Sweden, the Directorate of Defense Trade Controls may provide a registered U.S. defense company a comprehensive authorization to export technical data in support of the U.S. exporter's consideration of entering into a teaming arrangement, joint venture, merger, acquisition, or similar arrangement with prospective foreign partners. Specifically, the authorization is designed to permit the export of a broadly defined set of technical data to qualifying well established foreign defense firms in NATO countries, Australia, Japan, or Sweden in order to better facilitate a sufficiently in depth assessment of the benefits, opportunities and other relevant considerations presented by such prospective arrangements. U.S. exporters seeking such authorization must provide detailed information concerning the arrangement, joint venture, merger or acquisition, including any planned exports of defense articles, defense services, and technical data, and meet the other requirements set forth in paragraph (b) of this section.
+
+(b) *Provisions and requirements for comprehensive authorizations.* Requests for the special comprehensive authorizations set forth in paragraph (a) of this section should be by letter addressed to the Directorate of Defense Trade Controls. With regard to a commercial major program or project authorization, or technical data supporting a teaming arrangement, merger, joint venture or acquisition, registered U.S. exporters may consult the Deputy Assistant Secretary of State for Defense Trade Controls about eligibility for and obtaining available comprehensive authorizations set forth in paragraph (a) of this section or pursuant to § 126.9(b) of this subchapter.
+
+(1) Requests for consideration of all such authorizations should be formulated to correspond to one of the authorizations set out in paragraph (a) of this section, and should include:
+
+(i) A description of the proposed program or project, including where appropriate a comprehensive description of all phases or stages; and
+
+(ii) Its value; and
+
+(iii) Types of exports needed in support of the program or project; and
+
+(iv) Projected duration of same, within permissible limits; and
+
+(v) Description of the exporter's plan for record keeping and auditing of all phases of the program or project; and
+
+(vi) In the case of authorizations for exports in support of government to government cooperative projects, identification of the cooperative project.
+
+(2) Amendments to the requested authorization may be requested in writing as appropriate, and should include a detailed description of the aspects of the activities being proposed for amendment.
+
+(3) The comprehensive authorizations set forth in paragraph (a) of this section may be made valid for the duration of the major commercial program or project, or cooperative project, not to exceed 10 years.
+
+(4) Included among the criteria required for such authorizations are those set out in part 124, e.g., §§ 124.7, 124.8 and 124.9, as well as §§ 125.4 (technical data exported in furtherance of an agreement) and 123.16 (hardware being included in an agreement). Provisions required will also take into account the congressional notification requirements in §§ 123.15 and 124.11 of the ITAR. Specifically, comprehensive congressional notifications corresponding to the comprehensive parameters for the major program or project or cooperative project should be possible, with additional notifications such as those required by law for changes in value or other significant modifications.
+
+(5) All authorizations will be consistent with all other applicable requirements of the ITAR, including requirements for non-transfer and use assurances (see §§ 123.10 and 124.10), congressional notifications (e.g., §§ 123.15 and 124.11), and other documentation (e.g., §§ 123.9 and 126.13).
+
+(6) Special auditing and reporting requirements will also be required for these authorizations. Exporters using special authorizations are required to establish an electronic system for keeping records of all defense articles, defense services and technical data exported and comply with all applicable requirements for submitting shipping or export information within the allotted time.
+
+[65 FR 45285, July 21, 2000, as amended at 66 FR 35900, July 10, 2001; 71 FR 20548, Apr. 21, 2006; 79 FR 8085, Feb. 11, 2014]

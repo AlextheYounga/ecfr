@@ -1,0 +1,7 @@
+##### § 115.70 Advance approval of bridges. #####
+
+(a) The General Bridge Act of 1946 requires the approval of the location and plans of bridges prior to start of construction (33 U.S.C. 525). The Commandant has given his advance approval to the location and plans of bridges to be constructed across reaches of waterways navigable in law, but not actually navigated other than by logs, log rafts, rowboats, canoes and small motorboats. In such cases the clearances provided for high water stages will be considered adequate to meet the reasonable needs of navigation. The Coast Guard recommends notice to the District Bridge Manager to ensure that the District has determined that advance approval provision is applicable to the waterway reach over which the bridge is to be constructed.
+
+(b) The term “small motorboats” shall be interpreted in the light of the things and conditions with which it is associated. The term means rowboats, canoes and other similar craft with outboard motors. It does not include sailing or cabin cruiser craft.
+
+(14 U.S.C. 633; 33 U.S.C. 401, 491, and 525; and 49 CFR 1.46(c))[CGFR 67-46, 32 FR 17771, Dec. 12, 1967, as amended by CGD 81-076, 46 FR 54936, Nov. 5, 1981; USCG-1998-3799, 63 FR 35527, June 30, 1998; USCG-2013-0397, 78 FR 39174, July 1, 2013]

@@ -1,0 +1,3 @@
+##### § 120.22 Technical assistance agreement. #####
+
+An agreement (e.g., contract) for the performance of a defense service(s) or the disclosure of technical data, as opposed to an agreement granting a right or license to manufacture defense articles. Assembly of defense articles is included under this section, provided production rights or manufacturing know-how are not conveyed. Should such rights be transferred, § 120.21 is applicable. (See part 124 of this subchapter).

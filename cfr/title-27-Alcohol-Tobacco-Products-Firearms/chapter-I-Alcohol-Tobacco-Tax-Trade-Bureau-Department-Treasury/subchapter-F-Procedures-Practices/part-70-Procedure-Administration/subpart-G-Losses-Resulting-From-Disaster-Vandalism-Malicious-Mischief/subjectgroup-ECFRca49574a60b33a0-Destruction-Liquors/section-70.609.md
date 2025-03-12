@@ -1,0 +1,3 @@
+##### § 70.609 Supervision. #####
+
+When allowance has been made under this subpart for the tax and/or duty on liquors condemned by a duly authorized official or made unmarketable, the liquors shall be destroyed by suitable means under supervision satisfactory to the appropriate TTB officer, unless the liquors were previously destroyed under supervision satisfactory to the appropriate TTB officer. The Commissioner of Customs will notify the appropriate TTB officer as to allowance under this subpart of claims for duty on unmarketable or condemned liquors.

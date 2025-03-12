@@ -1,0 +1,3 @@
+##### § 23.4 Representative value in exchange. #####
+
+Representative value in exchange for the collection of a fee means foreign currency equivalent to the prescribed United States dollar fee at the current rate of exchange at the time and place of payment of the fee. “Current rate” of exchange for this purpose means the bank selling rate at which the foreign bank will sell the number of United States dollars required to liquidate the obligation to the United States for the Foreign Service fee.

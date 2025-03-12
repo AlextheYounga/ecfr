@@ -1,0 +1,3 @@
+##### § 710.6 Notification of registrant; cosmetic product establishment registration number. #####
+
+The Commissioner of Food and Drugs will provide the registrant with a validated copy of Form FD-2511 as evidence of registration. This validated copy will be sent only to the location shown for the registering establishment. A permanent registration number will be assigned to each cosmetic product establishment registered in accordance with the regulations in this part.

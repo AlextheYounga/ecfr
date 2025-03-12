@@ -1,0 +1,3 @@
+##### § 230.23 Predecision referrals. #####
+
+See 40 CFR part 1504. If the district commander determines that a predecision referral is appropriate, the case will be sent through division to reach CECW-RE not later than 15 days after the final EIS was filed with EPA. Corps actions referred to CEQ by another Federal agency shall be transmitted to CECW-RE for further guidance. See paragraph 19, 33 CFR part 325, appendix B, for guidance on predecision referrals affecting regulatory permit actions.

@@ -1,0 +1,7 @@
+##### § 866.3990 Gastrointestinal microorganism multiplex nucleic acid-based assay. #####
+
+(a) *Identification.* A gastrointestinal microorganism multiplex nucleic acid-based assay is a qualitative *in vitro* diagnostic device intended to simultaneously detect and identify multiple gastrointestinal microbial nucleic acids extracted from human stool specimens. The device detects specific nucleic acid sequences for organism identification as well as for determining the presence of toxin genes. The detection and identification of a specific gastrointestinal microbial nucleic acid from individuals exhibiting signs and symptoms of gastrointestinal infection aids in the diagnosis of gastrointestinal infection when used in conjunction with clinical evaluation and other laboratory findings. A gastrointestinal microorganism multiplex nucleic acid-based assay also aids in the detection and identification of acute gastroenteritis in the context of outbreaks.
+
+(b) *Classification.* Class II (special controls). The special controls are set forth in FDA's guideline document entitled: “Class II Special Controls Guideline: Gastrointestinal Microorganism Multiplex Nucleic Acid-Based Assays for Detection and Identification of Microorganisms and Toxin Genes from Human Stool Specimens.” For availability of the guideline document, see § 866.1(e).
+
+[80 FR 67314, Nov. 2, 2015]

@@ -1,0 +1,5 @@
+##### § 25.295 Record of unsalable beer. #####
+
+A brewer having unsalable beer in packages or tanks in the brewery may destroy, recondition, or use the beer as material. The brewer shall report the quantity of the beer destroyed, reconditioned, or used as materials, in daily records and on Form 5130.9. If the unsalable beer consists of rejects from the packaging operations, the beer may be destroyed without being included in the packaging production records, and, when so destroyed, will be so reported in the brewer's daily records and on Form 5130.9. When reject bottled beer is to be consumed at the brewery or sold to brewery employees, or is cased or otherwise accumulated pending other disposition, the quantity will be included in the packaging production and be so reported in the brewer's daily records and on Form 5130.9.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1389 as amended, 1390, as amended, 1395 as amended (26 U.S.C. 5411, 5415, 5555))

@@ -1,0 +1,7 @@
+##### § 139.165 Enriched vegetable noodle products. #####
+
+(a) Each of the noodle products for which a definition and standard of identity is prescribed by this section conforms to the definition and standard of identity and is subject to the requirements for label declaration of ingredients prescribed for noodle products by § 139.150 (a), (g), (h), and (i), and in addition is enriched to meet the requirements prescribed for enriched noodle products by § 139.155 and, except as hereinafter provided, contains a vegetable ingredient in compliance with the requirements prescribed for vegetable noodle products by § 139.160. Because they are apt to impart an egg-yolk color, carrots are not used in enriched vegetable noodle products.
+
+(b) The name of each food for which a definition and standard of identity is prescribed by this section is “Enriched \_\_\_\_\_\_ noodle product”, “Enriched \_\_\_\_\_\_ egg noodle product”, or, alternatively, the name is “Enriched \_\_\_\_\_\_ noodles”, or “Enriched \_\_\_\_\_\_ egg noodles”, “Enriched \_\_\_\_\_\_ egg macaroni”, “Enriched \_\_\_\_\_\_ egg spaghetti”, or “Enriched \_\_\_\_\_\_ egg vermicelli”, when the units comply with the size and shape requirements for noodles, macaroni, spaghetti, or vermicelli in § 139.150 (b), (c), (d), or (e). The blank in each instance is filled in with the name of the vegetable used, as specified in § 139.160(a).
+
+[42 FR 14409, Mar. 15, 1977, as amended at 58 FR 2879, Jan. 6, 1993]

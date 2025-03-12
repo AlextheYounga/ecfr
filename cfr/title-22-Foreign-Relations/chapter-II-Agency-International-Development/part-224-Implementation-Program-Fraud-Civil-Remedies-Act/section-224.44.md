@@ -1,0 +1,3 @@
+##### § 224.44 Right to administrative offset. #####
+
+The amount of any penalty or assessment which has become final, or for which a judgment has been entered under § 224.42 or § 224.43, or any amount agreed upon in a compromise or settlement under § 224.46, may be collected by administrative offset under 31 U.S.C. 3716, except that an administrative offset may not be made under the subsection against a refund of an overpayment of Federal taxes, then or later owning by the United States to the defendant.

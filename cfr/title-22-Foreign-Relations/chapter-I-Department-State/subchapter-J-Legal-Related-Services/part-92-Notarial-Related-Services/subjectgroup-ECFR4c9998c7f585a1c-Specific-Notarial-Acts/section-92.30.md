@@ -1,0 +1,3 @@
+##### § 92.30 Acknowledgment defined. #####
+
+An acknowledgment is a proceeding by which a person who has executed an instrument goes before a competent officer or court and declares it to be his act and deed to entitle it to be recorded or to be received in evidence without further proof of execution. An acknowledgment is almost never made under oath and should not be confused with an oath (see § 92.18(a) for definition of oath). Moreover, an acknowledgment is not the same as an attestation, the latter being the act of witnessing the execution of an instrument and then signing it as a witness. Instruments requiring acknowledgment generally are those relating to land, such as deeds, mortgages, leases, contracts for the sale of land, and so on.

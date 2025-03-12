@@ -1,0 +1,5 @@
+##### § 200.26a Office of Information Technology. #####
+
+The Office of Information Technology is responsible for the analysis, design programming, operation, and maintenance of all ADP systems; developing and implementing long-range ADP plans and programs; coordinating all ADP and systems analysis activities being considered or carried out by other divisions and offices, and furnishing such organizations with appropriate assistance and support; providing technical advice to the staff in connection with development of Commission rules and regulations having ADP implications; facilitating the Commission's surveillance of ADP in the securities industry; evaluating and recommending new information processing concepts and capabilities for application within the Commission; and, development of microcomputer and office automation capabilities and support within the Commission.
+
+(15 U.S.C. 78d-1, 78d-2; 11 U.S.C. 901, 1109(a))[43 FR 13377, Mar. 30, 1978, as amended at 49 FR 12685, Mar. 30, 1984; 60 FR 14627, Mar. 20, 1995]

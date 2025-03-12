@@ -1,0 +1,11 @@
+##### § 203.83 Additional requirements. #####
+
+(a) *Maintenance deficiencies.* Rehabilitation, Emergency Water, Post Flood Response, and Advance Measures authorities may not be used to correct deferred or deficient maintenance. Such correction must be accomplished by, or at the expense of, local interests. This may include restoring normal levee or dune height after subsidence, replacement of deteriorated components such as outlet structures and pipes, removal of debris, and new construction items such as protection against erosion. This restriction on use of these authorities does not preclude furnishing flood fight assistance during an emergency.
+
+(b) *Areas of minor damage, flood control works.* Separable areas with minor damage will be included in the maintenance program of local interests.
+
+(c) *Minor completion items.* Local interests should be responsible for minor completion items, such as dressing fills, placing sod, or seeding completed work.
+
+(d) *Adequacy of requirements of local cooperation.* In determining the adequacy of the pledge of local cooperation, district/division commanders must consider the local sponsor's performance capability, taking into account any shortcomings in meeting prior commitments. Local sponsors should make provisions to establish and provide resources for a “Contingency Fund” to meet future maintenance requirements if apparent inadequacies of protective works indicate maintenance costs will be unusually high. Local sponsors should make provisions to establish and provide resources for a “Capital Improvement Fund” to meet future costs of capital improvement projects such as replacement of culverts in levees, pump station equipment, etc.
+
+(e) *Eligibility under other Federal programs.* The Cooperation Agreement must be worded to allow local interests to accept funding from other Federal programs for meeting the local responsibility. For example, removal of temporary works will be without cost under Corps Public Law 84-99 assistance, but will not be “at no cost to the United States.” Use of another Federal agency's funds is contingent upon that agency providing the Corps written assurance that such usage does not violate any existing laws or rules concerning the usage or expenditure of such funds.

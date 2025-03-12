@@ -1,0 +1,5 @@
+##### § 40.474 Remission. #####
+
+Remission of the tax liability on cigarette papers and tubes may be extended to the manufacturer liable for the tax where cigarette papers and tubes in bond are lost (other than by theft) or destroyed, by fire, casualty, or act of God, while in the possession or ownership of such manufacturer. Where cigarette papers and tubes are so lost or destroyed the manufacturer shall report promptly such fact, and the circumstances, to the appropriate TTB officer. If the manufacturer wishes to be relieved of the tax liability, a claim on TTB F 5620.8, in duplicate, shall also be prepared, setting forth the nature, date, place, and extent of the loss or destruction. The original and one copy of the claim, accompanied by such evidence as is necessary to establish to the satisfaction of the appropriate TTB officer that the claim is valid, shall be filed with the appropriate TTB officer. Upon action on the claim by the appropriate TTB officer, the copy of TTB F 5620.8 will be returned to the manufacturer as notice of such action, which copy shall be retained by the manufacturer.
+
+(72 Stat. 1419, as amended, 26 U.S.C. 5707)Lost or Destroyed

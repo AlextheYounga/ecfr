@@ -1,0 +1,9 @@
+##### § 33.6 Fees. #####
+
+(a) *General.* Fees provide for administrative costs and payment of claims. Fees are set annually on the basis of past and anticipated claim experience. The annual agreement year for which fees are payable starts on October 1 and ends on September 30 of the following year.
+
+(b) *Amount and payment.* The amount of each annual fee or adjusted fee will be established by the Office Director of the Office of Marine Conservation, Bureau of Oceans and International Environmental and Scientific Affairs, by publication of a notice in the Federal Register. Each notice will establish the amount of the fee, when the fee is due, when the fee is payable, and any special conditions surrounding extension of prior agreements or execution of new agreements. Unless otherwise specified in such notices, agreement coverage will commence with the postmarked date of the fee payment and application.
+
+(c) *Adjustment and refund.* Fees may be adjusted at any time to reflect actual seizure and detention experience for which claims are anticipated. Failure to submit adjusted fees will result in agreement termination as of the date the adjusted fee is payable. No fees will be refunded after an agreement is executed by the Secretary.
+
+(d) *Disposition.* All fees will be deposited in the Fishermen's Guaranty Fund. They will remain available without fiscal year limitation to carry out section 7 of the Act. Claims will be paid from fees and from appropriated funds, if any. Fees not required to pay administrative costs or claims may be invested in U.S. obligations. All earnings will be credited to the Fishermen's Guaranty Fund.

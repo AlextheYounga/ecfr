@@ -1,0 +1,7 @@
+##### § 26.39 Equivalence assessment. #####
+
+(a) In the final 6 months of the transition period, the parties shall proceed to a joint assessment of the equivalence of the conformity assessment bodies (CAB's) that participated in the confidence building activities. CAB's will be determined to be equivalent provided they have demonstrated proficiency through the submission of a sufficient number of adequate reports. CAB's may be determined to be equivalent with regard to the ability to perform any type of quality system or product evaluation covered by this subpart and with regard to any type of product covered by this subpart. The parties shall develop a list contained in appendix E of this subpart of CAB's determined to be equivalent, which shall contain a full explanation of the scope of the equivalency determination, including any appropriate limitations, with regard to performing any type of quality system or product evaluation.
+
+(b) The parties shall allow CAB's not listed for participation in this subpart, or listed for participation only as to certain types of evaluations, to apply for participation in this subpart once the necessary measures have been taken or sufficient experience has been gained, in accordance with § 26.46.
+
+(c) Decisions concerning the equivalence of CAB's must be agreed to by both parties.

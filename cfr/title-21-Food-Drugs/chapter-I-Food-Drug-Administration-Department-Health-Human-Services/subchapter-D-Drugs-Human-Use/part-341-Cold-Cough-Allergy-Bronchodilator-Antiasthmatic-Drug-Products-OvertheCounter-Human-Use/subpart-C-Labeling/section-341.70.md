@@ -1,0 +1,11 @@
+##### § 341.70 Labeling of OTC drug products containing ingredients that are used for treating concurrent symptoms (in either a single-ingredient or combination drug product). #####
+
+The statements of identity, indications, warnings, and directions for use, respectively, applicable to each ingredient in the product may be combined to eliminate duplicative words or phrases so that the resulting information is clear and understandable.
+
+(a) *For products containing diphenhydramine citrate and diphenhydramine hydrochloride identified in § 341.14(a)(5) and (a)(6).* The labeling of the product contains the established name of the drug, if any, and identifies the product as an “antihistamine/cough suppressant” or “antihistamine/antitussive (cough suppressant).” The indications shall be combined from §§ 341.72(b) and 341.74(b). The warnings shall be combined from §§ 341.72(c)(1), (c)(2), (c)(4), and (c)(6) and 341.74(c)(1), (c)(2), (c)(3), and (c)(4). Alternatively, all of the warnings in § 341.74(c) shall be used. The directions for OTC labeling shall follow §§ 341.74(d)(1)(iv) or (d)(1)(v), as applicable. The directions for professional labeling shall follow § 341.90(j) or (k), as applicable.
+
+(b) *For products containing menthol identified in §§ 341.14(b)(2) and 356.12(f) of this chapter.* The product contains 5 to 10 milligrams menthol. The labeling of the product contains the established name of the drug, if any, and identifies the product as a “cough suppressant/oral anesthetic” or “antitussive (cough suppressant)/oral anesthetic.” The indications shall be combined from § 341.74(b) and part 356 of this chapter. The warnings shall be combined from § 341.74(c)(1), (c)(2), and (c)(3) and part 356 of this chapter. The directions shall be: “Directions [in bold type] [bullet]1 adults and children 2 years and over: dissolve lozenge slowly in the mouth. Repeat every 2 hours as needed or as directed by a doctor. [bullet] children under 2 years of age: ask a doctor”.
+
+1 See § 201.66(b)(4) of this chapter for definition of bullet symbol.
+
+[61 FR 15703, Apr. 9, 1996, as amended at 67 FR 78170, Dec. 23, 2002; 68 FR 17881, Apr. 14, 2003]

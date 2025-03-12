@@ -1,0 +1,5 @@
+##### § 71.70 Application proceedings. #####
+
+At any time prior to final action thereon the applicant may, by filing written notice with the appropriate TTB officer, withdraw his application. If such a notice is filed after referral to the administrative law judge of a proceeding on an application for a permit and prior to issuance of his recommended decision or decision thereon, the appropriate TTB officer shall move the administrative law judge to dismiss the proceedings as moot. If such a notice is filed while the proceeding is before the appropriate TTB officer and prior to final action thereon, that is, either (a) after issuance of a notice of contemplated disapproval and before referral of the proceeding to the administrative law judge or (b) after issuance by the administrative law judge of his recommended decision and prior to the appropriate TTB officer's order disapproving the application, the appropriate TTB officer shall, by order, dismiss the proceeding.
+
+[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-199, 50 FR 9197, Mar. 6, 1985; T.D. ATF-374, 61 FR 29957, June 13, 1996]

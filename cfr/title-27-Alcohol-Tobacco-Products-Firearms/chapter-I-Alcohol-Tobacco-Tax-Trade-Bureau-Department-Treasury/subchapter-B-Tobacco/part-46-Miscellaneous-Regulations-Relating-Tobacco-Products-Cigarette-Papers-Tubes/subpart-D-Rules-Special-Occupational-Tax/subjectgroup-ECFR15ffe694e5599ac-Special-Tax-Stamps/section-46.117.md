@@ -1,0 +1,3 @@
+##### § 46.117 Lost or destroyed stamps. #####
+
+If a special tax stamp has been lost or destroyed, the taxpayer must immediately notify the TTB officer who issued the stamp. A “Certificate in Lieu of Lost or Destroyed Special Tax Stamp” will be issued to the taxpayer who submits an affidavit explaining to the satisfaction of the appropriate TTB officer that the stamp was lost or destroyed. The certificate must be kept available for inspection in the same manner as prescribed for a special tax stamp in § 46.116(c).

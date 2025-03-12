@@ -1,0 +1,7 @@
+##### § 128.11 Consent agreements. #####
+
+(a) The Directorate of Defense Trade Controls and the respondent may, by agreement, submit to the Administrative Law Judge a proposal for the issuance of a consent order. The Administrative Law Judge will review the facts of the case and the proposal and may conduct conferences with the parties and may require the presentation of evidence in the case. If the Administrative Law Judge does not approve the proposal, the Administrative Law Judge will notify the parties and the case will proceed as though no consent proposal had been made. If the proposal is approved, the Administrative Law Judge will report the facts of the case along with recommendations to the Assistant Secretary of State for Political-Military Affairs. If the Assistant Secretary of State for Political-Military Affairs does not approve the proposal, the case will proceed as though no consent proposal had been made. If the Assistant Secretary of State for Political-Military Affairs approves the proposal, an appropriate order may be issued.
+
+(b) Cases may also be settled prior to service of a charging letter. In such an event, a proposed charging letter shall be prepared, and a consent agreement and order shall be submitted for the approval and signature of the Assistant Secretary for Political-Military Affairs, and no action by the Administrative Law Judge shall be required. Cases which are settled may not be reopened or appealed.
+
+[61 FR 48833, Sept. 17, 1996, as amended at 71 FR 20552, Apr. 21, 2006]

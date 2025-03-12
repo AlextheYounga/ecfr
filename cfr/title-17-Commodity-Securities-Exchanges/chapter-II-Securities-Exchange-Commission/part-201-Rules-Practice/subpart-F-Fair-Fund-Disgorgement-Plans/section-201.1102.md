@@ -1,0 +1,5 @@
+##### § 201.1102 Provisions for payment. #####
+
+(a) *Payment to registry of the court or court-appointed receiver.* Subject to such conditions as the Commission or the hearing officer shall deem appropriate, a plan for the administration of a Fair Fund or a disgorgement fund may provide for payment of funds into a court registry or to a court-appointed receiver in any case pending in federal or state court against a respondent or any other person based upon a complaint alleging violations arising from the same or substantially similar facts as those alleged in the Commission's order instituting proceedings.
+
+(b) *Payment to the United States Treasury under certain circumstances.* When, in the opinion of the Commission or the hearing officer, the cost of administering a plan of disgorgement relative to the value of the available disgorgement funds and the number of potential claimants would not justify distribution of the disgorgement funds to injured investors, the plan may provide that the disgorgement funds and any civil penalty shall be paid directly to the general fund of the United States Treasury.

@@ -1,0 +1,3 @@
+##### § 1230.2 Scope of the act. #####
+
+The provisions of the act apply to any container which has been shipped or delivered for shipment in interstate or foreign commerce, as defined in section 2(c) of the act (44 Stat. 1407; 15 U.S.C. 402) or which has been received from shipment in such commerce for sale or exchange, or which is sold or offered for sale or held for sale or exchange in any Territory or possession or in the District of Columbia.

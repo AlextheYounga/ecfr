@@ -1,0 +1,7 @@
+##### § 862.1505 Mucopolysaccharides (nonquantitative) test system. #####
+
+(a) *Identification.* A mucopolysaccharides (nonquantitative) test system is a device intended to measure the levels of mucopolysaccharides in urine. Mucopolysaccharide measurements in urine are used in the diagnosis and treatment of various inheritable disorders that affect bone and connective tissues, such as Hurler's, Hunter's, Sanfilippo's, Scheie's Morquio's and Maroteaux-Lamy syndromes.
+
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to § 862.9.
+
+[52 FR 16122, May 1, 1987, as amended at 65 FR 2307, Jan. 14, 2000]

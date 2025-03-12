@@ -1,0 +1,3 @@
+##### § 200.7 Supplying pharmacists with indications and dosage information. #####
+
+There are presently no regulations under the Federal Food, Drug, and Cosmetic Act that prevent a manufacturer of prescription drugs from sending the pharmacist data he needs on indications and dosage in exercising his important professional function of checking against possible mistakes in a prescription. The Food and Drug Administration believes manufacturers should be encouraged to supply such printed matter to the pharmacist for his professional information. Obviously, such printed matter should not be displayed to prospective purchasers to promote over-the-counter sale of prescription drugs.

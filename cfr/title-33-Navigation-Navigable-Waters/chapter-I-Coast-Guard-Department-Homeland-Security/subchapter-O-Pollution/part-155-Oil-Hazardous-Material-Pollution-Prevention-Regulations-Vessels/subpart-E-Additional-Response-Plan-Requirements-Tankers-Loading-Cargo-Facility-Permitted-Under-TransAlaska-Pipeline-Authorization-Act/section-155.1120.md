@@ -1,0 +1,3 @@
+##### § 155.1120 Operating restrictions and interim operating authorization. #####
+
+The owner or operator of a tanker to which this subpart applies may not load cargo at a facility permitted under the Trans-Alaska Pipeline Authorization Act unless the requirements of this subpart and § 155.1025 have been met. The owner or operator of such a tanker shall certify to the Coast Guard that they have provided, through an oil spill removal organization required by § 155.1125, the necessary response resources to remove, to the maximum extent practicable, a worst case discharge or a discharge of 200,000 barrels of oil, whichever is greater, in Prince William Sound, AK.

@@ -1,0 +1,3 @@
+##### § 212.2 What is current good manufacturing practice for PET drugs? #####
+
+Current good manufacturing practice for PET drugs is the minimum requirements for the methods to be used in, and the facilities and controls used for, the production, quality assurance, holding, or distribution of PET drugs intended for human use. Current good manufacturing practice is intended to ensure that each PET drug meets the requirements of the act as to safety and has the identity and strength, and meets the quality and purity characteristics, that it is supposed to have.

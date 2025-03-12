@@ -1,0 +1,3 @@
+##### § 288.3 Reports with respect to proposed distribution of primary obligations. #####
+
+The Bank shall file with the Commission, on or prior to the date on which it sells any of its primary obligations in connection with a distribution of such obligations in the United States, a report containing the information and documents specified in Schedule A (17 CFR 288.101). The term “sell' as used in this section and in Schedule A means the making of a completed sale or a firm commitment to sell.

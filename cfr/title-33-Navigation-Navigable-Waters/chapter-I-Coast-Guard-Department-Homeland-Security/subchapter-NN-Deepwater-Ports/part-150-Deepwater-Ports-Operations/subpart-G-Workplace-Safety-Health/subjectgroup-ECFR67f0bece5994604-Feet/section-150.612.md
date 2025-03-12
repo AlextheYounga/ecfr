@@ -1,0 +1,3 @@
+##### § 150.612 What footwear is required? #####
+
+The deepwater port operator must ensure that while personnel are working in an area, or engaged in activities, where there is a reasonable probability for foot injury to occur, they wear footwear that complies with 29 CFR 1910.136, except for when environmental conditions exist that present a hazard greater than that against which the footwear is designed to protect.

@@ -1,0 +1,5 @@
+##### § 24.87 Essences made elsewhere. #####
+
+Before an essence not made on wine premises may be used in the production of formula wine, the manufacturer of the essence shall obtain approval from the appropriate TTB officer. The request for approval will identify the essence by name or number and by the name of the manufacturer, and a sample of at least four fluid ounces of the essence will be submitted. However, a request for approval and submission of a sample is not required if the essence is made pursuant to approval of a formula on TTB F 5530.5, Formula and Process for Nonbeverage Product. Essences made under an approved formula on TTB F 5530.5 will be described on TTB F 5120.29 by showing the name of the manufacturer, the manufacturer's nonbeverage drawback formula number, and the date of approval by the appropriate TTB officer.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1386, as amended (26 U.S.C. 5386))(Approved by the Office of Management and Budget under control number 1512-0059)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, Mar. 22, 1999]

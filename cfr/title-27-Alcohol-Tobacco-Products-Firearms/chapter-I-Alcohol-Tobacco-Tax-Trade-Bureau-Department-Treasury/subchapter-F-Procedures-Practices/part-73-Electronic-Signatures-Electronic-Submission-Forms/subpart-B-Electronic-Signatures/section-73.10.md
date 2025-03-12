@@ -1,0 +1,3 @@
+##### § 73.10 What does subpart B cover? #####
+
+This subpart provides the conditions under which TTB will allow you to use electronic signatures executed to electronic forms instead of traditional handwritten signatures executed on paper forms. Where electronic signatures and their associated electronic forms meet the requirements of this part, TTB will consider the electronic signatures to be the equivalent of full handwritten signatures, initials, and other general signings this chapter requires.

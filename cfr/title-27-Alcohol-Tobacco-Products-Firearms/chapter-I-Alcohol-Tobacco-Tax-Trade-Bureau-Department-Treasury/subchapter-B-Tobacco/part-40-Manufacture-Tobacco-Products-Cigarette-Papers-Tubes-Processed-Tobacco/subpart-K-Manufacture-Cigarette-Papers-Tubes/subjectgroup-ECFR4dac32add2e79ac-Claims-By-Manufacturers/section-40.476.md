@@ -1,0 +1,5 @@
+##### § 40.476 Action by claimant. #####
+
+Where cigarette papers and tubes are withdrawn from the market and the manufacturer desires to file claim under the provisions of § 40.472 or § 40.473, the manufacturer shall assemble the articles in or adjacent to a factory if they are to be retained in or received into such factory, or at any suitable place if they are to be destroyed. The manufacturer shall group the articles according to the rate of tax applicable thereto, and shall prepare and submit a schedule of the articles, on TTB Form 5200.7 in accordance with the instructions, on the form. All copies of the schedule shall be forwarded to the appropriate TTB officer.
+
+(72 Stat. 1419; 26 U.S.C. 5705)[T.D. ATF-384, 61 FR 54085, Oct. 17, 1996, as amended by T.D. ATF-424, 64 FR 71932, Dec. 22, 1999]

@@ -1,0 +1,3 @@
+##### § 90.3 Pushing vessel and vessel being pushed: Composite unit. #####
+
+Rule 24(b) of the Inland Rules states that when a pushing vessel and a vessel being pushed ahead are rigidly connected in a composite unit, they are regarded as a power-driven vessel and must exhibit the lights prescribed in Rule 23. A “composite unit” is interpreted to be the combination of a pushing vessel and a vessel being push ahead that are rigidly connected by mechanical means so they react to sea and swell as one vessel. Mechanical means does not include lines, wires, hawsers, or chains.

@@ -1,0 +1,11 @@
+##### § 275.206(3)-1 Exemption of investment advisers registered as broker-dealers in connection with the provision of certain investment advisory services. #####
+
+(a) An investment adviser which is a broker or dealer registered pursuant to section 15 of the Securities Exchange Act of 1934 shall be exempt from section 206(3) in connection with any transaction in relation to which such broker or dealer is acting as an investment adviser solely (1) by means of publicly distributed written materials or publicly made oral statements; (2) by means of written materials or oral statements which do not purport to meet the objectives or needs of specific individuals or accounts; (3) through the issuance of statistical information containing no expressions of opinion as to the investment merits of a particular security; or (4) any combination of the foregoing services: *Provided, however,* That such materials and oral statements include a statement that if the purchaser of the advisory communication uses the services of the adviser in connection with a sale or purchase of a security which is a subject of such communication, the adviser may act as principal for its own account or as agent for another person.
+
+(b) For the purpose of this Rule, publicly distributed written materials are those which are distributed to 35 or more persons who pay for such materials, and publicly made oral statements are those made simultaneously to 35 or more persons who pay for access to such statements.
+
+Note:
+
+The requirement that the investment adviser disclose that it may act as principal or agent for another person in the sale or purchase of a security that is the subject of investment advice does not relieve the investment adviser of any disclosure obligation which, depending upon the nature of the relationship between the investment adviser and the client, may be imposed by subparagraphs (1) or (2) of section 206 or the other provisions of the federal securities laws.
+
+[40 FR 38159, Aug. 27, 1975]

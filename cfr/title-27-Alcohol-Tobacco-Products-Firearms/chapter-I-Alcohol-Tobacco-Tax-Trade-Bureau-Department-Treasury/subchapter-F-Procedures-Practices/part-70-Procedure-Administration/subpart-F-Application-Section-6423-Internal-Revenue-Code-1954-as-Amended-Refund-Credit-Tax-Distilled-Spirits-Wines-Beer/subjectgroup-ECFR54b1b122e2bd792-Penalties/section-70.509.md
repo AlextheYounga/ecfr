@@ -1,0 +1,3 @@
+##### § 70.509 Penalties. #####
+
+It is an offense punishable by fine and imprisonment for anyone to make or cause to be made any false or fraudulent claim upon the United States, or to make any false or fraudulent statements, or representations, in support of any claim, or to falsely or fraudulently execute any documents required by the provisions of the internal revenue laws, or any regulations made in pursuance thereof.

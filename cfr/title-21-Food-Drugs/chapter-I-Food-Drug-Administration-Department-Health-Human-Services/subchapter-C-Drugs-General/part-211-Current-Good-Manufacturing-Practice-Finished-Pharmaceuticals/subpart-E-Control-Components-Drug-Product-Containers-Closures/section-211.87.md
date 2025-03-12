@@ -1,0 +1,3 @@
+##### § 211.87 Retesting of approved components, drug product containers, and closures. #####
+
+Components, drug product containers, and closures shall be retested or reexamined, as appropriate, for identity, strength, quality, and purity and approved or rejected by the quality control unit in accordance with § 211.84 as necessary, e.g., after storage for long periods or after exposure to air, heat or other conditions that might adversely affect the component, drug product container, or closure.

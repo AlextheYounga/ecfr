@@ -1,0 +1,3 @@
+##### § 232.15 Notice. #####
+
+Any communication to USAID pursuant to this Guarantee shall be in writing in the English language, shall refer to the Republic of Tunisia Loan Guarantee Number inscribed on the Eligible Note and shall be complete on the day it shall be actually received by USAID at the Office of Development Credit, Bureau for Economic Growth, Agriculture and Trade, United States Agency for International Development, Washington, DC 20523-0030. Other addresses may be substituted for the above upon the giving of notice of such substitution to each Noteholder by first class mail at the address set forth in the Note Register.

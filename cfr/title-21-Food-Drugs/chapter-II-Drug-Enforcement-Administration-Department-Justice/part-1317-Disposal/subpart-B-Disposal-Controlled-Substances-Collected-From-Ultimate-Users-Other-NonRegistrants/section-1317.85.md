@@ -1,0 +1,5 @@
+##### § 1317.85 Ultimate user delivery for the purpose of recall or investigational use of drugs. #####
+
+(a) In the event of a product recall, an ultimate user in lawful possession of a controlled substance listed in Schedule II, III, IV, or V may deliver the recalled substance to the manufacturer of the substance or another registrant authorized by the manufacturer to accept recalled controlled substances on the manufacturer's behalf.
+
+(b) An ultimate user who is participating in an investigational use of drugs pursuant to 21 U.S.C. 355(i) and 360b(j) and wishes to deliver any unused controlled substances received as part of that research to the registered dispenser from which the ultimate user obtained those substances may do so in accordance with regulations promulgated by the Secretary of Health and Human Services pursuant to 21 U.S.C. 355(i) and 360b(j).

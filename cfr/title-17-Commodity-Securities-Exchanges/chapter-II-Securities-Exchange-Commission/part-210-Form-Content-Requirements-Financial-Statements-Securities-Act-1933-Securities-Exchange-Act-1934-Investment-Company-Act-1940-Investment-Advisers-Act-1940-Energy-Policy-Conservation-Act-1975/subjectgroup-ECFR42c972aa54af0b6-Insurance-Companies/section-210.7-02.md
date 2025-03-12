@@ -1,0 +1,5 @@
+##### § 210.7-02 General requirement. #####
+
+(a) The requirements of the general rules in §§ 210.1-01 to 210.4-10 (Articles 1, 2, 3, 3A and 4) shall be applicable except where they differ from requirements of §§ 210.7-01 to 210.7-05.
+
+(b) Financial statements filed for mutual life insurance companies and wholly owned stock insurance company subsidiaries of mutual life insurance companies may be prepared in accordance with statutory accounting requirements. Financial statements prepared in accordance with statutory accounting requirements may be condensed as appropriate, but the amounts to be reported for net gain from operations (or net income or loss) and total capital and surplus (or surplus as regards policyholders) shall be the same as those reported on the corresponding Annual Statement.

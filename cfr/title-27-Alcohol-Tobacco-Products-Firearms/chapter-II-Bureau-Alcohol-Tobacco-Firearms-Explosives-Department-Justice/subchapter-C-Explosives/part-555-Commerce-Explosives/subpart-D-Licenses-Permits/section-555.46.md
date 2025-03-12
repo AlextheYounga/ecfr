@@ -1,0 +1,7 @@
+##### § 555.46 Renewal of license or permit. #####
+
+(a) If a licensee or permittee intends to continue the business or operation described on a license or permit issued under this part after the expiration date of the license or permit, he shall, unless otherwise notified in writing by the Chief, Federal Explosives Licensing Center, execute and file prior to the expiration of his license or permit an application for license renewal, ATF F 5400.14 (Part III), or an application for permit renewal, ATF F 5400.15 (Part III), accompanied by the required fee, with ATF in accordance with the instructions on the form. In the event the licensee or permittee does not timely file a renewal application, he shall file an original application as required by § 555.45, and obtain the required license or permit in order to continue business or operations.
+
+(b) A user-limited permit is not renewable and is valid for a single purchase transaction. Applications for all user-limited permits must be filed on ATF F 5400.16 or ATF F 5400.21, as required by § 555.45.
+
+(18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226))[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-200, 50 FR 10497, Mar. 15, 1985; T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; T.D. ATF-400, 63 FR 45002, Aug. 24, 1998; T.D. ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]

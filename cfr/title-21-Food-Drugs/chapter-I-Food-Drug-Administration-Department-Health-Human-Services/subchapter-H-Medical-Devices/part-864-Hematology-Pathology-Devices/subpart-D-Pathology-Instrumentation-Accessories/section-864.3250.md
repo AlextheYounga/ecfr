@@ -1,0 +1,7 @@
+##### § 864.3250 Specimen transport and storage container. #####
+
+(a) *Identification.* A specimen transport and storage container, which may be empty or prefilled, is a device intended to contain biological specimens, body waste, or body exudate during storage and transport in order that the matter contained therein can be destroyed or used effectively for diagnostic examination. If prefilled, the device contains a fixative solution or other general purpose reagent to preserve the condition of a biological specimen added to the container. This section does not apply to specimen transport and storage containers that are intended for use as part of an over-the-counter test sample collection system for drugs of abuse testing.
+
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to § 864.9. If the device is not labeled or otherwise represented as sterile, it is exempt from the current good manufacturing practice requirements of the quality system regulation in part 820 of this chapter, with the exception of § 820.180 of this chapter, with respect to general requirements concerning records, and § 820.198 of this chapter, with respect to complaint files.
+
+[54 FR 47206, Nov. 13, 1989, as amended at 65 FR 2310, Jan. 14, 2000; 65 FR 18234, Apr. 7, 2000]

@@ -1,0 +1,3 @@
+##### § 1313.51 Hearings generally. #####
+
+In any case where a regulated person requests a hearing regarding the suspension of a shipment of a listed chemical, the procedures for such hearing shall be governed generally by the procedures set forth in the Administrative Procedure Act (5 U.S.C. 551-559) and specifically by section 6053 of the Chemical Diversion and Trafficking Act (Pub. L. 100-690), by 21 CFR 1313.52-1313.57, and by the procedures for administrative hearings under the Controlled Substances Act set forth in §§ 1316.41-1316.67 of this chapter.

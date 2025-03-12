@@ -1,0 +1,7 @@
+##### § 17.18 Interlocutory appeal from ruling of presiding officer. #####
+
+(a) Except as provided in paragraph (b) of this section, rulings of the presiding officer may not be appealed before consideration on appeal of the entire record of the hearing.
+
+(b) A ruling of the presiding officer is subject to interlocutory appeal to the entity deciding the appeal (currently the DAB) if the presiding officer certifies on the record or in writing that immediate review is necessary to prevent exceptional delay, expense, or prejudice to any participant, or substantial harm to the public interest.
+
+(c) When an interlocutory appeal is made, a participant may file a brief on the appeal only if specifically authorized by the presiding officer or the entity deciding the appeal (currently the DAB), and if such authorization is granted, only within the period allowed by the presiding officer or the entity deciding the appeal. If a participant is authorized to file a brief, any other participant may file a brief in opposition, within the period allowed by the entity deciding the appeal (currently the DAB). The deadline for filing an interlocutory appeal is subject to the discretion of the presiding officer.

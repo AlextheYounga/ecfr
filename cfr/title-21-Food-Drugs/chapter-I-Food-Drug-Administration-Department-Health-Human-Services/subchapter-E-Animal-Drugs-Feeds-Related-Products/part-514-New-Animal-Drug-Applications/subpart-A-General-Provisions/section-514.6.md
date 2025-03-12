@@ -1,0 +1,3 @@
+##### § 514.6 Amended applications. #####
+
+The applicant may submit an amendment to an application that is pending, including changes that may alter the conditions of use, the labeling, safety, effectiveness, identity, strength, quality, or purity of the drug or the adequacy of the manufacturing methods, facilities, and controls to preserve them, in which case the unamended application may be considered as withdrawn and the amended application may be considered resubmitted on the date on which the amendment is received by the Food and Drug Administration. The applicant will be notified of such date.

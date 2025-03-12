@@ -1,0 +1,19 @@
+##### § 201.23 Procurement under private sector procedures. #####
+
+(a) *General requirements.* Procurements under private sector procedures will normally be carried out by importers using negotiated procurement procedures, unless the importer chooses to follow the procedures in § 201.22. Procurement on a negotiated basis shall be in accordance with good commercial practice. Solicitations by the importer for quotations or offers shall be made uniformly to a reasonable number of prospective suppliers, including, where feasible, producers of a commodity, and all quotations or offers received, whether or not specifically solicited, shall be given consideration before making an award.
+
+(b) *Publicizing.* To provide suppliers in the United States with an opportunity to participate in furnishing commodities which may be purchased on a negotiated basis under USAID financing, USAID will periodically publish for each cooperating country a list of commodities which may be expected to be imported and the names and contact information for the importers which have traditionally purchased those commodities. Interested suppliers may then make offers or furnish quotations on the products they desire to sell directly to the importers of those products. USAID will not publicize specific proposed purchases which are to be undertaken by private sector importers on a negotiated basis unless specifically requested to do so by the importer in accordance with the provisions of paragraph (c) of this section.
+
+(c) *Notification.* If the importer elects to solicit quotations and offers for specific proposed purchases through publication by USAID, USAID will notify prospective suppliers of the export opportunity through the appropriate USAID bulletin. Requests for such notification shall be submitted to the Office of Small and Disadvantaged Business Utilization/Minority Resource Center, USAID, Washington, DC 20523-7700, and shall contain the name and contact information for the importer, a full description of the commodities and any commodity related services required, applicable price and delivery terms and other relevant procurement data, in the English language. The metric system of measurements shall be used for specifications unless USAID determines in writing that such use is impractical or is likely to cause significant inefficiencies or the loss of markets to U.S. firms.
+
+(d) *Notice of quotations and offers received.* USAID may require that the importer furnish an abstract in the English language and identify thereon all offers or quotations received, the offer accepted or order placed, the price, the quantity, the name and address of all persons submitting offers or quotations and of their principals, if any (including manufacturers or processors of the commodity).
+
+(e) *Procurement under special supplier-importer relationships*—(1) Solicitation of offers from more than one supplier is not required if:
+
+(i) The importer is purchasing for resale or processing, as the supplier's regularly authorized distributor or dealer, a commodity which, under the terms of the distributorship or dealer agreement, the importer is precluded from buying from another supplier; or
+
+(ii) The importer is purchasing for resale a registered brand-name commodity from a supplier who is the exclusive distributor of that commodity to the area of the importer.
+
+(2) USAID may require the importer to furnish, or cause to be furnished, to USAID documentary evidence of the existence of the relationships described in paragraph (e)(1) of this section.
+
+[55 FR 34232, Aug. 22, 1990, as amended at 64 FR 17535, Apr. 12, 1999]

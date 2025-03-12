@@ -1,0 +1,15 @@
+##### § 21.3 Definitions. #####
+
+As used in this part:
+
+(a) *Individual* means a natural living person who is a citizen of the United States or an alien lawfully admitted for permanent residence. Individual does not include sole proprietorships, partnerships, or corporations engaged in the production or distribution of products regulated by the Food and Drug Administration or with which the Food and Drug Administration has business dealings. Any such business enterprise that is identified by the name of one or more individuals is not an individual within the meaning of this part. Employees of regulated business enterprises are considered individuals. Accordingly, physicians and other health professionals who are engaged in business as proprietors of establishments regulated by the Food and Drug Administration are not considered individuals; however, physicians and other health professionals who are engaged in clinical investigations, employed by regulated enterprises, or the subjects of records concerning their own health, e.g., exposure to excessive radiation, are considered individuals. Food and Drug Administration employees, consultants, and advisory committee members, State and local officials, and consumers are considered individuals.
+
+(b) *Records about individuals* means items, collections, or groupings of information about individuals contained in Privacy Act Record Systems, including, but not limited to education, financial transactions, medical history, criminal history, or employment history, that contain names or personal identifiers.
+
+(c) *Privacy Act Record System* means a system of records about individuals under the control of the Food and Drug Administration from which information is retrieved by individual names or other personal identifiers. The term includes such a system of records whether subject to a notice published by the Food and Drug Administration, the Department, or another agency. Where records are retrieved only by personal identifiers other than individual names, a system of records is not a Privacy Act Record System if the Food and Drug Administration cannot, by reference to information under its control, or by reference to records of contractors that are subject to this part under § 21.30, ascertain the identity of individuals who are the subjects of the records.
+
+(d) *Personal identifiers* includes individual names, identifying numbers, symbols, or other identifying designations assigned to individuals. *Personal identifiers* does not include names, numbers, symbols, or other identifying designations that identify products, establishments, or actions.
+
+(e) *Personnel records* means any personal information maintained in a Privacy Act Record System that is needed for personnel management programs or processes such as staffing, employee development, retirement, and grievances and appeals.
+
+(f) *Department* means Department of Health and Human Services.

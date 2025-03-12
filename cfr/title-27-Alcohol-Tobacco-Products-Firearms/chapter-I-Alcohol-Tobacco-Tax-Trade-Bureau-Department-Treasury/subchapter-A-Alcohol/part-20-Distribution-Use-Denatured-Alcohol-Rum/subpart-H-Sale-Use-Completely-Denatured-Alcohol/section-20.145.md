@@ -1,0 +1,3 @@
+##### § 20.145 Encased containers. #####
+
+Completely denatured alcohol may be packaged by distributors in unlabeled containers which are completely encased in wood, fiberboard, or similar material so that the surface (including the opening) of the actual container is not exposed. When completely denatured spirits are packaged in unlabeled containers, the distributor shall apply the required marks or label to an exposed surface of the case. The case shall be so constructed that the portion containing the marks will be securely attached to the encased container until all of the contents have been removed. A statement reading “Do Not Remove Inner Container Until Emptied,” or words of similar meaning, shall be placed on the portion of the case bearing the marks.

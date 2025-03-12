@@ -1,0 +1,5 @@
+##### § 1411.2 Delegation of authority. #####
+
+(a) *Foreign Service Labor Relations Board/General Counsel of the Federal Labor Relations Authority.* Regional Directors of the Federal Labor Relations Authority, the Freedom of Information Officer of the Office of the General Counsel, Washington, DC, and the Solicitor of the Federal Labor Relations Authority are delegated the exclusive authority to act upon all requests for information, documents and records which are received from any person or organization under § 1411.4(a).
+
+(b) *Foreign Service Impasse Disputes Panel.* The Executive Director of the Federal Service Impasses Panel is delegated the exclusive authority to act upon all requests for information, documents and records which are received from any person or organization under § 1411.4(b).

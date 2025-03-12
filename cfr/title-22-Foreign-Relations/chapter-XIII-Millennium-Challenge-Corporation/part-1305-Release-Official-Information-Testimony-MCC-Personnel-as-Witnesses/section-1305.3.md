@@ -1,0 +1,3 @@
+##### § 1305.3 Production prohibited unless approved. #####
+
+No employee or former employee shall, in response to a demand of a court or other authority, disclose any information relating to materials contained in the files of MCC, or disclose any information or produce any material acquired as part of the performance of the person's official duties, or because of the person's official status, without the prior, written approval of the General Counsel.

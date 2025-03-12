@@ -1,0 +1,11 @@
+##### § 1002.7 Submission of data and reports. #####
+
+All submissions such as reports, test data, product descriptions, and other information required by this part, or voluntarily submitted to the Director, Center for Devices and Radiological Health, shall be filed with the number of copies as prescribed by the Director, Center for Devices and Radiological Health, and shall be signed by the person making the submission. The submissions required by this part shall be addressed to the Food and Drug Administration, Center for Devices and Radiological Health, ATTN: Electronic Product Reports, Document Mail Center, 10903 New Hampshire Ave., Bldg. 66, rm. G609, Silver Spring, MD 20993-0002.
+
+(a) In addition to the requirements of this part, all material submitted to the Director, Center for Devices and Radiological Health, shall be submitted pursuant to the provisions of part 20—Public Information, of this chapter.
+
+(b) Where guides or instructions have been issued by the Director for the submission of material required by this part, such as test data, product reports, abbreviated reports, supplemental reports, and annual reports, the material submitted shall conform to the applicable reporting guides or instructions. Where it is not feasible or where it would not be appropriate to conform to any portion of a prescribed reporting guide or instruction, an alternate format for providing the information requested by that portion of the guide or instruction may be used provided the submitter of such information submits adequate explanation and justification for use of an alternate format. If the Director, Center for Devices and Radiological Health, determines that such justification is inadequate and that it is feasible or appropriate to conform to the prescribed reporting guide or instruction, he may require resubmission of the information in conformance with the reporting guide or instruction.
+
+(c) Where the submission of quality control and testing information is common to more than one model, or model family of the same product category, a “common aspects report” consolidating similar information may be provided, if applicable.
+
+[42 FR 18062, Apr. 5, 1977, as amended at 53 FR 11254, Apr. 6, 1988; 60 FR 48385, Sept. 19, 1995; 72 FR 17400, Apr. 9, 2007; 75 FR 20916, Apr. 22, 2010]

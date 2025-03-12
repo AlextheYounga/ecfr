@@ -1,0 +1,21 @@
+##### § 201.307 Sodium phosphates; package size limitation, warnings, and directions for over-the-counter sale. #####
+
+(a) Reports in the medical literature and data accumulated by the Food and Drug Administration indicate that multiple container sizes of sodium phosphates oral solution available in the marketplace have caused consumer confusion and appear to have been involved in several consumer deaths. Sodium phosphates oral solution has been marketed in 45-milliliter (mL), 90-mL, and 240-mL container sizes. The 45-mL and 90-mL container sizes of sodium phosphates oral solution are often recommended and prescribed by physicians for bowel cleansing prior to surgery and diagnostic procedures of the colon. Sodium phosphates oral solution (adult dose 20 mL to 45 mL) is also used as an over-the-counter (OTC) laxative for the relief of occasional constipation. Accidental overdosing and deaths have occurred because the 240-mL container was mistakenly used instead of the 45-mL or 90-mL container. The Food and Drug Administration is limiting the amount of sodium phosphates oral solution to not more than 90 mL (3 ounces (oz)) per OTC container because of the serious health risks associated with the ingestion of larger than intended doses of this product. Further, because an overdose of either oral or rectal enema sodium phosphates can cause an electrolyte imbalance, additional warning and direction statements are required for the safe use of any OTC laxative drug product containing sodium phosphates.
+
+(b) Any OTC drug product for laxative or bowel cleansing use containing sodium phosphates as an active ingredient when marketed as described in paragraph (a) of this section is misbranded within the meaning of section 502 of the Federal Food, Drug, and Cosmetic Act unless packaged and labeled as follows:
+
+(1) Package size limitation for sodium phosphates oral solution: Container shall not contain more than 90 mL (3 oz).
+
+(2) Warnings. The following sentences shall appear in boldface type as the first statement under the heading “Warnings.”
+
+(i) Oral dosage forms. “Taking more than the recommended dose in 24 hours can be harmful.”
+
+(ii) Rectal enema dosage forms. “Using more than one enema in 24 hours can be harmful.”
+
+(3) Directions—(i) The labeling of all orally or rectally administered OTC drug products containing sodium phosphates shall contain the following directions in boldface type immediately preceding the dosage information: “Do not” (“take” or “use”) “more unless directed by a doctor. See Warnings.”
+
+(ii) For products containing dibasic sodium phosphate/monobasic sodium phosphate identified in § 334.16(d) marketed as a solution. Adults and children 12 years of age and over: Oral dosage is dibasic sodium phosphate 3.42 to 7.56 grams (g) and monobasic sodium phosphate 9.1 to 20.2 g (20 to 45 mL dibasic sodium phosphate/monobasic sodium phosphate oral solution) as a single daily dose. “Do not take more than 45 mL (9 teaspoonfuls or 3 tablespoonfuls) in a 24-hour period.” Children 10 and 11 years of age: Oral dosage is dibasic sodium phosphate 1.71 to 3.78 g and monobasic sodium phosphate 4.5 to 10.1 g (10 to 20 mL dibasic sodium phosphate/monobasic sodium phosphate oral solution) as a single daily dose. “Do not take more than 20 mL (4 teaspoonfuls) in a 24-hour period.” Children 5 to 9 years of age: Oral dosage is dibasic sodium phosphate 0.86 to 1.89 g and monobasic sodium phosphate 2.2 to 5.05 g (5 to 10 mL dibasic sodium phosphate/monobasic sodium phosphate oral solution) as a single daily dose. “Do not take more than 10 mL (2 teaspoonfuls) in a 24-hour period.” Children under 5 years of age: ask a doctor.
+
+(c) After June 22, 1998, for package size limitation and September 18, 1998, for labeling in accord with paragraph (b) of this section, any such OTC drug product initially introduced or initially delivered for introduction into interstate commerce, or any such drug product that is repackaged or relabeled after these dates regardless of the date the product was manufactured, initially introduced, or initially delivered for introduction into interstate commerce, that is not in compliance with this section is subject to regulatory action.
+
+[63 FR 27843, May 21, 1998]

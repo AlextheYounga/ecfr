@@ -1,0 +1,3 @@
+##### § 170.103 Withdrawal without prejudice of a premarket notification for a food contact substance (FCN). #####
+
+A manufacturer or supplier may withdraw an FCN without prejudice to a future submission to the Food and Drug Administration (FDA) if FDA has not completed review of the FCN. For the purpose of this section, FDA's review is completed when FDA has allowed 120 days to pass without objecting to the FCN or FDA has issued an objection letter.

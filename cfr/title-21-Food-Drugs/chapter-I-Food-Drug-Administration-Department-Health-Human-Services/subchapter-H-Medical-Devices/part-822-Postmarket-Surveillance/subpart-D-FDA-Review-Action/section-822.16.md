@@ -1,0 +1,3 @@
+##### § 822.16 What will you consider in the review of my submission? #####
+
+First, we will determine that the submission is administratively complete. Then, in accordance with the law, we must determine whether the designated person has appropriate qualifications and experience to conduct the surveillance and whether the surveillance plan will result in the collection of useful data that will answer the surveillance question.

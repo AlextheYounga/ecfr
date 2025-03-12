@@ -1,0 +1,5 @@
+##### § 202.8 Refund by suppliers and/or agencies. #####
+
+(a) *By suppliers.* Any supplier of freight to whom freight charges have been financed by AID will promptly refund to AID upon demand the entire amount, or any lesser amount specified, of such freight charges determined by AID to be in excess of the prevailing rate at time of shipment, if any, or the rate paid the supplier for similar services by other customers similarly situated.
+
+(b) *By agencies.* Any agency to which freight charges have been paid or reimbursed under this Regulation will promptly refund to AID upon demand the entire amount, or any lesser amount specified, of inland transportation and/or related shipping costs, (1) whenever AID determines that the reimbursements were improper as being in violation of the provisions of the Foreign Assistance Act of 1961, and relevant appropriation acts, or any rules, regulations, or procedures of AID promulgated under any of these acts, or (2) whenever it is determined by the agency or AID that any of the supplies for which reimbursement was made have not been accorded duty-free status by the recipient country.

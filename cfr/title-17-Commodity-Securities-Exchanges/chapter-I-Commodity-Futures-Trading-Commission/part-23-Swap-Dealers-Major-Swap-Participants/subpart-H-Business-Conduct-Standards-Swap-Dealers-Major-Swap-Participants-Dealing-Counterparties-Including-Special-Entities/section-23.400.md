@@ -1,0 +1,3 @@
+##### § 23.400 Scope. #####
+
+The sections of this subpart shall apply to swap dealers and, unless otherwise indicated, major swap participants. These rules are not intended to limit or restrict the applicability of other provisions of the Act and rules and regulations thereunder, or other applicable laws, rules and regulations. The provisions of this subpart shall apply in connection with transactions in swaps as well as in connection with swaps that are offered but not entered into.

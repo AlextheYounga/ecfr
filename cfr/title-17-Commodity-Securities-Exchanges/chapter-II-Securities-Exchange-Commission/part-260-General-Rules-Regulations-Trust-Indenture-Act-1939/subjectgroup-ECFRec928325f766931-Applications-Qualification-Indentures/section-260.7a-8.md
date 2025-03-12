@@ -1,0 +1,3 @@
+##### § 260.7a-8 Effective date of amendment filed under section 8(a) of the Securities Act pursuant to order of Commission. #####
+
+An amendment made prior to the effective date of the application of qualification shall be deemed to be made pursuant to an order of the Commission within the meaning of section 8(a) of the Securities Act of 1933 so as to be treated as part of the application for qualification only when the Commission shall, after the filing of such amendment, find that it has been filed pursuant to its order.

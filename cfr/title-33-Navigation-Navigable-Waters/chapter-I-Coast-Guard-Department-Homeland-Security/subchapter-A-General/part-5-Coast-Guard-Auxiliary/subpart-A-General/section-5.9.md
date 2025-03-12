@@ -1,0 +1,3 @@
+##### § 5.9 References. #####
+
+Further guidance on Auxiliary missions and activities may be found in Coast Guard directives and publications, including the Auxiliary Manual (Commandant Instruction M16790.1(series)) and the Auxiliary Operations Policy Manual (Commandant Instruction M16798.3(series)). Those directives and publications can be found online at *http://www.uscg.mil/auxiliary/publications/comdtinst/.*

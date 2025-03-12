@@ -1,0 +1,3 @@
+##### § 64.9 Termination of approval. #####
+
+If at any time it appears to the Secretary of State that the purpose of a program which has been approved has been changed so that it no longer meets the criteria of § 516.5 or that the program is being misused, the Secretary of State may terminate such approval, or suspend such approval pending the supplying of additional information. However, a termination or suspension shall not affect a grant which has been made under a previously approved program.

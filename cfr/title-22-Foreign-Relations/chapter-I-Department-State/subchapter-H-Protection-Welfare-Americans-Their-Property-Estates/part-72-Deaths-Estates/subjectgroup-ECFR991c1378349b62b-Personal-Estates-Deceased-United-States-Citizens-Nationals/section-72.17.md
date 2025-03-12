@@ -1,0 +1,3 @@
+##### § 72.17 Final statement of account. #####
+
+The consular officer may have to account directly to the parties in interest and to the courts of law in estate matters. Consequently, the officer must keep an account of receipts and expenditures for the personal estate of the deceased, and must prepare a final statement of account when turning over the estate to the legal representative, a claimant, or the Department.

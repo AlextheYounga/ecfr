@@ -1,0 +1,15 @@
+##### § 48.6 Foreign boards of trade providing direct access pursuant to existing no-action relief. #####
+
+(a) A foreign board of trade operating pursuant to existing no-action relief as of the effective date of this part 48 must register with the Commission pursuant to this part in order to continue to provide direct access to its electronic trading and order matching system from the United States.
+
+(b)(1) The application of a foreign board of trade operating pursuant to existing no-action relief must include a complete Form FBOT and Supplement S-1, as set forth in the appendix to this part. If the foreign board of trade, as part of its application for registration, wishes to rely on information and documentation previously submitted electronically in connection with its request for no-action relief in order to demonstrate that it satisfies the registration requirements set forth in § 48.7, (limited application) the foreign board of trade must:
+
+(i) Specifically identify the information or documentation previously submitted;
+
+(ii) Identify the specific registration requirements set forth in § 48.7 that are satisfied by such information or documentation; and
+
+(iii) Certify that the information remains accurate and current.
+
+(2) If the foreign board of trade wishes to rely on information and documentation previously submitted in hard copy in connection with its application for no-action relief, the foreign board of trade must also resubmit the identified information or documentation. A foreign board of trade that has submitted a complete application for no-action relief that is pending as of February 21, 2012 may also apply for registration pursuant to these limited application procedures.
+
+(c) A foreign board of trade operating pursuant to existing no-action relief must submit a limited application for registration, determined in good faith by the applicant to be complete, within 180 days of February 21, 2012. If, at any time after August 20, 2012 but before a limited application is approved or disapproved, the Commission determines that the application is materially incomplete, the Commission may, after providing the foreign board of trade with notice and an opportunity to respond to the determination of incompleteness, withdraw the existing no-action relief if the Commission determines that the application cannot be made complete in a timely manner. The foreign board of trade may continue to operate pursuant to the existing no-action relief, subject to the terms and conditions contained therein, August 20, 2012, while the Commission is reviewing its application, and until the Commission approves or disapproves the application or otherwise withdraws the existing no-action relief. The no-action relief is automatically withdrawn upon issuance of an Order of Registration or upon disapproval.

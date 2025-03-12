@@ -1,0 +1,5 @@
+##### § 70.484 Offers in compromise of forfeiture liabilities. #####
+
+The appropriate TTB officer is authorized to compromise liabilities to administrative forfeiture of personal property seized under the laws administered and enforced by the Bureau. Persons desiring to submit offers in compromise of such liabilities may submit such offers on Form 656-E to the appropriate TTB officer. When the offer is acted upon, the proponent is notified of the acceptance or rejection of the offer. If the offer is rejected, the sum submitted with the offer in compromise is returned to the proponent. If the offer is accepted, the proponent is notified and the case is closed. Acceptance of an offer in compromise of civil liabilities does not remit criminal liabilities, nor does acceptance of an offer in compromise of criminal liabilities remit civil liabilities.
+
+[T.D. ATF-301, 55 FR 47655, Nov. 14, 1990, as amended by T.D. ATF-450, 66 FR 29030, May 29, 2001]

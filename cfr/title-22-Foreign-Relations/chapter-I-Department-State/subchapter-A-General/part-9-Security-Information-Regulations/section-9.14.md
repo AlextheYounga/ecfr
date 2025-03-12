@@ -1,0 +1,3 @@
+##### § 9.14 Pre-publication review of writings by former Department personnel. #####
+
+The Department provides pre-publication review of writings on foreign relations topics by former Department personnel, including contractors and detailees, who had security clearances to try to ensure that former personnel do not violate their agreements on non-disclosure of classified national security information in such writings. Manuscripts (including articles, speeches, books, etc.) should be sent to the Director, Office of Information Programs and Services, 515 22nd St. NW., Washington, DC 20522-8100. Questions about pre-publication clearance may be sent to *Classification@state.gov.*

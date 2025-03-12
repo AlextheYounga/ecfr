@@ -1,0 +1,5 @@
+##### § 46.104 Method of payment. #####
+
+Payment of special tax must be made in cash, or by check or money order payable to Alcohol and Tobacco Tax and Trade Bureau. If a check or money order so tendered is not honored when presented for payment, the person who tendered the check or money order will remain liable for the payment of the special tax, and for all penalties and additions, to the same extent as if the check or money order had not been tendered. In addition, unless the person who tendered the check or money order can show that the check or money order was issued in good faith, and with reasonable cause to believe that it would be duly paid, there must be paid as penalty an amount equal to 1 percent of the amount of the check or money order, except that if the amount of the check or money order is less than $500, the penalty will be $5, or the amount of the check or money order, whichever is less.
+
+(26 U.S.C. 6311, 6657)

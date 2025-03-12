@@ -1,0 +1,5 @@
+##### § 200.305 Special procedure: Medical records. #####
+
+(a) *Statement of physician or mental health professional.* When an individual requests access to records pertaining to him that include medical and/or psychological information, the Commission, if it deems it necessary under the particular circumstances, may require the individual to submit with the request a signed statement by his physician or a mental health professional indicating that, in their opinion, disclosure of the requested records or information directly to the individual will not have an adverse effect on the individual.
+
+(b) *Designation of physician or mental health professional to receive records.* If the Commission believes, in good faith, that disclosure of medical and/or psychological information directly to an individual could have an adverse effect on that individual, the individual may be asked to designate in writing a physician or mental health professional to whom he would like the records to be disclosed, and disclosure that otherwise would be made to the individual will instead be made to the designated physician or mental health professional.

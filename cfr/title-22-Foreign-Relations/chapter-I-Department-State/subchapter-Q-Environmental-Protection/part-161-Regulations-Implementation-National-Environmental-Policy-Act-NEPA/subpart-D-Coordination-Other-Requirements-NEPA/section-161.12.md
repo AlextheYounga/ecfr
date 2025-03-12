@@ -1,0 +1,3 @@
+##### § 161.12 Environmental effects abroad of major departmental actions. #####
+
+Departmental officials shall analyze actions under their cognizance with due regard for the environmental effects in the global commons and areas outside the jurisdiction of any nation and in foreign jurisdictions. Such analysis shall be prepared in accordance with separate Departmental procedures (Foreign Affairs Manual, Volume 2), dated September 4, 1979 for implementing Executive Order 12114, “Environmental Effects Abroad of Major Federal Actions” (44 FR 1957), dated January 4, 1979.

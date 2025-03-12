@@ -1,0 +1,3 @@
+##### § 92.34 Fastening certificate to instrument. #####
+
+The proper place for the certificate of acknowledgment is after the signature of the parties to the instrument. If the instrument is a printed form, the certificate will almost invariably be a part of the form. When Form FS-88 is used or when the certificate must be prepared on a sheet separate from the instrument, it should be fastened to the instrument as the last sheet. The method of fastening notarial certificates is prescribed in § 92.17.

@@ -1,0 +1,3 @@
+##### § 213.28 Execution of releases. #####
+
+Upon receipt of full payment of a claim or the amount compromised, USAID will prepare and execute a release on behalf of the United States. In the event a mutual release is not executed when a debt is compromised, unless prohibited by law, the debtor is still deemed to have waived any and all claims and causes of action against USAID and its officials related to the transaction giving rise to the compromised debt.

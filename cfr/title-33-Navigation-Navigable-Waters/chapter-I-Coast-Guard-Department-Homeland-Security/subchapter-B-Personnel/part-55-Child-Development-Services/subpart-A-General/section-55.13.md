@@ -1,0 +1,3 @@
+##### § 55.13 Family child care providers. #####
+
+When appropriated funds are available, funds may be offered to provide assistance to Coast Guard Family Child Care Providers or to family home day care providers so that family child care services can be provided to military members and civilian employees of the Coast Guard, at a cost comparable to the cost of services at Coast Guard child development centers.

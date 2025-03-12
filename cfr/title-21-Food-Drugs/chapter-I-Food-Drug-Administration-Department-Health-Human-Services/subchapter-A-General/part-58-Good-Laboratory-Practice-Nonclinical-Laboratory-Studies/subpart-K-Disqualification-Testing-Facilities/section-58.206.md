@@ -1,0 +1,5 @@
+##### § 58.206 Final order on disqualification. #####
+
+(a) If the Commissioner, after the regulatory hearing, or after the time for requesting a hearing expires without a request being made, upon an evaluation of the administrative record of the disqualification proceeding, makes the findings required in § 58.202, he shall issue a final order disqualifying the facility. Such order shall include a statement of the basis for that determination. Upon issuing a final order, the Commissioner shall notify (with a copy of the order) the testing facility of the action.
+
+(b) If the Commissioner, after a regulatory hearing or after the time for requesting a hearing expires without a request being made, upon an evaluation of the administrative record of the disqualification proceeding, does not make the findings required in § 58.202, he shall issue a final order terminating the disqualification proceeding. Such order shall include a statement of the basis for that determination. Upon issuing a final order the Commissioner shall notify the testing facility and provide a copy of the order.

@@ -1,0 +1,3 @@
+##### § 710.1 Who should register. #####
+
+The owner or operator of a cosmetic product establishment which is not exempt under § 710.9 and engages in the manufacture or packaging of a cosmetic product is requested to register for each such establishment, whether or not the product enters interstate commerce. This request extends to any foreign cosmetic product establishment whose products are exported for sale in any State as defined in section 201(a)(1) of the act. No registration fee is required.

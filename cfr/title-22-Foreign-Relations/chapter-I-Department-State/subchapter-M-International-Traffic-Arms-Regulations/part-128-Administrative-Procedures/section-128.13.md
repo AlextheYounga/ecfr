@@ -1,0 +1,17 @@
+##### § 128.13 Appeals. #####
+
+(a) *Filing of appeals.* An appeal must be in writing, and be addressed to and filed with the Under Secretary of State for Arms Control and International Security, Department of State, Washington, DC 20520. An appeal from a final order denying export privileges or imposing civil penalties must be filed within 30 days after receipt of a copy of the order. If the Under Secretary cannot for any reason act on the appeal, he or she may designate another Department of State official to receive and act on the appeal.
+
+(b) *Grounds and conditions for appeal.* The respondent may appeal from the debarment or from the imposition of a civil penalty (except the imposition of civil penalties pursuant to a consent order pursuant to § 128.11) upon the ground: (1) That the findings of a violation are not supported by any substantial evidence; (2) that a prejudicial error of law was committed: or (3) that the provisions of the order are arbitrary, capricious, or an abuse of discretion. The appeal must specify upon which of these grounds the appeal is based and must indicate from which provisions of the order the appeal is taken. An appeal from an order issued upon default will not be entertained if the respondent has failed to seek relief as provided in § 128.4(b).
+
+(c) *Matters considered on appeal.* An appeal will be considered upon the basis of the assembled record. This record consists of (but is not limited to) the charging letter, the respondent's answer, the transcript or magnetic recording of the hearing before the Administrative Law Judge, the report of the Administrative Law Judge, the order of the Assistant Secretary of State for Political-Military Affairs, and any other relevant documents involved in the proceedings before the Administrative Law Judge. The Under Secretary of State for Arms Control and International Security may direct a rehearing and reopening of the proceedings before the Administrative Law Judge if he or she finds that the record is insufficient or that new evidence is relevant and material to the issues and was not known and was not reasonably available to the respondent at the time of the original hearings.
+
+(d) *Effect of appeals.* The taking of an appeal will not stay the operation of any order.
+
+(e) *Preparation of appeals*—(1) *General requirements.* An appeal shall be in letter form. The appeal and accompanying material should be filed in duplicate, unless otherwise indicated, and a copy simultaneously mailed to the Deputy Assistant Secretary of State for Defense Trade Controls, SA-1, Room 1200, Department of State, Washington, DC 20522-0112 or delivered to 2401 E Street NW., Washington, DC addressed to the Deputy Assistant Secretary of State for Defense Trade Controls, SA-1, Room 1200, Department of State, Washington, DC 20037.
+
+(2) *Oral presentation.* The Under Secretary of State for Arms Control and International Security may grant the appellant an opportunity for oral argument and will set the time and place for oral argument and will notify the parties, ordinarily at least 10 days before the date set.
+
+(f) *Decisions.* All appeals will be considered and decided within a reasonable time after they are filed. An appeal may be granted or denied in whole or in part, or dismissed at the request of the appellant. The decision of the Under Secretary of State for Arms Control and International Security will be final.
+
+[58 FR 39320, July 22, 1993, as amended at 61 FR 48833, Sept. 17, 1996; 71 FR 20552, Apr. 21, 2006; 79 FR 8089, Feb. 11, 2014]

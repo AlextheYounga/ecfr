@@ -1,0 +1,5 @@
+##### § 1501.2 Background. #####
+
+(a) The African Development Foundation (“ADF”) is a wholly-owned corporation of the United States Government, created by the African Development Foundation Act (title V, Pub. L. 96-533, 94 Stat. 3151 (22 U.S.C. 290h)). It is a non-profit, non-stock issuing, tax-exempt corporation, and is subject to title I of the Government Corporation Control Act (31 U.S.C. 9101 *et seq.*).
+
+(b) The primary function of ADF is to extend financial assistance in the form of grants, loans and loan guarantees to African private and public entities to support self-help activities at the local level in African countries, and to fund development research by Africans. Priority shall be given to projects which community groups undertake to foster their own development and which involve maximum feasible participation of the poor. The maximum assistance which may be extended for a single project is $250,000.

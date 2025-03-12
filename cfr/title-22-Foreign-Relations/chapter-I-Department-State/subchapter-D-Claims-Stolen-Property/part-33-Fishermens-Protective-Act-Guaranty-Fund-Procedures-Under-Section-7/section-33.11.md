@@ -1,0 +1,3 @@
+##### § 33.11 Records. #####
+
+The Office Director, Office of Marine Conservation, Bureau of Oceans and International Environmental and Scientific Affairs will have the right to inspect claimants' books and records as a precondition to approving claims. All claims must contain written authorization of the guaranteed party for any international, federal, state, or local governmental Agencies to provide the Office Director, Office of Marine Conservation, Bureau of Oceans and International Environmental and Scientific Affairs any data or information pertinent to a claim.

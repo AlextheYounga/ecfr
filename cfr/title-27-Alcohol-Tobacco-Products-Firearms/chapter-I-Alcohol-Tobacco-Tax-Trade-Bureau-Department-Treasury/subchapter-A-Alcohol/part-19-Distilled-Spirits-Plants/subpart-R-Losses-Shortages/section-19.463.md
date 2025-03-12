@@ -1,0 +1,7 @@
+##### § 19.463 Loss of spirits from packages. #####
+
+(a) *Tampering or theft.* The appropriate TTB officer may require that a proprietor pay the tax on any loss caused by tampering or theft of spirits from packages in storage unless the proprietor establishes to the satisfaction of the appropriate TTB officer that the loss was not due to connivance, collusion, fraud or negligence on the part of the proprietor. As a general rule, the tax will be assessed on the quantity of spirits that represents the difference between the quantity originally entered in the package and the quantity remaining after discovery of the tampering or theft. However, if the proprietor can show that the package had already sustained normal storage losses before the tampering or theft occurred, the proprietor may exclude the amount of the normal storage losses from the quantity to be taxpaid.
+
+(b) *Alternative method of tax assessment.* If tampering or theft has occurred at a proprietor's plant and the proprietor has failed to use effective controls to prevent it, the appropriate TTB officer may use an alternative to the general method of tax assessment specified in paragraph (a) of this section. In this case, the appropriate TTB officer may assess on each package showing evidence of tampering or theft an amount equal to the tax on 5 proof gallons of spirits.
+
+(26 U.S.C. 5006)

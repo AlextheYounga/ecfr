@@ -1,0 +1,5 @@
+##### § 44.267 Return of cigars from other sources. #####
+
+A customs warehouse proprietor may return to his warehouse cigars previously withdrawn therefrom, under this subpart, provided he promptly files with the appropriate TTB officer a copy of the Form 5200.14 under which the cigars were originally withdrawn, with the certificate of receipt properly modified and executed by the customs officer in charge of the warehouse to show return of the shipment. If less than the entire shipment is returned to the warehouse, the form shall state what disposition was made of the remainder of the original shipment and any other facts pertinent to such shipment. The customs warehouse proprietor shall retain a copy of such form as a part of his records for 3 years after the close of the calendar year in which the shipment was returned. Such copy shall be made available for inspection by any appropriate TTB officer upon request.
+
+[25 FR 4725, May 28, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, as amended by T.D. ATF-421, 64 FR 71926, Dec. 22, 1999]

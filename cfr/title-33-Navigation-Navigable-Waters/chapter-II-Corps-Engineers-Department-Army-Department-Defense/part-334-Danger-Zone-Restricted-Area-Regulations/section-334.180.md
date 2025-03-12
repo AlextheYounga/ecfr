@@ -1,0 +1,11 @@
+##### § 334.180 Patuxent River, Md.; restricted areas, U.S. Naval Air Test Center, Patuxent River, Md. #####
+
+(a) Except in the gut off the tip of Point Patience, no person in the water and no craft shall approach closer than 75 yards to the beaches, shoreline, or piers of the area formerly occupied by the U.S. Naval Mine Warfare Test Station, or of U.S. Naval Air Station property. A person in the water or a civilian craft shall not approach rafts, barges, or platforms closer than 100 yards.
+
+(b) Diving tenders will exhibit a square red flag with white X when underwater diving takes place from naval small craft. At such times, persons in the water and civilian craft shall stay at least 200 yards clear of these vessels and the civilian craft shall proceed at a speed not greater than five knots when within 1,000 yards thereof.
+
+(c) On occasions, seaplane landings and takeoffs will be practiced in the seadrome area north of the U.S. Naval Air Station, Patuxent River. This area includes those waters of the Patuxent River between Town Point and Hog Point shoreward of a line described as follows: Beginning at a point on the shore just west of Lewis Creek, bearing 161°30′ true, 2,000 yards from Patuxent River Light 8; thence to a point bearing 130° true, 1,850 yards from Patuxent River Light 8; thence to a point bearing 247°30′ true, 3,650 yards from Drum Point Light 2; thence to point bearing 235° true, 2,060 yards from Drum Point Light 2; thence to a point bearing 129° true, 700 yards from Drum Point Light 2; thence to a point bearing 137° true, 1,060 yards from Drum Point Light 2; and thence to a point on the shore west of Harper Creek entrance, bearing 158°30′ true, 1,900 yards from Drum Point Light 2.
+
+(d) The regulations in this section shall be enforced by the Commanding Officer, U.S. Naval Air Station, Patuxent River, Md., and such agencies as he may designate.
+
+[30 FR 4198, Mar. 31, 1965, as amended at 48 FR 54598, Dec. 6, 1983. Redesignated at 50 FR 42696, Oct. 22, 1985]

@@ -1,0 +1,5 @@
+##### § 20.212 Deposit in receiving tanks. #####
+
+All recovered denatured alcohol, specially denatured rum, or articles shall be accumulated (after recovery or restoration is completed) in a receiving tank equipped for locking. If the recovered product is to be shipped under § 20.214, it may be accumulated in appropriately marked packages. All denatured alcohol or specially denatured rum recovered shall be measured and a record of the measurement shall be made before being redenatured or reused. Recovered denatured alcohol or specially denatured rum and new denatured alcohol or specially denatured rum shall be kept in separate storage containers properly marked for identification.
+
+(Approved by the Office of Management and Budget under control number 1513-0062 )[T.D. ATF-199, 50 FR 9162, Mar. 6, 1985, as amended by T.D. TTB-140, 81 FR 59456, Aug. 30, 2016]

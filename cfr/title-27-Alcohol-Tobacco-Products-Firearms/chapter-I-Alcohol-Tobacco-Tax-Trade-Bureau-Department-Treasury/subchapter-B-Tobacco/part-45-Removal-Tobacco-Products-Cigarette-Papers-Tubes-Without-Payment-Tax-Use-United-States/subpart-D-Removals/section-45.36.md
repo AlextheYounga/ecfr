@@ -1,0 +1,5 @@
+##### § 45.36 Payment of tax. #####
+
+Any tax which becomes due and payable on tobacco products, and cigarette papers and tubes removed under this part shall be paid to appropriate TTB officer, with sufficient information to identify the taxpayer, the nature and purpose of the payment, and the articles covered by the payment: *Provided,* That a manufacturer of tobacco products or cigarette papers or tubes may pay any tax for which he becomes liable under this part by an appropriate adjustment in his current tax return Form 5000.24. In paying the tax, a fractional part of a cent shall be disregarded unless it amounts to one-half cent or more, in which case it shall be increased to one cent.
+
+[T.D. ATF-232, 51 FR 28090, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986, as amended by T.D. ATF-251, 52 FR 19341, May 22, 1987; T.D. ATF-472, 67 FR 8880, Feb. 27, 2002]

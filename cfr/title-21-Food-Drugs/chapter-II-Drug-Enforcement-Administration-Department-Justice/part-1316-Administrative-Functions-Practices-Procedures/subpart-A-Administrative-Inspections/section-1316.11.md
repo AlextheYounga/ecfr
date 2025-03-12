@@ -1,0 +1,3 @@
+##### § 1316.11 Execution of warrants. #####
+
+An administrative inspection warrant shall be executed and returned as required by, and any inventory or seizure made shall comply with the requirements of, section 510(d)(3) of the Act (21 U.S.C. 880(d)(3)). The inspection shall begin as soon as is practicable after the issuance of the administrative inspection warrant and shall be completed with reasonable promptness. The inspection shall be conducted during regular business hours and shall be completed in a reasonable manner.

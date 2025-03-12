@@ -1,0 +1,3 @@
+##### § 1271.225 Process changes. #####
+
+Any change to a process must be verified or validated in accordance with § 1271.230, to ensure that the change does not create an adverse impact elsewhere in the operation, and must be approved before implementation by a responsible person with appropriate knowledge and background. You must communicate approved changes to the appropriate personnel in a timely manner.

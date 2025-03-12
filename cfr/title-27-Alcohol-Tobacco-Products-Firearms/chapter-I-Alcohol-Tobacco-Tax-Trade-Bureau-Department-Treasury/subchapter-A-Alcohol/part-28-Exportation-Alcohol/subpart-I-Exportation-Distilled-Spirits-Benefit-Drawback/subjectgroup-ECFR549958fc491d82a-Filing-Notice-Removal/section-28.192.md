@@ -1,0 +1,5 @@
+##### § 28.192 Packages of distilled spirits to be gauged. #####
+
+Except for spirits which may be tax determined on the basis of the original gauge, spirits in packages which are to be removed for export with benefit of drawback, shall be gauged by the distilled spirits plant proprietor prior to preparation of notice on TTB Form 5110.30. When spirits in packages are gauged, a package gauge record shall be prepared by the proprietor, as provided in 27 CFR part 19, and a copy of the package gauge record shall be attached to each copy of TTB Form 5110.30 and considered a part of the claim.
+
+(Approved by the Office of Management and Budget under control number 1512-0250 and 1512-0199)(Sec. 201, Pub. L. 85-859, 72 Stat. 1336, as amended (26 U.S.C. 5062))[T.D. ATF-198, 50 FR 8561, Mar. 1, 1985, as amended by T.D. TTB-8, 69 FR 3833, Jan. 27, 2004]

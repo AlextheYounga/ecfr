@@ -1,0 +1,3 @@
+##### § 203.1 Scope. #####
+
+This part sets forth procedures and requirements pertaining to the reimportation and wholesale distribution of prescription drugs, including both bulk drug substances and finished dosage forms; the sale, purchase, or trade of (or the offer to sell, purchase, or trade) prescription drugs, including bulk drug substances, that were purchased by hospitals or health care entities, or donated to charitable organizations; and the distribution of prescription drug samples. Blood and blood components intended for transfusion are excluded from the restrictions in and the requirements of the Prescription Drug Marketing Act of 1987 and the Prescription Drug Amendments of 1992.

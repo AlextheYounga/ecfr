@@ -1,0 +1,9 @@
+##### § 28.195b Claims on spirits tax determined on and after January 1, 1980. #####
+
+(a) *Preparation.* Claims for drawback of tax on spirits tax determined on and after January 1, 1980, and withdrawn for any purpose authorized by § 28.171, shall be prepared in duplicate by the bottler or packager on parts II and III of TTB Form 5110.30.
+
+(b) *Supporting documents.* Each claim shall be supported by an invoice, bill of lading or other document which identifies the date of tax determination, unless the bill of lading required by § 28.250 identifies this date. Additional supporting documents are required if the claim covers distilled spirits products on which the claimed drawback rate exceeds the rate of tax imposed by 26 U.S.C. 5001 or 7652 on each proof gallon or part thereof of distilled spirits produced in or imported into the United States (e.g., a product containing alcoholic flavoring materials on which drawback has been claimed by the manufacturer of the material under 26 U.S.C. 5131-5134). For each such product, the additional supporting documents shall consist of a copy of each related dump and batch record, package gauge record as prescribed in 27 CFR part 19, and/or bottling and packaging record. The appropriate TTB officer may also require these or other supporting documents for any distilled spirits product.
+
+(c) *Filing.* One copy of the claim, with supporting documents, if required, shall be filed with the appropriate TTB officer. The bottler or packager shall retain the other copy on file.
+
+(Approved by the Office of Management and Budget under control number 1512-0198)(Sec. 201, Pub. L. 85-859, 72 Stat. 1336, as amended (26 U.S.C. 5062))[T.D. ATF-198, 50 FR 8561, Mar. 1, 1985, as amended by T.D. ATF-212, 50 FR 34123, Aug. 23, 1985; T.D. TTB-8, 69 FR 3833, Jan. 27, 2004]

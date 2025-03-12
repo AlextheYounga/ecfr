@@ -1,0 +1,3 @@
+##### § 300.103 Accounts held by a corporation, partnership or unincorporated association. #####
+
+A corporation, partnership or unincorporated association holding an account with a member shall be deemed to be a separate customer distinct from the person or persons owning such corporation or comprising such partnership or unincorporated association if on the filing date it existed for a purpose other than primarily to obtain or increase protection under the Act.

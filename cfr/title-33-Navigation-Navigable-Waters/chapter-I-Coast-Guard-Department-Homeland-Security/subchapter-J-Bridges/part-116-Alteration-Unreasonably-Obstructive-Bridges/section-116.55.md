@@ -1,0 +1,9 @@
+##### § 116.55 Appeals. #####
+
+(a) Except for the decision to issue an Order to Alter, if a complainant disagrees with a recommendation regarding obstruction or eligibility made by a District Commander, or the Chief, Office of Bridge Programs, the complainant may appeal that decision to the Deputy Commandant for Operations.
+
+(b) The appeal must be submitted in writing to the Commandant (CG-DCO-D), Attn: Deputy for Operations Policy and Capabilities, U.S. Coast Guard Stop 7318, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7318, within 60 days after the District Commander's or the Chief, Office of Bridge Programs decision. The Deputy Commandant for Operations will make a decision on the appeal within 90 days after receipt of the appeal. The Deputy Commandant of Operations' decision of this appeal shall constitute final agency action.
+
+(c) Any Order of Apportionment made or issued under section 6 of the Truman-Hobbs Act, 33 U.S.C. 516, may be reviewed by the Court of Appeals for any judicial circuit in which the bridge in question is wholly or partly located, if a petition for review is filed within 90 days after the date of issuance of the order. The review is described in section 10 of the Truman-Hobbs Act, 33 U.S.C. 520. The review proceedings do not operate as a stay of any order issued under the Truman-Hobbs Act, other than an order of apportionment, nor relieve any bridge owner of any liability or penalty under other provisions of that act.
+
+[CGD 91-063, 60 FR 20902, Apr. 28, 1995, as amended by CGD 96-026, 61 FR 33663, June 28, 1996; CGD 97-023, 62 FR 33363, June 19, 1997; USCG-2008-0179, 73 FR 35013, June 19, 2008; USCG-2010-0351, 75 FR 36283, June 25, 2010; USCG-2013-0397, 78 FR 39174, July 1, 2013; USCG-2014-0410, 79 FR 38433, July 7, 2014]

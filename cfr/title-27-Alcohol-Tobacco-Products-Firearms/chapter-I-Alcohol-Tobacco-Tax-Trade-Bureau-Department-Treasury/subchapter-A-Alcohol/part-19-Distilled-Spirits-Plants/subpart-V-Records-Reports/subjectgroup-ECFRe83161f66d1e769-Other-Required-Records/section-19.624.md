@@ -1,0 +1,11 @@
+##### § 19.624 Removal of Puerto Rican and Virgin Islands spirits and rum imported from all other areas. #####
+
+(a) *General.* A proprietor must maintain separate accounts, in proof gallons, of Puerto Rican spirits having an alcoholic content of at least 92 percent rum, of Virgin Islands spirits having an alcoholic content of at least 92 percent rum, and of rum imported from all other areas removed from the processing account on determination of tax. A proprietor may determine the quantities of spirits in these categories that are contained in products mixed in processing with other alcoholic ingredients by using one of the methods referred to in paragraph (b), (c), or (d) of this section. The proprietor must report these quantities on the monthly report of operations referred to in § 19.632.
+
+(b) *Standard method.* For purposes of maintaining the separate accounts referred to in paragraph (a) of this section, a proprietor may determine the quantities of spirits in those specified categories based on the least amount of those spirits that may be used in each product as stated in the approved form TTB F 5110.38, Formula for Distilled Spirits Under the Federal Alcohol Administration Act.
+
+(c) *Averaging method.* For purposes of the separate accounts referred to in paragraph (a) of this section, a proprietor may determine the quantities of spirits in those specified categories by computing the average quantity of those spirits contained in all batches of the same product formulation manufactured during the preceding six-month period. The average must be adjusted at the end of each month in order to include only the preceding six-month period.
+
+(d) *Alternative method.* If a proprietor wishes to use a method for determining the quantities of spirits as an alternative for a method prescribed in paragraphs (b) or (c) of this section, the proprietor must file an application with the appropriate TTB officer. The written application must specifically describe the proposed alternative method and must explain the reasons for using the alternative method.
+
+(26 U.S.C. 5555, 7652)

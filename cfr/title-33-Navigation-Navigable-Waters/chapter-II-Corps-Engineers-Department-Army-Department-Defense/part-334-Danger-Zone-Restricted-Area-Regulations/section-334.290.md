@@ -1,0 +1,13 @@
+##### § 334.290 Elizabeth River, Southern Branch, Va., naval restricted areas. #####
+
+(a) *The areas*—(1) *St. Helena Annex Area.* Beginning at a point at St. Helena Annex of the Norfolk Naval Shipyard, on the eastern shore of Southern Branch of Elizabeth River, at latitude 36°49′43″, longitude 76°17′26.5″; thence in a southwesterly direction to a point on the eastern boundary of Norfolk Harbor 40-foot channel at latitude 36°49′42″, longitude 76°17′33″; thence in a southerly direction along the eastern boundary of Norfolk Harbor 40-foot channel to latitude 36°49′28″, longitude 76°17′27″; thence easterly to the shore at latitude 36°49′28″, longitude 76°17′22″; and thence, northerly along the shore to the point of beginning.
+
+(2) *Norfolk Naval Shipyard Area.* Beginning at a point on the shore at the northeast corner of the Norfolk Naval Shipyard, at latitude 36°49′43.5″, longitude 76°17′41.5″; thence due east approximately 100 feet to the western boundary of Elizabeth River channel; thence in a southerly direction along the western boundary of the channel to the point where it passes through the draw of the Norfolk and Portsmouth Belt Line Railroad Bridge, thence in a southwesterly direction along the northerly side of the bridge to the western shore of Southern Branch of Elizabeth River; and thence along the shore in a northerly direction to the point of beginning.
+
+(3) *Southgate Terminal Area.* Beginning at a point at the northeast corner of Southgate Terminal Annex of Norfolk Naval Shipyard, at latitude 36°48′23″, longitude 76°17′39″; thence east to latitude 36°48′23″, longitude 76°17′29″; thence southerly along the western boundary of Norfolk Harbor 35-foot channel to latitude 36°48′04″, longitude 76°17′33″; thence west to latitude 36°48′04″, longitude 76°17′41″; and thence along the shore in a northerly direction to the point of beginning.
+
+(b) *The regulations.* (1) No vessels other than Naval vessels and other vessels authorized to move to and from piers at the Norfolk Naval Shipyard and its two annexes described in paragraph (a) (1) and (3) of this section, and no person other than persons embarked in such vessels, shall enter the restricted areas.
+
+(2) This section shall be enforced by the Commander, Norfolk Naval Shipyard, Portsmouth, Va., and such agencies as he may designate.
+
+[19 FR 2232, Apr. 17, 1954, as amended at 35 FR 2660, Feb. 6, 1970. Redesignated at 50 FR 42696, Oct. 22, 1985]

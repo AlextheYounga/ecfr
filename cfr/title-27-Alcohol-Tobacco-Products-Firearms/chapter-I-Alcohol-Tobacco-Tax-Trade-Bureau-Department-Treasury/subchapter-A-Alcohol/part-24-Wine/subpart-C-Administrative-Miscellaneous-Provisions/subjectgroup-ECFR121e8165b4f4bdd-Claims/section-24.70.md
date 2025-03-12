@@ -1,0 +1,5 @@
+##### § 24.70 Claims for credit of tax. #####
+
+Claims for credit of tax, as provided in this part, may be filed after determination of the tax whether or not the tax has been paid. Where a claim for credit of tax is filed, the claimant shall, upon receipt of notification of allowance of credit from the appropriate TTB officer, make an adjusting entry on the next tax return (or returns) to the extent necessary to exhaust the credit. The claimant shall also make an explanatory statement on each tax return specifically identifying the notification of allowance of credit. The claimant may not anticipate allowance of a credit or make an adjusting entry in a tax return until TTB has acted on the claim.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1332, as amended, 1335, as amended, 1381, as amended, 1395, as amended (26 U.S.C. 5043, 5044, 5061, 5370, 5555))(Approved by the Office of Management and Budget under control number 1512-0492)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, Mar. 22, 1999]

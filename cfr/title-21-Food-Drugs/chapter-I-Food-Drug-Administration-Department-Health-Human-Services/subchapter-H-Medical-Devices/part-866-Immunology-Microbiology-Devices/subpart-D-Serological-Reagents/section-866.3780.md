@@ -1,0 +1,5 @@
+##### § 866.3780 Toxoplasma gondii serological reagents. #####
+
+(a) *Identification. Toxoplasma gondii* serological reagents are devices that consist of antigens and antisera used in serological tests to identify antibodies to *Toxoplasma gondii* in serum. Additionally, some of these reagents consist of antisera conjugated with a fluorescent dye (immunofluorescent reagents) used to identify *Toxoplasma gondii* from clinical specimens. The identification aids in the diagnosis of toxoplasmosis caused by the parasitic protozoan *Toxoplasma gondii* and provides epidemiological information on this disease. Congenital toxoplasmosis is characterized by lesions of the central nervous system, which if undetected and untreated may lead to brain defects, blindness, and death of an unborn fetus. The disease is characterized in children by inflammation of the brain and spinal cord.
+
+(b) *Classification.* Class II (performance standards).

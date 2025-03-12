@@ -1,0 +1,11 @@
+##### § 310.529 Drug products containing active ingredients offered over-the-counter (OTC) for oral use as insect repellents. #####
+
+(a) Thiamine hydrochloride (vitamin B-1) has been marketed as an ingredient in over-the-counter (OTC) drug products for oral use as an insect repellent (an orally administered drug product intended to keep insects away). There is a lack of adequate data to establish the effectiveness of this, or any other ingredient for OTC oral use as an insect repellent. Labeling claims for OTC orally administered insect repellent drug products are either false, misleading, or unsupported by scientific data. The following claims are examples of some that have been made for orally administered OTC insect repellent drug products: “Oral mosquito repellent,” “mosquitos avoid you,” “bugs stay away,” “keep mosquitos away for 12 to 24 hours,” and “the newest way to fight mosquitos.” Therefore, any drug product containing ingredients offered for oral use as an insect repellent cannot be generally recognized as safe and effective.
+
+(b) Any OTC drug product that is labeled, represented, or promoted for oral use as an insect repellent is regarded as a new drug within the meaning of section 201(p) of the Federal Food, Drug and Cosmetic Act for which an approved new drug application under section 505 of the act and part 314 of this chapter is required for marketing. In the absence of an approved new drug application, such product is also misbranded under section 502 of the act.
+
+(c) Clinical investigations designed to obtain evidence that any drug product labeled, represented, or promoted OTC for oral use as an insect repellent is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter.
+
+(d) Any such drug product in interstate commerce after December 17, 1985, that is not in compliance with this section is subject to regulatory action.
+
+[40 FR 25171, June 17, 1985, as amended at 55 FR 11579, Mar. 29, 1990]

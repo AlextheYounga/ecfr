@@ -1,0 +1,3 @@
+##### § 710.6 Appointment and qualifications of examiner. #####
+
+When a former OPIC employee after receiving adequate notice requests a hearing, a presiding official (hereinafter referred to as “examiner”) shall be appointed by the President of OPIC to make an initial decision. The examiner shall be a responsible person who is a member of the bar of a State or of the District of Columbia, who is impartial and who has not participated in any manner in the decision to initiate the proceedings. The examiner may or may not be an OPIC employee.

@@ -1,0 +1,11 @@
+##### § 1271.200 Equipment. #####
+
+(a) *General.* To prevent the introduction, transmission, or spread of communicable diseases, equipment used in the manufacture of HCT/Ps must be of appropriate design for its use and must be suitably located and installed to facilitate operations, including cleaning and maintenance. Any automated, mechanical, electronic, or other equipment used for inspection, measuring, or testing in accordance with this part must be capable of producing valid results. You must clean, sanitize, and maintain equipment according to established schedules.
+
+(b) *Procedures and schedules.* You must establish and maintain procedures for cleaning, sanitizing, and maintaining equipment to prevent malfunctions, contamination or cross-contamination, accidental exposure of HCT/Ps to communicable disease agents, and other events that could reasonably be expected to result in the introduction, transmission, or spread of communicable diseases.
+
+(c) *Calibration of equipment.* Where appropriate, you must routinely calibrate according to established procedures and schedules all automated, mechanical, electronic, or other equipment used for inspection, measuring, and testing in accordance with this part.
+
+(d) *Inspections.* You must routinely inspect equipment for cleanliness, sanitation, and calibration, and to ensure adherence to applicable equipment maintenance schedules.
+
+(e) *Records.* You must document and maintain records of all equipment maintenance, cleaning, sanitizing, calibration, and other activities performed in accordance with this section. You must display records of recent maintenance, cleaning, sanitizing, calibration, and other activities on or near each piece of equipment, or make the records readily available to the individuals responsible for performing these activities and to the personnel using the equipment. You must maintain records of the use of each piece of equipment, including the identification of each HCT/P manufactured with that equipment.

@@ -1,0 +1,5 @@
+##### § 148.30 Payment of award. #####
+
+An applicant seeking payment of an award from the Commission shall submit to the Executive Director of the Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581, a copy of the Commission's final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. At the same time, the applicant shall provide a copy of his submissions to counsel for the Commission. The Commission will, within 60 days of receipt of the applicant's submissions, forward to the United States Department of the Treasury a Standard Form 1166, “Voucher and Schedule of Payments,” so as to have the Treasury Department issue a check in the amount awarded in the Commission's decision, unless judicial review of the award or of the underlying decision in the adjudicatory proceeding has been sought by the applicant or any other party to the adjudicatory proceeding.
+
+[46 FR 57671, Nov. 25, 1981, as amended at 60 FR 49336, Sept. 25, 1995]

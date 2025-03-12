@@ -1,0 +1,7 @@
+##### § 17.142 Claims. #####
+
+(a) *General.* The manufacturer must file claim for drawback with the appropriate TTB officer who has the authority to approve or disapprove claims. A separate claim shall be filed for each place of business. Each claim shall pertain only to distilled spirits used in the manufacture or production of nonbeverage products during any one quarter of the tax year. Unless the manufacturer is eligible to file monthly claims (see §§ 17.143 and 17.144), only one claim per quarter may be filed for each place of business. Claims shall be filed on TTB Form 2635 (5620.8), Claim - Alcohol and Tobacco Taxes.
+
+(b) *Manufacturers who are also proprietors of distilled spirits plants.* If a manufacturer of nonbeverage products is owned and operated by the same business entity that owns and operates a distilled spirits plant, the manufacturer's claim for drawback may be filed for credit on Form 2635 (5620.8). After the claim is approved, the distilled spirits plant may use the claim as an adjustment decreasing the taxes due in Schedule B of TTB Form 5000.24, Excise Tax Return. Adjustments resulting from an approved drawback claim are not subject to interest. This procedure may be utilized only if the manufacturer of nonbeverage products and the distilled spirits plant have the same employer identification number.
+
+[T.D. ATF-179, 61 FR 31412, June 20, 1996, as amended by T.D. ATF-436, 66 FR 5471, Jan. 19, 2001]

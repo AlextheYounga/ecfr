@@ -1,0 +1,3 @@
+##### § 13.81 Representation before TTB. #####
+
+An applicant or certificate holder may be represented by an attorney, certified public accountant, or other person recognized to practice before TTB as provided in 31 CFR part 8 (Practice Before the Bureau of Alcohol, Tobacco and Firearms). The applicable requirements of 26 CFR 601.521 through 601.527 (conference and practice requirements for alcohol, tobacco, and firearms activities) shall apply.

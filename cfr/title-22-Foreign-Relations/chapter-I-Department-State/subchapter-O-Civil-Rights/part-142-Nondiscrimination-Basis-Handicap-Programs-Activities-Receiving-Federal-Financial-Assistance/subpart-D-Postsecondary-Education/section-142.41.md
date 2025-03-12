@@ -1,0 +1,3 @@
+##### § 142.41 Application of this subpart. #####
+
+Subpart D applies to postsecondary education programs and activities, including postsecondary vocational education programs or activities, that receive Federal financial assistance from the Department of State, and to recipients that operate, or that receive or benefit from Federal financial assistance for the operation of, such programs or activities.

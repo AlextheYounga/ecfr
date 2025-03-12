@@ -1,0 +1,3 @@
+##### § 165.17 Awards to whistleblowers who engage in culpable conduct. #####
+
+In determining whether the required $1,000,000 threshold has been satisfied for purposes of making any award, the Commission will not take into account any monetary sanctions that the whistleblower is ordered to pay, or that is ordered against any entity whose liability is based primarily on conduct that the whistleblower principally directed, planned, or initiated. Similarly, if the Commission determines that a whistleblower is eligible for an award, any amounts that the whistleblower or such an entity pay in sanctions as a result of the action or related actions will not be included within the calculation of the amounts collected for purposes of making payments pursuant to § 165.14.

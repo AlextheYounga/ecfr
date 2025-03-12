@@ -1,0 +1,5 @@
+##### § 24.204 Other agricultural products. #####
+
+In the production of wine from agricultural products, other than dried fruit and honey, water and sugar may be added to the extent necessary to facilitate fermentation; *Provided,* That the total weight of pure dry sugar used for fermentation is less than the weight of the primary winemaking material and the density of the mixture prior to fermentation is not less than 22 degrees Brix, if water, or liquid sugar, or invert sugar syrup is used. Additional pure dry sugar may be used for sweetening, provided the alcohol content of the finished wine after complete fermentation or after complete fermentation and sweetening, is not more than 14 percent by volume and the total solids content is not more than 35 degrees Brix.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1386, as amended, 1387, as amended (26 U.S.C. 5387))

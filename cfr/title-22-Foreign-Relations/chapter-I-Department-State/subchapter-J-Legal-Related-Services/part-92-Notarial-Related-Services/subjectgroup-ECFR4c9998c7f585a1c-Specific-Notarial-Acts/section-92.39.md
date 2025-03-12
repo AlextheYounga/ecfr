@@ -1,0 +1,7 @@
+##### § 92.39 Authenticating foreign public documents (Federal procedures). #####
+
+(a) A copy of a foreign public document intended to be used as evidence within the jurisdiction of the Federal Government of the United States must be authenticated in accordance with the provisions of section 1 of the act of June 25, 1948, as amended (sec. 1, 62 Stat. 948, sec. 92(b), 63 Stat. 103; 28 U.S.C. 1741). This provision of Federal law provides that a copy of any foreign document of record, or on file in a public office of a foreign country or political subdivision thereof, if certified, by the lawful custodian thereof, may be admitted in evidence when authenticated by a certificate of a United States consular officer resident in the foreign country, under the seal of his office.
+
+(b) The consular officer's certificate should indicate that the copy has been certified by the lawful custodian.
+
+(c) In the absence of a consular officer of the United States as an officer resident in the State of the Vatican City, a copy of any document of record or on file in a public office of said State of the Vatican City, certified by the lawful custodian of such document may be authenticated by a consular officer of the United States resident in Rome, Italy (22 U.S.C. 1204).

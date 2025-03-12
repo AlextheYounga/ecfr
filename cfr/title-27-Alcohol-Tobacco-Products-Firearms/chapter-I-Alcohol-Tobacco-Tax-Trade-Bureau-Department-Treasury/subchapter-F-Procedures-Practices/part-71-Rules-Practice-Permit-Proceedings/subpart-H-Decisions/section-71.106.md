@@ -1,0 +1,5 @@
+##### § 71.106 Certification and transmittal of record and decision. #####
+
+After reaching his decision, the administrative law judge shall certify to the complete record of the proceeding before him and (a) in proceedings on an application, shall immediately forward the complete certified record together with four copies of his recommended decision to the appropriate TTB officer for initial decision, or (b) in revocation, suspension or annulment proceedings, shall immediately forward the complete certified record, together with two copies of his decision, to the appropriate TTB officer, serve one copy of his decision on the respondent or his counsel and transmit a copy of his decision to the attorney for the Government.
+
+[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-199, 50 FR 9197, Mar. 6, 1985; T.D. ATF-374, 61 FR 29957, June 13, 1996]

@@ -1,0 +1,5 @@
+##### § 70.226 Suspension of running of period of limitation; taxpayer outside of United States. #####
+
+The running of the period of limitations on collection after assessment prescribed in 26 U.S.C. 6502 (relating to collection after assessment) is suspended for the period during which the taxpayer is absent from the United States if such period is a continuous period of absence from the United States extending for 6 months or more. In a case where the running of the period of limitations has been suspended under the first sentence of this paragraph and at the time of the taxpayer's return to the United States the period of limitations would expire before the expiration of 6 months from the date of the taxpayer's return, the period of limitations shall not expire until after 6 months from the date of the taxpayer's return. The taxpayer will be deemed to be absent from the United States for purposes of this section if the taxpayer is generally and substantially absent from the United States, even though the taxpayer makes casual temporary visits during the period.
+
+(26 U.S.C. 6503)[T.D. ATF-301, 55 FR 47642, Nov. 14, 1990]

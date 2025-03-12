@@ -1,0 +1,3 @@
+##### § 12.306 Filing of documents; subscription; service. #####
+
+Except as otherwise specifically provided in these rules, all documents filed in a formal decisional proceeding including, but not limited to, amended or supplemental pleadings, motions, discovery notices or requests, and responses thereto, documents filed or produced pursuant to § 12.34 of these rules, and submissions of proof, shall meet the requirements of §§ 12.11 and 12.12 of the rules as to form, and shall be filed and served in accordance with § 12.10 of the Reparation Rules.

@@ -1,0 +1,5 @@
+##### § 479.23 Restrictive use of required information. #####
+
+No information or evidence obtained from an application, registration, or record required to be submitted or retained by a natural person in order to comply with any provision of 26 U.S.C. Chapter 53, or this part or section 207 of the Gun Control Act of 1968 shall be used, directly or indirectly, as evidence against that person in a criminal proceeding with respect to a violation of law occurring prior to or concurrently with the filing of the application or registration, or the compiling of the record containing the information or evidence: *Provided, however,* That the provisions of this section shall not preclude the use of any such information or evidence in a prosecution or other action under any applicable provision of law with respect to the furnishing of false information.
+
+[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55842, Sept. 28, 1979]

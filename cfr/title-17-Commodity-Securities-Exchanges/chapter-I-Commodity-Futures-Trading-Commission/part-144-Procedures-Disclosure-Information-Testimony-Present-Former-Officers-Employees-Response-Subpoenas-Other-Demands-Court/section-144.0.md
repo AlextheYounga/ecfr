@@ -1,0 +1,7 @@
+##### § 144.0 Purpose and scope. #####
+
+(a) The regulations in this part set forth procedures to be followed with respect to the disclosure, in response to a subpoena, order or other demand (collectively “demand”) of a court or other authority of any material contained in the files of the Commission, of any information relating to material contained in the files of the Commission or any information acquired by any person while such person is or was an employee of the Commission as part of the performance of that person's official duties or by virtue of that person's official status. Employee as used in this part includes both members and employees of the Commission. Demand as used in this part does not include requests for the production of documents in compliance with Fed. R. Civ. P. 34.
+
+(b) Nothing in this part affects disclosure of information under the Freedom of Information Act (FOIA), 5 U.S.C. 552, the Privacy Act, 5 U.S.C. 552a, the Sunshine Act, 552b, or the Commission's implementing regulations in part 145, 17 CFR 145.0, *et seq.,* or pursuant to Congressional subpoena or pursuant to other Commission regulation. Nothing in this part otherwise permits disclosure of information by the Commission except as is provided by statute or other applicable law.
+
+(c) This part is intended to provide guidance for the internal operations of the Commission and is not intended to, does not, and may not be relied upon to create any right or benefit, substantive or procedural, enforceable at law against the Commission.

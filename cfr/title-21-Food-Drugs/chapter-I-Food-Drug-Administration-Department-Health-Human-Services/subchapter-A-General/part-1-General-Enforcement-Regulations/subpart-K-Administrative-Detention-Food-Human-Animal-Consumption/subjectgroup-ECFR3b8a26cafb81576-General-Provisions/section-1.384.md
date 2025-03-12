@@ -1,0 +1,3 @@
+##### § 1.384 When does a detention order terminate? #####
+
+If FDA terminates a detention order or the detention period expires, an authorized FDA representative will issue a detention termination notice releasing the article of food to any person who received the detention order or that person's representative and will remove, or authorize in writing the removal of, the required labels or tags. If FDA fails to issue a detention termination notice and the detention period expires, the detention is deemed to be terminated.

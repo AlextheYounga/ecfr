@@ -1,0 +1,5 @@
+##### § 3.65-10 Sector Puget Sound Marine Inspection Zone and Captain of the Port Zone. #####
+
+Sector Puget Sound's office is located in Seattle, WA. The boundaries of Sector Puget Sound's Marine Inspection and Captain of the Port Zones start at latitude 48°29′35″ N, longitude 124°43′45″ W, proceeding along the Canadian border east to the Montana-North Dakota boundary; thence south along this boundary to the Wyoming state line; thence west and south along the Montana-Wyoming boundary to the Idaho state line; thence northwest along the Montana-Idaho boundary to latitude 46°55′00″ N; thence west along latitude 46°55′00″ N to longitude 123°18′00″ W; thence north to a point latitude 47°32′00″ N, longitude 123°18′00″ W; thence west along latitude 47°32′00″ N to the outermost extent of the EEZ; thence northeast along the outermost extent of the EEZ to the Canadian border; thence east along the Canadian border to the point of origin.
+
+[USCG-2010-0351, 75 FR 47212, Aug. 5, 2010]

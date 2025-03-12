@@ -1,0 +1,5 @@
+##### § 884.6170 Assisted reproduction water and water purification systems. #####
+
+(a) *Identification.* Assisted reproduction water purification systems are devices specifically intended to generate high quality, sterile, pyrogen-free water for reconstitution of media used for aspiration, incubation, transfer or storage of gametes or embryos for in vitro fertilization (IVF) or other assisted reproduction procedures. These devices may also be intended as the final rinse for labware or other assisted reproduction devices that will contact the gametes or embryos. These devices also include bottled water ready for reconstitution available from a vendor that is specifically intended for reconstitution of media used for aspiration, incubation, transfer, or storage of gametes or embryos for IVF or other assisted reproduction procedures.
+
+(b) *Classification.* Class II (special controls) (mouse embryo assay information, endotoxin testing, sterilization validation, water quality testing, design specifications, labeling requirements, biocompatibility testing, and clinical testing).

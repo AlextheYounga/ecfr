@@ -1,0 +1,13 @@
+##### § 270.8b-11 Number of copies; signatures; binding. #####
+
+(a) Three complete copies of each registration statement or report, including exhibits and all other papers and documents filed as a part thereof, shall be filed with the Commission.
+
+(b) In the case of a registration statement filed on Form N-1A (§ 239.15A and § 274.11A of this chapter), Form N-2 (§ 239.14 and § 274.11a-1 of this chapter), Form N-3 (§ 239.17a and § 274.11b of this chapter), Form N-4 (§ 239.17b and § 274.11c of this chapter), or Form N-6 (§ 239.17c and § 274.11d of this chapter), three complete copies of each part of the registration statement (including, if applicable, exhibits and all other papers and documents filed as part of Part C of the registration statement) shall be filed with the Commission.
+
+(c) At least one copy of the registration statement or report shall be signed in the manner prescribed by the appropriate form. Unsigned copies shall be conformed. If the signature of any person is affixed pursuant to a power of attorney or other similar authority, a copy of such power of attorney or other authority shall also be filed with the registration statement or report.
+
+(d) Each copy of a registration statement or report filed with the Commission shall be bound in one or more parts without stiff covers. The binding shall be made on the left-hand side and in such manner as to leave the reading matter legible.
+
+(e) *Signatures.* Where the Act or the rules thereunder, including paragraph (c) of this section, require a document filed with or furnished to the Commission to be signed, the document should be manually signed, or signed using either typed signatures or duplicated or facsimile versions of manual signatures. When typed, duplicated or facsimile signatures are used, each signatory to the filing shall manually sign a signature page or other document authenticating, acknowledging, or otherwise adopting his or her signature that appears in the filing. Execute each such document before or at the time the filing is made and retain for a period of five years. Upon request, the registrant shall furnish to the Commission or its staff a copy of any or all documents retained pursuant to this section.
+
+[49 FR 32059, Aug. 10, 1984, as amended at 50 FR 26160, June 25, 1985; 57 FR 56835, Dec. 1, 1992; 60 FR 26622, May 17, 1995; 63 FR 13944, Mar. 23, 1998; 67 FR 19870, Apr. 23, 2002]

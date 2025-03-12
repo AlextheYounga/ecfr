@@ -1,0 +1,13 @@
+##### § 509.30 Temporary tolerances for polychlorinated biphenyls (PCB's). #####
+
+(a) Polychlorinated biphenyls (PCB's) are toxic, industrial chemicals. Because of their widespread, uncontrolled industrial applications, PCB's have become a persistent and ubiquitous contaminant in the environment. As a result, certain foods and animal feeds, principally those of animal and marine origin, contain PCB's as unavoidable, environmental contaminants. PCB's are transmitted to the food portion (meat, milk, and eggs) of food producing animals ingesting PCB contaminated animal feed. In addition, a significant percentage of paper food-packaging materials contain PCB's which may migrate to the packaged food. The source of PCB's in paper food-packaging materials is primarily of certain types of carbonless copy paper (containing 3 to 5 percent PCB's) in waste paper stocks used for manufacturing recycled paper. Therefore, temporary tolerances for residues of PCB's as unavoidable environmental or industrial contaminants are established for a sufficient period of time following the effective date of this paragraph to permit the elimination of such contaminants at the earliest practicable time. For the purposes of this paragraph, the term *polychlorinated biphenyls (PCB's)* is applicable to mixtures of chlorinated biphenyl compounds, irrespective of which mixture of PCB's is present as the residue. The temporary tolerances for residues of PCB's are as follows:
+
+(1) 0.2 part per million in finished animal feed for food-producing animals (except the following finished animal feeds: feed concentrates, feed supplements, and feed premixes).
+
+(2) 2 parts per million in animal feed components of animal origin, including fishmeal and other by-products of marine origin and in finished animal feed concentrates, supplements, and premixes intended for food-producing animals.
+
+(3) 10 parts per million in paper food-packaging material intended for or used with finished animal feed and any components intended for animal feeds. The tolerance shall not apply to paper food-packaging material separated from the food therein by a functional barrier which is impermeable to migration of PCB's.
+
+(b) A compilation entitled “Analytical Methodology for Polychlorinated Biphenyls, February 1973” for determining compliance with the tolerances established in this section is available from the Division of Dockets Management, Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+
+[42 FR 52821, Sept. 30, 1977, as amended at 46 FR 8460, Jan. 27, 1981; 59 FR 14365, Mar. 28, 1994; 68 FR 24879, May 9, 2003]

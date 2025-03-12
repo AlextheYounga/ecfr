@@ -1,0 +1,3 @@
+##### § 19.281 Scope. #####
+
+This subpart covers gauging, which is the determination of the quantity and the proof of distilled spirits. Topics covered in this subpart include: The general requirements for gauging; when gauges are required at distilled spirits plants; and special rules that apply to the gauges performed at distilled spirits plants. For additional requirements and procedures governing gauging, see part 30 of this chapter, Gauging Manual.

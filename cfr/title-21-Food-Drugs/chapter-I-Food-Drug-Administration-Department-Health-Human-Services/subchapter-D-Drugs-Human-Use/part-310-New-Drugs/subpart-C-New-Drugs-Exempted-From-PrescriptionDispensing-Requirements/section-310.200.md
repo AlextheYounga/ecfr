@@ -1,0 +1,13 @@
+##### § 310.200 Prescription-exemption procedure. #####
+
+(a) *Duration of prescription requirement.* Any drug limited to prescription use under section 503(b)(1)(B) of the act remains so limited until it is exempted as provided in paragraph (b) or (e) of this section.
+
+(b) *Prescription-exemption procedure for drugs limited by a new drug application.* Any drug limited to prescription use under section 503(b)(1)(B) of the act shall be exempted from prescription-dispensing requirements when the Commissioner finds such requirements are not necessary for the protection of the public health by reason of the drug's toxicity or other potentiality for harmful effect, or the method of its use, or the collateral measures necessary to its use, and he finds that the drug is safe and effective for use in self-medication as directed in proposed labeling. A proposal to exempt a drug from the prescription-dispensing requirements of section 503(b)(1)(B) of the act may be initiated by the Commissioner or by any interested person. Any interested person may file a petition seeking such exemption, which petition may be pursuant to part 10 of this chapter, or in the form of a supplement to an approved new drug application.
+
+(c) *New drug status of drugs exempted from the prescription requirement.* A drug exempted from the prescription requirement under the provisions of paragraph (b) of this section is a “new drug” within the meaning of section 201(p) of the act until it has been used to a material extent and for a material time under such conditions except as provided in paragraph (e) of this section.
+
+(d) *Prescription legend not allowed on exempted drugs.* The use of the prescription caution statement quoted in section 503(b) (4) of the act, in the labeling of a drug exempted under the provisions of this section, constitutes misbranding. Any other statement or suggestion in the labeling of a drug exempted under this section, that such drug is limited to prescription use, may constitute misbranding.
+
+(e) *Prescription-exemption procedure of OTC drug review.* A drug limited to prescription use under section 503(b)(1)(B) of the act may also be exempted from prescription-dispensing requirements by the procedure set forth in § 330.13 of this chapter.
+
+[39 FR 11680, Mar. 29, 1974, as amended at 41 FR 32582, Aug. 4, 1976; 42 FR 4714, Jan. 25, 1977; 42 FR 15674, Mar. 22, 1977; 72 FR 15043, Mar. 30, 2007]

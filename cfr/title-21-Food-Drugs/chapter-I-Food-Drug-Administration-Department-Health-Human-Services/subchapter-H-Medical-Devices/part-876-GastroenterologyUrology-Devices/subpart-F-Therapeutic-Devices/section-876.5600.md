@@ -1,0 +1,5 @@
+##### § 876.5600 Sorbent regenerated dialysate delivery system for hemodialysis. #####
+
+(a) *Identification.* A sorbent regenerated dialysate delivery system for hemodialysis is a device that is part of an artificial kidney system for the treatment of patients with renal failure or toxemic conditions, and that consists of a sorbent cartridge and the means to circulate dialysate through this cartridge and the dialysate compartment of the dialyzer. The device is used with the extracorporeal blood system and the dialyzer of the hemodialysis system and accessories (§ 876.5820). The device includes the means to maintain the temperature, conductivity, electrolyte balance, flow rate and pressure of the dialysate, and alarms to indicate abnormal dialysate conditions. The sorbent cartridge may include absorbent, ion exchange and catalytic materials.
+
+(b) *Classification.* Class II (performance standards).

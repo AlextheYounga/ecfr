@@ -1,0 +1,5 @@
+##### § 40.397 Change in location. #####
+
+Whenever a manufacturer of cigarette papers and tubes contemplates a change in location of a factory within the same region, the manufacturer shall, before commencing operations at the new location, file an extension of coverage of bond in accordance with the provisions of § 40.407. Whenever a manufacturer of cigarette papers and tubes contemplates changing the location of a factory to another region, the manufacturer shall, before commencing operations at the new location, qualify as a manufacturer in the new region, in accordance with the applicable provisions of this subpart, and make a closing inventory and closing report, in accordance with the provisions of §§ 40.434 and 40.426, respectively.
+
+(72 Stat. 1421, 1422; 26 U.S.C. 5711, 5721, and 5722)Bonds and Extensions of Coverage of Bonds

@@ -1,0 +1,5 @@
+##### § 1314.100 Sales limits for mail-order sales. #####
+
+(a) Each regulated person who makes a sale at retail of a scheduled listed chemical product and is required under § 1310.03(c) of this chapter to submit a report of the sales transaction to the Administration may not in a single calendar day sell to any purchaser more than 3.6 grams of ephedrine base, 3.6 grams of pseudoephedrine base, or 3.6 grams of phenylpropanolamine base in scheduled listed chemical products.
+
+(b) Each regulated person who makes a sale at retail of a scheduled listed chemical product and is required under § 1310.03(c) of this chapter to submit a report of the sales transaction to the Administration may not in any 30-day period sell to an individual purchaser more than 7.5 grams of ephedrine base, 7.5 grams of pseudoephedrine base, or 7.5 grams of phenylpropanolamine base in scheduled listed chemical products.

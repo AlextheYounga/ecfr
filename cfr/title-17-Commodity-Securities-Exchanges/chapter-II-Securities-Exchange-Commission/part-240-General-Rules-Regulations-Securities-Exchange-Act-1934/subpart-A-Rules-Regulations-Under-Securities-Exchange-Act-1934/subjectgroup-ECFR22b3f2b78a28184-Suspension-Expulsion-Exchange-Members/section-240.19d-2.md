@@ -1,0 +1,5 @@
+##### § 240.19d-2 Applications for stays of disciplinary sanctions or summary suspensions by a self-regulatory organization. #####
+
+If any self-regulatory organization imposes any final disciplinary sanction as to which a notice is required to be filed with the Commission pursuant to Section 19(d)(1) of the Exchange Act, 15 U.S.C. 78s(d)(1), pursuant to Section 6(b)(6), 15A(b)(7) or 17A(b)(3)(G) of the Act (15 U.S.C. 78f(b)(6), 78*o*-3(b)(7) or 78q-1(b)(3)(G)), or summarily suspends or limits or prohibits access pursuant to Section 6(d)(3), 15A(h)(3) or 17A(b)(5)(C) of the Act (15 U.S.C. 78f(d)(3), 78*o*-3(h)(3) or 78q-1(b)(5)(C)), any person aggrieved thereby for which the Commission is the appropriate regulatory agency may file with the Commission a written motion for a stay of imposition of such action pursuant to Rule 401 of the Commission's Rules of Practice, § 201.401 of this chapter.
+
+[60 FR 32825, June 23, 1995]

@@ -1,0 +1,5 @@
+##### § 1.30 Loans by futures commission merchants; treatment of proceeds. #####
+
+Nothing in the regulations in this chapter shall prevent a futures commission merchant from lending its own funds to customers on securities and property pledged by such customers, or from repledging or selling such securities and property pursuant to specific written agreement with such customers. The proceeds of such loans used to purchase, margin, guarantee, or secure the trades, contracts, or commodity options of customers shall be treated and dealt with by a futures commission merchant as belonging to such customers, in accordance with and subject to the provisions of the Act and these regulations. A futures commission merchant may not loan funds on an unsecured basis to finance customers' trading, nor may a futures commission merchant loan funds to customers secured by the customer accounts of such customers.
+
+[78 FR 68637, Nov. 14, 2013]

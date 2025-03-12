@@ -1,0 +1,5 @@
+##### § 44.69 Assessment. #####
+
+Whenever any person required by law to pay tax on tobacco products, and cigarette papers and tubes fails to pay such tax, the tax shall be ascertained and assessed against such person, subject to the limitations prescribed in 26 U.S.C. 6501. The tax so assessed shall be in addition to the penalties imposed by law for failure to pay such tax when required. Except in cases where delay may jeopardize collection of the tax, or where the amount is nominal or the result of an evident mathematical error, no such assessment shall be made until and after notice has been afforded such person to show cause against assessment. The person will be allowed 45 days from the date of such notice to show cause, in writing, against such assessment.
+
+(72 Stat. 1417; 26 U.S.C. 5703)[T.D. 6871, 31 FR 49, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55856, Sept. 28, 1979; T.D. ATF-232, 51 FR 28088, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986]

@@ -1,0 +1,9 @@
+##### § 478.57 Discontinuance of business. #####
+
+(a) Where a firearm or ammunition business is either discontinued or succeeded by a new owner, the owner of the business discontinued or succeeded shall within 30 days thereof furnish to the Chief, Federal Firearms Licensing Center notification of the discontinuance or succession. (See also § 478.127.)
+
+(b) Since section 922(v), Title 18, U.S.C., makes it unlawful to transfer or possess a semiautomatic assault weapon, except as provided in the law, any licensed manufacturer, licensed importer, or licensed dealer intending to discontinue business shall, prior to going out of business, transfer in compliance with the provisions of this part any semiautomatic assault weapon manufactured or imported after September 13, 1994, to a person specified in § 478.40(b), or, subject to the provisions of §§ 478.40(c) and 478.132, a licensed manufacturer, a licensed importer, or a licensed dealer.
+
+(c) Since section 922(w), Title 18, U.S.C., makes it unlawful to transfer or possess a large capacity ammunition feeding device, except as provided in the law, any person who manufactures, imports, or deals in such devices and who intends to discontinue business shall, prior to going out of business, transfer in compliance with the provisions of this part any large capacity ammunition feeding device manufactured after September 13, 1994, to a person specified in § 478.40a(b), or, subject to the provisions of §§ 478.40a(c) and 478.132, a person who manufactures, imports, or deals in such devices.
+
+[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55842, Sept. 28, 1979; T.D. ATF-290, 54 FR 53055, Dec. 27, 1989; T.D. ATF-363, 60 FR 17453, Apr. 6, 1995; T.D. ATF-383, 61 FR 39321, July 29, 1996]

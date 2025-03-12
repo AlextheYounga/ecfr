@@ -1,0 +1,5 @@
+##### § 50.2 Determination of U.S. nationality of persons abroad. #####
+
+The Department shall determine claims to United States nationality when made by persons abroad on the basis of an application for registration, for a passport, or for a Consular Report of Birth Abroad of a Citizen of the United States of America. Such determinations of nationality may be made abroad by a consular officer or a designated nationality examiner. A designated nationality examiner may accept and approve/disapprove applications for registration and accept and approve/disapprove applications for passports and issue passports. Under the supervision of a consular officer, designated nationality examiners shall accept, adjudicate, disapprove and provisionally approve applications for the Consular Report of Birth Abroad. A Consular Report of Birth Abroad may only be issued by a consular officer, who will review a designated nationality examiner's provisional approval of an application for such report and issue the report if satisfied that the claim to nationality has been established.
+
+[31 FR 13537, Oct. 20, 1966, as amended at 61 FR 43311, Aug. 22, 1996]

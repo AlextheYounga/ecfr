@@ -1,0 +1,5 @@
+##### § 70.124 Payments in excess of amounts shown on return. #####
+
+In certain cases, the taxpayer's payments in respect of a tax liability, made before the filing of the taxpayer's return, may exceed the amount of tax shown on the return. In any case in which the appropriate TTB officer determines that the payments by the taxpayer (made within the period prescribed for payment and before the filing of the return) are in excess of the amount of tax shown on the return, the appropriate TTB officer may make credit or refund of such overpayment without awaiting examination of the completed return and without awaiting filing of a claim for refund. However, the provisions of § 70.123 of this part are applicable to such overpayment, and taxpayers should submit claims for refund to protect themselves in the event the appropriate TTB officer fails to make such determination and credit or refund.
+
+(Approved by the Office of Management and Budget under control number 1512-0141)(26 U.S.C. 6402)[T.D. ATF-301, 55 FR 47616, Nov. 14, 1990]

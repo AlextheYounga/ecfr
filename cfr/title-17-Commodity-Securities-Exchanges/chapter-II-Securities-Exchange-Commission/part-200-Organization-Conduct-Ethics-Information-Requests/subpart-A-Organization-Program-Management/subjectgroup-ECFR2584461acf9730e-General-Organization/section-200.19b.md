@@ -1,0 +1,5 @@
+##### § 200.19b Director of the Division of Enforcement. #####
+
+The Director of the Division of Enforcement is responsible to the Commission for supervising and conducting all enforcement activities under the acts administered by the Commission. The Director recommends the institution of administrative and injunctive actions arising out of such enforcement activities and determines the sufficiency of evidence to support the allegations in any proposed complaint. The Director supervises the Regional Directors and, in collaboration with the General Counsel, reviews cases to be recommended to the Department of Justice for criminal prosecution. The Director grants or denies access to nonpublic information in the Commission's enforcement files under § 240.24c-1 of this chapter; provided that access under that section shall be granted only with the concurrence of the head of the division or office responsible for the information or the files containing it.
+
+[60 FR 14626, Mar. 20, 1995]

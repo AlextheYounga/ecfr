@@ -1,0 +1,7 @@
+##### § 270.8b-25 Extension of time for furnishing information. #####
+
+(a) Subject to paragraph (b) of this section, if it is impractical to furnish any required information, document or report at the time it is required to be filed, there may be filed with the Commission as a separate document an application (a) identifying the information, document or report in question, (b) stating why the filing thereof at the time required is impracticable, and (c) requesting an extension of time for filing the information, document or report to a specified date not more than 60 days after the date it would otherwise have to be filed. The application shall be deemed granted unless the Commission, within 10 days after receipt thereof, shall enter an order denying the application. Section 270.0-5 (Rule N-5) shall not apply to such applications.
+
+(b) If it is impracticable to furnish any document or report required to be filed in electronic format at the time it is required to be filed, the electronic filer may file under the temporary hardship provision of rule 201 of Regulation S-T (§ 232.201 of this chapter) or may submit a written application for a continuing hardship exemption, in accordance with rule 202 of Regulation S-T (§ 232.202 of this chapter). Applications for such exemptions shall be considered in accordance with the provisions of those sections and paragraphs (h) and (i) of § 200.30-5 of this chapter.
+
+[18 FR 8576, Dec. 19, 1953, as amended at 58 FR 14860, Mar. 18, 1993; 60 FR 14630, Mar. 20, 1995]

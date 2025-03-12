@@ -1,0 +1,3 @@
+##### § 1421.16 Showing of interest. #####
+
+*Showing of interest* means evidence of membership in a labor organization; employees' signed and dated authorization cards or petitions authorizing a labor organization to represent them for purposes of exclusive recognition; allotment of dues forms executed by an employee and the labor organization's authorized official; current dues records; and existing or recently expired agreement; current exclusive recognition or certification; employees' signed and dated petitions or cards indicating that they no longer desire to be represented for the purposes of exclusive recognition by the currently recognized or certified labor organization; or other evidence approved by the Authority.

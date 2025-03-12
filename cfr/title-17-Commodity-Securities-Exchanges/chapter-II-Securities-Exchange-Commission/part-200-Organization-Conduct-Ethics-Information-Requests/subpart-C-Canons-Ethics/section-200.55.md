@@ -1,0 +1,3 @@
+##### § 200.55 Statutory obligations. #####
+
+In administering the law, members of this Commission should vigorously enforce compliance with the law by all persons affected thereby. In the exercise of the rulemaking powers delegated this Commission by the Congress, members should always be concerned that the rulemaking power be confined to the proper limits of the law and be consistent with the statutory purposes expressed by the Congress. In the exercise of their judicial functions, members shall honestly, fairly and impartially determine the rights of all persons under the law.

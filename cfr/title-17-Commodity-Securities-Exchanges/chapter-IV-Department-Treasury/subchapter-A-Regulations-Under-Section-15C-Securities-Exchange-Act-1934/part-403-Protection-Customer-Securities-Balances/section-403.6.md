@@ -1,0 +1,3 @@
+##### § 403.6 Compliance with part by futures commission merchants. #####
+
+A registered government securities broker or dealer that is also a futures commission merchant registered with the CFTC shall comply with the provisions of this part with respect to all customer funds and securities except those that are incidental to the broker's or dealer's futures-related business, as defined in § 240.3a43-1(b) of this title. For purposes of the preceding sentence, the term “customer” shall have the meaning set forth in § 240.15c3-3(a)(1) of this title.

@@ -1,0 +1,3 @@
+##### § 40.534 Power of attorney. #####
+
+If the application for permit or any report or other document required to be executed under this subpart is to be signed by an individual (including one of the partners for a partnership or one of the members of an association) as an attorney in fact for any person, or if an individual is to otherwise officially represent such person, power of attorney on TTB F 5000.8 shall be furnished to the appropriate TTB officer. Such power of attorney is not required for persons whose authority is furnished with the corporate documents as required by § 40.494. TTB F 5000.8 does not have to be filed again with the appropriate TTB officer where such form has previously been submitted to that appropriate TTB officer and is still in effect.

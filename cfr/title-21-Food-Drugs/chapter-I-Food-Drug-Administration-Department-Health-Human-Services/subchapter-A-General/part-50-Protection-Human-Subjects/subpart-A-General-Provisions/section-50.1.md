@@ -1,0 +1,7 @@
+##### § 50.1 Scope. #####
+
+(a) This part applies to all clinical investigations regulated by the Food and Drug Administration under sections 505(i) and 520(g) of the Federal Food, Drug, and Cosmetic Act, as well as clinical investigations that support applications for research or marketing permits for products regulated by the Food and Drug Administration, including foods, including dietary supplements, that bear a nutrient content claim or a health claim, infant formulas, food and color additives, drugs for human use, medical devices for human use, biological products for human use, and electronic products. Additional specific obligations and commitments of, and standards of conduct for, persons who sponsor or monitor clinical investigations involving particular test articles may also be found in other parts (e.g., parts 312 and 812). Compliance with these parts is intended to protect the rights and safety of subjects involved in investigations filed with the Food and Drug Administration pursuant to sections 403, 406, 409, 412, 413, 502, 503, 505, 510, 513-516, 518-520, 721, and 801 of the Federal Food, Drug, and Cosmetic Act and sections 351 and 354-360F of the Public Health Service Act.
+
+(b) References in this part to regulatory sections of the Code of Federal Regulations are to chapter I of title 21, unless otherwise noted.
+
+[45 FR 36390, May 30, 1980; 46 FR 8979, Jan. 27, 1981, as amended at 63 FR 26697, May 13, 1998; 64 FR 399, Jan. 5, 1999; 66 FR 20597, Apr. 24, 2001]

@@ -1,0 +1,15 @@
+##### § 40.34 Immigrant membership in totalitarian party. #####
+
+(a) *Definition of affiliate.* The term *affiliate,* as used in INA 212(a)(3)(D), means an oganization which is related to, or identified with, a proscribed association or party, including any section, subsidiary, branch, or subdivision thereof, in such close association as to evidence an adherence to or a furtherance of the purposes and objectives of such association or party, or as to indicate a working alliance to bring to fruition the purposes and objectives of the proscribed association or party. An organization which gives, loans, or promises support, money, or other thing of value for any purpose to any proscribed association or party is presumed to be an *affiliate* of such association or party, but nothing contained in this paragraph shall be construed as an exclusive definition of the term *affiliate.*
+
+(b) *Service in Armed Forces.* Service, whether voluntary or not, in the armed forces of any country shall not be regarded, of itself, as constituting or establishing an alien's membership in, or affiliation with, any proscribed party or organization, and shall not, of itself, constitute a ground of ineligibility to receive a visa.
+
+(c) *Voluntary Service in a Political Capacity.* Voluntary service in a political capacity shall constitute affiliation with the political party or organization in power at the time of such service.
+
+(d) *Voluntary Membership After Age 16.* If an alien continues or continued membership in or affiliation with a proscribed organization on or after reaching 16 years of age, only the alien's activities after reaching that age shall be pertinent to a determination of whether the continuation of membership or affiliation is or was voluntary.
+
+(e) *Operation of Law Defined.* The term *operation of law,* as used in INA 212(a)(3)(D), includes any case wherein the alien automatically, and without personal acquiescence, became a member of or affiliated with a proscribed party or organization by official act, proclamation, order, edict, or decree.
+
+(f) *Membership in Organization Advocating Totalitarian Dictatorship in the United States.* In accordance with the definition of *totalitarian party* contained in INA 101(a)(37), a former or present voluntary member of, or an alien who was, or is, voluntarily affiliated with a noncommunist party, organization, or group, or of any section, subsidiary, branch, affiliate or subdivision thereof, which during the time of its existence did not or does not advocate the establishment in the United States of a totalitarian dictatorship, is not considered ineligible under INA 212(a)(3)(D) to receive a visa.
+
+(g) *Waiver of ineligibility—212(a)(3)(D)(iv).* lf an immigrant visa applicant is ineligible under INA 212(a)(3)(D) but is qualified to seek the benefits of INA 212(a)(3)(D)(iv), the consular officer shall inform the alien of the procedure for applying to DHS for relief under that provision of law. A visa may not be issued to the alien until the consular officer has received notification from DHS of the approval of the alien's application under INA 212(a)(3)(D)(iv).

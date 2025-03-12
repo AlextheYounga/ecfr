@@ -1,0 +1,3 @@
+##### § 64.3 Submission of application. #####
+
+A foreign government intending to provide grants or other assistance to facilitate the participation of Federal employees in a program of cultural exchange shall submit to the Department of State an application for approval of the program through its embassy, mission, or office at Washington, D.C. If there is no embassy, mission, or office at Washington, D.C., of the foreign government the application may be submitted by the home office or headquarters of the foreign government. The application shall be addressed to the Secretary of State.

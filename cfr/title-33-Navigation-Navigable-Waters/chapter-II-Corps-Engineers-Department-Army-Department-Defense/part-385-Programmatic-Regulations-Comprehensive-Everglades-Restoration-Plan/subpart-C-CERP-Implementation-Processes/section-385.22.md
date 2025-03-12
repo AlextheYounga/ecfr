@@ -1,0 +1,29 @@
+##### § 385.22 Independent scientific review and external peer review. #####
+
+(a) *The independent scientific review panel required by section 601(j).* (1) Section 601(j) of WRDA 2000 requires that the Secretary of the Army, the Secretary of the Interior, and the Governor, in consultation with the South Florida Ecosystem Restoration Task Force, establish an independent scientific review panel, convened by a body, such as the National Academy of Sciences, to review the Plan's progress toward achieving the natural system restoration goals of the Plan. Section 601(j) also directs that this panel produce a biennial report to Congress, the Secretary of the Army, the Secretary of the Interior, and the Governor that includes an assessment of ecological indicators and other measures of progress in restoring the ecology of the natural system, based on the Plan.
+
+(2) To carry out section 601(j), the Department of the Army, the Department of the Interior, and the State shall establish an independent scientific review panel to conduct on-going review of the progress achieved by the implementation of the Plan in achieving the restoration goals of the Plan and shall provide the panel with the resources and cooperation necessary to ensure that the panel is able to function effectively.
+
+(3) Not later than June 14, 2004, the Secretary of the Army, the Secretary of the Interior, and the Governor, in consultation with the South Florida Ecosystem Restoration Task Force, shall enter into a five-year agreement, with options for extensions in five-year increments, with the National Academy of Sciences to convene this panel.
+
+(4) The Department of the Army, the Department of the Interior, and the State expect that the National Academy of Sciences will use established practices for assuring the independence of members and that the review panel will include members reflecting a balance of the knowledge, training, and experience suitable to comprehensively review and assess progress towards achieving natural system restoration goals of the Plan.
+
+(5) To ensure the independence of the section 601(j) panel, its sole mission shall be to review the Plan's progress toward achieving the natural system restoration goals of the Plan and to produce a biennial report to Congress, the Secretary of the Army, the Secretary of the Interior, and the Governor that includes an assessment of ecological indicators and other measures of progress in restoring the ecology of the natural system, based on the Plan. The Secretary of the Army, the Secretary of the Interior, the Governor, and the South Florida Ecosystem Restoration Task Force and its members, shall not attempt to influence the panel's review or assign this panel any other tasks, nor request any advice on any other matter, nor shall this panel accept any other tasks nor provide advice on any other matter, to any entity, whether Federal, State or local, whether public or private.
+
+(6) Before final establishment of the panel, the Department of the Army, the Department of the Interior, and the State, in consultation with the South Florida Ecosystem Restoration Task Force, shall be afforded the opportunity to review the list of panel members convened by the National Academy of Sciences.
+
+(7) The agreement shall recognize that the Department of the Army, the Department of the Interior, and the State retain the right and ability to establish other independent scientific review panels or external peer reviews when deemed necessary by those agencies for conducting specific scientific and technical reviews.
+
+(8) The Department of the Army, the Department of the Interior, and the State of Florida shall share the panel's costs. The Department of the Army and the Department of the Interior shall enter into a separate Memorandum of Agreement that will specify how the Federal agencies will pay the Federal share of these costs. The State's fifty percent share shall be accounted for in the design agreement between the Corps of Engineers and the South Florida Water Management District.
+
+(9) The panel shall produce a biennial report to Congress, the Secretary of the Army, the Secretary of the Interior, and the Governor, pursuant to section 601(j) of WRDA 2000, that includes an assessment of ecological indicators and other measures of progress in restoring the ecology of the natural system, based on the Plan.
+
+(10) The Corps of Engineers and the South Florida Water Management District and other non-Federal sponsors shall cooperate with the independent scientific review panel, including responding to reasonable requests for information concerning the implementation of the Plan.
+
+(11) The Secretary of the Army, the Secretary of the Interior, and the Governor shall consult with the South Florida Ecosystem Restoration Task Force in their decision to exercise each five-year option to extend the agreement with the National Academy of Sciences. Upon expiration of the agreement, the Secretary of the Army, the Secretary of the Interior, and the Governor shall consult the South Florida Ecosystem Restoration Task Force in selection of another body to convene the independent scientific review panel required by section 601(j) of WRDA 2000.
+
+(b) *External peer review.* (1) The Department of the Army, the Department of the Interior, the South Florida Water Management District, and other Federal, State, and local agencies, the Miccosukee Tribe of Indians of Florida and the Seminole Tribe of Florida may initiate an external peer review process to review documents, reports, procedures, or to address specific scientific or technical questions or issues relating to their jurisdiction.
+
+(2) In accordance with § 385.12(d), draft Pilot Project Technical Reports shall be externally peer reviewed.
+
+(3) In accordance with § 385.31(b), draft assessment reports prepared for the adaptive management program shall be externally peer reviewed.

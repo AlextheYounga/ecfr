@@ -1,0 +1,5 @@
+##### § 44.264a To a foreign-trade zone. #####
+
+Where cigars are withdrawn from a customs warehouse for delivery to a foreign-trade zone, under zone restricted status for the purpose of exportation or storage, the customs warehouse proprietor making the shipment shall forward two copies of the notice of removal, Form 5200.14, to the customs officer in charge of the zone. Upon receipt of the shipment, the customs officer shall execute the certificate of receipt on each copy of the form, noting thereon any discrepancy, retain one copy for his records, and forward the other copy to the customs warehouse proprietor making the shipment for filing with the appropriate TTB officer.
+
+[T.D. 6564, 26 FR 4362, May 19, 1961. Redesignated at 40 FR 16835, Apr. 15, 1975, as amended by T.D. ATF-421, 64 FR 71926, Dec. 22, 1999]

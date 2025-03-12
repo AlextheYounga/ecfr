@@ -1,0 +1,5 @@
+##### § 355.60 Professional labeling. #####
+
+(a) The labeling for anticaries fluoride treatment rinses identified in § 355.10(a)(3) and (c)(3) that are specially formulated so they may be swallowed (fluoride supplements) and are provided to health professionals (but not to the general public) may contain the following additional dosage information: Children 3 to under 14 years of age: As a supplement in areas where the water supply is nonfluoridated (less than 0.3 parts per million (ppm)), clean the teeth with a toothpaste and rinse with 5 milliliters (mL) of 0.02 percent or 10 mL of 0.01 percent fluoride ion rinse daily, then swallow. When the water supply contains 0.3 to 0.7 ppm fluoride ion, reduce the dose to 2.5 mL of 0.02 percent or 5 mL of 0.01 percent fluoride ion rinse daily.
+
+(b) The labeling for products marketed to health to health professionals in package sizes larger than those specified in § 355.20 shall include the statements: “For Professional Office Use Only” and “This product is not intended for home or unsupervised consumer use.”

@@ -1,0 +1,5 @@
+##### § 46.73 Circumstances under which payment may be made. #####
+
+An appropriate TTB officer shall allow payment (without interest) of an amount equal to the amount of tax paid or determined, and the Commissioner of Customs shall allow payment (without interest) of an amount equal to the amount of customs duty paid, on tobacco products, and cigarette papers and tubes removed, which are lost, rendered unmarketable, or condemned by a duly authorized official by reason of a disaster occurring in the United States on and after September 3, 1958. Such payments may be made only if, at the time of the disaster, such tobacco products, or cigarette papers or tubes were being held for sale by the claimant. No payment shall be made under this subpart with respect to any amount of tax or duty claimed or to be claimed under any other provision of law or regulations.
+
+[T.D. 6871, 31 FR 59, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975 and amended by T.D. ATF-232, 51 FR 28090, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-472, 67 FR 8881, Feb. 27, 2002]

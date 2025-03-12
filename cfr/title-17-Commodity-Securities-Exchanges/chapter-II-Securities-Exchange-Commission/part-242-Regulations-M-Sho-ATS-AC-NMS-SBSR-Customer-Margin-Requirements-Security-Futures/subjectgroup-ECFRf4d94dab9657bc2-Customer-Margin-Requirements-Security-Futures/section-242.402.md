@@ -1,0 +1,21 @@
+##### § 242.402 General provisions. #####
+
+(a) *Applicable margin rules.* Except to the extent inconsistent with this Regulation (§§ 242.400 through 242.406):
+
+(1) A security futures intermediary that carries a security future on behalf of a customer in a securities account shall record and conduct all financial relations with respect to such security future and related positions in accordance with Regulation T and the margin rules of the self-regulatory authorities of which the security futures intermediary is a member.
+
+(2) A security futures intermediary that carries a security future on behalf of a customer in a futures account shall record and conduct all financial relations with respect to such security future and related positions in accordance with the margin rules of the self-regulatory authorities of which the security futures intermediary is a member.
+
+(b) *Separation and consolidation of accounts.* (1) The requirements for security futures and related positions in one account may not be met by considering items in any other account, except as permitted or required under paragraph (b)(2) of this section or applicable margin rules. If withdrawals of cash, securities or other assets deposited as margin are permitted under this Regulation (§§ 242.400 through 242.406), bookkeeping entries shall be made when such cash, securities, or assets are used for purposes of meeting requirements in another account.
+
+(2) Notwithstanding paragraph (b)(1) of this section, the security futures intermediary shall consider all futures accounts in which security futures and related positions are held that are within the same regulatory classification or account type and are owned by the same customer to be a single account for purposes of this Regulation (§§ 242.400 through 242.406). The security futures intermediary may combine such accounts with other futures accounts that are within the same regulatory classification or account type and are owned by the same customer for purposes of computing a customer's overall margin requirement, as permitted or required by applicable margin rules.
+
+(c) *Accounts of partners.* If a partner of the security futures intermediary has an account with the security futures intermediary in which security futures or related positions are held, the security futures intermediary shall disregard the partner's financial relations with the firm (as shown in the partner's capital and ordinary drawing accounts) in calculating the margin or equity of any such account.
+
+(d) *Contribution to joint venture.* If an account in which security futures or related positions are held is the account of a joint venture in which the security futures intermediary participates, any interest of the security futures intermediary in the joint account in excess of the interest which the security futures intermediary would have on the basis of its right to share in the profits shall be margined in accordance with this Regulation (§§ 242.400 through 242.406).
+
+(e) *Extensions of credit.* (1) No security futures intermediary may extend or maintain credit to or for any customer for the purpose of evading or circumventing any requirement under this Regulation (§§ 242.400 through 242.406).
+
+(2) A security futures intermediary may arrange for the extension or maintenance of credit to or for any customer by any person, provided that the security futures intermediary does not willfully arrange credit that would constitute a violation of Regulation T, U or X of the Board of Governors of the Federal Reserve System (12 CFR parts 220, 221, and 224) by such person.
+
+(f) *Change in exempted person status.* Once a person ceases to qualify as an exempted person, it shall notify the security futures intermediary of this fact before entering into any new security futures transaction or related transaction that would require additional margin to be deposited under this Regulation (§§ 242.400 through 242.406). Financial relations with respect to any such transactions shall be subject to the provisions of this Regulation (§§ 242.400 through 242.406).

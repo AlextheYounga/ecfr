@@ -1,0 +1,3 @@
+##### § 171.30 Scope of review. #####
+
+On review, the Commission may, in its discretion and after appropriate consideration of the notice given to the parties, consider *sua sponte* any issues arising from the record before it and may base its determination thereon. The Commission may also limit its consideration to those issues specifically raised in the parties' briefs, treating all other issues as waived.

@@ -1,0 +1,3 @@
+##### § 94.5 Application. #####
+
+Any person, institution, or other body may apply to the U.S. Central Authority for assistance in locating a child, securing access to a child, or obtaining the return of a child that has been removed or retained in breach of custody rights. The application shall be made in the form prescribed by the U.S. Central Authority and shall contain such information as the U.S. Central Authority deems necessary for the purposes of locating the child and otherwise implementing the Convention. The application and any accompanying documents should be submitted in duplicate in English or with English translations. If intended for use in a foreign country, two additional copies should be provided in the language of the foreign country.

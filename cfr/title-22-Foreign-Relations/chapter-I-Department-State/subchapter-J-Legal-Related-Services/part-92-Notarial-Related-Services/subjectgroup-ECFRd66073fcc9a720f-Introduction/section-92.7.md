@@ -1,0 +1,7 @@
+##### § 92.7 Responsibility of notarizing officers of the Department of State. #####
+
+(a) As a rule notarial acts should be performed at the consular office. Where required by the circumstances of a particular case and subject to the reasonableness of the request notarial acts may be performed elsewhere within the limits of the consulate subject to the assessment of the applicable fees under subheading “Services Rendered Outside of Office” of the Tariff of Fees (§ 22.1(a) of this chapter), as well as to payment by the interested party of the officer's expenses in going to the place where the service is performed and returning to his office (§ 22.1(b) of this chapter).
+
+(b) As indicated in §§ 92.4, 92.5, and 92.6, the authority of secretaries of embassy or legation as well as consular officers to perform notarial acts is generally recognized. However, the function is essentially consular, and notarial powers are in practice exercised by diplomatic officers only in the absence of a consular officer or U.S. citizen State Department employee designated to perform notarial functions as provided in § 92.1(d). Performance of notarial acts by an officer assigned in dual diplomatic and consular capacity shall be performed in his/her consular capacity, except in special circumstances.
+
+[27 FR 12616, Dec. 20, 1962, as amended at 60 FR 51721, Oct. 3, 1995]

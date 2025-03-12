@@ -1,0 +1,5 @@
+##### § 320.63 Retention of bioequivalence samples. #####
+
+The applicant of an abbreviated application or a supplemental application submitted under section 505 of the Federal Food, Drug, and Cosmetic Act, or, if bioequivalence testing was performed under contract, the contract research organization shall retain reserve samples of any test article and reference standard used in conducting an in vivo or in vitro bioequivalence study required for approval of the abbreviated application or supplemental application. The applicant or contract research organization shall retain the reserve samples in accordance with, and for the period specified in, § 320.38 and shall release the reserve samples to FDA upon request in accordance with § 320.38.
+
+[58 FR 25928, Apr. 28, 1993, as amended at 64 FR 402, Jan. 5, 1999]

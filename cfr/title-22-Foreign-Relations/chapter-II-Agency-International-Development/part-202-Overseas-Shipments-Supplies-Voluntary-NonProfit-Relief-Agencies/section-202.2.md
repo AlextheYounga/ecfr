@@ -1,0 +1,7 @@
+##### § 202.2 Shipments eligible for reimbursement of freight charges. #####
+
+(a) In order to further the efficient use of United States voluntary contributions for development, relief, and rehabilitation in nations or areas designated by the Administrator of AID from time to time, agencies may be reimbursed by AID within specified limitations for freight charges incurred and paid in transporting supplies donated to or purchased by such agencies from United States ports or, in the case of excess or surplus property supplied by the United States, from foreign ports to ports of entry in the recipient country or to points of entry in the recipient country in cases (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specified country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports.
+
+(b) Shipments shall be eligible for reimbursement of freight charges only as authorized by the issuance by AID of a Procurement Authorization (Form AID 1160-4).
+
+(c) The Office of Commodity Management, Bureau for Program and Management Services, AID, shall be responsible for determining when carriers are “unavailable.”

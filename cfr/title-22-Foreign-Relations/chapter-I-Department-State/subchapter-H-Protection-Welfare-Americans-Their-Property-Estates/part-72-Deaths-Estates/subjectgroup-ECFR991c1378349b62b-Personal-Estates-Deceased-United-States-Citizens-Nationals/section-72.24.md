@@ -1,0 +1,3 @@
+##### § 72.24 Conflicting claims. #####
+
+Neither the consular officer nor the Department of State has the authority or responsibility to mediate or determine the validity or order of contending claims to the personal estate of a deceased United States citizen or non-citizen national. If rival claimants, executors or administrators demand the personal estate in the consular officer's possession, the officer should not release the estate to any claimant until a legally binding agreement in writing has been reached or until the dispute is settled by a court of competent jurisdiction, and/or the Department has approved the release.

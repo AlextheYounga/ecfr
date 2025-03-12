@@ -1,0 +1,5 @@
+##### § 1.910 What training requirements apply to carriers engaged in transportation operations? #####
+
+(a) When the carrier and shipper have agreed in a written contract that the carrier is responsible, in whole or in part, for the sanitary conditions during transportation operations, the carrier must provide adequate training to personnel engaged in transportation operations that provides an awareness of potential food safety problems that may occur during food transportation, basic sanitary transportation practices to address those potential problems, and the responsibilities of the carrier under this part. The training must be provided upon hiring and as needed thereafter.
+
+(b) Carriers must establish and maintain records documenting the training described in paragraph (a) of this section. Such records must include the date of the training, the type of training, and the person(s) trained. These records are subject to the records requirements of § 1.912(c).

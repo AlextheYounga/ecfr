@@ -1,0 +1,5 @@
+##### § 28.286 Receipt in customs bonded warehouse. #####
+
+On receipt of the distilled spirits or wine and the related TTB Form 5100.11 or 5110.30 as the case may be, the customs officer in charge of the customs bonded warehouse shall make such inspection as is necessary to establish to his satisfaction that the shipment corresponds with the description thereof on the appropriate form. The customs officer shall note on each copy of the Form 5100.11 or 5110.30, as the case may be, any deficiency in quantity or discrepancy between the merchandise inspected and that described on the form. Where the inspection discloses no loss, or where a loss is disclosed and there is no evidence to indicate fraud, the officer shall execute his certificate of deposit on both copies of the form, forward the original as required by the instructions on the form, and retain the remaining copy for his files.
+
+(Sec. 3(a), Pub. L. 91-659, 84 Stat. 1965 (26 U.S.C. 5066); sec. 2, Pub. L. 96-601, 94 Stat. 3495 (26 U.S.C. 5362))[T.D. ATF-88, 46 FR 39816, Aug. 5, 1981, as amended by T.D. TTB-8, 69 FR 3834, Jan. 27, 2004]

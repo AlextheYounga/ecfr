@@ -1,0 +1,15 @@
+##### § 230.25 Environmental review and consultation requirements. #####
+
+See 40 CFR 1502.25.
+
+(a) For Federal projects, NEPA documents shall be prepared concurrently with and utilize data from analyses required by other environmental laws and executive orders. A listing of environmental laws and orders is contained in table 3.4.3 of Economic and Environmental Principles and Guidelines for Water and Related Land Resources Implementation Studies. Reviews and consultation requirements, analyses, and status of coordination associated with applicable laws, executive orders and memoranda will be summarized in the draft document. The results of the coordination completed or underway pursuant to these authorities will be summarized in the final document. Where the results of the ongoing studies are not expected to materially affect the decision on the proposed action, the filing of the final EIS need not be delayed.
+
+(b) *Executive Order 12114, Environmental Effects Abroad of Major Federal Actions, 4 January 1979.* For general policy guidance, see Federal Register of April 12, 1979, 32 CFR part 197. Procedural requirements for Civil Works studies and projects are discussed below.
+
+(1) The district commander through the division commander will notify CECW-PE, PN, PS or PW as appropriate, of an impending action which may impact on another country and for which environmental studies may be necessary to determine the extent and significance of the impact. The district commander will inform CECW-P whether entry into the country is necessary to study the base condition.
+
+(2) CECW-P will notify the State Department, Office of Environment and Health (OES/ENH) of the district commander's concern, and whether a need exists at this point to notify officially the foreign nation of our intent to study potential impacts. Depending on expected extent and severity of impacts, or if entry is deemed necessary, the matter will be referred to the appropriate foreign desk for action.
+
+(3) As soon as it becomes evident that the impacts of the proposed actions are considered significant, CECW-P will notify the State Department. The State Department will determine whether the foreign embassy needs to be notified, and will do so if deemed appropriate, requesting formal discussions on the matter. When the International Joint Commission (IJC) or the International Boundary and Water Commission, United States and Mexico (IBWC) is involved in a study, the State Department should be consulted to determine the foreign policy implications of any action and the proper course of action for formal consultations.
+
+(4) Prior to public dissemination, press releases or reports dealing with impact assessments in foreign nations should be made available to the appropriate foreign desk at the State Department for clearance and coordination with the foreign embassy.

@@ -1,0 +1,5 @@
+##### § 230.423 Date of prospectuses. #####
+
+Except for a form of prospectus used after the effective date of the registration statement and before the determination of the offering price as permitted by Rule 430A(c) under the Securities Act (§ 230.430A(c) of this chapter) or before the opening of bids as permitted by Rule 445(c) under the Securities Act (§ 230.445(c) of this chapter), each prospectus used after the effective date of the registration statement shall be dated approximately as of such effective date; provided, however, that a revised or amended prospectus used thereafter need only bear the approximate date of its issuance. Each supplement to a prospectus shall be dated separately the approximate date of its issuance.
+
+[47 FR 11440, Mar. 16, 1982, as amended at 52 FR 21260, June 5, 1987; 76 FR 71876, Nov. 21, 2011]

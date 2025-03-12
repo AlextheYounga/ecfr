@@ -1,0 +1,5 @@
+##### § 888.3800 Wrist joint metal/polymer semi-constrained cemented prosthesis. #####
+
+(a) *Identification.* A wrist joint metal/polymer semi-constrained cemented prosthesis is a device intended to be implanted to replace a wrist joint. The device limits translation and rotation in one or more planes via the geometry of its articulating surfaces. It has no linkage across-the-joint. This generic type of device includes prostheses that have either a one-part radial component made of alloys, such as cobalt-chromium-molybdenum, with an ultra-high molecular weight polyethylene bearing surface, or a two-part radial component made of alloys and an ultra-high molecular weight polyethylene ball that is mounted on the radial component with a trunnion bearing. The metallic portion of the two-part radial component is inserted into the radius. These devices have a metacarpal component(s) made of alloys, such as cobalt-chromium-molybdenum. This generic type of device is limited to those prostheses intended for use with bone cement (§ 888.3027).
+
+(b) *Classification.* Class II.

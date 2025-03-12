@@ -1,0 +1,5 @@
+##### § 60.36 Standard of due diligence. #####
+
+(a) In determining the due diligence of an applicant, FDA will examine the facts and circumstances of the applicant's actions during the regulatory review period to determine whether the applicant exhibited that degree of attention, continuous directed effort, and timeliness as may reasonably be expected from, and are ordinarily exercised by, a person during a regulatory review period. FDA will take into consideration all relevant factors, such as the amount of time between the approval of an investigational exemption or research permit and the commencement of a clinical investigation and the amount of time required to conduct a clinical investigation.
+
+(b) For purposes of this part, the actions of the marketing applicant shall be imputed to the applicant for patent term restoration. The actions of an agent, attorney, contractor, employee, licensee, or predecessor in interest of the marketing applicant or applicant for patent term restoration shall be imputed to the applicant for patent term restoration.

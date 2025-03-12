@@ -1,0 +1,3 @@
+##### § 230.15 Mitigation and monitoring. #####
+
+See 40 CFR 1505.2(c) and 1505.3. District commanders shall, upon request from interested agencies or the public, provide reports on the progress and status of required mitigation and other provisions of their decisions on Corps projects. The term monitoring will be interpreted as that oversight activity necessary to ensure that the decision, including required mitigation measures, is implemented.

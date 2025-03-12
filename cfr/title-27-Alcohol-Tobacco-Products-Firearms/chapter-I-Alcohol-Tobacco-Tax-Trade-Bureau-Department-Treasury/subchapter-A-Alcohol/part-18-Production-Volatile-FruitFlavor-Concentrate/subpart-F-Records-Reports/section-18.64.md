@@ -1,0 +1,3 @@
+##### § 18.64 Photographic copies of records. #####
+
+Proprietors may record, copy, or reproduce records required by this part by any process which accurately reproduces or forms a durable medium for reproducing the original of records. Whenever records are reproduced under this section, the reproduced records will be preserved in conveniently accessible files, and provisions will be made for examining, viewing, and using the reproduced record the same as if it were the original record. The reproduced record will be treated and considered for all purposes as though it were the original record. All provisions of law and regulation applicable to the original record are applicable to the reproduced record.

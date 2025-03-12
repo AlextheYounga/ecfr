@@ -1,0 +1,3 @@
+##### § 240.14a-103 Notice of Exempt Solicitation. Information to be included in statements submitted by or on behalf of a person pursuant to § 240.14a-6(g). #####
+
+U.S. Securities and Exchange Commission Washington, DC 20549Notice of Exempt Solicitation1. Name of the Registrant: 2. Name of person relying on exemption: 3. Address of person relying on exemption: 4. Written materials. Attach written material required to be submitted pursuant to Rule 14a-6(g)(1) [§ 240.14a-6(g)(1)].[57 FR 48294, Oct. 22, 1992]

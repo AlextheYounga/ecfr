@@ -1,0 +1,3 @@
+##### § 40.203 Alien entitled to A, E, or G nonimmigrant classification. #####
+
+An alien entitled to nonimmigrant classification under INA 101(a)(15) (A), (E), or (G) who is applying for an immigrant visa and who intends to continue the activities required for such nonimmigrant classification in the United States is not eligible to receive an immigrant visa until the alien executes a written waiver of all rights, privileges, exemptions and immunities which would accrue by reason of such occupational status.

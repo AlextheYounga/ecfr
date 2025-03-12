@@ -1,0 +1,5 @@
+##### § 866.1620 Antimicrobial susceptibility test disc. #####
+
+(a) *Identification.* An antimicrobial susceptibility test disc is a device that consists of antimicrobic-impregnated paper discs used to measure by a disc-agar diffusion technique or a disc-broth elution technique the in vitro susceptibility of most clinically important bacterial pathogens to antimicrobial agents. In the disc-agar diffusion technique, bacterial susceptibility is ascertained by directly measuring the magnitude of a zone of bacterial inhibition around the disc on an agar surface. The disc-broth elution technique is associated with an automated rapid susceptibility test system and employs a fluid medium in which susceptibility is ascertained by photometrically measuring changes in bacterial growth resulting when antimicrobial material is eluted from the disc into the fluid medium. Test results are used to determine the antimicrobial agent of choice in the treatment of bacterial diseases.
+
+(b) *Classification.* Class II (performance standards).

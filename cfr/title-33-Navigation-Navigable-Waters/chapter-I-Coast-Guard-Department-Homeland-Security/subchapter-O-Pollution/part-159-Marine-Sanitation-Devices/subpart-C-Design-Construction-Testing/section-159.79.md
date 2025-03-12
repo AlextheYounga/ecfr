@@ -1,0 +1,3 @@
+##### § 159.79 Terminals. #####
+
+Terminals must be solderless lugs with ring type or captive spade ends, must have provisions for being locked against movement from vibration, and must be marked for identification on the wiring diagram required in § 159.57. Terminal blocks must be nonabsorbent and securely mounted. Terminal blocks must be provided with barrier insulation that prevents contact between adjacent terminals or metal surfaces.

@@ -1,0 +1,5 @@
+##### § 27.120 Persons authorized to receive distilled spirits imported in bulk. #####
+
+Distilled spirits imported in bulk (*i.e.*, in containers having a capacity in excess of 1 gallon (3.785 liters)) may be entered into a class 8 customs bonded warehouse for bottling, or may be withdrawn from customs custody only if entered for exportation or if withdrawn by a person to whom it is lawful to sell or otherwise dispose of distilled spirits in bulk pursuant to the Federal Alcohol Administration Act (49 Stat. 985, as amended; 27 U.S.C., 206) and subpart E of part 1 of this chapter. The importation and disposition of distilled spirits imported in bulk shall be reported as prescribed by §§ 27.133 to 27.134.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1342, 1361, 1374, 1395 (26 U.S.C. 5114, 5207, 5301, 5555))[T.D. ATF-34, 41 FR 46864, Oct. 26, 1976, as amended by T.D. TTB-145, 81 FR 94206, Dec. 22, 2016]

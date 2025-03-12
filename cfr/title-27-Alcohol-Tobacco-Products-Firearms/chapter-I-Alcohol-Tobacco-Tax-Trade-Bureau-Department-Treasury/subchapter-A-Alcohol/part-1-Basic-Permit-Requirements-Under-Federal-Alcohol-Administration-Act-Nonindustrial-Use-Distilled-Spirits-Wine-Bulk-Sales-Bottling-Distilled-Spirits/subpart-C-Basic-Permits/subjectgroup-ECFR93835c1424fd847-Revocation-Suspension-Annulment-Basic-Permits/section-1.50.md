@@ -1,0 +1,3 @@
+##### § 1.50 Revocation or suspension. #####
+
+Whenever the appropriate TTB officer has reason to believe that any permittee has willfully violated any of the conditions of the permittee's basic permit or has not engaged in the operations authorized by the permit for a period of more than two years, the appropriate TTB officer shall institute proceedings for the revocation or suspension of such permit, in accordance with the procedure set forth in part 71 of this chapter, which part is made applicable to such proceedings.

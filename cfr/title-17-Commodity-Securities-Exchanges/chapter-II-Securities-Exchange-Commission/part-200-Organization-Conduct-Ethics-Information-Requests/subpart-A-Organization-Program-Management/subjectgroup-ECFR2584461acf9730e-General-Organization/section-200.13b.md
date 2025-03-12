@@ -1,0 +1,5 @@
+##### § 200.13b Director of the Office of Public Affairs, Policy Evaluation, and Research. #####
+
+The Director of the Office of Public Affairs, Policy Evaluation, and Research is the chief public information officer for the Commission, and oversees activities that communicate the Commission's actions to those interested in or affected by them. His or her responsibilities include liaison with the news media, dissemination of information to the news media and to the general public, supervision of internal and some external publications and of audio-visual presentations. Responsibilities of the Director, and of his or her staff, include special projects that may be deemed appropriate to communicate information on Commission actions.
+
+[50 FR 12239, Mar. 28, 1985, as amended at 60 FR 14625, Mar. 20, 1995]

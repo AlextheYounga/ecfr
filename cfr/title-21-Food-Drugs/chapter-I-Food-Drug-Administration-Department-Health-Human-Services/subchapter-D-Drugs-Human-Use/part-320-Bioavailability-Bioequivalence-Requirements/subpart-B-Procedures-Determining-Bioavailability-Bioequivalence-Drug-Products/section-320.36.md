@@ -1,0 +1,7 @@
+##### § 320.36 Requirements for maintenance of records of bioequivalence testing. #####
+
+(a) All records of in vivo or in vitro tests conducted on any marketed batch of a drug product to assure that the product meets a bioequivalence requirement shall be maintained by the manufacturer for at least 2 years after the expiration date of the batch and submitted to the Food and Drug Administration on request.
+
+(b) Any person who contracts with another party to conduct a bioequivalence study from which the data are intended to be submitted to FDA as part of an application submitted under part 314 of this chapter shall obtain from the person conducting the study sufficient accurate financial information to allow the submission of complete and accurate financial certifications or disclosure statements required under part 54 of this chapter and shall maintain that information and all records relating to the compensation given for that study and all other financial interest information required under part 54 of this chapter for 2 years after the date of approval of the application. The person maintaining these records shall, upon request for any properly authorized officer or employee of the Food and Drug Administration, at reasonable time, permit such officer or employee to have access to and copy and verify these records.
+
+[42 FR 1635, Jan. 7, 1977. Redesignated at 57 FR 18001, Apr. 28, 1992, as amended at 63 FR 5252, Feb. 2, 1998]

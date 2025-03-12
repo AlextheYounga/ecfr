@@ -1,0 +1,5 @@
+##### § 571.7 Withdrawal of petition without prejudice. #####
+
+(a) In some cases the Commissioner will notify the petitioner that the petition, while technically complete, is inadequate to justify the establishment of a regulation or the regulation requested by petitioner. This may be due to the fact that the data are not sufficiently clear or complete. In such cases, the petitioner may withdraw the petition pending its clarification or the obtaining of additional data. This withdrawal will be without prejudice to a future filing. Upon refiling, the time limitation will begin to run anew from the date of refiling.
+
+(b) At any time before the order provided for in § 571.100(a) has been forwarded to the Federal Register for publication, the petitioner may withdraw the petition without prejudice to a future filing. Upon refiling the time limitation will begin to run anew.

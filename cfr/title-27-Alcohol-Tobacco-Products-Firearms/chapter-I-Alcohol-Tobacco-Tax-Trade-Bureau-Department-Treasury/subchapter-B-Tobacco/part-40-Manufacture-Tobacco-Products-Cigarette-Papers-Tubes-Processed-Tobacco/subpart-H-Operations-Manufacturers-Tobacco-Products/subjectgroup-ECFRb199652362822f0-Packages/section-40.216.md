@@ -1,0 +1,7 @@
+##### § 40.216 Notice for smokeless tobacco. #####
+
+(a) *Product designation.* Every package of chewing tobacco or snuff shall, before removal subject to tax, have adequately imprinted thereon, or on a label securely affixed thereto, the designation “chewing tobacco” or “snuff.” As an alternative, packages of chewing tobacco may be designated “Tax Class C”, and packages of snuff may be designated “Tax Class M”.
+
+(b) *Product weight.* Every package of chewing tobacco or snuff shall, before removal subject to tax, have adequately imprinted thereon, or on a label securely affixed thereto, a clear statement of the actual pounds and ounces of the product contained therein. As an alternative, the shipping cases containing packages of chewing tobacco or snuff may, before removal, have adequately imprinted thereon, or on a label securely affixed thereto, a clear statement, in pounds and ounces, of the total weight of the product, the tax class of the product, and the total number of the packages of product contained therein.
+
+(Approved by the Office of Management and Budget under control number 1512-0502)(Sec. 202, Pub. L. 85-859, 72 Stat. 1422 (26 U.S.C. 5723))[T.D. ATF-243, 51 FR 43194, Dec. 1, 1986, as amended by T.D. ATF-446, 66 FR 16602, Mar. 27, 2001]

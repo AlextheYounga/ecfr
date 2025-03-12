@@ -1,0 +1,7 @@
+##### § 872.6300 Rubber dam and accessories. #####
+
+(a) *Identification.* A rubber dam and accessories is a device composed of a thin sheet of latex with a hole in the center intended to isolate a tooth from fluids in the mouth during dental procedures, such as filling a cavity preparation. The device is stretched around a tooth by inserting a tooth through a hole in the center. The device includes the rubber dam, rubber dam clamp, rubber dam frame, and forceps for a rubber dam clamp. This classification does not include devices intended for use in preventing transmission of sexually transmitted diseases through oral sex; those devices are classified as condoms in § 884.5300 of this chapter.
+
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to § 872.9. If the device is not labeled or otherwise represented as sterile, it is exempt from the current good manufacturing practice requirements of the quality system regulation in part 820 of this chapter, with the exception of § 820.180 of this chapter, with respect to general requirements concerning records, and § 820.198 of this chapter, with respect to complaint files.
+
+[65 FR 2315, Jan. 14, 2000]

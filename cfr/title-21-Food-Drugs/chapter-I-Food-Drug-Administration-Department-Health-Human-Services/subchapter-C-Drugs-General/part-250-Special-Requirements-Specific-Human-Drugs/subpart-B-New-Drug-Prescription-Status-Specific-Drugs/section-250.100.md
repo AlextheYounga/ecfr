@@ -1,0 +1,9 @@
+##### § 250.100 Amyl nitrite inhalant as a prescription drug for human use. #####
+
+(a) Amyl nitrite inhalant has been available over-the-counter for emergency use by the patient in the management of angina pectoris for a number of years. As a result of a proposed policy statement published August 25, 1967 (32 FR 12404), the Commissioner of Food and Drugs received reports of the abuse of this drug by those who do not require it for medical purposes. Additionally, comment included a great deal of concern expressed by individual physicians, medical associations, pharmaceutical associations, manufacturers, and State and local health authorities. Based on the information available, it is the opinion of the Commissioner of Food and Drugs, concurred in by the Food and Drug Administration Medical Advisory Board, that amyl nitrite inhalant is a drug with a potentiality for harmful effect and that it should be removed from over-the-counter status and restricted to sale on the prescription of a practitioner licensed by law to administer such drug.
+
+(b) Therefore, amyl nitrite inhalant will be regarded as misbranded unless the labeling on or within the package from which the drug is to be dispensed bears adequate information for its safe and effective use by physicians, in accordance with § 201.100(c) of this chapter, and its label bears the statement “Rx only.”
+
+(c) Regulatory proceedings may be initiated with regard to the interstate shipment of amyl nitrite inhalant that is labeled, advertised, or dispensed contrary to this statement of policy if such act occurs after July 1, 1969.
+
+[40 FR 14033, Mar. 27, 1975, as amended at 67 FR 4906, Feb. 1, 2002]

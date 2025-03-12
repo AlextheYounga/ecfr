@@ -1,0 +1,3 @@
+##### § 5.25 Applicability of the Act. #####
+
+Except as otherwise specified in this part and unless the context otherwise requires, the provisions of Sections 4b, 4c(b), 4f, 4g, 4k, 4m, 4n, 4o, 6(c)-(e), 6b, 6c, 8(a)-(e), 8a and 12(f) of the Act shall apply to retail forex transactions that are subject to the requirements of this part as though such provisions were set forth herein and included specific references to retail forex transactions and the persons defined in § 5.1 of this part.

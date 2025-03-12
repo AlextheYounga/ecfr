@@ -1,0 +1,3 @@
+##### § 822.5 How will I know if I must conduct postmarket surveillance? #####
+
+We will send you a letter (the postmarket surveillance order) notifying you of the requirement to conduct postmarket surveillance. Before we send the order, or as part of the order, we may require that you submit information about your device that will allow us better to define the scope of a surveillance order. We will specify the device(s) subject to the surveillance order and the reason that we are requiring postmarket surveillance of the device under section 522 of the act. We will also provide you with any general or specific guidance that is available to help you develop your plan for conducting postmarket surveillance.

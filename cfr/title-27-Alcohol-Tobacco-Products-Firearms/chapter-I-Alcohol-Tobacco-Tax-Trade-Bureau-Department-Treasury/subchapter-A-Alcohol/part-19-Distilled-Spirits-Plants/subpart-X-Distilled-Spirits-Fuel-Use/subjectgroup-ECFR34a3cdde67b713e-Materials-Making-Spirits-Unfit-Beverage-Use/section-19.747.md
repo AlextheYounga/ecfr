@@ -1,0 +1,5 @@
+##### § 19.747 Other materials. #####
+
+If a proprietor wishes to use a material to render spirits unfit for beverage use that is not authorized under § 19.746 or that is not on the published list of materials, the proprietor may submit an application for approval to the appropriate TTB officer. The application must include the name of the material and the quantity of material that the proprietor proposes to add to each 100 gallons of spirits. The appropriate TTB officer may require the proprietor to submit an 8-ounce sample of such material. The proprietor may not use any proposed material until the appropriate TTB officer approves its use. Any material that impairs the quality of the spirits for fuel use will not be approved. The proprietor must retain as part of the records available for inspection by appropriate TTB officers any application approved by the appropriate TTB officer under this section.
+
+(26 U.S.C. 5181)

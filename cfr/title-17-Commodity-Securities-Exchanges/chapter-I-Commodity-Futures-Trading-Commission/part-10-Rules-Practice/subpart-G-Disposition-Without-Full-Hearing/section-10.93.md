@@ -1,0 +1,3 @@
+##### § 10.93 Obtaining default order. #####
+
+When a respondent has failed to (a) file an answer as provided in § 10.23 of these rules or (b) failed to appear or file a notice of appearance as provided in § 10.62 of these rules or (c) failed to file a statement under the shortened procedures as provided in § 10.92 of these rules, the Division of Enforcement may move the Administrative Law Judge to enter findings and conclusions and a default order against that respondent based upon the matters set forth in the complaint, which shall be deemed to be true for purposes of this determination.

@@ -1,0 +1,5 @@
+##### § 24.36 Instruments and measuring devices. #####
+
+All instruments and measuring devices required by this part to be furnished by the proprietor for the purpose of testing and measuring wine, spirits, volatile fruit-flavor concentrate, and materials will be maintained by the proprietor in accurate and readily usable condition. The appropriate TTB officer may disapprove the use of any equipment or means of measurement found to be unsuitable for the intended purpose, inaccurate, or not in accordance with regulations. In this case, the proprietor shall promptly provide suitable and accurate equipment or measuring devices. (Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended, 1381, as amended (26 U.S.C. 5357, 5366, 5368, 5552))
+
+[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13684, Mar. 22, 1999]

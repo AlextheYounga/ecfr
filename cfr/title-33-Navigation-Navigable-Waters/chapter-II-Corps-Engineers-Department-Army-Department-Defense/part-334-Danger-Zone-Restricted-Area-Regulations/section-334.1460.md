@@ -1,0 +1,9 @@
+##### § 334.1460 Atlantic Ocean and Vieques Sound, in vicinity of Culebra Island; bombing and gunnery target area. #####
+
+(a) *The danger zone.* From Punta Resaca on the north coast of Culebra at latitude 18°20′12″, longitude 65°17′29″ to latitude 18°25′07″, longitude 65°12′07″; thence to latitude 18°26′31″, longitude 65°16′45″; thence to latitude 18°23′00″, longitude 65°24′30″; thence to the charted position of nun buoy “2” at latitude 18°20′19″, longitude 65°24′51″; thence to latitude 18°18′47″, longitude 65°24′35″; thence to latitude 18°15′30″, longitude 65°21′30″; thence to a point on the southeast coast of Cayo de Luis Pena at latitude 18°17′51″, longitude 65°19′41″; and thence to Punta Tamarindo on the west coast of Culebra at latitude 18°19′12″ longitude 65°19′22″.
+
+(b) *The regulations.* (1) The danger zone is subject to use as a target area for bombing and gunnery practice. It will be open to navigation at all times except when firing is being conducted. At such times, no person or surface vessels, except those patrolling the area, shall enter or remain within the danger area. Prior to conducting each firing or dropping of ordnance the danger area will be patrolled to insure that no watercraft are within the danger area. Any watercraft in the vicinity will be warned that practice firing is about to take place and advised to vacate the area.
+
+(2) The regulations in this section shall be enforced by the Commander, Caribbean Sea Frontier, San Juan, Puerto Rico, and such agencies as he may designate.
+
+(Sec. 7, 40 Stat. 266, (33 U.S.C. 1))[13 FR 9530, Dec. 31, 1948. Redesignated at 14 FR 4904, Aug. 9, 1949, and amended at 28 FR 349, Jan. 12, 1963; 39 FR 27133, July 25, 1974; 44 FR 69298, Dec. 3, 1979. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17559, Apr. 10, 1997]

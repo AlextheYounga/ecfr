@@ -1,0 +1,7 @@
+##### § 1.07-75 Action on appeals. #####
+
+(a) Upon receipt, the Hearing Officer provides a copy of the appeal and any supporting brief to the District Commander who referred the case. Any comments which the District Commander desires to submit must be received by the Hearing Officer within 30 days. The Hearing Officer includes the District Commander's comments, or not later than 30 days after receipt of the appeal if no comments are submitted by the District Commander, the Hearing Officer forwards all materials in the case to the Commandant.
+
+(b) The Commandant issues a written decision in each case and furnishes copies to the party, the District Commander, and the Hearing Officer, The Commandant may affirm, reverse, or modify the decision, or remand the case for new or additional proceedings. In the absence of a remand, the decision of the Commandant on appeal shall be final. In addition to the actions which may be taken by the Commandant on appeal, the Commandant may also remit, mitigate or suspend the assessment in whole or in part. Upon the taking of remission, mitigation, or suspension action, the Commandant will inform the party of the action and any conditions placed on the action.
+
+[CGD 78-82, 43 FR 54186, Nov. 20, 1978, as amended by CGD 87-008a, 52 FR 17555, May 11, 1987]

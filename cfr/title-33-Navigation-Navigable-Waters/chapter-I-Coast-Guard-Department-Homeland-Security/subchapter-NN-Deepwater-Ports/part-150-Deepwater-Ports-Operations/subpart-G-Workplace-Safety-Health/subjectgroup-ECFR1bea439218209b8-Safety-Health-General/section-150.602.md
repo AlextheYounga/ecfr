@@ -1,0 +1,7 @@
+##### § 150.602 What occupational awareness training is required? #####
+
+(a) Each deepwater port operator must ensure that all deepwater port personnel are provided with information and training on recognized hazardous conditions in their workplace, including, but not limited to, electrical, mechanical, and chemical hazards. Specific required training topics are outlined in § 150.15(w) of this part.
+
+(b) As an alternative to compliance with the specific provisions of this subpart, an operator may provide, for workplace safety and health, the implementation of an approved, port-specific safety and environmental management program (SEMP). Operators should consult with the Commandant (CG-5P) in preparing an SEMP. Five copies of a proposed SEMP must be submitted to the Commandant for evaluation. The Commandant may consult with the local Sector Commander, or with the local MSU Commander, with COTP and OCMI authority, and will approve the SEMP if he or she finds that the SEMP provides at least as much protection of workplace safety and health as do the specific provisions of this subpart.
+
+[USCG-1998-3884, 71 FR 57651, Sept. 29, 2006, as amended by USCG-2013-0397, 78 FR 39182, July 1, 2013]

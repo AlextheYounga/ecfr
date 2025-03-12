@@ -1,0 +1,3 @@
+##### § 601.40 Scope. #####
+
+This subpart applies to certain biological products that have been studied for their safety and effectiveness in treating serious or life-threatening illnesses and that provide meaningful therapeutic benefit to patients over existing treatments (e.g., ability to treat patients unresponsive to, or intolerant of, available therapy, or improved patient response over available therapy).

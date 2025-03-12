@@ -1,0 +1,5 @@
+##### § 135.203 Amount required. #####
+
+(a) Each facility that is used for drilling for, producing, or processing oil, or which has the capacity to transport, store, transfer, or otherwise handle more than one thousand barrels of oil at any one time must be covered by evidence of financial responsibility submitted by or on behalf of the owner or operator of the facility, in the amount of $35,000,000.
+
+(b) Evidence of financial responsibility established and maintained by a person who owns or operates more than one facility, or who has an interest in the ownership or operation of more than one facility, may be applied by that person towards establishing and maintaining the required evidence of financial responsibility for each facility in which that person has an interest, if the evidence is available to satisfy liabilities arising out of incidents involving those facilities.

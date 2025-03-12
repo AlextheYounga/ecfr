@@ -1,0 +1,21 @@
+##### § 241.7 Application of test. #####
+
+(a) A preliminary ability to pay test will be applied during the study phase of any proposed project. If the ability to pay cost-share is lower than the standard share, the revised estimated cost-share will be used for budgetary and other planning purposes.
+
+(b) The official application of the ability to pay test will be made at the time the Project Cooperation Agreement (PCA) between the Corps of Engineers and the Non-Federal sponsor is signed. For structural flood control projects, the standard level of cost-sharing will not be known until the end of the project (since the standard level as specified in section 103(a), 33 U.S.C. 2213, includes LERRD). In this case, if the Eligibility Factor is greater than zero but less than one, the ability to pay non-Federal share will be determined using estimated costs.
+
+(c) The PCA for all projects subject to the ability to pay test will include a “whereas” clause indicating the results of the test. If the project is eligible for a lower non-Federal share:
+
+(1) The revised share will be specified in the PCA (there will be no recalculation of this share once the PCA is signed).
+
+(2) An exhibit attached to the Project Cooperation Agreement (PCA) will include the Benefits Based Floor (BBF) determined in § 241.5(a): the Eligibility Factor (EF) determined in § 241.5(b): If the Eligibility Factor is greater than zero but less than one, the estimated standard non-Federal share; the formula used in determining the ability to pay share as described in § 241.5(c)(1) through (c)(4); and a display of the non-Federal cost share under the high cost criteria described in § 241.5(d).
+
+(d) If at the time of project completion, the standard non-Federal share based on actual costs is less than the ability to pay share specified in the PCA, the standard share will apply.
+
+(e) *For structural projects.* (1) If the standard LERRD plus cash requirement exceeds the ability to pay cost-share, the Federal Government will make any necessary adjustments in expenditures in the following order: First, paying any cash requirement in excess of five percent of total project costs (if any) that would, under standard cost-sharing, have been the responsibility of the non-Federal sponsor; second, making payments for LERRD; and third, providing for reimbursement at the end of construction. Federal payments for LERRD will be made only after the non-Federal payment for LERRD reaches a percentage of total project costs equal to the ability to pay non-Federal cost-share less the five percent cash requirement. If such arrangements are necessary, the PCA should be prepared to reflect agreement on the best manner available for acquisition of those LERRD over the limiting percentage, or for reimbursing the sponsor upon completion of construction.
+
+(2) The non-Federal sponsor will be required to provide a cash payment equal to the minimum of five percent of estimated project costs, regardless of the outcome of the ability to pay test, unless any or all of the five percent cash requirement is waived by application of the high cost criteria described in § 241.5(d). The project sponsor shall make cash payments during construction at a rate such that the amount of non-Federal payments in each year, as a percentage of total non-Federal cash payments, equals the amount of Federal expenditures (including sunk pre-construction engineering and design costs as a first year Federal construction expenditure) as a percentage of total Federal expenditures. Total Federal expenditures include cash payments for construction and if necessary (due to ability to pay considerations), for LERRD, and for reimbursement to the non-Federal sponsor. Total Federal expenditures for the purpose of this calculation, do not include expenditures which allow the non-Federal sponsor to defer payment of the non-Federal share under the provisions of this rule.
+
+(f) For non-structural projects, reductions in the non-Federal cost-share as a result of the ability to pay test will not affect the procedures for determining the non-Federal and Federal payment schedules. For non-structural projects, no specific cash payments during construction are required by law.
+
+[54 FR 40581, Oct. 2, 1989, as amended at 60 FR 5134, Jan. 26, 1995]

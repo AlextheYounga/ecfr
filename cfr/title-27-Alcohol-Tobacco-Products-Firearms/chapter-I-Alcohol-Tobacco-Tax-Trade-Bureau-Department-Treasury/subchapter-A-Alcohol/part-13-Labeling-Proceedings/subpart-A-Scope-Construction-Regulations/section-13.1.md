@@ -1,0 +1,5 @@
+##### § 13.1 Scope of part. #####
+
+The regulations in this part govern the procedure and practice in connection with the issuance, denial, and revocation of certificates of label approval, certificates of exemption from label approval, and distinctive liquor bottle approvals under 27 U.S.C. 205(e) and 26 U.S.C. 5301. The regulations in this part also provide for appeal procedures when applications for label approval, exemptions from label approval, or distinctive liquor bottle approvals are denied, when such applications are approved with qualifications, or when these applications are approved and then subsequently revoked. The appeal process in this part does not apply to organic claims on alcohol beverage labels. See § 13.101.
+
+[T.D. ATF-406, 64 FR 2129, Jan. 13, 1999, as amended by T.D. ATF-483, 67 FR 62858, Oct. 8, 2002 ]

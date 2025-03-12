@@ -1,0 +1,7 @@
+##### § 1429.12 Service of process and papers by the Board. #####
+
+(a) *Methods of service.* Notices of hearings, reports and findings, decisions of Administrative Law Judges, complaints, written rulings on motions, decisions and orders, and all other papers required by this subchapter to be issued by the Board, the General Counsel, Regional Directors, Hearing Officers and Administrative Law Judges, shall be served personally or by certified mail or by telegraph.
+
+(b) *Upon whom served.* All papers required to be served under paragraph (a) of this section shall be served upon all counsel of record or other designated representative(s) of parties, and upon parties not so represented. Service upon such counsel or representative shall constitute service upon the party, but a copy also shall be transmitted to the party.
+
+(c) *Proof of service.* Proof of service shall be the verified return by the individual serving the papers setting forth the manner of such service, the return post office receipt, or the return telegraph receipt. When service is by mail, the date of service shall be the day when the matter served is deposited in the United States mail. When service is to be made to an addressee outside the United States, the date of service shall be the date received, as evidenced by official receipt.

@@ -1,0 +1,3 @@
+##### § 67.05-20 Minimum lighting requirements. #####
+
+The obstruction lighting requirements prescribed in this part are the minimum requirements only and shall not preclude the maintainer from making application for authorization to establish more lights, or lights of greater intensity than required to be visible at the distances prescribed: *Provided,* That the prescribed characteristics of color and flash duration are adhered to.

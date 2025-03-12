@@ -1,0 +1,11 @@
+##### § 241.6 Deferred payments for certain qualifying projects. #####
+
+(a) Whenever a project's Eligibility Factor exceeds zero, the project sponsor will be permitted to defer a portion of its share of flood control costs. The maximum allowable amount deferred equals the total non-Federal share less (for structural projects) five percent of total project costs and less (for all projects) any amounts for LERRD paid for or acquired by the sponsor prior to the time the PCA is signed. If for example, the non-Federal share of a structural project = 35.0 percent (after the ability to pay adjustment, if any) of which 10 percent is LERRD already paid for by the local sponsor, the maximum allowable amount to be deferred = 20 percent of project flood control costs (35 less the 5 percent cash requirements, less the 10 percent LERRD already acquired). Deferred payments at the option of the sponsor will be allowed regardless of the outcome of the benefits test described in § 241.5(a) whenever the Eligibility Factor exceeds zero.
+
+(b) When EF ≥1, the project sponsor may defer as much as the maximum allowable amount as described in § 241.6(a).
+
+(c) When 0 \<EF \<1, the sponsor may defer a fraction of the maximum allowable amount described in § 241.6(a), where the fraction equals the Eligibility Factor expressed to three decimal places. Continuing the example described in § 241.6(a), if EF = .712, total allowed deferral equals .712 × 20 percent = 14.2 percent of total project costs.
+
+(d) The deferred payment can be made in equal installments over any period of time selected by the non-Federal sponsor, provided that all repayments are made between the end of construction and thirty years thereafter. The amount repaid shall include interest during the repayment period as well as interest for the appropriate portion of the construction period for any amounts deferred prior to the end of construction. The rate of interest shall be determined in accordance with the provisions of section 106 of Pub. L. 99-662, 33 U.S.C. 2216.
+
+[54 FR 40581, Oct. 2, 1989, as amended at 60 FR 5134, Jan. 26, 1995]

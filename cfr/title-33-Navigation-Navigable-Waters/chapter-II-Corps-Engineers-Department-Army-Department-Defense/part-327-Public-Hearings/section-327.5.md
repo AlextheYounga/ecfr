@@ -1,0 +1,5 @@
+##### § 327.5 Presiding officer. #####
+
+(a) The district engineer, in whose district a matter arises, shall normally serve as the presiding officer. When the district engineer is unable to serve, he may designate the deputy district engineer or other qualified person as presiding officer. In cases of unusual interest, the Chief of Engineers or the division engineer may appoint such person as he deems appropriate to serve as the presiding officer.
+
+(b) The presiding officer shall include in the administrative record of the permit action the request or requests for the hearing and any data or material submitted in justification thereof, materials submitted in opposition to or in support of the proposed action, the hearing transcript, and such other material as may be relevant or pertinent to the subject matter of the hearing. The administrative record shall be available for public inspection with the exception of material exempt from disclosure under the Freedom of Information Act.

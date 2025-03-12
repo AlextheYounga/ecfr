@@ -1,0 +1,5 @@
+##### § 25.97 Continuation certificate. #####
+
+If the contract of surety between the brewer and the surety on an expiring bond or continuation certificate is continued in force for a succeeding period of not less than 4 years from the expiration date of the bond or continuation certificate, the brewer may submit, in lieu of a new bond, a Brewer's Bond Continuation Certificate on Form 5130.23, executed under the penalties of perjury, by the brewer and the surety attesting to continuation of the bond. Each continuation certificate will constitute a bond and all provisions of law and regulations applicable to bonds on Form 5130.22 given under this part, including the disapproval of bonds, are applicable to continuation certificates.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1388, as amended (26 U.S.C. 5401))

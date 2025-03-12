@@ -1,0 +1,7 @@
+##### § 112.177 Can an approved variance apply to any person other than those identified in the petition requesting that variance? #####
+
+(a) A State, tribe, or a foreign country that believes that a variance requested by a petition submitted by another State, tribe, or foreign country should also apply to similarly situated persons in its jurisdiction may request that the variance be applied to its similarly situated persons by submitting comments in accordance with § 10.30 of this chapter. These comments must include the information required in § 112.173. If FDA determines that these comments should instead be treated as a separate request for a variance, FDA will notify the State, tribe, or foreign country that submitted these comments that a separate request must be submitted in accordance with §§ 112.172 and 112.173.
+
+(b) If we grant a petition requesting a variance, in whole or in part, we may specify that the variance also applies to persons in a specific location who are similarly situated to those identified in the petition.
+
+(c) If we specify that the variance also applies to persons in a specific location who are similarly situated to those identified in the petition, we will inform the applicable State, tribe, or foreign country where the similarly situated persons are located of our decision in writing and will publish a notice on our Web site announcing our decision to apply the variance to similarly situated persons in that particular location.

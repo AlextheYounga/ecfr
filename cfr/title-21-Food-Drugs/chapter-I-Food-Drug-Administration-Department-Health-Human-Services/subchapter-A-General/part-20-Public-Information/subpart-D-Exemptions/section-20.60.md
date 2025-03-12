@@ -1,0 +1,5 @@
+##### § 20.60 Applicability of exemptions. #####
+
+(a) The exemptions established in this subpart shall apply to all Food and Drug Administration records, except as provided in subpart E of this part. Accordingly, a record that is ordinarily available for public disclosure in accordance with the provisions in subpart F of this part or of another regulation cross-referenced in § 20.100(c) is not available for such disclosure to the extent that it falls within an exemption contained in this subpart, except as provided by the limitations on exemptions specified in subpart E of this part. For example, correspondence that is ordinarily disclosable under § 20.103 is not disclosable to the extent that it contains trade secrets exempt from disclosure under § 20.61 and is not subject to discretionary release under § 20.82.
+
+(b) Where application of one or more exemptions results in a record being disclosable in part and nondisclosable in part, the rule established in § 20.22 shall apply.

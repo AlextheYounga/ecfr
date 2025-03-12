@@ -1,0 +1,11 @@
+##### § 138.140 Enforcement. #####
+
+(a) Any person who fails to comply with this subpart with respect to evidence of financial responsibility under Section 1016 of OPA 90 (33 U.S.C. 2716) is subject to a civil penalty under Section 4303(a) of OPA 90 (33 U.S.C. 2716a(a)). In addition, under Section 4303(b) of OPA 90 (33 U.S.C. 2716a(b)), the Attorney General may secure such relief as may be necessary to compel compliance with the OPA 90 requirements of this subpart, including termination of operations. Further, any person who fails to comply with this subpart with respect to evidence of financial responsibility under Section 108(a) of CERCLA (42 U.S.C. 9608(a)), is subject to a Class I administrative civil penalty, a Class II administrative civil penalty or a judicial penalty under Section 109 of CERCLA (42 U.S.C. 9609).
+
+(b) The Secretary of the Department in which the U.S. Coast Guard is operating will withhold or revoke the clearance required by 46 U.S.C. 60105 to any vessel subject to this subpart that has not provided the evidence of financial responsibility required by this subpart.
+
+(c) The Coast Guard may deny entry to any port or place in the United States or the navigable waters of the United States, and may detain at a port or place in the United States in which it is located, any vessel subject to this subpart, which has not provided the evidence of financial responsibility required by this subpart.
+
+(d) Any vessel subject to this subpart which is found operating in the navigable waters without having been issued a Certificate or maintained the necessary evidence of financial responsibility as required by this subpart is subject to seizure by, and forfeiture to, the United States.
+
+(e) Knowingly and willfully using an altered copy of a Certificate, or using a copy of a revoked, expired or voided Certificate for anything other than recordkeeping purposes, is prohibited. If a Certificate is revoked, has expired or is rendered void for any reason, the certificant must cease using all copies of the Certificate for anything other than the operator's own historical recordkeeping purposes.

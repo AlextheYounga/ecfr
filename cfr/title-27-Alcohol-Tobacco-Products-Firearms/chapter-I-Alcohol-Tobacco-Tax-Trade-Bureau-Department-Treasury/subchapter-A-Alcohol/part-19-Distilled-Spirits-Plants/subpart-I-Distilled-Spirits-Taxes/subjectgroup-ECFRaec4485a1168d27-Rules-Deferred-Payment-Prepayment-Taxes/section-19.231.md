@@ -1,0 +1,5 @@
+##### § 19.231 Accounting for bond coverage. #####
+
+When a proprietor furnishes a withdrawal bond or a unit bond to cover the tax on spirits withdrawn on determination of tax, and such bond is in less than the maximum penal sum, the proprietor must maintain an account for the bond to ensure that outstanding tax liabilities do not exceed the penal sum of the bond. The account must charge the bond for the amount of liability incurred on each withdrawal on determination of tax and, credit the bond for each payment of tax made with a return and for authorized credits taken on a return. If the balance of the bond account reaches zero, the proprietor may no longer defer tax payments for taxable withdrawals. Where the bond is for less than the maximum penal sum and has been allocated among two or more plants, the proprietor must maintain an account at each plant for that part of the penal sum allocated to each plant.
+
+(26 U.S.C. 5173)

@@ -1,0 +1,5 @@
+##### § 46.80 Penalties. #####
+
+Penalties are provided in 26 U.S.C. 7206 and 7207 for the execution under the penalties of perjury of any false or fraudulent statement in support of any claim and for the filing of any false or fraudulent document under this subpart. All provisions of law, including penalties, applicable in respect of internal revenue taxes on tobacco products, and cigarette papers and tubes shall, insofar as applicable and not inconsistent with this subpart, be applied in respect of the payments provided for in this subpart to the same extent as if such payments constituted refunds of such taxes.
+
+[T.D. 6871, 31 FR 60, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55857, Sept. 28, 1979; T.D. ATF-232, 51 FR 28092, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986]

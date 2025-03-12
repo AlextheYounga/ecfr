@@ -1,0 +1,5 @@
+##### § 20.403 Consolidation and severance. #####
+
+(a) A presiding ALJ may for good cause, with the approval of the Chief ALJ and with all parties given notice and opportunity to object, consolidate any matters at issue in two or more administrative proceedings docketed under this part. (Good cause includes the proceedings' possessing common parties, questions of fact, and issues of law and presenting the likelihood that consolidation would expedite the proceedings and serve the interests of justice.) The ALJ may not consolidate any matters if consolidation would prejudice any rights available under this part or impair the right of any party to place any matters at issue.
+
+(b) Unless directed otherwise by the Chief ALJ, a presiding ALJ may, either in response to a motion or on his or her own motion, for good cause, sever any administrative proceeding with respect to some or all parties, claims, and issues.

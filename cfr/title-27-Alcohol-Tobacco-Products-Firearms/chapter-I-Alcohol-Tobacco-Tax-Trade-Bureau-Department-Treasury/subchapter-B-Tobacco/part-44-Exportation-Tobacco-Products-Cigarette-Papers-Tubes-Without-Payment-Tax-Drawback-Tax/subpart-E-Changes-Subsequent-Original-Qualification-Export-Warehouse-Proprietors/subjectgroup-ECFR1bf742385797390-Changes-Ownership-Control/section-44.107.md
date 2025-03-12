@@ -1,0 +1,5 @@
+##### § 44.107 Change in stockholders of a corporation. #####
+
+Where the issuance, sale, or transfer of the stock of a corporation, operating as an export warehouse proprietor, results in a change in the identity of the principal stockholders exercising actual or legal control of the operations of the corporation, the corporate proprietor shall, within 30 days after the change occurs, make application for a new permit; otherwise, the present permit shall be automatically terminated at the expiration of such 30-day period, and the proprietor shall dispose of all cigars, cigarettes, and cigarette papers and tubes on hand, in accordance with this part, make a closing inventory and closing report, in accordance with the provisions of §§ 44.146 and 44.151, respectively, and surrender his permit with such inventory and report. If the application for a new permit is timely made, the present permit shall continue in effect pending final action with respect to such application.
+
+(72 Stat. 1421, 1422; 26 U.S.C. 5712, 5713, 5721, 5722)[T.D. 6871, 31 FR 50, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975]

@@ -1,0 +1,7 @@
+##### § 20.211 General. #####
+
+(a) Upon filing the appropriate qualifying documents under the applicable provisions of subparts D and F of this part and receiving approval, a manufacturer using denatured alcohol, specially denatured rum, or articles in an approved process may recover the denatured alcohol, specially denatured rum, or articles. However, a person who recovers (1) completely denatured alcohol with all its original ingredients, (2) an article made with specially denatured spirits with all its original ingredients (or practically so, to the extent that the presence of the original denaturants and other ingredients in the recovered article make it as nonpotable as the original article), or (3) an article made with completely denatured alcohol with all the denaturants of the completely denatured alcohol, shall not be required to obtain a permit under this part.
+
+(b) For a determination as to whether obtaining a permit under this part is necessary, each person who intends to conduct the recovery operations outlined in paragraph (a) of this section shall forward Form 5150.19 with a sample of the recovered article, to the appropriate TTB officer, in accordance with subpart F of this part.
+
+(c) Restoration and redenaturation may be done by a permittee or by the proprietor of a distilled spirits plant.

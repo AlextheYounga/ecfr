@@ -1,0 +1,7 @@
+##### § 240.15b1-3 Registration of successor to registered broker or dealer. #####
+
+(a) In the event that a broker or dealer succeeds to and continues the business of a broker or dealer registered pursuant to section 15(b) of the Act, the registration of the predecessor shall be deemed to remain effective as the registration of the successor if the successor, within 30 days after such succession, files an application for registration on Form BD, and the predecessor files a notice of withdrawal from registration on Form BDW; *Provided, however,* That the registration of the predecessor broker or dealer will cease to be effective as the registration of the successor broker or dealer 45 days after the application for registration on Form BD is filed by such successor.
+
+(b) Notwithstanding paragraph (a) of this section, if a broker or dealer succeeds to and continues the business of a registered predecessor broker or dealer, and the succession is based solely on a change in the predecessor's date or state of incorporation, form of organization, or composition of a partnership, the successor may, within 30 days after the succession, amend the registration of the predecessor broker or dealer on Form BD to reflect these changes. This amendment shall be deemed an application for registration filed by the predecessor and adopted by the successor.
+
+[58 FR 10, Jan. 4, 1993]

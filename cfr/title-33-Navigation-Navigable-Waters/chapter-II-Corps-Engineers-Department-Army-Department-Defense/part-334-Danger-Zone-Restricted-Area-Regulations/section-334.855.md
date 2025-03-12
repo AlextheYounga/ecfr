@@ -1,0 +1,9 @@
+##### § 334.855 Salt River, Rolling Fork River, Otter Creek; U.S. Army Garrison, Fort Knox Military Reservation; Fort Knox, Kentucky; danger zone. #####
+
+(a) *The area.* Salt River from Point A (latitude 37°59′31.72″ N; longitude 85°55′32.98″ W) located approximately 1.2 miles southeast of West Point, Kentucky; southward to its confluence with the Rolling Fork River. Salt River from Point B (latitude 37°57′51.32″ N; longitude 85°45′37.14″ W) located approximately 2.8 miles southwest of Shepherdsville, Kentucky; southward to its confluence with the Rolling Fork River. Rolling Fork River from Point C (latitude 37°49′59.27″ N; longitude 85°45′37.74″ W) located approximately 1.6 miles southwest of Lebanon Junction, Kentucky northward to its confluence with the Salt River. Otter Creek from Point D (latitude 37°51′31.77″ N; longitude 86°00′03.79″ W) located approximately 3.4 miles north of Vine Grove, Kentucky to Point E (latitude 37°55′21.95″ N; longitude 86°01′47.38″ W) located approximately 2.3 miles southwest of Muldraugh.
+
+(b) *The regulation.* All persons, swimmers, vessels and other craft, except those vessels under the supervision or contract to local military or Army authority, vessels of the United States Coast Guard, and federal, local or state law enforcement vessels, are prohibited from entering the danger zones without permission from the Commanding General, U.S. Army Garrison, Fort Knox Military Reservation, Fort Knox, Kentucky or his/her authorized representative.
+
+(c) *Enforcement.* The regulation in this section, promulgated by the United States Army Corps of Engineers, shall be enforced by the Commanding General, U.S. Army Garrison, Fort Knox Military Reservation, Fort Knox, Kentucky and/or other persons or agencies as he/she may designate.
+
+[70 FR 15228, Mar. 25, 2005]

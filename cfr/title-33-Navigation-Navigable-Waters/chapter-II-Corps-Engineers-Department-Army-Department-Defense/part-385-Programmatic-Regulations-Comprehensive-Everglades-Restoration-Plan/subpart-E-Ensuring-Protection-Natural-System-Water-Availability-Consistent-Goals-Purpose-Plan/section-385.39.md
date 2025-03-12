@@ -1,0 +1,35 @@
+##### § 385.39 Evaluating progress towards other water-related needs of the region provided for in the Plan. #####
+
+(a) *Purpose.* (1) The overarching objective of the Plan is the restoration, preservation, and protection of the South Florida ecosystem while providing for other water-related needs of the region, including water supply and flood protection. Progress towards providing for these other water-related needs shall also be evaluated.
+
+(2) As provided for in paragraph (c) of this section, the Secretary of the Army and the Governor shall establish interim targets for evaluating progress towards other water-related needs of the region provided for in the Plan throughout the implementation process. The interim targets and interim goals shall be consistent with each other.
+
+(3) The Department of the Army shall include these interim targets in appropriate Corps of Engineers guidance.
+
+(4) To ensure flexibility in implementing the Plan over the next several decades, and to ensure that interim targets may reflect changed circumstances or new information resulting from adaptive management, the interim targets may be modified, consistent with the processes set forth in paragraph (c) of this section, to reflect new information resulting from changed or unforeseen circumstances, new scientific and technical information, new or updated modeling; information developed through the assessment principles contained in the Plan; and future authorized changes to the Plan integrated into the implementation of the Plan.
+
+(5) The Corps of Engineers and the South Florida Water Management District shall sequence and schedule projects as appropriate to achieve the interim goals and interim targets for other water-related needs of the region provided for in the Plan, to the extent practical given funding, technical, or other constraints.
+
+(6) If the interim targets have not been met or are unlikely to be met, then the Corps of Engineers and the South Florida Water Management District shall determine why the interim targets have not been met or are unlikely to be met and either:
+
+(i) Initiate adaptive management actions pursuant to § 385.31(d) to achieve the interim targets as soon as practicable, consistent with the purposes of the Plan and consistent with the interim goals established pursuant to § 385.38; or
+
+(ii) Recommend changes to the interim targets in accordance with paragraph (a)(4) of this section.
+
+(b) *Principles for developing interim targets.* (1) RECOVER, using best available science and information, shall recommend a set of interim targets for evaluating progress towards other water-related needs of the region provided for in the Plan. These interim targets shall reflect the incremental accomplishment of the expected performance level of the Plan, and will identify improvements in quantity, quality, timing and distribution of water in five-year increments that begin in 2005, with the targets reflecting the results expected to be achieved by 2010 and for each five-year increment thereafter. The interim targets shall be developed through the use of appropriate models and tools and shall provide a quantitative basis for evaluating progress towards other water-related needs of the region provided for in the Plan during the period of implementation. In developing the interim targets for the five-year increments, RECOVER shall use the Master Implementation Sequencing Plan as the basis for predicting the performance at a given time. RECOVER may recommend additional interim targets for implementation of CERP in addition to those initially developed and may propose revisions to the initial set of interim targets as new information is gained through adaptive management.
+
+(2) In developing its recommendations for interim targets, RECOVER shall consider indicators including, but not limited to:
+
+(i) The frequency of water restrictions in the Lower East Coast Service Areas at each time increment;
+
+(ii) The frequency of water restrictions in the Lake Okeechobee Service Areas at each time increment;
+
+(iii) The frequency of meeting salt-water intrusion protection criteria for the Lower East Coast Service Area at each time increment; and
+
+(iv) The frequency of water shortage restrictions on lands covered under the Water Rights Compact Among the Seminole Tribe of Florida, the State of Florida, and the South Florida Water Management District at each time increment.
+
+(c) *Process for establishing interim targets.* (1) The recommendations of RECOVER shall be provided to the Corps of Engineers and the South Florida Water Management District. These recommendations shall be provided no later than June 14, 2004. The proposed interim targets shall be developed by the Secretary of the Army and the Governor, in consultation with the Department of the Interior, the Environmental Protection Agency, the Department of Commerce, the Miccosukee Tribe of Indians of Florida, the Seminole Tribe of Florida, the Florida Department of Environmental Protection, and other Federal, State, and local agencies, and the South Florida Ecosystem Restoration Task Force. In considering the interim targets, the Secretary of the Army and the Governor, shall be provided with, and consider, the technical recommendations of RECOVER and any modifications to those recommendations by the Corps of Engineers or the South Florida Water Management District. The Secretary of the Army shall provide a notice of availability of the proposed interim targets to the public in the Federal Register and seek public comments. After considering comments of the public on the proposed interim targets, and incorporating any suggestions that are appropriate and consistent with the goals and purposes of the Plan, the Secretary of the Army and the Governor, shall establish the final interim targets, and the Secretary of the Army shall provide a notice of availability to the public in the Federal Register by no later than December 13, 2004, but not prior to the execution of the Interim Goals Agreement pursuant to § 385.38. Interim targets are intended to facilitate inter-agency planning, monitoring, and assessment throughout the implementation process and are not standards or schedules enforceable in court.
+
+(2) In developing its recommendations for interim targets, RECOVER shall use the principles in paragraph (b) of this section.
+
+(3) The Secretary of the Army and the Governor shall review the interim targets at a minimum every five years beginning five years after the establishment of the interim targets to determine if they should be revised and to determine what those revisions should be. The public shall also be provided with an opportunity to comment on the proposed revisions. The Secretary of the Army and the Governor may also revise the interim targets whenever appropriate as new information becomes available. Any revisions to the interim targets shall be established consistent with the process described in this section.

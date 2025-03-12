@@ -1,0 +1,3 @@
+##### § 40.73 Additional information. #####
+
+The appropriate TTB officer may require such additional information as he may deem necessary to determine whether the applicant is entitled to a permit under the provisions of this part. The applicant shall, when required by the appropriate TTB officer, furnish as a part of his application for such permit such additional information as may be necessary for the appropriate TTB officer to determine whether the applicant is entitled to a permit.

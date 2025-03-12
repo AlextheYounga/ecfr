@@ -1,0 +1,3 @@
+##### § 1230.44 Samples. #####
+
+On the same day that samples are requested by the district, the District Director of Customs or appraiser shall notify the importer that samples will be taken, that the containers must be held intact pending a notice of the result of inspection and analysis, and that in case the containers do not comply with the requirements of the Federal Caustic Poison Act, they must be returned to the District Director of Customs for disposition. This notification may be given by the District Director of Customs or appraiser through individual notices to the importer or by suitable bulletin notices posted daily in the customhouse.

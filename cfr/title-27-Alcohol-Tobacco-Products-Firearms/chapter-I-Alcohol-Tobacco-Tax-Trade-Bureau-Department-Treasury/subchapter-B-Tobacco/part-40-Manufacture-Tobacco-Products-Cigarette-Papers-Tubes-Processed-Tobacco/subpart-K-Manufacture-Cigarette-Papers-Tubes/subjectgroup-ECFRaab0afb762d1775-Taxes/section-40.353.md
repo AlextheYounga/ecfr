@@ -1,0 +1,5 @@
+##### § 40.353 Persons liable for tax. #####
+
+The manufacturer of cigarette papers and tubes shall be liable for the taxes imposed on such articles by 26 U.S.C. 5701. When a manufacturer of cigarette papers and tubes transfers such papers and tubes without payment of tax, pursuant to 26 U.S.C. 5704 to the bonded premises of another such manufacturer, a manufacturer of tobacco products, or an export warehouse proprietor, the transferee shall become liable for the tax upon receipt of such papers and tubes and the transferor shall thereupon be relieved of liability for the tax. When cigarette papers and tubes are released in bond from customs custody for transfer to the bonded premises of a manufacturer of such papers and tubes or a manufacturer of tobacco products, the transferee shall become liable for the tax on the papers and tubes upon release from customs custody. Any person who possesses cigarette papers and tubes in violation of 26 U.S.C. 5751(a) (1) or (2), shall be liable for a tax equal to the rate of tax applicable to such articles.
+
+(72 Stat. 1417, 1424; 26 U.S.C. 5703, 5751)

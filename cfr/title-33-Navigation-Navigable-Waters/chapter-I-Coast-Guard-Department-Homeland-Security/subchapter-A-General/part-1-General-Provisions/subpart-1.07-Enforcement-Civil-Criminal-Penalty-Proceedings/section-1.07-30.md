@@ -1,0 +1,3 @@
+##### § 1.07-30 Disclosure of evidence. #####
+
+The alleged violator may, upon request, receive a free copy of all the written evidence in the case file, except material that would disclose or lead to the disclosure of the identity of a confidential informant. Other evidence or material, such as blueprints, sound or video tapes, oil samples, and photographs may be examined in the Hearing Officer's offices. The Hearing Officer may provide for examination or testing of evidence at other locations if there are adequate safeguards to prevent loss or tampering.

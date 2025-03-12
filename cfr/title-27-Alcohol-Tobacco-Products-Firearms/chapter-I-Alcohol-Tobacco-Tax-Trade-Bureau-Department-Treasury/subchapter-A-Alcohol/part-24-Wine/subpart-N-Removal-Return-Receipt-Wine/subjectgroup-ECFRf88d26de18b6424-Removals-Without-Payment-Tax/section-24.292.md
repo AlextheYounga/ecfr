@@ -1,0 +1,7 @@
+##### § 24.292 Exported wine. #####
+
+(a) *General.* Wine may be removed from a bonded wine premises without payment of tax for exportation, for use on vessels and aircraft, for transportation to and deposit in a “Class 6” manufacturing bonded warehouse, for transfer to and deposit in a customs bonded warehouse, and for transfer to and deposit in a foreign-trade zone for exportation or for storage pending exportation. Removals of wine for export will be in accordance with the procedures in part 28 of this chapter.
+
+(b) *Return of wine to bonded storage.* Wines which have been lawfully withdrawn, without payment of tax, under the provisions of part 28 of this chapter may be returned to bonded wine premises from which withdrawn for storage pending subsequent removal for lawful purposes. On return of wine to bonded wine premises, the proprietor shall record the receipt showing the gallonage of each tax class received and returned to storage on bonded wine premises and shall report the return on the TTB F 5120.17, Report of Bonded Wine Premises Operations for the reporting period with an explanatory notation. All provisions of this part applicable to wine in bond at bonded wine premises and to removals from bond are applicable to returned wine.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1380, as amended (26 U.S.C. 5362))(Approved by the Office of Management and Budget under control numbers 1512-0216 and 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-338, 58 FR 19065, Apr. 12, 1993; T.D. TTB-8, 69 FR 3830, Jan. 27, 2004]

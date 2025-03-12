@@ -1,0 +1,5 @@
+##### § 92.18 Oaths and affirmations defined. #####
+
+(a) *Oath.* An oath is an outward pledge given by the person taking it that his attestation or promise is made under an immediate sense of his responsibility to God. In a broad sense the word “oath” includes all forms of attestation by which a person signifies that he is bound in conscience to perform an act faithfully and truly, and in this sense it includes “affirmation”.
+
+(b) *Affirmation.* An affirmation is a solemn and formal declaration or asseveration in the nature of an oath that a statement, or series of statements, is true. When an oath is required or authorized by law, an affirmation in lieu thereof may be taken by any person having conscientious scruples against taking an oath. As a general rule, an affirmation has the same legal force and effect as an oath.

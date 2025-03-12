@@ -1,0 +1,3 @@
+##### § 478.146 Deliveries by mail to certain persons. #####
+
+The provisions of this part shall not be construed as prohibiting a licensed importer, licensed manufacturer, or licensed dealer from depositing a firearm for conveyance in the mails to any officer, employee, agent, or watchman who, pursuant to the provisions of section 1715 of title 18, U.S.C., is eligible to receive through the mails pistols, revolvers, and other firearms capable of being concealed on the person, for use in connection with his official duties.

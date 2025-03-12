@@ -1,0 +1,3 @@
+##### § 25.277 Discontinuance of operations. #####
+
+When operations of a pilot brewing plant are to be discontinued, the operator shall notify the appropriate TTB officer stating the purpose of the notice and giving the date of discontinuance. When operations have been completed and all beer at the premises has been disposed of and accounted for, the appropriate TTB officer will note approval on the notice and return a copy to the operator.

@@ -1,0 +1,3 @@
+##### § 1502.3 Access to Foundation records. #####
+
+Any person desiring to have access to Foundation records may call or apply in person between the hours of 10 a.m. and 4 p.m. on weekdays (holidays excluded) at the Foundation offices at 1724 Massachusetts Avenue, NW., Suite 200, Washington, DC 20036. Requests for access should be made to the Director of A&F, at the Foundation offices. If request is made for copies of any record, the Office of A&F will assist the person making such request in seeing that such copies are provided according to the rules in this part.

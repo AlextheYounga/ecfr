@@ -1,0 +1,5 @@
+##### § 1.633 How will FDA monitor recognized accreditation bodies? #####
+
+(a) FDA will evaluate the performance of each recognized accreditation body to determine its compliance with the applicable requirements of this subpart. Such assessment must occur by at least 4 years after the date of recognition for a 5-year recognition period, or by no later than the mid-term point for a recognition period of less than 5 years. FDA may conduct additional assessments of a recognized accreditation body at any time.
+
+(b) An FDA assessment of a recognized accreditation body may include onsite assessments of a representative sample of third-party certification bodies the recognized accreditation body accredited and onsite audits of a representative sample of eligible entities certified by such third-party certification bodies under this subpart. These may be conducted at any time and, as FDA determines necessary or appropriate, may occur without the recognized accreditation body or, in the case of an audit of an eligible entity, the accredited third-party certification body present.

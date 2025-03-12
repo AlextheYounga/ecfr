@@ -1,0 +1,3 @@
+##### § 304.11 Final denial of claim. #####
+
+The General Counsel will send notification of the final denial of an administrative claim to the claimant, his attorney, or legal representative by certified or registered mail. The notification of final denial may include a statement of the reasons for the denial and shall include a statement that, if the claimant is dissatisfied with the Peace Corps action, he may file suit in an appropriate U.S. District Court not later than 6 months after the date of mailing of the notification.

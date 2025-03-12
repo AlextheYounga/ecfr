@@ -1,0 +1,5 @@
+##### § 201.54 Settlement. #####
+
+The applicant and counsel for the Office or Division of the Commission may agree on a proposed settlement of the award before final action on the application, either in connection with a settlement of the underlying proceeding or after the underlying proceeding has been concluded, in accordance with the Commission's standard settlement procedure. See 17 CFR 201.240. If a prevailing party and counsel for the Office or Division of the Commission agree on a proposed settlement of an award before an application has been filed, the application shall be filed with the proposed settlement. If a proposed settlement provides that each side shall bear its own expenses, and the settlement is accepted, no application may be filed.
+
+[54 FR 53052, Dec. 27, 1989, as amended at 60 FR 32795, June 23, 1995]

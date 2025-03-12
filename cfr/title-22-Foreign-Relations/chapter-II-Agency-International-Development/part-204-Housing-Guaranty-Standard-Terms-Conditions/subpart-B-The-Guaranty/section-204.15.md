@@ -1,0 +1,3 @@
+##### § 204.15 Paying agent obligations. #####
+
+Failure of the Paying Agent to perform any of its obligations pursuant to the Paying and Transfer Agency Agreement shall not impair the Investor's or any Assignee's rights under this Contract of Guaranty, but may be the subject of action for damages against the Paying Agent by A.I.D. as a result of such failure or neglect; provided, however, that the Paying Agent is not authorized to issue and authenticate and have Notes outstanding at any time in excess of the principal amount of the Loan.

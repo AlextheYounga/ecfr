@@ -1,0 +1,3 @@
+##### § 92.95 Transportation of witnesses to the United States. #####
+
+Officers of the Foreign Service may at times be called upon to assist in arranging for the transportation to the United States of persons in foreign countries whose testimony is desired by the Attorney General in a case pending in a Federal court. Requests that the travel of such persons be facilitated originate in the Department of Justice, and special instructions in each case are transmitted to the appropriate Foreign Service post by the Department of State.

@@ -1,0 +1,3 @@
+##### § 171.14 Waiver of rules. #####
+
+To prevent undue hardship on any party or for other good cause shown, the Commission may waive any rule in this part in a particular case and may order proceedings in accordance with its direction. Such an order shall be based upon a determination that no party will be prejudiced thereby and that the ends of justice will be served. Reasonable notice will be given to all parties of any action taken pursuant to this paragraph.

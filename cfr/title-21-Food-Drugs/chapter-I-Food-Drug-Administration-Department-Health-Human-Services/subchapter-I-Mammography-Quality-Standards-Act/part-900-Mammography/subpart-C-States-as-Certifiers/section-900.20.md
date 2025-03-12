@@ -1,0 +1,3 @@
+##### § 900.20 Scope. #####
+
+The regulations set forth in this part implement the Mammography Quality Standards Act (MQSA) (42 U.S.C. 263b). Subpart C of this part establishes procedures whereby a State can apply to become a FDA-approved certification agency to certify facilities within the State to perform mammography services. Subpart C of this part further establishes requirements and standards for State certification agencies to ensure that all mammography facilities under their jurisdiction are adequately and consistently evaluated for compliance with quality standards at least as stringent as the national quality standards established by FDA.

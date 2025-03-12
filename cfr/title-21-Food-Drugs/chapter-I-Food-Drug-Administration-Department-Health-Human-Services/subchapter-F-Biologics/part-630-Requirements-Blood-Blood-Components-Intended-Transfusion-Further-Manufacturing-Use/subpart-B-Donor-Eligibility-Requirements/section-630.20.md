@@ -1,0 +1,9 @@
+##### § 630.20 Exceptions for certain ineligible donors. #####
+
+After assessing donor eligibility under §§ 630.10 and 630.15, an establishment may collect blood and blood components from a donor who is determined to be not eligible to donate under any provision of § 630.10(e) and (f) or § 630.15(a) if one of the following sets of conditions are met:
+
+(a) The donation is for autologous use only as prescribed by the donor's physician, the donor has a hemoglobin level no less than 11.0 grams of hemoglobin per deciliter of blood or a hematocrit value no less than 33 percent, and the responsible physician determines and documents that the donor's health permits the collection procedure; or
+
+(b) The donation is collected under a Source Plasma collection program which has received prior written approval from the Director, Center for Biologics Evaluation and Research, to collect plasma for further manufacturing use into in vitro products for which there are no alternative sources, the donor meets the criteria in § 630.10(f)(1) through (6), and the responsible physician determines and documents for each donation that the donor's health permits the collection procedure, and the collection takes place under the medical oversight specified in the approved plasmapheresis program.
+
+(c) The donation is restricted for use solely by a specific transfusion recipient based on documented exceptional medical need, and the responsible physician determines and documents that the donor's health permits the collection procedure, and that the donation presents no undue medical risk to the transfusion recipient.

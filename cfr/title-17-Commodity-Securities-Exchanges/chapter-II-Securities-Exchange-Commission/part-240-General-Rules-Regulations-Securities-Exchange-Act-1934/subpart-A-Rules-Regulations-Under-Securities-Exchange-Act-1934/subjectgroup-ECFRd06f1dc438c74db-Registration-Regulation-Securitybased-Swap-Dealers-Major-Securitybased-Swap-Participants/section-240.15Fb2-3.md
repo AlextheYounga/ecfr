@@ -1,0 +1,3 @@
+##### § 240.15Fb2-3 Amendments to Form SBSE, Form SBSE-A, and Form SBSE-BD. #####
+
+If a security-based swap dealer or a major security-based swap participant finds that the information contained in its Form SBSE (§ 249.1600 of this chapter), Form SBSE-A (§ 249.1600a of this chapter), or Form SBSE-BD (§ 249.1600b of this chapter), as appropriate, or in any amendment thereto, is or has become inaccurate for any reason, the security-based swap dealer or a major security-based swap participant shall promptly file an amendment electronically with the Commission through the Commission's EDGAR system on the appropriate Form to correct such information.

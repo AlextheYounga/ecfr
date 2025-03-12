@@ -1,0 +1,5 @@
+##### § 478.147 Return of firearm. #####
+
+A person not otherwise prohibited by Federal, State or local law may ship a firearm to a licensed importer, licensed manufacturer, or licensed dealer for any lawful purpose, and, notwithstanding any other provision of this part, the licensed manufacturer, licensed importer, or licensed dealer may return in interstate or foreign commerce to that person the firearm or a replacement firearm of the same kind and type. See § 478.124(a) for requirements of a Form 4473 prior to return. A person not otherwise prohibited by Federal, State or local law may ship a firearm curio or relic to a licensed collector for any lawful purpose, and, notwithstanding any other provision of this part, the licensed collector may return in interstate or foreign commerce to that person the firearm curio or relic.
+
+[T.D. ATF-270, 53 FR 10507, Mar. 31, 1988]

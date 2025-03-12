@@ -1,0 +1,5 @@
+##### § 117.223 Shaw Cove. #####
+
+The draw of the Amtrak bridge, mile 0.0 at New London, shall open on signal from December 1 through March 31 from 8 a.m. to 5 p.m. Monday through Friday. From December 1 through March 31 from 5 p.m. to 8 a.m. and on Saturdays and Sundays, the draw shall open on signal if at least eight hours notice is given. From April 1 through November 30 from 5 a.m. to 10 p.m., the draw shall open on signal; and, from 10 p.m. to 5 a.m., the draw shall open on signal if at least one hour notice is given. A delay of up to 10 minutes may be expected if a train is approaching so closely that it may not be safety stopped. When a vessel is in an emergency that may endanger life or property, the draw shall open as soon as possible.
+
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984; 49 FR 43459, Oct. 29, 1984]

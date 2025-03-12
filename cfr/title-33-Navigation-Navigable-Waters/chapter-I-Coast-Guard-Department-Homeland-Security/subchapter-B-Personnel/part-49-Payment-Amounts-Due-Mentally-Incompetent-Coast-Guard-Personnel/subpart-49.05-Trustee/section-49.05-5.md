@@ -1,0 +1,3 @@
+##### § 49.05-5 Bonding of trustee. #####
+
+The trustee or trustees appointed to receive moneys in behalf of incompetent personnel shall furnish a bond in all cases when the amounts to be received may be expected to exceed $1,000, and in such other cases when deemed appropriate by the Commandant. The bond so required and furnished shall have as surety a company approved by the Federal Government, and shall be in such amount as is required by the Commandant. Such bonds shall be continued in effect for the life of trusteeship and expenses in connection with the furnishing and renewal of such bonds may be paid out of sums due the incompetent.

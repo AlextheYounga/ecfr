@@ -1,0 +1,7 @@
+##### § 3.4 Registration in one capacity not included in registration in any other capacity. #####
+
+(a) Except as may be otherwise provided in the Act or in any rule, regulation, or order of the Commission, each futures commission merchant, retail foreign exchange dealer, swap dealer, major swap participant, floor broker, floor trader of any commodity for future delivery, commodity trading advisor, commodity pool operator, introducing broker, leverage transaction merchant, and associated person (other than an associated person of a swap dealer or major swap participant) must register as such under the Act. Except as may be otherwise provided in the Act or in any rule, regulation, or order of the Commission, registration in one capacity under the Act shall not include registration in any other capacity.
+
+(b) Except as may be provided in any rule, regulation or order of the Commission, registration as an associated person in one capacity shall not include registration as an associated person in any other capacity: *Provided, however,* That an associated person who is sponsored by a registrant, which itself is registered in more than one capacity, need register only once to act as an associated person of the registrant, and shall be deemed to be an associated person of such registrant, in each such capacity.
+
+[49 FR 39530, Oct. 9, 1984, as amended at 58 FR 19590, Apr. 15, 1993; 75 FR 55424, Sept. 10, 2010; 77 FR 2626, Jan. 19, 2012; 77 FR 51904, Aug. 28, 2012]

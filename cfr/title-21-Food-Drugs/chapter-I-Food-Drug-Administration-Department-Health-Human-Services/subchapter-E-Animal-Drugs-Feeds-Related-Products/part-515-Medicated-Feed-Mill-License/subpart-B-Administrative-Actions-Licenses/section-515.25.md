@@ -1,0 +1,3 @@
+##### § 515.25 Revocation of order refusing to approve a medicated feed mill license application or suspending or revoking a license. #####
+
+The Commissioner of Food and Drugs (the Commissioner), upon his/her own initiative or upon request of an applicant stating reasonable grounds therefor and if the Commissioner finds that the facts so require, may issue an order approving a medicated feed mill license application that previously has had its approval refused, suspended, or revoked.

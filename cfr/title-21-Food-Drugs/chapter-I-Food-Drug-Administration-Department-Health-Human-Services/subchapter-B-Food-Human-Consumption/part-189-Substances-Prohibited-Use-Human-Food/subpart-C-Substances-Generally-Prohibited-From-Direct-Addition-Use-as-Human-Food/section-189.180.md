@@ -1,0 +1,9 @@
+##### § 189.180 Safrole. #####
+
+(a) Safrole is the chemical 4-allyl-1,2-methylenedioxy-benzene, C10H10O2. It is a natural constituent of the sassafras plant. Oil of sassafras is about 80 percent safrole. Isosafrole and dihydrosafrole are derivatives of safrole, and have been used as flavoring compounds.
+
+(b) Food containing any added safrole, oil of sassafras, isosafrole, or dihydrosafrole, as such, or food containing any safrole, oil of sassafras, isosafrole, or dihydrosafrole, e.g., sassafras bark, which is intended solely or primarily as a vehicle for imparting such substances to another food, e.g., sassafras tea, is deemed to be adulterated in violation of the act based upon an order published in the Federal Register of December 3, 1960 (25 FR 12412).
+
+(c) The analytical method used for detecting safrole, isosafrole and dihydrosafrole is in the “Journal of the Association of Official Analytical Chemists,” Volume 54 (Number 4), pages 900 to 902, July 1971, which is incorporated by reference. Copies are available from the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1200, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+[42 FR 14659, Mar. 15, 1977, as amended at 42 FR 56729, Oct. 28, 1977; 47 FR 11855, Mar. 19, 1982; 54 FR 24900, June 12, 1989; 78 FR 14667, Mar. 7, 2013; 81 FR 49897, July 29, 2016]

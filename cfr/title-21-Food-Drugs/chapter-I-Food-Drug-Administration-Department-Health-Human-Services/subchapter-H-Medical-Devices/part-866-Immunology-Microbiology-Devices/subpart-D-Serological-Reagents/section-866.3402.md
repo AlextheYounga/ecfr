@@ -1,0 +1,7 @@
+##### § 866.3402 Plasmodium species antigen detection assays. #####
+
+(a) *Identification.* A *Plasmodium* species antigen detection assay is a device that employs antibodies for the detection of specific malaria parasite antigens, including histidine-rich protein-2 (HRP2) specific antigens, and pan malarial antigens in human whole blood. These devices are used for testing specimens from individuals who have signs and symptoms consistent with malaria infection. The detection of these antigens aids in the clinical laboratory diagnosis of malaria caused by the four malaria species capable of infecting humans: *Plasmodium falciparum*, *Plasmodium vivax*, *Plasmodium ovale*, and *Plasmodium malariae*, and aids in the differential diagnosis of *Plasmodium falciparum* infections from other less virulent *Plasmodium* species. The device is intended for use in conjunction with other clinical laboratory findings.
+
+(b) *Classification.* Class II (special controls). The special control is FDA's guidance document entitled “Class II Special Controls Guidance Document: *Plasmodium* species Antigen Detection Assays.” See § 866.1(e) for the availability of this guidance document.
+
+[73 FR 29054, May 20, 2008]

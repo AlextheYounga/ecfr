@@ -1,0 +1,7 @@
+##### § 41.52 Information media representative. #####
+
+(a) *Representative of foreign press, radio, film, or other information media.* An alien is classifiable as a nonimmigrant information media representative if the consular officer is satisfied that the alien qualifies under the provisions of INA 101(a)(15)(I) and is a representative of a foreign press, radio, film, or other information medium having its home office in a foreign country, the government of which grants reciprocity for similar privileges to representatives of such a medium having home offices in the United States.
+
+(b) *Classification when applicant eligible for both I visa and E visa.* An alien who will be engaged in foreign information media activities in the United States and meets the criteria set forth in paragraph (a) of this section shall be classified as a nonimmigrant under INA 101(a)(15)(I) even if the alien may also be classifiable as a nonimmigrant under the provisions of INA 101(a)(15)(E).
+
+(c) *Spouse and children of information media representative.* The spouse or child of an information media representative is classifiable under INA 101(a)(15)(I) if accompanying or following to join the principal alien.

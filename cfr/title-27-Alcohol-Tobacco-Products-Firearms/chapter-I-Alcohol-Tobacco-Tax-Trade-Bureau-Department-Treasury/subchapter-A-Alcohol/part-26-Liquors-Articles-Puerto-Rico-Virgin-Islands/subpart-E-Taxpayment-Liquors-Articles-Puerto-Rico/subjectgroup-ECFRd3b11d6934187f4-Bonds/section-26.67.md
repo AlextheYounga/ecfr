@@ -1,0 +1,5 @@
+##### § 26.67 Bond, Form 2897 - Wine. #####
+
+Where a proprietor intends to withdraw, for purpose of shipment to the United States, wine of Puerto Rican manufacture from bonded storage in Puerto Rico on computation, but before payment, of the tax imposed by 26 U.S.C. 7652(a), equal to the tax imposed in the United States by 26 U.S.C. 5041, he shall, before making any such withdrawal, furnish a bond, Form 2897, to secure payment of such tax, at the time and in the manner prescribed in this subpart, on all wine so withdrawn. The bond shall be executed in a penal sum not less than the amount of unpaid tax which, at any one time, is chargeable against the bond: *Provided,* That the penal sum of such bond shall not exceed $250,000, but in no case shall the penal sum be less than $500.
+
+(Aug. 16, 1954, Chapter 736, 68A Stat. 775, as amended, 847, as amended, 906, 907, as amended (26 U.S.C. 6302, 7101, 7102, 7651(2)(B), 7652(a)))[T.D. 6551, 26 FR 1490, Feb. 22, 1961. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55852, Sept. 28, 1979]

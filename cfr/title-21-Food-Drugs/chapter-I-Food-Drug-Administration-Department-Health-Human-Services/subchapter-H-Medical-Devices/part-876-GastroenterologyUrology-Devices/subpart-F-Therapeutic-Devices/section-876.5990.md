@@ -1,0 +1,7 @@
+##### § 876.5990 Extracorporeal shock wave lithotripter. #####
+
+(a) *Identification.* An extracorporeal shock wave lithotripter is a device that focuses ultrasonic shock waves into the body to noninvasively fragment urinary calculi within the kidney or ureter. The primary components of the device are a shock wave generator, high voltage generator, control console, imaging/localization system, and patient table. Prior to treatment, the urinary stone is targeted using either an integral or stand-alone localization/imaging system. Shock waves are typically generated using electrostatic spark discharge (spark gap), electromagnetically repelled membranes, or piezoelectric crystal arrays, and focused onto the stone with either a specially designed reflector, dish, or acoustic lens. The shock waves are created under water within the shock wave generator, and are transferred to the patient's body using an appropriate acoustic interface. After the stone has been fragmented by the focused shock waves, the fragments pass out of the body with the patient's urine.
+
+(b) *Classification.* Class II (special controls) (FDA guidance document: “Guidance for the Content of Premarket Notifications (510(k)'s) for Extracorporeal Shock Wave Lithotripters Indicated for the Fragmentation of Kidney and Ureteral Calculi.”)
+
+[65 FR 48612, Aug. 9, 2000]

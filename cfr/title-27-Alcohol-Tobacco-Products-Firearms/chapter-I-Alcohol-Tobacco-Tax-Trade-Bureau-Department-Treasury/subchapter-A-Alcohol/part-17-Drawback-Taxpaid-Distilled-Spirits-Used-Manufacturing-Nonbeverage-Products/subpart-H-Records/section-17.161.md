@@ -1,0 +1,5 @@
+##### § 17.161 General. #####
+
+Each person claiming drawback on taxpaid distilled spirits used in the manufacture of nonbeverage products shall maintain records showing the information required in this subpart. No particular form is prescribed for these records, but the data required to be shown shall be clearly recorded and organized to enable appropriate TTB officers to trace each operation or transaction, monitor compliance with law and regulations, and verify the accuracy of each claim. Ordinary business records, including invoices and cost accounting records, are acceptable if they show the required information or are annotated to show any such information that is lacking. The records shall be kept complete and current at all times and shall be retained by the manufacturer at the place where the taxpaid distilled spirits are used in the manufacture or production of nonbeverage products, for the period prescribed in § 17.170.
+
+[T.D. ATF-379, 61 FR 31412, June 20, 1996, as amended by T.D. TTB-79, 74 FR 37402, July 28, 2009]

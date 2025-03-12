@@ -1,0 +1,3 @@
+##### § 56.124 Actions alternative or additional to disqualification. #####
+
+Disqualification of an IRB or of an institution is independent of, and neither in lieu of nor a precondition to, other proceedings or actions authorized by the act. The Food and Drug Administration may, at any time, through the Department of Justice institute any appropriate judicial proceedings (civil or criminal) and any other appropriate regulatory action, in addition to or in lieu of, and before, at the time of, or after, disqualification. The agency may also refer pertinent matters to another Federal, State, or local government agency for any action that that agency determines to be appropriate.

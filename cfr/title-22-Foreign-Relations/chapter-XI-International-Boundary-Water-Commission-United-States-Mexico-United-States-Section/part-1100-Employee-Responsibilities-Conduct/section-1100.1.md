@@ -1,0 +1,3 @@
+##### § 1100.1 Cross-references to employee ethical conduct standards, financial disclosure and financial interests regulations and other conduct rules. #####
+
+Employees of the United States Section of the International Boundary and Water Commission are subject to the executive branch standards of ethical conduct contained in 5 CFR part 2635, the executive branch financial disclosure regulations contained in 5 CFR part 2634, and the executive branch financial interests regulations contained in 5 CFR part 2640, as well as the executive branch employee responsibilities and conduct regulations contained in 5 CFR part 735.

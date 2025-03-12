@@ -1,0 +1,3 @@
+##### § 50.6 Registration at the Department of birth abroad. #####
+
+In the time of war or national emergency, passport agents may be designated to complete consular reports of birth for children born at military facilities which are not under the jurisdiction of a consular office. An officer of the Armed Forces having authority to administer oaths may take applications for registration under this section.

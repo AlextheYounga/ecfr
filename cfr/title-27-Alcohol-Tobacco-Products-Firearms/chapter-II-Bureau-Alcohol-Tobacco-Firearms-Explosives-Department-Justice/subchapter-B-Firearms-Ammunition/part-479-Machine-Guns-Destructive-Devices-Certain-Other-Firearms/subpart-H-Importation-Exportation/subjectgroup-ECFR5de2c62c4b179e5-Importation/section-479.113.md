@@ -1,0 +1,5 @@
+##### § 479.113 Conditional importation. #####
+
+The Director shall permit the conditional importation or bringing into the United States of any firearm for the purpose of examining and testing the firearm in connection with making a determination as to whether the importation or bringing in of such firearm will be authorized under this subpart. An application under this section shall be filed on Form 6 (Firearms), in triplicate, with the Director. The Director may impose conditions upon any importation under this section including a requirement that the firearm be shipped directly from Customs custody to the Director and that the person importing or bringing in the firearm must agree to either export the weapon or destroy it if a final determination is made that it may not be imported or brought in under this subpart. A firearm so imported or brought into the United States may be released from Customs custody in the manner prescribed by the conditional authorization of the Director.
+
+[T.D. ATF-270, 53 FR 10511, Mar. 31, 1988]

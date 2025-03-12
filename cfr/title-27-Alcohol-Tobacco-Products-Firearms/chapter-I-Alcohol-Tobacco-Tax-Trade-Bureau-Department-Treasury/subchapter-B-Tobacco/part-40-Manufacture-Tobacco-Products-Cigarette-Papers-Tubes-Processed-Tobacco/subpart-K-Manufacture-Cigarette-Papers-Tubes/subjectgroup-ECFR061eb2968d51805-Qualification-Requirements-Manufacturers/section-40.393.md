@@ -1,0 +1,5 @@
+##### § 40.393 Power of attorney. #####
+
+If the bond or any other document required under this part is signed by an attorney in fact for an individual, partnership, association, company, or corporation, by one of the partners for a partnership, or by one of the members of an association, a power of attorney on TTB F 5000.8 shall be furnished to the appropriate TTB officer. If such bond or other document is signed on behalf of a corporation by an officer thereof, it must be supported by duly authenticated extracts of the stockholders' meeting, by-laws, or directors' meeting authorizing such officer to execute such document for the corporation. TTB F 5000.8 or support of authority does not have to be filed again with a appropriate TTB officer where such form or support has previously been submitted to that appropriate TTB officer and is still in effect.
+
+(72 Stat. 1421; 26 U.S.C. 5711)

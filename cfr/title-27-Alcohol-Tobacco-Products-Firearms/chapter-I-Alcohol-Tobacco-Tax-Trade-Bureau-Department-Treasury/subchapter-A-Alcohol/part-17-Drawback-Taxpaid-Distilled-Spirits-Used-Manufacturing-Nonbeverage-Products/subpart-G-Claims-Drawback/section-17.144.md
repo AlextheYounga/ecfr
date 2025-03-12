@@ -1,0 +1,3 @@
+##### § 17.144 Bond for monthly claims. #####
+
+Each person intending to file claims for drawback on a monthly basis shall file an executed bond on TTB Form 5154.3, conforming to the provisions of subpart E of this part. A monthly drawback claim shall not be allowed until bond coverage in a sufficient amount has been approved by the appropriate TTB officer. When the limit of liability under a bond given in less than the maximum amount has been reached, further drawback on monthly claims may be suspended until a strengthening or superseding bond in a sufficient amount is furnished.

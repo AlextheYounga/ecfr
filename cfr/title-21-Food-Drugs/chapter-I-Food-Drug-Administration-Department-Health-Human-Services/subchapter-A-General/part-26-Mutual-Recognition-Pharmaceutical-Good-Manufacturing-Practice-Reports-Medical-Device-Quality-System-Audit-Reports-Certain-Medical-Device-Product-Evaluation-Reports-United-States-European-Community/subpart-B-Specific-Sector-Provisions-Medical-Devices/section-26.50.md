@@ -1,0 +1,5 @@
+##### § 26.50 Alert system and exchange of postmarket vigilance reports. #####
+
+(a) An alert system will be set up during the transition period and maintained thereafter by which the parties will notify each other when there is an immediate danger to public health. Elements of such a system will be described in an appendix F of this subpart. As part of that system, each party shall notify the other party of any confirmed problem reports, corrective actions, or recalls. These reports are regarded as part of ongoing investigations.
+
+(b) Contact points will be agreed between both parties to permit authorities to be made aware with the appropriate speed in case of quality defect, batch recalls, counterfeiting and other problems concerning quality, which could necessitate additional controls or suspension of the distribution of the product.

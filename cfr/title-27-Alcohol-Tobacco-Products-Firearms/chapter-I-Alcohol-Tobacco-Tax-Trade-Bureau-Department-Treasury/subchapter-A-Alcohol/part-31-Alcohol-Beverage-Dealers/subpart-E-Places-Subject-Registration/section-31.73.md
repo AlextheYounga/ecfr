@@ -1,0 +1,3 @@
+##### § 31.73 Place of offering for sale. #####
+
+Liquors are considered to be offered for sale at the place where they are kept for sale and where a sale could take place, and at any place where sales are in fact consummated. Liquors are not considered to be offered for sale by sending an agent out to take orders, or by establishing an office for the mere purpose of taking orders, so long as in each case the orders received are transmitted to the principal for acceptance at the place where that principal has registered under this part or where the principal is exempt from registration as provided in subpart D of this part.

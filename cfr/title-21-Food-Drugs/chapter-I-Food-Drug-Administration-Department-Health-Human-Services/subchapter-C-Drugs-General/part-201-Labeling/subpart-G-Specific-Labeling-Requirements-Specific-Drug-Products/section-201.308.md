@@ -1,0 +1,13 @@
+##### § 201.308 Ipecac syrup; warnings and directions for use for over-the-counter sale. #####
+
+(a) It is estimated that each year about 500,000 accidental poisonings occur in the United States and result in approximately 1,500 deaths, of which over 400 are children. In the emergency treatment of these poisonings, ipecac syrup is considered the emetic of choice. The immediate availability of this drug for use in such situations is critical, since rapid treatment may be the difference between life and death. The restriction of this drug to prescription sale limits its availability in emergencies. On the other hand, it is the consensus of informed medical opinion that ipecac syrup should be used only under medical supervision in the emergency treatment of poisonings. In view of these facts, the question of whether ipecac syrup labeled as an emergency treatment for use in poisonings should be available over the counter has been controversial.
+
+(b) In connection with its study of this problem, the Food and Drug Administration has obtained the views of medical authorities. It is the unanimous recommendation of the American Academy of Pediatrics, the American Association of Poison Control Centers, the American Medical Association, and the Medical Advisory Board of the Food and Drug Administration that ipecac syrup in 1 fluid ounce containers be permitted to be sold without prescription so that it will be readily available in the household for emergency treatment of poisonings, under medical supervision, and that the drug be appropriately packaged and labeled for this purpose.
+
+(c) In view of the above recommendations, the Commissioner of Food and Drugs has determined that it is in the interest of the public health for ipecac syrup to be available for sale without prescription, provided that it is packaged in a quantity of 1 fluid ounce (30 milliliters), and its label bears, in addition to other required label information, the following, in a prominent and conspicuous manner:
+
+(1) A statement conspicuously boxed and in red letters, to the effect: “For emergency use to cause vomiting in poisoning. Before using, call physician, the Poison Control Center, or hospital emergency room immediately for advice.”
+
+(2) A warning to the effect: “Warning—Keep out of reach of children. Do not use in unconscious persons. Ordinarily, this drug should not be used if strychnine, corrosives such as alkalies (lye) and strong acids, or petroleum distillates such as kerosine, gasoline, coal oil, fuel oil, paint thinner, or cleaning fluid have been ingested.”
+
+(3) Usual dosage: 1 tablespoon (15 milliliters) in persons over 1 year of age.

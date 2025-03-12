@@ -1,0 +1,7 @@
+##### § 41.208 Maintenance and retention of records and reports. #####
+
+(a) *Maintenance.* All records, reports, and other documents required under this part must be maintained separately, chronologically by transaction or reporting date, at the importer's principal place of business. The appropriate TTB officer may, pursuant to an application by the importer for an approved alternate method or procedure under § 41.26, authorize such documents to be maintained at another business location under the control of the importer, if the conditions of § 41.26 are met and provided that the use of the alternate location does not cause undue inconvenience to TTB when attempting to examine the files and does not delay the timely transmittal of any document required to be submitted to TTB.
+
+(b) *Retention.* All records and reports and documents or copies of documents supporting these records or reports required by this part to be submitted to TTB or retained by the importer must be retained for not less than three years following the close of the calendar year in which filed or made. Such records, reports, and other documents must be available for inspection by the appropriate TTB officer upon request. Furthermore, the appropriate TTB officer may require these records, reports, and other documents to be kept for an additional period of not more than three years in any case where it is necessary to protect the revenue.
+
+[T.D. TTB-78, 74 FR 29415, June 22, 2009]

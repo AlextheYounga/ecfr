@@ -1,0 +1,5 @@
+##### § 19.346 Determining obscuration. #####
+
+A proprietor may determine, as provided in § 30.32 of this chapter, the proof obscuration of spirits to be bottled on the basis of a representative sample taken from a storage tank before the transfer of the spirits to the processing account or from a tank after the spirits have been dumped for processing, whether or not combined with other alcoholic ingredients. The obscuration will be determined after the sample has been reduced to within one degree of bottling proof. Only water may be added to a lot of spirits to be bottled for which the determination of proof obscuration is made from a sample under this section. The proof obscuration for spirits gauged under this section must be frequently verified by testing samples taken from bottling tanks before bottling.
+
+(26 U.S.C. 5204)

@@ -1,0 +1,5 @@
+##### § 41.39 Determination of sale price of large cigars. #####
+
+The tax imposed on large cigars is computed based on the sale price (the price for which the large cigars are sold by the importer or United States manufacturer). In addition to money, goods or services exchanged for cigars may be considered as part of the sale price. See § 40.22(b) of this chapter for information on determining the sale price in special cases. See § 41.40 of this chapter regarding liability for tax on large cigars, not put up in packages, released from customs custody without payment of tax for delivery to a domestic manufacturer of tobacco products.
+
+[T.D. ATF-420, 64 FR 71944, Dec. 22, 1999; T.D. ATF-422, 64 FR 71948, Dec. 22, 1999; T.D. ATF-422a, 65 FR 15058, Mar. 31, 2000; T.D. ATF-460, 66 FR 39093, July 27, 2001; 78 FR 38568, June 27, 2013]

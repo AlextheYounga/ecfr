@@ -1,0 +1,5 @@
+##### § 507.8 Recording keeping of closed meetings. #####
+
+(a) The Board shall maintain an electronic recording of the proceedings of each meeting, or portion of a meeting, closed to the public.
+
+(b) The Board, after review by the Chairman, shall make promptly available to the public in a place easily accessible to the public, a complete transcript or electronic record of the discussion of any item on the agenda, or any item of testimony of any witness received at the Board meeting, except for such item or items of such discussion or testimony as the Board determines to contain information which may be withheld under § 507.4. Copies of such record, disclosing the identity of each speaker, shall be furnished to any person at the actual cost of duplication. The Board shall maintain a complete transcript or electronic copy of each meeting, or portion of a meeting, closed to the public, for a period of at least two years after such meeting, or until one year after the conclusion of any Board proceeding with respect to which the meeting or portion was held, whichever occurs later.

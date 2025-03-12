@@ -1,0 +1,11 @@
+##### § 334.540 Banana River at the Eastern Range, 45th Space Wing, Cape Canaveral Air Force Station, FL; restricted area. #####
+
+(a) *The area.* The restricted area shall encompass all navigable waters of the United States, as defined at 33 CFR part 329, within the Banana River contiguous to the area offshore of Cape Canaveral Air Force Station, Florida. The area is bounded by a line connecting the following coordinates: Commencing from the shoreline at the southeast portion of the area, at approximately latitude 28°25.17′ N, longitude 80°36.24′ W, thence directly to latitude 28°25.18′ N, longitude 80°36.65′ W, thence directly to latitude 28°25.25′ N, longitude 80°36.66′ W, thence directly to latitude 28°25.22′ N, longitude 80°38.36′ W, thence directly to latitude 28°26.23′ N, longitude 80°38.25′ W, thence directly to latitude 28°26.23′ N, longitude 80°38.47′ W, thence to reach the south side of the Kennedy Space Center NASA Causeway East Roadway at approximately latitude 28°30.74′ N, longitude 80°36.63′ W.
+
+(b) *The regulation.* (1) The area described in paragraph (a) of this section will be closed when it is deemed necessary by the Commander, 45th Space Wing or his/her designee to address any perceived threat to the local area. With the exception of local, State, and Federal law enforcement entities, all persons, vessels, and other craft are prohibited from entering, transiting, anchoring, or drifting within the restricted area when it is closed without the permission of the Commander, 45th Space Wing or his/her designee.
+
+(2) Due to the nature of this restricted area, closures may occur with very little advance notice. Closure of the area shall be noticed by the display of a red beacon located at the southern entrance to Cape Canaveral Air Force Station. Information will be provided via marine radio broadcast during the duration of the area closure.
+
+(c) *Enforcement.* The regulations in this section shall be enforced by the Commander, 45th Space Wing, Patrick Air Force Base, Florida and/or such persons or agencies as he/she may designate.
+
+[74 FR 36401, July 23, 2009]

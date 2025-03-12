@@ -1,0 +1,45 @@
+##### § 385.31 Adaptive management program. #####
+
+(a) *General.* The Corps of Engineers and the South Florida Water Management District shall, in consultation with the Department of the Interior, the Environmental Protection Agency, the Department of Commerce, the Seminole Tribe of Florida, the Miccosukee Tribe of Indians of Florida, the Florida Department of Environmental Protection, and other Federal, State, and local agencies, establish an adaptive management program to assess responses of the South Florida ecosystem to implementation of the Plan; to determine whether or not these responses match expectations, including the achievement of the expected performance level of the Plan, the interim goals established pursuant to § 385.38, and the interim targets established pursuant § 385.39; to determine if the Plan, system or project operations, or the sequence and schedule of projects should be modified to achieve the goals and purposes of the Plan, or to increase net benefits, or to improve cost effectiveness; and to seek continuous improvement of the Plan based upon new information resulting from changed or unforeseen circumstances, new scientific and technical information, new or updated modeling; information developed through the assessment principles contained in the Plan; and future authorized changes to the Plan integrated into the implementation of the Plan. Endorsement of the Plan as a restoration framework is not intended as an artificial constraint on innovation in its implementation.
+
+(b) *Assessment activities.* (1) RECOVER shall develop an assessment program to assess responses of the system to implementation of the Plan. The Corps of Engineers and the South Florida Water Management District shall develop a guidance memorandum in accordance with § 385.5 for approval by the Secretary of the Army, with the concurrence of the Secretary of the Interior and the Governor, that describes the processes to be used to conduct these assessments.
+
+(2) RECOVER shall develop a monitoring program that is designed to measure status and trends towards achieving the goals and purposes of the Plan throughout the South Florida ecosystem.
+
+(3) RECOVER shall conduct monitoring activities and use the information collected and analyzed through the monitoring program as a basis for conducting assessment tasks, which may include, but are not limited to, the following:
+
+(i) Determining if measured responses are desirable and are achieving the interim goals and the interim targets or the expected performance level of the Plan;
+
+(ii) Evaluating if corrective actions to improve performance or improve cost-effectiveness should be considered; and
+
+(iii) Preparing reports on the monitoring program.
+
+(4) Whenever it is deemed necessary, but at least every five years, RECOVER shall prepare a technical report that presents an assessment of whether the goals and purposes of the Plan are being achieved, including whether the interim goals and interim targets are being achieved or are likely to be achieved. The technical report shall be provided to the Corps of Engineers and the South Florida Water Management District for use in preparing the assessment report. The technical report prepared by RECOVER shall also be made available to the public.
+
+(i) The Corps of Engineers and the South Florida Water Management District shall consult with the Department of the Interior, the Environmental Protection Agency, the Department of Commerce, the Seminole Tribe of Florida, the Miccosukee Tribe of Indians of Florida, the Florida Department of Environmental Protection, and other Federal, State, and local agencies in the development of the assessment report. The Corps of Engineers and the South Florida Water Management District shall also consult with the South Florida Ecosystem Restoration Task Force in developing the assessment report.
+
+(ii) In accordance with § 385.22(b), the draft assessment report shall be externally peer reviewed.
+
+(iii) In accordance with § 385.18, Corps of Engineers and the South Florida Water Management District shall provide opportunities for the public to review and comment on the draft assessment report.
+
+(iv) The Corps of Engineers and the South Florida Water Management District shall transmit the final assessment report to the Secretary of the Army, the Secretary of the Interior, and the Governor.
+
+(v) The Secretary of the Army shall make the final assessment report available to the public.
+
+(c) *Periodic CERP updates.* Not later than June 14, 2004 and whenever necessary to ensure that the goals and purposes of the Plan are achieved, but not any less often than every five years, the Corps of Engineers and the South Florida Water Management District shall, in consultation with the Department of the Interior, the Environmental Protection Agency, the Department of Commerce, the Seminole Tribe of Florida, the Miccosukee Tribe of Indians of Florida, the Florida Department of Environmental Protection, and other Federal, State, and local agencies, conduct an evaluation of the Plan using new or updated modeling that includes the latest scientific, technical, and planning information. As part of the evaluation of the Plan, the Corps of Engineers and the South Florida Water Management District shall determine the total quantity of water that is expected to be generated by implementation of the Plan, including the quantity expected to be generated for the natural system to attain restoration goals as well as the quantity expected to be generated for use in the human environment. The Corps of Engineers and the South Florida Water Management District shall also consult with the South Florida Ecosystem Restoration Task Force in conducting the evaluation of the Plan. As appropriate, the results of the evaluation of the Plan may be used to initiate management actions in accordance with paragraph (d) of this section that are necessary to seek continuous improvement of the Plan based upon new information resulting from changed or unforeseen circumstances, new scientific and technical information, new or updated modeling; information developed through the assessment principles contained in the Plan; and future authorized changes to the Plan integrated into the implementation of the Plan. In addition, and as appropriate, the results of the evaluation of the Plan may be used to consider changes to the interim goals in accordance with § 385.38 and changes to the interim targets in accordance with § 385.39.
+
+(d) *Management actions.* (1) In seeking continuous improvement of the Plan based upon new information resulting from changed or unforeseen circumstances, new scientific and technical information, new or updated modeling; information developed through the assessment principles contained in the Plan; and future authorized changes to the Plan integrated into the implementation of the Plan, the Corps of Engineers and the South Florida Water Management District and other non-Federal sponsors shall, in consultation with the Department of the Interior, the Environmental Protection Agency, the Department of Commerce, the Seminole Tribe of Florida, the Miccosukee Tribe of Indians of Florida, the Florida Department of Environmental Protection, and other Federal, State, and local agencies, use the assessment report prepared in accordance with paragraph (b) of this section, information resulting from independent scientific review and external peer review in accordance with § 385.22, or other appropriate information including progress towards achievement of the interim goals established pursuant to § 385.38 and the interim targets established pursuant to § 385.39 to determine if the activities described in paragraph (d)(2) of this section should be undertaken to ensure that the goals and purposes of the Plan are achieved. The Corps of Engineers and the South Florida Water Management District shall, in consultation with the Department of the Interior, the Environmental Protection Agency, the Department of Commerce, the Seminole Tribe of Florida, the Miccosukee Tribe of Indians of Florida, the Florida Department of Environmental Protection, and other Federal, State, and local agencies, consider the following actions:
+
+(i) Modifying current operations of the Plan;
+
+(ii) Modifying the design or operational plan for a project of the Plan not yet implemented;
+
+(iii) Modifying the sequence or schedule for implementation of the Plan;
+
+(iv) Adding new components to the Plan or deleting components not yet implemented;
+
+(v) Removing or modifying a component of the Plan already in place; or
+
+(vi) A combination of these.
+
+(2) Such actions should be implemented through revisions to Operating Manuals in accordance with § 385.28, revisions to the Master Implementation Sequencing Plan in accordance with § 385.30, a Comprehensive Plan Modification Report in accordance with § 385.32, or other appropriate mechanisms.

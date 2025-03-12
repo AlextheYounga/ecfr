@@ -1,0 +1,5 @@
+##### § 1.26-20 Sales to eligible foreign governments. #####
+
+(a) *Policy of United States.* The Congressional policy is set forth in Title 22, U.S. Code, section 2351. The Executive Order No. 10973 dated November 3, 1961 (26 FR 10469), describes the administration of foreign assistance and related functions.
+
+(b) *Diplomatic transactions.* Sales of Coast Guard material under reimbursable aid will be by direction of the Commandant (CG-9) and as approved by the Office of the Chief of Naval Operations. Reimbursable aid transactions are diplomatic transactions and are negotiated primarily between the respective foreign military attaché or other representatives of their embassy in Washington, DC, and the Office of the Chief of Naval Operations. Prices will be based on material cost only and estimates will not include packing, crating, and handling or transportation costs. Under reimbursable aid, transportation costs are borne by the purchasing country and shipments are usually accomplished on collect commercial bills of lading.

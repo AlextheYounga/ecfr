@@ -1,0 +1,7 @@
+##### § 42.53 Priority date of individual applicants. #####
+
+(a) *Preference applicant.* The priority date of a preference visa applicant under INA 203 (a) or (b) shall be the fiing date of the approved petition that accorded preference status.
+
+(b) *Former Western Hemisphere applicant with priority date prior to January 1, 1977.* Notwithstanding the provisions of paragraph (a) of this section, an alien who, prior to January 1, 1977, was subject to the numerical limitation specified in section 21(e) of the Act of October 3, 1965, and who was registered as a Western Hemisphere immigrant with a priority date prior to January 1, 1977, shall retain that priority date as a preference immigrant upon approval of a petition according status under INA 203 (a) or (b).
+
+(c) *Derivative priority date for spouse or child of principal alien.* A spouse or child of a principal alien acquired prior to the principal alien's admission shall be entitled to the priority date of the principal alien, whether or not named in the immigrant visa application of the principal alien. A child born of a marriage which existed at the time of a principal alien's admission to the United States is considered to have been acquired prior to the principal alien's admission.

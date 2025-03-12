@@ -1,0 +1,3 @@
+##### § 31.71 Registration required at each place of business. #####
+
+Except as otherwise provided in § 31.43 and in subpart D of this part, registration is required under this part for each and every place where distilled spirits, wines, or beer are sold or offered for sale. No person may engage in any business for which registration is required until the place of business has been registered in accordance with this part.

@@ -1,0 +1,5 @@
+##### § 157.110 Crude Oil Washing Operations and Equipment Manual for foreign tank vessels: Submission. #####
+
+If the owner or operator of a foreign tank vessel having a COW system under § 157.10(e), § 157.10a(a)(2), or § 157.10c(b)(2) desires a Coast Guard approved *Crude Oil Washing Operations and Equipment Manual* under § 157.112, the owner or operator must submit two copies of a manual that meets § 157.138 to the Commandant (CG-CVC), Attn: Office of Commercial Vessel Compliance, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501.
+
+(Reporting and Recordkeeping requirements approved by the Office of Management and Budget under control number 1625-0036)[CGD 82-28, 50 FR 11627, 11630, Mar. 22, 1985, as amended by CGD 88-052, 53 FR 25122, July 1, 1988; CGD 96-026, 61 FR 33668, June 28, 1996; USCG-2006-25150, 71 FR 39210, July 12, 2006; USCG-2014-0410, 79 FR 38438, July 7, 2014]

@@ -1,0 +1,3 @@
+##### § 38.159 Ability to obtain information. #####
+
+A designated contract market must have the ability and authority to obtain any necessary information to perform any function required under this subpart C of the Commission's regulations, including the capacity to carry out international information-sharing agreements as the Commission may require. Appropriate information-sharing agreements can be established with other designated contract markets and swap execution facilities, or the Commission can act in conjunction with the designated contract market to carry out such information sharing.

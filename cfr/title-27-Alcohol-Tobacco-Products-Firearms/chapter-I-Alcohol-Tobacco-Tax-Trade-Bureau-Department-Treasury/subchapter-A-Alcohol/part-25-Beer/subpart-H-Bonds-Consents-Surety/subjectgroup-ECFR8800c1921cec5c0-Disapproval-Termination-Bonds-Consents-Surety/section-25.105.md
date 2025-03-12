@@ -1,0 +1,5 @@
+##### § 25.105 Release of collateral security. #####
+
+Bonds, notes, and other obligations of the United States, pledged and deposited as security in connection with bonds required by this part will be released in accordance with 31 CFR Part 225. When the appropriate TTB officer determines there is no outstanding liability against the bond and that it is no longer necessary to hold the security, he or she shall fix the date or dates on which a part or all of the security will be released. At any time prior to the release of the security, the appropriate TTB officer may, for proper cause, extend the date of release of the security for an additional length of time as may be appropriate.
+
+(31 U.S.C. 9301, 9303)

@@ -1,0 +1,19 @@
+##### § 600.2 Mailing addresses. #####
+
+(a) *Licensed biological products regulated by the Center for Biologics Evaluation and Research (CBER).* Unless otherwise stated in paragraph (c) of this section, or as otherwise prescribed by FDA regulation, all submissions to CBER referenced in parts 600 through 680 of this chapter, as applicable, must be sent to: Food and Drug Administration, Center for Biologics Evaluation and Research, Document Control Center, 10903 New Hampshire Ave., Bldg. 71, Rm. G112, Silver Spring, MD 20993-0002. Examples of such submissions include: Biologics license applications (BLAs) and their amendments and supplements, biological product deviation reports, fatality reports, and other correspondence. Biological products samples must not be sent to this address but must be sent to the address in paragraph (c) of this section.
+
+(b) *Licensed biological products regulated by the Center for Drug Evaluation and Research (CDER).* Unless otherwise stated in paragraphs (b)(1), (b)(2), or (c) of this section, or as otherwise prescribed by FDA regulation, all submissions to CDER referenced in parts 600, 601, and 610 of this chapter, as applicable, must be sent to: CDER Central Document Room, Center for Drug Evaluation and Research, Food and Drug Administration, 5901B Ammendale Rd., Beltsville, MD 20705. Examples of such submissions include: BLAs and their amendments and supplements, and other correspondence.
+
+(1) *Biological Product Deviation Reporting (CDER).* All biological product deviation reports required under § 600.14 must be sent to: Division of Compliance Risk Management and Surveillance, Office of Compliance, Center for Drug Evaluation and Research, Food and Drug Administration, 10903 New Hampshire Ave., Silver Spring, MD 20993-0002.
+
+(2) *Advertising and Promotional Labeling (CDER).* All advertising and promotional labeling supplements required under § 601.12(f) of this chapter must be sent to: Division of Drug Marketing, Advertising and Communication, Center for Drug Evaluation and Research, Food and Drug Administration, 5901-B Ammendale Rd., Beltsville, MD 20705-1266.
+
+(c) *Samples and Protocols for licensed biological products regulated by CBER or CDER.* (1) Biological product samples and/or protocols, other than radioactive biological product samples and protocols, required under §§ 600.13, 600.22, 601.15, 610.2, 660.6, 660.36, or 660.46 of this chapter must be sent by courier service to: Food and Drug Administration, Center for Biologics Evaluation and Research, ATTN: Sample Custodian, 10903 New Hampshire Ave., Bldg. 75, Rm. G707, Silver Spring, MD 20993-0002. The protocol(s) may be placed in the box used to ship the samples to CBER. A cover letter should not be included when submitting the protocol with the sample unless it contains pertinent information affecting the release of the lot.
+
+(2) Radioactive biological products required under § 610.2 of this chapter must be sent by courier service to: Food and Drug Administration, Center for Biologics Evaluation and Research, ATTN: Sample Custodian, c/o White Oak Radiation Safety Program, 10903 New Hampshire Ave., Bldg. 52-72, Rm. G406A, Silver Spring, MD 20993-0002.
+
+(d) Address information for submissions to CBER and CDER other than those listed in parts 600 through 680 of this chapter are included directly in the applicable regulations.
+
+(e) Obtain updated mailing address information for biological products regulated by CBER at *http://www.fda.gov/BiologicsBloodVaccines/default.htm*, or for biological products regulated by CDER at *http://www.fda.gov/Drugs/default.htm.*
+
+[70 FR 14981, Mar. 24, 2005, as amended at 74 FR 13114, Mar. 26, 2009; 78 FR 19585, Apr. 2, 2013; 80 FR 18091, Apr. 3, 2015; 79 FR 33090, June 10, 2014]

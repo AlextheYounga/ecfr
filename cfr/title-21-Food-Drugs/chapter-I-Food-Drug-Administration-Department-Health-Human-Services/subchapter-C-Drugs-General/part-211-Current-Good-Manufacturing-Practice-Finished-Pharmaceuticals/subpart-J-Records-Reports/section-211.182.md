@@ -1,0 +1,5 @@
+##### § 211.182 Equipment cleaning and use log. #####
+
+A written record of major equipment cleaning, maintenance (except routine maintenance such as lubrication and adjustments), and use shall be included in individual equipment logs that show the date, time, product, and lot number of each batch processed. If equipment is dedicated to manufacture of one product, then individual equipment logs are not required, provided that lots or batches of such product follow in numerical order and are manufactured in numerical sequence. In cases where dedicated equipment is employed, the records of cleaning, maintenance, and use shall be part of the batch record. The persons performing and double-checking the cleaning and maintenance (or, if the cleaning and maintenance is performed using automated equipment under § 211.68, just the person verifying the cleaning and maintenance done by the automated equipment) shall date and sign or initial the log indicating that the work was performed. Entries in the log shall be in chronological order.
+
+[73 FR 51933, Sept. 8, 2008]

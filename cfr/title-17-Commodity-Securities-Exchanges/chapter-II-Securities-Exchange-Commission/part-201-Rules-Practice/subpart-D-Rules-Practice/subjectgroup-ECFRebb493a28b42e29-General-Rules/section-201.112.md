@@ -1,0 +1,5 @@
+##### § 201.112 Hearing officer: Disqualification and withdrawal. #####
+
+(a) *Notice of disqualification.* At any time a hearing officer believes himself or herself to be disqualified from considering a matter, the hearing officer shall issue a notice stating that he or she is withdrawing from the matter and setting forth the reasons therefor.
+
+(b) *Motion for withdrawal.* Any party who has a reasonable, good faith basis to believe that a hearing officer has a personal bias, or is otherwise disqualified from hearing a case, may make a motion to the hearing officer that the hearing officer withdraw. The motion shall be accompanied by an affidavit setting forth in detail the facts alleged to constitute grounds for disqualification. If the hearing officer finds himself or herself not disqualified, he or she shall so rule and shall continue to preside over the proceeding.

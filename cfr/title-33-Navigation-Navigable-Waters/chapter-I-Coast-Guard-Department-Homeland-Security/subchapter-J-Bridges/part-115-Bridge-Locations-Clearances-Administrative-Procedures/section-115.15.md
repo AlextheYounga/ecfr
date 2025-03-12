@@ -1,0 +1,3 @@
+##### § 115.15 Permit bonds. #####
+
+When compensatory works or the removal of temporary structures should be required of the permittee, or in other unusual cases when there is reason to anticipate that the permittee may fail to carry out parts of the work that are against his interest, an additional condition will be included in the permit requiring the permittee to furnish a bond insuring compliance with the permit requirements.

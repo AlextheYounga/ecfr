@@ -1,0 +1,7 @@
+##### § 1104.9 Suspension and revocation of permits. #####
+
+(a) *Suspension or revocation for cause.* (1) The Commissioner may suspend a permit issued pursuant to this part upon determining that the permittee has failed to meet any of the terms and conditions of the permit or has violated any prohibition of the Act or § 1104.3. The Commissioner shall provide written notice to the permittee of the suspension, the cause thereof, and the requirements which must be met before the suspension will be removed.
+
+(2) The Commissioner may revoke a permit upon assessment of a civil penalty under § 1104.14 upon the permittee's conviction under section 6 of the Act, or upon determining that the permittee has failed after notice under this section to correct the situation which led to suspension of the permit.
+
+(b) *Suspension or revocation for management purposes.* The Commissioner may suspend or revoke a permit, without liability to the United States, its agents, or employees, when continuation of work under the permit would be in conflict with management requirements not in effect when the permit was issued. The Commissioner shall provide written notice to the permittee stating the nature of and basis for the suspension or revocation.

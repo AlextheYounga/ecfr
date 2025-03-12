@@ -1,0 +1,3 @@
+##### § 820.86 Acceptance status. #####
+
+Each manufacturer shall identify by suitable means the acceptance status of product, to indicate the conformance or nonconformance of product with acceptance criteria. The identification of acceptance status shall be maintained throughout manufacturing, packaging, labeling, installation, and servicing of the product to ensure that only product which has passed the required acceptance activities is distributed, used, or installed.

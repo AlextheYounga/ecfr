@@ -1,0 +1,3 @@
+##### § 10.111 Recommendation of procedure for implementing restitution. #####
+
+Except as provided by § 10.114, after such time as any order requiring restitution becomes effective (*i.e.,* becomes final and is not stayed), the Division of Enforcement shall petition the Commission for an order directing the Division to recommend to the Commission or, in the Commission's discretion, the Administrative Law Judge a procedure for implementing restitution. Each party that has been ordered to pay restitution shall be afforded an opportunity to review the Division of Enforcement's recommendations and be heard.

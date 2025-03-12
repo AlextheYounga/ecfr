@@ -1,0 +1,21 @@
+##### § 212.20 Request for access to records. #####
+
+(a) *In general.* Requests for access to records under the PA must be made in writing and mailed to the Bureau for Management Services, Information and Records Division at the address given in § 212.7.
+
+(b) *Description of records sought.* Requests for access should describe the requested record(s) in sufficient detail to permit identification of the record(s). At a minimum, requests should include the individual's full name (including maiden name, if appropriate) and any other names used, current complete mailing address, and date and place of birth (city, state and country). Helpful data includes the approximate time period of the record and the circumstances that give the individual reason to believe that the agency maintains a record under the individual's name or personal identifier, and, if known, the system of records in which the record is maintained. In certain instances, it may be necessary for the Agency to request additional information from the requester, either to ensure a full search, or to ensure that a record retrieved does in fact pertain to the individual.
+
+(c) *Verification of personal identity.* The Agency will require reasonable identification of individuals requesting records about themselves under the PA's access provisions to ensure that records are only accessed by the proper persons. Requesters must state their full name, current address, citizenship or legal permanent resident alien status, and date and place of birth (city, state, and country). The request must be signed, and the requester's signature must be either notarized or made under penalty of perjury pursuant to 28 U.S.C. 1746. If the requester seeks records under another name the requester has used, a statement, under penalty of perjury, that the requester has also used the other name must be included.
+
+(d) *Authorized third party access.* The Agency shall process all properly authorized third party requests, as described in this section, under the PA. In the absence of proper authorization from the individual to whom the records pertain, the Agency will process third party requests under the FOIA. The Agency's form, AID 507-1, may be used to certify the identity and provide third party authorization.
+
+(1) *Parents and guardians of minor children.* Upon presentation of acceptable documentation of the parental or guardian relationship, a parent or guardian of a U.S. citizen or LPR minor (an unmarried person under the age of 18) may, on behalf of the minor, request records under the PA pertaining to the minor. In any case, U.S. citizen or LPR minors may request such records on their own behalf.
+
+(2) *Guardians.* A guardian of an individual who has been declared by a court to be incompetent may act for and on behalf of the incompetent individual upon presentation of appropriate documentation of the guardian relationship.
+
+(3) *Authorized representatives or designees.* When an individual wishes to authorize another person or persons access to his or her records, the individual may submit, in addition to the identity verification information described in paragraph (c) or paragraph (d) of this section. The designated third party must submit identity verification information described in paragraph (c).
+
+(e) *Referrals and consultations.* If the Agency determines that records retrieved as responsive to the request were created by another agency, it ordinarily will refer the records to the originating agency for direct response to the requester. If the agency determines that records retrieved as responsive to the request are of interest to another agency, it may consult with the other agency before responding to the request. The Agency may make agreements with other agencies to eliminate the need for consultations or referrals for particular types of records.
+
+(f) *Records relating to civil actions.* Nothing in this subpart entitles an individual to access to any information compiled in reasonable anticipation of a civil action or proceeding.
+
+(g) *Time limits.* The Agency will acknowledge the request promptly and furnish the requested information as soon as possible thereafter.

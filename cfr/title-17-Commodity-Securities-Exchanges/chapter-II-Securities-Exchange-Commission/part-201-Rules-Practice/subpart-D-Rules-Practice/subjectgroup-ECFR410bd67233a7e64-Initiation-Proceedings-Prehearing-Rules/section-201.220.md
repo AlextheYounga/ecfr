@@ -1,0 +1,15 @@
+##### § 201.220 Answer to allegations. #####
+
+(a) *When required.* In its order instituting proceedings, the Commission may require any respondent to file an answer to each of the allegations contained therein. Even if not so ordered, any respondent in any proceeding may elect to file an answer. Any other person granted leave by the Commission or the hearing officer to participate on a limited basis in such proceedings pursuant to § 201.210(c) may be required to file an answer.
+
+(b) *When to file.* Except where a different period is provided by rule or by order, a respondent required to file an answer as provided in paragraph (a) of this section shall do so within 20 days after service upon the respondent of the order instituting proceedings. Persons granted leave to participate on a limited basis in the proceeding pursuant to § 201.210(c) may file an answer within a reasonable time, as determined by the Commission or the hearing officer. If the order instituting proceedings is amended, the Commission or the hearing officer may require that an amended answer be filed and, if such an answer is required, shall specify a date for the filing thereof.
+
+(c) *Contents; effect of failure to deny.* Unless otherwise directed by the hearing officer or the Commission, an answer shall specifically admit, deny, or state that the party does not have, and is unable to obtain, sufficient information to admit or deny each allegation in the order instituting proceedings. When a party intends in good faith to deny only a part of an allegation, the party shall specify so much of it as is true and shall deny only the remainder. A statement of a lack of information shall have the effect of a denial. Any allegation not denied shall be deemed admitted. A respondent must affirmatively state in the answer any avoidance or affirmative defense, including but not limited to res judicata and statute of limitations. In this regard, a respondent must state in the answer whether the respondent relied on the advice of counsel, accountants, auditors, or other professionals in connection with any claim, violation alleged or remedy sought. Failure to do so may be deemed a waiver.
+
+(d) *Motion for more definite statement.* A respondent may file with an answer a motion for a more definite statement of specified matters of fact or law to be considered or determined. Such motion shall state the respects in which, and the reasons why, each such matter of fact or law should be required to be made more definite. If the motion is granted, the order granting such motion shall set the periods for filing such a statement and any answer thereto.
+
+(e) *Amendments.* A respondent may amend its answer at any time by written consent of each adverse party or with leave of the Commission or the hearing officer. Leave shall be freely granted when justice so requires.
+
+(f) *Failure to file answer: Default.* If a respondent fails to file an answer required by this section within the time provided, such respondent may be deemed in default pursuant to § 201.155(a). A party may make a motion to set aside a default pursuant to § 201.155(b).
+
+[81 FR 50234, July 29, 2016]

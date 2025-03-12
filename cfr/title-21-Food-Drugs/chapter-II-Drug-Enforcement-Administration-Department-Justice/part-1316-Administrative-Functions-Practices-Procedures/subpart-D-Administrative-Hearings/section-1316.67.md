@@ -1,0 +1,5 @@
+##### § 1316.67 Final order. #####
+
+As soon as practicable after the presiding officer has certified the record to the Administrator, the Administrator shall cause to be published in the Federal Register his final order in the proceeding, which shall set forth the final rule and the findings of fact and conclusions of law upon which the rule is based. This order shall specify the date on which it shall take effect, which date shall not be less than 30 days from the date of publication in the Federal Register unless the Administrator finds that the public interest in the matter necessitates an earlier effective date, in which event the Administrator shall specify in the order his findings as to the conditions which led him to conclude that an earlier effective date was required.
+
+[44 FR 42179, July 19, 1979, as amended at 44 FR 55332, Sept. 26, 1979]

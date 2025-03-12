@@ -1,0 +1,7 @@
+##### § 820.90 Nonconforming product. #####
+
+(a) *Control of nonconforming product.* Each manufacturer shall establish and maintain procedures to control product that does not conform to specified requirements. The procedures shall address the identification, documentation, evaluation, segregation, and disposition of nonconforming product. The evaluation of nonconformance shall include a determination of the need for an investigation and notification of the persons or organizations responsible for the nonconformance. The evaluation and any investigation shall be documented.
+
+(b) *Nonconformity review and disposition.* (1) Each manufacturer shall establish and maintain procedures that define the responsibility for review and the authority for the disposition of nonconforming product. The procedures shall set forth the review and disposition process. Disposition of nonconforming product shall be documented. Documentation shall include the justification for use of nonconforming product and the signature of the individual(s) authorizing the use.
+
+(2) Each manufacturer shall establish and maintain procedures for rework, to include retesting and reevaluation of the nonconforming product after rework, to ensure that the product meets its current approved specifications. Rework and reevaluation activities, including a determination of any adverse effect from the rework upon the product, shall be documented in the DHR.

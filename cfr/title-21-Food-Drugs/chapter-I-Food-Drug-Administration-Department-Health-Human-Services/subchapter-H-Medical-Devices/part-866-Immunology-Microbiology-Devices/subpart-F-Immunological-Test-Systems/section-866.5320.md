@@ -1,0 +1,7 @@
+##### § 866.5320 Properdin factor B immunological test system. #####
+
+(a) *Identification.* A properdin factor B immunological test system is a device that consists of the reagents used to measure by immunochemical techniques properdin factor B in serum and other body fluids. The deposition of properdin factor B in body tissues or a corresponding depression in the amount of properdin factor B in serum and other body fluids is evidence of the involvement of the alternative to the classical pathway of activation of complement (a group of plasma proteins which cause the destruction of cells which are foreign to the body). Measurement of properdin factor B aids in the diagnosis of several kidney diseases, e.g., chronic glomerulonephritis (inflammation of the glomeruli of the kidney), lupus nephritis (kidney disease associated with a multisystem autoimmune disease, systemic lupus erythematosus), as well as several skin diseases, e.g., dermititis herpetiformis (presence of vesicles on the skin that burn and itch), and pemphigus vulgaris (large vesicles on the skin). Other diseases in which the alternate pathway of complement activation has been implicated include rheumatoid arthritis, sickle cell anemia, and gram-negative bacteremia.
+
+(b) *Classification.* Class II (special controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to § 866.9.
+
+[47 FR 50823, Nov. 9, 1982, as amended at 63 FR 59227, Nov. 3, 1998]

@@ -1,0 +1,7 @@
+##### § 1308.26 Excluded veterinary anabolic steroid implant products. #####
+
+(a) Products containing an anabolic steroid, that are expressly intended for administration through implants to cattle or other nonhuman species and which have been approved by the Secretary of Health and Human Services for such administration are excluded from all schedules pursuant to section 102(41)(B)(i) of the Act (21 U.S.C. 802(41)(B)(i)). A listing of the excluded products may be obtained by submitting a written request to the Drug and Chemical Evaluation Section, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+
+(b) In accordance with section 102(41)(B)(ii) of the Act (21 U.S.C. 802(41)(B)(ii)) if any person prescribes, dispenses, or distributes a product listed in paragraph (a) of this section for human use, such person shall be considered to have prescribed, dispensed, or distributed an anabolic steroid within the meaning of section 102(41)(A) of the Act (21 U.S.C. 802(41)(A)).
+
+[56 FR 42936, Aug. 30, 1991, as amended at 57 FR 19534, May 7, 1992; 58 FR 15088, Mar. 19, 1993; 62 FR 13967, Mar. 24, 1997; 75 FR 10679, Mar. 9, 2010]

@@ -1,0 +1,5 @@
+##### § 24.61 Assessment of tax. #####
+
+When wine or spirits in bond are lost or destroyed (except wine or spirits on which the tax is not collectible by reason of the provisions of 26 U.S.C. 5008 or 26 U.S.C. 5370, as applicable) and the proprietor or other person liable for the tax on the wine or spirits fails to file a claim when required pursuant to § 24.29 or when the claim is denied, the tax will be assessed. In any case where wine is produced, imported, or received otherwise than as authorized by law, or where wine or spirits are removed, possessed, or knowingly used in violation of applicable law, or volatile fruit-flavor concentrate is sold, transported, or used in violation of law, the tax will be assessed.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1314, as amended, 1323, as amended, 1332, as amended, 1335, as amended, 1381, as amended, 1387, as amended, 1392, as amended (26 U.S.C. 5001, 5008, 5043, 5061, 5370, 5391, 5512))(Approved by the Office of Management and Budget under control number 1512-0492)

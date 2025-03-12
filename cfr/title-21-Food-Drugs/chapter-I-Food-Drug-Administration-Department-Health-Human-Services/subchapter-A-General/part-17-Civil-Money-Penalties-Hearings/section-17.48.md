@@ -1,0 +1,3 @@
+##### § 17.48 Harmless error. #####
+
+No error in either the admission or the exclusion of evidence, and no error or defect in any ruling or order or in any act done or omitted by the presiding officer or by any of the parties is grounds for vacating, modifying, or otherwise disturbing an otherwise appropriate ruling or order or act, unless refusal to take such action appears to the presiding officer or the Commissioner of Food and Drugs or other entity deciding the appeal (currently the DAB) to be inconsistent with substantial justice. The presiding officer and the entity deciding the appeal at every stage of the proceeding will disregard any error or defect in the proceeding that does not affect the substantial rights of the parties.

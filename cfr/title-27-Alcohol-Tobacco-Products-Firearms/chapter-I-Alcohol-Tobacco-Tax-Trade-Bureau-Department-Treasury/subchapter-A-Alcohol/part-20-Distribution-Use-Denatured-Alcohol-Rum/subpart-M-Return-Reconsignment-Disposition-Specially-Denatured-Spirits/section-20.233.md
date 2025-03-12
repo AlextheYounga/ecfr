@@ -1,0 +1,3 @@
+##### § 20.233 Disposition after revocation of permit. #####
+
+When any permit issued on Form 5150.9 is revoked, all specially denatured spirits in transit and all specially denatured spirits on the former permit premises, may be lawfully possessed by the former permittee for the exclusive purpose of disposing of the specially denatured spirits, for a period of 60 days following the date of revocation. Any specially denatured spirits or recovered alcohol not disposed of within the specific 60-day period, is subject to seizure and forfeiture.

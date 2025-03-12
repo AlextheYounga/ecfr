@@ -1,0 +1,3 @@
+##### § 46.136 Claims. #####
+
+Claims for abatement of assessment of special tax (including penalties and interest), or for refund of an overpayment of special tax (including interest and penalties), must be filed on TTB Form 5620.8. The claim must be filed with the appropriate TTB officer. Each claim must set forth in detail each ground on which it is based and must contain facts sufficient to explain to the appropriate TTB officer the exact basis for the claim. If the claim is for refund of special tax for which a stamp was issued, either the stamp must be attached to and be made a part of the claim, or the claimant must include in the claim a satisfactory explanation of the reason why the stamp cannot be submitted.

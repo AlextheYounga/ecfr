@@ -1,0 +1,9 @@
+##### § 120.1 Applicability. #####
+
+(a) Any juice sold as such or used as an ingredient in beverages shall be processed in accordance with the requirements of this part. Juice means the aqueous liquid expressed or extracted from one or more fruits or vegetables, purees of the edible portions of one or more fruits or vegetables, or any concentrates of such liquid or puree. The requirements of this part shall apply to any juice regardless of whether the juice, or any of its ingredients, is or has been shipped in interstate commerce (as defined in section 201(b) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. 321(b)). Raw agricultural ingredients of juice are not subject to the requirements of this part. Processors should apply existing agency guidance to minimize microbial food safety hazards for fresh fruits and vegetables in handling raw agricultural products.
+
+(b) The regulations in this part shall be effective January 22, 2002. However, by its terms, this part is not binding on small and very small businesses until the dates listed in paragraphs (b)(1) and (b)(2) of this section.
+
+(1) For small businesses employing fewer than 500 persons the regulations in this part are binding on January 21, 2003.
+
+(2) For very small businesses that have either total annual sales of less than $500,000, or if their total annual sales are greater than $500,000 but their total food sales are less than $50,000; or the person claiming this exemption employed fewer than an average of 100 full-time equivalent employees and fewer than 100,000 units of juice were sold in the United States, the regulations are binding on January 20, 2004.

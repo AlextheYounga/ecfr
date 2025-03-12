@@ -1,0 +1,11 @@
+##### § 1317.80 Collection receptacles at long-term care facilities. #####
+
+(a) A long-term care facility may dispose of controlled substances in Schedules II, III, IV, and V on behalf of an ultimate user who resides, or has resided, at such long-term care facility by transferring those controlled substances into an authorized collection receptacle located at that long-term care facility. When disposing of such controlled substances by transferring those substances into a collection receptacle, such disposal shall occur immediately, but no longer than three business days after the discontinuation of use by the ultimate user. Discontinuation of use includes a permanent discontinuation of use as directed by the prescriber, as a result of the resident's transfer from the long-term care facility, or as a result of death.
+
+(b) Only authorized retail pharmacies and hospitals/clinics with an on-site pharmacy may install, manage, and maintain collection receptacles at long-term care facilities and remove, seal, transfer, and store, or supervise the removal, sealing, transfer, and storage of sealed inner liners at long-term care facilities. Collectors authorized to install, manage, and maintain collection receptacles at long-term care facilities shall comply with all requirements of this chapter, including §§ 1317.60, 1317.75, and 1317.80.
+
+(c) The installation, removal, transfer, and storage of inner liners shall be performed either: By or under the supervision of one employee of the authorized collector and one supervisor-level employee of the long-term care facility (e.g., a charge nurse or supervisor) designated by the authorized collector; or, by or under the supervision of two employees of the authorized collector.
+
+(d) Upon removal, sealed inner liners may only be stored at the long-term care facility for up to three business days in a securely locked, substantially constructed cabinet or a securely locked room with controlled access until transfer in accordance with § 1317.05(c)(2)(iv).
+
+(e) Neither a hospital/clinic with an on-site pharmacy nor a retail pharmacy shall operate a collection receptacle at a long-term care facility until its registration has been modified in accordance with § 1301.51 of this chapter.

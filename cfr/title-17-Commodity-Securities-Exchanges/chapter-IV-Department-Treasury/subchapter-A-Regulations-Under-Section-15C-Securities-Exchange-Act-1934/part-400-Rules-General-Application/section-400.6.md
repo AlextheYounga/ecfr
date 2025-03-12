@@ -1,0 +1,11 @@
+##### § 400.6 Notice of withdrawal from business as a government securities broker or dealer by a financial institution. #####
+
+(a) Whenever a financial institution that is a government securities broker or dealer that is not exempt from the notice requirements of section 15C(a)(1)(B)(i) of the Act (15 U.S.C. 78o-5(a)(1)(B)(i)) and of § 400.5 pursuant to part 401 of this chapter, ceases to act as a government securities broker or dealer, it shall file with the appropriate regulatory agency notice of such cessation on Form G-FINW (§ 449.2 of this chapter) in accordance with the instructions contained therein.
+
+(b) Except as provided in paragraph (c) of this section, a notice that a financial institution has ceased to act as a government securities broker or dealer shall become effective for all purposes on the 60th day after the filing thereof with the appropriate regulatory agency or within such shorter period of time as the appropriate regulatory agency determines.
+
+(c) If the notice described in paragraph (a) of this section is filed with the appropriate regulatory agency any time after the date of the issuance of a notice or order by the appropriate regulatory agency instituting proceedings pursuant to section 15C(c)(2)(A) of the Act (15 U.S.C. 78o-5(c)(2)(A)) to censure, suspend, limit, or bar from acting as a government securities broker or government securities dealer the entity filing such notice, or if the appropriate regulatory agency has instituted any action against the entity filing such notice pursuant to section 15C(2)(B) of the Act (15 U.S.C. § 78o-5(c)(2)(B)), the notice shall become effective pursuant to paragraph (b) of this section at such time and upon such terms and conditions as the appropriate regulatory agency deems necessary or appropriate in the public interest for the protection of investors.
+
+(d) Every notice filed pursuant to this section shall constitute a “report” within the meaning of sections 15, 15C and 32(a) of the Act (15 U.S.C. 78o, 78o-5, 78ff(a)).
+
+(Approved by the Office of Management and Budget under control number 1535-0089)[52 FR 27926, July 24, 1987, as amended at 60 FR 18734, Apr. 13, 1995]

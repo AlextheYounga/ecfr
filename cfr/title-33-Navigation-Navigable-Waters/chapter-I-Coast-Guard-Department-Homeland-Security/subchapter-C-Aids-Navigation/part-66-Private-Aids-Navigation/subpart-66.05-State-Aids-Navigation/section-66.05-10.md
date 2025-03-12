@@ -1,0 +1,13 @@
+##### § 66.05-10 State waters for private aids to navigation; designations; revisions, and revocations. #####
+
+(a) A State Administrator who desires to regulate State maritime aids to navigation in the navigable waters of the United States not marked by the Federal Government, shall request the Commandant to designate the specific bodies of water involved as State waters for private aids to navigation.
+
+(b) The request shall be forwarded to the District Commander in whose district the bodies of water are located. The request shall give the name and description of the waterway; the extent of use being made of the waterway for marine navigation, in general terms; an appropriate chart or sketch of the area; and a general outline of the nature and extent of the State aids to navigation which the Administrator plans to establish in the waterway.
+
+(c) The District Commander shall review the request and consult with the State Administrator concerning the terms of an initial agreement to be entered into under provisions of § 66.05-20. When they have arrived at terms of an agreement satisfactory to both, the District Commander shall forward the request to the Commandant with recommendations and the terms of agreement mutually settled upon. If they cannot reach such agreement, the District Commander shall forward the request with recommendations and a statement of the points agreed upon and the points remaining at issue.
+
+(d) Upon receipt of the request, the Commandant will determine whether or not approval of the request is in the public interest and will inform the State Administrator and the District Commander of the Coast Guard's decision. If the request is approved, the designation by the Commandant of the waters in question as State waters for private aids to navigation will be also defined and described in this subpart.
+
+(e) The Commandant may, upon his or her own initiative or upon request, revoke or revise any designations of State waters for private aids to navigation previously made by him or her. Written notice shall be given the State Administrator of the action contemplated by the Commandant. The State Administrator will be afforded a period of not less than 30 days from the date of the notice in which to inform the Commandant of the State's views in the matter before final action is completed to revoke or revise such designation.
+
+[CGFR 66-32, 31 FR 10320, July 30, 1966, as amended by USCG-2001-10714, 69 FR 24982, May 5, 2004]

@@ -1,0 +1,3 @@
+##### § 1424.8 Additional submissions to the Board. #####
+
+The Board will not consider any submission filed by any party, whether supplemental or responsive in nature, other than those authorized under §§ 1424.2 through 1424.7 unless such submission is requested by the Board; or unless, upon written request by any party, a copy of which is served on all other parties, the Board in its discretion grants permission to file such submission.

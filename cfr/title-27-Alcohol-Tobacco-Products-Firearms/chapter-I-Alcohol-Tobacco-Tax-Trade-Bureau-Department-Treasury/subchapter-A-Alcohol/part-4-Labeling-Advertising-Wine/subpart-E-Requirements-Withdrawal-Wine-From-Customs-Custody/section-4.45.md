@@ -1,0 +1,17 @@
+##### § 4.45 Certificates of origin, identity and proper cellar treatment. #####
+
+(a) *Certificate of origin and identity.* Wine imported in containers is not eligible for release from customs custody for consumption, and no person may remove such wine from customs custody for consumption, unless that person has obtained, and is in possession of an invoice accompanied by a certificate of origin issued by the appropriate foreign government if that country requires the issuance of such a certificate for wine exported from that country. The certificate must have been issued by an official duly authorized by the foreign government, and it must certify as to the identity of the wine and that the wine has been produced in compliance with the laws of the foreign country regulating the production of the wine for home consumption.
+
+(b) *Certification of proper cellar treatment of natural wine*—(1) *General.* An importer of wine may be required to have in his or her possession at the time of release of the wine from customs custody a certification or may have to comply with other conditions prescribed in § 27.140 of this chapter regarding proper cellar treatment. If imported wine requires a certification under § 27.140, the importer must provide a copy of that certification to TTB as follows:
+
+(i) The importer must attach a copy of the certification to the application for a certificate of label approval for the wine in question submitted under § 13.21 of this chapter; or
+
+(ii) If a certification for the wine in question was not available when the importer submitted the application for label approval, the importer must submit a copy of the certification to the appropriate TTB officer prior to release from customs custody of the first shipment of the wine.
+
+(2) *Validity of certification.* A certification submitted under paragraph (b)(1) of this section is valid as long as the wine is of the same brand and class or type, was made by the same producer, was subjected to the same cellar treatment, and conforms to the statements made on the certification. Accordingly, if the cellar treatment of the wine changes and a new certification under § 27.140 is required, an importer is required to submit a new certification for the wine even though it is subject to the same label approval.
+
+(3) *Use of certification.* TTB may use the information from a certification for purposes of verifying the appropriate class and type designation of the wine under the labeling provisions of this part. TTB will make certifications submitted under paragraph (b)(1) of this section available to the public on the TTB Internet Web site at *www.ttb.gov.*
+
+(c) *Retention of certificates.* The importer of wine imported in containers must retain for five years following the date of the removal of the bottled wine from customs custody copies of the certificates (and accompanying invoices, if required) required by paragraphs (a) and (b) of this section, and must provide them upon request of the appropriate TTB officer or a customs officer.
+
+(Approved by the Office of Management and Budget under control numbers 1513-0064 and 1513-0119)[T.D. 6521, 25 FR 13835, Dec. 29, 1960, as amended by T.D. TTB-31, 70 FR 49482, Aug. 24, 2005; T.D. TTB-145, 81 FR 94197, Dec. 22, 2016]

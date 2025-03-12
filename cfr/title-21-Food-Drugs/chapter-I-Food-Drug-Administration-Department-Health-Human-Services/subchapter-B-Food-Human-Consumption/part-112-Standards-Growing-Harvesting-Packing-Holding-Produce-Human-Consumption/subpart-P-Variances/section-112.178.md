@@ -1,0 +1,3 @@
+##### § 112.178 Under what circumstances may FDA deny a petition requesting a variance? #####
+
+We may deny a variance request if it does not provide the information required under § 112.173 (including the requirements of § 10.30 of this chapter), or if we determine that the variance is not reasonably likely to ensure that the produce is not adulterated under section 402 of the Federal Food, Drug and Cosmetic Act and to provide the same level of public health protection as the requirements of this part.

@@ -1,0 +1,5 @@
+##### § 24.243 Filtering aids. #####
+
+Inert fibers, pulps, earths, or similar materials, may be used as filtering aids in the cellar treatment and finishing of wine. Agar-agar, carrageenan, cellulose, and diatomaceous earth are commonly employed inert filtering and clarifying aids. In general, there is no limitation on the use of inert materials and no records need be maintained concerning their use. However, if the inert material is dissolved in water prior to addition to wine, then the records required by § 24.301 will be maintained. Filtering aids which contain active chemical ingredients or which may alter the character of wine, may be used only in accordance with the provisions of § 24.246.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1383, as amended (26 U.S.C. 5382))(Approved by the Office of Management and Budget under control number 1512-0298)

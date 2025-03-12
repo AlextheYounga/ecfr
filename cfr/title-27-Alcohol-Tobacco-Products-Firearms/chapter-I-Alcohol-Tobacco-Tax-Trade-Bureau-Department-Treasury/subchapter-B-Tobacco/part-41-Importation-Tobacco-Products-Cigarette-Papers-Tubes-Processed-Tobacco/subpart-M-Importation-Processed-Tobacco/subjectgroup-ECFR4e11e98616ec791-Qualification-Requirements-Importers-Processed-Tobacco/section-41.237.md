@@ -1,0 +1,7 @@
+##### § 41.237 Additional information. #####
+
+(a) *General.* The appropriate TTB officer may require such additional information as deemed necessary to determine whether the applicant is entitled to obtain either a permit as an importer of tobacco products or, if holding a permit as an importer of processed tobacco, an amended permit authorizing the importation of processed tobacco, under this subpart. The applicant must, when required by the appropriate TTB officer, furnish as a part of the application for the permit or authorization such additional information as may be necessary for the appropriate TTB officer to determine whether the applicant is entitled to a permit or an amended permit.
+
+(b) *Business premises.* Every person that files an application for a permit required by § 41.231 as an importer of processed tobacco must furnish, with its application for the permit, the address to be used as the principal business office where the records and reports required by the subpart must be maintained pursuant to § 41.263. The applicant must also include the location (by physical address or other means if there is no physical address) of any premises used for the storage of processed tobacco imported or received. For permits issued prior to June 21, 2012, the permittee has 180 days from June 21, 2012, to submit the information required under this paragraph.
+
+[T.D. TTB-78, 74 FR 29416, June 22, 2009, as amended by T.D. TTB-104, 77 FR 37304, June 21, 2012]

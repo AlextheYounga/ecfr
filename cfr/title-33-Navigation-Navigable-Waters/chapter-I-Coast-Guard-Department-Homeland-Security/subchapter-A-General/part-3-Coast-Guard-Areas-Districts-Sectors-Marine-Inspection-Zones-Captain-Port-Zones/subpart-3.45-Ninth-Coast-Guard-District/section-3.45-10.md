@@ -1,0 +1,5 @@
+##### § 3.45-10 Sector Buffalo Marine Inspection Zone and Captain of the Port Zone. #####
+
+Sector Buffalo's office is located in Buffalo, NY. The boundaries of Sector Buffalo's Marine Inspection Zone and Captain of the Port Zone include all navigable waters of the United States and contiguous land areas within the boundaries of an area starting from a point on the international boundary in Lake Erie at latitude 42°19′24″ N, longitude 80°31′10″ W, proceeding southwest along the international boundary to a point at latitude 41°40′36″ N, longitude 82°25′00″ W; thence south to latitude 41°00′00″ N; thence east to longitude 78°54′58″ W; thence north to latitude 42°00′00″ N; thence east to the east bank of the Delaware River at latitude 42°00′00″ N, longitude 75°21′28″ W; thence east to longitude 74°39′00″ W; thence north to the international boundary at a point at latitude 44°59′58″ N, longitude 74°39′00″ W; thence southeast along the international boundary to the starting point.
+
+[USCG-2006-25556, 72 FR 36324, July 2, 2007]

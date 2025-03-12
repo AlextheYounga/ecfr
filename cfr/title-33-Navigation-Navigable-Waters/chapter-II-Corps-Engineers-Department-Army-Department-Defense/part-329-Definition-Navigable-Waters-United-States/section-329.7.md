@@ -1,0 +1,3 @@
+##### § 329.7 Intrastate or interstate nature of waterway. #####
+
+A waterbody may be entirely within a state, yet still be capable of carrying interstate commerce. This is especially clear when it physically connects with a generally acknowledged avenue of interstate commerce, such as the ocean or one of the Great Lakes, and is yet wholly within one state. Nor is it necessary that there be a physically navigable connection across a state boundary. Where a waterbody extends through one or more states, but substantial portions, which are capable of bearing interstate commerce, are located in only one of the states, the entirety of the waterway up to the head (upper limit) of navigation is subject to Federal jurisdiction.

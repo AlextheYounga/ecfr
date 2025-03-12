@@ -1,0 +1,5 @@
+##### § 250.105 Gelsemium-containing preparations regarded as prescription drugs. #####
+
+It is the consensus of informed medical opinion that the margin of safety between the therapeutic and toxic concentration of gelsemium is narrow and it is difficult to predict the point at which the dose will be toxic. Very small doses may cause toxic symptoms. It is therefore the view of the Food and Drug Administration that gelsemium is not a proper ingredient in any product that is to be sold without prescription. Accordingly, any drug containing gelsemium will be regarded as misbranded under section 503(b)(4) of the Federal Food, Drug, and Cosmetic Act if its label fails to bear in a prominent and conspicuous fashion the statement “Rx only.”
+
+[40 FR 14033, Mar. 27, 1975, as amended at 67 FR 4906, Feb. 1, 2002]

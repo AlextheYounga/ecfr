@@ -1,0 +1,5 @@
+##### § 20.48 Judicial review of proposed disclosure. #####
+
+Where the Food and Drug Administration consults with a person who will be affected by a proposed disclosure of data or information contained in Food and Drug Administration records pursuant to § 20.47, and rejects the person's request that part or all of the records not be made available for public disclosure, the decision constitutes final agency action that is subject to judicial review pursuant to 5 U.S.C. chapter 7. The person affected will be permitted 5 days after receipt of notification of such decision within which to institute suit in a United States District Court to enjoin release of the records involved. If suit is brought, the Food and Drug Administration will not disclose the records involved until the matter and all related appeals have been concluded.
+
+[42 FR 15616, Mar. 22, 1977. Redesignated and amended at 68 FR 25286, 25287, May 12, 2003]

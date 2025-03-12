@@ -1,0 +1,9 @@
+##### § 201.32 Suppliers of delivery services. #####
+
+(a) *Performance of the service contract.* The supplier of delivery services financed by USAID shall comply with the terms and conditions of its contract to supply delivery services.
+
+(b) *Adjustment in the price of delivery services.* The supplier of delivery services shall pay to the Office of Financial Management, USAID, Washington, DC 20523-7792, all adjustments in the purchase price in favor of the importer (or person purchasing the ocean transportation services) arising out of the terms of the contract or the customs of the trade. Any such payment shall be accompanied by a statement explaining the adjustment and shall specify the name and address of the importer or other person for whom the adjustment is made, the date and amount of the original invoice, and the identification number of the implementing document, if known, under which the original transaction was financed.
+
+(c) *Marine insurance reporting requirement.* With respect to any loss payment exceeding $10,000 in value which a supplier of marine insurance makes under a marine insurance policy financed pursuant to this part, the supplier of marine insurance shall, within 15 days of making such payment, report to the Commodity Support Division, Office of Procurement, USAID, Washington, DC 20523-7900, the amount and date of the payment, a description of the commodity, the USAID identification number, name of the carrier, vessel, and voyage number (alternatively, flight or inland carrier run number), date of the bill(s) of lading, the identity and address of the assured, and the identity and address of the assignee of the assured to whom payment has actually been made.
+
+[55 FR 34232, Aug. 22, 1990, as amended at 64 FR 17535, Apr. 12, 1999]

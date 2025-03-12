@@ -1,0 +1,5 @@
+##### § 40.171 Execution and filing of Form SS-4. #####
+
+The application on Form SS-4, together with any supplementary statement, shall be prepared in accordance with the form, instructions, and regulations applicable thereto, and shall set forth fully and clearly the data therein called for. The application shall be filed with the service center director serving any internal revenue district where the applicant is required to file returns under this part, except that hand-carried applications may be filed with the district director of any such district as provided for in 26 CFR 301.6091-1. The application shall be signed by (a) the individual if the person is an individual; (b) the president, vice president, or other principal officer if the person is a corporation; (c) a responsible and duly authorized member or officer having knowledge of its affairs if the person is a partnership or other unincorporated organization; or (d) the fiduciary if the person is a trust or estate.
+
+(75 Stat. 828; 26 U.S.C. 6109)[T.D. 7055, 35 FR 13515, Aug. 25, 1970. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55855, Sept. 28, 1979]

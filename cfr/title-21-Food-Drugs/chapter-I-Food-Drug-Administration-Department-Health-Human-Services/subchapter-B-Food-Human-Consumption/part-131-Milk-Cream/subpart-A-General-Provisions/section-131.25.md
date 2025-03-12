@@ -1,0 +1,3 @@
+##### § 131.25 Whipped cream products containing flavoring or sweetening. #####
+
+The unqualified name “whipped cream” should not be applied to any product other than one made by whipping the cream that complies with the standards of identity for whipping cream (§§ 131.150 and 131.157 of this chapter). If flavoring and/or sweetening is added, the resulting product is a flavored and/or sweetened whipped cream, and should be so identified.

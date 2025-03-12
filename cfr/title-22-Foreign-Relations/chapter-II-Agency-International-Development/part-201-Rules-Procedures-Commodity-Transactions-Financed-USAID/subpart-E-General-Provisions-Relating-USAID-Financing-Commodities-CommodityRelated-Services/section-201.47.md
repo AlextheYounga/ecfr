@@ -1,0 +1,3 @@
+##### § 201.47 Use of marine insurance loss proceeds. #####
+
+The borrower/grantee shall pay promptly to USAID a sum equal to the proceeds received by an importer or its assignee in settlement of a marine insurance claim under a marine insurance policy financed pursuant to this part 201, if such proceeds are not expended in the manner provided by § 201.26 within a reasonable period after receipt by the importer.

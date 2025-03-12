@@ -1,0 +1,5 @@
+##### § 52.63 Record of proceedings. #####
+
+(a) The Board shall prepare a complete record of each proceeding. The record shall include the application for relief; the written views of the Coast Guard, if any; any transcript of testimony; affidavits and documents considered by the Board; briefs and written arguments filed in the case; the findings, decisions, and recommendations of the Board; minority reports, if any; and all other materials necessary to reflect a true and complete history of the proceedings.
+
+(b) After final action has been taken on an application in accordance with § 52.64, any classified, privileged, or sensitive information in the record of proceedings that has been provided by the Coast Guard or another Government office in accordance with §§ 52.42 or 52.43 shall be returned by the Board to the office from which it was received. Only a copy of the information provided by the Coast Guard or other Government office for release to the applicant in accordance with § 52.43(c) shall be retained in the permanent record of proceedings after final action is taken.

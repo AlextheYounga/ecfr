@@ -1,0 +1,3 @@
+##### § 17.123 Statement of process. #####
+
+Any person claiming drawback under the regulations in this part may be required, at any time, to file a statement of process, in addition to that required by TTB Form 5154.1, as well as any other data necessary for consideration of the claim for drawback. When pertinent to consideration of the claim, submission of copies of the commercial labels used on the finished products may also be required.

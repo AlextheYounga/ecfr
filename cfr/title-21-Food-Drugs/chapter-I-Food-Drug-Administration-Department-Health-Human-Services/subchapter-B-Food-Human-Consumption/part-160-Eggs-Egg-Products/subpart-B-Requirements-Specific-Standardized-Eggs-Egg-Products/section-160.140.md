@@ -1,0 +1,9 @@
+##### § 160.140 Egg whites. #####
+
+(a) Egg whites, liquid egg whites, liquid egg albumen is the food obtained from eggs of the domestic hen, broken from the shells and separated from yolks. The food may be mixed, or mixed and strained, and is pasteurized or otherwise treated to destroy all viable *Salmonella* microorganisms. Pasteurization or such other treatment is deemed to permit the adding of safe and suitable substances (other than chemical preservatives) that are essential to the method of pasteurization or other treatment used. Safe and suitable substances that aid in protecting or restoring the whipping properties of liquid egg whites may be added. For the purposes of this paragraph, safe and suitable substances are those that perform a useful function as whipping aids or in the pasteurization or other treatment to render liquid egg whites free of viable *Salmonella* microorganisms and that are not food additives as defined in section 201(s) of the Federal Food, Drug, and Cosmetic Act; or, if they are food additives, they are used in conformity with regulations established pursuant to section 409 of the act.
+
+(b) Any optional ingredients used as whipping aids, as provided for in paragraph (a) of this section, shall be named on the principal display panel or panels of labels with such prominence and conspicuousness as to render such names likely to be read and understood by ordinary individuals under customary conditions of purchase.
+
+(c) *Label declaration.* Each of the ingredients used in the food shall be declared on the label as required by the applicable sections of parts 101 and 130 of this chapter.
+
+[42 FR 14462, Mar. 15, 1977, as amended at 58 FR 2883, Jan. 6, 1993]

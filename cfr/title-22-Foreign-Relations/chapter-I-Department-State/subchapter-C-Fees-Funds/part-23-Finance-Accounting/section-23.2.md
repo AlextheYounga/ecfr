@@ -1,0 +1,3 @@
+##### § 23.2 Endorsing remittances for deposit in the Treasury. #####
+
+The Office of Finance—Cashier Unit, the Authentication Office, the Passport Office or Passport Agency, American Embassy, American Legation, American consular office, or other office or unit of the Department of State authorized and required to deposit funds in the Treasury of the United States, is hereby authorized to endorse, or to have endorsed, to the order of the Treasurer of the United States by appropriate stamp, checks, drafts, money orders, or other forms of remittance, regardless of how drawn, which are for payment to the Department of State for deposit in the Treasury of the United States, including those payable to the Secretary of State.

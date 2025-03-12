@@ -1,0 +1,7 @@
+##### § 13.21 Application for certificate. #####
+
+(a) *Form of application.* An applicant for a certificate of label approval, certificate of exemption from label approval, or distinctive liquor bottle approval, must send or deliver signed duplicate copies of TTB Form 5100.31, “Application For And Certification/Exemption Of Label/Bottle Approval” according to the instructions for that form. If the application complies with applicable laws and regulations, a certificate of label approval, certificate of exemption from label approval, or distinctive liquor bottle approval will be issued. If the approval is qualified in any manner, such qualifications will be set forth in the appropriate space on the form.
+
+(b) *Time period for action on application.* Within 90 days of receipt of an application, the appropriate TTB officer must notify the applicant whether the application has been approved or denied. The appropriate TTB officer may extend this period of time once, by an additional 90 days, if he or she finds that unusual circumstances require additional time to consider the issues presented by an application. If the appropriate TTB officer extends the period, he or she must notify the applicant by letter, along with a brief explanation of the issues presented by the label. If the applicant receives no decision from the appropriate TTB officer within the time periods set forth in this paragraph, the applicant may file an appeal as provided in § 13.25.
+
+[T.D. ATF-406, 64 FR 2129, Jan. 13, 1999, as amended by T.D. ATF-449, 66 FR 19085, Apr. 13, 2001]

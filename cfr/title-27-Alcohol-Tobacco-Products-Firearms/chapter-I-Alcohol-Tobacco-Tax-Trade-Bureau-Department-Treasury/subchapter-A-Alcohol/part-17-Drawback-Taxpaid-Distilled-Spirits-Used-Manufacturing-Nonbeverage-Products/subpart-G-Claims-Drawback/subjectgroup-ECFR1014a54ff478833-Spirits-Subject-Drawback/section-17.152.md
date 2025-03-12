@@ -1,0 +1,9 @@
+##### § 17.152 Time of use of spirits. #####
+
+(a) *General.* Distilled spirits shall be considered used in the manufacture of a product as soon as that product contains all the ingredients called for by its formula.
+
+(b) *Spirits used in an ion exchange column.* Distilled spirits used in recharging an ion exchange column, the operation of which is essential to the production of a product, shall be considered to be used when the spirits are entered into the manufacturing system in accordance with the product's formula.
+
+(c) *Products requiring additional processing or treatment.* Further manipulation of a product, such as aging or filtering, subsequent to the mixing together of all of its ingredients, shall not postpone the time when spirits are considered used, as determined under paragraph (a) of this section. This is true even if at the time of use there has not yet been a final determination of alcoholic content by assay. If, however, it is later found necessary to add more distilled spirits to standardize the product, such added spirits shall be considered as used in the period during which they were added.
+
+(d) *Nonbeverage products used to manufacture other products.* Nonbeverage products may be used to manufacture other nonbeverage (or intermediate) products. However, such subsequent usage of a nonbeverage product shall not affect the time when the distilled spirits contained therein are considered used. When distilled spirits are used in the manufacture of a nonbeverage product, the time of use shall be the point at which that product first contains all of its prescribed ingredients, and such use shall not be determined by the time of any subsequent usage of that product in another product.

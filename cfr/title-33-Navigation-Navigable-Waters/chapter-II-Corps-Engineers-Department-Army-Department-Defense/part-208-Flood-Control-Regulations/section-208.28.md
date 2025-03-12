@@ -1,0 +1,19 @@
+##### § 208.28 Foss Dam and Reservoir, Washita River, Oklahoma. #####
+
+The Bureau of Reclamation shall operate the Foss Dam and Reservoir in the interest of flood control as follows:
+
+(a) Whenever the reservoir level is between elevation 1652.0, top of conservation pool, and elevation 1668.6, top of flood control pool, the flood control discharge facilities shall be operated under the direction of the District Engineer, Corps of Engineers, Department of the Army, in charge of the locality, so as to reduce as much as practicable the flood damage below the reservoir. All flood control releases shall be made in amounts which, when combined with local inflow below the dam, will not produce flows in excess of bankfull on the Washita River downstream of the reservoir. In order to accomplish this purpose, flows shall not exceed an 18.0 foot stage (3,000 c.f.s.) on the USGS gage on the Washita River near Clinton, Oklahoma, river mile 447.4, or an 18.0 foot stage (6,000 c.f.s.) on the USGS gage on the Washita River near Carnegie, Oklahoma, river mile 353.9.
+
+(b) When the reservoir level exceeds elevation 1668.6, top of flood control pool, releases shall be made at the maximum rate possible through the river outlet works and uncontrolled spillway and continued until the pool elevation recedes to elevation 1668.6 when releases shall be made to equal inflow or the maximum release permissible under paragraph (a) of this section, whichever is greater.
+
+(c) The representative of the Bureau of Reclamation in immediate charge of operation of the Foss Dam shall furnish daily to the District Engineer, Corps of Engineers, Department of the Army, in charge of the locality, on forms provided by the District Engineer for this purpose, a report, showing the elevation of the reservoir level; number of river outlet works gates in operation with their respective openings and releases; canal outlet works, municipal outlet works and uncontrolled spillway releases; storage; tailwater elevation; reservoir inflow; available evaporation data; and precipitation in inches. Normally, one reading at 8:00 a.m. shall be shown for each day. Readings of all items except evaporation shall be shown for at least three observations a day when the reservoir level is above elevation 1652.0. Whenever the reservoir level rises to elevation 1652.0 and releases for flood regulation are necessary or appear imminent, the Bureau representative shall report at once to the District Engineer by telephone or telegraph and, unless otherwise instructed, shall report once daily thereafter in that manner until the reservoir level recedes to elevation 1652.0. These latter reports shall reach the District Engineer by 9:00 a.m., each day.
+
+(d) The regulations of this section insofar as they govern use of the flood control storage capacity above elevation 1652.0 are subject to temporary modification in time of flood by the District Engineer if found desirable on the basis of conditions at the time. Such desired modifications shall be communicated to the representative of the Bureau of Reclamation in immediate charge of operations of the Foss Dam by any available means of communication and shall be confirmed in writing under date of the same day to the Regional Director in charge of the locality, with a copy to the representative in charge of the Foss Dam.
+
+(e) Flood control operations shall not restrict releases necessary for municipal-industrial and irrigation uses.
+
+(f) Releases made in accordance with the regulations of this section are subject to the condition that releases shall not be made at rates or in a manner that would be inconsistent with emergency requirements for protecting the dam and reservoir from major damage or inconsistent with safe routing of the inflow design flood.
+
+(g) All elevations stated in this section are at Foss Dam and are referred to the datum in use at that location.
+
+[26 FR 6982, Aug. 3, 1961]

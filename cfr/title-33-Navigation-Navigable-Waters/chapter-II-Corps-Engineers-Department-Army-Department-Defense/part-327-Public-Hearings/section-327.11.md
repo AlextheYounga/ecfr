@@ -1,0 +1,5 @@
+##### § 327.11 Public notice. #####
+
+(a) Public notice shall be given of any public hearing to be held pursuant to this regulation. Such notice should normally provide for a period of not less than 30 days following the date of public notice during which time interested parties may prepare themselves for the hearing. Notice shall also be given to all Federal agencies affected by the proposed action, and to state and local agencies and other parties having an interest in the subject matter of the hearing. Notice shall be sent to all persons requesting a hearing and shall be posted in appropriate government buildings and provided to newspapers of general circulation for publication. Comments received as form letters or petitions may be acknowledged as a group to the person or organization responsible for the form letter or petition.
+
+(b) The notice shall contain time, place, and nature of hearing; the legal authority and jurisdiction under which the hearing is held; and location of and availability of the draft environmental impact statement or environmental assessment.

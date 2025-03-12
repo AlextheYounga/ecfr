@@ -1,0 +1,3 @@
+##### § 1.55 Recalling permits for correction. #####
+
+Whenever it shall be discovered that any basic permit has been issued authorizing acts, or combinations of acts, which may not properly, under the law and regulations, as of now or hereafter in force, be authorized, or that any material mistake has occurred in the issuance thereof, the holder of such permit shall forthwith surrender the same for correction or amendment upon demand of the appropriate TTB officer.

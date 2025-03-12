@@ -1,0 +1,9 @@
+##### § 155.760 Amendment of transfer procedures. #####
+
+(a) The COTP or OCMI may require the vessel operator of any vessel that is required to have transfer procedures under § 155.720 to amend those procedures if the COTP or OCMI finds that the transfer procedures do not meet the requirements of this part.
+
+(b) The COTP or OCMI shall notify the vessel operator in writing of any inadequacies in the oil transfer procedures. The vessel operator may submit written information, views, and arguments on and proposals for amending the procedures within 14 days from the date of the COTP or OCMI notice. After considering all relevant material presented, the COTP or OCMI shall notify the vessel operator of any amendment required or adopted, or the COTP or OCMI may rescind the notice. The amendment becomes effective 30 days after the vessel operator receives the notice, unless the vessel operator petitions the Commandant to review the COTP or OCMI notice, in which case its effective date is delayed pending a decision by the Commandant. Petitions to the Commandant must be submitted in writing via the COTP or OCMI who issued the requirement to amend.
+
+(c) If the COTP or OCMI finds that there is a condition requiring immediate action to prevent the discharge or risk of discharge that makes the procedure in paragraph (b) of this section impractical or contrary to the public interest, he or she may issue an amendment effective on the date the vessel operator receives notice of it. In such a case, the COTP or OCMI includes a brief statement of the reasons for the findings in the notice, and the vessel operator may petition the Commandant, in any manner, to review the amendment. The petition does not postpone the amendment.
+
+[CGD 75-124, 45 FR 7175, Jan. 31, 1980, as amended by CGD 86-034, 55 FR 36255, Sept. 4, 1990]

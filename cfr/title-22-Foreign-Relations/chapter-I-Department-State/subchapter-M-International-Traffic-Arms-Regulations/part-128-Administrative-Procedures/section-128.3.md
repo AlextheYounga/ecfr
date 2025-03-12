@@ -1,0 +1,11 @@
+##### § 128.3 Institution of Administrative Proceedings. #####
+
+(a) *Charging letters.* The Deputy Assistant Secretary of State for Defense Trade Controls or the Director, Office of Defense Trade Controls Compliance, with the concurrence of the Office of the Legal Adviser, Department of State, may initiate proceedings to impose debarment or civil penalties in accordance with § 127.7 or § 127.10 of this subchapter, respectively. Administrative proceedings shall be initiated by means of a charging letter. The charging letter will state the essential facts constituting the alleged violation and refer to the regulatory or other provision involved. It will give notice to the respondent to answer the charges within 30 days, as provided in § 128.5(a), and indicate that a failure to answer will be taken as an admission of the truth of the charges. It will inform the respondent that he or she is entitled to an oral hearing if a written demand for one is filed with the answer or within seven days after service of the answer. The respondent will also be informed that he or she may, if so desired, be represented by counsel of his or her choosing. Charging letters may be amended from time to time, upon reasonable notice.
+
+(b) *Service.* A charging letter is served upon a respondent:
+
+(1) If the respondent is a resident of the United States, when it is mailed postage prepaid in a wrapper addressed to the respondent at that person's last known address; or when left with the respondent or the agent or employee of the respondent; or when left at the respondent's dwelling with some person of suitable age and discretion then residing herein; or
+
+(2) If the respondent is a non-resident of the United States, when served upon the respondent by any of the foregoing means. If such methods of service are not practicable or appropriate, the charging letter may be tendered for service on the respondent to an official of the government of the country wherein the respondent resides, provided that there is an agreement or understanding between the United States Government and the government of the country wherein the respondent resident permitting this action.
+
+[61 FR 48831, Sept. 17, 1996, as amended at 71 FR 20551, Apr. 21, 2006; 78 FR 52689, Aug. 26, 2013]

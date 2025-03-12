@@ -1,0 +1,19 @@
+##### § 14.171 Utilization of an advisory committee on the initiative of FDA. #####
+
+(a) Any matter involving a human prescription drug under review within the agency may, in the discretion of the Commissioner, be the subject of a public hearing and continuing or periodic review by the appropriate standing technical advisory committee for human prescription drugs. The Commissioner's determinations on the agenda of the committee are based upon the priorities of the various matters pending before the agency which fall within the pharmacologic class covered by that committee.
+
+(b) High priority for such hearing and review by the appropriate standing technical advisory committee for human prescription drugs are given to the following types of human prescription drugs:
+
+(1) Investigational drugs which are potential therapeutic advances over currently marketed products from the standpoint of safety or effectiveness, or which pose significant safety hazards, or which present narrow benefit-risk considerations requiring a close judgmental decision on approval for marketing, or which have a novel delivery system or formulation, or which are the subject of major scientific or public controversy, or which may be subject to special regulatory requirements such as a limitation on clinical trials, a patient followup requirement, postmarketing Phase IV studies, distributional controls, or boxed warnings.
+
+(2) Marketed drugs for which an important new use has been discovered or which pose newly discovered safety hazards, or which are the subject of major scientific or public controversy, or which may be subject to important regulatory actions such as withdrawal of approval for marketing, boxed warnings, distributional controls, or newly required scientific studies.
+
+(c) The committee may request the Commissioner for an opportunity to hold a public hearing and to review any matter involving a human prescription drug which falls within the pharmacologic class covered by the committee. The Commissioner may, after consulting with the committee on such request, grant or deny the request in light of the priorities of the other matters pending before the committee. Whenever feasible, consistent with the other work of the committee, the request will be granted.
+
+(d) For a drug that meets any of the criteria established in paragraph (b) of this section, one or more members of or consultants to the appropriate advisory committee may be selected for more detailed monitoring of the matter and consultation with FDA on behalf of the committee. The member or consultant may be invited to attend appropriate meetings and shall assist the center in any briefing of the committee on that matter.
+
+(e) An advisory committee may obtain advice and recommendations from other agency advisory committees, consultants, and experts which the advisory committee and the center conclude would facilitate the work of the advisory committee.
+
+(f) Presentation of all relevant information about the matter will be made in open session unless it relates to an IND the existence of which has not previously been disclosed to the public as defined in § 20.81 or is otherwise prohibited from public disclosure under part 20 and the regulations referenced therein. Sections 314.430 and 601.51 determine whether, and the extent to which, relevant information may be made available for public disclosure, summarized and discussed in open session but not otherwise made available for public disclosure, or not in any way discussed or disclosed in open session or otherwise disclosed to the public.
+
+[44 FR 22351, Apr. 13, 1979, as amended at 54 FR 9037, Mar. 3, 1989]

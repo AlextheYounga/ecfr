@@ -1,0 +1,15 @@
+##### § 184.1835 Sorbitol. #####
+
+(a) Sorbitol is the chemical 1,2,3,4,5,6-hexanehexol (C6H14O6), a hexahydric alcohol, differing from mannitol principally by having a different optical rotation. Sorbitol is produced by the electrolytic reduction, or the transition metal catalytic hydrogenation of sugar solutions containing glucose or fructose.
+
+(b) The ingredient meets the specifications of the “Food Chemicals Codex,” 3d Ed. (1981), p. 308, which is incorporated by reference. Copies may be obtained from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) The ingredient is used as an anticaking agent and free-flow agent as defined in § 170.3(o)(1) of this chapter, curing and pickling agent as defined in § 170.3(o)(5) of this chapter, drying agent as defined in § 170.3(o)(7) of this chapter, emulsifier and emulsifier salt as defined in § 170.3(o)(8) of this chapter, firming agent as defined in § 170.3(o)(10) of this chapter, flavoring agent and adjuvant as defined in § 170.3(o)(12) of this chapter, formulation aid as defined in § 170.3(o)(14) of this chapter, humectant as defined in § 170.3(o)(16) of this chapter, lubricant and release agent as defined in § 170.3(o)(18) of this chapter, nutritive sweetener as defined in § 170.3(o)(21) of this chapter, sequestrant as defined in § 170.3(o)(26) of this chapter, stabilizer and thickener as defined in § 170.3(o)(28) of this chapter, surface-finishing agent as defined in § 170.3(o)(30) of this chapter, and texturizer as defined in § 170.3(o)(32) of this chapter.
+
+(d) The ingredient is used in food at levels not to exceed good manufacturing practices. Current good manufacturing practice in the use of sorbitol results in a maximum level of 99 percent in hard candy and cough drops as defined in § 170.3(n)(25) of this chapter, 75 percent in chewing gum as defined in § 170.3(n)(6) of this chapter, 98 percent in soft candy as defined in § 170.3(n)(38) of this chapter, 30 percent in nonstandardized jams and jellies, commercial, as defined in § 170.3(n)(28) of this chapter, 30 percent in baked goods and baking mixes as defined in § 170.3(n)(1) of this chapter, 17 percent in frozen dairy desserts and mixes as defined in § 170.3(n)(20) of this chapter, and 12 percent in all other foods.
+
+(e) The label and labeling of food whose reasonably foreseeable consumption may result in a daily ingestion of 50 grams of sorbitol shall bear the statement: “Excess consumption may have a laxative effect.”
+
+(f) Prior sanctions for this ingredient different from the uses established in this regulation do not exist or have been waived.
+
+[42 FR 14653, Mar. 15, 1977, as amended at 49 FR 5613, Feb. 14, 1984]

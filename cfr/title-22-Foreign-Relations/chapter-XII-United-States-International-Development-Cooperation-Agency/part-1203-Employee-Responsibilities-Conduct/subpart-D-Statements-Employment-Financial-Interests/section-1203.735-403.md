@@ -1,0 +1,3 @@
+##### § 1203.735-403 Employee's complaint on filing requirement. #####
+
+Each employee shall have the opportunity for review through agency grievance procedure of the employee's complaint that the employee's position has been improperly included within § 1203.735-401 as one requiring the submission of a statement of employment and financial interests. Employees are reminded that they may obtain counseling pursuant to § 1203.735-103 prior to filing a complaint.

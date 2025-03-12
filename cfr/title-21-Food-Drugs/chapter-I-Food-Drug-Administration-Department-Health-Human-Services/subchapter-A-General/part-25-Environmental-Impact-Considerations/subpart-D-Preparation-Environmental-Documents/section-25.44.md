@@ -1,0 +1,3 @@
+##### § 25.44 Lead and cooperating agencies. #####
+
+For actions requiring the preparation of an EIS, FDA and other affected Federal agencies will agree which will be the lead agency and which will be the cooperating agencies. The responsibilities of lead agencies and cooperating agencies are described in the CEQ regulations (40 CFR 1501.5 and 1501.6, respectively). If an action affects more than one center within FDA, the Commissioner of Food and Drugs will designate one of these units to be responsible for coordinating the preparation of any required environmental documentation.

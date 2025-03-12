@@ -1,0 +1,3 @@
+##### § 156.3 Contract market program for enforcement. #####
+
+A contract market must, as part of its responsibilities pursuant to the Act and § 1.51, demonstrate effective use of broker association registration information to monitor the trading activity of broker associations and their members for potential abuse and to secure compliance with all other contract market bylaws, rules, regulations and resolutions which may pertain to such associations or their members.

@@ -1,0 +1,11 @@
+##### § 19.683 Changes affecting permit applications. #####
+
+(a) *General.* If there is a change relating to any of the information contained in, or considered a part of, the application on form TTB F 5110.74, Application and Permit for an Alcohol Fuel Producer Under 26 U.S.C. 5181, the proprietor must amend the information previously submitted within 30 days of the change unless another time period is specified in this subpart.
+
+(b) *Amended TTB F 5110.74.* Except when a letterhead application or letterhead notice procedure is followed under this subpart, the proprietor must submit an amended application to the appropriate TTB officer on TTB F 5110.74 within 30 days of a change referred to in paragraph (a) of this section if the change affects the terms and conditions of the permit.
+
+(c) *Letterhead applications.* For the changes specified in §§ 19.685(c), 19.686, and 19.690 of this subpart, the proprietor may submit a letterhead application to the appropriate TTB officer for a change instead of filing an amended TTB F 5110.74. A letterhead application must be on letterhead signed by an authorized representative of the permit holder. The letterhead application must identify the alcohol fuel plant to which the application applies. The letterhead application change is subject to TTB approval. The appropriate TTB officer may, at any time, require that the proprietor submit an amended application on TTB F 5110.74 if administrative difficulties occur as a result of the letterhead application.
+
+(d) *Letterhead Notices.* For the changes specified in §§ 19.687, 19.695, and 19.691 of this subpart only a letterhead notice to the appropriate TTB officer is required. A letterhead notice must be on letterhead signed by an authorized representative of the permit holder. A letterhead notice does not require approval action by TTB. The appropriate TTB officer may, at any time, require that the proprietor submit an amended application on TTB F 5110.74 if administrative difficulties occur as a result of the letterhead notice.
+
+(26 U.S.C. 5271, 5181)

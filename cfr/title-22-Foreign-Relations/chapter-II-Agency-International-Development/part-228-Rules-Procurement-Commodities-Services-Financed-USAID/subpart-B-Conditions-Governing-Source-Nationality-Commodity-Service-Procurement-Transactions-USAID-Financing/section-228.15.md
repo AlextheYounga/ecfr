@@ -1,0 +1,3 @@
+##### § 228.15 Nationality of employees and individuals under contracts or subcontracts for services. #####
+
+The rules set forth in §§ 228.10 through 228.13 of this part do not apply to the employees of contractors, or individuals providing technical or professional services to recipients or contractors. However, such individuals must not be citizens or lawful permanent residents (or equivalent immigration status) of countries which are prohibited sources.

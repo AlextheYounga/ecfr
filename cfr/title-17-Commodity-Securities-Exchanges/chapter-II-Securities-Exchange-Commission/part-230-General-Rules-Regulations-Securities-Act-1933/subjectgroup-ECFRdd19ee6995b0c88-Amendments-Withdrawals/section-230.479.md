@@ -1,0 +1,11 @@
+##### § 230.479 Procedure with respect to abandoned registration statements and post-effective amendments. #####
+
+When a registration statement, or a post-effective amendment to such a statement, has been on file with the Commission for a period of nine months and has not become effective the Commission may, in its discretion, proceed in the following manner to determine whether such registration statement or amendment has been abandoned by the registrant. If the registration statement has been amended, otherwise than for the purpose of delaying the effective date thereof, or if the post-effective amendment has been amended, the nine-month period shall be computed from the date of the latest such amendment.
+
+(a) A notice will be sent to the registrant, and to the agent for service named in the registration statement, by registered or certified mail, return receipt requested, addressed to the most recent addresses for the registrant and the agent for service reflected in the registration statement. Such notice will inform the registrant and the agent for service that the registration statement or amendment is out of date and must be either amended to comply with the applicable requirements of the Act and the rules and regulations thereunder or be withdrawn within 30 days after the date of such notice.
+
+(b) If the registrant or the agent for service fails to respond to such notice by filing a substantive amendment or withdrawing the registration statement and does not furnish a satisfactory explanation as to why it has not done so within such 30 days, the Commission may, where consistent with the public interest and the protection of investors, enter an order declaring the registration statement or amendment abandoned.
+
+(c) When such an order is entered by the Commission the papers comprising the registration statement or amendment will not be removed from the files of the Commission but an order shall be included in the file for the registration statement in the following manner: “Declared abandoned by order dated \_\_\_.”
+
+[47 FR 11446, Mar. 16, 1982, as amended at 76 FR 71876, Nov. 21, 2011]

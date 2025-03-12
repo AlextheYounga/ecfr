@@ -1,0 +1,3 @@
+##### § 1004.7 Reconsideration of opening or closing of meeting. #####
+
+The time or place of a Board meeting may be changed, without vote, following public announcement. The IAF will announce any such change at the earliest practicable time. The subject matter of a meeting, or the determination of the agency to open or close a meeting, or portion of a meeting, to the public, may be changed only if a majority of the Board of Directors determines by a recorded vote that IAF business so requires and that no earlier announcement of the change was possible, and the IAF publicly announces such change and the vote of each member upon such change at the earliest practicable time.

@@ -1,0 +1,5 @@
+##### § 28.146 Disposition of forms. #####
+
+On removal of the beer or beer concentrate withdrawn under the provisions of this subpart, the brewer shall forward one copy of Form 1689 (5130.12) to the appropriate TTB officer, retain one copy for the files, and deliver the original and remaining copy to the officer to whom the shipment is consigned, or in whose care it is shipped, as required by subpart M of this part. When the shipment is for delivery for use on aircraft, the copy marked “Consignee's Copy,” provided for in § 28.142, will be forwarded to the airline company at the airport.
+
+(Sec. 309, Tariff Act of 1930, 46 Stat. 690, as amended (19 U.S.C. 1309); sec. 201, Pub. L. 85-859, 72 Stat. 1334, as amended (26 U.S.C. 5053))[T.D. ATF-224, 51 FR 7699, Mar. 5, 1986, as amended by T.D. TTB-8, 69 FR 3833, Jan. 27, 2004]

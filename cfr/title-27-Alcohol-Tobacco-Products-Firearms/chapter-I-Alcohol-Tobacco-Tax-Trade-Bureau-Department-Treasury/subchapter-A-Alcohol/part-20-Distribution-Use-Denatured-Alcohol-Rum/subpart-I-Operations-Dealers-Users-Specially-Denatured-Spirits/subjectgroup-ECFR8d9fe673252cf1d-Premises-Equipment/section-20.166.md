@@ -1,0 +1,3 @@
+##### § 20.166 Stills and other equipment. #####
+
+If recovered denatured spirits or articles are to be restored on the permittee's premises, all equipment to be used in the restoration process shall be located on the permit premises. Distilling apparatus or other equipment, including pipelines, for restoration or for recovery, shall be constructed and secured in such a manner as to prevent unauthorized access to the denatured spirits and so arranged as to be readily inspected by appropriate TTB officers.

@@ -1,0 +1,9 @@
+##### § 607.22 How to register establishments and list blood products. #####
+
+(a) Initial and subsequent registrations and product listings must be submitted electronically through the Blood Establishment Registration and Product Listing system, or any future superseding electronic system. This information must be submitted in accordance with part 11 of this chapter, except for the requirements in § 11.10(b), (c), and (e), and the corresponding requirements in § 11.30. All information submitted under this part must be transmitted to FDA electronically unless FDA has granted a request for waiver of this requirement prior to the date on which the information is due. Submission of a request for waiver does not excuse timely compliance with the registration and listing requirements. FDA will grant a waiver request if FDA determines that the use of electronic means for submission of registration and listing information is not reasonable for the registrant making the waiver request.
+
+(b) Waiver requests under this section must be submitted in writing and must include the specific reasons why electronic submission is not reasonable for the registrant and a U.S. telephone number and mailing address where FDA can contact the registrant. All waiver requests must be sent to the Director of FDA's Center for Biologics Evaluation and Research through the Document Control Center (see addresses *in* § 600.2).
+
+(c) If FDA grants the waiver request, FDA may limit its duration and will specify terms of the waiver and provide information on how to submit establishment registration, drug listings, other information, and updates, as applicable.
+
+[81 FR 60222, Aug. 31, 2016]

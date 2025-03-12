@@ -1,0 +1,5 @@
+##### § 479.33 Special exemption. #####
+
+(a) Any person required to pay special (occupational) tax under this part shall be relieved from payment of that tax if he establishes to the satisfaction of the Director that his business is conducted exclusively with, or on behalf of, the United States or any department, independent establishment, or agency thereof. The Director may relieve any person manufacturing firearms for or on behalf of the United States from compliance with any provision of this part in the conduct of the business with respect to such firearms.
+
+(b) The exemption in this section may be obtained by filing with the Director an application, in letter form, setting out the manner in which the applicant conducts his business, the type of firearm to be manufactured, and proof satisfactory to the Director of the existence of the contract with the United States, department, independent establishment, or agency thereof, under which the applicant intends to operate.

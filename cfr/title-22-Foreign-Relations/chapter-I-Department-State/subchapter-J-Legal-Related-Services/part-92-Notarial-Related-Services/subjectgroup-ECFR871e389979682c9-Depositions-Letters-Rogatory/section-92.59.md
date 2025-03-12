@@ -1,0 +1,3 @@
+##### § 92.59 Recording of objections. #####
+
+All objections made at the time of the examination to the qualifications of the officer taking the deposition, or to the manner of taking it, or to the evidence presented, or to the conduct of any party, and any other objection to the proceedings must be noted in the deposition. Evidence objected to will be taken subject to the objections. (Rules 30 (c) and 31 (b), Rules of Civil Procedure for the District Courts of the United States.)

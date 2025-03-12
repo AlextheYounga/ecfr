@@ -1,0 +1,3 @@
+##### § 171.5 Archival records. #####
+
+The Department ordinarily transfers records designated as historically significant to the National Archives when they are 25 years old. Accordingly, requests for some Department records 25 years old or older should be submitted to the National Archives by mail addressed to Special Access and FOIA Staff (NWCTF), 8601 Adelphi Road, Room 5500, College Park, MD 20740; by fax to (301) 837-1864; or by email to *specialaccess\_foia@nara.gov.* The Department's Web site, *www.foia.state.gov,* has additional information regarding archival records.

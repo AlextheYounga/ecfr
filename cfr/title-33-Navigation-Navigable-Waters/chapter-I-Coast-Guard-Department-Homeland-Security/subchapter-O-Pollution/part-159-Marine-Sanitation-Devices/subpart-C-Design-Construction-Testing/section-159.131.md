@@ -1,0 +1,3 @@
+##### § 159.131 Safety: Incinerating device. #####
+
+An incinerating device must not incinerate unless the combustion chamber is closed, must purge the combustion chamber of combustible fuel vapors before and after incineration must secure automatically if the burner does not ignite, must not allow an accumulation of fuel, and must neither produce a temperature on surfaces adjacent to the incineration chamber higher than 67 °C nor produce a temperature on surfaces in normal body contact higher than 41 °C when operating in an ambient temperature of 25 °C. Unitized incineration devices must completely burn to a dry, inert ash, a simultaneous defecation and urination and must not discharge fly ash, malodors, or toxic substances.

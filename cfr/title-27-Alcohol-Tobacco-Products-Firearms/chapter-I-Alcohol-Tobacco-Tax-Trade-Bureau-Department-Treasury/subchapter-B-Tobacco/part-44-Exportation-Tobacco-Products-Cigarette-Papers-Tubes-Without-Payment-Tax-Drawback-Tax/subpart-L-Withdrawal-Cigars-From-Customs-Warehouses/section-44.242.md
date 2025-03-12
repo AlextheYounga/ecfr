@@ -1,0 +1,5 @@
+##### § 44.242 Responsibility for tax on cigars. #####
+
+A customs warehouse proprietor who withdraws cigars for export under his bond, without payment of tax, in accordance with the provisions of this part, shall be responsible for payment of such tax until he is relieved of such responsibility by furnishing the appropriate TTB officer evidence satisfactory to the appropriate TTB officer of exportation or proper delivery, as required by this subpart, or satisfactory evidence of such other disposition as may be used as the lawful basis for such relief. Such evidence shall be furnished within 90 days of the date of withdrawal of the cigars: *Provided,* That this period may be extended for good cause shown.
+
+[25 FR 4725, May 28, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, as amended by T.D. ATF-480, 67 FR 30803, May 8, 2002]

@@ -1,0 +1,5 @@
+##### § 17.182 Drawback claims by druggists. #####
+
+Drawback of tax under 26 U.S.C. 5114 is allowable on taxpaid distilled spirits used by druggists in compounding prescriptions. The prescriptions so compounded shall be shown in the supporting data by listing the first and last serial numbers thereof. The amount of taxpaid spirits used in each prescription need not be shown, but such prescriptions shall be made available for examination by appropriate TTB officers. If refills have been made of prescriptions received in a previous claim period, their serial numbers shall be recorded separately. Druggists claiming drawback as authorized by this section are subject to all the applicable requirements of this part, except those requiring the filing of quantitative formulas.
+
+[T.D. ATF-379, 61 FR 31412, June 20, 1996, as amended by T.D. TTB-79, 74 FR 37402, July 28, 2009]

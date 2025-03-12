@@ -1,0 +1,11 @@
+##### § 41.25 NATO representatives, officials, and employees. #####
+
+(a) *Classification.* An alien shall be classified under the symbol NATO-1, NATO-2, NATO-3, NATO-4, or NATO-5 if the consular officer is satisfied that the alien is seeking admission to the United States under the applicable provision of the Agreement on the Status of the North Atlantic Treaty Organization, National Representatives and International Staff, or is a member of the immediate family of an alien classified NATO-1 through NATO-5. (See § 41.12 for classes of aliens entitled to classification under each symbol.)
+
+(b) *Armed services personnel.* Armed services personnel entering the United States in accordance with the provisions of the Agreement Between the Parties to the North Atlantic Treaty Regarding the Status of Their Forces or in accordance with the provisions of the Protocol on the Status of International Military Headquarters Set Up Pursuant to the North Atlantic Treaty may enter the United States under the appropriate treaty waiver of documentary requirements contained in § 41.1 (d) or (e). If a visa is issued it is classifiable under the NATO-2 symbol.
+
+(c) *Dependents of armed services personnel.* Dependents of armed services personnel referred to in paragraph (b) of this section shall be classified under the symbol NATO-2.
+
+(d) *Members of civilian components and dependents.* Alien members of a civilian component accompanying a force entering in accordance with the provisions of the NATO Status-of-Forces Agreement, and dependents, or alien members of a civilian component attached to or employed by an Allied Headquarters under the Protocol on the Status of International Military Headquarters, and dependents shall be classified under the symbol NATO-6.
+
+(e) *Attendant, servant, or personal employee of an alien classified NATO-1 through NATO-6.* An alien attendant, servant, or personal employee of an alien classified NATO-1 through NATO-6, and any member of the immediate family of such attendant, servant, or personal employee, shall be classified under the symbol NATO-7.

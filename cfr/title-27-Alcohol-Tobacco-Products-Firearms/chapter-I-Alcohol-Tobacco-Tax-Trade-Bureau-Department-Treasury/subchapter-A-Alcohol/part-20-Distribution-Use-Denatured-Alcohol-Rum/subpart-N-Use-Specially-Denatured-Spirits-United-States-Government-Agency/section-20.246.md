@@ -1,0 +1,3 @@
+##### § 20.246 Disposition of specially denatured spirits on discontinuance of use. #####
+
+At the time of discontinuance of use of specially denatured spirits, a Government agency may dispose of any excess specially denatured spirits (a) to another Government agency holding a permit, (b) by returning the specially denatured spirits to a vendor, or (c) in any manner authorized by the appropriate TTB officer. Specially denatured spirits may not be disposed of to the general public.

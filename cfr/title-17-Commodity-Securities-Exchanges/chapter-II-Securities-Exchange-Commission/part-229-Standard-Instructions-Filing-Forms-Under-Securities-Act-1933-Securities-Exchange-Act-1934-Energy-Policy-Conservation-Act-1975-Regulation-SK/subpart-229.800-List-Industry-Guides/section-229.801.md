@@ -1,0 +1,15 @@
+##### § 229.801 Securities Act industry guides. #####
+
+(a)-(b) [Reserved]
+
+(c) *Guide 3.* Statistical disclosure by bank holding companies.
+
+(d) *Guide 4.* Prospectuses relating to interests in oil and gas programs.
+
+(e) *Guide 5.* Preparation of registration statements relating to interests in real estate limited partnerships.
+
+(f) *Guide 6.* Disclosures concerning unpaid claims and claim adjustment expenses of property-casualty insurance underwriters.
+
+(g) *Guide 7.* Description of Property by Issuers Engaged or To Be Engaged in Significant Mining Operations.
+
+[47 FR 11401, Mar. 16, 1982, and 49 FR 47600, Dec. 6, 1984, as amended at 57 FR 36466, Aug. 13, 1992; 61 FR 30401, June 14, 1996; 74 FR 2193, Jan. 14, 2009]

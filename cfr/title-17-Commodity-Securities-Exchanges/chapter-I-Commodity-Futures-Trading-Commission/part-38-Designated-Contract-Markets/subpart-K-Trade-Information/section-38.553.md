@@ -1,0 +1,9 @@
+##### § 38.553 Enforcement of audit trail requirements. #####
+
+(a) *Annual audit trail and recordkeeping reviews.* A designated contract market must enforce its audit trail and recordkeeping requirements through at least annual reviews of all members and persons and firms subject to designated contract market recordkeeping rules to verify their compliance with the contract market's audit trail and recordkeeping requirements. Such reviews must include, but are not limited to, the following:
+
+(1) For electronic trading, audit trail and recordkeeping reviews must include reviews of randomly selected samples of front-end audit trail data for order routing systems; a review of the process by which user identifications are assigned and user identification records are maintained; a review of usage patterns associated with user identifications to monitor for violations of user identification rules; and reviews of account numbers and customer type indicator codes in trade records to test for accuracy and improper use.
+
+(2) For open outcry trading, audit trail and recordkeeping reviews must include reviews of members' and market participants' compliance with the designated contract market's trade timing, order ticket, and trading card requirements.
+
+(b) *Enforcement program required.* A designated contract market must establish a program for effective enforcement of its audit trail and recordkeeping requirements for both electronic and open-outcry trading, as applicable. An effective program must identify members and persons and firms subject to designated contract market recordkeeping rules that have failed to maintain high levels of compliance with such requirements, and levy meaningful sanctions when deficiencies are found. Sanctions must be sufficient to deter recidivist behavior. No more than one warning letter may be issued to the same person or entity found to have committed the same rule violation within a rolling twelve month period.

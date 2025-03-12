@@ -1,0 +1,3 @@
+##### § 31.3 Basic permit requirements. #####
+
+Every person, except an agency of a State or political subdivision thereof, who intends to engage in the business of purchasing distilled spirits, wines, or beer for sale to other dealers for nonindustrial use, or to engage in the business of importing distilled spirits, wines, or beer for nonindustrial use, is required under part 1 of this chapter to obtain a basic permit authorizing such person to engage in such business.

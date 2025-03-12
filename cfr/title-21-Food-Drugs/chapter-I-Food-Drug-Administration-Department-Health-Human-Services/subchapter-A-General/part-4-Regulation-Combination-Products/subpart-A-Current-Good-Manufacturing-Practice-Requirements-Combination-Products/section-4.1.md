@@ -1,0 +1,3 @@
+##### § 4.1 What is the scope of this subpart? #####
+
+This subpart applies to combination products. It establishes which current good manufacturing practice requirements apply to these products. This subpart clarifies the application of current good manufacturing practice regulations to combination products, and provides a regulatory framework for designing and implementing the current good manufacturing practice operating system at facilities that manufacture co-packaged or single-entity combination products.

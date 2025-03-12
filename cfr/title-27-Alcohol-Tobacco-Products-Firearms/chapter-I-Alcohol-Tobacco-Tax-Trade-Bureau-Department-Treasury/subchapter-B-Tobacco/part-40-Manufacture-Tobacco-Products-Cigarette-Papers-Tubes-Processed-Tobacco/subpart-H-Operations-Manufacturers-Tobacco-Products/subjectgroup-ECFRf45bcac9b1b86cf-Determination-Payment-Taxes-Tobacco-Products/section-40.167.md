@@ -1,0 +1,7 @@
+##### § 40.167 Prepayment tax return. #####
+
+(a) To prepay the tax on tobacco products a manufacturer shall file a prepayment tax return on Form 5000.24 showing the tax to be paid on the tobacco products prior to removal. The return shall be executed and filed, prior to the removal of such products, with TTB, in accordance with the instructions on the form. A manufacturer prepaying the taxes on tobacco products under the provisions of this section shall continue to file semimonthly returns as required by § 40.162.
+
+(b) However, if a manufacturer is required by § 40.165a to pay the tax by electronic fund transfer, the manufacturer shall prepay the tax before any tobacco products can be removed for consumption or sale by completing the return and filing it with TTB, in accordance with the instructions on the form. At the same time, the manufacturer shall direct his bank to effect an EFT.
+
+(Sec. 202, Pub. L. 85-859, 68A Stat. 1417 (26 U.S.C. 5703); sec. 202, Pub. L. 85-859, 72 Stat. 1423, as amended (26 U.S.C. 5741); (Aug. 16, 1954, ch. 736, 68A Stat. 775, as amended (26 U.S.C. 6302)); 26 U.S.C. 7805 (68A Stat. 917, as amended))[T.D. 6871, 31 FR 34, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-77, 46 FR 3008, Jan. 13, 1981; T.D. ATF-219, 50 FR 51390, Dec. 17, 1985; T.D. ATF-232, 51 FR 28081, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-251, 52 FR 19340, May 22, 1987]

@@ -1,0 +1,5 @@
+##### § 216.5 Endangered species. #####
+
+It is A.I.D. policy to conduct its assistance programs in a manner that is sensitive to the protection of endangered or threatened species and their critical habitats. The Initial Environmental Examination for each project, program or activity having an effect on the environment shall specifically determine whether the project, program or activity will have an effect on an endangered or threatened species, or critical habitat. If the proposed project, program or activity will have the effect of jeopardizing an endangered or threatened species or of adversely modifying its critical habitat, the Threshold Decision shall be a Positive Determination and an Environmental Assessment or Environmental Impact Statement completed as appropriate, which shall discuss alternatives or modifications to avoid or mitigate such impact on the species or its habitat.
+
+[45 FR 70247, Oct. 23, 1980]

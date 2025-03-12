@@ -1,0 +1,11 @@
+##### § 876.5630 Peritoneal dialysis system and accessories. #####
+
+(a) *Identification.* (1) A peritoneal dialysis system and accessories is a device that is used as an artificial kidney system for the treatment of patients with renal failure or toxemic conditions, and that consists of a peritoneal access device, an administration set for peritoneal dialysis, a source of dialysate, and, in some cases, a water purification mechanism. After the dialysate is instilled into the patient's peritoneal cavity, it is allowed to dwell there so that undesirable substances from the patient's blood pass through the lining membrane of the peritoneal cavity into this dialysate. These substances are then removed when the dialysate is drained from the patient. The peritoneal dialysis system may regulate and monitor the dialysate temperature, volume, and delivery rate together with the time course of each cycle of filling, dwell time, and draining of the peritoneal cavity or manual controls may be used. This generic device includes the semiautomatic and the automatic peritoneal delivery system.
+
+(2) The peritoneal access device is a flexible tube that is implanted through the abdominal wall into the peritoneal cavity and that may have attached cuffs to provide anchoring and a skin seal. The device is either a single use peritioneal catheter, intended to remain in the peritoneal cavity for less than 30 days, or a long term peritoneal catheter. Accessories include stylets and trocars to aid in the insertion of the catheter and an obturator to maintain the patency of the surgical fistula in the abdominal wall between treatments.
+
+(3) The disposable administration set for peritoneal dialysis consists of tubing, an optional reservoir bag, and appropriate connectors. It may include a peritoneal dialysate filter to trap and remove contaminating particles.
+
+(4) The source of dialysate may be sterile prepackaged dialysate (for semiautomatic peritoneal dialysate delivery systems or “cycler systems”) or dialysate prepared from dialysate concentrate and sterile purified water (for automatic peritoneal dialysate delivery systems or “reverse osmosis” systems). Prepackaged dialysate intended for use with either of the peritoneal dialysate delivery systems is regulated by FDA as a drug.
+
+(b) *Classification.* Class II (performance standards).

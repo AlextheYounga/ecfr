@@ -1,0 +1,9 @@
+##### § 1306.21 Requirement of prescription. #####
+
+(a) A pharmacist may dispense directly a controlled substance listed in Schedule III, IV, or V that is a prescription drug as determined under section 503(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)) only pursuant to either a paper prescription signed by a practitioner, a facsimile of a signed paper prescription transmitted by the practitioner or the practitioner's agent to the pharmacy, an electronic prescription that meets the requirements of this part and part 1311 of this chapter, or an oral prescription made by an individual practitioner and promptly reduced to writing by the pharmacist containing all information required in § 1306.05, except for the signature of the practitioner.
+
+(b) An individual practitioner may administer or dispense directly a controlled substance listed in Schedule III, IV, or V in the course of his/her professional practice without a prescription, subject to § 1306.07.
+
+(c) An institutional practitioner may administer or dispense directly (but not prescribe) a controlled substance listed in Schedule III, IV, or V only pursuant to a paper prescription signed by an individual practitioner, a facsimile of a paper prescription or order for medication transmitted by the practitioner or the practitioner's agent to the institutional practitioner-pharmacist, an electronic prescription that meets the requirements of this part and part 1311 of this chapter, or an oral prescription made by an individual practitioner and promptly reduced to writing by the pharmacist (containing all information required in § 1306.05 except for the signature of the individual practitioner), or pursuant to an order for medication made by an individual practitioner that is dispensed for immediate administration to the ultimate user, subject to § 1306.07.
+
+[62 FR 13965, Mar. 24, 1997, as amended at 75 FR 16308, Mar. 31, 2010]

@@ -1,0 +1,5 @@
+##### § 140.80 Disclosure of information pursuant to a subpoena or summons. #####
+
+The Commission shall provide notice to any person who has submitted information to the Commission when a summons or subpoena seeking the submitted information is received by the Commission. Notice ordinarily will be provided by mailing a copy of the summons or subpoena to the last known home or business address of the person who submitted the information. However, under circumstances which would make notice by mail unduly burdensome or costly, notice of the existence of the summons or subpoena may be affected by alternative means such as publication in the Federal Register. The Commission will not disclose such information until the expiration of at least fourteen days from the date of mailing, or such other notice as is given. This section shall not apply to (a) Congressional subpoenas or Congressional requests for information, (b) information which is considered by the Commission to be public information, or (c) information as to which the submitter has waived the notice provision of this section.
+
+[49 FR 4464, Feb. 7, 1984]

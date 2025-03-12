@@ -1,0 +1,31 @@
+##### § 1301.52 Termination of registration; transfer of registration; distribution upon discontinuance of business. #####
+
+(a) Except as provided in paragraph (b) of this section, the registration of any person, and any modifications of that registration, shall terminate, without any further action by the Administration, if and when such person dies, ceases legal existence, discontinues business or professional practice, or surrenders a registration. Any registrant who ceases legal existence or discontinues business or professional practice shall notify the Administrator promptly of such fact. In the case of a surrender, termination shall occur upon receipt by any employee of the Administration of a duly executed DEA form 104 or any signed writing indicating the desire to surrender a registration.
+
+(b) No registration or any authority conferred thereby shall be assigned or otherwise transferred except upon such conditions as the Administration may specifically designate and then only pursuant to written consent. Any person seeking authority to transfer a registration shall submit a written request, providing full details regarding the proposed transfer of registration, to the Deputy Assistant Administrator, Office of Diversion Control, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
+
+(c) Any registrant desiring to discontinue business activities altogether or with respect to controlled substances (without transferring such business activities to another person) shall return for cancellation his/her certificate of registration, and any unexecuted order forms in his/her possession, to the Registration Unit, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. Any controlled substances in his/her possession may be disposed of in accordance with part 1317 of this chapter.
+
+(d) Any registrant desiring to discontinue business activities altogether or with respect to controlled substance (by transferring such business activities to another person) shall submit in person or by registered or certified mail, return receipt requested, to the Special Agent in Charge in his/her area, at least 14 days in advance of the date of the proposed transfer (unless the Special Agent in Charge waives this time limitation in individual instances), the following information:
+
+(1) The name, address, registration number, and authorized business activity of the registrant discontinuing the business (registrant-transferor);
+
+(2) The name, address, registration number, and authorized business activity of the person acquiring the business (registrant-transferee);
+
+(3) Whether the business activities will be continued at the location registered by the person discontinuing business, or moved to another location (if the latter, the address of the new location should be listed);
+
+(4) Whether the registrant-transferor has a quota to manufacture or procure any controlled substance listed in Schedule I or II (if so, the basic class or class of the substance should be indicated); and
+
+(5) The date on which the transfer of controlled substances will occur.
+
+(e) Unless the registrant-transferor is informed by the Special Agent in Charge, before the date on which the transfer was stated to occur, that the transfer may not occur, the registrant-transferor may distribute (without being registered to distribute) controlled substances in his/her possession to the registrant-transferee in accordance with the following:
+
+(1) On the date of transfer of the controlled substances, a complete inventory of all controlled substances being transferred shall be taken in accordance with § 1304.11 of this chapter. This inventory shall serve as the final inventory of the registrant-transferor and the initial inventory of the registrant-transferee, and a copy of the inventory shall be included in the records of each person. It shall not be necessary to file a copy of the inventory with the Administration unless requested by the Special Agent in Charge. Transfers of any substances listed in Schedule I or II shall require the use of order forms in accordance with part 1305 of this chapter.
+
+(2) On the date of transfer of the controlled substances, all records required to be kept by the registrant-transferor with reference to the controlled substances being transferred, under part 1304 of this chapter, shall be transferred to the registrant-transferee. Responsibility for the accuracy of records prior to the date of transfer remains with the transferor, but responsibility for custody and maintenance shall be upon the transferee.
+
+(3) In the case of registrants required to make reports pursuant to part 1304 of this chapter, a report marked “Final” will be prepared and submitted by the registrant-transferor showing the disposition of all the controlled substances for which a report is required; no additional report will be required from him, if no further transactions involving controlled substances are consummated by him. The initial report of the registrant-transferee shall account for transactions beginning with the day next succeeding the date of discontinuance or transfer of business by the transferor-registrant and the substances transferred to him shall be reported as receipts in his/her initial report.
+
+(f) Any registrant that has been authorized as a collector and desires to discontinue its collection of controlled substances from ultimate users shall notify the Administration of its intent by submitting a written notification to the Registration Unit, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. Additionally, such notice may be submitted on-line at *www.DEAdiversion.usdoj.gov.* When ceasing collection activities of an authorized mail-back program, the registrant shall provide the Administration with the name, registered address, and registration number of the collector that will receive the remaining mail-back packages in accordance with § 1317.70(e)(3) of this chapter.
+
+[62 FR 13957, Mar. 24, 1997, as amended at 74 FR 15623, Apr. 6, 2009; 75 FR 10676, Mar. 9, 2010; 76 FR 61564, Oct. 5, 2011; 79 FR 53561, Sept. 9, 2014]

@@ -1,0 +1,17 @@
+##### § 1.635 What if I want to voluntarily relinquish recognition or do not want to renew recognition? #####
+
+(a) *Notice to FDA of intent to relinquish or not to renew recognition.* A recognized accreditation body must notify FDA electronically, in English, at least 60 days before voluntarily relinquishing recognition or before allowing recognition to expire without seeking renewal. The recognized accreditation body must provide the name and contact information of the custodian who will maintain the records required under § 1.625(a) after the date of relinquishment or the date recognition expires, as applicable, and make them available to FDA as required by § 1.625(b). The contact information for the custodian must include, at a minimum, an email address and the physical address where the records required by § 1.625(a) will be located.
+
+(b) *Notice to accredited third-party certification bodies of intent to relinquish or not to renew recognition.* No later than 15 business days after notifying FDA under paragraph (a) of this section, the recognized accreditation body must notify any currently accredited third-party certification body that it intends to relinquish recognition or to allow its recognition to expire, specifying the date on which relinquishment or expiration will occur. The recognized accreditation body must establish and maintain records of such notification under § 1.625.
+
+(c)(1) *Effect of voluntary relinquishment or expiration of recognition on third-party certification bodies.* The accreditation of a third-party certification body issued prior to the relinquishment or expiration of its accreditation body's recognition will remain in effect, so long as the third-party certification body:
+
+(i) No later than 60 days after the date of relinquishment or the date of expiration of the recognition, conducts a self-assessment under § 1.655 and reports the results of the self-assessment to FDA under § 1.656(b); and
+
+(ii) No later than 1 year after the date of relinquishment or the date of expiration of recognition, or the original date of the expiration of the accreditation, whichever comes first, becomes accredited by another recognized accreditation body or by FDA through direct accreditation.
+
+(2) FDA may withdraw the accreditation of a third-party certification body whenever FDA determines there is good cause for withdrawal of accreditation under § 1.664(c).
+
+(d) *Effect of voluntary relinquishment or expiration of recognition of an accreditation body on food or facility certifications issued to eligible entities.* A food or facility certification issued by a third-party certification body accredited by a recognized accreditation body prior to relinquishment or expiration of its recognition will remain in effect until the certification expires. If FDA has reason to believe that a certification issued for purposes of section 801(q) or 806 of the FD&C Act is not valid or reliable, FDA may refuse to consider the certification in determining the admissibility of the article of food for which the certification was offered or in determining the importer's eligibility for participation in VQIP.
+
+(e) *Public notice of voluntary relinquishment or expiration of recognition.* FDA will provide notice on the Web site described in § 1.690 of the voluntary relinquishment or expiration of recognition of an accreditation body under this subpart.

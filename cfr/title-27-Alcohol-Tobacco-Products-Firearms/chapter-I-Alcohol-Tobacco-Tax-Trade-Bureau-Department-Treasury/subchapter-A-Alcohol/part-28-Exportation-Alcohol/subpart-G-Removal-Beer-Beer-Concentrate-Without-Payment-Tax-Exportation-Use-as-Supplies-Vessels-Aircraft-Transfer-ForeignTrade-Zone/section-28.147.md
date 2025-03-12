@@ -1,0 +1,5 @@
+##### § 28.147 Return of beer or beer concentrate. #####
+
+Beer or beer concentrate removed without payment of tax under the provisions of this subpart may be returned to be brewery from which removed if lading of the beer or beer concentrate is delayed more than the period provided in § 28.262 or when the brewer has other good cause for return. The brewer shall request the district director of customs to release the beer or beer concentrate for return to the brewery and, on such release, the district director of customs shall endorse both copies of the appropriate Form 1689 (5130.12) to show the release of the beer or beer concentrate and shall return the forms to the brewer. On return of the beer or beer concentrate to the brewery, the brewer shall record the quantity in the brewery daily records, mark the two copies of Form 1689 (5130.12) returned by the district director of customs, “Canceled—Returned to Brewery,” and forward one copy to the appropriate TTB officer.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1334, as amended, 1335, as amended (26 U.S.C. 5053, 5056))[T.D. ATF-224, 51 FR 7699, Mar. 5, 1986, as amended by T.D. TTB-8, 69 FR 3833, Jan. 27, 2004]

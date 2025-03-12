@@ -1,0 +1,3 @@
+##### § 335.4 Policy. #####
+
+The Corps of Engineers undertakes operations and maintenance activities where appropriate and environmentally acceptable. All practicable and reasonable alternatives are fully considered on an equal basis. This includes the discharge of dredged or fill material into waters of the U.S. or ocean waters in the least costly manner, at the least costly and most practicable location, and consistent with engineering and environmental requirements.

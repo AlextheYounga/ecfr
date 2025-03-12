@@ -1,0 +1,5 @@
+##### § 240.15d-19 Reports by shell companies on Form 20-F. #####
+
+Every foreign private issuer that was a shell company, other than a business combination related shell company, immediately before a transaction that causes it to cease to be a shell company shall, within four business days of completion of that transaction, file a report on Form 20-F (§ 249.220f of this chapter) containing the information that would be required if the issuer were filing a form for registration of securities on Form 20-F to register under the Act all classes of the issuer's securities subject to the reporting requirements of section 13 (15 U.S.C. 78m) or section 15(d) (15 U.S.C. 78o(d)) of the Act upon consummation of the transaction, with such information reflecting the registrant and its securities upon consummation of the transaction.
+
+[70 FR 42247, July 21, 2005]

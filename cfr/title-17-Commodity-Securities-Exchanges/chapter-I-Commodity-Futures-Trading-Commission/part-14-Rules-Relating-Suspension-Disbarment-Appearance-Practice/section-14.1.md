@@ -1,0 +1,3 @@
+##### § 14.1 Scope. #####
+
+The rules of this part describe the circumstances under which persons may be denied, either temporarily or permanently, the privilege of appearing or practicing before the Commission as an attorney or accountant. An attorney may also be excluded from further participation in a particular adjudicatory proceeding in accordance with the provisions of § 10.11(b) of this chapter or from further participation in a particular investigatory proceeding in accordance with the provisions of § 11.7(c)(2) of this chapter.

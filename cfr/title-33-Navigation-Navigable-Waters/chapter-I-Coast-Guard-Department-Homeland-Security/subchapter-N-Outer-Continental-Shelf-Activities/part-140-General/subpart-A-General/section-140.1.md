@@ -1,0 +1,3 @@
+##### § 140.1 Purpose. #####
+
+This subchapter is intended to promote safety of life and property on Outer Continental Shelf (OCS) facilities, vessels, and other units engaged in OCS activities, protect the marine environment, and implement the Outer Continental Shelf Lands Act (43 U.S.C. 1331 *et seq.*), as amended by the Outer Continental Shelf Lands Act Amendments of 1978 (Pub. L. 95-372, 92 Stat. 629).

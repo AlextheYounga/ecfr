@@ -1,0 +1,3 @@
+##### § 1315.62 Final order. #####
+
+As soon as practicable after the presiding officer has certified the record to the Administrator, the Administrator shall issue his order on the determination or adjustment of the assessment of annual needs or on the issuance, adjustment, suspension, or denial of the procurement, import, or individual manufacturing quota, as the case may be. The order shall include the findings of fact and conclusions of law upon which the order is based. The order shall specify the date on which it shall take effect. The Administrator shall serve one copy of his order upon each party in the hearing.

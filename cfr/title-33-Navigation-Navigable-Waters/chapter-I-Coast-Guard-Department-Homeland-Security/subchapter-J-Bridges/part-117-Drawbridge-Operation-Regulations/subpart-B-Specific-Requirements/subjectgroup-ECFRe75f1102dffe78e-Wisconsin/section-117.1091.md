@@ -1,0 +1,3 @@
+##### § 117.1091 Menomonee River. #####
+
+The draw of the Ogden-First Street bridge, mile 0.4 at Marinette, shall open on signal from 7 a.m. to 11 p.m. from May 1 through October 31. From 11 p.m. to 7 a.m. from May 1 through October 31, the draw shall open on signal if at least two hours notice is given. From November 1 through April 30, the draw shall open on signal if at least 12 hours notice is given.

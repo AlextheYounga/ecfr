@@ -1,0 +1,3 @@
+##### § 514.7 Withdrawal of applications without prejudice. #####
+
+The sponsor may withdraw his pending application from consideration as a new animal drug application upon written notification to the Food and Drug Administration. Such withdrawal may be made without prejudice to a future filing. Upon resubmission, the time limitation will begin to run from the date the resubmission is received by the Food and Drug Administration. The original application will be retained by the Food and Drug Administration although it is considered withdrawn. The applicant shall be furnished a copy at cost on request.

@@ -1,0 +1,7 @@
+##### § 903.1 Initiation of cases. #####
+
+(a) Grievances submitted to the Board shall be in writing, and shall explain the nature of the grievance, and the remedy sought; shall contain all the documentation furnished to the Agency and the Agency's final review; and shall be timely filed in accordance with applicable regulations.
+
+(b) A member whose grievance is not resolved satisfactorily under Agency procedures, the representative of the grievant, or the exclusive representative (on behalf of a grievant who is a member of the bargaining unit), shall be entitled to file a grievance with the Board no later than 60 days after receiving the Agency decision. In the event that an Agency has not provided its decision within 90 days of filing with the Agency, the grievant, the representative of the grievant, or the exclusive representative (on the grievant's behalf) shall be entitled to file a grievance with the Board no later than 150 days after the date of filing with the Agency. The Board may extend or waive for good cause shown the time limits stated in this section, and may permit or request the views of the parties with respect to whether good cause has been shown for such an extension.
+
+(c) Separation for cause proceedings against a charged employee shall be initiated before the Board by submission of a statement of the acts or behavior considered by the Agency to warrant separation.

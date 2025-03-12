@@ -1,0 +1,5 @@
+##### § 229.135 Designation of responsible employee and adoption of grievance procedures. #####
+
+(a) *Designation of responsible employee.* Each recipient shall designate at least one employee to coordinate its efforts to comply with and carry out its responsibilities under these Title IX regulations, including any investigation of any complaint communicated to such recipient alleging its noncompliance with these Title IX regulations or alleging any actions that would be prohibited by these Title IX regulations. The recipient shall notify all its students and employees of the name, office address, and telephone number of the employee or employees appointed pursuant to this paragraph.
+
+(b) *Complaint procedure of recipient.* A recipient shall adopt and publish grievance procedures providing for prompt and equitable resolution of student and employee complaints alleging any action that would be prohibited by these Title IX regulations.

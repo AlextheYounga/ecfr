@@ -1,0 +1,3 @@
+##### § 44.141 Sign. #####
+
+Every export warehouse proprietor shall place and keep, on the outside of the building in which his warehouse is located, or at the entrance of his warehouse, where it can be plainly seen, a sign, in plain and legible letters, exhibiting the name under which he operates and (a) the type of business (“Export Warehouse Proprietor”) or (b) the number of the permit issued to the export warehouse proprietor under this part.

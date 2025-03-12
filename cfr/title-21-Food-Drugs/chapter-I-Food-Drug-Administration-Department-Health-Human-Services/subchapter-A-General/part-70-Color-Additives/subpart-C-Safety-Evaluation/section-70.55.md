@@ -1,0 +1,3 @@
+##### § 70.55 Request for scientific studies. #####
+
+The Commissioner will consider requests by any interested person who desires the Food and Drug Administration to conduct scientific studies to support a petition for a regulation for a color additive. If favorably acted upon, such studies will be limited to pharmacological investigations, studies of the chemical and physical structure of the color additive, and methods of analysis of the pure color additive (including impurities) and its identification and determination in foods, drugs, or cosmetics, as the case may be. All requests for such studies shall be accompanied by the fee prescribed in § 70.19.

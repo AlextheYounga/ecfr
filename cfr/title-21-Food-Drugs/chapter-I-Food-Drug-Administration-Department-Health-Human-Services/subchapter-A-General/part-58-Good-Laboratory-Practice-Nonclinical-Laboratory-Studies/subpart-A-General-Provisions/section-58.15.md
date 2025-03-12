@@ -1,0 +1,5 @@
+##### § 58.15 Inspection of a testing facility. #####
+
+(a) A testing facility shall permit an authorized employee of the Food and Drug Administration, at reasonable times and in a reasonable manner, to inspect the facility and to inspect (and in the case of records also to copy) all records and specimens required to be maintained regarding studies within the scope of this part. The records inspection and copying requirements shall not apply to quality assurance unit records of findings and problems, or to actions recommended and taken.
+
+(b) The Food and Drug Administration will not consider a nonclinical laboratory study in support of an application for a research or marketing permit if the testing facility refuses to permit inspection. The determination that a nonclinical laboratory study will not be considered in support of an application for a research or marketing permit does not, however, relieve the applicant for such a permit of any obligation under any applicable statute or regulation to submit the results of the study to the Food and Drug Administration.

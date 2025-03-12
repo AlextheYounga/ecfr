@@ -1,0 +1,3 @@
+##### § 1413.3 Definition of meeting. #####
+
+For purposes of this part, *meeting* shall mean the deliberations of at least two (2) members of the Board where such deliberations determine or result in the joint conduct or disposition of official agency business, but does not include deliberations to determine whether a meeting should be closed to public observation in accordance with the provisions of this part.

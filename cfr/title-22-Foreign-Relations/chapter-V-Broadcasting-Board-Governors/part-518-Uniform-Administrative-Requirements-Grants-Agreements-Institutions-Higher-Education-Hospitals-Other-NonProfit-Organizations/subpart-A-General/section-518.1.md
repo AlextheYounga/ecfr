@@ -1,0 +1,3 @@
+##### § 518.1 Purpose. #####
+
+This part establishes uniform administrative requirements for Federal grants and agreements awarded to institutions of higher education, hospitals, and other non-profit organizations. Federal awarding agencies shall not impose additional or inconsistent requirements, except as provided in §§ 518.4 and 518.14 or unless specifically required by Federal statute or executive order. Non-profit organizations that implement Federal programs for the States are also subject to State requirements.

@@ -1,0 +1,14 @@
+##### § 178.3010 Adjuvant substances used in the manufacture of foamed plastics. #####
+
+The following substances may be safely used as adjuvants in the manufacture of foamed plastics intended for use in contact with food, subject to any prescribed limitations:
+
+|           List of substances            |                                                                                                                                      Limitations                                                                                                                                       |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|            Azodicarbonamide             |                                                   For use as a blowing agent in polyethylene complying with item 2.1 in § 177.1520(c) of this chapter at a level not to exceed 5 percent by weight of finished foamed polyethylene.                                                    |
+|1,1-Difluoroethane (CAS Reg. No. 75-37-6)|                                                                                                                       For use as a blowing agent in polystyrene.                                                                                                                       |
+|               Isopentane                |                                                                                                                       For use as a blowing agent in polystyrene.                                                                                                                       |
+|                n-Pentane                |                                                                                                                                           Do.                                                                                                                                          |
+|      1,1,2,2-Tetra-chloroethylene       |For use only as a blowing agent adjuvant in polystyrene at a level not to exceed 0.3 percent by weight of finished foamed polystyrene intended for use in contact with food only of the types identified in § 176.170(c) of this chapter, table 1, under Categories I, II, VI, and VIII.|
+|                 Toluene                 |                                                                        For use only as a blowing agent adjuvant in polystyrene at a level not to exceed 0.35 percent by weight of finished foamed polystyrene.                                                                         |
+
+[47 FR 22090, May 21, 1982, as amended at 58 FR 64895, Dec. 10, 1993]

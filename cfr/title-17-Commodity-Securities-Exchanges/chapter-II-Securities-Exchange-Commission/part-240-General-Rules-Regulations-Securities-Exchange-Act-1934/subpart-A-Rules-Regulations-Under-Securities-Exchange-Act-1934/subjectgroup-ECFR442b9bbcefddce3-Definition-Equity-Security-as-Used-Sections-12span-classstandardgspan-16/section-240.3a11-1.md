@@ -1,0 +1,5 @@
+##### § 240.3a11-1 Definition of the term “equity security.” #####
+
+The term *equity security* is hereby defined to include any stock or similar security, certificate of interest or participation in any profit sharing agreement, preorganization certificate or subscription, transferable share, voting trust certificate or certificate of deposit for an equity security, limited partnership interest, interest in a joint venture, or certificate of interest in a business trust; any security future on any such security; or any security convertible, with or without consideration into such a security, or carrying any warrant or right to subscribe to or purchase such a security; or any such warrant or right; or any put, call, straddle, or other option or privilege of buying such a security from or selling such a security to another without being bound to do so.
+
+[67 FR 19673, Apr. 23, 2002]

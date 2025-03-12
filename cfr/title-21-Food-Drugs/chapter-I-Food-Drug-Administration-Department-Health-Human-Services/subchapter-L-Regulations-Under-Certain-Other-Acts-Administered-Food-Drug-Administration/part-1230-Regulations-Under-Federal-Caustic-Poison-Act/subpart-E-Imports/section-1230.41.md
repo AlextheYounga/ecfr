@@ -1,0 +1,3 @@
+##### § 1230.41 Delivery of containers. #####
+
+Containers shall not be delivered to the consignee prior to report of examination, unless a bond has been given on the appropriate form for the amount of the full invoice value of such containers, together with the duty thereon, and the refusal of the consignee to return such containers for any cause to the custody of the District Director of Customs when demanded, for the purpose of excluding them from the country or for any other purpose, the consignee shall pay an amount equal to the sum named in the bond, and such part of the duty, if any, as may be payable, as liquidated damages for failure to return to the District Director of Customs on demand all containers covered by the bond.

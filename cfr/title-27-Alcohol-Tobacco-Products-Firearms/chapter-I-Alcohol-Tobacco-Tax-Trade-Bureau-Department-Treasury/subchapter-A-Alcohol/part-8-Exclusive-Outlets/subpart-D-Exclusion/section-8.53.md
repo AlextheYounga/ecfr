@@ -1,0 +1,3 @@
+##### § 8.53 Practice not resulting in exclusion. #####
+
+The practice specified in this section is deemed not to result in exclusion under section 105(a) of the Act: a supply contract for one year or less between the industry member and retailer under which the industry member agrees to sell distilled spirits, wine, or malt beverages to the retailer on an “as needed” basis provided that the retailer is not required to purchase any minimum quantity of such product.

@@ -1,0 +1,9 @@
+##### § 184.1866 High fructose corn syrup. #####
+
+(a) High fructose corn syrup, a sweet, nutritive saccharide mixture containing either approximately 42 or 55 percent fructose, is prepared as a clear aqueous solution from high dextrose-equivalent corn starch hydrolysate by partial enzymatic conversion of glucose (dextrose) to fructose using an insoluble glucose isomerase enzyme preparation described in § 184.1372. The product containing more than 50 percent fructose (dry weight) is prepared through concentration of the fructose portion of the mixture containing less than 50 percent fructose.
+
+(b) The ingredient shall conform to the identity and specifications listed in the monograph entitled “High-Fructose Corn Syrup” in the Food Chemicals Codex, 4th ed. (1996), pp. 191-192, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available from the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1200, or may be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) In accordance with § 184.1(b)(1), the ingredient is used in food with no limitation other than current good manufacturing practice.
+
+[61 FR 43450, Aug. 23, 1996, as amended at 78 FR 14667, Mar. 7, 2013; 81 FR 5596, Feb. 3, 2016]

@@ -1,0 +1,7 @@
+##### § 1309.31 Time for application for registration; expiration date. #####
+
+(a) Any person who is required to be registered and who is not so registered may apply for registration at any time. No person required to be registered shall engage in any activity for which registration is required until the application for registration is approved and a Certificate of Registration is issued by the Administrator to such person.
+
+(b) Any person who is registered may apply to be reregistered not more than 60 days before the expiration date of his registration.
+
+(c) At the time a person is first registered, that person shall be assigned to one of twelve groups, which shall correspond to the months of the year. The expiration date of the registrations of all registrants within any group will be the last day of the month designated for that group. In assigning any of the above persons to a group, the Administration may select a group the expiration date of which is less than one year from the date such business activity was registered. If the person is assigned to a group which has an expiration date less than eleven months from the date of which the person is registered, the registration shall not expire until one year from that expiration date; in all other cases, the registration shall expire on the expiration date following the date on which the person is registered.

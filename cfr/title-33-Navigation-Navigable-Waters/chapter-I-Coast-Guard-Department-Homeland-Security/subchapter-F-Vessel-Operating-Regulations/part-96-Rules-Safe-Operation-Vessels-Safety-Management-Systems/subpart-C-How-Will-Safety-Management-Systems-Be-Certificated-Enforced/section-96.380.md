@@ -1,0 +1,11 @@
+##### § 96.380 How will the Coast Guard handle compliance and enforcement of these regulations? #####
+
+(a) While operating in waters under the jurisdiction of the United States, the Coast Guard may board a vessel to determine that—
+
+(1) Valid copies of the company's Document of Compliance certificate and Safety Management Certificate are on board, or evidence of the same for vessels from countries not party to Chapter IX of SOLAS; and
+
+(2) The vessel's crew or shore-based personnel are following the procedures and policies of the safety management system while operating the vessel or transferring cargoes.
+
+(b) A foreign vessel that does not comply with these regulations, or one on which the vessel's condition or use of its safety management system do not substantially agree with the particulars of the Document of Compliance certificate, Safety Management Certificate or other required evidence of compliance, may be detained by order of the COTP or OCMI. This may occur at the port or terminal where the violation is found until, in the opinion of the detaining authority, the vessel can go to sea without presenting an unreasonable threat of harm to the port, the marine environment, the vessel or its crew. The detention order may allow the vessel to go to another area of the port, if needed, rather than stay at the place where the violation was found.
+
+(c) If any vessel that must comply with this part or with the ISM Code does not have a Safety Management Certificate and a copy of its company's Document of Compliance certificate on board, a vessel owner, charterer, managing operator, agent, Master, or any other individual in charge of the vessel that is subject to this part, may be liable for a civil penalty under 46 U.S.C. 3318. For foreign vessels, the Coast Guard may request the Secretary of the Treasury to withhold or revoke the clearance required by 46 U.S.C. App. 91. The Coast Guard may ask the Secretary to permit the vessel's departure after the bond or other surety is filed.

@@ -1,0 +1,5 @@
+##### § 1.514 What are some consequences of failing to comply with the requirements of this subpart? #####
+
+(a) *Refusal of admission.* An article of food is subject to refusal of admission under section 801(a)(3) of the Federal Food, Drug, and Cosmetic Act if it appears that the importer of that food fails to comply with this subpart with respect to that food. If there is no U.S. owner or consignee of an article of food at the time the food is offered for entry into the United States, the article of food may not be imported into the United States unless the foreign owner or consignee has appropriately designated a U.S. agent or representative as the importer in accordance with § 1.500.
+
+(b) *Prohibited act.* The importation or offering for importation into the United States of an article of food without the importer having an FSVP that meets the requirements of section 805 of the Federal Food, Drug, and Cosmetic Act, including the requirements of this subpart, is prohibited under section 301(zz) of the Federal Food, Drug, and Cosmetic Act.

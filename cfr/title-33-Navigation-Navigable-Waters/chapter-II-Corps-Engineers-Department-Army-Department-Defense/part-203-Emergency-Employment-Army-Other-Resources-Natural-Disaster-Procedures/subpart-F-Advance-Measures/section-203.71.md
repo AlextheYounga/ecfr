@@ -1,0 +1,3 @@
+##### § 203.71 Policy. #####
+
+Advance Measures consists of those activities performed prior to a flood event, or potential flood event, to protect against loss of life and/or significant damages to improved property from flooding. Emergency work under this authority will be considered when requested by the Governor of a State confronted with an imminent threat of unusual flooding. Corps assistance will be to complement the maximum efforts of tribal, State, and local authorities. Projects will be designed for the specific threat, normally of expedient-type construction, and typically temporary in nature.

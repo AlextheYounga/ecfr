@@ -1,0 +1,3 @@
+##### § 13.1 Scope. #####
+
+The rules of part 13 set forth the procedures of the Commodity Futures Trading Commission for the formulation, amendment or repeal of a rule or regulation, insofar as those procedures directly affect the public. Unless otherwise stated, the rules apply to all rulemaking by the Commission, except to the extent the rulemaking involves Commission management or personnel or public property, loans, grants, benefits or contracts.

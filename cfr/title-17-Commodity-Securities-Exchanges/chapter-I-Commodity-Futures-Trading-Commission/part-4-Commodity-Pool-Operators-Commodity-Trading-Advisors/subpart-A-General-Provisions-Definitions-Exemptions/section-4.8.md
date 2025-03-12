@@ -1,0 +1,9 @@
+##### § 4.8 Exemption from certain requirements of rule 4.26 with respect to pools offered or sold in certain offerings exempt from registration under the Securities Act. #####
+
+(a) Notwithstanding paragraph (d) of § 4.26 and subject to the conditions specified herein, the registered commodity pool operator of a pool offered or sold solely to “accredited investors” as defined in 17 CFR 230.501 in an offering exempt from the registration requirements of the Securities Act of 1933 pursuant to Rule 505 or 506 of Regulation D, 17 CFR 230.505 or 230.506, may solicit, accept and receive funds, securities and other property from prospective participants in that pool upon filing with the National Futures Association and providing to such participants the Disclosure Document for the pool.
+
+(b) Notwithstanding paragraph (d) of § 4.26 and subject to the conditions specified herein, the registered commodity pool operator of a pool offered or sold in an offering exempt from the registration requirements of the Securities Act of 1933 pursuant to Rule 505 or 506 of Regulation D, 17 CFR 230.505 or 230.506, that is operated in compliance with, and has filed the notice required by § 4.12(b) may solicit, accept and receive funds, securities and other property from prospective participants in that pool upon filing with the National Futures Association and providing to such participants the Disclosure Document for the pool.
+
+(c) The relief provided under § 4.8 is not available if an enforcement proceeding brought by the Commission under the Act or the regulations is pending against the commodity pool operator or any of its principals or if the commodity pool operator or any of its principals is subject to any statutory disqualification under §§ 8a(2) or 8a(3) of the Act.
+
+[57 FR 34865, Aug. 7, 1992; 57 FR 41173, Sept. 9, 1992, as amended at 60 FR 38182, July 25, 1995; 72 FR 1662, Jan. 16, 2007]

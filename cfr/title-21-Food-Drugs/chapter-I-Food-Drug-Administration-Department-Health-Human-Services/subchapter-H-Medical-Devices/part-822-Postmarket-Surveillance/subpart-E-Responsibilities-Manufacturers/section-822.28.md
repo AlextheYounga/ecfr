@@ -1,0 +1,3 @@
+##### § 822.28 If I stop marketing the device subject to postmarket surveillance, what must I do? #####
+
+You must continue to conduct postmarket surveillance in accordance with your approved plan even if you no longer market the device. You may request that we allow you to terminate postmarket surveillance or modify your postmarket surveillance because you no longer market the device. We will make these decisions on a case-by-case basis, and you must continue to conduct the postmarket surveillance unless we notify you that you may stop your surveillance study.

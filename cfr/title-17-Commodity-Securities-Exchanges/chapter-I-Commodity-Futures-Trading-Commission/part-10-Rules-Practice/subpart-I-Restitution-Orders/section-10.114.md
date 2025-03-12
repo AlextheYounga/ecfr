@@ -1,0 +1,3 @@
+##### § 10.114 Acceleration of establishment of restitution procedure. #####
+
+The procedures provided for by §§ 10.111 through 10.113 may be initiated prior to the issuance of the initial decision of the Administrative Law Judge and may be combined with the hearing in the proceeding, either upon motion by the Division of Enforcement or if the Administrative Law Judge, acting on his own initiative or upon motion by a respondent, concludes that the presentation, consideration and resolution of the issues relating to the restitution procedure will not materially delay the conclusion of the hearing or the issuance of the initial decision.

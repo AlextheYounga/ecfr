@@ -1,0 +1,23 @@
+##### § 70.435 Claims. #####
+
+(a) *General.* Detailed requirements, including the procedure to be followed in the filing of a claim, the form to be used, the supporting documents which must be submitted, the time within which a claim must be filed, and any other limitations or instructions are contained in the applicable regulations referred to in § 70.431.
+
+(b) *Abatement of assessment.* Abatement of the unpaid portion of an assessment of any tax on tobacco products, and cigarette papers and tubes, or any liability in respect thereof, may be allowed to the extent that such assessment is excessive in amount, is assessed after expiration of the applicable period of limitation, or is erroneously or illegally assessed.
+
+(c) *Allowance of tax.* Relief from the payment of tax on tobacco products, and cigarette papers and tubes may be extended to a manufacturer by approval of a claim for allowance where such articles, after removal from the factory upon determination of tax and prior to the time for payment of such tax, are lost (otherwise than by theft) or destroyed by fire, casualty, or act of God, while in the possession or ownership of the manufacturer who removed such articles, or are withdrawn by the manufacturer from the market.
+
+(d) *Remission of tax liability.* Remission of the tax liability on tobacco products, and cigarette papers and tubes may be extended to a manufacturer or export warehouse proprietor liable for the tax, where such articles in bond are lost (otherwise than by theft) or destroyed by fire, casualty, or act of God, while in the possession or ownership of the manufacturer or export warehouse proprietor.
+
+(e) *Refund of tax.* Taxes paid on tobacco products, cigarette papers and tubes lost (otherwise than by theft) or destroyed by fire, casualty, or act of God, while in the possession or ownership of the manufacturer, importer, or export warehouse proprietor, or withdrawn from the market, may be refunded. Refunds may also be made within certain limitations for overpayments of tax on tobacco products, and cigarette papers and tubes.
+
+(f) *Losses caused by disaster.* Payment of an amount equal to the amount of internal revenue taxes paid or determined and customs duties paid on tobacco products, and cigarette papers and tubes removed from the factory or released from customs custody, which are lost, rendered unmarketable, or condemned by a duly authorized official by reason of a “major disaster” as determined by the President of the United States may be made only if, at the time of the disaster, such articles were being held for sale by the claimant. Claims must be filed within 6 months from the date on which the President makes the determination that the disaster has occurred. The determination date is construed to mean the date the Director, Office of Emergency Preparedness, identifies the specific disaster area.
+
+(g) *Drawback of tax.* Drawback may be allowed to the person who paid the tax on tobacco products, and cigarette papers and tubes which are shipped to a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States.
+
+(h) *Credit of tax.* Taxes paid on tobacco products, and cigarette papers and tubes lost (otherwise than by theft) or destroyed by fire, casualty, or act of God, while in the possession or ownership of the manufacturer, or withdrawn from the market, may be credited upon approval of a claim.
+
+(i) *Reopening claims.* A claimant who wishes to have a rejected claim reopened must, within the applicable statutory period of limitations, submit a written application to the appropriate TTB officer for reconsideration of the claim. Such application must show that the additional evidence to be presented is new and material, and that such evidence was unknown to the claimant, or unobtainable by the claimant, when the claim was previously under consideration.
+
+(j) *Claimant's rights under law and regulations.* Before final action has been taken on a claim, a claimant who, by reason of an oversight, misunderstanding of law and regulations, miscalculation, or other cause, did not claim the full amount of abatement, refund, credit, or drawback, as the case may be, of tax to which the claimant is legitimately entitled, may amend a valid claim, and statements filed in support thereof, in instances where such a claim is deficient in establishing the claimants eligibility to rights extended under law and regulations.
+
+[T.D. ATF-251, 52 FR 19325, May 22, 1987. Redesignated and amended by T.D. ATF-301, 55 FR 47606, 47654, Nov. 14, 1990]

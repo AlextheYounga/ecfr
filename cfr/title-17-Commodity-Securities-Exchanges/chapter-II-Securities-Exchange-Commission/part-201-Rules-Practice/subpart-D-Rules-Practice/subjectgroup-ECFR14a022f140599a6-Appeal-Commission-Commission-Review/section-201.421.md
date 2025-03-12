@@ -1,0 +1,5 @@
+##### § 201.421 Commission consideration of determinations by self-regulatory organizations. #####
+
+(a) *Commission review other than pursuant to a petition for review.* The Commission may, on its own initiative, order review of any determination by a self-regulatory organization that could be subject to an application for review pursuant to § 201.420(a) within 40 days after notice thereof was filed with the Commission pursuant to Section 19(d)(1) of the Exchange Act, 15 U.S.C. 78s(d)(1).
+
+(b) *Supplemental briefing.* The Commission may at any time prior to issuance of its decision raise or consider any matter that it deems material, whether or not raised by the parties. Notice to the parties and an opportunity for supplemental briefing with respect to issues not briefed by the parties shall be given where the Commission believes that such briefing would significantly aid the decisional process.

@@ -1,0 +1,3 @@
+##### § 38.704 Right to representation. #####
+
+Upon being served with a notice of charges, a respondent must have the right to be represented by legal counsel or any other representative of its choosing in all succeeding stages of the disciplinary process, except any member of the designated contract market's board of directors or disciplinary panel, any employee of the designated contract market, or any person substantially related to the underlying investigations, such as material witness or respondent.

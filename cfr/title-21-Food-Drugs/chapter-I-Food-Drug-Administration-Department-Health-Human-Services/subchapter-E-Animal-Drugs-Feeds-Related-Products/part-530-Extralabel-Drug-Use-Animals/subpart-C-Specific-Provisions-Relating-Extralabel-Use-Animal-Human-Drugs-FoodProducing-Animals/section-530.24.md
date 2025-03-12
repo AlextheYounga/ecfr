@@ -1,0 +1,5 @@
+##### § 530.24 Procedure for announcing analytical methods for drug residue quantification. #####
+
+(a) FDA may issue an order announcing a specific analytical method or methods for the quantification of extralabel use drug residues above the safe levels established under § 530.22 for extralabel use of an approved human drug or an approved animal drug. The agency will publish in the Federal Register a notice of the order, including the name of the specific analytical method or methods and the drug or drugs for which the method is applicable.
+
+(b) Copies of analytical methods for the quantification of extralabel use drug residues above the safe levels established under § 530.22 will be available upon request from the Communications and Education Branch (HFV-12), Division of Program Communication and Administrative Management, Center for Veterinary Medicine, 7500 Standish Pl., Rockville, MD 20855. When an analytical method for the detection of extralabel use drug residues above the safe levels established under § 530.22 is developed, and that method is acceptable to the agency, FDA will incorporate that method by reference.

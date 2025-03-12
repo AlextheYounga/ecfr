@@ -1,0 +1,9 @@
+##### § 91.4 Alcoholic liquors on vessels of not over 500 tons. #####
+
+(a) Upon request of interested shippers or masters of vessels at ports in the consular district other than the place where the consular office is situated, consular officers shall designate one or more reputable individuals residing in each such port, as authorized persons to witness the signatures of the masters of vessels of not over 500 net tons when affixed to declarations covering shipments of alcoholic liquors destined to the United States, and to issue certificates therefor as contemplated by section 7 of the Anti-Smuggling Act of 1935 (49 Stat. 520; 19 U.S.C. 1707). Any person so designated by a consular officer to issue such certificates shall state in each of his certificates that he has no interest in the shipment described therein. Having delivered the original document to the master, he shall forward the duplicate to the consular office for retention.
+
+(b) Consular officers shall, with respect to declarations of masters of vessels of not over 500 net tons in instances in which the port of shipment is the same place as, or conveniently near to, the location of the consular office, supply their certifications directly as contemplated by the said section of the Anti-Smuggling Act. They shall retain, over the interval prescribed in the applicable records retirement schedule, a copy of each document so certified by them. They shall similarly retain the copies of the certifications supplied by authorized persons in outlying ports of the consular district, as set forth in the preceding subsection.
+
+(c) This section, read together with § 4.13, title 19, of the Code of Federal Regulations, comprises the joint regulations contemplated for issuance by the Secretary of State and the Secretary of the Treasury under section 7 of the Anti-Smuggling Act of 1935.
+
+[32 FR 12588, Aug. 30, 1967]

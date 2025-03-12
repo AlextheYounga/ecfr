@@ -1,0 +1,3 @@
+##### § 384.5 What is the Corps of Engineers' obligation with respect to Federal interagency coordination? #####
+
+Responsible Corps officials, to the extent practicable, consult with and seek advice from all other substantially affected Federal departments and agencies in an effort to assure full coordination between such agencies and the Corps of Engineers regarding programs and activities covered under these regulations.

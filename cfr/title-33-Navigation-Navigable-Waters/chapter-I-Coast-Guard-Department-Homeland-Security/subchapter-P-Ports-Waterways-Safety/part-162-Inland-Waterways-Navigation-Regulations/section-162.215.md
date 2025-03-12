@@ -1,0 +1,5 @@
+##### § 162.215 Lake Tahoe, Nev.; restricted area adjacent to Nevada Beach. #####
+
+(a) *The restricted area.* The waters of Lake Tahoe shoreward of a line described as follows: Beginning at the intersection of the high waterline with a line projected in a general southerly direction 200 feet from a point lying 310 feet west of section corner common to section 15, 16, 21, and 22, Township 13 North (Mount Diablo Base Line), Range 18 East (Mount Diablo Meridian); thence 300 feet lakeward at right angles to the high waterline; thence southeasterly approximately 2,170 feet to the projected south boundary line of the Forest Service property at a point 300 feet west of the high waterline; and thence east 300 feet to the high water line.
+
+(b) *The regulations.* No sail or motor propelled watercraft, except vessels owned or controlled by the United States Government and vessels duly authorized by the United States Coast Guard, shall navigate or anchor in the restricted area.

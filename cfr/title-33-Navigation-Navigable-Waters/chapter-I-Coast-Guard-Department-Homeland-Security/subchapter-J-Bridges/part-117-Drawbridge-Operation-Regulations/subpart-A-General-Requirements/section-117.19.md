@@ -1,0 +1,3 @@
+##### § 117.19 Signalling when two or more vessels are approaching a drawbridge. #####
+
+When two or more vessels are approaching the same drawbridge at the same time, or nearly the same, time, whether from the same or opposite directions, each vessel shall signal independently for the opening of the draw and the drawtender shall reply in turn to the signal of each vessel. The drawtender need not reply to signals by vessels accumulated at the bridge for passage during a scheduled open period.

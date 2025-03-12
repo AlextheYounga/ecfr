@@ -1,0 +1,7 @@
+##### § 226.1 Current good manufacturing practice. #####
+
+(a) The criteria in §§ 226.10 through 226.115, inclusive, shall apply in determining whether the methods used in, or the facilities and controls used for the manufacture, processing, packing, or holding of a Type A medicated article(s) conform to or are operated or administered in conformity with current good manufacturing practice to assure that a Type A medicated article(s) meets the requirements of the act as to safety, and has the identity and strength, and meets the quality and purity characteristics which it purports or is represented to possess, as required by section 501(a)(2)(B) of the act. The regulations in this part 226 permit the use of precision, automatic, mechanical, or electronic equipment in the production of a Type A medicated article(s) when adequate inspection and checking procedures or other quality control procedures are used to assure proper performance.
+
+(b) In addition to maintaining records and reports required in this part, Type A medicated articles requiring approved NADAs are subject to the requirements of § 514.80 of this chapter. Similarly, Type A medicated articles listed in the index are subject to the requirements of § 516.165 of this chapter.
+
+[40 FR 14031, Mar. 27, 1975, as amended at 68 FR 15364, Mar. 31, 2003; 72 FR 69120, Dec. 6, 2007]

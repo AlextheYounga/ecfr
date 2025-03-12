@@ -1,0 +1,3 @@
+##### § 290.6 Spanish-language version of required warning. #####
+
+By direction of section 305(c) of the Federal Controlled Substances Act, § 290.5, promulgated under section 503(b) of the Federal Food, Drug, and Cosmetic Act, requires the following warning on the label of certain drugs when dispensed to or for a patient: “Caution: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.” The Spanish version of this is: “Precaucion: La ley Federal prohibe el transferir de esta droga a otra persona que no sea el paciente para quien fue recetada.”

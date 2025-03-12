@@ -1,0 +1,3 @@
+##### § 1.27 Change in ownership, management, or control of the applicant. #####
+
+In the event of any change in the ownership, management, or control of the applicant (in case of a corporation, any change in the officers, directors, or persons holding more than 10 percent of the corporate stock), after the date of filing of any application for a basic permit and prior to final action on such application, the applicant shall notify the appropriate TTB officer immediately of such change.

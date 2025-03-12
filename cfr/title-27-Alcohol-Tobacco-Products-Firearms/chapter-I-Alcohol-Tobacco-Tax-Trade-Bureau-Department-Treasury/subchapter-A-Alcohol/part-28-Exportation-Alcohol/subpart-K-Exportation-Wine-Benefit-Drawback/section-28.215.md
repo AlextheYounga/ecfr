@@ -1,0 +1,5 @@
+##### § 28.215 Certificate of tax determination, Form 2605 (5120.20). #####
+
+Every claim for drawback of tax on Form 1582-A (5120.24) shall be supported by a certificate, Form 2605 (5120.20), which shall be executed, in duplicate, (a) by the person who withdrew the wine from bond on tax determination, certifying that all taxes have been properly determined on such wine, or (b) where the wine was bottled or packaged after tax determination, by the person who did such bottling or packaging, certifying that the wines so bottled or packaged were received in taxpaid status and specifying from whom they were so received. The appropriate TTB officer may require other evidence of tax payment whenever such officer deems it necessary. The exporter is responsible for securing Form 2605 (5120.20), properly executed, and submitting the original of such form with the claim. The exporter shall retain the copy of Form 2605 (5120.20) for his files.
+
+(72 Stat. 1336; 26 U.S.C. 5062)

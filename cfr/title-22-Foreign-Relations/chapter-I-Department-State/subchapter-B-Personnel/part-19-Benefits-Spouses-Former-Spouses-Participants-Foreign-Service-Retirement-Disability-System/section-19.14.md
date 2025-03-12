@@ -1,0 +1,3 @@
+##### § 19.14 Waiver of annuity. #####
+
+An individual entitled to be paid an annuity may, for personal reasons, decline to accept all or any part of the annuity. However, a principal may not waive the portion of his/her annuity authorized to be paid to a former spouse under § 19.7 or § 19.9 or to a beneficiary under § 19.6. An annuity waiver shall be in writing and sent to the Department (PER/ER/RET). A waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver was in effect.

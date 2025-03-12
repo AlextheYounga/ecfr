@@ -1,0 +1,13 @@
+##### § 510.112 Antibiotics used in veterinary medicine and for nonmedical purposes; required data. #####
+
+(a) An ad hoc committee, Committee on the Veterinary Medical and Nonmedical Uses of Antibiotics, was formed by the Food and Drug Administration to study, and advise the Commissioner on, the use of antibiotics in veterinary medicine and for various nonmedical purposes as such uses may affect the enforcement of the Federal Food, Drug, and Cosmetic Act with respect to the safety and effectiveness of such substances. A copy of the report may be obtained from the Food and Drug Administration, Office of Public Affairs, Room 15-05, Parklawn Building, 5600 Fishers Lane, Rockville, MD 20857.
+
+(b) On the basis of the report of the Committee and other information, sponsors of drugs containing any antibiotic intended for use in food-producing animals shall submit data for determining whether or not such antibiotics and their metabolites are present as residues in edible tissues, milk, and eggs from treated animals; however, in the case of a drug for which such data have already been submitted and for which a regulation has been promulgated under section 409 of the act, only such data as has been accumulated since the issuance of the regulation need be submitted.
+
+(c) The required data shall be submitted within 180 days of the date of publication of this section in the Federal Register; except that in the case of data on intramammary infusion preparations the data shall be submitted within 60 days of such publication. Data demonstrating the absence in milk of residues of intramammary infusion preparations when used as directed in their labeling are needed within the 60-day period because of the importance of milk in the human diet.
+
+(d) Regulatory proceedings including revocation of prior sanctions, or actions to suspend or amend new drug or antibiotic approvals granted prior to passage of the Food Additives Amendment of 1958 (72 Stat. 1784), may be initiated with regard to the continued marketing of any antibiotic preparation on which the required information is not submitted within the period of time prescribed by paragraph (c) of this section.
+
+(e) Questions relating to the acceptability of proposed research protocols and assay methods for determining the amount of antibiotic residues in food should be directed to the Director, Center for Veterinary Medicine, Food and Drug Administration, 7500 Standish Pl., Rockville, MD 20855.
+
+[40 FR 13807, Mar. 27, 1975, as amended at 46 FR 8460, Jan. 27, 1981; 54 FR 18280, Apr. 28, 1989; 57 FR 6475, Feb. 25, 1992]

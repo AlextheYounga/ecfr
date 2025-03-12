@@ -1,0 +1,5 @@
+##### § 884.2225 Obstetric-gynecologic ultrasonic imager. #####
+
+(a) *Identification.* An obstetric-gynecologic ultrasonic imager is a device designed to transmit and receive ultrasonic energy into and from a female patient by pulsed echoscopy. This device is used to provide a visual representation of some physiological or artificial structure, or of a fetus, for diagnostic purposes during a limited period of time. This generic type of device may include the following: signal analysis and display equipment, electronic interfaces for other equipment, patient and equipment supports, coupling gel, and component parts. This generic type of device does not include devices used to monitor the changes in some physiological condition over long periods of time.
+
+(b) *Classification.* Class II (performance standards).

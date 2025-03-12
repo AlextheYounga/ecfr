@@ -1,0 +1,3 @@
+##### § 327.1 Purpose. #####
+
+This regulation prescribes the policy, practice and procedures to be followed by the U.S. Army Corps of Engineers in the conduct of public hearings conducted in the evaluation of a proposed DA permit action or Federal project as defined in § 327.3 of this part including those held pursuant to section 404 of the Clean Water Act (33 U.S.C. 1344) and section 103 of the Marine Protection, Research and Sanctuaries Act (MPRSA), as amended (33 U.S.C. 1413).

@@ -1,0 +1,3 @@
+##### § 479.69 Making a firearm for the United States. #####
+
+A firearm may be made by, or on behalf of, the United States or any department, independent establishment, or agency thereof without payment of the making tax. However, if a firearm is to be made on behalf of the United States, the maker must file an application, in duplicate, on Form 1 (Firearms) and obtain the approval of the Director in the manner prescribed in § 479.62.

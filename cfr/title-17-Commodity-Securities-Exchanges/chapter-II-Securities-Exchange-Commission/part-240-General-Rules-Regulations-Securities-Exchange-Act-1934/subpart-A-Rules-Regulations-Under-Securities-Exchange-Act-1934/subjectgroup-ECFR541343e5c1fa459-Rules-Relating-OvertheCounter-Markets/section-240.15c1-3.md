@@ -1,0 +1,5 @@
+##### § 240.15c1-3 Misrepresentation by brokers, dealers and municipal securities dealers as to registration. #####
+
+The term *manipulative, deceptive, or other fraudulent device or contrivance,* as used in section 15(c)(1) of the Act, is hereby defined to include any representation by a broker, dealer or municipal securities dealer that the registration of a broker or dealer, pursuant to section 15(b) of the Act, or the registration of a municipal securities dealer pursuant to section 15B(a) of the Act, or the failure of the Commission to deny or revoke such registration, indicates in any way that the Commission has passed upon or approved the financial standing, business, or conduct of such registered broker, dealer or municipal securities dealer or the merits of any security or any transaction or transactions therein.
+
+[41 FR 22825, June 7, 1976]

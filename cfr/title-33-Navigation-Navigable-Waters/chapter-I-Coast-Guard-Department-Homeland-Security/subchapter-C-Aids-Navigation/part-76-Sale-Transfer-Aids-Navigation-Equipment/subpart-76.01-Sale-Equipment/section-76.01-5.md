@@ -1,0 +1,3 @@
+##### § 76.01-5 Sale of condemned equipment. #####
+
+When any condemned supplies, materials, or equipment cannot be profitably used in work of the Coast Guard, they will be disposed of under appropriate regulations of the General Services Administration. Applications for purchase of such materials may be submitted to the Commandant who will process them for further action under the applicable regulations.

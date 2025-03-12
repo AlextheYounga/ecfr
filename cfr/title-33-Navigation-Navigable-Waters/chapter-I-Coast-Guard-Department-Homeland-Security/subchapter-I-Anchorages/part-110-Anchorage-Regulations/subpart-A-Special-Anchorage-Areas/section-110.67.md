@@ -1,0 +1,3 @@
+##### § 110.67 Delaware River, Essington, Pa. #####
+
+North of Little Tinicum Island, between the mouth of Darby Creek and Jansen Avenue, Essington, bounded as follows: Beginning at a point (approximately latitude 39°51′31″, longitude 75°17′43″) on a line in prolongation of the westerly line of Jansen Avenue 135 yards southerly from the mean high water line; thence 184°, 300 yards; thence 274°30′, 1,700 yards; thence 04°, 425 yards; thence 100°, 1,225 yards; and thence 95°, 490 yards, to the point of beginning.

@@ -1,0 +1,3 @@
+##### § 505.6 Medical records. #####
+
+If, in the judgment of the Agency, the release of medical information to you could have an adverse effect, the Agency will arrange an acceptable alternative to granting access of such records directly to you. This normally involves the release of the information to a doctor named by you. However, this special procedure provision does not in any way limit your absolute right to receive a complete copy of your medical record.

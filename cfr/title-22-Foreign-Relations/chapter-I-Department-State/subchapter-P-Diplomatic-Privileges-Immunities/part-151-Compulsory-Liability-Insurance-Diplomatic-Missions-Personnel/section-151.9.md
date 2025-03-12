@@ -1,0 +1,3 @@
+##### § 151.9 Evidence of insurance required for diplomatic license plates and waiver of fees. #####
+
+The Department of State will not endorse on behalf of any person subject to the Act or any mission any application for diplomatic motor vehicle license plates or any application for waiver of motor vehicle registration fees without prior receipt of satisfactory evidence from the Chief of Mission or other duly authorized official that the required insurance is in effect.

@@ -1,0 +1,3 @@
+##### § 49.10-5 Payment of moneys due. #####
+
+Upon the appointment of a trustee or trustees to receive moneys due an incompetent, the authorized certifying officer having custody of that person's pay record shall be advised. After such notification, payments of moneys due the incompetent may be made by the appropriate officer in accordance with procedure prescribed by the Commandant. All such payments so made, however, shall be made to the designated trustee or trustees.

@@ -1,0 +1,5 @@
+##### § 28.275 Receipt by armed services. #####
+
+When liquors which have been withdrawn or removed for export to the armed services of the United States are received at the supply base or other designated place of delivery, the officer to whom consigned, or other authorized supply officer, at the supply base or other place of delivery shall enter the quantity of liquors received on both copies of the application, notice, or claim, TTB Form 5100.11, 5110.30, 1582-A (5120.24), 1582-B (5130.6), or 1689 (5130.12), as the case may be. After signing the form, he shall forward the original with attachments, if any, to the appropriate TTB officer designated on the form, and retain the other copy for his records.
+
+(72 Stat. 1334, 1335, 1336, 1362, 1380; 26 U.S.C. 5053, 5055, 5062, 5214, 5362)[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-62, 44 FR 71726, Dec. 11, 1979; T.D. TTB-8, 69 FR 3834, Jan. 27, 2004]

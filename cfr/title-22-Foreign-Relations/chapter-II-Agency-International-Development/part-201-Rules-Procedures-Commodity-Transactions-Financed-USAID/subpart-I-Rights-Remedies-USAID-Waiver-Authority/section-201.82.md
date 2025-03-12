@@ -1,0 +1,3 @@
+##### § 201.82 Rights of USAID against suppliers. #####
+
+Without limiting the responsibility of the borrower/grantee or other parties, USAID may require an appropriate refund to it by a supplier under any transaction which violates the requirements of this part, whenever in USAID's opinion the failure of the supplier to comply with the rules and other requirements of this part has contributed to such violation. Any refund requested will include interest from the time of payment to the supplier. Interest will be charged at the rate established by the Secretary of the Treasury in accordance with the Internal Revenue Code, 26 U.S.C. 6621(b).

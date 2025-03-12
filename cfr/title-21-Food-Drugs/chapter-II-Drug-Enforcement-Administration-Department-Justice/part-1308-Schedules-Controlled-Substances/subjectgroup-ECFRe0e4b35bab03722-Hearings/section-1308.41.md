@@ -1,0 +1,3 @@
+##### § 1308.41 Hearings generally. #####
+
+In any case where the Administrator shall hold a hearing on the issuance, amendment, or repeal of rules pursuant to section 201 of the Act, the procedures for such hearing and accompanying proceedings shall be governed generally by the rulemaking procedures set forth in the Administrative Procedure Act (5 U.S.C. 551-559) and specifically by section 201 of the Act (21 U.S.C. 811), by §§ 1308.42-1308.51, and by §§ 1316.41-1316.67 of this chapter.

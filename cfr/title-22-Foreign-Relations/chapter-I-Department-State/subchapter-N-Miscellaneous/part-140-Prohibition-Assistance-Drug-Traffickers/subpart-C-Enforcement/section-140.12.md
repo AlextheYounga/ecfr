@@ -1,0 +1,3 @@
+##### § 140.12 Interagency review procedures. #####
+
+If the agency proposing the assistance disagrees with a determination by the Country Narcotics Coordinator to withhold assistance or take other measures, the agency may request that the determination be reviewed by the Assistant Secretary of State for International Narcotics and Law Enforcement Affairs in coordination with other appropriate bureaus and agencies. Unless otherwise determined by the Assistant Secretary of State for International Narcotics and Law Enforcement Affairs, the assistance shall continue to be withheld pending resolution of the review.

@@ -1,0 +1,5 @@
+##### § 201.14 Eligibility of bid and performance bonds and guaranties. #####
+
+The cost of any bid bond or guaranty posted by a successful bidder or of any performance bond or guaranty posted by a supplier is eligible for financing under the implementing document, provided that the bond or guaranty conforms to the requirements of the invitation for bids or the contract, as applicable, and to the extent that the principal amount of the bond or guaranty does not exceed the amount customary in international trade for the type of transaction and commodity involved. Bonds or guaranties may be payable in U.S. dollars, or a freely convertible currency or local currency, and shall be posted in favor of the purchaser. Nationality requirements for sureties, insurance companies or banks who issue bonds or guaranties under USAID-financed transactions are set forth in § 228.38(b) of this chapter.
+
+[55 FR 34232, Aug. 22, 1990, as amended at 62 FR 38027, July 16, 1997]

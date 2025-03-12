@@ -1,0 +1,7 @@
+##### § 161.5 Deviations from the rules. #####
+
+(a) Requests to deviate from any provision in this part, either for an extended period of time or if anticipated before the start of a transit, must be submitted in writing to the appropriate District Commander. Upon receipt of the written request, the District Commander may authorize a deviation if it is determined that such a deviation provides a level of safety equivalent to that provided by the required measure or is a maneuver considered necessary for safe navigation under the circumstances. An application for an authorized deviation must state the need and fully describe the proposed alternative to the required measure.
+
+(b) Requests to deviate from any provision in this part due to circumstances that develop during a transit or immediately preceding a transit may be made to the appropriate Vessel Traffic Center (VTC). Requests to deviate must be made as far in advance as practicable. Upon receipt of the request, the VTC may authorize a deviation if it is determined that, based on vessel handling characteristics, traffic density, radar contacts, environmental conditions and other relevant information, such a deviation provides a level of safety equivalent to that provided by the required measure or is a maneuver considered necessary for safe navigation under the circumstances.
+
+[CGD 90-020, 59 FR 36324, July 15, 1994, as amended by USCG-2005-21531, 70 FR 36350, June 23, 2005; USCG-2005-21869, 80 FR 5334, Jan. 30, 2015]

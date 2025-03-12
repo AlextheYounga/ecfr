@@ -1,0 +1,3 @@
+##### § 214.7 Delegation of authority. #####
+
+The authority to approve measures for furnishing emergency supplies of clean drinking water pursuant to the section 82(2), Pub. L. 93-251 amendment of Pub. L. 84-99, is delegated to division engineers, up to a $50,000 expenditure for the incident. Additional obligational authority of Code 400 funds will be obtained from DAEN-CWO-E prior to authorizing the proposed added work.

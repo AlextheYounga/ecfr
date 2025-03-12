@@ -1,0 +1,17 @@
+##### § 1422.17 Election procedure; request for authorized representation election observers. #####
+
+This section governs all elections conducted under the supervision of the Regional Director pursuant to § 1422.7 or § 1422.16. The Regional Director may conduct elections in unusual circumstances in accordance with terms and conditions set forth in the notice of election.
+
+(a) Appropriate notices of election shall be posted by the Department. Such notices shall set forth the details and procedures for the election, the unit described in 22 U.S.C. 4112, the eligibility period, the date(s), hour(s) and place(s) of the election and shall contain a sample ballot.
+
+(b) The reproduction of any document purporting to be a copy of the official ballot, other than one completely unaltered in form and content and clearly marked “sample” on its face, which suggests either directly or indirectly to employees that the Board endorses a particular choice, may constitute grounds for setting aside an election upon objections properly filed.
+
+(c) All elections shall be by secret ballot. An exclusive representative shall be chosen by a majority of the valid ballots cast.
+
+(d) Whenever two or more labor organizations are included as choices in an election, any intervening labor organization may request the Regional Director to remove its name from the ballot. The request must be in writing and received not later than seven (7) days before the date of the election. Such request shall be subject to the approval of the Regional Director whose decision shall be final.
+
+(e) In a proceeding involving an election to determine if a labor organization should cease to be the exclusive representative filed by the Department or any employee or employees or an individual acting on behalf of any employee(s) under § 1422.2(b), an organization currently recognized or certified may not have its name removed from the ballot without having served the written request submitted pursuant to paragraph (d) of this section on all parties. Such request shall contain an express disclaimer of any representation interest among the employees in the unit.
+
+(f) Any party may be represented at the polling place(s) by observers of its own selection, subject to such limitations as the Regional Director may prescribe.
+
+(g) A party's request to the Regional Director for named observers shall be in writing and filed with the Regional Director not less than fifteen (15) days prior to an election to be supervised or conducted pursuant to this part. The request shall name and identify the authorized representation election observers sought, and state the reasons therefor. Copies thereof shall be served on the other parties and a written statement of such service shall be filed with the Regional Director. Within five (5) days after service of a copy of the request, a party may file objections to the request with the Regional Director and state the reasons therefor. Copies thereof shall be served on the other parties and a written statement of such service shall be filed with the Regional Director. The Regional Director shall rule upon the request not later than five (5) days prior to the date of the election. However, for good cause shown by a party, or on the Regional Director's own motion, the Regional Director may vary the time limits prescribed in this paragraph.

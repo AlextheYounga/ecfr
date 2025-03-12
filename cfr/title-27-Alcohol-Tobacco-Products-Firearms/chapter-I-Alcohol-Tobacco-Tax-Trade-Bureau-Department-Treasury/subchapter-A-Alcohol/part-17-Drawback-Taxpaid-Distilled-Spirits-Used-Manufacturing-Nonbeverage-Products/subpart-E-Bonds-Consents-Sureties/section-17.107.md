@@ -1,0 +1,3 @@
+##### § 17.107 Strengthening bonds. #####
+
+Whenever the amount of a bond on file and in effect becomes insufficient, the principal may give a strengthening bond in a sufficient amount, provided the surety is the same as on the bond already on file and in effect; otherwise a superseding bond covering the entire liability shall be filed. Strengthening bonds, filed to increase the bond liability of the surety, shall not be construed in any sense to be substitute bonds, and the appropriate TTB officer shall not approve a strengthening bond containing any notation which may be interpreted as a release of any former bond or as limiting the amount of either bond to less than its full amount.

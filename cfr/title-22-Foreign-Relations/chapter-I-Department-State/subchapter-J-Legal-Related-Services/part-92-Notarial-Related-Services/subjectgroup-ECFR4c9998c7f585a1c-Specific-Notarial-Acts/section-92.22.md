@@ -1,0 +1,3 @@
+##### § 92.22 “Affidavit” defined. #####
+
+An affidavit is a written declaration under oath made before some person who has authority to administer oaths, without notice to any adverse party that may exist. One test of the sufficiency of an affidavit is whether it is so clear and certain that it will sustain an indictment for perjury, if found to be false. An affidavit differs from a deposition in that it is taken ex parte and without notice, while a deposition is taken after notice has been furnished to the opposite party, who is given an opportunity to cross-examine the witness.

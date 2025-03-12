@@ -1,0 +1,7 @@
+##### § 334.5 Disestablishment of a danger zone. #####
+
+(a) Upon receipt of a request from any agency for the disestablishment of a danger zone, the District Engineer shall notify that agency of its responsibility for returning the area to a condition suitable for use by the public. The agency must either certify that it has not used the area for a purpose that requires cleanup or that it has removed all hazardous materials and munitions, before the Corps will disestablish the area. The agency will remain responsible for the enforcement of the danger zone regulations to prevent unauthorized entry into the area until the area is deemed safe for use by the public and the area is disestablished by the Corps.
+
+(b) Upon receipt of the certification required in paragraph (a) of this section, the District shall forward the request for disestablishment of the danger zone through channels to CECW-OR, with its recommendations. Notice of proposed rulemaking and public procedures as outlined in § 334.4 are not normally required before publication of the final rule revoking a restricted area or danger zone regulation. The disestablishment/revocation of the danger zone or restricted area regulation removes a restriction on a waterway.
+
+[58 FR 37608, July 12, 1993]

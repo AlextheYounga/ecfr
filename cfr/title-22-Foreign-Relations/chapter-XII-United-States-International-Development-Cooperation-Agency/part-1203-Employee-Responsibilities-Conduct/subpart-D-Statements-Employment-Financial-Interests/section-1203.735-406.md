@@ -1,0 +1,3 @@
+##### § 1203.735-406 Submission of position description. #####
+
+Each Statement of Employment and Financial Interests or annual supplement thereto must be accompanied by a full description of the employee's principal governmental duties. The description should be particularly detailed in regard to those duties which might possibly be an element in a conflict of interest. If the statement indicates that the employee has no outside employment or financial interests, the employee need not submit a description of duties. For a special Government employee, the employing office shall submit the description.

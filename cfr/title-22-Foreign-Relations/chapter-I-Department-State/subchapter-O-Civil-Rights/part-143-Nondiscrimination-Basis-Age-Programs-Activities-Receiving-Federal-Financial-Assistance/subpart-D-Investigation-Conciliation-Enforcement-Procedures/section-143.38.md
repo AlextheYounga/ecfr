@@ -1,0 +1,3 @@
+##### § 143.38 Remedial action by recipient. #####
+
+Where the agency head finds a recipient has discriminated on the basis of age, the recipient shall take any remedial action that the agency head may require to overcome the effects of the discrimination. If another recipient exercises control over the recipient that has discriminated, the agency head may require both recipients to take remedial action.

@@ -1,0 +1,3 @@
+##### § 18.9 Contents of complaint. #####
+
+A complaint shall plainly and concisely describe the allegations which constitute the basis for the proceeding. A complaint shall be deemed sufficient if it fairly informs the respondent of the charges against him/her so that the respondent is able to prepare a defense. Written notification shall be given of the place and of the time within which the respondent shall file his/her answer, which time shall not be less than 15 days from the date of service of the complaint. Notice shall be given that a decision by default may be rendered against the respondent in the event he/she fails to file an answer.

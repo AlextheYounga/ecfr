@@ -1,0 +1,3 @@
+##### § 165.2010 Purpose. #####
+
+This subpart establishes the geographic parameters of naval vessel protection zones surrounding U.S. naval vessels in the navigable waters of the United States. This subpart also establishes when the U.S. Navy will take enforcement action in accordance with the statutory guidelines of 14 U.S.C. 91. Nothing in the rules and regulations contained in this subpart shall relieve any vessel, including U.S. naval vessels, from the observance of the Navigation Rules. The rules and regulations contained in this subpart supplement, but do not replace or supercede, any other regulation pertaining to the safety or security of U.S. naval vessels.

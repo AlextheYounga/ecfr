@@ -1,0 +1,5 @@
+##### § 27.49 Commercial samples of alcoholic beverages. #####
+
+Samples of distilled spirits, beer, and wine, to be used in the United States by persons importing alcoholic beverages in commercial quantities, are, subject to the limitations in this section, exempt from the payment of any internal revenue tax imposed on, or by reason of, importation. This exemption applies only to samples to be used for soliciting orders for products of foreign countries. In no case shall this exemption apply to more than one sample of each alcoholic beverage product admitted during any calendar quarter for the use of each such person. No sample of beer shall contain more than 8 ounces, no sample of wine shall contain more than 4 ounces, and no sample of distilled spirits shall contain more than 2 ounces.
+
+(76 Stat. 72; 19 U.S.C. 1202)[T.D. 6300, 23 FR 5168, July 8, 1958; T.D. ATF-2, 37 FR 22740, Oct. 21, 1972. Redesignated at 40 FR 16835, Apr. 15, 1975]

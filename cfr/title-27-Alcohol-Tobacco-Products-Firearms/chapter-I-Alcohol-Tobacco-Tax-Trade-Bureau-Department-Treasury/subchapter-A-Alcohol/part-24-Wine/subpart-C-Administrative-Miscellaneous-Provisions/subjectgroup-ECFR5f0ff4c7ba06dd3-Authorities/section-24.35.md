@@ -1,0 +1,5 @@
+##### § 24.35 Right of entry and examination. #####
+
+Under 26 U.S.C. 7601, 7602, and 7606, appropriate TTB officers have authority to inspect during normal business hours the records, stocks, and wine premises (including any portion designated as a bonded wine warehouse) of the proprietor to determine compliance with all provisions of the internal revenue laws and regulations. In addition, for the purposes prescribed in 27 CFR 70.22, appropriate TTB officers may examine financial records, books of account, and any other books, papers, records, and data relevant to an inquiry. Any denial or interference with any inspection by the proprietor, or by agents or employees of the proprietor, is a violation of 26 U.S.C. 7342 and may be subject to an appropriate penalty. (August 16, 1954, Ch. 736, 68A Stat. 872, as amended, 901, as amended, 903, as amended (26 U.S.C. 5560, 7342, 7601, 7602, 7606))
+
+[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13684, Mar. 22, 1999]

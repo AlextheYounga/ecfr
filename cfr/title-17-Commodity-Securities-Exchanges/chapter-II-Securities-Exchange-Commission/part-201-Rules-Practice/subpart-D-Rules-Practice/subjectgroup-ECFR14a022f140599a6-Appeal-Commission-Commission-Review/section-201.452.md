@@ -1,0 +1,3 @@
+##### § 201.452 Additional evidence. #####
+
+Upon its own motion or the motion of a party, the Commission may allow the submission of additional evidence. A party may file a motion for leave to adduce additional evidence at any time prior to issuance of a decision by the Commission. Such motion shall show with particularity that such additional evidence is material and that there were reasonable grounds for failure to adduce such evidence previously. The Commission may accept or hear additional evidence, may remand the proceeding to a self-regulatory organization, or may remand or refer the proceeding to a hearing officer for the taking of additional evidence, as appropriate.

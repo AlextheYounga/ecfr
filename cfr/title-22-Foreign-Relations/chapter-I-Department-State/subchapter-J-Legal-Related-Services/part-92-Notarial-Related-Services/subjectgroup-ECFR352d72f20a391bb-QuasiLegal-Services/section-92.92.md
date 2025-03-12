@@ -1,0 +1,3 @@
+##### § 92.92 Service of legal process under provisions of State law. #####
+
+It may be found that a State statute purporting to regulate the service of process in foreign countries is so drawn as to mention service by an American consular officer or a person appointed by him, without mention of or provision for alternate methods of service. State laws of this description do not operate in derogation of the laws of the foreign jurisdiction wherein it may be sought to effect service of legal process, and such State laws do not serve to impose upon American consular officers duties or obligations which they are unauthorized to accept under Federal law, or require them to perform acts contrary to Federal regulations (see § 92.85).

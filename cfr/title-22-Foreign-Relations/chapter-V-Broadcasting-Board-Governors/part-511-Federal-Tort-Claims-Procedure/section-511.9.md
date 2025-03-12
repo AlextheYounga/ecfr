@@ -1,0 +1,7 @@
+##### § 511.9 Supporting evidence. #####
+
+(a) In support of claims for personal injury or death, the claimant should submit a written report by the attending physician. The report should show the nature and extent of injury, the nature and extent of treatment, the effect upon earning capacity, either temporarily or permanently, the degree of permanent disability, if any, the prognosis, and the period of hospitalization, or incapacitation. Itemized bills for medical, hospital, or burial expenses actually incurred should be attached to report.
+
+(b) In support of claims for damage to property which as been or can be economically repaired, the claimant should submit at least two itemized signed statements, or estimates by reliable, disinterested firms or itemized signed receipts if payment has been made.
+
+(c) In support of claims for loss or damage to property which is not economically repairable, the claimant should submit statements of the original cost of the property, date of purchase, and the value of the property before and after the accident together with a statement setting forth the basis used in arriving at such value. Such statements should be from at least two disinterested, competent persons, preferably reputable dealers or other qualified persons familiar with the type of property in question.

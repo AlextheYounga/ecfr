@@ -1,0 +1,11 @@
+##### § 314.122 Submitting an abbreviated application for, or a 505(j)(2)(C) petition that relies on, a listed drug that is no longer marketed. #####
+
+(a) An abbreviated new drug application that refers to, or a petition under section 505(j)(2)(C) of the act and § 314.93 that relies on, a listed drug that has been voluntarily withdrawn from sale in the United States must be accompanied by a petition seeking a determination whether the listed drug was withdrawn for safety or effectiveness reasons. The petition must be submitted under §§ 10.25(a) and 10.30 of this chapter and must contain all evidence available to the petitioner concerning the reasons for the withdrawal from sale.
+
+(b) When a petition described in paragraph (a) of this section is submitted, the agency will consider the evidence in the petition and any other evidence before the agency, and determine whether the listed drug is withdrawn from sale for safety or effectiveness reasons, in accordance with the procedures in § 314.161.
+
+(c) An abbreviated new drug application described in paragraph (a) of this section will be disapproved, under § 314.127(a)(11), and a 505(j)(2)(C) petition described in paragraph (a) of this section will be disapproved, under § 314.93(e)(1)(iv), unless the agency determines that the withdrawal of the listed drug was not for safety or effectiveness reasons.
+
+(d) Certain drug products approved for safety and effectiveness that were no longer marketed on September 24, 1984, are not included in the list. Any person who wishes to obtain marketing approval for such a drug product under an abbreviated new drug application must petition FDA for a determination whether the drug product was withdrawn from the market for safety or effectiveness reasons and request that the list be amended to include the drug product. A person seeking such a determination shall use the petition procedures established in § 10.30 of this chapter. The petitioner shall include in the petition information to show that the drug product was approved for safety and effectiveness and all evidence available to the petitioner concerning the reason that marketing of the drug product ceased.
+
+[57 FR 17990, Apr. 28, 1992; 57 FR 29353, July 1, 1992]

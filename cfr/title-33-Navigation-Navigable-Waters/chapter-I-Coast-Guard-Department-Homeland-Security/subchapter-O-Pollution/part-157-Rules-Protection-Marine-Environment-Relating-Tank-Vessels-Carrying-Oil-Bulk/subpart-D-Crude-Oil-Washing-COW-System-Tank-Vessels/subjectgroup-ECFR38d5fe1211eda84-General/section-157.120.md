@@ -1,0 +1,3 @@
+##### § 157.120 Waiver of required documents. #####
+
+The Coast Guard waives the requirement for the letter under § 157.116(b), if a U.S. tank vessel engages in a voyage, or under § 157.118(b)(2)(ii), if a foreign tank vessel enters the navigable waters of the United States or transfers cargo at a port or place subject to the jurisdiction of the United States, for the purpose of being inspected under § 157.140.

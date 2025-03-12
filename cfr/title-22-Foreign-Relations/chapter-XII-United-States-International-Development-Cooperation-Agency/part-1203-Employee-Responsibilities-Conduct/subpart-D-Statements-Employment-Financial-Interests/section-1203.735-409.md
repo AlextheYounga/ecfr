@@ -1,0 +1,3 @@
+##### § 1203.735-409 Confidentiality of employees' statements. #####
+
+An agency shall hold each statement of employment and financial interests, and each supplementary statement, in confidence. To insure this confidentiality only the Counselor and Deputy Counselors are authorized to review and retain the statements. The Counselor and Deputy Counselors are responsible for maintaining the statements in confidence and shall not allow access to, or allow information to be disclosed from, a statement except to carry out the purpose of this part. An agency may not disclose information from a statement except as the Civil Service Commission or the agency head may determine for good cause shown.

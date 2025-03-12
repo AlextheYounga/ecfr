@@ -1,0 +1,5 @@
+##### § 230.492 Omissions from prospectuses. #####
+
+In the case of a security for which a registration statement conforming to Schedule B is in effect, the following information, contained in the registration statement, may be omitted from any prospectus: Information in answer to paragraph (3) of the Schedule with respect to the amortization and retirement provisions for debt not being registered, and with respect to the provisions for the substitution of security for such debt; the addresses of underwriters in answer to paragraph (6); information in answer to paragraph (11); the addresses of counsel in answer to paragraph (12); the copy of any agreement or agreements required by paragraph (13); the agreement required by paragraph (14); and all information, whether contained in the registration statement itself or in any exhibit thereto, not required by Schedule B.
+
+(Secs. 10(a)(4), 19(a), 48 Stat. 81, 85; sec. 209, 48 Stat. 908; 15 U.S.C. 77(j)(a)(4), 77(s)(a))[41 FR 12010, Mar. 23, 1976]

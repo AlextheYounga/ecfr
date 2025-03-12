@@ -1,0 +1,5 @@
+##### § 24.159 Release of collateral security. #####
+
+Collateral security pledged and deposited will be released only in accordance with the provisions of 31 CFR part 225. The collateral security will not be released by the appropriate TTB officer until liability under the bond for which it was pledged has been terminated. If satisfied that the interests of the Government will not be jeopardized, the appropriate TTB officer will fix the date or dates on which a part or all of the collateral security may be released. At any time prior to the release of the collateral security, the appropriate TTB officer may, for proper cause, extend the date of release of the security for such additional length of time as deemed appropriate.
+
+(July 30, 1947, Ch. 390, Pub. L. 80-280, 61 Stat. 650 (31 U.S.C. 9301, 9303))(Approved by the Office of Management and Budget under control number 1512-0058)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, Mar. 22, 1999]

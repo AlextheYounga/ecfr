@@ -1,0 +1,7 @@
+##### § 872.4630 Dental operating light. #####
+
+(a) *Identification.* A dental operating light, including the surgical headlight, is an AC-powered device intended to illuminate oral structures and operating areas.
+
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 872.9.
+
+[52 FR 30097, Aug. 12, 1987, as amended at 61 FR 1121, Jan. 16, 1996; 66 FR 38799, July 25, 2001]

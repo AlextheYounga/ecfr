@@ -1,0 +1,3 @@
+##### § 1271.390 Applicability. #####
+
+The provisions set forth in this subpart are applicable only to HCT/Ps described in § 1271.10 and regulated solely under section 361 of the Public Health Service Act and the regulations in this part, and to the establishments that manufacture those HCT/Ps. HCT/Ps that are drugs or devices regulated under the act, or are biological products regulated under section 351 of the Public Health Service Act, are not subject to the regulations set forth in this subpart.

@@ -1,0 +1,7 @@
+##### § 92.32 Notarial certificate to acknowledgment. #####
+
+(a) *Title.* The notarial certificate evidencing the taking of an acknowledgment is commonly known as a “certificate of acknowledgment” or sometimes simply as an “acknowledgment.”
+
+(b) *Form.* The form of a certificate of acknowledgment varies widely depending on the laws of the jurisdiction where the acknowledged document is intended to be used, the purpose for which the document is intended, and the legal position of the persons who have executed it. Instruments to be acknowledged are frequently prepared on printed forms, the entire contract or deed being on one sheet together with the certificate of acknowledgment. Often the document, including the certificate of acknowledgment, is drawn up in advance by an attorney. In these cases, the notarizing officer may use the certificate which is already on the document, making whatever modifications are manifestly required to show that the certificate was executed by a notarizing officer. However, if he finds it necessary to prepare the certificate of acknowledgment, the officer should consult the appropriate reference work for guidance as to the proper form. When no prescribed form can be found, the officer should use the language in Form FS-88. Certificate of Acknowledgment of Execution of an Instrument, inserting the certificate immediately at the close of the deed on the last page if space permits, or, if a separate sheet is necessary, using the printed Form FS-88 itself.
+
+[22 FR 10858, Dec. 27, 1957, as amended at 60 FR 51723, Oct. 3, 1995]

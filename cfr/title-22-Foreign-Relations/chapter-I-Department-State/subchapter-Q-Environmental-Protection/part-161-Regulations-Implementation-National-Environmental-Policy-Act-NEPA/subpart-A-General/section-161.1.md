@@ -1,0 +1,3 @@
+##### § 161.1 Purpose and scope. #####
+
+These Departmental regulations are designed to supplement the CEQ Regulations and provide for the implementation of those provisions identified in § 1507.3(b) of the CEQ Regulations. The CEQ Regulations are incorporated herein by reference. The Department's regulations seek to assure that environmental considerations and values are incorporated into the Department's decisionmaking process and assign responsibility within the Department for assessing the significant environmental effects in the United States of the Department's actions.

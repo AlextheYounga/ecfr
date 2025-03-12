@@ -1,0 +1,5 @@
+##### § 24.124 Change in corporate officers. #####
+
+Where there is any change in the list of corporate officers furnished under the provisions of § 24.110(a)(2), the proprietor shall submit, within 30 days of the change, an amended application supported by a new list of corporate officers and a statement of the changes reflected in the new list. Where the proprietor has shown that certain corporate officers listed on the original application have no responsibilities in connection with the operations covered by the application, the appropriate TTB officer may waive the requirement for submitting an amended application to cover a change in those corporate officers.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended (26 U.S.C. 5356))(Approved by the Office of Management and Budget under control number 1512-0058)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, Mar. 22, 1999]

@@ -1,0 +1,7 @@
+##### § 168.01 Purpose. #####
+
+(a) This part prescribes regulations in accordance with section 4116(c) of the Oil Pollution Act of 1990 (OPA 90) (Pub. L. 101-380), as amended by section 711 of the Coast Guard Authorization Act of 2010 (Pub. L. 111-281). The regulations will reduce the risk of oil spills from laden, single hull and double hull tankers over 5,000 GT by requiring that these tankers be escorted by at least two suitable escort vessels in applicable waters, as defined in § 168.40. The escort vessels will be immediately available to influence the tankers' speed and course in the event of a steering or propulsion equipment failure, thereby reducing the possibility of groundings or collisions.
+
+(b) The regulations in this part establish minimum escort vessel requirements. Nothing in these regulations should be construed as relieving the master of a tanker from the duty to operate the vessel in a safe and prudent manner, taking into account the navigational constraints of the waterways to be traversed, other vessel traffic, and anticipated weather, tide, and sea conditions, which may require reduced speeds, greater assistance from escort vessels, or other operational precautions.
+
+[CGD 91-202, 59 FR 42968, Aug. 19, 1994, as amended by USCG-2012-0975, 78 FR 50339, Aug. 19, 2013]

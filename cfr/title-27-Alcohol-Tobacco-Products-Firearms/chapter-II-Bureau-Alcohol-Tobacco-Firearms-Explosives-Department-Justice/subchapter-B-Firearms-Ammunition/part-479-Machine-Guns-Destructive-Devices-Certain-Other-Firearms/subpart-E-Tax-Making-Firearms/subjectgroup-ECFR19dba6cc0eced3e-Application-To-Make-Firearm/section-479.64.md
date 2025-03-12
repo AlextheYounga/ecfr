@@ -1,0 +1,5 @@
+##### § 479.64 Procedure for approval of application. #####
+
+The application to make a firearm, Form 1 (Firearms), must be forwarded directly, in duplicate, by the maker of the firearm to the Director in accordance with the instructions on the form. The Director will consider the application for approval or disapproval. If the application is approved, the Director will return the original thereof to the maker of the firearm and retain the duplicate. Upon receipt of the approved application, the maker is authorized to make the firearm described therein. The maker of the firearm shall not, under any circumstances, make the firearm until the application, satisfactorily executed, has been forwarded to the Director and has been approved and returned by the Director with the National Firearms Act stamp affixed. If the application is disapproved, the original Form 1 (Firearms) and the remittance submitted by the applicant for the purchase of the stamp will be returned to the applicant with the reason for disapproval stated on the form.
+
+[T.D. ATF-270, 53 FR 10509, Mar. 31, 1988]

@@ -1,0 +1,3 @@
+##### § 314.2 Purpose. #####
+
+The purpose of this part is to establish an efficient and thorough drug review process in order to: (a) Facilitate the approval of drugs shown to be safe and effective; and (b) ensure the disapproval of drugs not shown to be safe and effective. These regulations are also intended to establish an effective system for FDA's surveillance of marketed drugs. These regulations shall be construed in light of these objectives.

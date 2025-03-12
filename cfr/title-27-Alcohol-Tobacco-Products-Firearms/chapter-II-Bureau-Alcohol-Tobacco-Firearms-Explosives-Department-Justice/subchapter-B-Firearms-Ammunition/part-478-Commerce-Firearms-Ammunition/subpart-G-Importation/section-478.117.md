@@ -1,0 +1,3 @@
+##### § 478.117 Function outside a customs territory. #####
+
+In the insular possessions of the United States outside customs territory, the functions performed by U.S. Customs officers under this subpart within a customs territory may be performed by the appropriate authorities of a territorial government or other officers of the United States who have been designated to perform such functions. For the purpose of this subpart, the term customs territory means the United States, the District of Columbia, and the Commonwealth of Puerto Rico.

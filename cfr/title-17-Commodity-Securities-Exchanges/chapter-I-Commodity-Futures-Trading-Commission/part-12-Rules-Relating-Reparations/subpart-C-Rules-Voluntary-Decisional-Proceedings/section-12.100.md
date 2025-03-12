@@ -1,0 +1,5 @@
+##### § 12.100 Scope and applicability of rules. #####
+
+(a) *In general.* The rules set forth in this subpart are applicable only to proceedings forwarded pursuant to § 12.26(a) of the Reparation Rules. The rules of subpart B permitting discovery are applicable in a voluntary decisional proceeding. Unless specifically made applicable, the rules prescribed in subparts D, E, and F shall not apply in a voluntary decisional proceeding.
+
+(b) *Waiver by electing the voluntary decisional procedure.* By electing the voluntary decisional procedure, parties waive the opportunity for an oral hearing and whatever rights they may have otherwise had: to receive a written statement of the findings of fact upon which the final decision is based; to prejudgment interest in connection with a reparation award; to appeal to the Commission the final decision; and to appeal the final decision to a U.S. Court of Appeals pursuant to section 14(e) of the Commodity Exchange Act, 7 U.S.C. 18(e).

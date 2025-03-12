@@ -1,0 +1,3 @@
+##### § 26.43 Transmission of quality system evaluation reports. #####
+
+Quality system evaluation reports covered by § 26.41 concerning products covered by this subpart shall be transmitted to the importing party within 60-calendar days of a request by the importing party. Should a new inspection be requested, the time period shall be extended by an additional 30-calendar days. A party may request a new inspection, for cause, identified to the other party. If the exporting party cannot perform an inspection within a specified period of time, the importing party may perform an inspection on its own.

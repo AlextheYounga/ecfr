@@ -1,0 +1,7 @@
+##### § 128.8 Hearings. #####
+
+(a) A respondent who had not filed a timely written answer is not entitled to a hearing, and the case may be considered by the Administrative Law Judge as provided in § 128.4(a). If any answer is filed, but no oral hearing demanded, the Administrative Law Judge may proceed to consider the case upon the written pleadings and evidence available. The Administrative Law Judge may provide for the making of the record in such manner as the Administrative Law Judge deems appropriate. If respondent answers and demands an oral hearing, the Administrative Law Judge, upon due notice, shall set the case for hearing, unless a respondent has raised in his answer no issues of material fact to be determined. If respondent fails to appear at a scheduled hearing, the hearing nevertheless may proceed in respondent's absence. The respondent's failure to appear will not affect the validity of the hearing or any proceedings or action thereafter.
+
+(b) The Administrative Law Judge may administer oaths and affirmations. Respondent may be represented by counsel. Unless otherwise agreed by the parties and the Administrative Law Judge the proceeding will be taken by a reporter or by magnetic recording, transcribed, and filed with the Administrative Law Judge. Respondent may examine the transcript and may obtain a copy upon payment of proper costs.
+
+[61 FR 48833, Sept. 17, 1996]

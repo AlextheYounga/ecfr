@@ -1,0 +1,5 @@
+##### § 19.193 Breaking Government locks. #####
+
+TTB may assign TTB officers to a distilled spirits plant and utilize controls, such as Government locks, if TTB determines that such measures are necessary to effectively supervise operations at the plant. The proprietor may not remove such Government locks without the authorization of the appropriate TTB officer, except when a person or property is in imminent danger from a disaster or other emergency. If the proprietor must remove Government locks under such circumstances, the proprietor must ensure that security measures are taken to prevent illegal removal of spirits. In addition, the proprietor must notify the appropriate TTB officer as soon as possible of the action taken and within 5 days of removing the locks submit a written report describing the emergency and the action taken.
+
+(26 U.S.C. 5202)

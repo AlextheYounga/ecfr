@@ -1,0 +1,5 @@
+##### § 117.736 Oceanport Creek. #####
+
+The drawspan for the New Jersey Transit Rail Operations Drawbridge, mile 8.4 near Oceanport, must open on signal from May 15 through September 15 between 5 a.m. and 9 p.m.; except that, the drawspan need not open 6 a.m. to 7:45 a.m. and 5:30 p.m. to 7:30 p.m on weekdays, excluding all federal holidays except for Martin Luther King Day. The drawspan must open on signal upon four hours notice from May 15 through September 15 between 9 p.m. and 5 a.m., and from September 16 through May 14; except that, the drawspan need not be opened from 6 a.m. to 7:45 a.m. and 5:30 p.m. to 7:30 p.m. on weekdays, excluding all federal holidays except for Martin Luther King Day. Public vessels of the United States must be passed as soon as possible at anytime.
+
+[USCG-2001-10881, 71 FR 70311, Dec. 4, 2006]

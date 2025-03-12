@@ -1,0 +1,3 @@
+##### § 1401.9 Appeals. #####
+
+An appeal to the ONDCP must explain in writing the legal and factual basis for the appeal. It must be received by mail at the address specified in § 1401.5 within 30 days of receipt of a denial. The Director or designee will decide the appeal within 20 days (excepting Saturdays, Sundays, and legal public holidays). If the Director or designee deny an appeal in whole or in part, the written determination will contain the reason for the denial, the names of the individuals who participated in the determination, and the provisions for judicial review.

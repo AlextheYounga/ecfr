@@ -1,0 +1,3 @@
+##### § 369.10 Conspicuousness of warning statements. #####
+
+Necessary warning statements should appear in the labeling prominently and conspicuously as compared to other words, statements, designs, and devices, and in bold type on clearly contrasting background, in order to comply with the provisions of section 502(c) and (f)(2) of the act. The warning statements should be placed in the labeling in juxtaposition with the directions for use and, in any case, should appear on the label when there is sufficient label space in addition to mandatory label information.

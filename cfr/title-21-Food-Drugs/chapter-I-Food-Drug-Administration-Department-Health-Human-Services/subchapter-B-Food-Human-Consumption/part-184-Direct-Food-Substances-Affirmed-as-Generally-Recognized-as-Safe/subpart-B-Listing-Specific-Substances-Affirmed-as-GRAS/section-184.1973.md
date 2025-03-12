@@ -1,0 +1,11 @@
+##### § 184.1973 Beeswax (yellow and white). #####
+
+(a) Beeswax (CAS Reg. No. 8012-89-3) is a secretory product of honey bees used as a structural material in honeycombs. Beeswax is prepared from honeycombs after removal of the honey by draining or centrifuging. The combs are melted in hot water or steam or with solar heat, and strained. The wax is refined by melting in hot water to which sulfuric acid or alkali may be added to extract impurities. The resulting wax is referred to as yellow beeswax. White beeswax is produced by bleaching the constituent pigments of yellow beeswax with peroxides, or preferably it is bleached by sun light.
+
+(b) The ingredient meets the specifications of the “Food Chemicals Codex,” 3d Ed. (1981), pp. 34-35, which is incorporated by reference. Copies may be obtained from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) The ingredient is used as a flavoring agent and adjuvant as defined in § 170.3(o)(12) of this chapter, as a lubricant as defined in § 170.3(o)(18) of this chapter, and as a surface-finishing agent as defined in § 170.3(o)(30) of this chapter.
+
+(d) The ingredient is used in food, in accordance with § 184.1(b)(1) of this chapter, at levels not to exceed good manufacturing practice. Current good manufacturing practice results in a maximum level, as served, of: 0.065 percent for chewing gum as defined in § 170.3(n)(6) of this chapter; 0.005 percent for confections and frostings as defined in § 170.3(n)(9) of this chapter; 0.04 percent for hard candy as defined in § 170.3(n)(25) of this chapter; 0.1 percent for soft candy as defined in § 170.3(n)(38) of this chapter; and 0.002 percent or less for all other food categories.
+
+[43 FR 14644, Apr. 7, 1978, as amended at 49 FR 5613, Feb. 14, 1984; 50 FR 49536, Dec. 3, 1985]

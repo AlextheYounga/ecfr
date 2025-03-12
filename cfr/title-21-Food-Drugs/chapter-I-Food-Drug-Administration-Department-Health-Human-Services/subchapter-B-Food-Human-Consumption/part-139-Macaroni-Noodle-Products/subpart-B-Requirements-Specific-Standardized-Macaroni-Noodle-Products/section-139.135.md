@@ -1,0 +1,7 @@
+##### § 139.135 Enriched vegetable macaroni products. #####
+
+(a) Each of the macaroni products for which a definition and standard of identity is prescribed by this section conforms to the definition and standard of identity and is subject to the requirements for label statement of ingredients prescribed for macaroni products by § 139.110(a), (f), and (g), and in addition is enriched to meet the requirements prescribed for enriched macaroni products by § 139.115 and contains a vegetable ingredient in compliance with the requirements prescribed for vegetable macaroni products by § 139.125.
+
+(b) The name of each food for which a definition and standard of identity is prescribed by this section is “Enriched \_\_\_\_\_\_ macaroni product”, or, alternatively, the name is “Enriched \_\_\_\_\_\_ macaroni”, “Enriched \_\_\_\_\_\_ spaghetti”, or “Enriched \_\_\_\_\_\_ vermicelli”, when the units comply with the shape and size requirements prescribed for macaroni, spaghetti, or vermicelli in § 139.110 (b), (c), or (d). The blank in each instance is filled in with the name of the vegetable used, as specified in § 139.125(a). For example, the name of an enriched macaroni product containing the prescribed amount of spinach and made in units not conforming in shape and size to the requirements for macaroni, spaghetti, or vermicelli is “Enriched spinach macaroni product”.
+
+[42 FR 14409, Mar. 15, 1977, as amended at 58 FR 2878, Jan. 6, 1993]

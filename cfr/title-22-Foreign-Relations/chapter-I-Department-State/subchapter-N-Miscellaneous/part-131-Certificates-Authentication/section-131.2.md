@@ -1,0 +1,7 @@
+##### § 131.2 Refusal of certification for unlawful purpose. #####
+
+(a) The Department will not certify to a document when it has good reason to believe that the certification is desired for an unlawful or improper purpose. It is therefore the duty of the Authentication Officer to examine not only the document which the Department is asked to authenticate, but also the fundamental document to which previous seals or other certifications may have been affixed by other authorities. The Authentication Officer shall request such additional information as may be necessary to establish that the requested authentication will serve the interests of justice and is not contrary to public policy.
+
+(b) In accordance with section 3, paragraph 5 of the Export Administration Act of 1969 (83 Stat. 841, Pub. L. 91-184) approved December 30, 1969, documents which have the effect of furthering or supporting the restrictive trade practices or boycotts fostered or imposed by foreign countries against countries friendly to the United States shall be considered contrary to public policy for purposes of these regulations.
+
+(R.S. 203. sec. 4, 63 Stat. 111, as amended, sec. 1733, 62 Stat. 946, secs. 104, 332, 66 Stat. 174, 252; 22 U.S.C. 2657, 2658, 28 U.S.C. 1733, 8 U.S.C. 1104, 1443)[22 FR 10882, Dec. 27, 1957, as amended at 30 FR 12732, Oct. 6, 1965; Dept. Reg. 108.621, 35 FR 8887, June 9, 1970]

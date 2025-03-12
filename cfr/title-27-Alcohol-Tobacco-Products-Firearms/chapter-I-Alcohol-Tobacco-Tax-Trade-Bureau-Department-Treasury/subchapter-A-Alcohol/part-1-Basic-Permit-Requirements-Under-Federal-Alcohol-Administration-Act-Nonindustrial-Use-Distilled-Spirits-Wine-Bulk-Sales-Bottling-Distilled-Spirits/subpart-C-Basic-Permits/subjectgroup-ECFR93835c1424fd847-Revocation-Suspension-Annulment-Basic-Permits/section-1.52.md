@@ -1,0 +1,3 @@
+##### § 1.52 Disposition of stocks of alcoholic beverages upon revocation, annulment, or automatic termination of basic permit. #####
+
+In the event of the revocation or annulment of a basic permit, pursuant to part 71 of this chapter, or in the event such permit is automatically terminated by operation of law (27 U.S.C. 204(g) and § 1.44 of this part), the appropriate TTB officer may authorize the orderly disposition of stocks of distilled spirits, wines, or malt beverages then held by the permittee or former permittee upon such conditions as may be considered proper.

@@ -1,0 +1,25 @@
+##### § 42.65 Supporting documents. #####
+
+(a) *Authority to require documents.* The consular officer is authorized to require documents considered necessary to establish the alien's eligibility to receive an immigrant visa. All such documents submitted and other evidence presented by the alien, including briefs submitted by attorneys or other representatives, shall be considered by the officer.
+
+(b) *Basic documents required.* An alien applying for an immigrant visa shall be required to furnish, if obtainable: A copy of a police certificate or certificates; a certified copy of any existing prison record, military record, and record of birth; and a certified copy of all other records or documents which the consular officer considers necessary.
+
+(c) *Definitions.* (1) *Police certificate* means a certification by the police or other appropriate authorities reporting information entered in their records relating to the alien. In the case of the country of an alien's nationality and the country of an alien's current residence (as of the time of visa application) the term “appropriate police authorities” means those of a country, area or locality in which the alien has resided for at least six months. In the case of all other countries, areas, or localities, the term “appropriate police authorities” means the authorities of any country, area, or locality in which the alien has resided for at least one year. A consular officer may require a police certificate regardless of length of residence in any country if he or she has reason to believe that a police record exists in the country, area, or locality concerned.
+
+(2) *Prison record* means an official document containing a report of the applicant's record of confinement and conduct in a penal or correctional institution.
+
+(3) *Military record* means an official document containing a complete record of the applicant's service and conduct while in military service, including any convictions of crime before military tribunals as distinguished from other criminal courts. A certificate of discharge from the military forces or an enrollment book belonging to the applicant shall not be acceptable in lieu of the official military record, unless it shows the alien's complete record while in military service. The applicant may, however, be required to present for inspection such a discharge certificate or enrollment book if deemed necessary by the consular officer to establish the applicant's eligibility to receive a visa.
+
+(4) A *certified copy of an alien's record of birth* means a certificate issued by the official custodian of birth records in the country of birth showing the date and place of birth and the parentage of the alien, based upon the original registration of birth.
+
+(5) *Other records or documents* include any records or documents establishing the applicant's relationship to a spouse or children, if any, and any records or documents pertinent to a determination of the applicant's identity, classification, or any other matter relating to the applicant's visa eligibility.
+
+(d) *Unobtainable documents.* (1) If the consular officer is satisfied, or the catalogue of available documents prepared by the Department indicates, that any document or record required under this section is unobtainable, the officer may permit the immigrant to submit other satisfactory evidence in lieu of such document or record. A document or other record shall be considered unobtainable if it cannot be procured without causing to the applicant or a family member actual hardship as opposed to normal delay and inconvenience.
+
+(2) If the consular officer determines that a supporting document, as described in paragraph (b) of this section, is in fact unobtainable, although the catalogue of available documents shows it is available, the officer shall affix to the visa application a signed statement describing in detail the reasons for considering the record or document unobtainable and for accepting the particular secondary evidence attached to the visa.
+
+(e) *Authenticity of records and documents.* If the consular officer has reason to believe that a required record or document submitted by an applicant is not authentic or has been altered or tampered with in any material manner, the officer shall take such action as may be necessary to determine its authenticity or to ascertain the facts to which the record or document purports to relate.
+
+(f) *Photographs.* Every alien shall furnish color photographs of the number and specifications prescribed by the Department, except that, in countries where facilities for producing color photographs are unavailable as determined by the consular officer, black and white photographs may be substituted.
+
+[52 FR 42613, Nov. 5, 1987, as amended at 55 FR 29015, July 17, 1990; 56 FR 49682, Oct. 1, 1991]

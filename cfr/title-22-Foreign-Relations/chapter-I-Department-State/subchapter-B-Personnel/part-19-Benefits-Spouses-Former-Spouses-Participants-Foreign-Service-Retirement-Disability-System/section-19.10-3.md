@@ -1,0 +1,3 @@
+##### § 19.10-3 Marriage after retirement. #####
+
+If an annuitant who was unmarried at the time of retirement, marries, he/she may within one year after such marriage irrevocably elect to receive a reduced annuity and to provide, subject to any obligation to provide a survivor annuity for a former spouse, a survivor annuity for the new spouse. If such an election is made, the principal's annuity shall be reduced in accordance with § 19.10-2 effective on the first day of the first month which begins at least one year after the date of the marriage. The reduction is computed on the commencing rate of the principal's annuity.

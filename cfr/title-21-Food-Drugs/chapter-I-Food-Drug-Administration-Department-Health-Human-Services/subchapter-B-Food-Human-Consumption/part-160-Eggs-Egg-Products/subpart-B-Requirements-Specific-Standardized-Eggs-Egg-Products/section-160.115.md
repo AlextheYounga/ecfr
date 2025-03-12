@@ -1,0 +1,7 @@
+##### § 160.115 Liquid eggs. #####
+
+(a) Liquid eggs, mixed eggs, liquid whole eggs, mixed whole eggs are eggs of the domestic hen broken from the shells and with yolks and whites in their natural proportion as so broken. They may be mixed, or mixed and strained, and they are pasteurized or otherwise treated to destroy all viable *Salmonella* microorganisms. Pasteurization or such other treatment is deemed to permit the adding of safe and suitable substances (other than chemical preservatives) that are essential to the method of pasteurization or other treatment used. For the purposes of this paragraph, safe and suitable substances are those that perform a useful function in the pasteurization or other treatment to render the liquid eggs free of viable *Salmonella* microorganisms, and that are not food additives as defined in section 201(s) of the Federal Food, Drug, and Cosmetic Act; or, if they are food additives, they are used in conformity with regulations established pursuant to section 409 of the act.
+
+(b) *Label declaration.* Each of the ingredients used in the food shall be declared on the label as required by the applicable sections of parts 101 and 130 of this chapter.
+
+[42 FR 14462, Mar. 15, 1977, as amended at 58 FR 2883, Jan. 6, 1993]

@@ -1,0 +1,5 @@
+##### § 27.42 Wines. #####
+
+All wines (including imitation, substandard, or artificial wine, and compounds sold as wine) having not in excess of 24 percent of alcohol by volume, in customs bonded warehouse or imported into the United States are subject to an internal revenue tax at the rates prescribed by law; such tax to be determined at the time of removal from customs custody for consumption or sale. The tax is imposed on each wine gallon and at a like rate on fractional parts of a wine gallon. Fractions of less than one-tenth gallon shall be converted to the nearest one-tenth gallon, and five-hundredths gallon shall be converted to the next full one-tenth gallon. All wines containing more than 24 percent of alcohol by volume shall be classed as distilled spirits and shall be taxed accordingly.
+
+(72 Stat. 1331, as amended; 26 U.S.C. 5041)[T.D. 6644, 28 FR 3165, Apr. 2, 1963. Redesignated at 40 FR 16835, Apr. 15, 1975]

@@ -1,0 +1,3 @@
+##### § 1230.40 Required label information. #####
+
+Containers which are offered for import shall in all cases bear labels or stickers having thereon the information required by section 2(b) (1), (2), and (3) of the Federal Caustic Poison Act and the directions for treatment in the case of personal injury, except such directions need not appear on the label or sticker at the time of shipment by a wholesaler or manufacturer for other than household use.

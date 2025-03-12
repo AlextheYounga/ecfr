@@ -1,0 +1,5 @@
+##### § 13.74 Surrender of certificates. #####
+
+On the effective date of a final decision that has been issued to revoke a certificate of label approval, certificate of exemption from label approval, or distinctive liquor bottle approval, the certificate holder must surrender the original of the certificate to TTB for manual cancellation. Regardless of whether the original certificate of label approval, certificate of exemption from label approval, or distinctive liquor bottle approval has been manually canceled or not, the certificate is null and void after the effective date of the revocation. It is a violation of this section for any certificate holder to present a certificate of label approval, certificate of exemption from label approval, or distinctive liquor bottle approval to an official of the United States Government as a valid certificate after the effective date of the revocation of the certificate if the certificate holder has been previously notified that such certificate has been revoked by TTB.
+
+[T.D. ATF-406, 64 FR 2129, Jan. 13, 1999, as amended by T.D. ATF-449, 66 FR 19086, Apr. 13, 2001]

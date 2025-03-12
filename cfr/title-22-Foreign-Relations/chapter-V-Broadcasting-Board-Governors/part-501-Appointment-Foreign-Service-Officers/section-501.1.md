@@ -1,0 +1,3 @@
+##### § 501.1 Policy. #####
+
+It is the policy of the Broadcasting Board of Governors that Foreign Service Officers occupy positions in which there is a need and reasonable opportunity for interchangeability of personnel between the Board and posts abroad, and which are concerned with (a) the conduct, observation, or analysis of information and cultural activities, or (b) the executive management of, or administrative responsibility for, the overseas operations of the Board's program.

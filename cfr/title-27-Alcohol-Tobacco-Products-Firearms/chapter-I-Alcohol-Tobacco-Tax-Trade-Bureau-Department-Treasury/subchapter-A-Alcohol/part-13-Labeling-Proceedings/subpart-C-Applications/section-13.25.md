@@ -1,0 +1,5 @@
+##### § 13.25 Appeal of qualification or denial. #####
+
+(a) *Form of appeal.* If an applicant for a certificate of label approval, certificate of exemption from label approval, or distinctive liquor bottle approval wishes to appeal the qualified approval or denial of an application, the applicant may file a written appeal with the appropriate TTB officer within 45 days after the date of the notice of qualification or denial. The appeal should explain why the applicant believes that the label or bottle is in compliance with applicable laws and regulations. If no appeal is filed within 45 days after the date of the notice of qualification or denial, the notice will be the final decision of TTB.
+
+(b) *Informal resolution.* Applicants may choose to pursue informal resolution of disagreements regarding correction sheets or qualifications by requesting an informal conference with the appropriate TTB officer. However, formal administrative appeals must comply with the provisions of paragraph (a) of this section.

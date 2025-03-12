@@ -1,0 +1,42 @@
+##### § 210.12-28 Real estate and accumulated depreciation.1 #####
+
+[For Certain Real Estate Companies]
+
+|Column A - Description<sup>2</sup>| Column B - Encumbrances  |Column C - Initial cost to company|Column D - Cost capitalized subsequent to acquisition|Column E - Gross amount of which carried at close of period<sup>3 4 5 6 7</sup>|Column F - Accumulated depreciation|Column G - Date of construction|Column H - Date acquired|Column I - Life on which depreciation in latest income statements is computed|   |   |   |   |
+|----------------------------------|--------------------------|----------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------|-------------------------------|------------------------|-----------------------------------------------------------------------------|---|---|---|---|
+|               Land               |Buildings and improvements|           Improvements           |                   Carrying costs                    |                                     Land                                      |    Buildings and improvements     |             Total             |                        |                                                                             |   |   |   |   |
+|                                  |                          |                                  |                                                     |                                                                               |                                   |                               |                        |                                                                             |   |   |   |   |
+|                                  |                          |                                  |                                                     |                                                                               |                                   |                               |                        |                                                                             |   |   |   |   |
+|                                  |                          |                                  |                                                     |                                                                               |                                   |                               |                        |                                                                             |   |   |   |   |
+
+<sup>1</sup> All money columns shall be totaled.
+
+<sup>2</sup> The description for each property should include type of property (e.g., unimproved land, shopping center, garden apartments, etc.) and the geographical location.
+
+<sup>3</sup> The required information is to be given as to each individual investment included in column E except that an amount not exceeding 5 percent of the total of column E may be listed in one amount as “miscellaneous investments.”
+
+<sup>4</sup> In a note to this schedule, furnish a reconciliation, in the following form, of the total amount at which real estate was carried at the beginning of each period for which income statements are required, with the total amount shown in column E:
+
+| Balance at beginning of period |   | $ |   |   |   |   |   |   |   |
+|:-------------------------------|:--|:--|--:|--:|--:|--:|--:|--:|--:|
+|    Additions during period:    |   |   |   |   |   |   |   |   |   |
+|Acquisitions through foreclosure| $ |   |   |   |   |   |   |   |   |
+|       Other acquisitions       |   |   |   |   |   |   |   |   |   |
+|       Improvements, etc        |   |   |   |   |   |   |   |   |   |
+|        Other (describe)        |   | $ |   |   |   |   |   |   |   |
+|   Deductions during period:    |   |   |   |   |   |   |   |   |   |
+|    Cost of real estate sold    | $ |   |   |   |   |   |   |   |   |
+|        Other (describe)        |   |   |   |   |   |   |   |   |   |
+|   Balance at close of period   |   | $ |   |   |   |   |   |   |   |
+
+If additions, except acquisitions through foreclosure, represent other than cash expenditures, explain. If any of the changes during the period result from transactions, directly or indirectly with affiliates, explain the bases of such transactions and state the amounts involved.
+
+A similar reconciliation shall be furnished for the accumulated depreciation.
+
+<sup>5</sup> If any item of real estate investments has been written down or reserved against, describe the item and explain the basis for the write-down or reserve.
+
+<sup>6</sup> State in a note to column E the aggregate cost for Federal income tax purposes.
+
+<sup>7</sup> The amount of all intercompany profits included in the total of column E shall be stated if material.
+
+[38 FR 6068, Mar. 6, 1983. Redesignated at 45 FR 63630, Sept. 25, 1980]

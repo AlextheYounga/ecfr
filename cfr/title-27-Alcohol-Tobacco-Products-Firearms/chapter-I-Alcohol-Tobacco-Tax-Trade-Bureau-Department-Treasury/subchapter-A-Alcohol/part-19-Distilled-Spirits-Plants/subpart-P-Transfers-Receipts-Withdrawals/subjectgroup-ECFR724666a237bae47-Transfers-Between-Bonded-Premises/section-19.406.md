@@ -1,0 +1,5 @@
+##### § 19.406 Reconsignment of in-bond shipments. #####
+
+A consignor may reconsign an in-bond shipment of spirits, denatured spirits, or wines prior to, or upon, arrival of the shipment at the premises of the consignee for any good faith reason. The consignor may reconsign the shipment to himself or to another consignee who is qualified to receive the shipment and has an adequate bond. In either case, an Application for Transfer of Spirits and/or Denatured Spirits in Bond on form TTB F 5100.16 must have been previously approved for the new consignee, except that an approved TTB F 5100.16 is not required for the transfer of wine. The bond of the new consignee will cover the shipment while in transit after reconsignment. When a consignor reconsigns a shipment, the consignor must prepare a new transfer record prominently marked with the word “Reconsignment”. The consignor must also notify the original consignee that the transfer has been cancelled.
+
+(26 U.S.C. 5212, 5362)

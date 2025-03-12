@@ -1,0 +1,3 @@
+##### § 38.153 Capacity to detect and investigate rule violations. #####
+
+A designated contract market must have arrangements and resources for effective enforcement of its rules. Such arrangements must include the authority to collect information and documents on both a routine and non-routine basis, including the authority to examine books and records kept by the designated contract market's members and by persons under investigation. A designated contract market's arrangements and resources must also facilitate the direct supervision of the market and the analysis of data collected to determine whether a rule violation occurred.

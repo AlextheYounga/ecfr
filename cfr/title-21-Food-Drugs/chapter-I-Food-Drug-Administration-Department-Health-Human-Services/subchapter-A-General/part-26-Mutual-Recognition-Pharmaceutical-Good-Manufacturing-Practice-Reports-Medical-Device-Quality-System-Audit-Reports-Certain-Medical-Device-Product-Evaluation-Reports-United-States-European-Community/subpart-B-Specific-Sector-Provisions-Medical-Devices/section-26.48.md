@@ -1,0 +1,3 @@
+##### § 26.48 Harmonization. #####
+
+During both the transitional and operational phases of this subpart, both parties intend to continue to participate in the activities of the Global Harmonization Task Force (GHTF) and utilize the results of those activities to the extent possible. Such participation involves developing and reviewing documents developed by the GHTF and jointly determining whether they are applicable to the implementation of this subpart.

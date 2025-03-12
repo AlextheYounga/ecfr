@@ -1,0 +1,3 @@
+##### § 1210.20 Application for permit. #####
+
+Application for a permit to ship or transport milk or cream into the United States shall be made by the actual shipper upon forms prescribed by the Secretary. The request for forms of applications for permits should be addressed to Commissioner of Food and Drugs, Food and Drug Administration, Department of Health and Human Services, 5600 Fishers Lane, Rockville, MD 20857.

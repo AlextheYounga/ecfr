@@ -1,0 +1,9 @@
+##### § 14.155 Fees and compensation pertaining to a color additive advisory committee. #####
+
+(a) When a matter is referred to a color additive advisory committee, all related costs, including personal compensation of committee members, travel, materials, and other costs, are borne by the person requesting the referral, such costs to be assessed on the basis of actual cost to the government. The compensation of such costs includes personal compensation of committee members at a rate not to exceed $128.80 per member per day.
+
+(b) In the case of a request for referral to a color additive advisory committee, a special advance deposit is to be made in the amount of $2,500. Where required, further advances in increments of $2,500 each are to be made upon request of the Commissioner. All deposits for referrals to a color additive advisory committee in excess of actual expenses will be refunded to the depositor.
+
+(c) All deposits and fees required by this section are to be paid by money order, bank draft, or certified check drawn to the order of the Food and Drug Administration, collectible at par in Washington, DC. All deposits and fees are to be forwarded to the Associate Commissioner for Management and Operations, Food and Drug Administration, 5600 Fishers Lane, Rockville, MD 20857, and after appropriate record of them is made, they will be transmitted to the Treasurer of the United States for deposit in the special account “Salaries and Expenses, Certification, Inspection, and Other Services, Food and Drug Administration.”
+
+(d) The Commissioner may waive or refund such fees in whole or in part when, in the Commissioner's judgment, such action will promote the public interest. Any person who believes that payment of these fees will be a hardship may petition the Commissioner under § 10.30 to waive or refund the fees.

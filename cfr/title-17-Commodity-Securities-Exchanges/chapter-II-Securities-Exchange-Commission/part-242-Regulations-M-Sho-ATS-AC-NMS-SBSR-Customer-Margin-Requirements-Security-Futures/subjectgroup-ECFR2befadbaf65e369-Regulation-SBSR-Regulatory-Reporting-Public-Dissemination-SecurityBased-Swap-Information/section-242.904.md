@@ -1,0 +1,13 @@
+##### § 242.904 Operating hours of registered security-based swap data repositories. #####
+
+A registered security-based swap data repository shall have systems in place to continuously receive and disseminate information regarding security-based swaps pursuant to §§ 242.900 through 242.909, subject to the following exceptions:
+
+(a) A registered security-based swap data repository may establish normal closing hours during periods when, in its estimation, the U.S. market and major foreign markets are inactive. A registered security-based swap data repository shall provide reasonable advance notice to participants and to the public of its normal closing hours.
+
+(b) A registered security-based swap data repository may declare, on an *ad hoc* basis, special closing hours to perform system maintenance that cannot wait until normal closing hours. A registered security-based swap data repository shall, to the extent reasonably possible under the circumstances, avoid scheduling special closing hours during periods when, in its estimation, the U.S. market and major foreign markets are most active; and provide reasonable advance notice of its special closing hours to participants and to the public.
+
+(c) During normal closing hours, and to the extent reasonably practicable during special closing hours, a registered security-based swap data repository shall have the capability to receive and hold in queue information regarding security-based swaps that has been reported pursuant to §§ 242.900 through 242.909.
+
+(d) When a registered security-based swap data repository re-opens following normal closing hours or special closing hours, it shall disseminate transaction reports of security-based swaps held in queue, in accordance with the requirements of § 242.902.
+
+(e) If a registered security-based swap data repository could not receive and hold in queue transaction information that was required to be reported pursuant to §§ 242.900 through 242.909, it must immediately upon re-opening send a message to all participants that it has resumed normal operations. Thereafter, any participant that had an obligation to report information to the registered security-based swap data repository pursuant to §§ 242.900 through 242.909, but could not do so because of the registered security-based swap data repository's inability to receive and hold in queue data, must promptly report the information to the registered security-based swap data repository.

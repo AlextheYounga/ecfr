@@ -1,0 +1,5 @@
+##### § 866.3120 Chlamydia serological reagents. #####
+
+(a) *Identification.* Chlamydia serological reagents are devices that consist of antigens and antisera used in serological tests to identify antibodies to chlamydia in serum. Additionally, some of these reagents consist of chlamydia antisera conjugated with a fluorescent dye used to identify chlamydia directly from clinical specimens or cultured isolates derived from clinical specimens. The identification aids in the diagnosis of disease caused by bacteria belonging to the genus *Chlamydia* and provides epidemiological information on these diseases. Chlamydia are the causative agents of psittacosis (a form of pneumonia), lymphogranuloma venereum (a venereal disease), and trachoma (a chronic disease of the eye and eyelid).
+
+(b) *Classification.* Class I (general controls).

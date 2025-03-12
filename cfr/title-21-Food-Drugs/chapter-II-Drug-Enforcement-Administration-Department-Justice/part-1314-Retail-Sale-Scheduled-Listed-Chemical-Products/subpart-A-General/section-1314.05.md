@@ -1,0 +1,3 @@
+##### § 1314.05 Requirements regarding packaging of nonliquid forms. #####
+
+A regulated seller or mail order distributor may not sell a scheduled listed chemical product in nonliquid form (including gel caps) unless the product is packaged either in blister packs, with each blister containing no more than two dosage units or, if blister packs are technically infeasible, in unit dose packets or pouches.

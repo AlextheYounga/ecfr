@@ -1,0 +1,9 @@
+##### § 140.103 Annual inspection of fixed OCS facilities. #####
+
+(a) The owner or operator of each fixed OCS facility shall ensure that the facility is inspected, at intervals not to exceed 12 months, to determine whether the facility is in compliance with the requirements of this subchapter.
+
+(b) Except for initial inspections under § 140.101(f), inspections by Coast Guard marine inspectors and Bureau of Safety and Environmental Enforcement (BSEE) inspectors do not meet the requirements for an inspection under paragraph (a) of this section.
+
+(c) Except for initial inspections under § 140.101(f), the results of the inspection under paragraph (a) of this section must be recorded on form CG-5432. Forms CG-5432 may be obtained from the Officer in Charge, Marine Inspection. A copy of the completed form must be kept for 2 years after the inspection under paragraph (a) of this section is conducted and the form made available to the Coast Guard and BOEMRE on request. For manned fixed OCS facilities, the copy of the completed form must be kept on the facility. For unmanned fixed OCS facilities, the copy of the completed form must be kept either at the nearest manned fixed OCS facility or, if there is no manned fixed OCS facility in the area, at the nearest field office of the owner or operator. In addition, the owner or operator must submit, to the appropriate BSEE District office, a copy of each completed form CG-5432 that indicates outstanding deficiencies or hazards, within 30 days after completion of the inspection.
+
+[CGD 84-098a, 53 FR 18980, May 26, 1988, as amended by USCG-2001-9045, 67 FR 5916, Feb. 7, 2002; USCG-2011-0257, 76 FR 31837, June 2, 2011; USCG-2013-0797, 79 FR 36405, June 27, 2014]

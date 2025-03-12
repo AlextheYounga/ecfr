@@ -1,0 +1,3 @@
+##### § 3.1 Purpose. #####
+
+These regulations provide basic standards for employees of the Department of State, the United States International Development Cooperation Agency (IDCA), the Agency for International Development (AID), and the International Communication Agency (USICA), their spouses (unless separated) and their dependents to accept and retain gifts and decorations from foreign governments.

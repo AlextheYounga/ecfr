@@ -1,0 +1,33 @@
+##### § 23.603 Business continuity and disaster recovery. #####
+
+(a) *Business continuity and disaster recovery plan required.* Each swap dealer and major swap participant shall establish and maintain a written business continuity and disaster recovery plan that outlines the procedures to be followed in the event of an emergency or other disruption of its normal business activities. The business continuity and disaster recovery plan shall be designed to enable the swap dealer or major swap participant to continue or to resume any operations by the next business day with minimal disturbance to its counterparties and the market, and to recover all documentation and data required to be maintained by applicable law and regulation.
+
+(b) *Essential components.* The business continuity and disaster recovery plan of a swap dealer or major swap participant shall include the following components:
+
+(1) Identification of the documents, data, facilities, infrastructure, personnel and competencies essential to the continued operations of the swap dealer or major swap participant and to fulfill the obligations of the swap dealer or major swap participant.
+
+(2) Identification of the supervisory personnel responsible for implementing each aspect of the business continuity and disaster recovery plan and the emergency contacts required to be provided pursuant to this regulation.
+
+(3) A plan to communicate with the following persons in the event of an emergency or other disruption, to the extent applicable to the operations of the swap dealer or major swap participant: employees; counterparties; swap data repositories; execution facilities; trading facilities; clearing facilities; regulatory authorities; data, communications and infrastructure providers and other vendors; disaster recovery specialists and other persons essential to the recovery of documentation and data, the resumption of operations, and compliance with the Commodity Exchange Act and Commission regulations.
+
+(4) Procedures for, and the maintenance of, back-up facilities, systems, infrastructure, alternative staffing and other resources to achieve the timely recovery of data and documentation and to resume operations as soon as reasonably possible and generally within the next business day.
+
+(5) Maintenance of back-up facilities, systems, infrastructure and alternative staffing arrangements in one or more areas that are geographically separate from the swap dealer's or major swap participant's primary facilities, systems, infrastructure and personnel (which may include contractual arrangements for the use of facilities, systems and infrastructure provided by third parties).
+
+(6) Back-up or copying, with sufficient frequency, of documents and data essential to the operations of the swap dealer or major swap participant or to fulfill the regulatory obligations of the swap dealer or major swap participant and storing the information off-site in either hard-copy or electronic format.
+
+(7) Identification of potential business interruptions encountered by third parties that are necessary to the continued operations of the swap dealer or major swap participant and a plan to minimize the impact of such disruptions.
+
+(c) *Distribution to employees.* Each swap dealer and major swap participant shall distribute a copy of its business continuity and disaster recovery plan to relevant employees and promptly provide any significant revision thereto. Each swap dealer and major swap participant shall maintain copies of the business continuity and disaster recovery plan at one or more accessible off-site locations. Each swap dealer and major swap participant shall train relevant employees on applicable components of the business continuity and disaster recovery plan.
+
+(d) *Commission notification.* Each swap dealer and major swap participant shall promptly notify the Commission of any emergency or other disruption that may affect the ability of the swap dealer or major swap participant to fulfill its regulatory obligations or would have a significant adverse effect on the swap dealer or major swap participant, its counterparties, or the market.
+
+(e) *Emergency contacts.* Each swap dealer and major swap participant shall provide to the Commission the name and contact information of two employees who the Commission can contact in the event of an emergency or other disruption. The individuals identified shall be authorized to make key decisions on behalf of the swap dealer or major swap participant and have knowledge of the firm's business continuity and disaster recovery plan. The swap dealer or major swap participant shall provide the Commission with any updates to this information promptly.
+
+(f) *Review and modification.* A member of the senior management of each swap dealer and major swap participant shall review the business continuity and disaster recovery plan annually or upon any material change to the business. Any deficiencies found or corrective action taken shall be documented.
+
+(g) *Testing and audit.* Each business continuity and disaster recovery plan shall be tested annually by qualified, independent internal personnel or a qualified third party service. The date the testing was performed shall be documented, together with the nature and scope of the testing, any deficiencies found, any corrective action taken, and the date that corrective action was taken. Each business continuity and disaster recovery plan shall be audited at least once every three years by a qualified third party service. The date the audit was performed shall be documented, together with the nature and scope of the audit, any deficiencies found, any corrective action taken, and the date that corrective action was taken.
+
+(h) *Business continuity and disaster recovery plans required by other regulatory authorities.* A swap dealer or major swap participant shall comply with the requirements of this regulation in addition to any business continuity and disaster recovery requirements that are imposed upon the swap dealer or major swap participant by its prudential regulator or any other regulatory or self-regulatory authority.
+
+(i) *Recordkeeping.* The business continuity and disaster recovery plan of the swap dealer and major swap participant and all other records required to be maintained pursuant to this section shall be maintained in accordance with Commission Regulation § 1.31 and shall be made available promptly upon request to representatives of the Commission and to representatives of applicable prudential regulators.

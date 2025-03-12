@@ -1,0 +1,3 @@
+##### § 305.3 Background investigations. #####
+
+Section 22 of the Peace Corps Act states that to ensure enrollment of a Volunteer is consistent with the national interest, no applicant is eligible for Peace Corps Volunteer service without a background investigation. The Peace Corps requires that all applicants accepted for training have as a minimum a National Agency Check. Information revealed by the investigation may be grounds for disqualification from Peace Corps service.

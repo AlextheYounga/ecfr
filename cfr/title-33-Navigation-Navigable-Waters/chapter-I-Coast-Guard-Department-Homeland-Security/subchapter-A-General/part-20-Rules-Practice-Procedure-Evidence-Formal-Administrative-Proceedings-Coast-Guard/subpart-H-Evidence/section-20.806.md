@@ -1,0 +1,3 @@
+##### § 20.806 Official notice. #####
+
+The ALJ may take official notice of such matters as could courts, or of other facts within the specialized knowledge of the Coast Guard as an expert body. When all or part of a decision rests on the official notice of a material fact not appearing in the evidence in the record, the decision must state as much; and any party, upon timely request, shall receive an opportunity to rebut the fact.

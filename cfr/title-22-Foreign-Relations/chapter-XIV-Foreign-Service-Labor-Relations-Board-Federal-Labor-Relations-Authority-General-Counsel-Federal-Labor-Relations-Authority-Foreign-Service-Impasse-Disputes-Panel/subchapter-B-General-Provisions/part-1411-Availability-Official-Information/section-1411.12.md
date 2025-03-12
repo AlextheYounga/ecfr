@@ -1,0 +1,3 @@
+##### § 1411.12 Annual report. #####
+
+On or before March 1 of each calendar year, the Executive Director of the Authority shall submit a report of the activities of the Board, the General Counsel and the Panel with regard to public information requests during the preceding calendar year to the Speaker of the House of Representatives and the President of the Senate for referral to the appropriate committees of the Congress. The report shall include for such calendar year all information required by 5 U.S.C. 552(d) and such other information as indicates the efforts of the Board, the General Counsel and the Panel to administer fully the provisions of the Freedom of Information Act, as amended.

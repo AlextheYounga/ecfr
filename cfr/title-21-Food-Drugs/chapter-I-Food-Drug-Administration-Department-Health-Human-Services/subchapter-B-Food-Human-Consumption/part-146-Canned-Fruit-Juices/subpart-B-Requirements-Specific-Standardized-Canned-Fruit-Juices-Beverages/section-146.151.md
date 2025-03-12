@@ -1,0 +1,7 @@
+##### § 146.151 Orange juice for manufacturing. #####
+
+(a) Orange juice for manufacturing is the food prepared for further manufacturing use. It is prepared from unfermented juice obtained from oranges as provided in § 146.135, except that the oranges may deviate from the standards for maturity in that they are below the minimum for Brix and Brix-acid ratio for such oranges, and to which juice may be added not more than 10 percent by volume of the unfermented juice obtained from oranges of the species *Citrus reticulata* or *Citrus reticulata* hybrids (except that this limitation shall not apply to the hybrid species described in § 146.135). Seeds (except embryonic seeds and small fragments of seeds that cannot be separated by good manufacturing practice) are removed, and pulp and orange oil may be adjusted in accordance with good manufacturing practice. If pulp is added it shall be other than washed or spent pulp. The juice or portions thereof may be so treated by heat as to reduce substantially the enzymatic activity and number of viable microorganisms, and it may be chilled or frozen, or it may be so treated by heat, either before or after sealing in containers, as to prevent spoilage.
+
+(b) The name of the food is “Orange juice for manufacturing”.
+
+[42 FR 14433, Mar. 15, 1977, as amended at 57 FR 57667, Dec. 7, 1992]

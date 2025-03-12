@@ -1,0 +1,11 @@
+##### § 310.537 Drug products containing active ingredients offered over-the-counter (OTC) for oral administration for the treatment of fever blisters and cold sores. #####
+
+(a) l-lysine (lysine, lysine hydrochloride), *Lactobacillus acidophilus,* and *Lactobacillus bulgaricus* have been present in orally administered OTC drug products to treat fever blisters and cold sores. There is a lack of adequate data to establish general recognition of the safety and effectiveness of these or any other orally administered ingredients for OTC use to treat or relieve the symptoms or discomfort of fever blisters and cold sores. Based on evidence currently available, any OTC drug product for oral administration containing ingredients offered for use in treating or relieving the symptoms or discomfort of fever blisters and cold sores cannot be generally recognized as safe and effective.
+
+(b) Any OTC drug product for oral administration that is labeled, represented, or promoted to treat or relieve the symptoms or discomfort of fever blisters and cold sores is regarded as a new drug within the meaning of section 201(p) of the Federal Food, Drug, and Cosmetic Act (the act), for which an approved application under section 505 of the act and part 314 of this chapter is required for marketing. In the absence of an approved application, such product is also misbranded under section 502 of the act.
+
+(c) Clinical investigations designed to obtain evidence that any drug product for oral administration labeled, represented, or promoted for OTC use to treat or relieve the symptoms or discomfort of fever blisters and cold sores is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter.
+
+(d) After December 30, 1992, any such OTC drug product initially introduced or initially delivered for introduction into interstate commerce that is not in compliance with this section is subject to regulatory action.
+
+[57 FR 29173, June 30, 1992]

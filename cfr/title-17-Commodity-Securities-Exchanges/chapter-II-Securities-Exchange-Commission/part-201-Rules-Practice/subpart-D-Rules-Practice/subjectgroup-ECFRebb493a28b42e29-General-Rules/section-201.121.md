@@ -1,0 +1,3 @@
+##### § 201.121 Separation of functions. #####
+
+Any Commission officer, employee or agent engaged in the performance of investigative or prosecutorial functions for the Commission in a proceeding as defined in § 201.101(a) may not, in that proceeding or one that is factually related, participate or advise in the decision, or in Commission review of the decision pursuant to Section 557 of the Administrative Procedure Act, 5 U.S.C. 557, except as a witness or counsel in the proceeding.

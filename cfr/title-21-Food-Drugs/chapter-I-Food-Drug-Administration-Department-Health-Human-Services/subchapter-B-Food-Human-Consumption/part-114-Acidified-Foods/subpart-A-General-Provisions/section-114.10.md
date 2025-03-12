@@ -1,0 +1,3 @@
+##### § 114.10 Personnel. #####
+
+All operators of processing and packaging systems shall be under the operating supervisions of a person who has attended a school approved by the Commissioner for giving instruction in food-handling techniques, food-protection principles, personal hygiene and plant sanitation practices, pH controls and critical factors in acidification, and who has been identified by that school as having satisfactorily completed the prescribed course of instruction. The Commissioner will consider students who have satisfactorily completed the required portions of the courses presented under § 108.35 and part 113 of this chapter before March 16, 1979, to be in compliance with the requirement of this section.

@@ -1,0 +1,3 @@
+##### § 60.46 Administrative decision. #####
+
+Within 30 days after the completion of the due diligence hearing, the Commissioner will affirm or revise the determination made under § 60.34(a) and will publish the due diligence redetermination in the Federal Register, notify PTO of the redetermination, and send copies of the notice to PTO and to the requesting party, the applicant, and the petitioner.

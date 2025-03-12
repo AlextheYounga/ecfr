@@ -1,0 +1,5 @@
+##### § 154.2023 Recertification—certifying entity responsibilities, generally. #####
+
+(a) Before the recertification of a facility vapor control system (VCS) the certifying entity must perform the reviews specified in 33 CFR 154.2022, except paragraphs (a) through (c).
+
+(b) The certifying entity must review, inspect, and observe tests of a facility VCS's design or configuration alteration before recertifying a VCS that was certified or approved for operation prior to July 23, 1990, to ensure that the altered system complies with applicable regulations. In general, the certifying entity should perform the review, inspection, and observe tests as specified in 33 CFR 154.2022(a) through (c). However, depending on the extent of the alteration, the review, inspection, or test observing may not need to be as comprehensive as those for an initial certification.

@@ -1,0 +1,29 @@
+##### § 165.781 Safety Zone; hurricanes and other disasters in Western Florida. #####
+
+(a) *Regulated areas.* The following areas are established as a safety zone during the specified conditions:
+
+(1) All waters within the Sector St. Petersburg Captain of the Port zone encompassing all navigable waters or tributaries between or within Fenholloway River through Chokoloskee Pass, Florida.
+
+(2) [Reserved]
+
+(b) *Definition.* (1) *Designated Representative* means Coast Guard Patrol Commanders including Coast Guard coxswains, petty officers and other officers operating Coast Guard vessels, and federal, state, and local officers designated by or assisting the COTP, in the enforcement of regulated navigation areas, safety zones, and security zones.
+
+(2) *Hurricane Port Condition WHISKEY* means condition set when weather advisories indicates sustained gale force winds (39-54 mph/34-47 knots) from a tropical or hurricane force storm are predicted to make landfall at the port within 72 hours.
+
+(3) *Hurricane Port Condition X-RAY* means condition set when weather advisories indicates sustained gale force winds (39-54 mph/34-47 knots) from a tropical or hurricane force storm are predicted to make landfall at the port within 48 hours.
+
+(4) *Hurricane Port Condition YANKEE* means condition set when weather advisories indicate that sustained gale force winds (39-54 mph/34-47 knots) from a tropical or hurricane force storm are predicted to make landfall at the port within 24 hours.
+
+(5) *Hurricane Port Condition ZULU* means condition set when weather advisories indicate that sustained gale force winds (39-54 mph/34-47 knots) from a tropical or hurricane force storm are predicted to make landfall at the port within 12 hours.
+
+(c) *Regulations.* (1) *Hurricane Port Condition WHISKEY.* All vessel and port facilities must exercise due diligence in preparation for potential storm impacts. Slow-moving vessels may be ordered to depart to ensure safe avoidance of the incoming storm upon the anticipation of the setting of Port Condition X-RAY. The PHWAG will make recommendations to the Captain of the Port to identify vessels that may need to be diverted to ensure the safety of the port. Ports and waterfront facilities shall begin removing all debris and securing potential flying hazards. Container stacking plans shall be implemented. Waterfront facilities that, are unable to reduce container stacking height to no more than four high, must submit a container stacking protocol to the Captain of the Port (COTP).
+
+(2) *Hurricane Port Condition X-RAY.* All vessels and port facilities shall ensure that potential flying debris is removed or secured. Hazardous materials/pollution hazards must be secured in a safe manner and away from waterfront areas. Facilities shall continue to implement container stacking protocol. Containers must not exceed four tiers, unless previously approved by the COTP. Containers carrying hazardous materials may not be stacked above the second tier. All oceangoing commercial vessels greater than 500-gross tons must prepare to depart ports and anchorages within Tampa Bay. These vessels shall depart immediately upon the setting of Port Condition YANKEE. During this condition slow-moving vessels may be ordered to depart to ensure safe avoidance of the incoming storm. A COTP Order will be issued to vessels asked to depart early. COTP orders requiring vessel departure will be considered on a case-by-case basis. Vessels that are unable to depart the port must contact the COTP to request and receive permission to remain in port. Proof of facility owner/operator approval is required. Vessels with COTP's permission to remain in port must implement their pre-approved mooring arrangement. Terminal operators shall prepare to terminate all cargo operations. The COTP may require additional precautions to ensure the safety of the ports and waterways. Coast Guard Port Assessment Teams will be deployed to validate implementation of Port Condition X-RAY. The COTP will convene the Port Heavy Weather Advisory Group (PHWAG) as deemed necessary.
+
+(3) *Hurricane Port Condition YANKEE.* Affected ports are closed to inbound vessel traffic. All oceangoing commercial vessels greater than 500-gross tons must have departed Tampa Bay. Appropriate container stacking protocol must be completed. Terminal operators must terminate all cargo operations not associated with storm preparations: cargo operations associated with storm preparations include moving cargo within or off the port for s ecuring purposes, crane and other port/facility equipment preparations, and similar activities, but do not include moving cargo onto the port or vessel loading/discharging operations unless specifically authorized by the COTP. All facilities shall continue to operate in accordance with approved Facility Security Plans and comply with the requirements of the Maritime Transportation Security Act (MTSA). Drawbridges may be closed to vessel traffic as early as eight hours prior to the arrival of tropical storm force winds. Coast Guard Port Assessment Teams will conduct Port Condition YANKEE validation. The COTP will convene the Port Heavy Weather Advisory Group (PHWAG), as deemed necessary.
+
+(4) *Hurricane Port Condition ZULU.* All port waterfront operations are suspended, except final preparations that are expressly permitted by the COTP necessary to ensure the safety of the ports and facilities. Coast Guard Port Assessment Teams will conduct final port assessments.
+
+(5) *Emergency Restrictions for Other Disasters.* Any natural or other disasters that are anticipated to affect the Sector St. Petersburg Captain of the Port zone will result in the prohibition of commercial vessel traffic transiting or remaining in the port and/or facility operations.
+
+[USCG-2014-0764, 80 FR 36715, June 26, 2015]

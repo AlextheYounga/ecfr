@@ -1,0 +1,3 @@
+##### § 31.81 General. #####
+
+When liquors are sold by a proprietor in two or more areas within the proprietor's place of business, only one registration is required under this part. When the proprietor leases to another person or persons the privilege of selling liquors in two or more areas within the proprietor's place of business, whether the privilege is exercised separately or simultaneously with the proprietor or another concessionaire, each lessee is required to register only once.

@@ -1,0 +1,5 @@
+##### § 120.32 Major non-NATO ally. #####
+
+*Major non-NATO ally,* as defined in section 644(q) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(q)), means a country that is designated in accordance with section 517 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321k) as a major non-NATO ally for purposes of the Foreign Assistance Act of 1961 and the Arms Export Control Act (22 U.S.C. 2151 *et seq.* and 22 U.S.C. 2751 *et seq.*). The following countries are designated as major non-NATO allies: Afghanistan (*see* § 126.1(g) of this subchapter), Argentina, Australia, Bahrain, Egypt, Israel, Japan, Jordan, Kuwait, Morocco, New Zealand, Pakistan, the Philippines, Republic of Korea, Thailand, and Tunisia. Taiwan shall be treated as though it were designated a major non-NATO ally.
+
+[81 FR 66805, Sept. 29, 2016]

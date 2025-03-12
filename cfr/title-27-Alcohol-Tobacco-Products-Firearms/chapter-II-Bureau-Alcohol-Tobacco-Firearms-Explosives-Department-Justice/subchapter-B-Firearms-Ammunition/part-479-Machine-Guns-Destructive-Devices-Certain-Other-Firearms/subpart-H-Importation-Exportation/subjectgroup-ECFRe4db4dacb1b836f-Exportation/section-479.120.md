@@ -1,0 +1,3 @@
+##### § 479.120 Refunds. #####
+
+Where, after payment of tax by the manufacturer, a firearm is exported, and satisfactory proof of exportation (see § 479.118) is furnished, a claim for refund may be submitted on Form 843 (see § 479.172). If the manufacturer waives all claim for the amount to be refunded, the refund shall be made to the exporter. A claim for refund by an exporter of tax paid by a manufacturer should be accompanied by waiver of the manufacturer and proof of tax payment by the latter.

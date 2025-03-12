@@ -1,0 +1,9 @@
+##### § 24.295 Return of wine to bond. #####
+
+(a) *General.* Wine, domestic or imported, which has been taxpaid and removed from bonded wine premises, may be received by the proprietor of a bonded wine premises for return to bond. The proprietor may, when such taxpaid wine is returned to bond, make a claim for refund or credit, without interest. However, tax will not be refunded or credited for any wine for which a claim has been or will be made under 27 CFR part 70, subpart G. If the tax has been determined but not paid, the person liable for the tax may, when such wine is returned to bond, be relieved of the liability. Claims for refund or credit, or relief from tax paid or determined on wine returned to bond, are filed in accordance with § 24.66.
+
+(b) *Receipt.* The quantity of taxpaid wine returned to bond is determined upon receipt on bonded wine premises. The quantity determined will be entered on the TTB F 5120.17, Report of Bonded Wine Premises Operations for the reporting period during which the wine is returned.
+
+(c) *Records.* The proprietor shall maintain records covering each lot of taxpaid wine returned to bond in accordance with § 24.312.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1332, as amended, 1382, as amended (26 U.S.C. 5044, 5371))(Approved by the Office of Management and Budget under control numbers 1513-0053, 1513-0115, and 1513-0030)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31082, July 9, 1991; T.D. ATF-338, 58 FR 19065, Apr. 12, 1993; T.D. ATF-344, 58 FR 40354, July 28, 1993; T.D. ATF-376, 61 FR 31030, June 19, 1996; T.D. TTB-130, 80 FR 55248, Sept. 15, 2015]

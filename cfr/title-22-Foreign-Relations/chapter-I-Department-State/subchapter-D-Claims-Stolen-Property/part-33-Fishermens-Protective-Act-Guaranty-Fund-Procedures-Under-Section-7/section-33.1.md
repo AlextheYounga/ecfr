@@ -1,0 +1,3 @@
+##### § 33.1 Purpose. #####
+
+These rules clarify procedures for the administration of Section 7 of the Fishermen's Protective Act of 1967. Section 7 of the Act establishes a Fishermen's Guaranty Fund to reimburse owners and charterers of United States commercial fishing vessels for certain losses and costs caused by the seizure and detention of their vessels by foreign countries under certain claims to jurisdiction not recognized by the United States.

@@ -1,0 +1,5 @@
+##### § 1.05-45 Interim rule. #####
+
+(a) An interim rule may be issued when it is in the public interest to promulgate an effective rule while keeping the rulemaking open for further refinement. For example, an interim rule may be issued in instances when normal procedures for notice and comment prior to issuing an effective rule are not required, minor changes to the final rule may be necessary after the interim rule has been in place for some time, or the interim rule only implements portions of a proposed rule, while other portions of the proposed rule are still under development.
+
+(b) An interim rule will be published in the Federal Register with an effective date that will generally be at least 30 days after the date of publication. After the effective date, an interim rule is enforceable and is codified in the next annual revision of the appropriate title of the Code of Federal Regulations.

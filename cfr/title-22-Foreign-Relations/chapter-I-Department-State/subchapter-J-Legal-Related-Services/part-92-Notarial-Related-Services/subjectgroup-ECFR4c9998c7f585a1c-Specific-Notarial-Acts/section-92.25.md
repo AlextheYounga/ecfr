@@ -1,0 +1,3 @@
+##### § 92.25 Title of affidavit. #####
+
+Generally an affidavit taken for use in a pending cause must be entitled in that cause so that it will show to what proceedings it is intended to apply, and may support an indictment for perjury in case it proves to be false. If there is no suit pending at the time the affidavit is taken or if the affidavit is not to be used in any cause in court, no title need be given.

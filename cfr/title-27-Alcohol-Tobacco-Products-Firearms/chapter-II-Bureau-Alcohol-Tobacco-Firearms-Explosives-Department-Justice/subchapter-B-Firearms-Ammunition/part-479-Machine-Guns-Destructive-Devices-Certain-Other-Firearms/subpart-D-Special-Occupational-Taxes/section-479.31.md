@@ -1,0 +1,7 @@
+##### § 479.31 Liability for tax. #####
+
+(a) *General.* Every person who engages in the business of importing, manufacturing, or dealing in (including pawnbrokers) firearms in the United States shall pay a special (occupational) tax at a rate specified by § 479.32. The tax shall be paid on or before the date of commencing the taxable business, and thereafter every year on or before July 1. Special (occupational) tax shall not be prorated. The tax shall be computed for the entire tax year (July 1 through June 30), regardless of the portion of the year during which the taxpayer engages in business. Persons commencing business at any time after July 1 in any year are liable for the special (occupational) tax for the entire tax year.
+
+(b) *Each place of business taxable.* An importer, manufacturer, or dealer in firearms incurs special tax liability at each place of business where an occupation subject to special tax is conducted. A place of business means the entire office, plant or area of the business in any one location under the same proprietorship. Passageways, streets, highways, rail crossings, waterways, or partitions dividing the premises are not sufficient separation to require additional special tax, if the divisions of the premises are otherwise contiguous. See also §§ 479.38-479.39.
+
+(26 U.S.C. 5143, 5801, 5846)[T.D. ATF-271, 53 FR 17550, May 17, 1988]

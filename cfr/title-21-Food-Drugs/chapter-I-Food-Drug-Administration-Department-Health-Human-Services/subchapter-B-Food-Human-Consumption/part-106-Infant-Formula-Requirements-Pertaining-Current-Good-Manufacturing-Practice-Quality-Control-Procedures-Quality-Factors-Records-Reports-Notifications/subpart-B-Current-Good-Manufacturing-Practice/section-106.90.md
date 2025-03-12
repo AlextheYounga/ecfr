@@ -1,0 +1,5 @@
+##### § 106.90 Audits of current good manufacturing practice. #####
+
+(a) A manufacturer of an infant formula, or an agent of such manufacturer, shall conduct regularly scheduled audits to determine whether the manufacturer has complied with the current good manufacturing practice regulations in this subpart. Such audits shall be conducted at a frequency that is required to ensure compliance with such regulations.
+
+(b) The audits required by paragraph (a) of this section shall be performed by an individual or a team of individuals who, as a result of education, training, or experience, is knowledgeable in all aspects of infant formula production and of the Agency's regulations concerning current good manufacturing practice that such individual or team is responsible for auditing. This individual or team of individuals shall have no direct responsibility for the matters that such individual or team is auditing and shall have no direct interest in the outcome of the audit.

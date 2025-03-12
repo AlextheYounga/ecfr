@@ -1,0 +1,3 @@
+##### § 39.41 Special enforcement authority for systemically important derivatives clearing organizations. #####
+
+For purposes of enforcing the provisions of Title VIII of the Dodd-Frank Act, a systemically important derivatives clearing organization shall be subject to, and the Commission has authority under the provisions of subsections (b) through (n) of section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818) in the same manner and to the same extent as if the systemically important derivatives clearing organization were an insured depository institution and the Commission were the appropriate Federal banking agency for such insured depository institution.

@@ -1,0 +1,19 @@
+##### § 1.693 How do I request a regulatory hearing on a revocation of recognition or withdrawal of accreditation? #####
+
+(a) *Request for hearing on revocation.* No later than 10 business days after the date of issuance of a revocation of recognition of an accreditation body under § 1.634, an individual authorized to act on the accreditation body's behalf may submit a request for a regulatory hearing on the revocation under part 16 of this chapter. The issuance of revocation issued under § 1.634 will contain all of the elements required by § 16.22 of this chapter and will thereby constitute the notice of an opportunity for hearing under part 16 of this chapter.
+
+(b) *Request for hearing on withdrawal.* No later than 10 business days after the date of issuance of a withdrawal of accreditation of a third-party certification body under § 1.664, an individual authorized to act on the third-party certification body's behalf may submit a request for a regulatory hearing on the withdrawal under part 16 of this chapter. The issuance of withdrawal under § 1.664 will contain all of the elements required by § 16.22 of this chapter and will thereby constitute the notice of opportunity of hearing under part 16 of this chapter.
+
+(c) *Submission of request for regulatory hearing.* The request for a regulatory hearing under paragraph (a) or (b) of this section must be submitted with a written appeal that responds to the basis for the FDA decision, as described in the issuance of revocation or withdrawal, as appropriate, and includes any supporting information upon which the requestor is relying. The request, appeal, and supporting information must be submitted in English to the address specified in the notice and must comply with the procedures it describes.
+
+(d) *Effect of submission of request on FDA decision.* The submission of a request for a regulatory hearing under paragraph (a) or (b) of this section will not operate to delay or stay the effect of a decision by FDA to revoke recognition of an accreditation body or to withdraw accreditation of a third-party certification body unless FDA determines that a delay or a stay is in the public interest.
+
+(e) *Presiding officer.* The presiding officer for a regulatory hearing for a revocation or withdrawal under this subpart will be designated after a request for a regulatory hearing is submitted to FDA.
+
+(f) *Denial of a request for regulatory hearing.* The presiding officer may deny a request for regulatory hearing for a revocation or withdrawal under § 16.26(a) of this chapter when no genuine or substantial issue of fact has been raised.
+
+(g) *Conduct of regulatory hearing.* (1) If the presiding officer grants a request for a regulatory hearing for a revocation or withdrawal, the hearing will be held within 10 business days after the date the request was filed or, if applicable, within a timeframe agreed upon in writing by requestor, the presiding officer, and FDA.
+
+(2) The presiding officer must conduct the regulatory hearing for revocation or withdrawal under part 16 of this chapter, except that, under § 16.5(b) of this chapter, such procedures apply only to the extent that the procedures are supplementary and do not conflict with the procedures specified for regulatory hearings under this subpart. Accordingly, the following requirements of part 16 are inapplicable to regulatory hearings under this subpart: § 16.22 (Initiation of a regulatory hearing); § 16.24(e) (timing) and (f) (contents of notice); § 16.40 (Commissioner); § 16.60(a) (public process); § 16.95(b) (administrative decision and record for decision); and § 16.119 (Reconsideration and stay of action).
+
+(3) A decision by the presiding officer to affirm the revocation of recognition or the withdrawal of accreditation is considered a final agency action under 5 U.S.C. 702.

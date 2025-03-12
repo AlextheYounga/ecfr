@@ -1,0 +1,7 @@
+##### § 28.73 Relief of surety from bond. #####
+
+(a) *Bonds, Forms 2734 (5120.25) and 2736 (5100.12).* The surety on a bond given on Form 2734 (5120.25) or Form 2736 (5100.12) shall be relieved from his liability under the bond when the bond has been canceled as provided for in § 28.70.
+
+(b) *Bonds, Forms 2735 (5100.30), 2737 (5110.67), and 2738 (5110.68).* Where the surety on a bond given on Form 2735 (5100.30), Form 2737 (5110.67), or on Form 2738 (5110.68) has filed application for relief from liability, as provided in § 28.72, the surety shall be relieved from liability for withdrawals or claims, as the case may be, made wholly subsequent to the date specified in the notice, or on the effective date of a superseding bond, if one is given. Notwithstanding such relief, the liability of the surety shall continue until the spirits and/or wines withdrawn without payment of tax or included in a claim for drawback of tax allowed under the bond have been properly accounted for.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1336, as amended, 1352, as amended, 1353, as amended (26 U.S.C. 5062, 5175, 5176))[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-62, 44 FR 71722, Dec. 11, 1979; T.D. TTB-8, 69 FR 3832, Jan. 27, 2004]

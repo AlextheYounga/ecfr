@@ -1,0 +1,13 @@
+##### § 240.12f-4 Exemption of securities admitted to unlisted trading privileges from sections 13, 14 and 16. #####
+
+(a) Any security for which unlisted trading privileges on any national securities exchange have been continued or extended pursuant to section 12(f) of the Act shall be exempt from section 13 of the Act unless (1) such security or another security of the same issuer is listed and registered on a national securities exchange or registered pursuant to section 12(g) of the Act, or (2) such issuer would be required to file information, documents and reports pursuant to section 15(d) of the Act but for the fact that securities of the issuer are deemed to be “registered on a national securities exchange” within the meaning of section 12(f)(6) of the Act.
+
+(b) Any security for which unlisted trading privileges on any national securities exchange have been continued or extended pursuant to section 12(f) of the Act shall be exempt from section 14 of the Act unless such security is also listed and registered on a national securities exchange or registered pursuant to section 12(g) of the Act.
+
+(c)(1) Any equity security for which unlisted trading privileges on any national securities exchange have been continued or extended pursuant to section 12(f) of the Act shall be exempt from section 16 of the act unless such security or another equity security of the same issuer is listed and registered on a national securities exchange or registered pursuant to section 12(g) of the Act.
+
+(2) Any equity security for which unlisted trading privileges on any national securities exchange have been continued or extended pursuant to section 12(f) of the Act and which is not listed and registered on any other such exchange or registered pursuant to section 12(g) of the Act shall be exempt from section 16 of the Act insofar as that section would otherwise apply to any person who is directly or indirectly the beneficial owner of more than 10 percent of such security, unless another equity security of the issuer of such unlisted security is so listed or registered and such beneficial owner is a director or officer of such issuer or directly or indirectly the beneficial owner of more than 10 percent of any such listed security.
+
+(d) Any reference in this section to a security registered pursuant to section 12(g) of the Act shall include, and any reference to a security not so registered shall exclude, any security as to which a registration statement pursuant to such section is at the time required to be effective.
+
+(Sec. 3, 78 Stat. 565, 15 U.S.C. 78*l*)[30 FR 482, Jan. 14, 1965]

@@ -1,0 +1,3 @@
+##### § 26.7 Participation in the equivalence assessment and determination. #####
+
+The authorities listed in appendix B of this subpart will actively participate in these programs to build a sufficient body of evidence for their equivalence determination. Both parties will exercise good faith efforts to complete equivalence assessment as expeditiously as possible to the extent the resources of the authorities allow.

@@ -1,0 +1,3 @@
+##### § 169.105 Where is the northeastern reporting system located? #####
+
+Geographical boundaries of the northeastern area include the waters of Cape Cod Bay, Massachusetts Bay, and the Great South Channel east and southeast of Massachusetts. The coordinates (NAD 83) of the area are as follows: from a point on Cape Ann, Massachusetts at 42°39′ N, 70°37′ W; then northeast to 42°45′ N, 70°13′ W; then southeast to 42°10′ N, 68°31′ W; then south to 41°00′ N, 68°31′ W; then west to 41°00′ N, 69°17′ W; then northeast to 42°05′ N, 70°02′ W, then west to 42°04′ N, 70°10′ W; and then along the Massachusetts shoreline of Cape Cod Bay and Massachusetts Bay back to the point on Cape Anne at 42°39′ N, 70°37′ W.

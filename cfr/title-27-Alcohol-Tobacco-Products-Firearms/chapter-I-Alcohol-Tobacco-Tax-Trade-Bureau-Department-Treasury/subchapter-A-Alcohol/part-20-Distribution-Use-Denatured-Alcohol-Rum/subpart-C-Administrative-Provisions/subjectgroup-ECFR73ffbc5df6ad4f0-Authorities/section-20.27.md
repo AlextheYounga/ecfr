@@ -1,0 +1,3 @@
+##### § 20.27 Right of entry and examination. #####
+
+An appropriate TTB officer may enter, during business hours or at any time operations are being conducted, any premises on which operations governed by this part are conducted to inspect the records and reports required by this part to be kept on those premises. An appropriate TTB officer may also inspect and take samples of distilled spirits, denatured alcohol, specially denatured rum or articles (including any substance for use in the manufacture of denatured alcohol, specially denatured rum or articles) to which those records or reports relate.

@@ -1,0 +1,3 @@
+##### § 1210.28 Permits waiving clause 4, section 2 of the Federal Import Milk Act. #####
+
+The Secretary, in his discretion, will issue to a shipper who is an operator of a condensery a permit waiving the requirements of clause 4, of section 2 of the Federal Import Milk Act and allowing milk and cream containing not to exceed 1,200,000 bacteria per cubic centimeter to be shipped or transported into the United States if the condensery is located within a radius of 15 miles of the point of production of the milk and cream and such milk and cream are to be sterilized in the manufacture of condensed milk.

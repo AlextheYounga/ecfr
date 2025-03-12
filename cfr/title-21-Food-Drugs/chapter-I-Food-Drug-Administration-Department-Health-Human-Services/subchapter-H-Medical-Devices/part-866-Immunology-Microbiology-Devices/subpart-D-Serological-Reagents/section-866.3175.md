@@ -1,0 +1,5 @@
+##### § 866.3175 Cytomegalovirus serological reagents. #####
+
+(a) *Identification.* Cytomegalovirus serological reagents are devices that consist of antigens and antisera used in serological tests to identify antibodies to cytomegalovirus in serum. The identification aids in the diagnosis of diseases caused by cytomegaloviruses (principally cytomegalic inclusion disease) and provides epidemiological information on these diseases. Cytomegalic inclusion disease is a generalized infection of infants and is caused by intrauterine or early postnatal infection with the virus. The disease may cause severe congenital abnormalities, such as microcephaly (abnormal smallness of the head), motor disability, and mental retardation. Cytomegalovirus infection has also been associated with acquired hemolytic anemia, acute and chronic hepatitis, and an infectious mononucleosis-like syndrome.
+
+(b) *Classification.* Class II (performance standards).

@@ -1,0 +1,7 @@
+##### § 312.54 Emergency research under § 50.24 of this chapter. #####
+
+(a) The sponsor shall monitor the progress of all investigations involving an exception from informed consent under § 50.24 of this chapter. When the sponsor receives from the IRB information concerning the public disclosures required by § 50.24(a)(7)(ii) and (a)(7)(iii) of this chapter, the sponsor promptly shall submit to the IND file and to Docket Number 95S-0158 in the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, copies of the information that was disclosed, identified by the IND number.
+
+(b) The sponsor also shall monitor such investigations to identify when an IRB determines that it cannot approve the research because it does not meet the criteria in the exception in § 50.24(a) of this chapter or because of other relevant ethical concerns. The sponsor promptly shall provide this information in writing to FDA, investigators who are asked to participate in this or a substantially equivalent clinical investigation, and other IRB's that are asked to review this or a substantially equivalent investigation.
+
+[61 FR 51530, Oct. 2, 1996, as amended at 68 FR 24879, May 9, 2003]

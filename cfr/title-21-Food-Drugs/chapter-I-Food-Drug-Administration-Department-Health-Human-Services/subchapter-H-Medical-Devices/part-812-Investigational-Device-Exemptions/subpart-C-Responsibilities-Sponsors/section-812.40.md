@@ -1,0 +1,3 @@
+##### § 812.40 General responsibilities of sponsors. #####
+
+Sponsors are responsible for selecting qualified investigators and providing them with the information they need to conduct the investigation properly, ensuring proper monitoring of the investigation, ensuring that IRB review and approval are obtained, submitting an IDE application to FDA, and ensuring that any reviewing IRB and FDA are promptly informed of significant new information about an investigation. Additional responsibilities of sponsors are described in subparts B and G.

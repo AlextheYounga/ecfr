@@ -1,0 +1,3 @@
+##### § 37.504 Information-sharing agreements. #####
+
+A swap execution facility shall share information with other regulatory organizations, data repositories, and third-party data reporting services as required by the Commission or as otherwise necessary and appropriate to fulfill its self-regulatory and reporting responsibilities. Appropriate information-sharing agreements can be established with such entities or the Commission can act in conjunction with the swap execution facility to carry out such information sharing.

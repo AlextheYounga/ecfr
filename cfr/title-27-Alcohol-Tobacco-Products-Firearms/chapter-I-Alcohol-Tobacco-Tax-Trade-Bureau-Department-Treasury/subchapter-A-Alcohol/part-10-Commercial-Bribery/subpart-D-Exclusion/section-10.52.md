@@ -1,0 +1,3 @@
+##### § 10.52 Practice which puts trade buyer independence at risk. #####
+
+The practice specified in this section is deemed to place trade buyer independence at risk within the description of exclusion in § 10.51: Industry member payments of money to the employee(s) of a trade buyer without the knowledge or consent of the trade buyer-employer in return for the employee agreeing to order distilled spirits, wine, or malt beverages from the industry member. The practice enumerated here is an example and does not constitute a complete list of those situations which result in such control.

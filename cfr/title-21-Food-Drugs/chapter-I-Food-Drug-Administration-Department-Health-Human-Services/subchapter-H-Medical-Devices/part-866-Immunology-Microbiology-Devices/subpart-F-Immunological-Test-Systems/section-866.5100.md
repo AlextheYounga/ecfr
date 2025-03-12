@@ -1,0 +1,5 @@
+##### § 866.5100 Antinuclear antibody immunological test system. #####
+
+(a) *Identification.* An antinuclear antibody immunological test system is a device that consists of the reagents used to measure by immunochemical techniques the autoimmune antibodies in serum, other body fluids, and tissues that react with cellular nuclear constituents (molecules present in the nucleus of a cell, such as ribonucleic acid, deoxyribonucleic acid, or nuclear proteins). The measurements aid in the diagnosis of systemic lupus erythematosus (a multisystem autoimmune disease in which antibodies attack the victim's own tissues), hepatitis (a liver disease), rheumatoid arthritis, Sjögren's syndrome (arthritis with inflammation of the eye, eyelid, and salivary glands), and systemic sclerosis (chronic hardening and shrinking of many body tissues).
+
+(b) *Classification.* Class II (performance standards).

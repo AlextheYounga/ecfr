@@ -1,0 +1,5 @@
+##### § 601.15 Foreign establishments and products: samples for each importation. #####
+
+Random samples of each importation, obtained by the District Director of Customs and forwarded to the Director, Center for Biologics Evaluation and Research or the Director, Center for Drug Evaluation and Research (see mailing addresses in § 600.2(c) of this chapter) must be at least two final containers of each lot of product. A copy of the associated documents which describe and identify the shipment must accompany the shipment for forwarding with the samples to the Director, Center for Biologics Evaluation and Research or the Director, Center for Drug Evaluation and Research (see mailing addresses in § 600.2(c)). For shipments of 20 or less final containers, samples need not be forwarded, provided a copy of an official release from the Center for Biologics Evaluation and Research or Center for Drug Evaluation and Research accompanies each shipment.
+
+[70 FR 14983, Mar. 24, 2005, as amended at 80 FR 18092, Apr. 3, 2015]

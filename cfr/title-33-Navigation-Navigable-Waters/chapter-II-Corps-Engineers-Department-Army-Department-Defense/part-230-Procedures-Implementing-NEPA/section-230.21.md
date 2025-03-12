@@ -1,0 +1,3 @@
+##### § 230.21 Adoption. #####
+
+See 40 CFR 1506.3. A district commander will normally adopt another Federal agency's EIS and consider it to be adequate unless the district commander finds substantial doubt as to technical or procedural adequacy or omission of factors important to the Corps decision. In such cases, the district commander will prepare a draft and final supplement noting in the draft supplement why the EIS was considered inadequate. In all cases, except where the document is not recirculated as provided in 40 CFR 1506.3 (b) or (c), the adopted EIS with the supplement, if any, will be processed in accordance with this regulation. A district commander may also adopt another agency's EA/FONSI.

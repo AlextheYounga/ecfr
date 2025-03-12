@@ -1,0 +1,5 @@
+##### § 874.4710 Esophagoscope (flexible or rigid) and accessories. #####
+
+(a) *Identification.* An esophagoscope (flexible or rigid) and accessories is a tubular endoscopic device with any of a group of accessory devices which attach to the esophagoscope and is intended to examine or treat esophageal malfunction symptoms, esophageal or mediastinal disease, or to remove foreign bodies from the esophagus. When inserted, the device extends from the area of the hypopharynx to the stomach. It is typically used with a fiberoptic light source and carrier to provide illumination. The device is made of materials such as stainless steel or flexible plastic. This generic type of device includes the flexible foreign body claw, flexible biopsy forceps, rigid biopsy curette, flexible biopsy brush, rigid biopsy forceps and flexible biopsy curette, but excludes the fiberoptic light source and carrier.
+
+(b) *Classification.* Class II.

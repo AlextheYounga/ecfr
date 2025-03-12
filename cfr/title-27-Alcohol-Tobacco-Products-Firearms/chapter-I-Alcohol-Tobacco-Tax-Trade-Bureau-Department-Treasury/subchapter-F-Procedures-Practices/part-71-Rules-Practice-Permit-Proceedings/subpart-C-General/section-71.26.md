@@ -1,0 +1,5 @@
+##### § 71.26 Service on applicant or respondent. #####
+
+All orders, notices, citations, motions and other formal documents, except subpoenas, required to be served under the regulations in this part may be served by mailing a signed duplicate original copy thereof to the permittee or applicant by registered mail, with request for return receipt card, at the address stated in his permit or application or at his last known address, or by delivery of such original copy to the permittee or applicant personally, or in the case of a corporation, partnership, or other unincorporated association, by delivering the same to an officer, or manager, or general agent thereof, or to its attorney of record. Such personal service may be made by any employee of the Alcohol and Tobacco Tax and Trade Bureau or by any employee of the Treasury Department designated by the Secretary. A certificate of mailing and the return receipt card, or certificate of service signed by the person making such service, shall be filed as a part of the record.
+
+[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55846, Sept. 28, 1979]

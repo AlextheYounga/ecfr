@@ -1,0 +1,7 @@
+##### § 17.153 Recovered spirits. #####
+
+(a) *Recovery from intermediate products.* Eligible spirits recovered in the manufacture of intermediate products are not subject to drawback until such recovered spirits are used in the manufacture of a nonbeverage product. (However, see § 17.127 with respect to optional treatment of ingredients as unfinished nonbeverage products, rather than as intermediate products.) Spirits recovered in the manufacture of intermediate products shall be reused only in the manufacture of intermediate or nonbeverage products.
+
+(b) *Recovery from nonbeverage products.* Distilled spirits recovered in the manufacture of a nonbeverage product are considered as having been used in the manufacture of that product. If the spirits were eligible when so used, they became subject to drawback at that time. Upon recovery, such spirits may be reused in the manufacture of nonbeverage products, but shall not be reused for any other purpose. When reused, such recovered spirits are not again eligible for drawback and shall not be used in the manufacture of intermediate products.
+
+(c) *Cross references.* For additional provisions respecting the recovery of distilled spirits and related recordkeeping requirements, see §§ 17.168 and 17.183.

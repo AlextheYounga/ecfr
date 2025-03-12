@@ -1,0 +1,3 @@
+##### § 74.01-20 Deposit of payment in special account. #####
+
+Whenever an aid to navigation or other property belonging to the Coast Guard is damaged or destroyed by a private person, such person shall pay to the satisfaction of the Coast Guard the cost of repair or replacement of such property. The Coast Guard will accept and deposit such payment in a special account in the Treasury for payment therefrom of the cost of repairing or replacing the damaged property. Funds collected in excess of the cost to make repairs or replacements shall be refunded.

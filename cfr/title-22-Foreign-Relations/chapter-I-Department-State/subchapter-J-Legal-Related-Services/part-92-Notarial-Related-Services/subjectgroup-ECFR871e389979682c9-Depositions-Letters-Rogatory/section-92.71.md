@@ -1,0 +1,3 @@
+##### § 92.71 Fees for letters rogatory executed by officials in the United States. #####
+
+Arrangements for the payment of fees should be made directly with the court in the United States by the party in the foreign country at whose request the depositions are taken, either through his legal representative in the United States or through the appropriate diplomatic or consular officer of his country in the United States. (See § 92.67 regarding the execution of letters rogatory in the United States.)

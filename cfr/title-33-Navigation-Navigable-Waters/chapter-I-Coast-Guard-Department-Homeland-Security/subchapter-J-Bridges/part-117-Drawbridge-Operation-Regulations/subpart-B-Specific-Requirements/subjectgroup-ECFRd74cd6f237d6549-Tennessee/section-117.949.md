@@ -1,0 +1,5 @@
+##### § 117.949 Tennessee River. #####
+
+The draws of the Chief John Ross Bridge over the Tennessee River, mile 464.1, at Chattanooga, and the Southern Railway Bridge over the Tennessee River, mile 470.7, at Hixon, Tennessee, shall open on signal when the vertical clearance beneath the draw is 50 feet or less. When the vertical clearance beneath the draw is more than 50 feet, at least eight hours notice is required. When the operator of a vessel returning through the draw within four hours informs the drawtender of the probable time of return, the drawtender shall return one half hour before the time specified and promptly open the draw on signal for the vessel without further notice. If the vessel giving notice fails to arrive within one hour after the arrival time specified, whether upbound or downbound, a second eight hours notice is required.
+
+[CGD02 86-02, 51 FR 32320, Sept. 11, 1986; 51 FR 41894, Nov. 19, 1986, as amended by USCG-2001-10881, 71 FR 70312, Dec. 4, 2006]

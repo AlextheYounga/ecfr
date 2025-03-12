@@ -1,0 +1,3 @@
+##### § 110.54 Long Island Sound, on west side of entrance to Pataguanset River, Conn. #####
+
+An area east of Giants Neck (formerly known as Grant Neck) described as follows: Beginning at a point bearing 114°, 75 feet, from the outer end of the breakwater at the south end of Giants Neck; thence 90°, 1,050 feet; thence 22°17′30″, 2,140 feet; thence 283°- 27′15.5″, 240 feet; thence 220°36′39″, 1,252.6 feet; thence 295°23′16.5″, 326.5 feet; thence 269°02′42.6″, 240 feet; thence 261°46′50.9″, 181.9 feet; thence 226°28′07.7″, 275.9 feet; thence 147°43′27.7″, 449.4 feet; thence 238°01′35.8″, 379.6 feet; and thence approximately 156°31′05.8″, 462.11 feet, to the point of beginning.

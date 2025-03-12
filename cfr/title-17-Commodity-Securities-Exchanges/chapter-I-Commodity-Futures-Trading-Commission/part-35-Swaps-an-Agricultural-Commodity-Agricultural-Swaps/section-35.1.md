@@ -1,0 +1,5 @@
+##### § 35.1 Agricultural swaps, generally. #####
+
+(a) Any person or group of persons may offer to enter into, enter into, confirm the execution of, maintain a position in, or otherwise conduct activity related to, any transaction in interstate commerce that is a swap in an agricultural commodity subject to all provisions of the Act, including any Commission rule, regulation, or order thereunder, otherwise applicable to any other swap; and
+
+(b) In addition to paragraph (a) of this section, any transaction in interstate commerce that is a swap in an agricultural commodity may be transacted on a swap execution facility, designated contract market, or otherwise in accordance with all provisions of the Act, including any Commission rule, regulation, or order thereunder, applicable to any other swap eligible to be transacted on a swap execution facility, designated contract market, or otherwise.

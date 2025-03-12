@@ -1,0 +1,5 @@
+##### § 110.148 Johnsons River at Bridgeport, Conn. #####
+
+(a) *The anchorage grounds.* In Johnsons River, beginning at a point “A” latitude 41°10′12.3″, longitude 73°09′50.2″; thence westerly to a point “B” latitude 41°10′12.3″, longitude 73°09′52.1″; thence southwesterly to point “C” latitude 41°10′10″, longitude 73°09′54.9″; thence south southwesterly to point “D” latitude 41°10′05″, longitude 73°09′56.1″; thence southeasterly to point “E” latitude 41°10′04″, longitude 73°09′55.9″; thence northeasterly to point “F” latitude 41°10′05″, longitude 73°09′54.5″; thence northerly to point “G” latitude 41°10′05.8″, longitude 73°09′54.5″; thence northeasterly to the point of beginning.
+
+(b) *The regulations.* The anchorage is for use by commercial and pleasure craft. Temporary floats or buoys for marking anchors or moorings will be allowed. The anchoring of vessels and placing of temporary anchors or mooring piles are under the jurisdiction of the local harbor master. Fixed mooring piles or stakes will not be allowed.

@@ -1,0 +1,3 @@
+##### § 92.80 Obtaining American vital statistics records. #####
+
+Individuals who inquire as to means of obtaining copies of or extracts from American birth, death, marriage, or divorce records may be advised generally to direct their inquires to the Vital Statistics Office at the place where the record is kept, which is usually in the capital city of the State or Territory. Legal directories and other published works of references at the post may be of assistance in providing exact addresses, information about fees, etc. An inquirer who is not an American citizen may write directly to the diplomatic or appropriate consular representative of his own country for any needed assistance in obtaining a desired document.

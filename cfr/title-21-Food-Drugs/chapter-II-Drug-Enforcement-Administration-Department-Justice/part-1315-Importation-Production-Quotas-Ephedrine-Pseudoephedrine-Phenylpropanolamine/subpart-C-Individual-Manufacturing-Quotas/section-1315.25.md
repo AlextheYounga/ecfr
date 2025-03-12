@@ -1,0 +1,5 @@
+##### § 1315.25 Increase in individual manufacturing quotas. #####
+
+(a) Any registrant who holds an individual manufacturing quota for a chemical may file with the Administrator an application on DEA Form 189 for an increase in the registrant's quota to meet the registrant's estimated net disposal, inventory, and other requirements during the remainder of that calendar year.
+
+(b) The Administrator, in passing upon a registrant's application for an increase in the individual manufacturing quota, shall take into consideration any occurrences since the filing of the registrant's initial quota application that may require an increased manufacturing rate by the registrant during the balance of the calendar year. In passing upon the application the Administrator may also take into consideration the amount, if any, by which his determination of the total quantity for the chemical to be manufactured under § 1315.11 exceeds the aggregate of all the individual manufacturing quotas for the chemical, and the equitable distribution of such excess among other registrants.

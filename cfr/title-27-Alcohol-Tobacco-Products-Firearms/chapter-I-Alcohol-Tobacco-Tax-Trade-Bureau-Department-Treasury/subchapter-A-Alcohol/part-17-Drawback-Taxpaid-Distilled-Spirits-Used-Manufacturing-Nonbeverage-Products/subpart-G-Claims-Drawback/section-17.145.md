@@ -1,0 +1,3 @@
+##### § 17.145 Date of filing claim. #####
+
+Quarterly claims for drawback shall be filed within six months after the quarter in which the distilled spirits covered by the claim were used in the manufacture of nonbeverage products. Monthly claims for drawback may be filed at any time after the end of the month in which the distilled spirits covered by the claim were used in the manufacture of nonbeverage products, but shall be filed not later than the close of the sixth month succeeding the quarter in which the spirits were used.

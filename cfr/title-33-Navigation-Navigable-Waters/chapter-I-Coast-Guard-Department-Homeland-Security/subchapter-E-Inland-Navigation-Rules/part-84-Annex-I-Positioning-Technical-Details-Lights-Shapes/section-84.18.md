@@ -1,0 +1,3 @@
+##### § 84.18 Maneuvering light. #####
+
+Notwithstanding the provisions of § 84.02(f), the maneuvering light described in Rule 34(b)(§ 83.34(b) of this chapter) shall be placed approximately in the same fore and aft vertical plane as the masthead light or lights and, where practicable, at a minimum height of one-half meter vertically above the forward masthead light, provided that it shall be carried not less than one-half meter vertically above or below the after masthead light. On a vessel where only one masthead light is carried the maneuvering light, if fitted, shall be carried where it can best be seen, not less than one-half meter vertically apart from the masthead light.

@@ -1,0 +1,5 @@
+##### § 26.276 Retention. #####
+
+All records required by this part, documents or copies of documents supporting these records (including data filed with U.S. Customs and Border Protection (CBP) pursuant to CBP requirements), and file copies of reports required by this part, must be retained for not less than three years from the date the shipment is released from customs custody into the United States, and during this period must be made available upon request of the appropriate TTB officer or a customs officer. Furthermore, the appropriate TTB officer may require these records to be kept for an additional period of not more than three years in any case where the appropriate TTB officer determines retention necessary or advisable. (For record retention periods under CBP regulations, see 19 CFR part 163.) Any records, or copies thereof, containing any of the information required by this part to be prepared, wherever kept, shall also be made available for inspection and copying.
+
+(Approved by the Office of Management and Budget under control numbers 1513-0064 and 1513-0088)[T.D. TTB-145, 81 FR 94202, Dec. 22, 2016]

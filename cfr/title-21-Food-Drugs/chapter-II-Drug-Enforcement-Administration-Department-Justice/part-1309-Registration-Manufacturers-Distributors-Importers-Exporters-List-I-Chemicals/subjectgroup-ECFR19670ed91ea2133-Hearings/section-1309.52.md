@@ -1,0 +1,3 @@
+##### § 1309.52 Purpose of hearing. #####
+
+If requested by a person entitled to a hearing, the Administrator shall hold a hearing for the purpose of receiving factual evidence regarding the issues involved in the denial, revocation, or suspension of any registration. Extensive argument should not be offered into evidence but rather presented in opening or closing statements of counsel or in memoranda or proposed findings of fact and conclusions of law.

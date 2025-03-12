@@ -1,0 +1,3 @@
+##### § 92.78 Translating documents. #####
+
+Officers of the Foreign Service are not authorized to translate documents or to certify to the correctness of translations. (However, see § 92.56 with regard to interpreting and translating services which may be performed in connection with depositions.) They are authorized to administer to a translator an oath as to the correctness of a translation; to take an acknowledgment of the preparation of a translation; and to authenticate the seal and signature of a local official affixed to a translation. Separate fees should be charged for each of these services, as indicated under the caption “Notarial Services and Authentications” of the Tariff of Fees, Foreign Service of the United States of America (§ 22.1 of this chapter).

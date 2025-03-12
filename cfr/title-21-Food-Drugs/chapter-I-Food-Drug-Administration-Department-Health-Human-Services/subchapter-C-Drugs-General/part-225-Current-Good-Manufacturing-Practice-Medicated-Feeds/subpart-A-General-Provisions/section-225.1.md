@@ -1,0 +1,11 @@
+##### § 225.1 Current good manufacturing practice. #####
+
+(a) Section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act provides that a drug (including a drug contained in a medicated feed) shall be deemed to be adulterated if the methods used in, or the facilities or controls used for, its manufacture, processing, packing, or holding do not conform to or are not operated or administered in conformity with current good manufacturing practice to assure that such drug meets the requirement of the act as to safety and has the identity and strength, and meets the quality and purity characteristics, which it purports or is represented to possess.
+
+(b)(1) The provisions of this part set forth the criteria for determining whether the manufacture of a medicated feed is in compliance with current good manufacturing practice. These regulations shall apply to all types of facilities and equipment used in the production of medicated feeds, and they shall also govern those instances in which failure to adhere to the regulations has caused nonmedicated feeds that are manufactured, processed, packed, or held to be adulterated. In such cases, the medicated feed shall be deemed to be adulterated within the meaning of section 501(a)(2)(B) of the act, and the nonmedicated feed shall be deemed to be adulterated within the meaning of section 402(a)(2)(C)(ii) of the act.
+
+(2) The regulations in §§ 225.10 through 225.115 apply to facilities manufacturing one or more medicated feeds for which an approved medicated feed mill license is required. The regulations in §§ 225.120 through 225.202 apply to facilities manufacturing solely medicated feeds for which an approved license is not required.
+
+(c) In addition to the recordkeeping requirements in this part, Type B and Type C medicated feeds made from Type A articles or Type B feeds under approved NADAs or indexed listings and a medicated feed mill license are subject to the requirements of § 510.301 of this chapter.
+
+[41 FR 52618, Nov. 30, 1976, as amended at 51 FR 7389, Mar. 3, 1986; 64 FR 63203, Nov. 19, 1999; 72 FR 69120, Dec. 6, 2007; 79 FR 3739, Jan. 23, 2014]

@@ -1,0 +1,5 @@
+##### § 72.26 Vesting of personal estate in United States. #####
+
+(a) If no claimant with a legal right to the personal estate comes forward within the period of five fiscal years beginning on October 1 after the consular officer took possession of the personal estate, title to the personal estate shall be conveyed to the United States, the property in the estate shall be under the custody of the Department, and the Department may dispose of the estate under as if it were surplus United States Government-owned property under title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 4811 *et seq.* or by such means as may be appropriate as determined by Department in its discretion in light of the nature and value of the property involved. The expenses of sales shall be paid from the estate, and any lawful claim received thereafter shall be payable to the extent of the value of the net proceeds of the estate as a refund from the appropriate Treasury appropriations account.
+
+(b) The net cash estate shall be transferred to the miscellaneous receipts account of the Treasury of the United States.

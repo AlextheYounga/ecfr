@@ -1,0 +1,3 @@
+##### § 46.234 Tax payment deadline. #####
+
+Section 701 of Public Law 111-3 specifies a tax payment deadline of August 1, 2009. However, section 5703(b)(2)(E) of the Internal Revenue Code requires that when a due date falls on a Saturday, Sunday or a legal holiday, the preceding day that is not a Saturday, Sunday or legal holiday will be the due date. Therefore, the floor stocks tax is due on July 31, 2009, since August 1, 2009, falls on a Saturday.

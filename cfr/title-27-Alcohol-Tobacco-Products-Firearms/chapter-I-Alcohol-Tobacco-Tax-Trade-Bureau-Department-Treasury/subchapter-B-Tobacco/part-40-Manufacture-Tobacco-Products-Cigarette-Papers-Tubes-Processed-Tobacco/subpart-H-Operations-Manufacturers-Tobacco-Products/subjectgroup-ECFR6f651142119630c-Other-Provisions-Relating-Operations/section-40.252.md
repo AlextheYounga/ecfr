@@ -1,0 +1,5 @@
+##### § 40.252 Reduction of tobacco products to materials. #####
+
+A manufacturer may reduce tobacco products to materials without supervision. If the tobacco products have been entered in the factory record as manufactured or received, an entry shall be made in such record of the quantity of pipe tobacco or roll-your-own tobacco and the kind and quantity of cigars, cigarettes, and smokeless tobacco reduced to materials and of the quantity of tobacco resulting from the reduction. Where the manufacturer intends to file claims for credit allowance, or refund of tax on such tobacco products, he shall comply with the provisions of §§ 40.311 and 40.313.
+
+[T.D. ATF-232, 51 FR 28082, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986, as amended by T.D. ATF-289, 54 FR 48840, Nov. 27, 1989; T.D. ATF-424, 64 FR 71931, Dec. 22, 1999]

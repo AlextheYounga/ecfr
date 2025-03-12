@@ -1,0 +1,9 @@
+##### § 215.3 Procedures for requests pertaining to individual records in a system of records. #####
+
+(a) Requests for notification of access to or amendment of Agency records contained in a system of records pertaining to an individual may be made in person or by mail as follows: For the International Development Cooperation Agency-Assistant Director for Administration, International Development Cooperation Agency, Room 4889 New State, 2201 C Street, NW., Washington, DC 20523 Attention: Privacy Liaison Officer. For the Agency for International Development-Privacy Liaison Officer, Agency for International Development, Room 4889 New State, 2201 C Street, NW., Washington, DC 20523.
+
+(b) Such request should include information necessary to identify the record, e.g., the individual's full name, date of birth, place of birth, present mailing address, or system of record identification name and number, if known, and, to facilitate the retrieval of records contained in those systems of records which are retrieved by social security numbers, the social security number of the individual to whom the record pertains.
+
+(c) With respect to a system of records which may be maintained by the Agency in offices outside the United States, an individual may inquire whether he or she is the subject of an Agency record or may request access to or amendment of such records by appearing in person or by writing to the Privacy Liaison Officer, Agency for International Development, at the overseas missions.
+
+(d) The Assistant Director for Administration for requests to I.D.C.A. or the appropriate Privacy Liaison Officer for request to A.I.D., or their designees shall, within ten (10) working days of receipt of the request, furnish in writing to the requesting individual notice of the existence or nonexistence of any records described in the request.

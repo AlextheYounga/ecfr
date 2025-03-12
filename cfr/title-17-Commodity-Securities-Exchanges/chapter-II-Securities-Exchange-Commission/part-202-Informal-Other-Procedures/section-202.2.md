@@ -1,0 +1,5 @@
+##### § 202.2 Pre-filing assistance and interpretative advice. #####
+
+The staff of the Commission renders interpretative and advisory assistance to members of the general public, prospective registrants, applicants and declarants. For example, persons having a question regarding the availability of an exemption may secure informal administrative interpretations of the applicable statute or rule as they relate to the particular facts and circumstances presented. Similarly, persons contemplating filings with the Commission may receive advice of a general nature as to the preparation thereof, including information as to the forms to be used and the scope of the items contained in the forms. Inquiries may be directed to an appropriate officer of the Commission's staff. In addition, informal discussions with members of the staff may be arranged whenever feasible, at the Commission's central office or, except in connection with certain matters under the Investment Company Act of 1940, at one of its regional offices.
+
+[25 FR 6736, July 15, 1960, as amended at 59 FR 5945, Feb. 9, 1994; 73 FR 32227, June 5, 2008; 76 FR 71875, Nov. 21, 2011]

@@ -1,0 +1,3 @@
+##### § 214.1 Purpose. #####
+
+The regulations in this part prescribe administrative guidelines and management controls for A.I.D. advisory committees. Federal Advisory Committees are governed by the provisions of the Federal Advisory Committee Act, Pub. L. 92-463 (effective January 5, 1973, hereinafter referred to as the Act); Executive Order No. 11769 (February 21, 1974) entitled “Committee Management;” OMB Circular A-63 (March 27, 1974, as amended).

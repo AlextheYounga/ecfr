@@ -1,0 +1,5 @@
+##### § 14.30 Chairperson of an advisory committee. #####
+
+(a) The advisory committee Chairperson has the authority to conduct hearings and meetings, including the authority to adjourn a hearing or meeting if the Chairperson determines that adjournment is in the public interest, to discontinue discussion of a matter, to conclude the open portion of a meeting, or to take any other action to further a fair and expeditious hearing or meeting.
+
+(b) If the Chairperson is not a full-time employee of FDA, the Designated Federal Officer or other designated agency employee, or alternate, is to be the *designated Federal employee* who is assigned to the advisory committee. The designated Federal employee is also authorized to adjourn a hearing or meeting if the employee determines adjournment to be in the public interest.

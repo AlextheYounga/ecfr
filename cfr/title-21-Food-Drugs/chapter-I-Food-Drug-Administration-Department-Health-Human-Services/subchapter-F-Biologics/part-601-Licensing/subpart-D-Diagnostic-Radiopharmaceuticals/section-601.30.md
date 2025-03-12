@@ -1,0 +1,3 @@
+##### § 601.30 Scope. #####
+
+This subpart applies to radiopharmaceuticals intended for in vivo administration for diagnostic and monitoring use. It does not apply to radiopharmaceuticals intended for therapeutic purposes. In situations where a particular radiopharmaceutical is proposed for both diagnostic and therapeutic uses, the radiopharmaceutical must be evaluated taking into account each intended use.

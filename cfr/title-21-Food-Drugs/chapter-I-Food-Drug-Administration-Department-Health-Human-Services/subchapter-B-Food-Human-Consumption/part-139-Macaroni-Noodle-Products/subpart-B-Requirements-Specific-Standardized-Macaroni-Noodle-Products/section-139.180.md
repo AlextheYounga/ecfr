@@ -1,0 +1,15 @@
+##### § 139.180 Wheat and soy noodle products. #####
+
+(a) Wheat and soy noodle products are the class of food each of which conforms to the definition and standard of identity and is subject to the requirements for label statement of ingredients prescribed for noodle products by § 139.150(a), (g), and (i), except that soy flour is added in a quantity not less than 12.5 percent of the combined weight of the wheat and soy ingredients used (the soy flour used is made from heat-processed, dehulled soybeans, with or without the removal of fat therefrom).
+
+(b) Wheat and soy noodles, wheat and soy egg noodles, is the wheat and soy noodle product the units of which are ribbon-shaped.
+
+(c) Wheat and soy egg macaroni is the wheat and soy noodle product the units of which conform to the specifications of shape and size prescribed for egg macaroni by § 139.150(c).
+
+(d) Wheat and soy egg spaghetti is the wheat and soy noodle product the units of which conform to the specifications of shape and size prescribed for egg spaghetti by § 139.150(d).
+
+(e) Wheat and soy egg vermicelli is the wheat and soy noodle product the units of which conform to the specifications of shape and size prescribed for egg vermicelli by § 139.150(e).
+
+(f) The name of each food for which a definition and standard of identity is prescribed by this section is “Wheat and soy noodle product”, “Wheat and soy egg noodle product”, “Wheat and soybean noodle product”, “Wheat and soybean egg noodle product”, “\_\_\_\_\_\_ and soy noodle product”, “\_\_\_\_\_\_ and soy egg noodle product”, “\_\_\_\_\_\_ and soybean noodle product”, or “\_\_\_\_\_\_ and soybean egg noodle product”, the blank in each instance being filled in with the name whereby the wheat ingredient used is designated in § 139.150(a); or alternatively, the name is “Wheat and soy noodles”, “Wheat and soy egg noodles”, “Wheat and soybean noodles”, “Wheat and soybean egg noodles”, “\_\_\_\_\_\_ and soy noodles”, “\_\_\_\_\_\_ and soy egg noodles”, “\_\_\_\_\_\_ and soybean noodles”, or “\_\_\_\_\_\_ and soybean egg noodles” when the units of the food comply with the requirements of paragraph (b) of this section; or “Wheat and soy egg macaroni”, “Wheat and soybean egg macaroni”, “\_\_\_\_\_\_ and soy egg macaroni”, or “\_\_\_\_\_\_ and soybean egg macaroni” when such units comply with the requirements of paragraph (c) of this section; or “Wheat and soy egg spaghetti”, “Wheat and soybean egg spaghetti”, “\_\_\_\_\_\_ and soy egg spaghetti”, or “\_\_\_\_\_\_ and soybean egg spaghetti” when such units comply with the requirements of paragraph (d) of this section; or “Wheat and soy egg vermicelli”, “Wheat and soybean egg vermicelli”, “\_\_\_\_\_\_ and soy egg vermicelli”, or “\_\_\_\_\_\_ and soybean egg vermicelli”, when such units comply with the requirements of paragraph (e) of this section, the blank in each instance being filled in with the name whereby the wheat ingredient used is designated in § 139.150(a).
+
+[42 FR 14409, Mar. 15, 1977, as amended at 58 FR 2879, Jan. 6, 1993]

@@ -1,0 +1,5 @@
+##### § 71.71 Adjudication based upon written submissions. #####
+
+The respondent may waive the hearing before the administrative law judge, and stipulate that the matter will be adjudicated by the appropriate TTB officer based upon written submissions. Written submissions may include stipulations of law or facts, proposed findings of fact and conclusions of law, briefs, or any other documentary material. The pleadings together with the written submissions of both the attorneys for the Government and the respondent shall constitute the record on which the initial decision shall be based. The election to contest the citation without a hearing under this section does not affect the respondent's right to appeal.
+
+[T.D. ATF-244, 51 FR 45763, Dec. 22, 1986, as amended by T.D. ATF-374, 61 FR 29957, June 13, 1996]

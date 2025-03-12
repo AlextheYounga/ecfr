@@ -1,0 +1,9 @@
+##### § 125.2 Exports of unclassified technical data. #####
+
+(a) *License.* A license (DSP-5) is required for the export of unclassified technical data unless the export is exempt from the licensing requirements of this subchapter. In the case of a plant visit, details of the proposed discussions must be transmitted to the Directorate of Defense Trade Controls for an appraisal of the technical data.
+
+(b) *Patents.* A license issued by the Directorate of Defense Trade Controls is required for the export of technical data whenever the data exceeds that which is used to support a domestic filing of a patent application or to support a foreign filing of a patent application whenever no domestic application has been filed. Requests for the filing of patent applications in a foreign country, and requests for the filing of amendments, modifications or supplements to such patents, should follow the regulations of the U.S. Patent and Trademark Office in accordance with 37 CFR part 5. The export of technical data to support the filing and processing of patent applications in foreign countries is subject to regulations issued by the U.S. Patent and Trademark Office pursuant to 35 U.S.C. 184.
+
+(c) *Disclosures.* Unless otherwise expressly exempted in this subchapter, a license is required for the oral, visual or documentary disclosure of technical data by U.S. persons to foreign persons. A license is required regardless of the manner in which the technical data is transmitted (e.g., in person, by telephone, correspondence, electronic means, etc.). A license is required for such disclosures by U.S. persons in connection with visits to foreign diplomatic missions and consular offices.
+
+[58 FR 39310, July 22, 1993, as amended at 71 FR 20544, Apr. 21, 2006; 81 FR 54737, Aug. 17, 2016]

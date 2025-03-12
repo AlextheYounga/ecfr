@@ -1,0 +1,15 @@
+##### § 128.15 Orders containing probationary periods. #####
+
+(a) *Revocation of probationary periods.* A debarment order may set a probationary period during which the order may be held in abeyance for all or part of the debarment period, subject to the conditions stated therein. The Deputy Assistant Secretary of State for Defense Trade Controls may apply, without notice to any person to be affected thereby, to the Administrative Law Judge for a recommendation on the appropriateness of revoking probation when it appears that the conditions of the probation have been breached. The facts in support of the application will be presented to the Administrative Law Judge, who will report thereon and make a recommendation to the Assistant Secretary of State for Political-Military Affairs. The latter will make a determination whether to revoke probation and will issue an appropriate order. The party affected by this action may request the Assistant Secretary of State for Political-Military Affairs to reconsider the decision by submitting a request within 10 days of the date of the order.
+
+(b) *Hearings*—(1) *Objections upon notice.* Any person affected by an application upon notice to revoke probation, within the time specified in the notice, may file objections with the Administrative Law Judge.
+
+(2) *Objections to order without notice.* Any person adversely affected by an order revoking probation, without notice may request that the order be set aside by filing his objections thereto with the Administrative Law Judge. The request will not stay the effective date of the order or revocation.
+
+(3) *Requirements for filing objections.* Objections filed with the Administrative Law Judge must be submitted in writing and in duplicate. A copy must be simultaneously submitted to the Directorate of Defense Trade Controls. Denials and admissions, as well as any mitigating circumstances, which the person affected intends to present must be set forth in or accompany the letter of objection and must be supported by evidence. A request for an oral hearing may be made at the time of filing objections.
+
+(4) *Determination.* The application and objections thereto will be referred to the Administrative Law Judge. An oral hearing if requested, will be conducted at an early convenient date, unless the objections filed raise no issues of material fact to be determined. The Administrative Law Judge will report the facts and make a recommendation to the Assistant Secretary for Political-Military Affairs, who will determine whether the application should be granted or denied and will issue an appropriate order. A copy of the order and of the Administrative Law Judge's report will be furnished to any person affected thereby.
+
+(5) *Effect of revocation on other actions.* The revocation of a probationary period will not preclude any other action concerning a further violation, even where revocation is based on the further violation.
+
+[61 FR 48834, Sept. 17, 1996, as amended at 71 FR 20552, Apr. 21, 2006; 78 FR 52689, Aug. 26, 2013; 79 FR 8089, Feb. 11, 2014]

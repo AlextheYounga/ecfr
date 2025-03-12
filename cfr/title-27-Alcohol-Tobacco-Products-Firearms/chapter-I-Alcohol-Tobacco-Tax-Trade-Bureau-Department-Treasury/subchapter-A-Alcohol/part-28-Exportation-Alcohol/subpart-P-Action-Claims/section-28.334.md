@@ -1,0 +1,5 @@
+##### § 28.334 Credit allowance. #####
+
+Where the credit relates to internal revenue taxes on beer that have been determined but not yet paid by the claimant, the appropriate TTB officer will notify the claimant in writing. Where the credit relates to tax determined distilled spirits, procedure for taking the credit shall be in accordance with the procedures set forth in part 19 of this chapter. Where the credit relates to tax-determined wines, procedure for taking the credit shall be in accordance with the procedures set forth in part 24 of this chapter. No credit may be given for drawback of the tax on beer nor may one class of tax be credited to another.
+
+(72 Stat. 1336; 26 U.S.C. 5062)[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-62, 44 FR 71726, Dec. 11, 1979; T.D. TTB-8, 69 FR 3835, Jan. 27, 2004]

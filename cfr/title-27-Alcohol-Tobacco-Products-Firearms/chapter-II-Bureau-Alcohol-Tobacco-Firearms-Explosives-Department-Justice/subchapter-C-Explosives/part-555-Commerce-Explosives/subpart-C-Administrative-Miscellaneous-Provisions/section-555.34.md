@@ -1,0 +1,5 @@
+##### § 555.34 Replacement of stolen or lost ATF Form 5400.30 (Intrastate Purchase of Explosives Coupon (IPEC)). #####
+
+When any Form 5400.30 is stolen, lost, or destroyed, the person losing possession will, upon discovery of the theft, loss, or destruction, immediately, but in all cases before 24 hours have elapsed since discovery, report the matter to the Director by telephoning 1-888-ATF-BOMB (nationwide toll free number). The report will explain in detail the circumstances of the theft, loss, or destruction and will include all known facts that may serve to identify the document. Upon receipt of the report, the Director will make such investigation as appears appropriate and may issue a duplicate document upon such conditions as the circumstances warrant.
+
+(Approved by the Office of Management and Budget under control number 1140-0077)[ATF No. 1, 68 FR 13783, Mar. 20, 2003]

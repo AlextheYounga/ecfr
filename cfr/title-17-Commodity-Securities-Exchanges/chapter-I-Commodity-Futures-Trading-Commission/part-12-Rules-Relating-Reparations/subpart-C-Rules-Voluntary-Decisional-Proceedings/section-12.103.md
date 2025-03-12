@@ -1,0 +1,3 @@
+##### § 12.103 Filing of documents; subscription; service. #####
+
+Except as otherwise specifically provided in these rules, all documents filed in a voluntary decisional proceeding, including (but not limited to) amended or supplemental pleadings, motions, discovery requests and responses thereto, and submissions of proof, shall meet the requirements of §§ 12.11 and 12.12 of the Reparation Rules as to form, and shall be filed and served in accordance with § 12.10 of the Reparation Rules.

@@ -1,0 +1,3 @@
+##### § 822.23 Is the information in my submission considered confidential? #####
+
+We consider the content of your submission confidential until we have approved your postmarket surveillance plan. After we have approved your plan, the contents of the original submission and any amendments, supplements, or reports may be disclosed in accordance with the Freedom of Information Act. We will continue to protect trade secret and confidential commercial information after your plan is approved. We will not disclose information identifying individual patients. You may wish to indicate in your submission which information you consider trade secret or confidential commercial.

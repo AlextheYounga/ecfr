@@ -1,0 +1,3 @@
+##### § 13.73 Effect of revocation. #####
+
+On and after the effective date of a revocation of a certificate of label approval, certificate or exemption from label approval, or distinctive liquor bottle approval, the label or distinctive liquor bottle in question may not be used to bottle or pack distilled spirits, wine or malt beverages, to remove such products from the place where they were bottled or packed, or to remove such products from customs custody for consumption.

@@ -1,0 +1,3 @@
+##### § 17.6 Ordinary and necessary living expenses. #####
+
+An individual's ordinary and necessary living expenses include rent, mortgage payments, utilities, maintenance, food, clothing, insurance (life, health and accident), taxes, installment payments, medical expenses, support expenses when the individual is legally responsible, and other miscellaneous expenses which the individual can establish as being ordinary and necessary.

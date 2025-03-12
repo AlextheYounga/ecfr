@@ -1,0 +1,5 @@
+##### § 24.120 Amended application. #####
+
+Where there is a change in any of the information included in the current approved application, the proprietor shall, within 30 days of the change (except as otherwise provided in this part), submit an amended application to the appropriate TTB officer and set forth the information necessary to make the application file accurate and current. Where the change affects only pages or parts of pages of the current application, as many complete pages as will enable the replacement of the pages affected and maintenance of the file as provided in § 24.117 will be submitted.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended (26 U.S.C. 5356))(Approved by the Office of Management and Budget under control number 1512-0058)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, Mar. 22, 1999]

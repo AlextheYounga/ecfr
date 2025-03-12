@@ -1,0 +1,7 @@
+##### § 120.220 What must I do to report an unlawful act and related activity? #####
+
+(a) Either you or the vessel security officer must report each breach of security, unlawful act, or threat of an unlawful act against any of your passenger vessels to which this part applies, or against any person aboard it, that occurs in a place subject to the jurisdiction of the United States. You must report the incident to both the COTP and to the local office of the Federal Bureau of Investigation (FBI). Also, if your vessel is a U.S.-flag vessel, you must report each such incident that occurs in a place outside the jurisdiction of the United States to the hotline of the Response Center of the Department of Homeland Security at 1-800-424-0201, or, from within metropolitan Washington, D.C., at 202-372-2428; Fax: 202-372-2920.
+
+(b) Either you or the vessel security officer must file a written report of the incident, using the form “Report on an Unlawful Act,” contained in IMO MSC Circular 443, which you or the officer must forward as soon as possible to Commandant (CG-MER), Attn: Office of Environmental Response Policy, U.S. Coast Guard Stop 7516, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7516. You may initially file the report with Commandant (CG-MER) by fax at (202) 267-4085 or -4065.
+
+[CGD91-012, 63 FR 53590, Oct. 6, 1998, as amended by USCG-2003-14505, 68 FR 9535, Feb. 28, 2003; USCG-2006-25150, 71 FR 39208, July 12, 2006; USCG-2010-0351, 75 FR 36283, June 25, 2010; USCG-2014-0410, 79 FR 38433, July 7, 2014]

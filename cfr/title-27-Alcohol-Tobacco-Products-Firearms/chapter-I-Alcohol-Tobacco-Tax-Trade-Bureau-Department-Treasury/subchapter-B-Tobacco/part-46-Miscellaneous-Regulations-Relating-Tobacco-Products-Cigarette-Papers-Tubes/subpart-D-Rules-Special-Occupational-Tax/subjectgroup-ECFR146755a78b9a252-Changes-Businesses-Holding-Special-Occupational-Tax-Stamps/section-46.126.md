@@ -1,0 +1,9 @@
+##### § 46.126 Change in name or address. #####
+
+(a) *Change in name.* If there is a change in the corporate or firm name, or in the trade name, as shown on TTB Form 5630.5t, the taxpayer must file an amended special tax return as soon as practicable after the change, covering the new corporate or firm name, or trade name. No new special tax is required to be paid. The taxpayer must attach the special tax stamp for endorsement of the change in name.
+
+(b) *Change in location*—(1) *General.* If there is a change in location of a taxable place of business, the taxpayer must, within 30 days after the change, file with TTB an amended special tax return covering the new location. The taxpayer must attach the special tax stamp or stamps for endorsement of the change in location. No new special tax is required to be paid. However, if the taxpayer does not file the amended return within 30 days, the taxpayer is required to pay a new special tax and obtain a new special tax stamp.
+
+(2) *Procedure.* If the taxpayer's original return on TTB Form 5630.5t covered only one location, the taxpayer may deliver the amended return and the stamp at any TTB office, or to any TTB officer inspecting the business, in lieu of mailing them to TTB. If the taxpayer's original return covered multiple locations under the provisions of § 46.101(b), he or she must forward with the amended return an attachment showing both the old and new address of any place of business which has been relocated, and the special tax stamp covering the location from which the business was removed. The appropriate TTB officer receiving such return or stamp will, if the return is submitted within the 30-day period, enter the proper endorsement on the stamp and return it to the taxpayer.
+
+(26 U.S.C. 5733, 7011)

@@ -1,0 +1,5 @@
+##### § 2.5 Imminent hazard to the public health. #####
+
+(a) Within the meaning of the Federal Food, Drug, and Cosmetic Act an imminent hazard to the public health is considered to exist when the evidence is sufficient to show that a product or practice, posing a significant threat of danger to health, creates a public health situation (1) that should be corrected immediately to prevent injury and (2) that should not be permitted to continue while a hearing or other formal proceeding is being held. The *imminent hazard* may be declared at any point in the chain of events which may ultimately result in harm to the public health. The occurrence of the final anticipated injury is not essential to establish that an *imminent hazard* of such occurrence exists.
+
+(b) In exercising his judgment on whether an *imminent hazard* exists, the Commissioner will consider the number of injuries anticipated and the nature, severity, and duration of the anticipated injury.

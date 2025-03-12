@@ -1,0 +1,3 @@
+##### § 6.10-5 Access to vessels and waterfront facilities. #####
+
+Any person on board any vessel or any person seeking access to any vessel or any waterfront facility within the jurisdiction of the United States may be required to carry identification credentials issued by or otherwise satisfactory to the Commandant. The Commandant may define and designate those categories of vessels and areas of the waterfront wherein such credentials are required.

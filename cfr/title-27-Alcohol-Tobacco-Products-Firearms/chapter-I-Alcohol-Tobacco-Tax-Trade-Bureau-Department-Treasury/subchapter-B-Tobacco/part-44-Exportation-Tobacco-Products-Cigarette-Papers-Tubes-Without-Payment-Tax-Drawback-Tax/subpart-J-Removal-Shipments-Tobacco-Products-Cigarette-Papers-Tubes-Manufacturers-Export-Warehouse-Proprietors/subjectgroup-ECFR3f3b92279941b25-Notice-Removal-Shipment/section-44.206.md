@@ -1,0 +1,5 @@
+##### § 44.206 To Government vessels and aircraft for consumption as supplies. #####
+
+Where tobacco products, and cigarette papers and tubes are removed from a factory or an export warehouse for direct delivery to a vessel or aircraft, engaged in an activity for the Government of the United States or a foreign government, for consumption as supplies beyond the jurisdiction of the internal revenue laws of the United States, the manufacturer or export warehouse proprietor making the shipment shall forward a copy of the notice of removal, Form 5200.14, to the officer of the vessel or aircraft authorized to receive the shipment. Upon execution by the receiving officer of the vessel or aircraft of the certificate of receipt on the copy of the notice of removal, he shall return such copy to the manufacturer or export warehouse proprietor making the shipment for filing with the appropriate TTB officer.
+
+(72 Stat. 1418, as amended; 26 U.S.C. 5704)[T.D. 6871, 31 FR 54, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28089, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-421, 64 FR 71926, Dec. 22, 1999]

@@ -1,0 +1,5 @@
+##### § 25.95 New bond. #####
+
+The appropriate TTB officer may at any time, at his or her discretion, require a new bond. A new bond is required immediately in the case of insolvency of a surety. Executors, administrators, assignees, receivers, trustees, or other persons acting in a fiduciary capacity shall execute a new bond or obtain a consent of surety on all bonds in effect. When the interests of the Government so demand, or in any case when the security of the bond becomes impaired for any reason, the principal will be required to give a new bond. When a bond is found to be not acceptable by the appropriate TTB officer, the principal will be required immediately to obtain a new and satisfactory bond or discontinue business.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1388, as amended (26 U.S.C. 5401))

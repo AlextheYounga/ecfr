@@ -1,0 +1,3 @@
+##### § 17.186 Transfer of distilled spirits to other containers. #####
+
+A manufacturer may transfer taxpaid distilled spirits from the original package to other containers at any time for the purpose of facilitating the manufacture of products unfit for beverage use. Containers into which distilled spirits have been transferred under this section shall bear a label identifying their contents as taxpaid distilled spirits, and shall be marked with the serial number of the original package from which the spirits were withdrawn.

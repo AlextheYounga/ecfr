@@ -1,0 +1,9 @@
+##### § 385.25 Program Management Plans. #####
+
+(a) *General requirements.* (1) The Corps of Engineers and the non-Federal sponsor shall, in consultation with the Department of the Interior, the Environmental Protection Agency, the Department of Commerce, the Seminole Tribe of Florida, the Miccosukee Tribe of Indians of Florida, the Florida Department of Environmental Protection, and other Federal, State, and local agencies, develop a Program Management Plan prior to initiating a program-level activity.
+
+(2) The Program Management Plan shall define the activities, and where appropriate, the subordinate tasks, as well as the assignment of responsibility for completing products developed in support to program-level activities.
+
+(3) In accordance with § 385.18, Corps of Engineers and the non-Federal sponsor shall provide opportunities for the public to review and comment on the Program Management Plan.
+
+(b) *Revisions to Program Management Plans.* The Corps of Engineers and the non-Federal sponsor may, in consultation with the Department of the Interior, the Environmental Protection Agency, the Department of Commerce, the Seminole Tribe of Florida, the Miccosukee Tribe of Indians of Florida, the Florida Department of Environmental Protection, and other Federal, State, and local agencies, revise the Program Management Plan whenever necessary to incorporate new or changed information that affects the scope, schedule, or budget of the activities described in the Program Management Plan. In accordance with § 385.18, the Corps of Engineers and the non-Federal sponsor shall provide opportunities for the public to review and comment on revisions to the Program Management Plan.

@@ -1,0 +1,5 @@
+##### § 3.55-15 Sector San Diego Marine Inspection Zone and Captain of the Port Zone. #####
+
+Sector San Diego's office is located in San Diego, CA. The boundaries of Sector San Diego's Marine Inspection Zone and Captain of the Port Zone start at a point near the intersection of Orange County and San Diego County and the coast at latitude 33°23′12″ N, longitude 117°35′45″ W, proceeding southwest to the outermost extent of the EEZ at latitude 32°01′17″ N, longitude 123°37′22″ W; thence south along the outermost extent of the EEZ to the intersection of the maritime boundary with Mexico at latitude 30°32′31″ N, longitude 121°51′58″ W; thence east along the maritime boundary with Mexico to its intersection with the California coast at latitude 32°32′03″ N, longitude 117°07′29″ W; thence including Imperial County and San Diego County in California; all of Arizona; Washington, Kane, San Juan, and Garfield Counties in Utah; and Clark County in Nevada.
+
+[USCG-2006-25556, 72 FR 36325, July 2, 2007]

@@ -1,0 +1,5 @@
+##### § 41.141 Reports. #####
+
+Every manufacturer of tobacco products or cigarette papers or tubes in the United States who receives Puerto Rican tobacco products or cigarette papers or tubes under its bond without payment of internal revenue tax must report the receipt and disposition of such tobacco products and cigarette papers and tubes on supplemental monthly reports. Such supplemental reports shall be made on Form 5210.5 or Form 2138 and shall have inserted thereon the heading, “Cigars and Cigarettes of Puerto Rican Manufacture” or “Cigarette Papers and Tubes of Puerto Rican Manufacture,” as the case may be. The original of such supplemental report shall be attached to the manufacturer's regular monthly report when filed.
+
+(72 Stat. 1422; 26 U.S.C. 5722)[T.D. 6871, 31 FR 46, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975; T.D. ATF-232, 51 FR 28086, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-424, 64 FR 71933, Dec. 22, 1999; T.D. ATF-422, 64 FR 71951, Dec. 22, 1999; 78 FR 38570, June 27, 2013]

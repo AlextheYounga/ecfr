@@ -1,0 +1,3 @@
+##### § 329.3 General policies. #####
+
+Precise definitions of “navigable waters of the United States” or “navigability” are ultimately dependent on judicial interpretation and cannot be made conclusively by administrative agencies. However, the policies and criteria contained in this regulation are in close conformance with the tests used by Federal courts and determinations made under this regulation are considered binding in regard to the activities of the Corps of Engineers.

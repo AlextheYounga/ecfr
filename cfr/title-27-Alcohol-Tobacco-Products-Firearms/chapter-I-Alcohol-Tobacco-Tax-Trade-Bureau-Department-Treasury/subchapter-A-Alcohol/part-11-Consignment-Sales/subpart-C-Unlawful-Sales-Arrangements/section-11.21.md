@@ -1,0 +1,3 @@
+##### § 11.21 General. #####
+
+It is unlawful for an industry member to sell, offer for sale, or contract to sell to any trade buyer, or for any such trade buyer to purchase, offer to purchase, or contract to purchase any products (a) on consignment; or (b) under conditional sale; or (c) with the privilege of return; or (d) on any basis other than a bona fide sale; or (e) if any part of the sale involves, directly or indirectly, the acquisition by such person of other products from the trade buyer or the agreement to acquire other products from the trade buyer. Transactions involving the bona fide return of products for ordinary and usual commercial reasons arising after the product has been sold are not prohibited.

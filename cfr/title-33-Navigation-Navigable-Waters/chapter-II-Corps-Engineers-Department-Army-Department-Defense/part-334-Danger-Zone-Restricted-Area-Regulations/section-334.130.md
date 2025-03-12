@@ -1,0 +1,19 @@
+##### § 334.130 Atlantic Ocean off Wallops Island and Chincoteague Inlet, Va.; danger zone. #####
+
+(a) *The area.* An area immediately behind and directly offshore from Wallops Island defined by lines drawn as follows: Beginning at latitude 37°53′00″ N, longitude 75°29′48″ W; thence to latitude 37°53′03″ N, longitude 74°50′52″ W; thence to latitude 37°38′28″ N, longitude 74°51′48″ W; thence to latitude 37°22′00″ N, longitude 75°09′35″ W; thence to latitude 37°19′11″ N, longitude 75°30′00″ W; thence to latitude 37°47′57″ N, longitude 75°32′19″ W; and thence to latitude 37°53′00″ N, longitude 75°29′48″ W.
+
+(b) *The regulations.* (1) Persons and vessels shall only be prohibited from entering the area when launch operations are being conducted.
+
+(2) In advance of scheduled launch operations which, in the opinion of the enforcing agency, may be dangerous to persons and watercraft, appropriate warnings will be issued to navigation interests through official government and civilian channels or in such other manner as the District Engineer, U.S. Army Corps of Engineers, may direct. Such warnings will specify the location, time, and duration of operations, and give other pertinent information as may be required in the interests of safety. Announcement of area of closure will appear in the weekly “Notice to Mariners.”
+
+(3) The intent to conduct rocket-launching operations in the area shall also be indicated by visual signals consisting of a large orange-colored “blimp-shaped” balloon by day and a rotating alternately red and white beacon by night. The balloon shall be flown at latitude 37°50′38″ N, longitude 75°28′47″ W and the beacon shall be displayed about 200 feet above mean high water at latitude 37°50′16″ N, longitude 75°29′07″ W. The appropriate signals shall be displayed 30 minutes prior to rocket-launching time and shall remain displayed until the danger no longer exists.
+
+(4) In addition to visual signals and prior to conducting launch operations, the area will be patrolled by aircraft or surface vessels and monitored by radars and cameras to ensure no persons or watercraft are within the danger zone or designated area of interest within the danger zone. Patrol aircraft and surface vessels are equipped with marine band radios and may attempt to hail watercraft and request that they leave the designated area and remain clear of the area at a safe distance until launch operations are complete, and launch will not occur until the designated area is clear. Patrol aircraft may also employ the method of warning known as “buzzing” which consists of low flight by the airplane and repeated opening and closing of the throttle. Surveillance vessels may also come close to watercraft and employ flashing light to establish communications to indicate that the watercraft is entering the designated hazard area.
+
+(5) Any watercraft being so warned shall immediately leave the designated area until the conclusion of launch operations, and shall remain at a distance to ensure that it will be safe from falling debris.
+
+(6) Nothing in this regulation shall be intended to prevent commercial fishing or the lawful use of approved waterfowl hunting blinds along the shorelines of the Wallops Flight Facility at Wallops Island, Virginia, provided that all necessary licenses and permits have been obtained from the Virginia Marine Resources Commission, Virginia Department of Game and Inland Fisheries, and U.S. Fish and Wildlife Service. Commercial fishermen and waterfowl hunters must observe all warnings and range clearances during hazardous range operations.
+
+(c) *Enforcement.* The regulations in this section shall be enforced by the Director, National Aeronautics and Space Administration, Goddard Space Flight Center, Wallops Flight Facility Wallops Island, Va., or such agencies as he or she may designate.
+
+[77 FR 61722, Oct. 11, 2012]

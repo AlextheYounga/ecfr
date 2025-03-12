@@ -1,0 +1,7 @@
+##### § 1502.9 Processing of requests. #####
+
+(a) *Processing.* A person who has made a written request for records which meets the requirements of § 1502.4 shall be informed by the Director of A&F within ten working days of receipt of the Foundation's decision whether to deny or grant access to the records.
+
+(b) *Denials.* If the Director of A&F, with the concurrence of the General Counsel, denies a request for records, the requestor will be informed of the name and title of the official responsible for the denial, the reasons for it, and the right to appeal the decision to the President of the Foundation within 15 working days of receipt of the denial. The President shall determine any appeal within 20 days of receipt and notify the requestor within the time period of the decision. If the decision is to uphold the denial, the requestor will be informed of the reasons for the decision and of the right to a judicial review of the decision in the federal courts.
+
+(c) *Extension of time.* Where it is reasonably necessary to the proper processing of requests, the time required to respond to an FOIA request or an appeal may be extended for an additional 10 working days upon written notification to the requestor providing the reasons for the extension.

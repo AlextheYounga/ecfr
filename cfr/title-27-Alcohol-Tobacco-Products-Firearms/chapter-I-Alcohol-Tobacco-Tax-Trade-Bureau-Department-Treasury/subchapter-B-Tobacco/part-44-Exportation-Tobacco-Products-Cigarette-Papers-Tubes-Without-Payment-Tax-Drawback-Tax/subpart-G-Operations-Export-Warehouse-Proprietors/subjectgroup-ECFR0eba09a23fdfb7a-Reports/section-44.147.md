@@ -1,0 +1,5 @@
+##### § 44.147 General. #####
+
+Every export warehouse proprietor shall make a report on Form 5220.4 of all tobacco products, cigarette papers and tubes, and any processed tobacco on hand, received, removed, transferred, and lost or destroyed. Such report shall be made at the times specified in this subpart and shall be made whether or not any operations or transactions occurred during the period covered by the report. A copy of each report shall be retained by the export warehouse proprietor at his warehouse for 3 years following the close of the calendar year covered in such reports, and made available for inspection by any appropriate TTB officer upon his request.
+
+(72 Stat. 1422; 26 U.S.C. 5722)[T.D. 6871, 31 FR 51, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975; T.D. ATF-232, 51 FR 28088, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-421, 64 FR 71925, Dec. 22, 1999; T.D. ATF-424, 64 FR 71933, Dec. 22, 1999; T.D. ATF-480, 67 FR 30802, May 8, 2002; T.D. TTB-78, 74 FR 29419, June 22, 2009]

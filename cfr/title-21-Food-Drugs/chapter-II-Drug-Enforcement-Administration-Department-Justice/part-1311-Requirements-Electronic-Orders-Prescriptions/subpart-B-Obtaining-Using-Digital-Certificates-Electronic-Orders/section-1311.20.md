@@ -1,0 +1,13 @@
+##### § 1311.20 Coordinators for CSOS digital certificate holders. #####
+
+(a) Each registrant, regardless of number of digital certificates issued, must designate one or more responsible persons to serve as that registrant's CSOS coordinator regarding issues pertaining to issuance of, revocation of, and changes to digital certificates issued under that registrant's DEA registration. While the coordinator will be the main point of contact between one or more DEA registered locations and the CSOS Certification Authority, all digital certificate activities are the responsibility of the registrant with whom the digital certificate is associated. Even when an individual registrant, *i.e.*, an individual practitioner, is applying for a digital certificate to order controlled substances a CSOS Coordinator must be designated; though in such a case, the individual practitioner may also serve as the coordinator.
+
+(b) Once designated, coordinators must identify themselves, on a one-time basis, to the Certification Authority. If a designated coordinator changes, the Certification Authority must be notified of the change and the new responsibilities assumed by each of the registrant's coordinators, if applicable. Coordinators must complete the application that the DEA Certification Authority provides and submit the following:
+
+(1) Two copies of identification, one of which must be a government-issued photographic identification.
+
+(2) A copy of each current DEA Certificate of Registration (DEA form 223) for each registered location for which the coordinator will be responsible or, if the applicant (or their employer) has not been issued a DEA registration, a copy of each application for registration of the applicant or the applicant's employer.
+
+(3) The applicant must have the completed application notarized and forward the completed application and accompanying documentation to the DEA Certification Authority.
+
+(c) Coordinators will communicate with the Certification Authority regarding digital certificate applications, renewals and revocations. For applicants applying for a digital certificate from the DEA Certification Authority, and for applicants applying for a power of attorney digital certificate for a DEA registrant, the registrant's Coordinator must verify the applicant's identity, review the application package, and submit the completed package to the Certification Authority.

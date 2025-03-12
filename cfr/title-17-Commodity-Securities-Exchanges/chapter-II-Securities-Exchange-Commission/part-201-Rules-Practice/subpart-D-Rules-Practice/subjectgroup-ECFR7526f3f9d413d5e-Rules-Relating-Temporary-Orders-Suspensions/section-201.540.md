@@ -1,0 +1,5 @@
+##### § 201.540 Appeal and Commission review of initial decision making a temporary order permanent. #####
+
+(a) *Petition for review.* Any person who seeks Commission review of an initial decision as to whether a temporary sanction shall be made permanent shall file a petition for review pursuant to § 201.410, provided, however, that the petition must be filed within 10 days after service of the initial decision.
+
+(b) *Review procedure.* If the Commission determines to grant or order review, it shall issue a briefing schedule order pursuant to § 201.450. Unless otherwise ordered by the Commission, opening briefs shall be filed within 21 days of the order granting or ordering review, and opposition briefs shall be filed within 14 days after opening briefs are filed. Reply briefs shall be filed within seven days after opposition briefs are filed. Oral argument, if granted by the Commission, shall be held within 90 days of the issuance of the briefing schedule order.

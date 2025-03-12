@@ -1,0 +1,15 @@
+##### § 5.37 Alcohol content. #####
+
+(a) *Statements* - (1) *Mandatory statement.* The alcohol content for distilled spirits shall be stated in percent-alcohol-by-volume. Products such as “Rock and Rye. or similar products containing a significant amount of solid material shall state the alcohol content at the time of bottling as follows: “Bottled at \_\_\_ percent-alcohol-by-volume.”
+
+(2) *Optional statement.* In addition, the label may also state the alcohol content in degrees of proof if this information appears in direct conjunction (*i.e.*, with no intervening material) with the statement expressed in percent-alcohol-by-volume. If both forms of alcohol content are shown, the optional statement in degrees of proof shall be placed in parentheses, in brackets, or otherwise distinguished from the mandatory statement in percent-alcohol-by-by-volume to emphasize the fact that both expressions of alcohol content mean the same thing.
+
+(b) *Tolerances.* The following tolerances shall be allowed (without affecting the labeled statement of alcohol content) for losses of alcohol content occurring during bottling:
+
+(1) Not to exceed 0.25 percent alcohol by volume for spirits containing solids in excess of 600 mg per 100 ml; or
+
+(2) Not to exceed 0.25 percent alcohol by volume for any spirits product bottled in 50 or 100 ml size bottles; or
+
+(3) Not to exceed 0.15 percent alcohol by volume for all other spirits.
+
+(Approved by the Office of Management and Budget under Control Number 1512-0482)(Sec. 201, Pub. L. 85-859, 72 Stat. 1394, as amended (26 U.S.C. 5301(a)); 49 Stat. 917, as amended (27 U.S.C. 205(e))[T.D. ATF-237, 51 FR 36394, Oct. 10, 1986, as amended by T.D. ATF-288, 54 FR 47769, Nov. 17, 1989]

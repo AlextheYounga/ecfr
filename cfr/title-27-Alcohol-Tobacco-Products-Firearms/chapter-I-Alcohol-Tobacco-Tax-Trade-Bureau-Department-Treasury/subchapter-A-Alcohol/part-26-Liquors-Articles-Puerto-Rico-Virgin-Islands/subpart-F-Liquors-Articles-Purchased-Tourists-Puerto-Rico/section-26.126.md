@@ -1,0 +1,5 @@
+##### § 26.126 Taxpayment in Puerto Rico. #####
+
+Liquors upon which all Federal internal revenue taxes have been paid in Puerto Rico may be brought into the United States for personal consumption without payment of additional taxes. When distilled spirits, wines, or beer are purchased by a tourist for consumption in the United States, the internal revenue tax due may be paid to the appropriate TTB officer, and a TTB receipt obtained, or the tax may be paid to the U.S. Customs authorities, who will issue a customs receipt. The tax on articles purchased by tourists may be paid in the same manner. The receipt received from the appropriate TTB officer or from the customs officer shall be presented, as required, as evidence that the tax has been paid.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1335, as amended, 1358, as amended (26 U.S.C. 5061, 5205))[T.D. ATF-206, 50 FR 23954, June 7, 1985, as amended by T.D. ATF-251, 52 FR 19339, May 22, 1987; T.D. TTB-91, 76 FR 5479, Feb. 1, 2011]

@@ -1,0 +1,13 @@
+##### § 240.15d-18 Compliance with servicing criteria for asset-backed securities. #####
+
+(a) This section applies to every class of asset-backed securities subject to the reporting requirements of section 15(d) of the Act (15 U.S.C. 78o(d)). Terms used in this section have the same meaning as in Item 1101 of Regulation AB (§ 229.1101 of this chapter).
+
+(b) *Reports on assessments of compliance with servicing criteria for asset-backed securities required.* With regard to a class of asset-backed securities subject to the reporting requirements of section 15(d) of the Act, the annual report on Form 10-K (§ 249.308 of this chapter) for such class must include from each party participating in the servicing function a report regarding its assessment of compliance with the servicing criteria specified in paragraph (d) of Item 1122 of Regulation AB (§ 229.1122(d) of this chapter), as of and for the period ending the end of each fiscal year, with respect to asset-backed securities transactions taken as a whole involving the party participating in the servicing function and that are backed by the same asset type backing the class of asset-backed securities (including the asset-backed securities transaction that is to be the subject of the report on Form 10-K for that fiscal year).
+
+(c) *Attestation reports on assessments of compliance with servicing criteria for asset-backed securities required.* With respect to each report included pursuant to paragraph (b) of this section, the annual report on Form 10-K must also include a report by a registered public accounting firm that attests to, and reports on, the assessment made by the asserting party. The attestation report on assessment of compliance with servicing criteria for asset-backed securities must be made in accordance with standards for attestation engagements issued or adopted by the Public Company Accounting Oversight Board.
+
+Note to § 240.15d-18:
+
+If multiple parties are participating in the servicing function, a separate assessment report and attestation report must be included for each party participating in the servicing function. A party participating in the servicing function means any entity (e.g., master servicer, primary servicers, trustees) that is performing activities that address the criteria in paragraph (d) of Item 1122 of Regulation AB (§ 229.1122(d) of this chapter), unless such entity's activities relate only to 5% or less of the pool assets.
+
+[70 FR 1622, Jan. 7, 2005]

@@ -1,0 +1,5 @@
+##### § 830.350 Correction of information submitted to the Global Unique Device Identification Database. #####
+
+(a) If FDA becomes aware that any information submitted to the Global Unique Device Identification Database (GUDID) appears to be incorrect or potentially misleading, we may notify the labeler of the specific information that appears to be incorrect, and request that the labeler provide corrected information or explain why the information is correct. The labeler must provide corrected information or provide a satisfactory explanation of why the information is correct within 30 days of receipt of FDA's notification.
+
+(b) If the labeler does not respond to FDA's notification within 30 days of receipt, or if FDA determines, at any time, that any information in the GUDID is incorrect or could be misleading, we may delete or correct the information. Any action taken by FDA under this paragraph does not relieve the labeler of its responsibility under paragraph (a) of this section to provide corrected information or an explanation of why the information previously submitted is correct.

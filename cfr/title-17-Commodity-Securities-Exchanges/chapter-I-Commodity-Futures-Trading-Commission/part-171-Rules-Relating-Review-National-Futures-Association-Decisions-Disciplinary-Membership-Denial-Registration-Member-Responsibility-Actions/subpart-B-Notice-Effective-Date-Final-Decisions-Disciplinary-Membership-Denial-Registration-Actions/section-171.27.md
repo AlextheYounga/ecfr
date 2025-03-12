@@ -1,0 +1,5 @@
+##### § 171.27 Limited participation by interested persons. #####
+
+(a) Upon motion of any interested person or, on its own motion, the Commission may permit, or solicit, limited participation in the proceeding by such interested person. A motion for leave to participate in the proceeding shall be filed promptly, shall identify the interest of that person and shall show why participation in the proceeding by that person would serve the public interest. If the Commission determines that participation would serve the public interest, it shall by order establish a supplementary briefing schedule for the interested person and the parties to the proceeding.
+
+(b) For purposes of this subsection, *interested person* shall include parties and any other persons who might be adversely affected or aggrieved by the outcome of a proceeding; their officers, agents, employees, associates, affiliates, attorneys, accountants or other representatives; and any other person having a direct or indirect pecuniary or other interest in the outcome of a proceeding.

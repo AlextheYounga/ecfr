@@ -1,0 +1,3 @@
+##### § 1006.140 How do I know if a person is excluded? #####
+
+Check the *Excluded Parties List System (EPLS)* to determine whether a person is excluded. The General Services Administration (GSA) maintains the *EPLS* and makes it available, as detailed in subpart E of this part. When a Federal agency takes an action to exclude a person under the nonprocurement or procurement debarment and suspension system, the agency enters the information about the excluded person into the *EPLS.*

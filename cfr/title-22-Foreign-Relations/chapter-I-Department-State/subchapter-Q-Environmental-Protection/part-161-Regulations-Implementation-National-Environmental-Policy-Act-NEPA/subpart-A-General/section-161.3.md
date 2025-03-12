@@ -1,0 +1,3 @@
+##### § 161.3 Applicability. #####
+
+The provisions of these regulations apply to decisions on all Departmental actions which may affect the quality of the environment within the United States. The Department is establishing separate environmental review procedures under Executive Order 12114 (January 4, 1979) for actions having potential effects on the environment of global commons or areas outside the jurisdiction of any nation, or on the environment of foreign nations.

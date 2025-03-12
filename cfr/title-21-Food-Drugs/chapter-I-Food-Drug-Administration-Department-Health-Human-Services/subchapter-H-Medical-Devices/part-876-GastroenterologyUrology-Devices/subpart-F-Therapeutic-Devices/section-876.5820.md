@@ -1,0 +1,17 @@
+##### § 876.5820 Hemodialysis system and accessories. #####
+
+(a) *Identification.* A hemodialysis system and accessories is a device that is used as an artificial kidney system for the treatment of patients with renal failure or toxemic conditions and that consists of an extracorporeal blood system, a conventional dialyzer, a dialysate delivery system, and accessories. Blood from a patient flows through the tubing of the extracorporeal blood system and accessories to the blood compartment of the dialyzer, then returns through further tubing of the extracorporeal blood system to the patient. The dialyzer has two compartments that are separated by a semipermeable membrane. While the blood is in the blood compartment, undesirable substances in the blood pass through the semipermeable membrane into the dialysate in the dialysate compartment. The dialysate delivery system controls and monitors the dialysate circulating through the dialysate compartment of the dialyzer.
+
+(1) The extracorporeal blood system and accessories consists of tubing, pumps, pressure monitors, air foam or bubble detectors, and alarms to keep blood moving safely from the blood access device and accessories for hemodialysis (§ 876.5540) to the blood compartment of the dialyzer and back to the patient.
+
+(2) The conventional dialyzer allows a transfer of water and solutes between the blood and the dialysate through the semipermeable membrane. The semipermeable membrane of the conventional dialyzer has a sufficiently low permeability to water that an ultrafiltration controller is not required to prevent excessive loss of water from the patient's blood. This conventional dialyzer does not include hemodialyzers with the disposable inserts (Kiil type) (§ 876.5830) or dialyzers of high permeability (§ 876.5860).
+
+(3) The dialysate delivery system consists of mechanisms that monitor and control the temperature, conductivity, flow rate, and pressure of the dialysate and circulates dialysate through the dialysate compartment of the dialyzer. The dialysate delivery system includes the dialysate concentrate for hemodialysis (liquid or powder) and alarms to indicate abnormal dialysate conditions. This dialysate delivery system does not include the sorbent regenerated dialysate delivery system for hemodialysis (§ 876.5600), the dialysate delivery system of the peritoneal dialysis system and accessories (§ 876.5630), or the controlled dialysate delivery system of the high permeability hemodialysis system § 876.5860).
+
+(4) Remote accessories to the hemodialysis system include the unpowered dialysis chair without a scale, the powered dialysis chair without a scale, the dialyzer holder set, dialysis tie gun and ties, and hemodialysis start/stop tray.
+
+(b) *Classification.* (1) Class II (performance standards) for hemodialysis systems and all accessories directly associated with the extracorporeal blood system and the dialysate delivery system.
+
+(2) Class I for other accessories of the hemodialysis system remote from the extracorporeal blood system and the dialysate delivery system, such as the unpowered dialysis chair, hemodialysis start/stop tray, dialyzer holder set, and dialysis tie gun and ties. The devices subject to this paragraph (b)(2) are exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 876.9.
+
+[48 FR 53023, Nov. 23, 1983, as amended at 54 FR 25050, June 12, 1989; 66 FR 38802, July 25, 2001]

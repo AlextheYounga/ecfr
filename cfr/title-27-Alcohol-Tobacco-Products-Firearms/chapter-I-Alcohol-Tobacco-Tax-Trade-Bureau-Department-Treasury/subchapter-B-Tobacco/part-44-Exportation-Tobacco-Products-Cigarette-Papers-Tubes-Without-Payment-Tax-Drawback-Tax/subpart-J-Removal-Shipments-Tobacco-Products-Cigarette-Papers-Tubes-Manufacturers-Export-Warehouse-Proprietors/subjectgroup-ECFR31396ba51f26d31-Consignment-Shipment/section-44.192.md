@@ -1,0 +1,5 @@
+##### § 44.192 To vessels and aircraft for shipment to noncontiguous foreign countries and possessions of the United States. #####
+
+Where tobacco products, and cigarette papers and tubes are removed from a factory or an export warehouse, for direct delivery to a vessel or aircraft for transportation to a noncontiguous foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, the manufacturer or export warehouse proprietor shall consign the shipment directly to the vessel or aircraft, or to his agent at the port for delivery to the vessel or aircraft.
+
+(72 Stat. 1418, as amended; 26 U.S.C. 5704)[T.D. 6871, 31 FR 52, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28088, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986]

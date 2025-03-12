@@ -1,0 +1,5 @@
+##### § 52.24 Evidence and burden of proof. #####
+
+(a) It is the responsibility of the applicant to procure and submit with his or her application such evidence, including official records, as the applicant desires to present in support of his or her case. All such evidence should be submitted with the applicant's DD Form 149 in accordance with § 52.21(c)(1). Evidence submitted by an applicant after an application has been filed and docketed shall be considered late and its acceptance is subject to the provisions in § 52.26(a)(4) and (c).
+
+(b) The Board begins its consideration of each case presuming administrative regularity on the part of Coast Guard and other Government officials. The applicant has the burden of proving the existence of an error or injustice by the preponderance of the evidence.

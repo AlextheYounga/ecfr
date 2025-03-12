@@ -1,0 +1,5 @@
+##### § 28.23 Reciprocating foreign countries. #####
+
+The appropriate TTB officer may approve applications relating to the withdrawal or lading of liquors for use on aircraft of those foreign countries which will allow, to aircraft registered in the United States and engaged in foreign trade, privileges substantially reciprocal to the privileges allowed herein to aircraft of a foreign country. Where application is made to withdraw or lade liquors for use on aircraft of other countries, which it is claimed reciprocate similar privileges to aircraft of the United States, the applicant must first establish the right of such withdrawal or lading. In appropriate cases, the applicant should request the Secretary of Commerce to find and advise the Secretary of the Treasury that such foreign country or countries allow, or will allow, substantially reciprocal privileges to aircraft of the United States.
+
+(46 Stat. 690, as amended; 19 U.S.C. 1309)[25 FR 5734, June 23, 1960, as amended by T.D. 7006, 34 FR 2251, Feb. 15, 1969. Redesignated at 40 FR 16835, Apr. 15, 1975 and amended by T.D. TTB-8, 69 FR 3831, Jan. 27, 2004]

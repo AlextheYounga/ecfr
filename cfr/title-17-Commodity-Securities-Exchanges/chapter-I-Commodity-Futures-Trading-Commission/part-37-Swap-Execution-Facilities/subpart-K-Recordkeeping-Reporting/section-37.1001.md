@@ -1,0 +1,3 @@
+##### § 37.1001 Recordkeeping. #####
+
+A swap execution facility shall maintain records of all activities relating to the business of the facility, in a form and manner acceptable to the Commission, for a period of at least five years. A swap execution facility shall maintain such records, including a complete audit trail for all swaps executed on or subject to the rules of the swap execution facility, investigatory files, and disciplinary files, in accordance with the requirements of § 1.31 and part 45 of this chapter.

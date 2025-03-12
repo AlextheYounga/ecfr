@@ -1,0 +1,3 @@
+##### § 230.490 Information to be furnished under paragraph (3) of Schedule B. #####
+
+Any issuer filing a registration statement pursuant to Schedule B of the act need not furnish the detailed information specified in paragraph (3) as to issues of outstanding funded debt the aggregate amount of which outstanding is less than 5 percent of the total funded debt outstanding and to be created by the security to be offered, provided the amount thereof is included in the statement of the total amount of funded debt outstanding and a statement is made as to the title, amount outstanding, rate of interest, and date of maturity of each such issue.

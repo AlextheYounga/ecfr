@@ -1,0 +1,5 @@
+##### § 201.16 Drugs; Spanish-language version of certain required statements. #####
+
+An increasing number of medications restricted to prescription use only are being labeled solely in Spanish for distribution in the Commonwealth of Puerto Rico where Spanish is the predominant language. Such labeling is authorized under § 201.15(c). One required warning, the wording of which is fixed by law in the English language, could be translated in various ways, from literal translation to loose interpretation. The statutory nature of this warning requires that the translation convey the meaning properly to avoid confusion and dilution of the purpose of the warning. Section 503(b)(4) of the Federal Food, Drug, and Cosmetic Act requires, at a minimum, that the label bear the statement “Rx only.” The Spanish-language version of this must be “Solamente Rx”.
+
+[67 FR 4906, Feb. 1, 2002]

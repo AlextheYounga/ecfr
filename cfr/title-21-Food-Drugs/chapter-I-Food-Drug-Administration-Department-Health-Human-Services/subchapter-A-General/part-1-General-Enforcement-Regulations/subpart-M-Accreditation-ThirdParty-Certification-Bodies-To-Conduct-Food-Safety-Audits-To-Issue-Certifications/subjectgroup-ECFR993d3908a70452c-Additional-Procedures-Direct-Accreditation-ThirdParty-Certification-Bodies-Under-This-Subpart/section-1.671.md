@@ -1,0 +1,17 @@
+##### § 1.671 How will FDA review my application for direct accreditation or renewal of direct accreditation and what happens once FDA decides on my application? #####
+
+(a) *Review of a direct accreditation or renewal application.* FDA will examine a third-party certification body's direct accreditation or renewal application for completeness and notify the applicant of any deficiencies. FDA will review applications for direct accreditation and for renewal of direct accreditation on a first in, first out basis according to the date the completed submission is received; however, FDA may prioritize the review of specific applications to meet the needs of the program.
+
+(b) *Evaluation of a direct accreditation or renewal application.* FDA will evaluate any completed application to determine whether the applicant meets the requirements for direct accreditation under this subpart. If FDA does not reach a final decision on a renewal application before the expiration of the direct accreditation, FDA may extend the duration of such direct accreditation for a specified period of time or until the Agency reaches a final decision on the renewal application.
+
+(c) *Notice of approval or denial.* FDA will notify the applicant that its direct accreditation or renewal application has been approved through issuance of or denied.
+
+(d) *Issuance of direct accreditation.* If an application has been approved, the issuance of the direct accreditation that will list any limitations associated with the accreditation.
+
+(e) *Issuance of denial of direct accreditation.* If FDA issues a denial of direct accreditation or denial of a renewal application, the issuance of the denial of direct accreditation will state the basis for such denial and provide the procedures for requesting reconsideration of the application under § 1.691.
+
+(f) *Notice of records custodian after denial of application for renewal of direct accreditation.* An applicant whose renewal application was denied must notify FDA electronically, in English, within 10 business days of the date of issuance of a denial of a renewal application, of the name and contact information of the custodian who will maintain the records required by § 1.658(a) and make them available to FDA as required by § 1.658(b) and (c). The contact information for the custodian must include, at a minimum, an email address and the physical address where the records required by § 1.658(b) will be located.
+
+(g) *Effect of denial of renewal of direct accreditation on food or facility certifications issued to eligible entities.* A food or facility certification issued by an accredited third-party certification body prior to issuance of the denial of its renewal application will remain in effect until the certification expires. If FDA has reason to believe that a certification issued for purposes of section 801(q) or 806 of the FD&C Act is not valid or reliable, FDA may refuse to consider the certification in determining the admissibility of the article of food for which the certification was offered or in determining the importer's eligibility for participation in VQIP.
+
+(h) *Public notice of denial of renewal of direct accreditation.* FDA will provide notice on the Web site described in § 1.690 of the issuance of a denial of renewal application for direct accreditation under this subpart.

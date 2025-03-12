@@ -1,0 +1,5 @@
+##### § 72.68 Sale on sealed, competitive bids. #####
+
+If the property or carrier is to be sold to the highest bidder on sealed, competitive bids, the notice of sale shall so specify, and shall state the date, hour, and place of sale, and the date, hour, and place before the sale when and where the property, including carriers, may be viewed by prospective sealed bidders, and necessary information obtained. All sealed bids must be filed with the Director or his delegate before the sale. No bids will be accepted after the sale starts. At the appointed date, hour, and place of sale, all sealed bids timely filed shall be opened in the presence of all bidders attending the sale, who shall have the privilege of inspecting the bids if they so desire.
+
+[T.D. ATF-9, 39 FR 9954, Mar. 15, 1974, as amended by T.D. ATF-183, 49 FR 37061, Sept. 21, 1984]

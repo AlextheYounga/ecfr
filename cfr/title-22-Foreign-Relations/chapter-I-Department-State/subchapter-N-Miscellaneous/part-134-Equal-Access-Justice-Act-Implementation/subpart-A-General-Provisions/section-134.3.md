@@ -1,0 +1,7 @@
+##### § 134.3 Proceedings covered. #####
+
+(a) The Act applies to adversary adjudications conducted by the Department of State. These are adjudications under 5 U.S.C. 554 in which the position of the Department of State is presented by an attorney or other representative who enters an appearance and participates in the proceeding. For the Department of State, the type of proceeding covered are proceedings relative to controlling export of defense articles through administrative sanctions pursuant to 22 U.S.C. 2778 and 50 U.S.C. App. 2410 (c)(2)(B).
+
+(b) The Department of State may also designate a proceeding not listed in paragraph (a) of this section as an adversary adjudication for purposes of the Act by so stating in an order initiating the proceeding or designating the matter for hearing. The failure to designate a proceeding as an adversary adjudication shall not preclude the filing of an application by a party who believes the proceeding is covered by the Act; whether the proceeding is covered will then be an issue for resolution in proceedings on the application.
+
+(c) If a proceeding includes matters covered by the Act and matters specifically excluded from coverage, any award made will include only fees and expenses related to covered issues.

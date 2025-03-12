@@ -1,0 +1,3 @@
+##### § 71.82 Stipulations at hearing. #####
+
+If there has been no prehearing conference under § 71.66, the administrative law judge shall at the beginning of the hearing, require that the parties attempt to arrive at such stipulations as will eliminate the necessity of taking evidence with respect to allegations of fact concerning which there is no substantial dispute. The administrative law judge should take similar action, where it appears appropriate, throughout the hearing and should call and conduct any conferences which he deems advisable with a view to the simplification, clarification, and disposition of any of the issues involved.

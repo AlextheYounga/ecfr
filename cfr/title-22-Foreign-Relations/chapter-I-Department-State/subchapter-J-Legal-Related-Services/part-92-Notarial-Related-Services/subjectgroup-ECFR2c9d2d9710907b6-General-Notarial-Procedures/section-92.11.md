@@ -1,0 +1,7 @@
+##### § 92.11 Preparation of legal documents. #####
+
+(a) *By attorneys.* When a document has been prepared by an attorney for signature, a notarizing officer should not question the form of document unless it is obviously incorrect.
+
+(b) *By notarizing officers.* A notarizing officer should not usually prepare for private persons legal documents for signature and notarization. (However, see the provisions in § 92.24 regarding the preparation of affidavits.) When asked to perform such a service, the notarizing officer should explain that the preparation of legal forms is normally the task of an attorney, that the forms used and the purposes for which they are used vary widely from jurisdiction to jurisdiction and that he could not guarantee the legal effectiveness of any document which he might prepare. The person desiring the preparation of a legal document should be referred to such publications as Jones Legal Forms and The Lawyers Directory with the suggestion that he select or adapt the form which appears best suited to his needs. The notarizing officer may, in his discretion, arrange to have a member of his office staff type the document. If the document is typed in the Foreign Service office, the fee for copying shall be collected as prescribed under the caption “Copying and Recording” of the Tariff of Fees, Foreign Service of the United States of America (§ 22.1 of this chapter).
+
+[22 FR 10858, Dec. 27, 1957, as amended at 60 FR 51723, Oct. 3, 1995]

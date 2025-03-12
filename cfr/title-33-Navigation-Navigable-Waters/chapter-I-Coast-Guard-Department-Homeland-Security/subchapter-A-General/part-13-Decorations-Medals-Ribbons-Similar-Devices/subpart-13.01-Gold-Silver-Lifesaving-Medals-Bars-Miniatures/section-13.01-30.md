@@ -1,0 +1,5 @@
+##### § 13.01-30 Description of Silver Lifesaving Medal. #####
+
+(a) The Silver Lifesaving Medal is 99 percent pure silver and consists of a pendant suspended by a swivel from the head of an eagle attached to a silk grogram ribbon 1 and3/8ths inches in width, composed of a3/16ths of an inch blue stripe, a1/32d of an inch white stripe, a15/16ths of an inch silver gray stripe, a1/32d of an inch white stripe, and a3/32ds of an inch blue stripe. The pendant is 1 and7/16ths inches in diameter and3/32ds of an inch in thickness. On the obverse side of the pendant there appears the figure of a woman hovering over a man struggling in heavy sea and extending to him one end of a long scarf; the whole is encircled by the words: “United States of America”, in the upper half, and “Act of Congress, August 4, 1949”, in the lower half. On the reverse there appears a laurel wreath encircled by the words: “In testimony of heroic deeds in saving life from the perils of the water.”
+
+(b) Engraving: Before presentation, the recipient's name shall be inscribed inside the laurel wreath, on the reverse of the medal.

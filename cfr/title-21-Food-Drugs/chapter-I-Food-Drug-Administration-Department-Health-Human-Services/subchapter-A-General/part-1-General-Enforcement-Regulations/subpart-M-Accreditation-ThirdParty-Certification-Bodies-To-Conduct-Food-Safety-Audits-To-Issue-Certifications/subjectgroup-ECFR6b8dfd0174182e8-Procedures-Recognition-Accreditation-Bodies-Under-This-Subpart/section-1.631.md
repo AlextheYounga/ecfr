@@ -1,0 +1,23 @@
+##### § 1.631 How will FDA review my application for recognition or renewal of recognition and what happens once FDA decides on my application? #####
+
+(a) *Review of recognition or renewal application.* FDA will examine an accreditation body's recognition or renewal application for completeness and notify the applicant of any deficiencies. FDA will review an accreditation body's recognition or renewal application on a first in, first out basis according to the date on which the completed application was submitted; however, FDA may prioritize the review of specific applications to meet the needs of the program.
+
+(b) *Evaluation of recognition or renewal.* FDA will evaluate any completed recognition or renewal application to determine whether the applicant meets the applicable requirements of this subpart. Such evaluation may include an onsite assessment of the accreditation body. FDA will notify the applicant, in writing, regarding whether the application has been approved or denied. FDA may make such notification electronically. If FDA does not reach a final decision on a renewal application before an accreditation body's recognition terminates by expiration, FDA may extend such recognition for a specified period of time or until the Agency reaches a final decision on the renewal application.
+
+(c) *Issuance of recognition.* FDA will notify an applicant that its recognition or renewal application has been approved through issuance of recognition that will list any limitations associated with the recognition.
+
+(d) *Issuance of denial of recognition or renewal application.* FDA will notify an applicant that its recognition or renewal application has been denied through issuance of a denial of recognition or denial of a renewal application that will state the basis for such denial and provide the procedures for requesting reconsideration of the application under § 1.691.
+
+(e) *Notice of records custodian after denial of an application for renewal of recognition.* An applicant whose renewal application was denied must notify FDA electronically, in English, within 10 business days of the date of issuance of a denial of a renewal application, of the name and contact information of the custodian who will maintain the records required by § 1.625(a) and make them available to FDA as required by § 1.625(b). The contact information for the custodian must include, at a minimum, an email address and the physical address where the records required by § 1.625(a) will be located.
+
+(f) *Effect of denial of an application for renewal of recognition of an accreditation body on accredited third-party certification bodies.* (1) FDA will issue a notice of the denial of a recognition renewal to any third-party certification bodies accredited by the accreditation body whose renewal application was denied. The third-party certification body's accreditation will remain in effect so long as the third-party certification body:
+
+(i) No later than 60 days after FDA's issuance of the notice of the denial of recognition renewal, conducts a self-assessment under § 1.655 and reports the results of the self-assessment to FDA under § 1.656(b); and
+
+(ii) No later than 1 year after issuance of the notice of denial of recognition renewal or the original date of the expiration of the accreditation, whichever comes first, becomes accredited by another recognized accreditation body or by FDA through direct accreditation.
+
+(2) FDA may withdraw the accreditation of a third-party certification body whenever FDA determines there is good cause for withdrawal of accreditation under § 1.664(c).
+
+(g) *Effect of denial of an application for renewal of recognition of an accreditation body on food or facility certifications issued to eligible entities.* A food or facility certification issued by a third-party certification body accredited by a recognized accreditation body prior to issuance of a denial of the renewal application will remain in effect until the certification expires. If FDA has reason to believe that a certification issued for purposes of section 801(q) or 806 of the FD&C Act is not valid or reliable, FDA may refuse to consider the certification in determining the admissibility of the article of food for which the certification was offered or in determining the importer's eligibility for participation in the voluntary qualified importer program (VQIP).
+
+(h) *Public notice of denial of an application for renewal of recognition of an accreditation body.* FDA will provide notice on the Web site described in § 1.690 of the date of issuance of a denial of a renewal application and will describe the basis for the denial.

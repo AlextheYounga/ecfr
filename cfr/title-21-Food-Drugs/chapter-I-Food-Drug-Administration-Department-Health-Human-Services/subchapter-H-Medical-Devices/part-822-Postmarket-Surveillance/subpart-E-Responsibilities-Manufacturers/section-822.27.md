@@ -1,0 +1,3 @@
+##### § 822.27 If I go out of business, what must I do? #####
+
+You must notify us within 30 days of the date of your decision to close your business. You should provide the expected date of closure and discuss your plans to complete or terminate postmarket surveillance of your device. You must also identify who will retain the records related to the surveillance (described in subpart G of this part) and where the records will be kept.

@@ -1,0 +1,3 @@
+##### § 26.304 Bulk conveyances to be sealed. #####
+
+When a shipment of distilled spirits from customs custody to the distilled spirits plant is made in a tank, tank barge, cargo container, tank car, tank truck, or similar bulk conveyance, all openings affording access to the spirits shall be sealed by the customs officer with customs seals in such manner as will prevent unauthorized removal of spirits through such openings without detection.

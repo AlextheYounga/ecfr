@@ -1,0 +1,9 @@
+##### § 240.12g-2 Securities deemed to be registered pursuant to section 12(g)(1) upon termination of exemption pursuant to section 12(g)(2)(A) or (B). #####
+
+Any class of securities that would have been required to be registered pursuant to section 12(g)(1) of the Act (15 U.S.C. 78*l*(g)(1)) except for the fact that it was exempt from such registration by section 12(g)(2)(A) of the Act (15 U.S.C. 78*l*(g)(2)(A)) because it was listed and registered on a national securities exchange, or by section 12(g)(2)(B) of the Act (15 U.S.C. 78*l*(g)(2)(B)) because it was issued by an investment company registered pursuant to section 8 of the Investment Company Act of 1940 (15 U.S.C. 80a-8), shall upon the termination of the listing and registration of such class or the termination of the registration of such company and without the filing of an additional registration statement be deemed to be registered pursuant to section 12(g)(1) of the Act if at the time of such termination:
+
+(a) The issuer of such class of securities has elected to be regulated as a business development company pursuant to sections 55 through 65 of the Investment Company Act of 1940 (15 U.S.C. 80a-54 through 64) and such election has not been withdrawn; or
+
+(b) Securities of the class are not exempt from such registration pursuant to section 12 of the Act (15 U.S.C. 78*l*) or rules thereunder and all securities of such class are held of record by 300 or more persons, or 1,200 or more persons in the case of a bank; a savings and loan holding company, as such term is defined in section 10 of the Home Owners' Loan Act (12 U.S.C. 1461); or a bank holding company, as such term is defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841).
+
+[81 FR 28705, May 10, 2016]

@@ -1,0 +1,7 @@
+##### § 401.2 Exemption for depository institutions that submit tenders for the account of customers for purchase on original issue of United States Treasury securities. #####
+
+(a) Subject to the requirements of paragraph (b) of this section, a depository institution that submits tenders or subscriptions for purchase on original issue of United States Treasury securities for the account of customers on a fully disclosed basis, whose transactions in government securities are limited to such transactions and such other activities as have been exempted by regulation under this subchapter shall be exempt from the provisions of section 15C (a), (b) and (d) of the Act (15 U.S.C. 78o-5 (a), (b), (d)) and the regulations of this subchapter.
+
+(b) A depository institution that relies on the exemption contained in paragraph (a) of this section is required to comply with the regulations of part 450 of this chapter concerning custodial holdings of government securities.
+
+(c) For the purposes of this section, “depository institution” has the meaning stated in clauses (i) through (vi) of section 19(b)(1)(A) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)(i)-(vi)) and also includes a foreign bank, an agency or branch of a foreign bank and a commercial lending company owned or controlled by a foreign bank (as such terms are used in the International Banking Act of 1978, Pub. L. 95-369, 92 Stat. 607).

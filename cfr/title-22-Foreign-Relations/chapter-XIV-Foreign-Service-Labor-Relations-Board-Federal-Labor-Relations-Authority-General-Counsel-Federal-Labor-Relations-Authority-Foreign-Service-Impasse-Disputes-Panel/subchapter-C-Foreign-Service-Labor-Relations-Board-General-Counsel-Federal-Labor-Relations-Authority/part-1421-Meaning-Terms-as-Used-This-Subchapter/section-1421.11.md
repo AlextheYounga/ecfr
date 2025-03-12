@@ -1,0 +1,3 @@
+##### § 1421.11 Party. #####
+
+*Party* means (a) any person: (1) Filing a charge, petition, or request; (2) named in a charge, complaint, petition, or request; (3) whose intervention in a proceeding has been permitted or directed by the Board; (4) who participated as a party (i) in a matter that was decided by an agency head under 22 U.S.C. 4105 or (ii) in a matter where action by the Grievance Board was taken; and (b) the General Counsel, or the General Counsel's designated representative, in appropriate proceedings.

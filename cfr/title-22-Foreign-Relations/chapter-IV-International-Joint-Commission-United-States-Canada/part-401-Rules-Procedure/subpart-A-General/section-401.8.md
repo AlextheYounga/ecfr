@@ -1,0 +1,3 @@
+##### § 401.8 Decision by the whole Commission. #####
+
+The whole Commission shall consider and determine any matter or question which the Treaty or any other treaty or international agreement, either in terms or by implication, requires or makes it the duty of the Commission to determine. For the purposes of this section and § 401.7, “the whole Commission” means all of the commissioners appointed pursuant to Article VII of the Treaty whose terms of office have not expired and who are not prevented by serious illness or other circumstances beyond their control from carrying out their functions as commissioners. In no event shall a decision be made without the concurrence of at least four commissioners.

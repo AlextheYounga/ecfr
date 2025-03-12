@@ -1,0 +1,3 @@
+##### § 1.70 Scope. #####
+
+This subpart specifies the data elements that are required by the Food and Drug Administration (FDA) to be included in an electronic import entry submitted in the Automated Commercial Environment (ACE) system or any other U.S. Customs and Border Protection (CBP)-authorized electronic data interchange (EDI) system, which contains an article that is being imported or offered for import into the United States and that is regulated by FDA.

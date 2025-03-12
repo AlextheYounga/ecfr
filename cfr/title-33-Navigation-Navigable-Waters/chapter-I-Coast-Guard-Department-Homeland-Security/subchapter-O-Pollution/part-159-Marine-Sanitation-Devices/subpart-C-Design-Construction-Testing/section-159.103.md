@@ -1,0 +1,3 @@
+##### § 159.103 Vibration test. #####
+
+The device, with liquid retention components, if any, filled with water to one-half of their volume, must be subjected to a sinusoidal vibration for a period of 12 hours, 4 hours in each of the x, y, and z planes, at the resonant frequency of the device (or at 55 cycles per second if there is no resonant frequency between 10 to 60 hertz) and with a peak amplitude of 0.019 to 0.021 inches.

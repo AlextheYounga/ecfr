@@ -1,0 +1,5 @@
+##### § 9a.2 General policy. #####
+
+(a) The United States has entered into the Agreement on an International Energy Program of November 18, 1974, which created the International Energy Agency (IEA). This program is a substantial factor in the conduct of our foreign relations and an important element of our national security. The effectiveness of the Agreement depends significantly upon the provision and exchange of information and material by participants in advisory bodies created by the IEA. Confidentiality is essential to assure the free and open discussion necessary to accomplish the tasks assigned to those bodies.
+
+(b) These regulations establish procedures for the classification, declassification, storage, access, and dissemination of certain information related to the International Energy Program.

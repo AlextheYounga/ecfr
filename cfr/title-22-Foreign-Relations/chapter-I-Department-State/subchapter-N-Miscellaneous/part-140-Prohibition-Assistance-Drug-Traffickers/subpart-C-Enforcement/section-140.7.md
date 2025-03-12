@@ -1,0 +1,11 @@
+##### § 140.7 Multilateral institutions and international organizations. #####
+
+Assistance provided to or through multilateral institutions or international organizations is subject to this part as follows:
+
+(a) Where the government agency providing assistance has reasonable grounds to suspect that a recipient multilateral institution or international organization may be or may have been involved in drug trafficking, the provisions of § 140.6 shall apply.
+
+(b) Where the government agency providing assistance designates the recipient of assistance from the multilateral institution or international organization and the designated recipient is a covered individual or entity, the provisions of this part shall apply as if the assistance were provided directly to the designated recipient.
+
+(c) Where the government agency providing assistance does not designate the recipient of assistance from the multilateral institution or international organization, this part do not apply, other than as provided in paragraph (a) of this section, except that the agency's agreement with the multilateral institution or international organization shall stipulate that such entity is to make reasonable efforts, as necessary, to ensure that the assistance is not diverted in support of drug trafficking.
+
+Example:The State Department provides $600,000 to the United Nations for the United Nations Drug Control Program, specifically designating that Government D of a covered country receive $150,000 and Corporation E receive $60,000 for training programs in a covered country. Individuals who will receive training are not specifically designated by the State Department. The United Nations is a covered entity based on § 140.4(a)(1); Government D is a covered entity based on §§ 140.4(b) and 140.7(b); Corporation E is not a covered entity under §§ 140.4(b) and 140.7(b) because it has been designated to receive less than $100,000 in assistance (§ 140.3(c)(2)). Participant trainees are not covered individuals because they fall under the exception contained in § 140.7(c) (see also § 140.4(a)(2)).

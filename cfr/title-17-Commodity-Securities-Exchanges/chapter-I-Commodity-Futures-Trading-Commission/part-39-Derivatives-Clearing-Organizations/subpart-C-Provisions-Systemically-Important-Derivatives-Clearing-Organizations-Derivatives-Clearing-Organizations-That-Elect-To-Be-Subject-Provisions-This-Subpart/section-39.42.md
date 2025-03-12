@@ -1,0 +1,3 @@
+##### § 39.42 Advance notice of material risk-related rule changes by systemically important derivatives clearing organizations. #####
+
+A systemically important derivatives clearing organization shall provide notice to the Commission in advance of any proposed change to its rules, procedures, or operations that could materially affect the nature or level of risks presented by the systemically important derivatives clearing organization, in accordance with the requirements of § 40.10 of this chapter.

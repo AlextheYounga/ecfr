@@ -1,0 +1,3 @@
+##### § 120.9 Legal basis. #####
+
+Failure of a processor to have and to implement a Hazard Analysis and Critical Control Point (HACCP) system that complies with §§ 120.6, 120.7, and 120.8, or otherwise to operate in accordance with the requirements of this part, shall render the juice products of that processor adulterated under section 402(a)(4) of the Federal Food, Drug, and Cosmetic Act. Whether a processor's actions are consistent with ensuring the safety of juice will be determined through an evaluation of the processor's overall implementation of its HACCP system.

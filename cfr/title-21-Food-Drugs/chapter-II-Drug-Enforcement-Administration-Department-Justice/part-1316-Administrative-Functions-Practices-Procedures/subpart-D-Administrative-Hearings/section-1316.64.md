@@ -1,0 +1,3 @@
+##### § 1316.64 Proposed findings of fact and conclusions of law. #####
+
+Any party in the hearing may file in quintuplicate proposed findings of fact and conclusions of law within the time fixed by the presiding officer. Any party so filing shall also serve one copy of his proposed findings and conclusion upon each other party in the hearing. The party shall include a statement of supporting reasons for the proposed findings and conclusions, together with evidence of record (including specific and complete citations of the pages of the transcript and exhibits) and citations of authorities relied upon.

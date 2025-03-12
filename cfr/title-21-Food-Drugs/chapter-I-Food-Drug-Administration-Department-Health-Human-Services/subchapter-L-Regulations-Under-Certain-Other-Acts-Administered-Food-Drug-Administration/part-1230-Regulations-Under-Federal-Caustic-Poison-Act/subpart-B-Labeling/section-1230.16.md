@@ -1,0 +1,3 @@
+##### § 1230.16 Exemption from labeling directions for treatment. #####
+
+Manufacturers and wholesalers only, at the time of shipment or delivery for shipment, are exempted from placing directions for treatment on the label or sticker of any container for other than household use, but in any event the information required by section 2(b) (1), (2), and (3) of the act (44 Stat. 1407; 15 U.S.C. 402) and the regulations in this part shall be given.

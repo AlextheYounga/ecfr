@@ -1,0 +1,3 @@
+##### § 221.42 Notice. #####
+
+Any communication to A.I.D. pursuant to this Guarantee shall be in writing in the English language, shall refer to the Israel Loan Guarantee Number inscribed on the Eligible Note and shall be complete on the day it shall be actually received by A.I.D. at the Office of Housing and Urban Programs, Bureau for Private Enterprise, Agency for International Development, Washington, DC 20523-0030. Other addresses may be substituted for the above upon the giving of notice of such substitution to each Noteholder by first class mail at the address set forth in the Note Register.

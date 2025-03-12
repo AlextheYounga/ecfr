@@ -1,0 +1,7 @@
+##### § 505.7 Correction or amendment of record. #####
+
+(a) You have the right to request that we amend a record pertaining to you which you believe is not accurate, relevant, timely, or complete. At the time we grant access to a record, we will furnish guidelines for you to request amendment to the record.
+
+(b) Requests for amendments to records must be in writing and mailed or delivered to the FOIA/Privacy Act Officer, FOIA/Privacy Act Office, Office of the General Counsel, Broadcasting Board of Governors, Suite 3349, 330 Independence Avenue, SW, Washington, DC 20237, who will coordinate the review of the request to amend the record with the appropriate office(s). Such requests must contain, at a minimum, identifying information needed to locate the record, a brief description of the item or items of information to be amended, and the reason for the requested change. The requester should submit as much documentation, arguments or other data as seems warranted to support the request for amendment.
+
+(c) We will review all requests for amendments to records within 20 working days of receipt of the request and either make the changes or inform you of our refusal to do so and the reasons.

@@ -1,0 +1,5 @@
+##### § 24.306 Distilling material or vinegar stock record. #####
+
+A proprietor who produces or receives wine containing excess water which will be used expressly as distilling material or vinegar stock shall maintain a record by transaction date showing the amount and kind produced, received, from whom received, removed, and to whom sent. The proprietor shall keep a record of each type of material from which the distilling material or vinegar stock was fermented (e.g., grape, apple, strawberry). The volume of distilling material or vinegar stock produced, including wine lees refermented for use as distilling material, will be recorded upon removal from fermenting tanks. However, the provisions of this section do not apply to standard wine or unwatered wine lees recorded on the proprietor's record of bulk still wine and removed for use as distilling material or vinegar stock.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367))(Approved by the Office of Management and Budget under control number 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31083, July 9, 1991]

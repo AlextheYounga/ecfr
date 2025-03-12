@@ -1,0 +1,7 @@
+##### § 97.120 Cargo securing manuals. #####
+
+(a) Any vessel to which this subpart applies must have a cargo securing manual (CSM) on board that has been approved by the government of the country whose flag the vessel is entitled to fly; and a CSM approved after June 30, 2010, must, at a minimum, meet the guidelines in MSC.1/Circ. 1353/Rev.1, (incorporated by reference, see 33 CFR 97.110).
+
+(b) A container vessel with a keel laid on or after January 1, 2015, must include a cargo safe access plan that, at a minimum, meets the guidelines in MSC.1/Circ.1352, Annex 14, Guidance on Providing Safe Working Conditions for Securing of Containers on Deck (incorporated by reference, see 33 CFR 97.110).
+
+(c) While operating in waters under the jurisdiction of the United States, the Coast Guard may board any vessel to which this subpart applies to determine that the vessel has the document(s) required by paragraph (a) of this section on board. Any foreign-flagged vessel found not to be in compliance with paragraph (a) of this section may be detained by order of the Captain of the Port at the port or terminal where the noncompliance is found until the COTP determines that the vessel can go to sea without presenting an unreasonable threat of harm to the port, the marine environment, the vessel, or its crew.

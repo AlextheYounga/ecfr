@@ -1,0 +1,5 @@
+##### § 40.402 Two or more corporate sureties. #####
+
+A bond executed by two or more corporate sureties shall be the joint and several liability of the principal and the sureties. However, each corporate surety may limit its liability in terms upon the face of the bond in a definite, specific amount, which amount shall not exceed the limitations prescribed for such corporate surety by the Secretary, as set forth in the current revision of Treasury Department Circular 570 (Companies Holding Certificates of Authority as Acceptable Sureties on Federal Bonds and as Acceptable Reinsuring Companies). (See § 40.401(c)) When the sureties so limit their liability, the aggregate of such limited liabilities must equal the required amount of the bond.
+
+(July 30, 1947, ch. 390, 61 Stat. 648, as amended (31 U.S.C. 9304, 9306); sec. 202. Pub. L. 85-859, 72 Stat. 1421, as amended (26 U.S.C. 5711))

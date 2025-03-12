@@ -1,0 +1,5 @@
+##### § 28.104 Certificates of origin. #####
+
+The entry of distilled spirits at ports in certain foreign countries is permitted only upon the filing by the importer of an official certificate showing the origin and age of such spirits. An appropriate TTB officer may, on request of the applicant, furnish a certificate showing the origin and age of the spirits described on TTB Forms 5100.11 or 5110.30. Such officer may require supporting documentation to be provided by the applicant. Certificates of origin and age shall be furnished on Form 2177 (5110.58). Form 2177 (5110.58) may also be issued for distilled spirits removed to a foreign-trade zone, in which case the number and location of the foreign-trade zone shall be shown on the form in lieu of the name of the foreign country.
+
+[T.D. ATF-198, 50 FR 8560, Mar. 1, 1985, as amended by T.D. TTB-8, 69 FR 3832, Jan. 27, 2004]

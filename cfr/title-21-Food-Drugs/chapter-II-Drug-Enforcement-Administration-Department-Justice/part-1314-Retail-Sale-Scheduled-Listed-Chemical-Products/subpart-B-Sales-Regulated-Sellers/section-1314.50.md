@@ -1,0 +1,3 @@
+##### § 1314.50 Employment measures. #####
+
+A regulated seller may take reasonable measures to guard against employing individuals who may present a risk with respect to the theft and diversion of scheduled listed chemical products, which may include, notwithstanding State law, asking applicants for employment whether they have been convicted of any crime involving or related to such products or controlled substances.

@@ -1,0 +1,3 @@
+##### § 204.14 Transferability of guaranty; Note Register. #####
+
+The Lender of any Assignee may assign, transfer or pledge the Eligible Notes to any Eligible Investor. Any such assignment, transfer or pledge shall be effective on the date that the name of the new Assignee is entered on the Note Register required to be maintained by the Paying Agent pursuant to the Paying and Transfer Agency Agreement. A.I.D. shall be entitled to treat the persons in whose names the Eligible Notes are registered as the owners thereof for all purposes of this Guaranty and A.I.D. shall not be affected by notice to the contrary.

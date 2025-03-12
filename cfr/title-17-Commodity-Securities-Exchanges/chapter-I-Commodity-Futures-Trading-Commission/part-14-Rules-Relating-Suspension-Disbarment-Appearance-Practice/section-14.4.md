@@ -1,0 +1,3 @@
+##### § 14.4 Violation of Commodity Exchange Act. #####
+
+The Commission may deny, temporarily or permanently, the privilege of appearing or practicing before it in any way to any person who is found by the Commission, after notice of and opportunity for hearing in the matter, to have violated, caused, or aided and abetted any violation of the Commodity Exchange Act, as amended, 7 U.S.C. 1 *et seq.,* or the rules and regulations adopted thereunder.

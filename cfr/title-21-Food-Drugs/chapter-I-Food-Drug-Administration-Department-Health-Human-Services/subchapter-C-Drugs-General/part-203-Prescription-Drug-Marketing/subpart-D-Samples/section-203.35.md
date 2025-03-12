@@ -1,0 +1,3 @@
+##### § 203.35 Standing requests. #####
+
+Manufacturers or authorized distributors of record shall not distribute drug samples on the basis of open-ended or standing requests, but shall require separate written requests for each drug sample or group of samples. An arrangement by which a licensed practitioner requests in writing that a specified number of drug samples be delivered over a period of not more than 6 months, with the actual delivery dates for parts of the order to be set by subsequent oral communication or electronic transmission, is not considered to be a standing request.

@@ -1,0 +1,3 @@
+##### § 385.4 Limitation on applicability of programmatic regulations. #####
+
+In accordance with section 601(h)(3)(c)(ii) of WRDA 2000, this part expressly prohibits “the requirement for concurrence by the Secretary of the Interior or the Governor on Project Implementation Reports, Project Cooperation Agreements, Operating Manuals for individual projects undertaken in the Plan, and any other documents relating to the development, implementation, and management of individual features of the Plan, unless such concurrence is provided for in other Federal or State laws.”

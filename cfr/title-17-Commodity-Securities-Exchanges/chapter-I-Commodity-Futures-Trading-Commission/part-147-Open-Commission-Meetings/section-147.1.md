@@ -1,0 +1,5 @@
+##### § 147.1 General policy considerations, purpose and scope of rules relating to open Commission meetings. #####
+
+(a) This part contains the rules of the Commodity Futures Trading Commission implementing the open meeting requirements of the Government in the Sunshine Act (Pub. L. 94-409, 90 Stat. 1241, 5 U.S.C. 552b). These rules apply to all deliberations of a quorum of the Commission which determine or result in the conduct or disposition of official Commission business, with the exception of deliberations required or permitted by § 147.4, § 147.5 or § 147.6.
+
+(b) Among the primary purposes of these rules is the Commission's desire to inform the public to the fullest extent possible of its activities as an aid to its properly carrying out its responsibility for administrating and enforcing the Commodity Exchange Act, as amended, 7 U.S.C. 1 *et seq.,* and the Commission's belief that, in order to guarantee public confidence in the integrity of its decision-making, it must, to the fullest possible extent, conduct its business in an open manner.

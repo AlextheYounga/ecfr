@@ -1,0 +1,13 @@
+##### § 118.85 Lights on vertical lift bridges. #####
+
+(a) *Lift span lights.* The vertical lift span of every vertical lift bridge shall be lighted so that the center of the navigable channel under the span will be marked by a range of two green lights when the vertical lift span is open for navigation, and by one red light on each side for all other positions of the lift span. The green lights shall each show through a horizontal arc of 360°; they shall be securely mounted just below the outermost edge of the bridge span structure so as to be visible from an approaching vessel. Each red light shall show through a horizontal arc of 180°, and shall be securely mounted just below the outermost edge of the lift span to show 90° on either side of the line parallel to the axis of the channel so that only one such light will be visible from an approaching vessel.
+
+Note:
+
+Until such time that major repairs to or replacement of lift span navigation lights are made, it is permitted that these lights show through a horizontal arc of not more than 60°. When major repairs to or replacement of such existing lights are made they shall conform with this paragraph.
+
+(b) *Pier lights.* Every vertical lift bridge shall be lighted so that each end of every pier in or adjacent to navigable channels under the lift span, or each end of every protection pier when provided, will be marked by a red light. Each such light shall show through a horizontal arc of 180°, and shall be securely mounted as low as practicable on the end of the pier, or the protection pier, to show 90° on either side of a line parallel to the axis of the navigable channel so as to be visible from an approaching vessel.
+
+(c) *Axis lights.* Every lift bridge which has at least one pier provided with a protection pier shall be lighted so that the intersection of the lift span axis with the channel side of each pier adjacent to the navigable channel will be marked by a red light: *Provided,* That if every such pier, or protection pier, is straight along its channel face these lights shall not be required. Each such light shall show through a horizontal arc of 180°, and shall be securely mounted on the navigable channel face of the pier as low as practicable to show 90° on either side of a line normal to the axis of the navigable channel so as to be visible from an approaching vessel.
+
+[40 FR 24898, June 11, 1975, as amended by CGD 75-046a, 42 FR 56954, Oct. 31, 1977]

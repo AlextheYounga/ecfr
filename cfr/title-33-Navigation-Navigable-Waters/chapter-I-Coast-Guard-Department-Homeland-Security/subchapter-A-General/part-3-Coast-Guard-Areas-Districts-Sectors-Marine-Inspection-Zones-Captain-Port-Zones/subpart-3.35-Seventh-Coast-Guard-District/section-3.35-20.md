@@ -1,0 +1,5 @@
+##### § 3.35-20 Sector Jacksonville Marine Inspection Zone and Captain of the Port Zone. #####
+
+Sector Jacksonville's office is located in Jacksonville, FL. The boundaries of Sector Jacksonville's Marine Inspection Zone and Captain of the Port Zone start at the outermost extent of the EEZ at latitude 30°50′00″ N, longitude 76°09′54″ W, proceeding west to latitude 30°50′00″ N, longitude 82°15′00″ W; thence south to the intersection of the Florida-Georgia boundary at longitude 82°15′00″ W; thence west along the Florida-Georgia boundary to longitude 83°00′00″ W; thence southeast to latitude 28°00′00″ N, 81°30′00″ W; thence east to the outermost extent of the EEZ at latitude 28°00′00″ N, longitude 79°23′34″ W; thence northeast along the outermost extent of the EEZ to the point of origin.
+
+[USCG-2006-25556, 72 FR 36322, July 2, 2007]

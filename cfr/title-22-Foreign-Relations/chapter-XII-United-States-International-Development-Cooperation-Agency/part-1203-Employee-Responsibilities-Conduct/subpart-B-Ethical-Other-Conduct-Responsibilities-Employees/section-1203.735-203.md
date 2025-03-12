@@ -1,0 +1,3 @@
+##### § 1203.735-203 Gifts from foreign governments. #####
+
+An employee shall not accept a gift, present, decoration, or other thing from a foreign government unless authorized by Congress as provided by the Constitution and in 5 U.S.C. 7342, and the regulations promulgated thereunder pursuant to E.O. 11320, 31 FR 15789. These regulations are set forth in part 3 of this title (as added, 32 FR 6569, Apr. 28, 1967), and in 3 FAM 621.

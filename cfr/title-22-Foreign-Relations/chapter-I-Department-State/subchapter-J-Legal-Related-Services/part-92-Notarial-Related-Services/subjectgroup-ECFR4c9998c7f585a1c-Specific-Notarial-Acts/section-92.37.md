@@ -1,0 +1,7 @@
+##### § 92.37 Authentication procedure. #####
+
+(a) The consular officer must compare the foreign official's seal and signature on the document he is asked to authenticate with a specimen of the same official's seal and signature on file either in the Foreign Service office or in a foreign public office to which he has access. If no specimen is available to the consular officer, he should require that each signature and seal be authenticated by some higher official or officials of the foreign government until there appears on the document a seal and signature which he can compare with a specimen available to him. However, this procedure of having a document authenticated by a series of foreign officials should be followed only where unusual circumstances, or the laws or regulations of the foreign country require it.
+
+(b) Where the State law requires the consular officer's certificate of authentication to show that the foreign official is empowered to perform a particular act, such as administering an oath or taking an acknowledgment, the consular officer must verify the fact that the foreign official is so empowered.
+
+(c) When the consular officer has satisfactorily identified the foreign seal and signature (and, where required, has verified the authority of the foreign official to perform a particular act), he may then execute a certificate of authentication, either placing this certificate on the document itself if space is available, or appending it to the document on a separate sheet (see § 92.17 on the fastening of notarial certificates).

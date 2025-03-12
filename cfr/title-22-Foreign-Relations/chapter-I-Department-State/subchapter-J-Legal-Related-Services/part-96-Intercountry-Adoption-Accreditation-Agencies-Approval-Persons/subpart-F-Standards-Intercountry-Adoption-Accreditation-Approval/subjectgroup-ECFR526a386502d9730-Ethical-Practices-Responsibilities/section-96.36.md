@@ -1,0 +1,5 @@
+##### § 96.36 Prohibition on child buying. #####
+
+(a) The agency or person prohibits its employees and agents from giving money or other consideration, directly or indirectly, to a child's parent(s), other individual(s), or an entity as payment for the child or as an inducement to release the child. If permitted or required by the child's country of origin, an agency or person may remit reasonable payments for activities related to the adoption proceedings, pre-birth and birth medical costs, the care of the child, the care of the birth mother while pregnant and immediately following birth of the child, or the provision of child welfare and child protection services generally. Permitted or required contributions shall not be remitted as payment for the child or as an inducement to release the child.
+
+(b) The agency or person has written policies and procedures in place reflecting the prohibitions in paragraph (a) of this section and reinforces them in its employee training programs.

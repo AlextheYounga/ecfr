@@ -1,0 +1,13 @@
+##### § 184.1914 Trypsin. #####
+
+(a) Trypsin (CAS Reg. No. 9002-07-7) is an enzyme preparation obtained from purified extracts of porcine or bovine pancreas. It is a white to tan amorphous powder. Its characterizing enzyme activity is that of a peptide hydrolase (EC 3.4.21.4).
+
+(b) The ingredient meets the general requirements and additional requirements for enzyme preparations in the Food Chemicals Codex, 3d ed. (1981), p. 110, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies are available from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418, or may be examined at the Office of Food Additive Safety (HFS-200), Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1200, and at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) In accordance with § 184.1(b)(1), the ingredient is used in food with no limitation other than current good manufacturing practice. The affirmation of this ingredient as GRAS as a direct food ingredient is based upon the following current good manufacturing practice conditions of use:
+
+(1) The ingredient is used as an enzyme as defined in § 170.3(o)(9) of this chapter to hydrolyze proteins or polypeptides.
+
+(2) The ingredient is used in food at levels not to exceed current good manufacturing practice.
+
+[60 FR 32911, June 26, 1995, as amended at 78 FR 14667, Mar. 7, 2013]

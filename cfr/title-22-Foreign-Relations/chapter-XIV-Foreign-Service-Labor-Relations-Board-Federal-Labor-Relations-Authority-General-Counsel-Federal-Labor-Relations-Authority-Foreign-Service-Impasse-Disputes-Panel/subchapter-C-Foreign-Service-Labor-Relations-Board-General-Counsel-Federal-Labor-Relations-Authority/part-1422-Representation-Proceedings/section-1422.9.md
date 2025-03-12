@@ -1,0 +1,5 @@
+##### § 1422.9 Conduct of hearing. #####
+
+(a) Hearings shall be conducted by a Hearing Officer and shall be open to the public unless otherwise ordered by the Hearing Officer. At any time another Hearing Officer may be substituted for the Hearing Officer previously presiding. It shall be the duty of the Hearing Officer to inquire fully into all matters in issue and the Hearing Officer shall obtain a full and complete record upon which the Board can make an appropriate decision. An official reporter shall make the only official transcript of such proceedings. Copies of the official transcript may be examined in the appropriate regional office during normal working hours. Requests by parties for copies of transcripts should be made to the official hearing reporter.
+
+(b) Hearings under this section are considered investigatory and not adversary. Their purpose is to develop a full and complete factual record. The rules of relevancy and materiality are paramount; there are no burdens of proof and the technical rules of evidence do not apply.

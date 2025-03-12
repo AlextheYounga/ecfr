@@ -1,0 +1,3 @@
+##### § 230.14 Record of decision and implementation. #####
+
+A record of decision shall be prepared by the district commander, in accordance with 40 CFR 1505.2, for the signature of the final decisionmaker as prescribed by applicable Corps regulations. Procedures implementing the decision are discussed in 40 CFR 1505.3. Incoming letters of comment on the final EIS will be furnished for review by the decisionmaker who signs the record of decision. For example, the record of decision for feasibility reports will be signed by the ASA(CW) at the time the report is transmitted to Congress for authorization.

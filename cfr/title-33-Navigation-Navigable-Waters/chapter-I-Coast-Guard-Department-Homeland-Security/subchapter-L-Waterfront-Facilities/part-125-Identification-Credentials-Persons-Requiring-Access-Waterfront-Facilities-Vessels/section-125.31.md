@@ -1,0 +1,5 @@
+##### § 125.31 Approval of applicant by Commandant. #####
+
+(a) If the Commandant is satisfied that the character and habits of life of the applicant are not such as to warrant the belief that his presence on waterfront facilities, and port and harbor areas, including vessels and harbor craft therein, would be inimical to the security of the United States, he will direct that a Coast Guard Port Security Card be issued to the applicant.
+
+(b) If the Commandant is not satisfied that the character and habits of life of the applicant are such as to warrant the belief that his presence on waterfront facilities, and port and harbor areas, including vessels and harbor craft therein, would not be inimical to the security of the United States, he will notify the applicant in writing as provided for in § 125.35.

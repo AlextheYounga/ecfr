@@ -1,0 +1,5 @@
+##### § 19.10-4 Death or divorce of a spouse and remarriage after retirement. #####
+
+(a) If the marriage of an annuitant who received a reduced annuity at retirement under § 19.10-2 to provide a survivor annuity for a spouse is dissolved by divorce or by death of the spouse, the retiree's annuity shall be recomputed, if necessary, as of the first of the month following the death or divorce. If the marriage was dissolved by death, the annuity shall be recomputed and paid at its full amount. If the marriage is dissolved by divorce, procedures in § 19.11-2(b) shall be followed.
+
+(b) In the event an annuitant affected by this paragraph remarries, the annuitant may elect within one year of remarriage to provide a survivor annuity for the new spouse equal in amount to the survivor benefit formerly in effect for the previous spouse less any amount committed for a former spouse. The annuity of a retiree making such an election shall be reduced effective on the first day of the first month which begins at least one year after the remarriage to the amount that would have been payable had there been no recomputation under paragraph (a) of this section.

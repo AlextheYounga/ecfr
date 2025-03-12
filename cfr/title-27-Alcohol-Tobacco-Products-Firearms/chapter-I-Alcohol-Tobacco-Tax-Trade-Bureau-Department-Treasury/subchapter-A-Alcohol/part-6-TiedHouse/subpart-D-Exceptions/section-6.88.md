@@ -1,0 +1,7 @@
+##### § 6.88 Equipment and supplies. #####
+
+(a) *General.* The act by an industry member of selling equipment or supplies to a retailer does not constitute a means to induce within the meaning of section 105(b)(3) of the Act if the equipment or supplies are sold at a price not less than the cost to the industry member who initially purchased them, and if the price is collected within 30 days of the date of the sale. The act by an industry member of installing dispensing accessories at the retailer's establishment does not constitute a means to induce within the meaning of the Act as long as the retailer bears the cost of initial installation. The act by an industry member of furnishing, giving, or selling coil cleaning service to a retailer of distilled spirits, wine, or malt beverages does not constitute a means to induce within the meaning of section 105(b)(3) of the Act.
+
+(b) *Definition.* “Equipment and supplies” means glassware (or similar containers made of other material), dispensing accessories, carbon dioxide (and other gasses used in dispensing equipment) or ice. “Dispensing accessories” include items such as standards, faucets, cold plates, rods, vents, taps, tap standards, hoses, washers, couplings, gas gauges, vent tongues, shanks, and check valves.
+
+[T.D. ATF-364, 60 FR 20423, Apr. 26, 1995]

@@ -1,0 +1,3 @@
+##### § 67.10-40 Sound signals authorized for use prior to January 1, 1973. #####
+
+Any sound signal authorized for use by the Coast Guard and manufactured prior to January 1, 1973, is excepted from the requirements in this subpart, except §§ 67.10-1 (b) and (c), 67.10-5, and 67.10-10, if the sound signal has a minimum sound pressure level as specified in Table A of Subpart 67.10 of Title 33 of the Code of Federal Regulations in effect on December 31, 1972, for the range required by § 67.20-10, § 67.25-10, or § 67.30-10.

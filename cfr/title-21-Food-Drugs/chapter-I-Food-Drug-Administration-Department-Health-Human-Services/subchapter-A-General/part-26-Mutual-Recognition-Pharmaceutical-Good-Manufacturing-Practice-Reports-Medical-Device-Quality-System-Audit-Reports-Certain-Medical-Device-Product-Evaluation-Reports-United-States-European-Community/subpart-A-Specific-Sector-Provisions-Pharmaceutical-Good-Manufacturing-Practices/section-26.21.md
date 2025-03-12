@@ -1,0 +1,3 @@
+##### § 26.21 Safeguard clause. #####
+
+Each party recognizes that the importing country has a right to fulfill its legal responsibilities by taking actions necessary to ensure the protection of human and animal health at the level of protection it deems appropriate. This includes the suspension of the distribution, product detention at the border of the importing country, withdrawal of the batches and any request for additional information or inspection as provided in § 26.12.

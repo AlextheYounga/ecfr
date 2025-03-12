@@ -1,0 +1,15 @@
+##### § 208.25 Pensacola Dam and Reservoir, Grand (Neosho) River, Okla. #####
+
+The representative of the agency charged with the operation of the Pensacola Dam, referred to in this section as the Representative shall operate the dam and reservoir in the interest of flood control as follows:
+
+(a) Whenever the pool stage exceeds elevation 745 at the dam, the discharge facilities shall be operated under the direction of the District Engineer, Engineer Department at Large, in charge of the locality, so as to reduce as much as practicable the flood damage below the reservoir and to limit the pool stage to elevation 755 at the dam.
+
+(b) The District Engineer will advise the Representative when inflow rates are anticipated which will raise the pool above elevation 745 at the dam. The District Engineer will also advise the Representative of essential increase in the flood control storage capacity of the reservoir which should be provided by drawing the pool down below elevation 745 at the dam in order to obtain maximum flood control benefits, with the provision that the suggested reduction in power storage shall at no time exceed the replacement volume of flow then in sight in the streams above the reservoir.
+
+(c) The Representative shall furnish the District Engineer, daily, a report showing the elevation of the reservoir pool and the tailwater, number of gates in operation, spillway and turbine releases, evaporation, storage, reservoir inflow, and precipitation in inches as shown by Agency gages. One reading shall be shown for each day with additional readings of releases for all changes in spillway gate operation, and with readings of all items except evaporation three times daily when the District Engineer advises the Representative that flood conditions are imminent. By agreement between the Representative and the District Engineer, any of the foregoing information may be furnished by telephone and may, if agreed upon, be omitted from the report. Whenever the pool is above elevation 745 at the dam the Representative shall submit additional reports by telegraph or telephone as directed by the District Engineer, with a report to be furnished immediately whenever the pool rises above elevation 745 at the dam.
+
+(d) The District Engineer will furnish the Representative with all available information and detailed instructions for operation of the reservoir in the interest of flood control during an emergency condition when communications between the dam and the District Office are broken. In the event that the District Engineer or his authorized representative cannot be reached by telephone, telegraph or by other means during a flood emergency, these instructions will govern. The provisions of paragraphs (a), (b), and (c) of this section will govern at all times except during such an emergency.
+
+(e) Elevations stated in this section are referred to Pensacola datum which is 1.07 feet below mean sea level.
+
+[10 FR 15044, Dec. 14, 1945]

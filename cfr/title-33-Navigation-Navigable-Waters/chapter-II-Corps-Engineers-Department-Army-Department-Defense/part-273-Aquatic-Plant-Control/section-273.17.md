@@ -1,0 +1,3 @@
+##### § 273.17 Annual budget request. #####
+
+The Aquatic Plant Control Program is a continuing activity funded under Construction, General, subject to monetary limitations of $5,000,000 on annual appropriations authorized for the program. Recommendations and supporting data will be submitted in accordance with ER 11-2-240. The amounts requested should be the minimum requirements for the purpose of the authorized program to meet essential needs and should be within the Division's capability to utilize within the budget year taking into account the foreseeable availability of local funds to meet cost-sharing requirements for control operations.

@@ -1,0 +1,3 @@
+##### § 4.20 Application of standards. #####
+
+The standards of identity for the several classes and types of wine set forth herein shall be applicable to all regulations and permits issued under the act. Whenever any term for which a standard of identity has been established herein is used in any such regulation or permit, such term shall have the meaning assigned to it by such standard of identity.

@@ -1,0 +1,5 @@
+##### § 874.4760 Nasopharyngoscope (flexible or rigid) and accessories. #####
+
+(a) *Identification.* A nasopharyngoscope (flexible or rigid) and accessories is a tubular endoscopic device with any of a group of accessory devices which attach to the nasopharyngoscope and is intended to examine or treat the nasal cavity and nasal pharynx. It is typically used with a fiberoptic light source and carrier to provide illumination. The device is made of materials such as stainless steel and flexible plastic. This generic type of device includes the antroscope, nasopharyngolaryngoscope, nasosinuscope, nasoscope, postrhinoscope, rhinoscope, salpingoscope, flexible foreign body claw, flexible biopsy forceps, rigid biopsy curette, flexible biospy brush, rigid biopsy forceps and flexible biopsy curette, but excludes the fiberoptic light source and carrier.
+
+(b) *Classification.* Class II.

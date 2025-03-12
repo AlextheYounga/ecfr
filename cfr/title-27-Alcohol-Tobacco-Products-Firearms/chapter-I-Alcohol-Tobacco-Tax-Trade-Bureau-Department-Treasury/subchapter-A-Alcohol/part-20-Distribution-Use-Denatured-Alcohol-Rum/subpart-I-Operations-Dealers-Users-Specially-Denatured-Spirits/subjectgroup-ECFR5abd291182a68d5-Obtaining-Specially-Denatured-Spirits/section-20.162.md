@@ -1,0 +1,5 @@
+##### § 20.162 Regulation of withdrawals. #####
+
+(a) Each permittee shall regulate its withdrawals of specially denatured spirits to ensure that (1) the quantity on hand and unaccounted for does not exceed the capacity of the storage facilities, and (2) the cumulative quantity withdrawn or received in any calendar year does not exceed the quantity authorized by the permit, Form 5150.9. Recovered alcohol will be taken into account in determining the total quantity of alcohol on hand.
+
+(b) For the purpose of this section, specially denatured spirits and recovered alcohol will be considered as unaccounted for if lost under circumstances where a claim for allowance is required by this part and the claim has not been allowed, or if used or disposed of in any manner not provided for in this part.

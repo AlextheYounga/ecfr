@@ -1,0 +1,3 @@
+##### § 26.78 Agreements with other countries. #####
+
+Except where there is written agreement between the parties, obligations contained in mutual recognition agreements concluded by either party with a party not a party to the agreement from which this part is derived (a third party) shall have no force and effect with regard to the other party in terms of acceptance of the results of conformity assessment procedures in the third party.

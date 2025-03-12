@@ -1,0 +1,3 @@
+##### § 134.28 Further Department of State review. #####
+
+Either the applicant or Department of State counsel may seek review of the initial decision. If neither the applicant nor the Department of State counsel seeks review, the initial decision shall become a final decision of the Department of State 30 days after it is issued. If review is taken the Judicial Officer will issue a final decision on the application or remand the application to the adjudicative officer for further proceedings.

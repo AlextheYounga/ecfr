@@ -1,0 +1,11 @@
+##### § 201.513 Temporary cease-and-desist orders: Issuance without prior notice and opportunity for hearing. #####
+
+In addition to the requirements for issuance of a temporary cease-and-desist order set forth in § 201.512, the following requirements shall apply if a temporary cease-and-desist order is to be entered without prior notice and opportunity for hearing:
+
+(a) *Basis for issuance without prior notice and opportunity for hearing.* A temporary cease-and-desist order may be issued without notice and opportunity for hearing only if the Commission determines, from specific facts in the record of the proceeding, that notice and hearing prior to entry of an order would be impracticable or contrary to the public interest.
+
+(b) *Content of the order.* An *ex parte* temporary cease-and-desist order shall state specifically why notice and hearing would have been impracticable or contrary to the public interest.
+
+(c) *Hearing before the Commission.* If a respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, the respondent may apply to the Commission to have the order set aside, limited, or suspended, and if the application is made within 10 days after the date on which the order was served, may request a hearing on such application. The Commission shall hold a hearing and render a decision on the respondent's application at the earliest possible time. The hearing shall begin within two days of the filing of the application unless the applicant consents to a longer period or the Commission, by order, for good cause shown, sets a later date. The Commission shall render a decision on the application within five calendar days of its filing, provided, however, that the Commission, by order, for good cause shown, may extend the time within which a decision may be rendered for a single period of five calendar days, or such longer time as consented to by the applicant. If the Commission does not render its decision within 10 days of the respondent's application or such longer time as consented to by the applicant, the temporary order shall be suspended until a decision is rendered.
+
+(d) *Presiding officer, procedure at hearing.* Procedures with respect to the selection of a presiding officer and the conduct of the hearing shall be in accordance with § 201.511.

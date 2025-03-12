@@ -1,0 +1,59 @@
+##### § 522.2477 Trenbolone acetate and estradiol. #####
+
+(a) [Reserved]
+
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for uses as in paragraph (d) of this section.
+
+(1) No. 058198 for use as in paragraphs (d)(1)(i)(A), (d)(1)(i)(B), (d)(1)(i)(C), (d)(1)(i)(D), (d)(1)(i)(E), (d)(1)(i)(F), (d)(1)(ii), (d)(1)(iii), (d)(2), and (d)(3) of this section.
+
+(2) No. 000061 for use as in paragraphs (d)(1)(i)(A), (d)(1)(i)(C), (d)(1)(i)(D), (d)(1)(i)(G), (d)(1)(ii), (d)(1)(iii), (d)(2)(i)(A), (d)(2)(i)(C), (d)(2)(i)(D), (d)(2)(ii), (d)(2)(iii), (d)(3)(i)(A), (d)(3)(ii), and (d)(3)(iii) of this section.
+
+(3) No. 054771 for use as in paragraphs (d)(1)(i)(A), (d)(1)(i)(D), (d)(1)(ii), (d)(1)(iii), (d)(3)(i)(A), (d)(3)(ii), and (d)(3)(iii) of this section.
+
+(d) *Conditions of use* - (1) *Steers fed in confinement for slaughter* - (i) *Amount.* (A) 120 milligrams (mg) trenbolone acetate and 24 mg estradiol (one implant consisting of 6 pellets, each pellet containing 20 mg trenbolone acetate and 4 mg estradiol) per implant dose.
+
+(B) 120 mg trenbolone acetate and 24 mg estradiol (one implant consisting of 7 pellets, each of 6 pellets containing 20 mg trenbolone acetate and 4 mg estradiol, and 1 pellet containing 29 mg tylosin tartrate) per implant dose.
+
+(C) 200 mg trenbolone acetate and 20 mg estradiol (one implant consisting of 10 pellets, each pellet containing 20 mg trenbolone acetate and 2 mg estradiol) per implant dose.
+
+(D) 80 mg trenbolone acetate and 16 mg estradiol (one implant consisting of 4 pellets, each pellet containing 20 mg trenbolone acetate and 4 mg estradiol) per implant dose.
+
+(E) 200 mg trenbolone acetate and 20 mg estradiol (one implant consisting of 11 pellets, each of 10 pellets containing 20 mg trenbolone acetate and 2 mg estradiol, and 1 pellet containing 29 mg tylosin tartrate) per implant dose.
+
+(F) 80 mg trenbolone acetate and 16 mg estradiol (one implant consisting of 5 pellets, each of 4 pellets containing 20 mg trenbolone acetate and 4 mg estradiol, and 1 pellet containing 29 mg tylosin tartrate) per implant dose.
+
+(G) 200 milligram (mg) trenbolone acetate and 40 mg estradiol (one implant consisting of 10 pellets, each pellet containing 20 mg trenbolone acetate and 4 mg estradiol) per implant dose.
+
+(ii) *Indications for use.* For increased rate of weight gain and improved feed efficiency.
+
+(iii) *Limitations.* Implant subcutaneously in ear only. Do not use in animals intended for subsequent breeding or in dairy animals. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+
+(2) *Heifers fed in confinement for slaughter* - (i) *Amount.* (A) 140 mg trenbolone acetate and 14 mg estradiol (one implant consisting of 7 pellets, each pellet containing 20 mg trenbolone acetate and 2 mg estradiol) per implant dose for use as in paragraph (d)(2)(ii)(A) of this section.
+
+(B) 140 mg trenbolone acetate and 14 mg estradiol (one implant consisting of 8 pellets, each of 7 pellets containing 20 mg trenbolone acetate and 2 mg estradiol, and 1 pellet containing 29 mg tylosin tartrate) per implant dose for use as in paragraphs (d)(2)(ii)(A) of this section.
+
+(C) 80 mg trenbolone acetate and 8 mg estradiol (one implant consisting of 4 pellets, each pellet containing 20 mg trenbolone acetate and 2 mg estradiol) per implant dose for use as in paragraph (d)(2)(ii)(B) of this section.
+
+(D) 200 mg trenbolone acetate and 20 mg estradiol (one implant consisting of 10 pellets, each pellet containing 20 mg trenbolone acetate and 2 mg estradiol) per implant dose for use as in paragraph (d)(2)(ii)(A) of this section.
+
+(E) 80 mg trenbolone acetate and 8 mg estradiol (one implant consisting of 5 pellets, each of 4 pellets containing 20 mg trenbolone acetate and 2 mg
+
+estradiol, and 1 pellet containing 29 mg tylosin tartrate) per implant dose for use as in paragraph (d)(2)(ii)(B) of this section.
+
+(F) 200 mg trenbolone acetate and 20 mg estradiol (one implant consisting of 11 pellets, each of 10 pellets containing 20 mg trenbolone acetate and 2 mg estradiol, and 1 pellet containing 29 mg tylosin tartrate) per implant dose.
+
+(ii) *Indications for use.* (A) For increased rate of weight gain and improved feed efficiency.
+
+(B) For increased rate of weight gain.
+
+(iii) *Limitations.* Implant subcutaneously in ear only. Do not use in animals intended for subsequent breeding or in dairy animals. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+
+(3) *Pasture cattle* (*slaughter, stocker, and feeder steers and heifers*) - (i) *Amount.* (A) 40 mg trenbolone acetate and 8 mg estradiol (one implant consisting of 2 pellets, each pellet containing 20 mg trenbolone acetate and 4 mg estradiol) per implant dose.
+
+(B) 40 mg trenbolone acetate and 8 mg estradiol (one implant consisting of 3 pellets, each of 2 pellets containing 20 mg trenbolone acetate and 4 mg estradiol, and 1 pellet containing 29 mg tylosin tartrate) per implant dose.
+
+(ii) *Indications for use.* For increased rate of weight gain.
+
+(iii) *Limitations.* Implant subcutaneously in ear only. Do not use in animals intended for subsequent breeding or in dairy animals. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+
+[60 FR 4376, Jan. 23, 1995]Editorial Note:For Federal Register citations affecting § 522.2477, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

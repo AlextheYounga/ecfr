@@ -1,0 +1,5 @@
+##### § 240.15Ba2-5 Registration of fiduciaries. #####
+
+The registration of a municipal securities dealer shall be deemed to be the registration of any executor, administrator, guardian, conservator, assignee for the benefit of creditors, receiver, trustee in insolvency or bankruptcy, or other fiduciary, appointed or qualified by order, judgment, or decree of a court of competent jurisdiction to continue the business of such registered municipal securities dealer, provided that such fiduciary files with the Commission, within 30 days after entering upon the performance of his duties, a statement setting forth as to such fiduciary substantially the information required by Form MSD, if the municipal securities dealer is a bank or a separately identifiable department of a bank, or Form BD, if the municipal securities dealer is other than a bank or a separately identifiable department or division of a bank.
+
+[41 FR 28948, July 14, 1976]

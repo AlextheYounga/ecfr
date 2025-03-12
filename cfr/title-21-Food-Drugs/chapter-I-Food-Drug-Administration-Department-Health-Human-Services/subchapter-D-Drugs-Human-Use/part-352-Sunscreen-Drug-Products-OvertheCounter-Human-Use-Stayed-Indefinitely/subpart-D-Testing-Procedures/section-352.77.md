@@ -1,0 +1,3 @@
+##### § 352.77 Test modifications. #####
+
+The formulation or mode of administration of certain products may require modification of the testing procedures in this subpart. In addition, alternative methods (including automated or in vitro procedures) employing the same basic procedures as those described in this subpart may be used. Any proposed modification or alternative procedure shall be submitted as a petition in accord with § 10.30 of this chapter. The petition should contain data to support the modification or data demonstrating that an alternative procedure provides results of equivalent accuracy. All information submitted will be subject to the disclosure rules in part 20 of this chapter.

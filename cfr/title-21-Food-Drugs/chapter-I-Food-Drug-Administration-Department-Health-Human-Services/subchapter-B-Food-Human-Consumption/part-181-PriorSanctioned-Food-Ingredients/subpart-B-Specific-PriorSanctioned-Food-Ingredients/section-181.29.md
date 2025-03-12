@@ -1,0 +1,5 @@
+##### § 181.29 Stabilizers. #####
+
+Substances classified as stabilizers, when migrating from food-packaging material shall include:
+
+Aluminum mono-, di-, and tristearate.Ammonium citrate.Ammonium potassium hydrogen phosphate.Calcium glycerophosphate.Calcium phosphate.Calcium hydrogen phosphate.Calcium oleate.Calcium acetate.Calcium carbonate.Calcium ricinoleate.Calcium stearate.Disodium hydrogen phosphate.Magnesium glycerophosphate.Magnesium stearate.Magnesium phosphate.Magnesium hydrogen phosphate.Mono-, di-, and trisodium citrate.Mono-, di-, and tripotassium citrate.Potassium oleate.Potassium stearate.Sodium pyrophosphate.Sodium stearate.Sodium tetrapyrophosphate.Stannous stearate (not to exceed 50 parts per million tin as a migrant in finished food).Zinc orthophosphate (not to exceed 50 parts per million zinc as a migrant in finished food).Zinc resinate (not to exceed 50 parts per million zinc as a migrant in finished food).[42 FR 14638, Mar. 15, 1977; 42 FR 56728, Oct. 28, 1977]

@@ -1,0 +1,14 @@
+##### § 5.3 Rules of procedure, description of forms available or the places at which forms may be obtained, and instructions as to the scope and content of all papers, reports, or examinations. #####
+
+Rules of procedure regarding the following listed matters may be consulted under the corresponding regulations referenced in § 5.4, or obtained upon application to the offices listed below. Forms pertaining to the following listed matters, and instructions relating thereto may also be obtained at the offices indicated below:
+
+|                                         Subject matter                                         |                  Office                  |                                 Address                                 |
+|------------------------------------------------------------------------------------------------|------------------------------------------|-------------------------------------------------------------------------|
+|                            Appointment of Foreign Service Officers                             |Board of Examiners for the Foreign Service| Department of State, Room 7314, 1800 N. Kent St., Arlington, Va. 22209. |
+|                               Authentication and other services                                |     Document and Reference Division      |Department of State, Room 2815, 22d and D Sts. NW., Washington, DC 20520.|
+|                                   Claims and stolen property                                   |              Legal Adviser               |      Department of State, 2201 C Street NW., Washington, DC 20520.      |
+|                    International educational and cultural exchange program                     |Bureau of Educational and Cultural Affairs|      Department of State, 2201 C Street NW., Washington, DC 20520.      |
+|                                 International traffic in arms                                  |       Office of Munitions Control        | Department of State, Room 800, 1700 N. Lynn St., Arlington, Va. 22209.  |
+|                                   Nationality and passports                                    |             Passport Office              |  Department of State, Room 362, 1425 K St., NW., Washington, DC 20524.  |
+|Protection and welfare of U.S. citizens, shipping and seamen, and other consular services abroad|   Office of Special Consular Services    |      Department of State, 2201 C Street NW., Washington, DC 20520.      |
+|                                         Visa issuance                                          |               Visa Office                | Department of State, Annex 2, 515 22d Street NW., Washington, DC 20520. |

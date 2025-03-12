@@ -1,0 +1,3 @@
+##### § 14.174 Advice and recommendations in writing. #####
+
+Advice and recommendations given by a committee on a specific drug or a class of drugs are ordinarily in the form of a written report. The report may consist of the approved minutes of the meeting or a separate written report. The report responds to the specific issues or questions which the Commissioner has addressed to the advisory committee, and states the basis of the advice and recommendations of the committee.

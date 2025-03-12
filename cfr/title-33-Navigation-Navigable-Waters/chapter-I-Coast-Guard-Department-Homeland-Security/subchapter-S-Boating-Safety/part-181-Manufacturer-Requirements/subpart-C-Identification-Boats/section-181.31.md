@@ -1,0 +1,7 @@
+##### § 181.31 Manufacturer identification code assignment. #####
+
+(a) Each person required by § 181.23(a) of this part to affix hull identifications numbers must request a manufacturer identification code in writing from the Commandant (CG-BSX-23), Attn: Recreational Boating Product Assurance Branch, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501. The request must indicate the manufacturer's name and U.S. address along with the general types and lengths of boats that will be manufactured.
+
+(b) For boats manufactured outside of the jurisdiction of the United States, a U.S. importer must obtain a manufacturer identification code as required by paragraph (a) of this section. The request must indicate the importer's name and U.S. address along with a list of the manufacturers, their addresses, and the general types and sizes of boats that will be imported. If a nation has a hull identification number system which has been accepted by the Coast Guard for the purpose of importing boats, it may be used by the importer instead of the one specified within this subpart. To request a list of those nations having such a numbering system, write to the Commandant (CG-BSX-23), Attn: Recreational Boating Product Assurance Branch, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501.
+
+[USCG-2003-14963, 77 FR 18703, Mar. 28, 2012, as amended by USCG-2014-0410, 79 FR 38449, July 7, 2014]

@@ -1,0 +1,5 @@
+##### § 24.190 General. #####
+
+Effervescent wine may be made on bonded wine premises. Where the effervescence results from fermentation of the wine within a closed container, the wine is classed and taxed as sparkling wine. The use of carbon dioxide, nitrogen gas, or a combination of both, is permitted to maintain counterpressure during the transfer and bottling of sparkling wine. Wine carbonated by injection of carbon dioxide is classed and taxed as artificially carbonated wine. Sparkling wine, artificially carbonated wine, and any wine used as a base in the production of sparkling wine or artificially carbonated wine, may not have an alcohol content in excess of 14 percent by volume. However, wine containing more than 14 percent of alcohol by volume may be used in preparing a dosage for finishing sparkling wine or artificially carbonated wine.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1383, as amended (26 U.S.C. 5382)).[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31078, July 9, 1991]

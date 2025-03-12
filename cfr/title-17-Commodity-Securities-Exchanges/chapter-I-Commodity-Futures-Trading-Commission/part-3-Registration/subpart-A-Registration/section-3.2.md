@@ -1,0 +1,25 @@
+##### § 3.2 Registration processing by the National Futures Association; notification and duration of registration. #####
+
+(a) Except as otherwise provided in any rule, regulation or order of the Commission, the registration functions of the Commission set forth in subpart A, subpart B and subpart C of this part shall be performed by the National Futures Association, in accordance with such rules, consistent with the provisions of the Act and this part, applicable to registrations granted under the Act that the National Futures Association may adopt and are approved by the Commission pursuant to section 17(j) of the Act.
+
+(b) Notwithstanding any other provision of this part, the original of any registration form, any schedule or supplement thereto, any fingerprint card or other document required by this part to be filed with both the Commission and the National Futures Association, may be filed with either the Commission or the National Futures Association if:
+
+(1) A legible, accurate, and complete photocopy of that form, schedule, supplement, fingerprint card, or other document is filed simultaneously with the National Futures Association or the Commission, respectively, and
+
+(2) Such photocopy contains an original signature and date in each place where such signature and date is required on the original form, schedule, supplement, fingerprint card, or other document.
+
+(c) The National Futures Association shall notify the registrant, or the sponsor in the case of an applicant for registration as an associated person, and each designated contract market and swap execution facility that has granted the applicant trading privileges in the case of an applicant for registration as a floor broker or floor trader, if registration has been granted under the Act.
+
+(1) If an applicant for registration as an associated person receives a temporary license in accordance with § 3.40, the National Futures Association shall notify the sponsor that only a temporary license has been granted.
+
+(2) If an applicant for registration as a floor broker or floor trader receives a temporary license in accordance with § 3.40, the National Futures Association shall notify the designated contract market or swap execution facility that has granted the applicant trading privileges that only a temporary license has been granted.
+
+(3)(i) If an applicant for registration as a swap dealer or major swap participant pursuant to § 3.10(a)(1)(v) files a Form 7-R and a Form 8-R and fingerprint card for each natural person who is a principal of the applicant, accompanied by such documentation as may be required to demonstrate compliance with each of the Section 4s Implementing Regulations, as defined in § 3.1(f), as are applicable to it, in accordance with the terms of the Section 4s Implementing Regulations, the National Futures Association shall notify the swap dealer or major swap participant, as the case may be, that it is provisionally registered.
+
+(ii) Subsequent to providing notice of provisional registration to an applicant for registration as a swap dealer or major swap participant, the National Futures Association shall determine whether the documentation submitted pursuant to § 3.10(a)(1)(v) by the applicant demonstrates compliance with the Section 4s Implementing Regulation to which it pertains; *Provided,* that where the National Futures Association has notified the applicant that it is provisionally registered, the applicant must supplement its registration application by providing such documentation as may be required to demonstrate compliance with each Section 4s Implementing Regulation that the Commission issues subsequent to the date the National Futures Association notifies the applicant that it is provisionally registered.
+
+(iii) On and after the date on which the National Futures Association confirms that the applicant for registration as a swap dealer or major swap participant has demonstrated its initial compliance with the applicable requirements of each of the Section 4s Implementing Regulations and all other applicable registration requirements under the Act and Commission regulations, the provisional registration of the applicant shall cease and it shall be registered as a swap dealer or major swap participant, as the case may be.
+
+(d) Any registration form, any schedule or supplement thereto, any fingerprint card or other document required by this part or any rule of the National Futures Assocation to be filed with the National Futures Association shall be deemed for all purposes to have been filed with, and to be the official record of, the Commission.
+
+[49 FR 39530, Oct. 9, 1984, as amended at 53 FR 8431, Mar. 15, 1988; 54 FR 19558, May 8, 1989; 67 FR 38874, June 6, 2002; 77 FR 2626, Jan. 19, ,2012; 77 FR 51904, Aug. 28, 2012]

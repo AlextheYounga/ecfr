@@ -1,0 +1,3 @@
+##### § 151.2055 Deviation from planned voyage. #####
+
+As long as ballast water exchange (BWE) is an allowable ballast water management option under §§ 151.2025 and 151.2035 of this subpart, the Coast Guard will not require a vessel to deviate from its voyage or delay the voyage in order to conduct BWE. A vessel may be required to deviate from its voyage or delay the voyage if BWE is directed by a Captain of the Port pursuant to § 151.2040(b) of this subpart.

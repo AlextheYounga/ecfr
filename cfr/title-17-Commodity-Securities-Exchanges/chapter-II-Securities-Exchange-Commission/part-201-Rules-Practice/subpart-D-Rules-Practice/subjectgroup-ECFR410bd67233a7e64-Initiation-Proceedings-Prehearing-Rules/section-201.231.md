@@ -1,0 +1,7 @@
+##### § 201.231 Enforcement and disciplinary proceedings: Production of witness statements. #####
+
+(a) *Availability.* Any respondent in an enforcement or disciplinary proceeding may move that the Division of Enforcement produce for inspection and copying any statement of any person called or to be called as a witness by the Division of Enforcement that pertains, or is expected to pertain, to his or her direct testimony and that would be required to be produced pursuant to the Jencks Act, 18 U.S.C. 3500. For purposes of this section, *statement* shall have the meaning set forth in 18 U.S.C. 3500(e). Such production shall be made at a time and place fixed by the hearing officer and shall be made available to any party, provided, however, that the production shall be made under conditions intended to preserve the items to be inspected or copied.
+
+(b) *Failure to produce—harmless error.* In the event that a statement required to be made available for inspection and copying by a respondent is not turned over by the Division of Enforcement, no rehearing or redecision of a proceeding already heard or decided shall be required unless the respondent establishes that the failure to turn over the statement was not harmless error.
+
+[60 FR 32796, June 23, 1995, as amended at 69 FR 13177, Mar. 19, 2004]

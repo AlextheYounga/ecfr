@@ -1,0 +1,7 @@
+##### § 40.47 Other businesses within factory. #####
+
+(a) *General.* The appropriate TTB officer may authorize such other businesses within the factory of a manufacturer of tobacco products as he finds will not jeopardize the revenue, will not hinder the effective administration of this part, and will not be contrary to law. A manufacturer of tobacco products who wishes to engage in another business within the factory must submit a written application to do so to the appropriate TTB officer. Except as otherwise provided in paragraph (b) of this section, a manufacturer of tobacco products may not engage in such other business until the application is approved by the appropriate TTB officer. The manufacturer must retain as part of its records any authorization provided under this section.
+
+(b) *Processed tobacco.* A manufacturer of tobacco products may engage in certain activities related to processed tobacco without an approval under paragraph (a) of this section. Section 40.72(b) specifies the activities and circumstances that do not require authorization to engage in another business as well as those activities and circumstances that do.
+
+[T.D. TTB-78, 74 FR 29408, June 22, 2009, as amended by T.D. TTB-104, 77 FR 37302, June 21, 2012]

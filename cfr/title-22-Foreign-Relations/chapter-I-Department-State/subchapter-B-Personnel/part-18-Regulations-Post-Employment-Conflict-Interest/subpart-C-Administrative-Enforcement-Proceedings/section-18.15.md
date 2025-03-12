@@ -1,0 +1,3 @@
+##### § 18.15 Hearings. #####
+
+Hearings shall be stenographically recorded and transcribed and the testimony of witnesses shall be taken under oath or affirmation. Hearings will be closed unless an open hearing is requested by the respondent, except that if classified information or protected information of third parties is likely to be adduced at the hearing, it will remain closed. If either party to the proceeding fails to appear at the hearing, after due notice thereof has been sent to him/her, he/she shall be deemed to have waived the right to a hearing and the hearing examiner may make a decision against the absent party by default.

@@ -1,0 +1,5 @@
+##### § 270.8b-15 Amendments. #####
+
+All amendments shall be filed under cover of the facing sheet of the appropriate form, shall be clearly identified as amendments, and shall comply with all pertinent requirements applicable to registration statements and reports. Amendments shall be filed separately for each separate registration or report amended. Except as permitted under rule 102(b) of Regulation S-T (§ 232.102(b) of this chapter), any amendment filed under this section shall state the complete text of each item amended. An amendment to any report required to include the certifications as specified in § 270.30a-2(a) must include new certifications by each principal executive and principal financial officer of the registrant, and an amendment to any report required to be accompanied by the certifications as specified in § 240.13a-14(b) or § 240.15d-14(b) and § 270.30a-2(b) must be accompanied by new certifications by each principal executive and principal financial officer of the registrant.
+
+[18 FR 8576, Dec. 19, 1953, as amended at 58 FR 14860, Mar. 18, 1993; 68 FR 5365, Feb. 3, 2003; 68 FR 36671, June 18, 2003]

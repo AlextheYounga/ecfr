@@ -1,0 +1,3 @@
+##### § 555.44 License or permit fee not refundable. #####
+
+No refund of any part of the amount paid as a license or permit fee will be made where the operations of the licensee or permittee are, for any reason, discontinued during the period of an issued license or permit. However, the license or permit fee submitted with an application for a license or permit will be refunded if that application is denied, withdrawn, or abandoned, or if a license is cancelled subsequent to having been issued through administrative error.

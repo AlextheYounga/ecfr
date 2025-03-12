@@ -1,0 +1,7 @@
+##### § 148.26 Further proceedings. #####
+
+(a) Ordinarily, the determination of an award will be made on the basis of the written record. However, on request of either the applicant or counsel for the Commission or for another relevant agency, or on his or her own initiative, the Presiding Officer may order further proceedings, such as an informal conference, oral argument, additional written submissions or an evidentiary hearing. Such further proceedings shall be held only when necessary for full and fair resolution of the issues arising from the application, and shall be conducted as promptly as possible. Whether or not the position of the Commission was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought. No discovery and/or evidentiary proceedings shall be permitted into the question of whether the agency's position was substantially justified.
+
+(b) A request that the Presiding Officer order further proceedings under this section shall specifically identify the information sought or the disputed issues and shall explain why additional proceedings are necessary to resolve the issues.
+
+[46 FR 57671, Nov. 25, 1981, as amended at 51 FR 18881, May 23, 1986]

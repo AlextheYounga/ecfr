@@ -1,0 +1,3 @@
+##### § 31.48 Alcohol beverage producers, processors, and bonded warehousemen. #####
+
+Brewers and proprietors of distilled spirits plants, bonded wine cellars, bonded wine warehouses, and taxpaid wine bottling houses who make sales, whether of their own alcohol beverage products or of such products produced by others, are not exempt from registration and recordkeeping as dealers under this part. However, the registration and recordkeeping requirements applicable to such persons are prescribed in parts 19 (Distilled Spirits Plants), 24 (Wine), and 25 (Beer) of this chapter.

@@ -1,0 +1,5 @@
+##### § 479.39 Engaging in more than one business at the same location. #####
+
+If more than one business taxable under 26 U.S.C. 5801, is carried on at the same location during a taxable year, the special (occupational) tax imposed on each such business must be paid. This section does not require a qualified manufacturer or importer to qualify as a dealer if such manufacturer or importer also engages in business on his qualified premises as a dealer. However, a qualified manufacturer who engages in business as an importer must also qualify as an importer. Further, a qualified dealer is not entitled to engage in business as a manufacturer or importer.
+
+[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55842, Sept. 28, 1979; T.D. ATF-271, 53 FR 17551, May 17, 1988]

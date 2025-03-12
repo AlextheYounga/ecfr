@@ -1,0 +1,11 @@
+##### § 334.760 Naval Support Activity Panama City and Alligator Bayou, a tributary of St. Andrew Bay, Fla.; naval restricted area. #####
+
+(a) *The area.* The waters within an area beginning at a point located along the shore at the southern end of the facility designated by latitude 30°09′45.6″ N., longitude 85°44′20.6″ W.; thence proceed 100 feet waterward of the mean high water line directly to a point at latitude 30°09′46.8″ N., longitude 85°44′20.6″ W. From this position the line meanders irregularly, following the shoreline at a minimum distance of 100 feet from the mean high water line to a point at latitude 30°10′16.7″ N., longitude 85°45′01.2″ W. located east of the south side of the entrance to Alligator Bayou; thence directly across the entrance to a point at latitude 30°10′23.4″ N., longitude 85°45′05.7″ W. located east of the north side of the entrance to Alligator Bayou; thence continuing the northerly meandering, following the shoreline at a minimum distance of 100 feet from the mean high water line to a point at latitude 30°11′11.3″ N., longitude 85°45′02.8″ W.; thence directly to the shoreline to a point at latitude 30°11′12.3″ N., longitude 85°45′03.2″ W. This encompasses an area reaching from the southern extent described to the northern extent described and extending from the mean high water line waterward a minimum distance of approximately 100 feet.
+
+(b) *The regulations.* (1) No vessel, person, or other craft shall enter, transit, anchor, drift or otherwise navigate within the area described in paragraph (a) of this section for any reason without written permission from the Officer in Charge, Naval Support Activity Panama City, Panama City Beach, Florida, or his/her authorized representative.
+
+(2) The restriction noted in paragraph (b)(1) of this section is in effect 24 hours a day, 7 days a week.
+
+(3) The regulations in this section shall be enforced by the Officer in Charge, Naval Support Activity Panama City, Panama City Beach Florida, and such agencies as he/she may designate.
+
+[70 FR 67372, Nov. 7, 2005]

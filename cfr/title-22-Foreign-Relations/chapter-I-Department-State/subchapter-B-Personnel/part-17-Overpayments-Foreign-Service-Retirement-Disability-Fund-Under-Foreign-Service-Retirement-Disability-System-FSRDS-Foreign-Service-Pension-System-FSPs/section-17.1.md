@@ -1,0 +1,3 @@
+##### § 17.1 General. #####
+
+This part establishes procedures for notifying individuals of their rights if they have received an overpayment from the Foreign Service Retirement and Disability Fund under Chapter 8 of the Foreign Service Act of 1980, as amended, including their right to contest the determination that there has been an overpayment and the right to request a waiver of recovery of the overpayment. This part also provides the procedures for administrative determination of these rights and for appeals of negative determinations.

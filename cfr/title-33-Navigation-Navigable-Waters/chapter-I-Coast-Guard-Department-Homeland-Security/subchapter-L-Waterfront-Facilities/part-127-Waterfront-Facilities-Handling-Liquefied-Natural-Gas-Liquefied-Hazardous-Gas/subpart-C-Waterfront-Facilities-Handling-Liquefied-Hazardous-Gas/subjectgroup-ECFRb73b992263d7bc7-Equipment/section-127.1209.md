@@ -1,0 +1,3 @@
+##### § 127.1209 Respiratory protection. #####
+
+Each waterfront facility handling LHG must provide equipment for respiratory protection for each employee of the facility in the marine transfer area for LHG during the transfer of one or more of the following toxic LHGs; anhydrous ammonia, chlorine, dimethylamine, ethylene oxide, methyl bromide, sulphur dioxide, or vinyl chloride. The equipment must protect the wearer from the LHG's vapor for at least 5 minutes.

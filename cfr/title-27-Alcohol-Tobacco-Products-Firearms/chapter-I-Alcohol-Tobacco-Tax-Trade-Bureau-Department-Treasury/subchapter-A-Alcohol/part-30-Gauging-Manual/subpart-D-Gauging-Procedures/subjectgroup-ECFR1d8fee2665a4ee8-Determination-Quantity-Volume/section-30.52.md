@@ -1,0 +1,5 @@
+##### § 30.52 Procedure for measurement of cased spirits. #####
+
+Where the quantity of spirits in a case is to be determined by volume, such determination shall be made by ascertaining the contents of one bottle in the case and multiplying that figure by the number of bottles in the case. For cases containing bottles filled according to the metric system of measure, the quantity determined shall be converted to wine gallons, as provided in § 19.582 of this chapter. The wine gallons of spirits thus determined for one case may then be multiplied by the number of cases containing spirits at the same proof when determining the quantity of spirits for more than one case. The proof gallons of spirits in cases shall be determined by multiplying the wine gallons by the proof (divided by 100).
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1358, as amended (26 U.S.C. 5204))[T.D. ATF-198, 50 FR 8535, Mar. 1, 1985, as amended by T.D. TTB-92, 76 FR 9171, Feb. 16, 2011]

@@ -1,0 +1,3 @@
+##### § 183.315 Reference depth. #####
+
+Reference depth is the minimum distance between the uppermost surface of the submerged reference area of a boat and the surface of the water measured at the centerline of the boat, as illustrated in Figure 10. If there is no deck surface at the centerline of the boat from which a measurement can be made, the reference depth is the average of two depth measurements made on opposite sides of, and at an equal distance from, the centerline of the boat.

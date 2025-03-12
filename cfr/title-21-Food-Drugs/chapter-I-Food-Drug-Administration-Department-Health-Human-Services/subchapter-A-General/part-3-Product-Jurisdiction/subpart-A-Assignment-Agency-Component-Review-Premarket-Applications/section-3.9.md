@@ -1,0 +1,7 @@
+##### § 3.9 Effect of letter of designation. #####
+
+(a) The letter of designation constitutes an agency determination that is subject to change only as provided in paragraph (b) of this section.
+
+(b) The product jurisdiction officer may change the designated agency component with the written consent of the sponsor, or without its consent to protect the public health or for other compelling reasons. A sponsor shall be given 30 days written notice of any proposed nonconsensual change in designated agency component. The sponsor may request an additional 30 days to submit written objections, not to exceed 15 pages, to the proposed change, and shall be granted, upon request, a timely meeting with the product jurisdiction officer and appropriate center officials. Within 30 days of receipt of the sponsor's written objections, the product jurisdiction officer shall issue to the sponsor, with copies to appropriate center officials, a written determination setting forth a statement of reasons for the proposed change in designated agency component. A nonconsensual change in the designated agency component requires the concurrence of the Principal Associate Commissioner.
+
+[56 FR 58756, Nov. 21, 1991, as amended at 68 FR 37077, June 23, 2003]

@@ -1,0 +1,5 @@
+##### § 24.227 Transfer of spirits by pipeline for immediate use. #####
+
+Spirits transferred by pipeline for immediate use are gauged either by weight or by volume on the bonded premises of the distilled spirits plant. Where the spirits are gauged on the bonded premises of the distilled spirits plant, the pipelines will be directly connected with the spirits addition tanks. The valves in the pipeline will be closed and locked with a lock at all times except when necessary to be opened for the transfer of spirits. Where the proprietor has placed wine in a spirits addition tank and has determined the quantity of spirits to be added, the spirits may be transferred.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1382, as amended (26 U.S.C. 5373))[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31079, July 9, 1991]

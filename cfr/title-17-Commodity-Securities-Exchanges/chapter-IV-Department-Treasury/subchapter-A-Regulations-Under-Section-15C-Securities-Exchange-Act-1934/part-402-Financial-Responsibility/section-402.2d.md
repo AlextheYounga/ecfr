@@ -1,0 +1,43 @@
+##### § 402.2d Appendix D—Modification of § 240.15c3-1d of this title, relating to satisfactory subordination agreements, for purposes of § 402.2. #####
+
+Section 240.15c3-1d of this title shall apply to government securities brokers and dealers subject to the requirements of § 402.2 with the following modifications.
+
+(a) References to “broker or dealer” include government securities brokers and dealers.
+
+(b) References to “17 CFR 240.15c3-1” mean § 402.2.
+
+(c) Section 240.15c3-1d(a)(2)(iii) is modified to read as follows:
+
+“(iii) The term “Collateral Value” of any securities pledged to secure a secured demand note shall mean the market value of such securities after giving effect to the haircuts specified in § 402.2a of this title.”
+
+(d) References to “17 CFR 240.15c3-1d” mean that section as modified by this section.
+
+(e) Section 240.15c3-1d(b)(6)(iii) is modified to read as follows:
+
+“(iii) The secured demand note agreement may also provide that, in lieu of the procedures specified in the provisions required by paragraph (b)(6)(ii) of this section, the lender, with the prior written consent of the government securities broker or dealer and the Examining Authority for such broker or dealer, may reduce the unpaid principal amount of the secured demand note. After giving effect to such reduction, the liquid capital, as defined in § 402.2(d) of this title, of the government securities broker or dealer may not be less than 150% of the government securities broker's or dealer's total haircuts, as defined in § 402.2(g) of this title. No single secured demand note shall be permitted to be reduced by more than 15% of its original principal amount and after such reduction no excess collateral may be withdrawn. No Examining Authority shall consent to a reduction of the principal amount of a secured demand note if, after giving effect to such reduction, liquid capital after deducting total haircuts would be less than 120% of the minimum dollar amount required by § 402.2(b) or § 402.2(c) of this title as applicable.”
+
+(f) Section 240.15c3-1d(b)(7) is modified to read as follows:
+
+“(7) A government securities broker or dealer at its option but not at the option of the lender may, if the subordination agreement so provides, make a Payment of all or any portion of the Payment Obligation thereunder prior to the scheduled maturity date of such Payment Obligation (hereinafter referred to as a “Prepayment”), but in no event may any Prepayment be made before the expiration of one year from the date such subordination agreement became effective. This restriction shall not apply to temporary subordination agreements which comply with the provisions of paragraph (c)(5) of this section. No Prepayment shall be made if, after giving effect thereto (and to all Payments of Payment Obligations under any other subordinated agreements then outstanding the maturities or accelerated maturities of which are scheduled to fall due within six months after the date such Prepayment is to occur pursuant to this provision or on or prior to the date on which the Payment Obligation in respect of such Prepayment is scheduled to mature disregarding this provision, whichever date is earlier) without reference to any projected profit or loss of the government securities broker or dealer, the liquid capital, as defined in § 402.2(d) of this title, of the government securities broker or dealer would be less than 150% of the government securities broker's or dealer's total haircuts, as defined in § 402.2(g) of this title. Notwithstanding the above, no Prepayment shall occur without the prior written approval of the Examining Authority for such government securities broker or dealer.”.
+
+(g) Section 240.15c3-1d(b)(8) is modified to read as follows:
+
+“(i) The Payment Obligation of the government securities broker or dealer in respect of any subordination agreement shall be suspended and shall not mature if, after giving effect to Payment of such Payment Obligation (and to all Payments of Payment Obligations of such broker or dealer under any other subordination agreement(s) then outstanding which are scheduled to mature on or before such Payment Obligation), either the liquid capital, as defined in § 402.2(d) of this title, of the government securities broker or dealer would be less than 150% of the government securities broker's or dealer's total haircuts, as defined in § 402.2(g) of this title, or the government securities broker's or dealer's liquid capital after deducting total haircuts would be less than 120% of the minimum dollar amount required by § 402.2(b) or § 402.2(c) of this title, as applicable. The subordination agreement may provide that if the Payment Obligation of the government securities broker or dealer thereunder does not mature and is suspended as a result of the requirement of this paragraph (b)(8) for a period of not less than six months, the government securities broker or dealer shall thereupon commence the rapid and orderly liquidation of its business but the right of the lender to receive Payment, together with accrued interest or compensation, shall remain subordinate as required by the provisions of 17 CFR 240.15c3-1 and 240.15c3-1d.”.
+
+(h) Section 240.15c3-1d(b)(10)(ii)(B) is modified to read as follows:
+
+“(B) The liquid capital, as defined in § 402.2(d) of this title, of the government securities broker or dealer being less than 120% of total haircuts, as defined in § 402.2(g) of this title, throughout a period of 15 consecutive business days, commencing on the day the broker or dealer first determines and notifies the Examining Authority for the government securities broker or dealer, or the Examining Authority or the Commission first determines and notifies the government securities broker or dealer of such fact;”.
+
+(i) Section 240.15c3-1d(c)(2) is modified to read as follows:
+
+“(2) *Notice of Maturity or Accelerated Maturity.* Every government securities broker or dealer shall immediately notify the Examining Authority for such broker or dealer if, after giving effect to all Payments of Payment Obligations subordination agreements then outstanding which are then due or mature within the following six months without reference to any projected profit or loss of the broker or dealer, the liquid capital, as defined in § 402.2(d) of this title, of such government securities broker or dealer, would be less than 150% of total haircuts, as defined in § 402.2(g) of this title.”.
+
+(j) Section 240.15c3-1d(c)(5)(i) is modified to read as follows:
+
+“(i) For the purpose of enabling a government securities broker or dealer to participate as an underwriter of securities or other extraordinary activities in compliance with the capital requirements of § 402.2 of this title, a government securities broker or dealer shall be permitted, on no more than three occasions in any 12 month period, to enter into a subordination agreement on a temporary basis which has a stated term of no more than 45 days from the date such subordination agreement became effective. This temporary relief shall not apply to a government securities broker or dealer if, within the preceding thirty calendar days, it has given notice pursuant to § 405.3, or if immediately prior to entering into such subordination agreement, the liquid capital, as defined in § 402.2(d) of this title, of such broker or dealer would be less than 150% of total haircuts, as defined in § 402.2(g) of this title, or the amount of its then outstanding subordination agreements exceeds the limits specified in § 240.15c3-1(d). Such temporary subordination agreement shall be subject to all other provisions of this appendix D.”.
+
+(k) Section 240.15c3-1d(c)(5)(ii)(A) is modified to read as follows:
+
+“(A) After giving effect thereto (and to all Payments of Payment Obligations under any other subordinated agreements then outstanding the maturity or accelerated maturities of which are scheduled to fall due within six months after the date such prepayment is to occur pursuant to this provision or on or prior to the date on which the Payment Obligation in respect of such prepayment is schedu1ed to mature disregarding this provision, whichever date is earlier) without reference to any projected profit or loss of the government securities broker or dealer, the liquid capital, as defined in § 402.2(d) of this title, of such broker or dealer, would be less than 180% of total haircuts, as defined in § 402.2(g) of this title.”.
+
+[52 FR 27931, July 24, 1987, as amended at 59 FR 53731, Oct. 26, 1994]

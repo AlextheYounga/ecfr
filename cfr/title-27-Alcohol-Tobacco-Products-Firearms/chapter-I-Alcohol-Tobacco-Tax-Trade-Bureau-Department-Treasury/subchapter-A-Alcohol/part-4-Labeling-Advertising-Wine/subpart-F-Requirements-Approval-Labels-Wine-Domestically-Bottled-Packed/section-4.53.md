@@ -1,0 +1,5 @@
+##### § 4.53 Retention of certificates. #####
+
+Wine that would be required under § 4.45 to be covered by a certificate of origin and identity and/or a certification of proper cellar treatment and that is imported in bulk for bottling in the United States may be removed for consumption from the premises where bottled only if the bottler possesses a certificate of origin and identity and/or a certification of proper cellar treatment of natural wine applicable to the wine, issued by the appropriate entity as set forth in §§ 4.45 and 27.140 of this chapter respectively, that provides the same information as a certificate required under § 4.45(a) and (b) would provide for like wine imported in bottles. The bottler of wine imported in bulk must retain for five years following the removal of such wine from the bonded wine cellar where bottled copies of the certificates required by § 4.45(a) and (b), and must provide them upon request of the appropriate TTB officer.
+
+(Approved by the Office of Management and Budget under control number 1513-0064)[T.D. TTB-145, 81 FR 94197, Dec. 22, 2016]

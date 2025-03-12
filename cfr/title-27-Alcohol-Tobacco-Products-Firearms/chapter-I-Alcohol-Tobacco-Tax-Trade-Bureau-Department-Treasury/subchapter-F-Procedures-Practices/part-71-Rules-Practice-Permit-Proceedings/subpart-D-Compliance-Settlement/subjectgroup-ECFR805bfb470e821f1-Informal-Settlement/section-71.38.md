@@ -1,0 +1,5 @@
+##### § 71.38 Limitation on informal settlement. #####
+
+Where the evidence is conclusive and the nature of the violation is such as to preclude any settlement short of suspension, revocation or annulment, or the violation is of a continuing character that necessitates immediate action to protect the public interest, or where the appropriate TTB officer believes that any informal settlement of the alleged violation will not insure future compliance with the laws and regulations, or in any similar case where the circumstances are such as to clearly preclude informal settlement, and the appropriate TTB officer so finds and states his reasons therefor as provided in § 71.35, he may restrict settlement to that provided in § 71.71.
+
+[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-199, 50 FR 9197, Mar. 6, 1985; T.D. ATF-374, 61 FR 29957, June 13, 1996]

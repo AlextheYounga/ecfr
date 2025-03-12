@@ -1,0 +1,3 @@
+##### § 204.37 Extensions of time. #####
+
+The hearing official may for good cause or in the interests of justice postpone the commencement of the hearing, adjourn a convened hearing for a reasonable period of time or extend or shorten any other time limits prescribed under this section. This extension is not intended to abridge the 30 day initial notice or extend the 60 day decision requirement other than as provided for in 5 CFR 550.1104(d)(10).

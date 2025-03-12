@@ -1,0 +1,3 @@
+##### § 10.5 Computation of time. #####
+
+In computing any period of time prescribed by these rules or allowed by the Commission or the Presiding Officer, the day of the act, event, or default from which the designated period of time begins to run shall not be included. The last day of the period so computed is to be included unless it is a Saturday, a Sunday, or a legal holiday; in which event the period runs until the end of the next day which is not a Saturday, a Sunday or a legal holiday. Intermediate Saturdays, Sundays, and legal holidays shall be excluded from the computation only when the period of time prescribed or allowed is less than seven days.

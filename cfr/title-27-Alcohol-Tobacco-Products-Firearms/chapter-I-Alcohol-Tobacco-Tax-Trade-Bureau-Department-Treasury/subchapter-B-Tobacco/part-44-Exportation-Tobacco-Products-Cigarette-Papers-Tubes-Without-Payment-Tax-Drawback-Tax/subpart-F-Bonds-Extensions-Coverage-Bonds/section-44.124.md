@@ -1,0 +1,5 @@
+##### § 44.124 Strengthening bond. #####
+
+Where the appropriate TTB officer determines that the amount of the bond, under which an export warehouse proprietor is currently carrying on business, no longer adequately protects the revenue, and such bond is in an amount of less than $200,000, the appropriate TTB officer may require the proprietor to file a strengthening bond in an appropriate amount with the same surety as that on the bond already in effect, in lieu of a superseding bond to cover the full liability on the basis of § 44.123. The appropriate TTB officer shall refuse to approve any strengthening bond where any notation is made thereon which is intended or which may be construed as a release of any former bond, or as limiting the amount of either bond to less than its full amount.
+
+(72 Stat. 1421; 26 U.S.C. 5711)[25 FR 4718, May 28, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, as amended by T.D. ATF-480, 67 FR 30802, May 8, 2002]

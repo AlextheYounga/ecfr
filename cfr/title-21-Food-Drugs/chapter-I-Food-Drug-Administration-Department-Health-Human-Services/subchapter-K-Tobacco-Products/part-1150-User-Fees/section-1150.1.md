@@ -1,0 +1,3 @@
+##### § 1150.1 Scope. #####
+
+This part establishes requirements related to tobacco product user fees under section 919 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387s). The total amount of user fees may not exceed the amount specified for that fiscal year in section 919(b) of the Federal Food, Drug, and Cosmetic Act. All domestic manufacturers and importers of tobacco products are required to pay to FDA their percentage share of the total assessment for a fiscal year.

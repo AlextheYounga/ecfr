@@ -1,0 +1,5 @@
+##### § 138.50 Time to apply. #####
+
+(a) A vessel operator who wishes to obtain a Certificate must submit a completed Application form and all required supporting evidence of financial responsibility, and must pay all applicable fees, at least 21 days prior to the date the Certificate is required. The Director, NPFC, may grant an extension of this 21-day deadline upon written request and for good cause shown. An applicant seeking an extension of this deadline must set forth the reasons for the extension request and deliver the request to the Director, NPFC, at least 15 days before the deadline. The Director, NPFC, will not consider a request for an extension of more than 60 days.
+
+(b) The Director, NPFC, generally processes Applications and requests for renewal in the order in which they are received at the NPFC.

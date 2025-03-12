@@ -1,0 +1,11 @@
+##### § 137.300 Farina. #####
+
+(a) Farina is the food prepared by grinding and bolting cleaned wheat, other than durum wheat and red durum wheat, to such fineness that, when tested by the method prescribed in paragraph (b)(2) of this section, it passes through a No. 20 sieve, but not more than 3 percent passes through a No. 100 sieve. It is freed from bran coat, or bran coat and germ, to such extent that the percent of ash therein, calculated to a moisture-free basis, is not more than 0.6 percent. Its moisture content is not more than 15 percent.
+
+(b) For the purposes of this section:
+
+(1) Ash and moisture are determined by the methods therefor referred to in § 137.105(c).
+
+(2) The method referred to in paragraph (a) of this section is as follows: Use No. 20 and No. 100 sieves, having standard 20.3 centimeter (8-inch) full-height frames, complying with the specifications for such cloth set forth in “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed. (1980), Table 1, “Nominal Dimensions of Standard Test Sieves (U.S.A. Standard Series),” under the heading “Definitions of Terms and Explanatory Notes,” which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Fit a No. 20 sieve into a No. 100 sieve. Attach bottom pan to the No. 100 sieve. Pour 100 grams of the sample into the No. 20 sieve. Attach cover and hold the assembly in a slightly inclined position with one hand. Shake the sieves by striking the sides against the other hand with an upward stroke, at the rate of about 150 times per minute. Turn the sieves about one-sixth of a revolution, each time in the same direction, after each 25 strokes. Continue shaking for 2 minutes. Weigh the material which fails to pass through the No. 20 sieve and the material which passes through the No. 100 sieve.
+
+[42 FR 14402, Mar. 15, 1977, as amended at 47 FR 11828, Mar. 19, 1982; 49 FR 10098, Mar. 19, 1984; 54 FR 24894, June 12, 1989]

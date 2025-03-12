@@ -1,0 +1,7 @@
+##### § 96.88 Review of suspension, cancellation, or debarment by the Secretary. #####
+
+(a) Except to the extent provided by the procedures in § 96.84, an adverse action by the Secretary shall not be subject to administrative review.
+
+(b) Section 204(d) of the IAA (42 U.S.C. 14924(d)) provides for judicial review of final actions by the Secretary. When any petition brought under section 204(d) raises as an issue whether the deficiencies necessitating a suspension or cancellation of accreditation or approval have been corrected, procedures maintained by the Secretary pursuant to § 96.84(a) must first be exhausted. A suspension or cancellation of accreditation or approval, and a debarment (whether temporary or permanent) by the Secretary are final actions subject to judicial review. Other actions by the Secretary are not final actions and are not subject to judicial review.
+
+(c) In accordance with section 204(d) of the IAA (42 U.S.C. 14924(d)), an agency or person that has been suspended, cancelled, or temporarily or permanently debarred by the Secretary may petition the United States District Court for the District of Columbia, or the United States district court in the judicial district in which the person resides or the agency is located, pursuant to 5 U.S.C. 706, to set aside the action.

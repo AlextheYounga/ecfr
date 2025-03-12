@@ -1,0 +1,3 @@
+##### § 53.185 Credit on returns. #####
+
+Any person entitled to claim refund of any overpayment of tax imposed by chapter 32 of the Code may, in lieu of claiming refund of the overpayment, claim credit for the overpayment on any return of tax under this subpart subsequently filed. Any such credit claimed on a return must be supported by the evidence prescribed in the applicable regulations in this subpart and 27 CFR 70.123 (Procedure and Administration).

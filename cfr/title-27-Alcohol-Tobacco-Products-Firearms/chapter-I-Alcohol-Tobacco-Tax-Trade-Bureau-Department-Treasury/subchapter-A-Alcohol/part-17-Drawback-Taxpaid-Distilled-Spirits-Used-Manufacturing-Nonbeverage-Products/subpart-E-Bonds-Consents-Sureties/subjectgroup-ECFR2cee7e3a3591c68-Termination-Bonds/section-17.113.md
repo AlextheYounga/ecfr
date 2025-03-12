@@ -1,0 +1,3 @@
+##### § 17.113 Extent of release of surety from liability under bond. #####
+
+The rights of the principal as supported by the bond shall cease as of the date when termination of the bond takes effect, and the surety shall be relieved from liability for drawback allowed on and after that date. Liability for drawback previously allowed shall continue until the claims for such drawback have been properly verified by the appropriate TTB officer according to law and this part.

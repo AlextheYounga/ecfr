@@ -1,0 +1,3 @@
+##### § 646.146 General requirements. #####
+
+Each distributor of cigarettes shall keep copies of invoices, bills of lading, or other suitable commercial records relating to each disposition of more than 60,000 cigarettes. Dividing a single agreement for the disposition of more than 60,000 cigarettes into the delivery of smaller components of 60,000 cigarettes or less does not exempt the distributor from the recordkeeping requirements of this part. The distributor shall include the information prescribed in § 646.147 in his commercial records of disposition.

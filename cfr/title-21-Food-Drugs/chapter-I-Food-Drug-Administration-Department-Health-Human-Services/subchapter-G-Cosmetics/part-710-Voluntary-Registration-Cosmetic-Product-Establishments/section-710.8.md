@@ -1,0 +1,3 @@
+##### § 710.8 Misbranding by reference to registration or to registration number. #####
+
+Registration of a cosmetic product establishment or assignment of a registration number does not in any way denote approval of the firm or its products by the Food and Drug Administration. Any representation in labeling or advertising that creates an impression of official approval because of registration or possession of a registration number will be considered misleading.

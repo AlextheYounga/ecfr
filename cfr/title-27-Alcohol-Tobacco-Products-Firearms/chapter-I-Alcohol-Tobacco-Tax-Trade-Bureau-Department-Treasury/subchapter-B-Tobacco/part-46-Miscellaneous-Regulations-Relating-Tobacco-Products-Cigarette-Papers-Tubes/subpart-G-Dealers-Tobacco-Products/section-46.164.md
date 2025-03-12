@@ -1,0 +1,5 @@
+##### § 46.164 Authority of TTB officers to enter premises. #####
+
+Any appropriate TTB officer may enter in the daytime any premises where tobacco products are kept or stored, so far as it may be necessary for the purpose of examining such products. When such premises are open at night, any appropriate TTB officer may enter them, while so open, in the performance of his official duties. The owner of such premises, or person having the superintendence of the same, who refuses to admit any appropriate TTB officer or permit him to examine such products shall be liable to the penalties prescribed by law for the offense. Operators of vending machines shall make the tobacco products in their machines available for inspection upon the request of any appropriate TTB officer.
+
+(68A Stat. 872, 903; 26 U.S.C. 7342, 7606)[T.D. 6871, 31 FR 60, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975 and amended by T.D. ATF-232, 51 FR 28092, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-472, 67 FR 8881, Feb. 27, 2002]

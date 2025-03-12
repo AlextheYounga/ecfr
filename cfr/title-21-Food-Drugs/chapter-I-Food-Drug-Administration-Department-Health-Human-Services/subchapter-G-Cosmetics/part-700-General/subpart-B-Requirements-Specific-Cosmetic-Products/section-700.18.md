@@ -1,0 +1,7 @@
+##### § 700.18 Use of chloroform as an ingredient in cosmetic products. #####
+
+(a) Chloroform has been used as an ingredient in cosmetic products. Recent information has become available associating chloroform with carcinogenic effects in animals. Studies conducted by the National Cancer Institute have demonstrated that the oral administration of chloroform to mice and rats induced hepatocellular carcinomas (liver cancer) in mice and renal tumors in male rats. Scientific literature indicates that chloroform is absorbed from the gastrointestinal tract, through the respiratory system, and through the skin. The Commissioner concludes that, on the basis of these findings, chloroform is a deleterious substance which may render injurious to users any cosmetic product that contains chloroform as an ingredient.
+
+(b) Any cosmetic product containing chloroform as an ingredient is adulterated and is subject to regulatory action under sections 301 and 601(a) of the Federal Food, Drug, and Cosmetic Act. Any cosmetic product containing chloroform in residual amounts from its use as a processing solvent during manufacture, or as a byproduct from the synthesis of an ingredient, is not, for the purpose of this section, considered to contain chloroform as an ingredient.
+
+[41 FR 26845, June 29, 1976]

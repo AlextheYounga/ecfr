@@ -1,0 +1,3 @@
+##### § 125.37 Hearing Boards. #####
+
+The Commandant may establish a Hearing Board in each Coast Guard District. The Commandant shall designate for each Hearing Board a Chairman, who shall be, so far as practicable, an officer of the Coast Guard. The Commandant shall designate, so far as practicable, a second member from a panel of persons representing labor named by the Secretary of Labor, and a third member from a panel of persons representing management named by the Secretary of Labor.

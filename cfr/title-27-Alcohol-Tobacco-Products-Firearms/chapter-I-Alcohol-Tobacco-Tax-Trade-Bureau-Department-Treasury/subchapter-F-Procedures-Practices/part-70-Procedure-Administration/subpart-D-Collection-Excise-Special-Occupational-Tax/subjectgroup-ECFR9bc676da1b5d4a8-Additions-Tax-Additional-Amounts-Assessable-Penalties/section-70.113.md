@@ -1,0 +1,9 @@
+##### § 70.113 Penalty for failure to supply taxpayer identification number. #####
+
+(a) *In general.* Except as provided in paragraph (b) of this section, any person who is required by the regulations under section 6109 of the Internal Revenue Code to include the taxpayer identification number in any return, statement, or other document, fails to comply with such requirement at the time prescribed by such regulations, such person shall pay a penalty of $50 for each such failure, except that the total amount imposed on such person for all such failures during any calendar year shall not exceed $100,000. For returns having a due date (determined without regard to extensions) after December 31, 1986, the total amount imposed on such person for all such failures during any calendar year shall not exceed $100,000. Such penalty shall be paid in the same manner as tax upon the issuance of a notice and demand therefor.
+
+(b) *Reasonable cause.* If any person who is required by the regulations under section 6109 of the Internal Revenue Code to supply a taxpayer identification number fails to comply with such requirement at the time prescribed by such regulations, but establishes to the satisfaction of the appropriate TTB officer that such failure was due to reasonable cause, the penalty set forth in paragraph (a) of this section shall not apply.
+
+(c) *Persons required to supply taxpayer identification numbers.* For regulations under section 6109 of the Internal Revenue Code relating to persons required to supply an identifying number, see the regulations relating to the particular tax.
+
+(26 U.S.C. 6723)[T.D. ATF-251, 52 FR 19314, May 22, 1987. Redesignated and amended by T.D. ATF-301, 55 FR 47606, 47615, Nov. 14, 1990]

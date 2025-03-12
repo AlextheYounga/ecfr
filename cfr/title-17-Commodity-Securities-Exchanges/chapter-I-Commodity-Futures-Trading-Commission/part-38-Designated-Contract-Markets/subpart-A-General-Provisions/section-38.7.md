@@ -1,0 +1,5 @@
+##### § 38.7 Prohibited use of data collected for regulatory purposes. #####
+
+A designated contract market may not use for business or marketing purposes any proprietary data or personal information it collects or receives, from or on behalf of any person, for the purpose of fulfilling its regulatory obligations; provided however, that a designated contract market may use such data or information for business or marketing purposes if the person from whom it collects or receives such data or information clearly consents to the designated contract market's use of such data or information in such manner. A designated contract market, where necessary, for regulatory purposes, may share such data or information with one or more designated contract markets or swap execution facilities registered with the Commission. A designated contract market may not condition access to its trading facility on a market participant's consent to the use of proprietary data or personal information for business or marketing purposes.
+
+[77 FR 36699, June 19, 2012]

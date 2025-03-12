@@ -1,0 +1,7 @@
+##### § 41.202 Renewal of permit. #####
+
+(a) *Permits with an effective date on or after August 26, 2013.* A person operating as an importer of tobacco products that holds a permit required under § 41.191 and issued under § 41.200 bearing an effective date of August 26, 2013 or later, and that wishes to continue operations beyond the expiration of the permit, must apply for renewal of the permit within 30 days prior to expiration of the permit, in accordance with the instructions provided with the renewal application form. Permits will be renewed only for those persons that have engaged in the importing of tobacco products under the current permit during the one-year period immediately prior to the date of the application to renew.
+
+(b) *Permits with an effective date prior to August 26, 2013.* A person may not obtain renewal of a permit bearing an effective date prior to August 26, 2013. A person operating as an importer of tobacco products that holds a permit bearing an effective date prior to August 26, 2013, and that wishes to continue in operations as an importer of tobacco products, must apply for and receive a new permit for issuance under § 41.200 and in accordance with the rules contained in § 41.201(b).
+
+[78 FR 38571, June 27, 2013]

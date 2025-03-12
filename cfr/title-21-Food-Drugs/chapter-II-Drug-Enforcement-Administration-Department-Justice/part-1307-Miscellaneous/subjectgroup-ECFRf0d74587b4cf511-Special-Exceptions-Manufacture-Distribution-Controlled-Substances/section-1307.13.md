@@ -1,0 +1,5 @@
+##### § 1307.13 Incidental manufacture of controlled substances. #####
+
+Any registered manufacturer who, incidentally but necessarily, manufactures a controlled substance as a result of the manufacture of a controlled substance or basic class of controlled substance for which he is registered and has been issued an individual manufacturing quota pursuant to part 1303 of this chapter (if such substance or class is listed in Schedule I or II) shall be exempt from the requirement of registration pursuant to part 1301 of this chapter and, if such incidentally manufactured substance is listed in Schedule I or II, shall be exempt from the requirement of an individual manufacturing quota pursuant to part 1303 of this chapter, if such substances are disposed of in accordance with part 1317 of this chapter.
+
+[79 FR 53565, Sept. 9, 2014]

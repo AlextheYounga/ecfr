@@ -1,0 +1,5 @@
+##### § 3.55-20 Sector San Francisco: San Francisco Bay Marine Inspection Zone and Captain of the Port Zone. #####
+
+The Sector San Francisco office is located in San Francisco, CA. The boundaries of Sector San Francisco's San Francisco Bay Marine Inspection and Captain of the Port Zones comprise the land masses and waters of Wyoming within the boundaries of Sweetwater County; Utah, except for Washington, Kane, San Juan, and Garfield Counties; Nevada, except for Clark County; and California, north of San Luis Obispo, Kern, and San Bernardino Counties. It also includes all ocean waters and islands contained therein of the EEZ bounded on the north by the northern boundary of the Eleventh Coast Guard District, which is described in § 3.55-1; and on the south by a line bearing 240 °T from the intersection of the Monterey-San Luis Obispo Count lines (approximately 35°47.5′00″ N latitude) and the California coast to the outermost extent of the EEZ; and on the west by the outermost extent of the EEZ.
+
+[USCG-2006-25556, 72 FR 36326, July 2, 2007]

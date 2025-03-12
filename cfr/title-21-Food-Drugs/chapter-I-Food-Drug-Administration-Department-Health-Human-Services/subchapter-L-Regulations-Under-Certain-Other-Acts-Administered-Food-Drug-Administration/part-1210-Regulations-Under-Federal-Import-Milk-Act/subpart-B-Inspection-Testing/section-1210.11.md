@@ -1,0 +1,3 @@
+##### § 1210.11 Sanitary inspection of dairy farms. #####
+
+The sanitary conditions of any dairy farm producing milk or cream to be shipped or transported into the United States or to a plant from which milk or cream is to be shipped or transported into the United States must score at least 50 points out of 100 points, according to the methods for scoring as provided by the score card for sanitary inspection of dairy farms in the form prescribed by the Secretary.

@@ -1,0 +1,5 @@
+##### § 28.63 Bond, Form 2736 (5100.12). #####
+
+Where the proprietor of a manufacturing bonded warehouse desires to withdraw a specific lot of distilled spirits or wines without payment of tax, as authorized in § 28.25, he shall file, as provided in § 28.51, a specific bond, on Form 2736 (5100.12), to cover the transportation of the distilled spirits or wines from the bonded premises from which withdrawn to the manufacturing bonded warehouse. The penal sum of such bond shall be not less than the tax prescribed by law on the quantity of distilled spirits or wines to be withdrawn: *Provided,* That the maximum penal sum of such bond shall not exceed $200,000, but in no case shall the penal sum be less than $1,000.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1352, as amended, 1380, as amended (26 U.S.C. 5175, 5362))[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-62, 44 FR 71721, Dec. 11, 1979; T.D. TTB-8, 69 FR 3832, Jan. 27, 2004]

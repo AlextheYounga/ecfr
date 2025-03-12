@@ -1,0 +1,11 @@
+##### § 447.2 Relation to other laws and regulations. #####
+
+(a) All of those items on the U.S. Munitions Import List (see § 447.21) which are “firearms” or “ammunition” as defined in 18 U.S.C. 921(a) are subject to the interstate and foreign commerce controls contained in Chapter 44 of Title 18 U.S.C. and 27 CFR Part 478 and if they are “firearms” within the definition set out in 26 U.S.C. 5845(a) are also subject to the provisions of 27 CFR Part 479. Any person engaged in the business of importing firearms or ammunition as defined in 18 U.S.C. 921(a) must obtain a license under the provisions of 27 CFR Part 478, and if he imports firearms which fall within the definition of 26 U.S.C. 5845(a) must also register and pay special tax pursuant to the provisions of 27 CFR Part 479. Such licensing, registration and special tax requirements are in addition to registration under subpart D of this part.
+
+(b) The permit procedures of subpart E of this part are applicable to all importations of articles on the U.S. Munitions Import List not subject to controls under 27 CFR Part 478 or 479. U.S. Munitions Import List articles subject to controls under 27 CFR Part 478 or 27 CFR Part 479 are subject to the import permit procedures of those regulations if imported into the United States (within the meaning of 27 CFR Parts 478 and 479).
+
+(c) Articles on the U.S. Munitions Import List imported for the United States or any State or political subdivision thereof are exempt from the import controls of 27 CFR Part 478 but are not exempt from control under Section 38, Arms Export Control Act of 1976, unless imported by the United States or any agency thereof. All such importations not imported by the United States or any agency thereof shall be subject to the import permit procedures of subpart E of this part.
+
+(d) For provisions requiring the registration of persons engaged in the business of brokering activities with respect to the importation of any defense article or defense service, see Department of State regulations in 22 CFR part 129.
+
+[T.D. ATF-215, 50 FR 42158, Oct. 18, 1985, as amended by T.D. ATF-426, 65 FR 38197, June 20, 2000]

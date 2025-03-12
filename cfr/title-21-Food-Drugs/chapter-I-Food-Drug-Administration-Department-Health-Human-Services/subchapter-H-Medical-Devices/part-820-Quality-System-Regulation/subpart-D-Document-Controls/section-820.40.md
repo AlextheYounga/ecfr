@@ -1,0 +1,7 @@
+##### § 820.40 Document controls. #####
+
+Each manufacturer shall establish and maintain procedures to control all documents that are required by this part. The procedures shall provide for the following:
+
+(a) *Document approval and distribution.* Each manufacturer shall designate an individual(s) to review for adequacy and approve prior to issuance all documents established to meet the requirements of this part. The approval, including the date and signature of the individual(s) approving the document, shall be documented. Documents established to meet the requirements of this part shall be available at all locations for which they are designated, used, or otherwise necessary, and all obsolete documents shall be promptly removed from all points of use or otherwise prevented from unintended use.
+
+(b) *Document changes.* Changes to documents shall be reviewed and approved by an individual(s) in the same function or organization that performed the original review and approval, unless specifically designated otherwise. Approved changes shall be communicated to the appropriate personnel in a timely manner. Each manufacturer shall maintain records of changes to documents. Change records shall include a description of the change, identification of the affected documents, the signature of the approving individual(s), the approval date, and when the change becomes effective.

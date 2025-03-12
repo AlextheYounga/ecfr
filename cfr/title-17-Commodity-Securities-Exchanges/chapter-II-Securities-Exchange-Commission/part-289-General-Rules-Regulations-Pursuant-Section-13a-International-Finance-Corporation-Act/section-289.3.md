@@ -1,0 +1,3 @@
+##### § 289.3 Reports with respect to proposed distribution of primary obligations. #####
+
+The IFC shall file with the Commission, on or prior to the date on which it sells any of its primary obligations in connection with a distribution of such obligations in the United States, a report containing the information and documents specified in Schedule A of this part. The term “sell” as used in this section and in Schedule A of this Part means a completed sale, or a firm commitment to sell to an underwriter.

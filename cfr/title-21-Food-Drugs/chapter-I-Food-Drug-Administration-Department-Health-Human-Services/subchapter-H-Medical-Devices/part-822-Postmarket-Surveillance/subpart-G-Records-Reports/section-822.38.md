@@ -1,0 +1,3 @@
+##### § 822.38 What reports must I submit to you? #####
+
+You must submit interim and final reports as specified in your approved postmarket surveillance plan. In addition, we may ask you to submit additional information when we believe that the information is necessary for the protection of the public health and implementation of the act. We will also state the reason or purpose for the request and how we will use the information.

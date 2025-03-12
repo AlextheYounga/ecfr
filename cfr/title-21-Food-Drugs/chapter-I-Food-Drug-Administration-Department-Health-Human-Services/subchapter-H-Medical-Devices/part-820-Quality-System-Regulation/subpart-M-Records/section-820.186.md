@@ -1,0 +1,3 @@
+##### § 820.186 Quality system record. #####
+
+Each manufacturer shall maintain a quality system record (QSR). The QSR shall include, or refer to the location of, procedures and the documentation of activities required by this part that are not specific to a particular type of device(s), including, but not limited to, the records required by § 820.20. Each manufacturer shall ensure that the QSR is prepared and approved in accordance with § 820.40.

@@ -1,0 +1,9 @@
+##### § 3a.2 Requirement for approval of foreign government employment. #####
+
+(a) The United States Constitution (Article I, section 9, clause 8) prohibits the acceptance of civil employment with a foreign government by an officer of the United States without the consent of Congress. Congress has consented to the acceptance of civil employment (and compensation therefor) by any person described in § 3a.1(b) subject to the approval of the Secretary concerned and the Secretary of State (37 U.S.C. 801, Note). Civil employment with a foreign government may not be accepted without such approval by any person so described.
+
+(b) The Secretary of State has no authority to approve employment with a foreign government by any officer of the United States other than a person described in § 3a.1(a). The acceptance of employment with a foreign government by any other officer of the United States remains subject to the constitutional prohibition described in paragraph (a) of this section.
+
+(c) Any person described in § 3a.1(a) who accepts employment with a foreign government without the approval required by this section or otherwise obtaining the consent of Congress is subject to forfeiture of retired pay to the extent of his or her compensation from the foreign government, according to the Comptroller General of the United States (44 Comp. Gen. 139 (1964)). This forfeiture is in addition to any other penalty which may be imposed under law or regulation.1
+
+1 Approval under this part does not constitute an exception to the provisions of the Immigration and Nationality Act concerning loss of United States citizenship, for example, by becoming a citizen of or taking an oath of allegiance to another country. See 8 U.S.C. 1481 *et seq.*

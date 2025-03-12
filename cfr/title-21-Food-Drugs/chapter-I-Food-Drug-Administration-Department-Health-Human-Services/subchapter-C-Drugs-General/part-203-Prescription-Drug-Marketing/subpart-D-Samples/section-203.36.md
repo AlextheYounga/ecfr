@@ -1,0 +1,5 @@
+##### § 203.36 Fulfillment houses, shipping and mailing services, comarketing agreements, and third-party recordkeeping. #####
+
+(a) *Responsibility for creating and maintaining forms, reports, and records.* Any manufacturer or authorized distributor of record that uses a fulfillment house, shipping or mailing service, or other third party, or engages in a comarketing agreement with another manufacturer or distributor to distribute drug samples or to meet any of the requirements of PDMA, PDA, or this part, remains responsible for creating and maintaining all requests, receipts, forms, reports, and records required under PDMA, PDA, and this part.
+
+(b) *Responsibility for producing requested forms, reports, or records.* A manufacturer or authorized distributor of record that contracts with a third party to maintain some or all of its records shall produce requested forms, reports, records, or other required documents within 2 business days of a request by an authorized representative of FDA or another Federal, State, or local regulatory or law enforcement official.

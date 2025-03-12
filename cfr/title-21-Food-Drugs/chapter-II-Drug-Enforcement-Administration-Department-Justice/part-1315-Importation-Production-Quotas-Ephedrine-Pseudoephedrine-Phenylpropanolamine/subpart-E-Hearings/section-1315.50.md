@@ -1,0 +1,3 @@
+##### § 1315.50 Hearings generally. #####
+
+The procedures for the hearing related to assessment of annual needs or to the issuance, adjustment, suspension, or denial of a manufacturing, procurement, or import quota are governed generally by the adjudication procedures set forth in the Administrative Procedure Act (5 U.S.C. 551-559) and specifically by section 1002 of the Act (21 U.S.C. 952), by §§ 1315.52 through 1315.62 of this part, and by the procedures for administrative hearings under the Act set forth in §§ 1316.41 through 1316.67 of this chapter.

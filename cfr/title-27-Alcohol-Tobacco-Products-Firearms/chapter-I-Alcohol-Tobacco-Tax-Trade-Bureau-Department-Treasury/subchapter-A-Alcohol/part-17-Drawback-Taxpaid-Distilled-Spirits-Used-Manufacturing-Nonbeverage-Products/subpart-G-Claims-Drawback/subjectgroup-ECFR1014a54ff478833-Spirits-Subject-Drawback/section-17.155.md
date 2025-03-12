@@ -1,0 +1,3 @@
+##### § 17.155 Spirits consumed in manufacturing intermediate products. #####
+
+Spirits consumed in the manufacture of an intermediate product—which are not contained in the intermediate product at the time of its use in nonbeverage products—are not subject to drawback. Such spirits are not considered to have been used in the manufacture of nonbeverage products. However, see § 17.127 with respect to optional treatment of ingredients as unfinished nonbeverage products, rather than as intermediate products.

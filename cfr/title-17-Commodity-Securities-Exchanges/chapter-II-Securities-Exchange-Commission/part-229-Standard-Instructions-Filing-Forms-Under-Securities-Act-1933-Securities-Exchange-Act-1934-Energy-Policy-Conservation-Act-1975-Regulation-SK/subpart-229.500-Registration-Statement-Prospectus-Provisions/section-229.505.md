@@ -1,0 +1,5 @@
+##### § 229.505 (Item 505) Determination of offering price. #####
+
+(a) *Common equity.* Where common equity is being registered for which there is no established public trading market for purposes of paragraph (a) of Item 201 of Regulation S-K (§ 229.201(a)) or where there is a material disparity between the offering price of the common equity being registered and the market price of outstanding shares of the same class, describe the various factors considered in determining such offering price.
+
+(b) *Warrants, rights and convertible securities.* Where warrants, rights or convertible securities exercisable for common equity for which there is no established public trading market for purposes of paragraph (a) of Item 201 of Regulation S-K (§ 229.201(a)) are being registered, describe the various factors considered in determining their exercise or conversion price.

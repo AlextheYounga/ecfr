@@ -1,0 +1,3 @@
+##### § 10.200 Scope. #####
+
+This guideline describes FDA's policy and procedures applicable to electronic media coverage of agency public administrative proceedings. It is a guideline intended to clarify and explain FDA's policy on the presence and operation of electronic recording equipment at such proceedings and to assure uniform and consistent application of practices and procedures throughout the agency.

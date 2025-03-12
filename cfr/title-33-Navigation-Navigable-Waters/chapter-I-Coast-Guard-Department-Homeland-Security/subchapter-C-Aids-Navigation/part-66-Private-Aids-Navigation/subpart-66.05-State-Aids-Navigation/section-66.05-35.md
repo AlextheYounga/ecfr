@@ -1,0 +1,3 @@
+##### § 66.05-35 Private aids to navigation other than State owned. #####
+
+(a) No person, public body or other instrumentality not under control of the Commandant or the State Administrator, exclusive of the Armed Forces of the United States, shall establish, erect or maintain in State waters for private aids to navigation any aid to navigation without first obtaining permission to do so from the State Administrator. Discontinuance of any State aids to navigation may be effected by order of the State Administrator.

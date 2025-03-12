@@ -1,0 +1,3 @@
+##### § 515.40 Judicial review. #####
+
+The transcript and record shall be certified by the Commissioner of Food and Drugs (the Commissioner). In any case in which the Commissioner enters an order without a hearing under § 314.200(g) of this chapter, the request(s) for hearing together with the data and information submitted and the Commissioner's findings and conclusions shall be included in the record certified by the Commissioner.

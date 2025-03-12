@@ -1,0 +1,11 @@
+##### § 201.430 Appeal of actions made pursuant to delegated authority. #####
+
+(a) *Scope of rule.* Any person aggrieved by an action made by authority delegated in §§ 200.30-1 through 200.30-8 or §§ 200.30-11 through 200.30-18 of this chapter may seek review of the action pursuant to paragraph (b) of this section.
+
+(b) *Procedure*—(1) *Notice of intention to petition for review.* A party to an action made pursuant to delegated authority, or a person aggrieved by such action, may seek Commission review of the action by filing a written notice of intention to petition for review within five days after actual notice of the action to that party or aggrieved person, or 15 days after publication of the notice of action in the Federal Register, or five days after service of notice of the action on that party or aggrieved person pursuant to § 201.141(b), whichever is the earliest.
+
+(2) *Petition for review.* Within five days after the filing of a notice of intention to petition for review pursuant to paragraph (b)(1) of this section, the person seeking review shall file a petition for review containing a clear and concise statement of the issues to be reviewed and the reasons why review is appropriate. The petition shall include exceptions to any findings of fact or conclusions of law made, together with supporting reasons for such exceptions based on appropriate citations to such record as may exist. These reasons may be stated in summary form.
+
+(c) *Prerequisite to judicial review.* Pursuant to Section 704 of the Administrative Procedure Act, 5 U.S.C. 704, a petition to the Commission for review of an action made by authority delegated in §§ 200.30-1 through 200.30-18 of this chapter is a prerequisite to the seeking of judicial review of a final order entered pursuant to such an action. Pursuant to 15 U.S.C. 7214(h)(2), any decision by the Commission pursuant to 200.30-11 shall not be reviewable under 15 U.S.C. 78y and shall not be deemed 'final agency action' for purposes of 5 U.S.C. 704.
+
+[60 FR 32796, June 23, 1995; 60 FR 46500, Sept. 7, 1995, as amended at 69 FR 13179, Mar. 19, 2004; 70 FR 72570, Dec. 5, 2005; 75 FR 47449, Aug. 6, 2010]

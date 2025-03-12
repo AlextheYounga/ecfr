@@ -1,0 +1,5 @@
+##### § 211.176 Penicillin contamination. #####
+
+If a reasonable possibility exists that a non-penicillin drug product has been exposed to cross-contamination with penicillin, the non-penicillin drug product shall be tested for the presence of penicillin. Such drug product shall not be marketed if detectable levels are found when tested according to procedures specified in ‘Procedures for Detecting and Measuring Penicillin Contamination in Drugs,’ which is incorporated by reference. Copies are available from the Division of Research and Testing (HFD-470), Center for Drug Evaluation and Research, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+[43 FR 45077, Sept. 29, 1978, as amended at 47 FR 9396, Mar. 5, 1982; 50 FR 8996, Mar. 6, 1985; 55 FR 11577, Mar. 29, 1990; 66 FR 56035, Nov. 6, 2001; 69 FR 18803, Apr. 9, 2004; 81 FR 49897, July 29, 2016]

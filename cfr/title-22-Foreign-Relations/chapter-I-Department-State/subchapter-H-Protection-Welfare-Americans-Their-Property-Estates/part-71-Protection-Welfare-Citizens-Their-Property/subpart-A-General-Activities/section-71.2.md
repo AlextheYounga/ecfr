@@ -1,0 +1,3 @@
+##### § 71.2 Requests for naval force in foreign port. #####
+
+Diplomatic representatives and consular officers shall not request the presence of a naval force in a foreign port unless a public emergency so necessitates. The request may be addressed to the officers in command of the naval force, in which event responsibility of action rests with them, or it may be addressed to the Department of State. In either case, the request should contain detailed reasons for its submission.

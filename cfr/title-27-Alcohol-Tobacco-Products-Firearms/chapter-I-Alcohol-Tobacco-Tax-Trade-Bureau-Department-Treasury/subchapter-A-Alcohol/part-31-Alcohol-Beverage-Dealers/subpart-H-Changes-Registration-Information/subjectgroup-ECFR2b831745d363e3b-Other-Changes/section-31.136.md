@@ -1,0 +1,3 @@
+##### § 31.136 Change in membership of unincorporated club. #####
+
+Registration of an unincorporated club is not required by reason of changes in membership, when those changes do not result in the dissolution of the club and the formation of a new club, unless the changes involve a person with the power to control the management policies or buying or selling practices pertaining to alcohol. In the latter case, the filing of an amended registration is required on or before the next July 1.

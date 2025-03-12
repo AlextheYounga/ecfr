@@ -1,0 +1,3 @@
+##### § 515.20 Approval of medicated feed mill license applications. #####
+
+Within 90 days after an application has been filed under § 515.10, if the Commissioner of Food and Drugs (the Commissioner) determines that none of the grounds for denying approval specified in section 512(m)(3) of the Federal Food, Drug, and Cosmetic Act (the act) applies, an authorized employee of the Food and Drug Administration designated by the Commissioner shall notify the applicant that it is approved by signing and mailing to the applicant a copy of the Form FDA 3448.

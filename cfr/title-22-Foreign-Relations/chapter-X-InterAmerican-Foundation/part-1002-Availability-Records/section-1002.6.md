@@ -1,0 +1,3 @@
+##### § 1002.6 Records of other Departments and Agencies. #####
+
+Requests for records that have been originated by or are primarily the concern of another U.S. Department or Agency will be forwarded to the particular Department of Agency involved, and the petitioner notified. In response to requests for records or publications published by the Government Printing Office or other Government printing activity, the Foundation will refer the petitioner to the appropriate sales office and refund any fee payments therefor which accompany the request.

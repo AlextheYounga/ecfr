@@ -1,0 +1,11 @@
+##### § 312.84 Risk-benefit analysis in review of marketing applications for drugs to treat life-threatening and severely-debilitating illnesses. #####
+
+(a) FDA's application of the statutory standards for marketing approval shall recognize the need for a medical risk-benefit judgment in making the final decision on approvability. As part of this evaluation, consistent with the statement of purpose in § 312.80, FDA will consider whether the benefits of the drug outweigh the known and potential risks of the drug and the need to answer remaining questions about risks and benefits of the drug, taking into consideration the severity of the disease and the absence of satisfactory alternative therapy.
+
+(b) In making decisions on whether to grant marketing approval for products that have been the subject of an end-of-phase 1 meeting under § 312.82, FDA will usually seek the advice of outside expert scientific consultants or advisory committees. Upon the filing of such a marketing application under § 314.101 or part 601 of this chapter, FDA will notify the members of the relevant standing advisory committee of the application's filing and its availability for review.
+
+(c) If FDA concludes that the data presented are not sufficient for marketing approval, FDA will issue a complete response letter under § 314.110 of this chapter or the biological product licensing procedures. Such letter, in describing the deficiencies in the application, will address why the results of the research design agreed to under § 312.82, or in subsequent meetings, have not provided sufficient evidence for marketing approval. Such letter will also describe any recommendations made by the advisory committee regarding the application.
+
+(d) Marketing applications submitted under the procedures contained in this section will be subject to the requirements and procedures contained in part 314 or part 600 of this chapter, as well as those in this subpart.
+
+[53 FR 41523, Oct. 21, 1988, as amended at 73 FR 39607, July 10, 2008]

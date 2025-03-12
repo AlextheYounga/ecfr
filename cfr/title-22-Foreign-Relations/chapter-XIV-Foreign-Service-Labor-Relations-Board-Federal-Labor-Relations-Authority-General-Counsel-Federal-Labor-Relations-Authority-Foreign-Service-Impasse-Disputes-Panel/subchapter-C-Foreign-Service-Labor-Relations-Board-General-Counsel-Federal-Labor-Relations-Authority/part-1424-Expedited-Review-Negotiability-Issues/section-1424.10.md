@@ -1,0 +1,7 @@
+##### § 1424.10 Board decision and order; compliance. #####
+
+(a) Subject to the requirements of this part the Board shall expedite proceedings under this part to the extent practicable and shall issue to the exclusive representative and to the Department a written decision on the allegation and specific reasons therefor at the earliest practicable date.
+
+(b) If the Board finds that the duty to bargain extends to the matter proposed to be bargained, the decision of the Board shall include an order that the Department shall upon request (or as otherwise agreed to by the parties) bargain concerning such matter. If the Board finds that the duty to bargain does not extend to the matter proposed to be bargained, the Board shall so state and issue an order dismissing the petition for review of the negotiability issue. If the Board finds that the duty to bargain extends to the matter proposed to be bargained only at the election of the Department, the Board shall so state and issue an order dismissing the petition for review of the negotiability issue.
+
+(c) When an order is issued as provided in paragraph (b) of this section, the Department or exclusive representative shall report to the appropriate Regional Director within a specified period failure to comply with an order that the Department shall upon request (or as otherwise agreed to by the parties) bargain concerning the disputed matter. If the Board finds such a failure to comply with its order, the Board shall take whatever action it deems necessary, including enforcement under 22 U.S.C. 4109(b).

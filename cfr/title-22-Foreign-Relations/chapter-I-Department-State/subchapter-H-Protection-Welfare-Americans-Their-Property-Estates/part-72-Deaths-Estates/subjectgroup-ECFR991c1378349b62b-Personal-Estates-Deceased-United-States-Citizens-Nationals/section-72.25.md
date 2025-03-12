@@ -1,0 +1,7 @@
+##### § 72.25 Transfer of personal estate to Department of State. #####
+
+(a) If no claimant with a legal right to the personal estate comes forward, or if conflicting claims are not resolved, within one year of the date of death, the consular officer should sell or dispose of the personal estate (except for financial instruments, jewelry, heirlooms, and other articles of obvious sentimental value) in the same manner as United States Government-owned foreign excess property under Title IV of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 511 *et seq.*). If, however, a reasonable amount of additional time is likely to permit final settlement of the estate, the consular officer may in his or her discretion postpone the sale for that period of additional time.
+
+(b) The consular officer should send to the custody of the Department the proceeds of any sale, together with all financial instruments (including bonds, shares of stock and notes of indebtedness), jewelry, heirlooms and other articles of obvious sentimental value, to be held in trust for the legal claimant(s).
+
+(c) After receipt of a personal estate, the Department may seek payment of all outstanding debts to the estate as they become due, may receive any balances due on such estate, may endorse all checks, bills of exchange, promissory notes, and other instruments of indebtedness payable to the estate for the benefit thereof, and may take such other action as is reasonably necessary for the conservation of the estate.

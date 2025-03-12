@@ -1,0 +1,3 @@
+##### § 8.21 General. #####
+
+It is unlawful for an industry member to require, by agreement or otherwise, that any retailer purchase distilled spirits, wine, or malt beverages from the industry member to the exclusion, in whole or in part, of products sold or offered for sale by other persons in interstate or foreign commerce. This prohibition includes purchases coerced by industry members, through acts or threats of physical or economic harm, as well as voluntary industry member-retailer purchase agreements.

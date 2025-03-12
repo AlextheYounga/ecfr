@@ -1,0 +1,5 @@
+##### § 874.4720 Mediastinoscope and accessories. #####
+
+(a) *Identification.* A mediastinoscope and accessories is a tubular tapered electrical endoscopic device with any of a group of accessory devices which attach to the mediastinoscope and is intended to examine or treat tissue in the area separating the lungs. The device is inserted transthoracicly and is used in diagnosis of tumors and lesions and to determine whether excision of certain organs or tissues is indicated. It is typically used with a fiberoptic light source and carrier to provide illumination. The device is made of materials such as stainless steel. This generic type of device includes the flexible foreign body claw, flexible biopsy forceps, rigid biopsy curette, flexible biopsy brush, rigid biopsy forceps, and flexible biopsy curette, but excludes the fiberoptic light source and carrier.
+
+(b) *Classification.* Class II.

@@ -1,0 +1,3 @@
+##### § 903.8 Withdrawal. #####
+
+A case may be withdrawn at any time by written notification to the Board from the party initiating the case. A case may be determined by the Board to have lapsed when the grievant fails to respond in writing to two successive written Board inquiries within any deadline fixed for such response. The Board may permit the reopening of lapsed cases upon a showing of good cause and may permit or request the views of the parties as to whether good cause has been shown.

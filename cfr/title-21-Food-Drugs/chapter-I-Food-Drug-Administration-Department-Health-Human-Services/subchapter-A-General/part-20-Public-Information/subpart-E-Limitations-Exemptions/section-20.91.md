@@ -1,0 +1,3 @@
+##### § 20.91 Use of data or information for administrative or court enforcement action. #####
+
+Nothing in this part or this chapter shall prevent the Food and Drug Administration from using any data or information, whether obtained voluntarily or involuntarily and whether or not it is available for public disclosure, as the basis for taking any administrative or court enforcement action within its jurisdiction. Data and information otherwise exempt from public disclosure are nevertheless available for public disclosure to the extent necessary to effectuate such action, e.g., the brand name, code designation, and distribution information are released when a product is recalled.

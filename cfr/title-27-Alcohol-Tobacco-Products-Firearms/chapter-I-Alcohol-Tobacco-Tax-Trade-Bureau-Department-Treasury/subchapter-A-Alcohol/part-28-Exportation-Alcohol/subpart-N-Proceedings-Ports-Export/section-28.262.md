@@ -1,0 +1,5 @@
+##### § 28.262 Delay in lading at port. #####
+
+If, on arrival of a shipment withdrawn for export without payment of tax or free of tax, the exporting vessel is not prepared to receive the shipment, the district director of customs may permit such shipment to remain in possession of a carrier for a period not exceeding 30 days. Storage elsewhere for a like cause, and not exceeding the same period, may be approved by the district director of customs. In the event of further delay, the facts shall be reported to the appropriate TTB officer, who shall issue appropriate instructions concerning the disposition of the shipment.
+
+(72 Stat. 1334, 1362, 1380; 26 U.S.C. 5053, 5214, 5362)[25 FR 5734, June 23, 1960, as amended by T.D. 7006, 34 FR 2251, Feb. 15, 1969. Redesignated at 40 FR 16835, Apr. 15, 1975 and amended by T.D. TTB-8, 69 FR 3834, Jan. 27, 2004]

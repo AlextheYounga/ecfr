@@ -1,0 +1,3 @@
+##### § 16.9 Records. #####
+
+All official records concerning agency consideration of grievances, except those appropriate to implementation of decisions favorable to grievants, shall be kept separate from the official personnel record of the grievant and any other individuals connected with the grievance, and shall not be accessible to agency personnel other than the grievant, the grievant's representative, and those responsible for consideration of grievances.

@@ -1,0 +1,5 @@
+##### § 19.15 Permits for commercial vessels handling explosives at military installations. #####
+
+Pursuant to the request of the Secretary of Defense in a letter dated October 19, 1955, made under the provisions of section 1 of the act of December 27, 1950 (64 Stat. 1120; 46 U.S.C., note prec. 1), I hereby waive in the interest of national defense compliance with the provisions of R.S. 4472, as amended (46 U.S.C. 170), and the regulations promulgated thereunder in part 146 of this chapter to the extent that no quantitative restrictions, based on considerations of isolation and remoteness, shall be required by the Coast Guard for commercial vessels loading or unloading explosives at the Department of Defense waterfront installations. This waiver shall not relieve a commercial vessel loading or unloading explosives at the Department of Defense waterfront installations from the requirement of securing a permit from the Coast Guard for such operations with respect to quantitative or other restrictions imposed by the Coast Guard on the basis of each vessel's ability to meet prescribed stowage and handling requirements.
+
+[CGFR 55-49, 20 FR 8638, Nov. 23, 1955]

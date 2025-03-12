@@ -1,0 +1,11 @@
+##### § 240.0-6 Disclosure detrimental to the national defense or foreign policy. #####
+
+(a) Any requirement to the contrary notwithstanding, no registration statement, report, proxy statement or other document filed with the Commission or any securities exchange shall contain any document or information which, pursuant to Executive order, has been classified by an appropriate department or agency of the United States for protection in the interests of national defense or foreign policy.
+
+(b) Where a document or information is omitted pursuant to paragraph (a) of this section, there shall be filed, in lieu of such document or information, a statement from an appropriate department or agency of the United States to the effect that such document or information has been classified or that the status thereof is awaiting determination. Where a document is omitted pursuant to paragraph (a) of this section, but information relating to the subject matter of such document is nevertheless included in material filed with the Commission pursuant to a determination of an appropriate department or agency of the United States that disclosure of such information would not be contrary to the interests of national defense or foreign policy, a statement from such department or agency to that effect shall be submitted for the information of the Commission. A registrant may rely upon any such statement in filing or omitting any document or information to which the statement relates.
+
+(c) The Commission may protect any information in its possession which may require classification in the interests of national defense or foreign policy pending determination by an appropriate department or agency as to whether such information should be classified.
+
+(d) It shall be the duty of the registrant to submit the documents or information referred to in paragraph (a) of this section to the appropriate department or agency of the United States prior to filing them with the Commission and to obtain and submit to the Commission, at the time of filing such documents or information, or in lieu thereof, as the case may be, the statements from such department or agency required by paragraph (b) of this section. All such statements shall be in writing.
+
+[33 FR 7682, May 24, 1968]

@@ -1,0 +1,3 @@
+##### § 17.143 Notice for monthly claims. #####
+
+If the manufacturer has notified the appropriate TTB officer, in writing, of an intention to file claims on a monthly basis instead of a quarterly basis, and has filed a bond in compliance with the provisions of this part, claims may be filed monthly instead of quarterly. The election to file monthly claims shall not preclude a manufacturer from filing a single claim covering an entire quarter, or a single claim covering just two months of a quarter, or two claims (one of them covering one month and the other covering two months). An election for the filing of monthly claims may be withdrawn by the manufacturer by filing a notice to that effect, in writing, with the appropriate TTB officer.

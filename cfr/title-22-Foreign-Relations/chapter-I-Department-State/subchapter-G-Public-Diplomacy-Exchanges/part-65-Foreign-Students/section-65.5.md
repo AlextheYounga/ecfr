@@ -1,0 +1,3 @@
+##### § 65.5 Granting of application. #####
+
+Upon receipt of a reply from another department or agency of the Government, as contemplated by § 517.3, in which it is recommended that an application be granted, the Secretary of State of the Department of State shall notify the government of the American republic concerned, through diplomatic channels, that permission to receive the instruction requested in the application is granted, provided the applicant complies with the terms of this part and with the terms of the administrative regulations of the department or agency concerned.

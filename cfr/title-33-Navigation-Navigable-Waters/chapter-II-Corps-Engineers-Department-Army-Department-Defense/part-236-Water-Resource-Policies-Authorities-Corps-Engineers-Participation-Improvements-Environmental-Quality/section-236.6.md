@@ -1,0 +1,3 @@
+##### § 236.6 Other agencies EQ measures. #####
+
+The selected plan may include EQ measures not proposed for Corps implementation, but to be accomplished through other Federal programs or by local interests. Planning reports including such measures will discuss how they would impact on the recommended plan, and how they may be implemented by the appropriate Federal agency or the local interests. However, implementation of such measures will not be required as local cooperation for the works proposed for Corps implementation.

@@ -1,0 +1,9 @@
+##### § 807.35 Notification of registrant. #####
+
+(a) The Food and Drug Administration will assign each device establishment a registration number after verifying the initial establishment registration information that has been submitted. The owner or operator of the establishment will also be assigned an identifying number. Both numbers will be sent to the official correspondent by email, or by postal mail if the owner or operator has been granted a waiver from the requirement to file registration and listing information electronically.
+
+(b) Owners or operators of device establishments who also manufacture or process biological products (including devices licensed under section 351 of the Public Health Service Act) or drug products at the same establishment must also register and list those products under part 607 or part 207 of this chapter, as appropriate. Registration and listing for human blood and blood products, devices licensed under section 351 of the Public Health Service Act, and licensed biological products used in the manufacture of a device licensed under section 351 of the Public Health Service Act, are subject to part 607 of this chapter; registration and listing for all other drug products (including other biological products that are also regulated as drug products) are subject to part 207 of this chapter.
+
+(c) Although establishment registration and device listing are required to engage in the device activities described in § 807.20, validation of registration and the assignment of a device listing number in itself does not establish that the holder of the registration is legally qualified to deal in such devices and does not represent a determination by the Food and Drug Administration as to the status of any device.
+
+[69 FR 11312, Mar. 10, 2004, as amended at 77 FR 45943, Aug. 2, 2012]

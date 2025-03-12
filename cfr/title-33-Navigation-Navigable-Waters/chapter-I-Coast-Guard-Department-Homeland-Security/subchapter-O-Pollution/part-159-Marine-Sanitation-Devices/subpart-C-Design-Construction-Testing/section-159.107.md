@@ -1,0 +1,5 @@
+##### § 159.107 Rolling test. #####
+
+(a) The device, with liquid retention components, if any, filled with water to half of their volume, must be subjected to 100 cycles with the axis of rotation 4 feet from the centerline of the device, no more than 6 inches below the plane of the bottom of the device, and parallel to any tank baffles. The device must then be rotated 90 degrees on its vertical axis and subjected to another 100 cycles. This testing must be repeated with the liquid retention components filled to the maximum operating level as specified by the manufacturer in § 159.57.
+
+(b) Eighty percent of the rolling action must be approximately 15 degrees on either side of the vertical and at a cyclic rate of 3 to 4 seconds. Twenty percent motions must be approximately 30 degrees, or the maximum angle specified by the manufacturer under § 159.57, whichever is greater, on either side of the vertical at a cyclic rate of 6 to 8 seconds.

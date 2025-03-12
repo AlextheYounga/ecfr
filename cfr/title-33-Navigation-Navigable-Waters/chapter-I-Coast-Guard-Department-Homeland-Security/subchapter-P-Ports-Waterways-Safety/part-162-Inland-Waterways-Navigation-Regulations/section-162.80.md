@@ -1,0 +1,15 @@
+##### § 162.80 Mississippi River below mouth of Ohio River, including South and Southwest passes. #####
+
+(a) *Mooring on the Mississippi River between miles 311.5 AHP and 340.0 AHP.* (1) No vessel or craft shall moor along either bank of the Mississippi River between miles 311.5 AHP and mile 340.0 AHP except in case of an emergency, pursuant to an approved navigation permit, or as authorized by the District Commander. Vessels may be moored any place outside the navigation channel in this reach in case of an emergency and then for only the minimum time required to terminate the emergency. When so moored, all vessels shall be securely tied with bow and stern lines of sufficient strength and fastenings to withstand currents, winds, wave action, suction from passing vessels or any other forces which might cause the vessels to break their moorings. When vessels are so moored, a guard shall be on board at all times to ensure that proper signals are displayed and that the vessels are securely and adequately moored.
+
+(2) Vessels may be moored any time at facilities constructed in accordance with an approved navigation permit or as authorized by the District Commander. When so moored, each vessel shall have sufficient fastenings to prevent the vessels from breaking loose by wind, current, wave action, suction from passing vessels or any other forces which might cause the vessel to break its mooring. The number of vessels in one fleet and the width of the fleet of vessels tied abreast shall not extend into the fairway or be greater than allowed under the permit.
+
+(3) Mariners should report immediately by radio or fastest available means to the lockmaster at Old River Lock or to any government patrol or survey boat in the vicinity any emergency mooring or vessels drifting uncontrolled within the area described in paragraph (a)(1) of this section. It is the responsibility and duty of the master of a towing vessel releasing or mooring a vessel in this reach of the Mississippi River to report such action immediately.
+
+(b) *Mooring on Mississippi River below Baton Rouge, La., including South and Southwest Passes.* (1) When tied up individually or in fleets, vessels shall be moored with sufficient lines and shore fastenings to insure their remaining in place and withstanding the action of winds, currents and the suction of passing vessels.
+
+Note:
+
+The Corps of Engineers also has regulations dealing with this section in 33 CFR Part 207.
+
+(Sec. 7, 38 Stat. 1053, as amended, (33 U.S.C. 471); Sec. 6(g)(1)(A) 80 Stat 937, (49 U.S.C. 1655(g)(1)(A); Sec. 12, 92 Stat. 1471, (33 U.S.C. 1231); 49 CFR 1.46 (c)(1) and (n)(4))[CGD 75-082, 42 FR 51759, Sept. 29, 1977, as amended by CGD 77-028, 46 FR 49851, Oct. 8, 1981; CGD8 87-09, 53 FR 15555, May 2, 1988]

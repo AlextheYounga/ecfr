@@ -1,0 +1,5 @@
+##### § 1423.14 Conduct of hearing. #####
+
+(a) Hearings shall be conducted not earlier than five (5) days after the date on which the complaint is served. The hearing shall be open to the public unless otherwise ordered by the Administrative Law Judge. A substitute Administrative Law Judge may be designated at any time to take the place of the Administrative Law Judge previously designated to conduct the hearing. Such hearing shall, to the extent practicable, be conducted in accordance with the provisions of subchapter II of chapter 5 of title 5 of the United States Code, except that the parties shall not be bound by the rules of evidence, whether statutory, common law, or adopted by a court.
+
+(b) An official reporter shall make the only official transcript of such proceedings. Copies of the official transcript may be examined in the appropriate regional office during normal working hours. Requests by parties for copies of transcripts should be made to the official hearing reporter.

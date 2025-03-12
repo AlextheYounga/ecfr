@@ -1,0 +1,7 @@
+##### § 112.48 What measures must I take for water that I use during harvest, packing, and holding activities for covered produce? #####
+
+(a) You must manage the water as necessary, including by establishing and following water-change schedules for re-circulated water, to maintain its safety and adequate sanitary quality and minimize the potential for contamination of covered produce and food contact surfaces with known or reasonably foreseeable hazards (for example, hazards that may be introduced into the water from soil adhering to the covered produce).
+
+(b) You must visually monitor the quality of water that you use during harvest, packing, and holding activities for covered produce (for example, water used for washing covered produce in dump tanks, flumes, or wash tanks, and water used for cooling covered produce in hydrocoolers) for buildup of organic material (such as soil and plant debris).
+
+(c) You must maintain and monitor the temperature of water at a temperature that is appropriate for the commodity and operation (considering the time and depth of submersion) and is adequate to minimize the potential for infiltration of microorganisms of public health significance into covered produce.

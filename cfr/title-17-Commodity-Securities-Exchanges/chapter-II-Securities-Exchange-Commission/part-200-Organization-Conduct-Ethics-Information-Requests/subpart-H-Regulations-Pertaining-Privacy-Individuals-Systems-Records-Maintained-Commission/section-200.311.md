@@ -1,0 +1,3 @@
+##### § 200.311 Penalties. #####
+
+Title 18 U.S.C. 1001 makes it a criminal offense, subject to a maximum fine of $10,000, or imprisonment for not more than 5 years or both, to knowingly and willingly make or cause to be made any false or fradulent statements or representations in any matter within the jurisdiction of any agency of the United States. 5 U.S.C. 552a(i) makes it a misdemeanor punishable by a fine of not more than $5,000 for any person knowingly and willfully to request or obtain any record concerning an individual from the Commission under false pretenses. 5 U.S.C. 552a(i) (1) and (2) provide criminal penalties for certain violations of the Privacy Act by officers and employees of the Commission.

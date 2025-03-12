@@ -1,0 +1,9 @@
+##### § 888.3410 Hip joint metal/polymer or ceramic/polymer semiconstrained resurfacing cemented prosthesis. #####
+
+(a) *Identification.* A hip joint metal/polymer or ceramic/polymer semi-constrained resurfacing cemented prosthesis is a two-part device intended to be implanted to replace the articulating surfaces of the hip while preserving the femoral head and neck. The device limits translation and rotation in one or more planes via the geometry of its articulating surfaces. It has no linkage across the joint. This generic type of device includes prostheses that consist of a femoral cap component made of a metal alloy, such as cobalt-chromium-molybdenum, or a ceramic material, that is placed over a surgically prepared femoral head, and an acetabular resurfacing polymer component. Both components are intended for use with bone cement (§ 888.3027).
+
+(b) *Classification.* Class III.
+
+(c) *Date PMA or notice of completion of a PDP is required.* A PMA or a notice of completion of a PDP is required to be filed with the Food and Drug Administration on or before January 3, 2005, for any hip joint metal/polymer or ceramic/polymer semiconstrained resurfacing cemented prosthesis that was in commercial distribution before May 28, 1976, or that has, on or before January 3, 2005, been found to be substantially equivalent to a hip joint metal/polymer or ceramic/polymer semiconstrained resurfacing cemented prosthesis that was in commercial distribution before May 28, 1976. Any other hip joint metal/polymer or ceramic/polymer semiconstrained resurfacing cemented prosthesis must have an approved PMA or a declared completed PDP in effect before being placed in commercial distribution.
+
+[69 FR 59134, Oct. 4, 2004]

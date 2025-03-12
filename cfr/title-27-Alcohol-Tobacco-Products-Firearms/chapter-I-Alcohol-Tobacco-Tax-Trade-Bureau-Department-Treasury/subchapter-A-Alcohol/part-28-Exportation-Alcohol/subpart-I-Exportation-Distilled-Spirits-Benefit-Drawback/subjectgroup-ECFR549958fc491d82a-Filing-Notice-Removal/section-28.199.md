@@ -1,0 +1,5 @@
+##### § 28.199 Responsibility for return of spirits withdrawn for export with benefit of drawback. #####
+
+The exporter shall be responsible for arranging the return of the spirits under this subpart to the proprietor or wholesale liquor dealer who will receive them. The exporter or his agent shall submit the original and copies of the notice required by § 28.198 to the appropriate customs official. If the spirits are returned before TTB Form 5110.30 has been filed with the customs official, the exporter shall submit Form 5110.30 with the notice. The customs officer shall, if the spirits are eligible for return under § 28.197, accept the notice as authority for the return of the spirits to the premises identified in the notice. The customs official shall acknowledge receipt on the notice, retain a copy, and return the original and one copy of the notice to the exporter. The exporter shall retain the copy of the notice and file the original of the notice with the appropriate TTB officer.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1336, as amended (26 U.S.C. 5062))[T.D. ATF-198, 50 FR 8562, Mar. 1, 1985, as amended by T.D. TTB-8, 69 FR 3833, Jan. 27, 2004]

@@ -1,0 +1,3 @@
+##### § 31.135 Change in ownership of capital stock. #####
+
+Registration as a new business is not required merely by reason of the sale or transfer of all or a controlling interest in the capital stock of a corporation. However, an amended registration is required if the sale or transfer alters the list of stockholders owning 10 percent or more of the capital stock. The amended registration must be filed on or before the next July 1 following the sale or transfer.

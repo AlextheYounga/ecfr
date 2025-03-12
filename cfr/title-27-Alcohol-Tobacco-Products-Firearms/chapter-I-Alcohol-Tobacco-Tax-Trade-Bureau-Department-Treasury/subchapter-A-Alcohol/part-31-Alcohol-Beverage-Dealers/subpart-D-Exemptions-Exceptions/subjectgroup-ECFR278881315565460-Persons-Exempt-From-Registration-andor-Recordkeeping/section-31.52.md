@@ -1,0 +1,5 @@
+##### § 31.52 Wholesale dealers in liquors consummating sales of wines or beer at premises of other dealers. #####
+
+(a) *Sales of wines.* Any wholesale dealer in liquors (including the proprietor of a bonded wine cellar) who has registered as a wholesale dealer in liquors for the place from which that dealer conducts selling operations may consummate sales of wines to other wholesale or retail dealers in liquors, or to limited retail dealers, at the purchasers' places of business without having to register again as a wholesale dealer on account of those sales.
+
+(b) *Sales of beer.* Any wholesale dealer in liquors who has already registered as such may also consummate sales of beer to wholesale or retail dealers in beer, to wholesale or retail dealers in liquors, or to limited retail dealers, at the purchasers' place of business without having to register again as a wholesale dealer on account of those sales.

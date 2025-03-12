@@ -1,0 +1,3 @@
+##### § 820.65 Traceability. #####
+
+Each manufacturer of a device that is intended for surgical implant into the body or to support or sustain life and whose failure to perform when properly used in accordance with instructions for use provided in the labeling can be reasonably expected to result in a significant injury to the user shall establish and maintain procedures for identifying with a control number each unit, lot, or batch of finished devices and where appropriate components. The procedures shall facilitate corrective action. Such identification shall be documented in the DHR.

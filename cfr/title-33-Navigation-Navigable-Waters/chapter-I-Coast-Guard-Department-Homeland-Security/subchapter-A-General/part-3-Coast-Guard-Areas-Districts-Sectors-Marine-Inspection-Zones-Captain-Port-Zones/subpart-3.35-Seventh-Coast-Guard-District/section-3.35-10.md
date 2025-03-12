@@ -1,0 +1,5 @@
+##### § 3.35-10 Sector Miami Marine Inspection Zone and Captain of the Port Zone. #####
+
+Sector Miami's office is located in Miami, FL. The boundaries of Sector Miami's Marine Inspection Zone and Captain of the Port Zone start at the outermost extent of the EEZ at latitude 28°00′00″ N, longitude 79°23′34″ W, proceeding west to latitude 28°00′00″ N, longitude 81°30′00″ W; thence south to the northern boundary of Collier County, FL, at longitude 81°30′00″ W; thence following along the boundaries of Collier County east along the northern boundary to the eastern boundary and then south along the eastern boundary to the southern boundary of Collier County; thence south along the western boundary of Miami-Dade County to the sea at latitude 25°10′36″ N, longitude 80°51′29″ W; thence east along the southern boundary of Miami-Dade County to latitude 25°24′52″ N, longitude 80°19′39″ W; thence southeast to the outermost extent of the EEZ at latitude 25°11′34″ N, longitude 79°41′31″ W; thence north along the outermost extent of the EEZ to the point of origin.
+
+[USCG-2006-25556, 72 FR 36321, July 2, 2007]

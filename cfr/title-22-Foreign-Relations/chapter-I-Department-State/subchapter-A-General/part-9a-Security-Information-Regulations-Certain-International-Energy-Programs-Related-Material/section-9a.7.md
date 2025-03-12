@@ -1,0 +1,11 @@
+##### § 9a.7 Access. #####
+
+(a) Except as set forth in this section, access to information or material classified under the provisions of these regulations shall be governed by the provisions of 22 CFR 9.20 through 9.25.
+
+(b) Classified information and material which was created by or in connection with an advisory body to the IEA may be made available to participants in such advisory body and their colleagues in accordance with the following subsections.
+
+(c) Such information and material classified “Confidential” may be made available for review to participants in the meeting of the advisory body in which it was developed or discussed. Where participants are acting as representatives of companies or of the IEA Secretariat, such information and material may be made available for review to employees or other representatives of, or counsel for, such companies or Secretariat: *Provided,* That such person is determined by an appropriate officer of the Department to be trustworthy and to have a need for access to the particular classified information sought in connection with the performance of duties in furtherance of the purposes of the IEA, including the furnishing of legal advice to such participants.
+
+(d) Such information and material classified “Confidential” may be left in the custody of such participants or other persons who may review it for reasonable period of time: *Provided,* That an appropriate officer of the Department determines that it will be protected from unauthorized disclosure by adequate security safeguards. Such information or material may not be reproduced by those permitted to review it pursuant to this section without the written consent of an officer of the Department with classifying authority.
+
+(e) Such information and material classified other than “Confidential” under E.O. 11652 may be made available for review only to participants in the meeting in which it was developed or discussed; it must be reviewed in the presence of an official of the United States Government with an appropriate security clearance granted by the Department, and may not be left in the custody of such participants.

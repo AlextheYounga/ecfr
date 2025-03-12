@@ -1,0 +1,3 @@
+##### § 71.28 Computation. #####
+
+In computing any period of time prescribed or allowed by this part, the day of the act, event or default after which the designated period of time is to run, is not to be included. The last day of the period to be computed is to be included, unless it be a Saturday, Sunday or legal holiday, in which event the period runs until the next day which is neither a Saturday, Sunday or legal holiday. Pleading, requests, or other papers or documents required or permitted to be filed under this part must be received for filing at the appropriate office within the time limits, if any, for such filing.

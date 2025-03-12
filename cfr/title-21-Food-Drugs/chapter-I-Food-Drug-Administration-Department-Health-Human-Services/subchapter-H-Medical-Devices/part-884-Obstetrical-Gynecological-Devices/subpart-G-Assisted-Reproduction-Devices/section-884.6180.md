@@ -1,0 +1,5 @@
+##### § 884.6180 Reproductive media and supplements. #####
+
+(a) *Identification.* Reproductive media and supplement are products that are used for assisted reproduction procedures. Media include liquid and powder versions of various substances that come in direct physical contact with human gametes or embryos (including water, acid solutions used to treat gametes or embryos, rinsing solutions, sperm separation media, supplements, or oil used to cover the media) for the purposes of preparation, maintenance, transfer or storage. Supplements are specific reagents added to media to enhance specific properties of the media (e.g., proteins, sera, antibiotics, etc.).
+
+(b) *Classification.* Class II (special controls) (mouse embryo assay information, endotoxin testing, sterilization validation, design specifications, labeling requirements, biocompatibility testing, and clinical testing).

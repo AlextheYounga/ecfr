@@ -1,0 +1,5 @@
+##### § 41.123 Superseding bond. #####
+
+A bonded manufacturer shall immediately file a new bond to supersede his current bond when (a) the corporate surety on the current bond becomes insolvent, (b) the appropriate TTB officer approves a request from the surety on the current bond to terminate his liability under the bond, (c) the payment of any liability under a bond is made by the surety thereon, (d) the amount of the bond is no longer sufficient under the provisions of § 41.121 and a strengthening bond has not been filed, or (e) the appropriate TTB officer considers a superseding bond necessary for the protection of the revenue.
+
+[26 FR 8195, Aug. 31, 1961. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-251, 52 FR 19341, May 22, 1987. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

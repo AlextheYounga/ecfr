@@ -1,0 +1,3 @@
+##### § 25.16 Public health and safety emergencies. #####
+
+There are certain regulatory actions that, because of their immediate importance to the public health or safety, may make full adherence to the procedural provisions of NEPA and CEQ's regulations impossible. For such actions, the responsible agency official shall consult with CEQ about alternative arrangements before the action is taken, or after the action is taken, if time does not permit prior consultation with CEQ.

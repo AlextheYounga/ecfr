@@ -1,0 +1,11 @@
+##### § 169.3 Definitions. #####
+
+For the purposes of this part:
+
+(a) The term *vanilla beans* means the properly cured and dried fruit pods of *Vanilla planifolia Andrews* and of *Vanilla tahitensis Moore.*
+
+(b) The term *unit weight of vanilla beans* means, in the case of vanilla beans containing not more than 25 percent moisture, 13.35 ounces of such beans; and, in the case of vanilla beans containing more than 25 percent moisture, it means the weight of such beans equivalent in content of moisture-free vanilla-bean solids to 13.35 ounces of vanilla beans containing 25 percent moisture. (For example, one unit weight of vanilla beans containing 33.25 percent moisture amounts to 15 ounces.) The moisture content of vanilla beans is determined by the method prescribed in “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed. (1980), sections 7.004 and 7.005, which is incorporated by reference, except that the toluene used is blended with 20 percent by volume of benzene and the total distillation time is 4 hours. Copies of the material incorporated by reference may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* To prepare samples for analysis, the pods are chopped into pieces approximately1/4-inch in longest dimension, using care to avoid moisture change.
+
+(c) The term *unit of vanilla constituent* means the total sapid and odorous principles extractable from one unit weight of vanilla beans, as defined in paragraph (b) of this section, by an aqueous alcohol solution in which the content of ethyl alcohol by volume amounts to not less than 35 percent.
+
+[42 FR 14481, Mar. 15, 1977, as amended at 47 FR 11834, Mar. 19, 1982; 49 FR 10103, Mar. 19, 1984; 54 FR 24896, June 12, 1989; 63 FR 14035, Mar. 24, 1998]

@@ -1,0 +1,3 @@
+##### § 516.117 Submission of correspondence under this subpart. #####
+
+Unless directed otherwise by FDA, all correspondence relating to any aspect of the new animal drug indexing process described in this subpart must be addressed to the Director, OMUMS. The initial correspondence for a particular index listing should include the name and address of the authorized contact person. Notifications of changes in such person or changes of address of such person should be provided in a timely manner.

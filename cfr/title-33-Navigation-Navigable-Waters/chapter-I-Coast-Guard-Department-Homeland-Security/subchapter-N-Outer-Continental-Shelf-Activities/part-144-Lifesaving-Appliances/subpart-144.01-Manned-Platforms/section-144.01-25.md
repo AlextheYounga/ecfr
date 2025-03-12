@@ -1,0 +1,7 @@
+##### § 144.01-25 Ring life buoys. #####
+
+(a) Each manned platform must have at least four approved ring life buoys constructed in accordance with 46 CFR Subpart 160.050; except ring life buoys approved under former 46 CFR Subpart 160.009 may be used as long as they are in good and serviceable condition. One ring life buoy must be placed on a suitable rack on each side of a manned platform in an accessible place. The ring life buoy must always be capable of being cast loose and may not be permanently secured in any way.
+
+(b) Each ring life buoy must have a water light of an approved automatic electric type constructed in accordance with 46 CFR Subpart 161.010. A water light constructed in accordance with former 46 CFR Subpart 161.001 that was installed before January 1, 1972 may be retained in an existing installation as long as it is maintained in good condition. The water light must be attached to the ring life buoy by a 12-thread manila or equivalent synthetic lanyard not less than 1 meter (3 feet) nor more than 2 meters (6 feet) in length. The water light must be mounted on a bracket near the ring life buoy so that when the ring life buoy is cast loose, the water light will pull free of the bracket.
+
+[CGFR 56-4, 21 FR 903, Feb. 9, 1956, as amended by CGD 79-165b, 45 FR 65208, Oct. 2, 1980; CGD 80-155b. 47 FR 10533, Mar. 11, 1982]

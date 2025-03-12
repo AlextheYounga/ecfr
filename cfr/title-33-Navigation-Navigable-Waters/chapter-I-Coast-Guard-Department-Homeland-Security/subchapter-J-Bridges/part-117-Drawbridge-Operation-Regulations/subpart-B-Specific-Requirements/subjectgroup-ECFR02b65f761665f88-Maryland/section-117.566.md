@@ -1,0 +1,7 @@
+##### § 117.566 Patapsco River—Middle Branch. #####
+
+(a) The draw of the Hanover Street S2 bridge, mile 12.0 across the Middle Branch of the Patapsco River at Baltimore, will open on signal from 5 a.m. to 6:30 a.m., 9:30 a.m. to 4 p.m., and 6 p.m. to 9:00 p.m. The draw need not be opened from 6:30 a.m. to 9:30 a.m. and 4 p.m. to 6 p.m.; however, fire boats, police boats, and other vessels engaged in emergency operations will be passed immediately during this period. When a vessel desires to pass the draw from 9 p.m. to 5 a.m., notice will be given to the superintendent of the bridge, either at the bridge before 9 p.m. or at the superintendent's residence after 9 p.m. If the notice is given from 5 a.m. to 9 p.m. or if at least one half hour has elapsed since the notice was given, the draw will open promptly at the time requested.
+
+(b) The draw of the Western Maryland railroad bridge, mile 12.5 across the Middle Branch of the Patapsco River at Baltimore, shall open on signal from 7 a.m. to 12 noon and 1 p.m. to 4 p.m. Monday through Friday except legal holidays. At all other times, the draw shall open if at least six hours notice is given. Marine firefighting equipment and pollution control vessels shall be passed as soon as possible but in no event more than 15 minutes after notice is given.
+
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984. Redesignated and amended by USCG-2012-0306, 77 FR 37314, June 21, 2012]

@@ -1,0 +1,3 @@
+##### § 52.81 Reading room and index. #####
+
+After deleting only so much personal information as is necessary to prevent an unwarranted invasion of privacy of the applicant or other persons mentioned in the final decision of the Board, a redacted copy of each final decision shall be indexed by subject and made available for review and copying at a public reading room. Final decisions created on or after November 1, 1996, shall be made available by electronic means. 5 U.S.C. 552.

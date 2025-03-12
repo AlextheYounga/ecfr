@@ -1,0 +1,3 @@
+##### § 20.266 Time for making entries in records. #####
+
+Any person who conducts an operation which is required to be recorded under this part, shall enter that operation in the records on the same day on which the operation occurred. However, the daily posting of records may be deferred to conform to the permittee's normal accounting cycle if (a) supporting or supplemental records are prepared at the time of the operation, and these supporting or supplemental records are to be used to post the daily record, and (b) the deferral of posting does not pose a jeopardy to the revenue.

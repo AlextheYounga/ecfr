@@ -1,0 +1,9 @@
+##### § 26.81 Prepayment of tax and release of spirits. #####
+
+(a) *Action by proprietor.* Where the distilled spirits are to be released after payment of the computed tax, the proprietor shall enter the amount of such computed tax on all copies of TTB Form 5110.51 and execute the statement that such tax is being prepaid. The proprietor shall then prepare TTB Form 5000.25 in duplicate, and send the original with all copies of TTB Form 5110.51 and any package gauge record as provided in § 26.164a and the remittance in full for the tax, to the appropriate TTB officer.
+
+(b) *Action by appropriate TTB officer.* On receipt of TTB Forms 5110.51, 5000.25 and any package gauge record, with remittance covering prepayment of tax, the appropriate TTB officer shall execute the receipt on TTB Form 5000.25 and execute the report of prepaid taxes on all copies of TTB Form 5110.51. The appropriate TTB officer shall then retain the originals of TTB Forms 5110.51 and 5000.25 and forward the remaining copies of TTB Form 5110.51 in accordance to the instructions on the form.
+
+(c) *Action by revenue agent.* On receipt of TTB Form 5110.51 executed by the appropriate TTB officer to show receipt of TTB Form 5000.25 and remittance, the revenue agent shall execute the report of release on the TTB Form 5110.51 and release the spirits for shipment to the United States. The completed TTB Form 5110.51 shall be distributed according to the instructions on the form.
+
+(Approved by the Office of Management and Budget under control number 1512-0210 and 1512-0497)[T.D. ATF-277, 53 FR 45267, Nov. 9, 1988. Redesignated and amended by T.D. ATF-459, 66 FR 38550, 38551, July 25, 2001]

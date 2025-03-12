@@ -1,0 +1,9 @@
+##### § 516.36 Insufficient quantities of MUMS-designated drugs. #####
+
+(a) Under section 573 of the act, whenever FDA has reason to believe that sufficient quantities of a conditionally-approved or approved, MUMS-designated drug to meet the needs for which the drug was designated cannot be assured by the sponsor, FDA will so notify the sponsor of this possible insufficiency and will offer the sponsor the following options, one of which must be exercised by a time that FDA specifies:
+
+(1) Provide FDA information and data regarding how the sponsor can assure the availability of sufficient quantities of the MUMS-designated drug within a reasonable time to meet the needs for which the drug was designated; or
+
+(2) Provide FDA in writing the sponsor's consent for the conditional approval or approval of other applications for the same drug before the expiration of the 7-year period of exclusive marketing rights.
+
+(b) If, within the time that FDA specifies, the sponsor fails to consent to the conditional approval or approval of other applications and if FDA finds that the sponsor has not shown that it can assure the availability of sufficient quantities of the MUMS-designated drug to meet the needs for which the drug was designated, FDA will issue a written order terminating designation of the MUMS drug and the associated exclusive marketing rights. This order will state FDA's findings and conclusions and will constitute final agency action. An order terminating designation and associated exclusive marketing rights may issue whether or not there are other sponsors that can assure the availability of alternative sources of supply. Such an order will not withdraw the conditional approval or approval of an application. Once terminated under this section, neither designation, nor exclusive marketing rights may be reinstated.

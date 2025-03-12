@@ -1,0 +1,3 @@
+##### § 822.26 If my company changes ownership, what must I do? #####
+
+You must notify us within 30 days of any change in ownership of your company. Your notification should identify any changes to the name or address of the company, the contact person, or the designated person (as defined in § 822.3(b)). Your obligation to conduct postmarket surveillance will generally transfer to the new owner, unless you and the new owner have both agreed that you will continue to conduct the surveillance. If you will continue to conduct the postmarket surveillance, you still must notify us of the change in ownership.

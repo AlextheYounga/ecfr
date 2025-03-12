@@ -1,0 +1,3 @@
+##### § 709.8 Procedure for voiding suspensions. #####
+
+Upon receipt by OPIC from the subject entity of notice of the entry of a final judgment of reversal of the conviction or convictions on which a suspension was based, and subject to verification thereof by the General Counsel and to a finding by the General Counsel that no other convictions under the act are outstanding, the President shall void such suspension

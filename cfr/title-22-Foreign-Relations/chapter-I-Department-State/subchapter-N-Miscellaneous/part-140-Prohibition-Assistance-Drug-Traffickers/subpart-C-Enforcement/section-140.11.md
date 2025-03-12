@@ -1,0 +1,3 @@
+##### § 140.11 Minimum enforcement procedures. #####
+
+Sections 140.6 through 140.10 represent the minimum procedures that each agency providing assistance must apply in order to implement FAA Section 487. Under individual circumstances, however, additional measures may be appropriate. In those cases, agencies providing assistance are encouraged to take additional steps, as necessary, to ensure that the statutory restrictions are enforced.

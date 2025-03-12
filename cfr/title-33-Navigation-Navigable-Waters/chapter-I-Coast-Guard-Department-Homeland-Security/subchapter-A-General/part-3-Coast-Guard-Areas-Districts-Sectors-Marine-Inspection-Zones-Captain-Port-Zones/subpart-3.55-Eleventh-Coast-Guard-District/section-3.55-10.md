@@ -1,0 +1,5 @@
+##### § 3.55-10 Sector Los Angeles-Long Beach Marine Inspection Zone and Captain of the Port Zone. #####
+
+Sector Los Angeles-Long Beach's (LA-LB) office is located in San Pedro, CA. The boundaries of Sector LA-LB's Marine Inspection Zone and Captain of the Port Zone start at a point near the intersection of Monterey County and San Luis Obispo County and the California coast at latitude 35°47′43″ N, longitude 121°20′51″ W, proceeding southwest to the outermost extent of the EEZ at latitude 34°05′05″ N, longitude 124°56′43″ W; thence south along the outermost extent of the EEZ to latitude 32°01′17″ N, longitude 123°37′22″ W; thence northeast to the intersection of Orange County and San Diego County and the California coast at latitude 33°23′12″ N, longitude 117°35′45″ W; thence including all of Orange County, Riverside County, Ventura County, Los Angeles County, San Bernardino County, Santa Barbara County, Kern County, and San Luis Obispo County in California.
+
+[USCG-2006-25556, 72 FR 36325, July 2, 2007]

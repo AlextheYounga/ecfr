@@ -1,0 +1,3 @@
+##### § 903.10 Access to witnesses. #####
+
+The grievant or grievant's representative, or charged employee or his representative, shall be given access to witnesses employed by the foreign affairs agencies. In the event that the agency of the grievant determines that the requests for access are excessive, it may so notify the Board, which shall rule on the relevance and materiality of the potential testimony and may order that access be granted to any or all of the potential witnesses. It shall be the responsibility of the grievant to advise the agency of the agency witnesses to be interviewed and to request administrative leave.

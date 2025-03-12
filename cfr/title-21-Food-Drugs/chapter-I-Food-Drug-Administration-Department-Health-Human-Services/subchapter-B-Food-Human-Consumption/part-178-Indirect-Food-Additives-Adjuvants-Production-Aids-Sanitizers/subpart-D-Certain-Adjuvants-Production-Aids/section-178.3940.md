@@ -1,0 +1,3 @@
+##### § 178.3940 Tetraethylene glycol di-(2-ethylhexoate). #####
+
+Tetraethylene glycol di-(2-ethylhexoate) containing not more than 22 parts per million ethylene and/or diethylene glycols may be used at a level not to exceed 0.7 percent by weight of twine as a finish on twine to be used for tying meat provided the twine fibers are produced from nylon resins complying with § 177.1500 of this chapter.

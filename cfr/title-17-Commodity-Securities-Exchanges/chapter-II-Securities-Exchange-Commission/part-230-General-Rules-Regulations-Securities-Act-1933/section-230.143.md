@@ -1,0 +1,5 @@
+##### § 230.143 Definition of “has purchased”, “sells for”, “participates”, and “participation”, as used in section 2(11), in relation to certain transactions of foreign governments for war purposes. #####
+
+The terms *has purchased, sells for, participates,* and *participation,* in section 2(11) (48 Stat. 74, 48 Stat. 905; 15 U.S.C. 77b), shall not be deemed to apply to any action of a foreign government in acquiring, for war purposes and by or in anticipation of the exercise of war powers, from any person subject to its jurisdiction securities of a person organized under the laws of the United States or any State or Territory, or in disposing of such securities with a view to their distribution by underwriters in the United States, notwithstanding the fact that the price to be paid to such foreign government upon the disposition of such securities by it may be measured by or may be in direct or indirect relation to such price as may be realized by the underwriters.
+
+[6 FR 2052, Apr. 23, 1941]

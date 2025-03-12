@@ -1,0 +1,3 @@
+##### § 26.34 Regulatory authorities. #####
+
+The regulatory authorities shall have the responsibility of implementing the provisions of this subpart, including the designation and monitoring of conformity assessment bodies (CAB's). Regulatory authorities will be specified in appendix C of this subpart. Each party will promptly notify the other party in writing of any change in the regulatory authority for a country.

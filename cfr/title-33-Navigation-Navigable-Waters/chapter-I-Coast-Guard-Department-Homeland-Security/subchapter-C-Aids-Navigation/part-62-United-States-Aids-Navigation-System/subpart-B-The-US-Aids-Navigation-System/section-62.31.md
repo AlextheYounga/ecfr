@@ -1,0 +1,3 @@
+##### § 62.31 Special marks. #####
+
+Special marks are not primarily intended to assist safe navigation, but to indicate special areas or features referred to in charts or other nautical publications. They may be used, for example, to mark anchorages, cable or pipeline areas, traffic separation schemes, military exercise zones, ocean data acquisition systems, etc. Special marks are colored solid yellow.

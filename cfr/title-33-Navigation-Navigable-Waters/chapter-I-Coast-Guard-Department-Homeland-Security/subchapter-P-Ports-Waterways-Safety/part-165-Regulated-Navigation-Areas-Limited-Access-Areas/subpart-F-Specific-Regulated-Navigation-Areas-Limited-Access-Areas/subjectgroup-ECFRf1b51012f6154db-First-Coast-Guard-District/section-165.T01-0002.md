@@ -1,0 +1,19 @@
+##### § 165.T01-0002 Regulated Navigation Area; Kill Van Kull and Newark Bay; Bayonne, NJ, NY Regulated Area. #####
+
+(a) *Location.* The following area is a Regulated Navigation Area (RNA): All waters of Bergen Point East and West Reaches in the Kill Van Kull, and all waters of Newark Bay South Reach, bound by the following approximate positions: 40°38′51.93″ N., 074°06′47.90″ W.; thence to 40°38′41.53″ N., 074°07′18.54″ W.; thence to 40°38′38.20″ N., 074°07′41.30″ W.; thence to 40°38′40.47″ N., 074°08′01.61″ W.; thence to 40°38′34.20″ N., 074°08′41.71″ W.; thence to 40°38′39.67″ N., 074°08′51.86″ W.; thence to 40°38′50.20″ N., 074°08′55.19″ W.; thence to 40°39′17.54″ N., 074°08′38.20″ W.; thence to 40°39′19.00″ N., 074°08′53.09″ W.; thence to 40°39′07.94″ N., 074°08′59.04″ W.; thence to 40°38′46.87″ N., 074°09′23.03″ W.; thence to 40°38′33.40″ N., 074°09′19.87″ W.; thence to 40°38′24.86″ N., 074°09′02.71″ W.; thence to 40°38′23.93″ N., 074°08′52.56″ W.; thence to 40°38′31.40″ N., 074°08′07.56″ W.; thence to 40°38′31.80″ N., 074°07′55.66″ W.; thence to 40°38′30.06″ N., 074°07′41.13″ W.; thence to 40°38′33.80″ N., 074°07′14.86″ W.; thence to 40°38′43.93″ N., 074°06′45.45″ W.; thence to the point of origin (NAD 83).
+
+(b) *Regulations.* (1) The general regulations contained in 33 CFR 165.10, 165.11, and 165.13 apply within the RNA.
+
+(2) Any vessel transiting through the RNA must make a direct passage. No vessel may stop, moor, anchor or loiter within the RNA at any time unless they are working on the bridge construction. Movement within the RNA is subject to a “Slow-No Wake” speed limit. All vessels may not produce a wake and may not attain speeds greater than five (5) knots unless a higher minimum speed is necessary to maintain bare steerageway.
+
+(3) There may be times that the First District Commander or the Captain of the Port (COTP) New York finds it necessary to close the RNA to vessel traffic. All closures will be limited to specific hours of the day. Mariners will be advised of all closure dates and times via Local Notice to Mariners and Broadcast Notice to Mariners in advance of closure times. During such closures, persons and vessels may request permission to enter the RNA by contacting the COTP or the COTP's on-scene representative on VHF-16 or via phone at 718-354-4353 (Sector New York Command Center).
+
+(4) Vessels in the RNA must comply with directions given to them by the COTP or the COTP's on-scene representative. An “on-scene representative” of the COTP is any Coast Guard commissioned, warrant or petty officer who has been designated by the COTP to act on the COTP's behalf. An on-scene representative may be on a Coast Guard vessel; or other designated craft; or on shore and communicating with a Vessel Traffic Service New York Watchstander or vessels via VHF-FM radio or loudhailer. Members of the Coast Guard Auxiliary may be present to inform vessel operators of this regulation.
+
+(5) All other relevant regulations, including but not limited to the Rules of the Road, as codified in 33 CFR Subchapter E, Inland Navigational Rules, remain in effect within the RNA and must be strictly followed at all times.
+
+(c) *Enforcement period.* This regulation will be enforced from 8:00 a.m. on February 1, 2016, until December 31, 2017. This RNA's speed restrictions are enforceable 24 hours a day as long as this RNA is in place. The Coast Guard will enforce waterway closures only when necessary to protect people and vessels from hazards associated with bridge construction.
+
+(d) *Notification.* The Coast Guard will rely on the methods described in 33 CFR 165.7 to notify the public of the time and duration of any closure of the RNA. Violations of this RNA may be reported to the COTP at 718-354-4353 or on VHF-Channel 16.
+
+Effective Date Note:By USCG-2014-0002, 80 FR 55259, Sept. 15, 2015, temporary § 165.T01-0002 was added, effective Oct. 15, 2015 to Dec. 31, 2017.

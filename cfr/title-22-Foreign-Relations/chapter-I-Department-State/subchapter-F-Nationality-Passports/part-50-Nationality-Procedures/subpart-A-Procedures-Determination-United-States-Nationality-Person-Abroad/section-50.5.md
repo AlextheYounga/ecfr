@@ -1,0 +1,9 @@
+##### § 50.5 Application for registration of birth abroad. #####
+
+Upon application by the parent(s) or the child's legal guardian, a consular officer or designated nationality examiner may accept and adjudicate the application for a Consular Report of Birth Abroad of a Citizen of the United States of America for a child born in their consular district. In specific instances, the Department may authorize consular officers and other designated employees to adjudicate the application for a Consular Report of Birth Abroad of a child born outside his/her consular district. Under the supervision of a consular officer, designated nationality examiners shall accept, adjudicate, disapprove and provisionally approve applications for the Consular Report of Birth Abroad. The applicant shall be required to submit proof of the child's birth, identity and citizenship meeting the evidence requirements of subpart C of part 51 of this subchapter and shall include:
+
+(a) *Proof of child's birth.* Proof of child's birth usually consists of, but is not limited to, an authentic copy of the record of the birth filed with local authorities, a baptismal certificate, a military hospital certificate of birth, or an affidavit of the doctor or the person attending the birth. If no proof of birth is available, the person seeking to register the birth shall submit his affidavit explaining why such proof is not available and setting forth the facts relating to the birth.
+
+(b) *Proof of child's citizenship.* Evidence of parent's citizenship and, if pertinent, evidence of parent's physical presence in the United States as required for transmittal of claim of citizenship by the Immigration and Nationality Act of 1952 shall be submitted.
+
+[31 FR 13537, Oct. 20, 1966, as amended at 61 FR 43312, Aug. 22, 1996]

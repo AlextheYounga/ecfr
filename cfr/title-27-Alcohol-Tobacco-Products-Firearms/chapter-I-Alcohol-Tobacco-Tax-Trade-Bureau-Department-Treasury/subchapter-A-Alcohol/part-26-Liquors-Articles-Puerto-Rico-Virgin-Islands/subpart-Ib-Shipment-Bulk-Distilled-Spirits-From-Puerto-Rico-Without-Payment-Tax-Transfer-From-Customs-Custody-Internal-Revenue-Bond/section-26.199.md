@@ -1,0 +1,3 @@
+##### § 26.199 Application and permit to ship, TTB Form 5110.31. #####
+
+Before spirits of Puerto Rican manufacture may be shipped to the United States without payment of tax for withdrawal from customs custody and transfer to internal revenue bond, an application by the consignor on TTB Form 5110.31 for permit to ship must be approved by the Secretary. All copies of the application (original and five copies) shall be delivered to the revenue agent.

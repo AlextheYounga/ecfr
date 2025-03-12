@@ -1,0 +1,3 @@
+##### § 39.40 Consistency with the Principles for Financial Market Infrastructures. #####
+
+This subpart C is intended to establish standards which, together with subparts A and B of this part, are consistent with section 5b(c) of the Act and the Principles for Financial Market Infrastructures published by the Committee on Payment and Settlement Systems and the Board of the International Organization of Securities Commissions and should be interpreted in that context.

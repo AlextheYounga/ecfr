@@ -1,0 +1,3 @@
+##### § 1100.2 Requirements. #####
+
+Cigarettes, cigarette tobacco, roll-your-own tobacco, smokeless tobacco are subject to chapter IX of the Federal Food, Drug, and Cosmetic Act and its implementing regulations. FDA has deemed all other tobacco products, except accessories of such other tobacco products, subject to chapter IX of the Federal Food, Drug, and Cosmetic Act and its implementing regulations.

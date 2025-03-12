@@ -1,0 +1,5 @@
+##### § 44.213 Destruction of tobacco products, and cigarette papers and tubes. #####
+
+Where an export warehouse proprietor desires to destroy any of the tobacco products, or cigarette papers or tubes stored in his warehouse, he shall notify the appropriate TTB officer of the kind and quantity of such articles to be destroyed and the date on which he desires the destruction to take place in order that the appropriate TTB officer may assign an appropriate TTB officer to inspect the articles and supervise their destruction. The export warehouse proprietor shall prepare a notice of removal, Form 5200.14, describing the articles to be destroyed. After witnessing the destruction of the articles, the appropriate TTB officer shall certify to their destruction on two copies of the notice of removal and return them to the export warehouse proprietor, who shall retain one copy for his records and file the other copy with the appropriate TTB officer.
+
+[T.D. 6871, 31 FR 55, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28089, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-421, 64 FR 71926, Dec. 22, 1999]

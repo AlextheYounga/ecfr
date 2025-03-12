@@ -1,0 +1,5 @@
+##### § 221.12 Guarantee eligibility. #####
+
+(a) Eligible Notes only may be guaranteed hereunder. Notes in order to achieve Eligible Note status must be signed on behalf of the Borrower, manually or in facsimile, by a duly authorized representative of the Borrower; and they must contain a guarantee legend incorporating these Standard Terms and Conditions signed on behalf of A.I.D. by either a manual signature or a facsimile signature of an authorized representative of A.I.D., together with a certificate of authentication manually executed by a Fiscal Agent whose appointment by the Borrower is consented to by A.I.D. in a Fiscal Agency Agreement (the “Fiscal Agent”).
+
+(b) A.I.D. shall designate, in a certificate delivered to the Fiscal Agent, the Person(s) whose signature shall be binding on A.I.D. The certificate of authentication of the Fiscal Agent issued pursuant to the Fiscal Agency Agreement shall, when manually executed by the Fiscal Agent, be conclusive evidence binding on A.I.D. that a Note has been duly executed on behalf of the Borrower and delivered.

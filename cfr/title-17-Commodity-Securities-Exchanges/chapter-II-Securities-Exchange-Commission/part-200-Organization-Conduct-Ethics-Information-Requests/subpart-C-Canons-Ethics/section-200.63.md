@@ -1,0 +1,3 @@
+##### § 200.63 Commission opinions. #####
+
+The opinions of the Commission should state the reasons for the action taken and contain a clear showing that no serious argument of counsel has been disregarded or overlooked. In such manner, a member shows a full understanding of the matter before him, avoids the suspicion of arbitrary conclusion, promotes confidence in his intellectual integrity and may contribute some useful precedent to the growth of the law. A member should be guided in his decisions by a deep regard for the integrity of the system of law which he administers. He should recall that he is not a repository of arbitrary power, but is acting on behalf of the public under the sanction of the law.

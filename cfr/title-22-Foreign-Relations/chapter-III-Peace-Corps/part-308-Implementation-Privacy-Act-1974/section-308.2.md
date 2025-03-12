@@ -1,0 +1,3 @@
+##### § 308.2 Policy. #####
+
+It is the policy of the Peace Corps to protect, preserve and defend the right of privacy of any individual as to whom the agency maintains personal information in any records system and to provide appropriate and complete access to such records including adequate opportunity to correct any errors in said records. It is further the policy of the agency to maintain its records in such a fashion that the information contained therein is and remains material and relevant to the purposes for which it is collected in order to maintain its records with fairness to the individuals who are the subject of such records.

@@ -1,0 +1,9 @@
+##### § 312.62 Investigator recordkeeping and record retention. #####
+
+(a) *Disposition of drug.* An investigator is required to maintain adequate records of the disposition of the drug, including dates, quantity, and use by subjects. If the investigation is terminated, suspended, discontinued, or completed, the investigator shall return the unused supplies of the drug to the sponsor, or otherwise provide for disposition of the unused supplies of the drug under § 312.59.
+
+(b) *Case histories.* An investigator is required to prepare and maintain adequate and accurate case histories that record all observations and other data pertinent to the investigation on each individual administered the investigational drug or employed as a control in the investigation. Case histories include the case report forms and supporting data including, for example, signed and dated consent forms and medical records including, for example, progress notes of the physician, the individual's hospital chart(s), and the nurses' notes. The case history for each individual shall document that informed consent was obtained prior to participation in the study.
+
+(c) *Record retention.* An investigator shall retain records required to be maintained under this part for a period of 2 years following the date a marketing application is approved for the drug for the indication for which it is being investigated; or, if no application is to be filed or if the application is not approved for such indication, until 2 years after the investigation is discontinued and FDA is notified.
+
+[52 FR 8831, Mar. 19, 1987, as amended at 52 FR 23031, June 17, 1987; 61 FR 57280, Nov. 5, 1996; 67 FR 9586, Mar. 4, 2002]

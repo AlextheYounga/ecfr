@@ -1,0 +1,3 @@
+##### § 1210.24 Temporary permits. #####
+
+A temporary permit will be granted only upon a satisfactory showing that the applicant therefor has been unable to obtain the necessary inspections required by the applicable provisions of section 2 of the Federal Import Milk Act. Temporary permits shall be valid until the Secretary shall provide for inspection to ascertain that clauses 1, 2, and 3 of section 2 of the Federal Import Milk Act have been complied with.

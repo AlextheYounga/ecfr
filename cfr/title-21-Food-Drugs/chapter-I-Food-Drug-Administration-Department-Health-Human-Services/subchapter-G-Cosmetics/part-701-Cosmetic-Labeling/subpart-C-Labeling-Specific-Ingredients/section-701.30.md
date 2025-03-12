@@ -1,0 +1,16 @@
+##### § 701.30 Ingredient names established for cosmetic ingredient labeling. #####
+
+The Commissioner establishes the following names for the purpose of cosmetic ingredient labeling pursuant to paragraph (e) of § 701.3:
+
+|                                                                            Chemical name or description                                                                            |                Chemical formula                 |         Established label name          |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------------|
+|                                                                               Trichlorofluoromethane                                                                               |                CCl<sub>3</sub> F                |         Chlorofluorocarbon 11.          |
+|                                                                  Trichlorofluoromethane and 0.3 pct nitromethane                                                                   |CCl<sub>3</sub> F + CH<sub>3</sub> NO<sub>2</sub>|        Chlorofluorocarbon 11 S.         |
+|                                                                              Dichlorodifluoromethane                                                                               |          CCl<sub>2</sub> F<sub>2</sub>          |         Chlorofluorocarbon 12.          |
+|                                                                               Chlorodifluoromethane                                                                                |                CHClF<sub>2</sub>                |       Hydrochlorofluorocarbon 22.       |
+|                                                                     1, 2-dichloro-1, 1, 2, 2-tetrafluoroethane                                                                     |        CClF<sub>2</sub> CClF<sub>2</sub>        |         Chlorofluorocarbon 114.         |
+|                                                                            1-Chloro-1, 1-difluoroethane                                                                            |         CH<sub>3</sub> CClF<sub>2</sub>         |     Hydrochlorofluorocarbon 142 B.      |
+|                                                                                1, 1-difluoroethane                                                                                 |         CH<sub>3</sub> CHF<sub>2</sub>          |        Hydrofluorocarbon 152 A.         |
+|Ethyl ester of hydrolyzed animal protein is the ester of ethyl alcohol and the hydrolysate of collagen or other animal protein, derived by acid, enzyme, or other form of hydrolysis|                                                 |Ethyl ester of hydrolyzed animal protein.|
+
+[42 FR 24255, May 13, 1977, as amended at 45 FR 3577, Jan. 18, 1980]

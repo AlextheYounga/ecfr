@@ -1,0 +1,3 @@
+##### § 1.51 Annulment. #####
+
+Whenever the appropriate TTB officer has reason to believe that any basic permit was procured through fraud, or misrepresentation or concealment of material fact, the appropriate TTB officer shall institute proceedings for the annulment of such permit in accordance with the procedure set forth in part 71 of this chapter, which part is made applicable to such proceedings.

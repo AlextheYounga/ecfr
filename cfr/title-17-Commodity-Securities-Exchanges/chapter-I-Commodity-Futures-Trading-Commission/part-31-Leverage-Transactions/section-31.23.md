@@ -1,0 +1,13 @@
+##### § 31.23 Limited right to rescind first leverage contract. #####
+
+(a) A leverage customer who is entering a leverage contract or contracts for the first time with a particular leverage transaction merchant may rescind such contract or contracts during a period of not less than three business days from and including the day on which the leverage customer receives the Confirmation Statement pursuant to the following provisions:
+
+(1) Such customer may be assessed actual price losses accruing to the customer's position from the time at which the customer entered into a leverage contract to the time that the leverage contract was rescinded. Such losses do not extend to any other charges or fees, such as account initiation, carrying, margin or account termination;
+
+(2) In the case of a leverage customer whose initial leverage transaction was a purchase of a leverage contract from a leverage transaction merchant (long leverage contract), actual losses accruing to the position may be calculated only by subtracting the ask price of the leverage contract offered by the leverage transaction merchant at the time when the leverage contract was rescinded from the ask price at which the leverage contract was purchased by the leverage customer and which appears on the Confirmation Statement. In the case of a leverage customer whose initial leverage transaction was a sale of a leverage contract to a leverage transaction merchant (short leverage contract), actual losses are calculated by subtracting the bid price at which the leverage contract was sold by the leverage customer and which appears on the Confirmation Statement from the bid price of the leverage contract offered by the leverage transaction merchant at the time when the leverage contract was rescinded.
+
+(3) Such customer may rescind the contract by telegram sent to the leverage transaction merchant at the address provided on the confirmation statement, or by telephone to a telephone number provided by the leverage transaction merchant on the Confirmation Statement with immediate written affirmation of rescission by telegram, certified letter or at least equivalent means.
+
+(b) A leverage transaction merchant must make complete refund of all monies received except for actual price losses as calculated in paragraph (a)(2) of this section, to the leverage customer who has rescinded a contract pursuant to paragraph (a) of this section within 24 hours of notification of rescission.
+
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5540, Feb. 13, 1984, as amended at 50 FR 34, Jan. 2, 1985]

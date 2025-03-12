@@ -1,0 +1,13 @@
+##### § 229.1012 (Item 1012) The solicitation or recommendation. #####
+
+(a) *Solicitation or recommendation.* State the nature of the solicitation or the recommendation. If this statement relates to a recommendation, state whether the filing person is advising holders of the subject securities to accept or reject the tender offer or to take other action with respect to the tender offer and, if so, describe the other action recommended. If the filing person is the subject company and is not making a recommendation, state whether the subject company is expressing no opinion and is remaining neutral toward the tender offer or is unable to take a position with respect to the tender offer.
+
+(b) *Reasons.* State the reasons for the position (including the inability to take a position) stated in paragraph (a) of this section. Conclusory statements such as “The tender offer is in the best interests of shareholders” are not considered sufficient disclosure.
+
+(c) *Intent to tender.* To the extent known by the filing person after making reasonable inquiry, state whether the filing person or any executive officer, director, affiliate or subsidiary of the filing person currently intends to tender, sell or hold the subject securities that are held of record or beneficially owned by that person.
+
+(d) *Intent to tender or vote in a going-private transaction.* To the extent known by the filing person after making reasonable inquiry, state whether or not any executive officer, director or affiliate of the issuer (or any person specified in Instruction C to the schedule) currently intends to tender or sell subject securities owned or held by that person and/or how each person currently intends to vote subject securities, including any securities the person has proxy authority for. State the reasons for the intended action.
+
+*Instruction to Item 1012(d)*: Provide the information required by this section if it is available to the filing person at the time the statement is initially filed with the Commission. If the information is not available, it must be filed with the Commission promptly, but in no event later than three business days after the date of the initial filing, and if material, disclosed in a manner reasonably designed to inform security holders.
+
+(e) *Recommendations of others.* To the extent known by the filing person after making reasonable inquiry, state whether or not any person specified in paragraph (d) of this section has made a recommendation either in support of or opposed to the transaction and the reasons for the recommendation.

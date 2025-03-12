@@ -1,0 +1,3 @@
+##### § 226.110 Distribution records. #####
+
+Complete records shall be maintained for each shipment of Type A medicated article(s) in a manner that will facilitate the recall, diversion, or destruction of the Type A medicated article(s), if necessary. Such records shall be retained for at least 2 years after the date of the shipment by the manufacturer and shall include the name and address of the consignee, the date and quantity shipped, and the manufacturing dates, control numbers, or marks identifying the Type A medicated article(s) shipped.

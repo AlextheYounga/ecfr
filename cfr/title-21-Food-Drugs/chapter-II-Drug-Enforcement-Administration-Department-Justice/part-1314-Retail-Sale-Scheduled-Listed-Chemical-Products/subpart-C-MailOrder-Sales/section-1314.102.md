@@ -1,0 +1,9 @@
+##### § 1314.102 Self-certification. #####
+
+(a) A regulated person who makes a sale at retail of a scheduled listed chemical product and is required under § 1310.03 of this chapter to submit a report of the sales transaction to the Attorney General must submit to the Administration the self-certification referred to in § 1314.101(a) in order to sell any scheduled listed chemical product. The certification is not effective for purposes of this section unless, in addition to provisions regarding the training of individuals referred to in § 1314.101(a), the certification includes a statement that the regulated person understands each of the requirements that apply in this part and agrees to comply with the requirements.
+
+(b) When a regulated person files the initial self-certification, the Administration will assign the regulated person to one of twelve groups. The expiration date of the self-certification for all regulated persons in any group will be the last day of the month designated for that group. In assigning a regulated person to a group, the Administration may select a group with an expiration date that is not less than 12 months or more than 23 months from the date of self-certification. After the initial certification period, the regulated person must update the self-certification annually.
+
+(c) The regulated person who makes a sale at retail of a scheduled listed chemical product and is required under § 1310.03 of this chapter to submit a report of the sales transaction to the Attorney General must provide a separate certification for each place of business at which the regulated person sells scheduled listed chemical products at retail.
+
+[76 FR 20523, Apr. 13, 2011]

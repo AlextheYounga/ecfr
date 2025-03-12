@@ -1,0 +1,3 @@
+##### § 112.112 What measures must I take immediately prior to and during harvest activities? #####
+
+You must take all measures reasonably necessary to identify, and not harvest, covered produce that is reasonably likely to be contaminated with a known or reasonably foreseeable hazard, including steps to identify and not harvest covered produce that is visibly contaminated with animal excreta. At a minimum, identifying and not harvesting covered produce that is reasonably likely to be contaminated with animal excreta or that is visibly contaminated with animal excreta requires a visual assessment of the growing area and all covered produce to be harvested, regardless of the harvest method used.

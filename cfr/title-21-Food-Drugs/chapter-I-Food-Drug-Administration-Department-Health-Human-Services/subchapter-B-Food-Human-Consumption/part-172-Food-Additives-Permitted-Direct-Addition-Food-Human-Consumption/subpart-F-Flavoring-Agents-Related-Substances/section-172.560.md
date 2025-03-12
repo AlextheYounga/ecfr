@@ -1,0 +1,27 @@
+##### § 172.560 Modified hop extract. #####
+
+The food additive modified hop extract may be safely used in beer in accordance with the following prescribed conditions:
+
+(a) The food additive is used or intended for use as a flavoring agent in the brewing of beer.
+
+(b) The food additive is manufactured by one of the following processes:
+
+(1) The additive is manufactured from a hexane extract of hops by simultaneous isomerization and selective reduction in an alkaline aqueous medium with sodium borohydride, whereby the additive meets the following specifications:
+
+(i) A solution of the food additive solids is made up in approximately 0.012 *n* alkaline methyl alcohol (6 milliliters of 1 *n* sodium hydroxide diluted to 500 milliliters with methyl alcohol) to show an absorbance at 253 millimicrons of 0.6 to 0.9 per centimeter. (This absorbance is obtained by approximately 0.03 milligram solids permilliliter.) The ultraviolet absorption spectrum of this solution exhibits the following characteristics: An absorption peak at 253 millimicrons; no absorption peak at 325 to 330 millimicrons; the absorbance at 268 millimicrons does not exceed the absorbance at 272 millimicrons.
+
+(ii) The boron content of the food additive does not exceed 310 parts per million (0.0310 percent), calculated as boron.
+
+(2) The additive is manufactured from hops by a sequence of extractions and fractionations, using benzene, light petroleum spirits, and methyl alcohol as solvents, followed by isomerization by potassium carbonate treatment. Residues of solvents in the modified hop extract shall not exceed 1.0 part per million of benzene, 1.0 part per million of light petroleum spirits, and 250 parts per million of methyl alcohol. The light petroleum spirits and benzene solvents shall comply with the specifications in § 172.250 except that the boiling point range for light petroleum spirits is 150 °F-300 °F.
+
+(3) The additive is manufactured from hops by a sequence of extractions and fractionations, using methylene chloride, hexane, and methyl alcohol as solvents, followed by isomerization by sodium hydroxide treatment. Residues of the solvents in the modified hop extract shall not exceed 5 parts per million of methylene chloride, 25 parts per million of hexane, and 100 parts per million of methyl alcohol.
+
+(4) The additive is manufactured from hops by a sequence of extractions and fractionations, using benzene, light petroleum spirits, methyl alcohol, *n-*butyl alcohol, and ethyl acetate as solvents, followed by isomerization by potassium carbonate treatment. Residues of solvents in the modified hop extract shall not exceed 1.0 part per million of benzene, 1.0 part per million of light petroleum spirits, 50 parts per million of methyl alcohol, 50 parts per million of *n-*butyl alcohol, and 1 part per million of ethyl acetate. The light petroleum spirits and benzene solvents shall comply with the specifications in § 172.250 except that the boiling point range for light petroleum spirits is 150 °F to 300 °F.
+
+(5) The additive is manufactured from hops by an initial extraction and fractionation using one or more of the following solvents: Ethylene dichloride, hexane, isopropyl alcohol, methyl alcohol, methylene chloride, trichloroethylene, and water; followed by isomerization by calcium chloride or magnesium chloride treatment in ethylene dichloride, methylene chloride, or trichloroethylene and a further sequence of extractions and fractionations using one or more of the solvents set forth in this paragraph. Residues of the solvents in the modified hop extract shall not exceed 125 parts per million of hexane; 150 parts per million of ethylene dichloride, methylene chloride, or trichloroethylene; or 250 parts per million of isopropyl alcohol or methyl alcohol.
+
+(6) The additive is manufactured from hops by an initial extraction and fractionation using one or more of the solvents listed in paragraph (b)(5) of this section followed by: Hydrogenation using palladium as a catalyst in methyl alcohol, ethyl alcohol, or isopropyl alcohol acidified with hydrochloric or sulfuric acid; oxidation with peracetic acid; isomerization by calcium chloride or magnesium chloride treatment in ethylene dichloride, methylene chloride, or trichloroethylene (alternatively, the hydrogenation and isomerization steps may be performed in reverse order); and a further sequence of extractions and fractionations using one or more of the solvents listed in paragraph (b)(5) of this section. The additive shall meet the residue limitations as prescribed in paragraph (b)(5) of this section.
+
+(7) The additive is manufactured from hops as set forth in paragraph (b)(6) of this section followed by reduction with sodium borohydride in aqueous alkaline methyl alcohol, and a sequence of extractions and fractionations using one or more of the solvents listed in paragraph (b)(5) of this section. The additive shall meet the residue limitations as prescribed in paragraph (b)(5) of this section, and a boron content level not in excess of 300 parts per million (0.0300 percent), calculated as boron.
+
+(8) The additive is manufactured from hops as a nonisomerizable nonvolatile hop resin by an initial extraction and fractionation using one or more of the solvents listed in paragraph (b)(5) of this section followed by a sequence of aqueous extractions and removal of nonaqueous solvents to less than 0.5 percent. The additive is added to the wort before or during cooking in the manufacture of beer.

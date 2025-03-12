@@ -1,0 +1,13 @@
+##### § 4.36 Alcoholic content. #####
+
+(a) Alcoholic content shall be stated in the case of wines containing more than 14 percent of alcohol by volume. In the case of wine containing 14 percent or less of alcohol by volume, the alcohol content may be stated, but need not be stated if the type designation “table” wine (or “light” wine) appears on the brand label as prescribed in § 4.32(a)(2). Any statement of alcoholic content shall be made as prescribed in paragraph (b) of this section.
+
+(b) Alcoholic content shall be stated in terms of percentage of alcohol by volume, and not otherwise, as provided in either paragraph (b)(1) or (2) of this section:
+
+(1) “Alcohol \_\_ % by volume,” or similar appropriate phrase; *Provided,* that if the word “alcohol” and/or “volume” are abbreviated, they shall be shown as “alc.” (alc) and/or “vol.” (vol), respectively. Except as provided in paragraph (c) of this section, a tolerance of 1 percent, in the case of wines containing more than 14 percent of alcohol by volume, and of 1.5 percent, in the case of wines containing 14 percent or less of alcohol by volume, will be permitted either above or below the stated percentage.
+
+(2) “Alcohol \_\_ % to \_\_ % by volume,” or similar appropriate phrase; *Provided,* that if the word “alcohol” and/or “volume” are abbreviated, they shall be shown as “alc.” (alc) and/or “vol.” (vol), respectively. Except as provided in paragraph (c) of this section, a range of not more than 2 percent, in the case of wines containing more than 14 percent of alcohol by volume, and of not more than 3 percent, in the case of wines containing 14 percent or less of alcohol by volume, will be permitted between the minimum and maximum percentages stated, and no tolerances will be permitted either below such minimum or above such maximum.
+
+(c) Regardless of the type of statement used and regardless of tolerances normally permitted in direct statements and ranges normally permitted in maximum and minimum statements, alcoholic content statements, whether required or optional, shall definitely and correctly indicate the class, type and taxable grade of the wine so labeled and nothing in this section shall be construed as authorizing the appearance upon the labels of any wine of an alcoholic content statement in terms of maximum and minimum percentages which overlaps a prescribed limitation on the alcoholic content of any class, type, or taxable grade of wine, or a direct statement of alcoholic content which indicates that the alcoholic content of the wine is within such a limitation when in fact it is not.
+
+[T.D. 6521, 25 FR 13835, Dec. 29, 1960, as amended by T.D. ATF-275, 53 FR 27046, July 18, 1988; T.D. TTB-114, 78 FR 34568, June 10, 2013]

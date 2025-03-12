@@ -1,0 +1,5 @@
+##### § 1309.36 Amendments to and withdrawals of applications. #####
+
+(a) An application may be amended or withdrawn without permission of the Administration at any time before the date on which the applicant receives an order to show cause pursuant to § 1309.46. An application may be amended or withdrawn with permission of the Administrator at any time where good cause is shown by the applicant or where the amendment or withdrawal is in the public interest.
+
+(b) After an application has been accepted for filing, the request by the applicant that it be returned or the failure of the applicant to respond to official correspondence regarding the application, including a request that the applicant submit the required fee, when sent by registered or certified mail, return receipt requested, shall be deemed to be a withdrawal of the application.

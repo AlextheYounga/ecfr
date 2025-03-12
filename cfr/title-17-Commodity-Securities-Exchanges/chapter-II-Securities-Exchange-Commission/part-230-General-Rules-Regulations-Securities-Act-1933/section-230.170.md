@@ -1,0 +1,5 @@
+##### § 230.170 Prohibition of use of certain financial statements. #####
+
+Financial statements which purport to give effect to the receipt and application of any part of the proceeds from the sale of securities for cash shall not be used unless such securities are to be offered through underwriters and the underwriting arrangements are such that the underwriters are or will be committed to take and pay for all of the securities, if any are taken, prior to or within a reasonable time after the commencement of the public offering, or if the securities are not so taken to refund to all subscribers the full amount of all subscription payments made for the securities. The caption of any such financial statement shall clearly set forth the assumptions upon which such statement is based. The caption shall be in type at least as large as that used generally in the body of the statement.
+
+[21 FR 7566, Oct. 3, 1956]

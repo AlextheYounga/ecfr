@@ -1,0 +1,5 @@
+##### § 19.301 Distillation. #####
+
+The distillation of spirits must be done in a continuous system. Distilling operations are continuous when the spirits are moved through the various steps of production as quickly as plant operation will permit. The proprietor may move the product through as many distilling or other production operations as desired, provided the operations are continuous. The collection of unfinished spirits for the purpose of redistillation is not considered to be a break in the continuity of the distilling procedure. However, the quantity and proof of any unfinished spirits must be determined and recorded before any mingling with other materials or before any further operations involving the unfinished spirits outside the continuous system. Before the production gauge, spirits may be held only as long as reasonably necessary to complete the production procedure.
+
+(26 U.S.C. 5178, 5211, 5222)

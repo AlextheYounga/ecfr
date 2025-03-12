@@ -1,0 +1,3 @@
+##### § 171.40 Notice of the commencement of a member responsibility action. #####
+
+The notice of a Member Responsibility Action provided by the National Futures Association pursuant to its rules shall advise the affected parties of their right to petition the Commission pursuant to § 171.41 to stay the effective date of the action pending a hearing before the National Futures Association on the factual issues relevant to the suspension, restriction or remedial action ordered.

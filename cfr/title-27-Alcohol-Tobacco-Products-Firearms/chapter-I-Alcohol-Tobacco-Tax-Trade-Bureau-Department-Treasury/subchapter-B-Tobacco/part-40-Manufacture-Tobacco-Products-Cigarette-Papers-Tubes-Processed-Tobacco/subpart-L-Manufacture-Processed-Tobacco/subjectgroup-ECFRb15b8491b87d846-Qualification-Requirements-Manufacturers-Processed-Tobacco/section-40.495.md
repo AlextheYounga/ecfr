@@ -1,0 +1,3 @@
+##### § 40.495 Articles of partnership or association. #####
+
+Every partnership or association that files an application for a permit as a manufacturer of processed tobacco must furnish with its application for the permit required by § 40.492 a true copy of the articles of partnership or association, if any, or certificate of partnership or association where required to be filed by any State, county, or municipality. Where a partnership or association has previously filed such documents with the appropriate TTB officer and such documents are currently complete and accurate, a written statement, in duplicate, to that effect by the partnership or association will be sufficient for the purpose of this section.

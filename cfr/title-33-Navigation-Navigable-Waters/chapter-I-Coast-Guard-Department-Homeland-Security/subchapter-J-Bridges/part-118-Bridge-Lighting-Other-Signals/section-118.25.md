@@ -1,0 +1,3 @@
+##### § 118.25 Application procedure. #####
+
+Approval of lights and other signals required shall be obtained, prior to construction, from the District Commander of the area in which the structure will be situated. Application shall be by letter accompanied by duplicate sets of drawings showing (a) plan and elevation of the structure showing lights and signals proposed, and (b) small scale vicinity chart showing proposed bridge and all other bridges within 1,000 feet above or below the proposed bridge.

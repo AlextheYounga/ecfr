@@ -1,0 +1,3 @@
+##### § 187.311 What are the application requirements for a certificate of title because of a transfer by operation of law or order of court? #####
+
+A State must require a new owner to apply for a certificate of title within a specified period of time, not to exceed 60 days, after ownership of a vessel is transferred by operation of law or order of court. This application must include an original or authenticated copy of the legal transfer document.

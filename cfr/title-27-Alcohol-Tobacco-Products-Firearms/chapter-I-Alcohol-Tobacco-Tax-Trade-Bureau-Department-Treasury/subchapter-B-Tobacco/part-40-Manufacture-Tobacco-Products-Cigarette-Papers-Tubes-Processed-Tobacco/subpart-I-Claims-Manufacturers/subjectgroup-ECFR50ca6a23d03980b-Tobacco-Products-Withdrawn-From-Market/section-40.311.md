@@ -1,0 +1,9 @@
+##### § 40.311 Action by claimant. #####
+
+(a) *General.* Where tobacco products are withdrawn from the market and the manufacturer desires to file claim under the provisions of § 40.282 or § 40.283, he shall assemble the products in or adjacent to a factory if they are to be returned to bond or at any suitable place if they are to be destroyed or reduced to materials. The manufacturer shall group the products according to the rates of tax applicable to the products, and shall prepare a schedule of the products, on TTB Form 5200.7, in triplicate. All copies of the schedule shall be forwarded to the appropriate TTB officer.
+
+(b) *Large cigars.* Refund or credit of tax on large cigars withdrawn from the market is limited to the lowest tax paid on that brand and size of cigar during the required record retention period (see § 40.185), except where the manufacturer establishes that a greater amount was actually paid. For each claim involving large cigars withdrawn from the market, the manufacturer must include a certification on either Form 5200.7 or TTB F 5620.8 to read as follows:
+
+The amounts claimed relating to large cigars are based on the lowest sale price applicable to the cigars during the required record retention period, except where specific documentation is submitted with the claim to establish that any greater amount of tax claimed was actually paid.
+
+(See 26 U.S.C. 5705)[T.D. ATF-80, 46 FR 18310, Mar. 24, 1981, as amended by T.D. ATF-232, 51 FR 28083, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-251, 52 FR 19340, May 22, 1987; T.D. ATF-307, 55 FR 52743, Dec. 21, 1990; T.D. ATF-424, 64 FR 71932, Dec. 22, 1999; T.D. ATF-420, 64 FR 71941, Dec. 22, 1999]

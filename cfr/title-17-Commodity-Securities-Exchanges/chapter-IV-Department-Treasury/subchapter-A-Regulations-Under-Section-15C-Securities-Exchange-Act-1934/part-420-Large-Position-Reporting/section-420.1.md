@@ -1,0 +1,5 @@
+##### § 420.1 Applicability. #####
+
+(a) This part is applicable to all persons that participate in the government securities market, including, but not limited to: Government securities brokers and dealers, depository institutions that exercise investment discretion, registered investment companies, registered investment advisers, pension funds, hedge funds, and insurance companies that may control a position in a recently-issued marketable Treasury bill, note, or bond as those terms are defined in § 420.2.
+
+(b) Notwithstanding paragraph (a) of this section, Treasury requests that central banks (including U.S. Federal Reserve Banks for their own account), foreign governments, and international monetary authorities voluntarily submit large position reports when they meet or exceed a reporting threshold.

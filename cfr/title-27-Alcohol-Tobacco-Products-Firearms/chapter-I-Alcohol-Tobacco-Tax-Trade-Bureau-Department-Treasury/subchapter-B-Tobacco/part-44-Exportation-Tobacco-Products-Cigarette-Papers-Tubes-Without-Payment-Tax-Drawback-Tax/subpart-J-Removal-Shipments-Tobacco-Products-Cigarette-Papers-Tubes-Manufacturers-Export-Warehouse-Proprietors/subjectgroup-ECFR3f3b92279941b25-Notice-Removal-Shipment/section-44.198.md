@@ -1,0 +1,5 @@
+##### § 44.198 Preparation. #####
+
+For each shipment of tobacco products, and cigarette papers and tubes transferred or removed from his factory, under bond and this part, the manufacturer shall prepare a notice of removal, Form 5200.14, and for each shipment of tobacco products, and cigarette papers and tubes transferred or removed from his export warehouse, under bond and this part, the export warehouse proprietor shall prepare a notice of removal, Form 5200.14. Each such notice shall be given a serial number by the manufacturer or export warehouse proprietor in a series beginning with number 1, with respect to the first shipment removed from the factory or export warehouse under this part and commencing again with number 1 on January 1 of each year thereafter.
+
+(72 Stat. 1418, as amended; 26 U.S.C. 5704)[T.D. 6871, 31 FR 53, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28089, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-421, 64 FR 71925, Dec. 22, 1999]

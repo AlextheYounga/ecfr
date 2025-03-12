@@ -1,0 +1,3 @@
+##### § 909.6 Summaries of Board decisions. #####
+
+The Board may, from time to time, issue such summaries and expurgated versions of its decisions as it may consider necessary to permit the Agencies, the exclusive representative organization(s), and the members of the Service to become aware of the general nature of the cases it has received and their manner of disposition, without invading the privacy of the grievants.

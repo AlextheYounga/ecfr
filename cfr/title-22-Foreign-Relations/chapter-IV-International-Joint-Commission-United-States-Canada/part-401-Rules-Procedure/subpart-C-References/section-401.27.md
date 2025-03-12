@@ -1,0 +1,5 @@
+##### § 401.27 Notice and publication. #####
+
+(a) The secretary to whom a reference is presented shall receive and file the same and shall send a copy forthwith to the other secretary for filing in the office of the latter. If the reference is presented by one Government only, the other secretary shall send a copy forthwith to his Government.
+
+(b) Subject to any restrictions or exceptions which may be imposed upon the Commission by the terms of the reference, and unless otherwise provided by the Commission, the secretaries, as soon as practicable after the reference is received, shall cause a notice to be published in the Canada Gazette, the Federal Register and in two newspapers, published one in each country and circulated in or near the localities which, in the opinion of the Commission, are most likely to be interested in the subject matter of the reference. The notice shall describe the subject matter of reference in general terms invite interested persons to inform the Commission of the nature of their interest and state that the Commission will provide convenient opportunity for interested persons to be heard with respect thereto.

@@ -1,0 +1,3 @@
+##### § 401.3 Permanent offices. #####
+
+The permanent offices of the Commission shall be at Washington, in the District of Columbia, and at Ottawa, in the Province of Ontario, and, subject to the directions of the respective chairmen acting for their respective sections, the secretaries of the United States and Canadian sections of the Commission shall have full charge and control of said offices, respectively.

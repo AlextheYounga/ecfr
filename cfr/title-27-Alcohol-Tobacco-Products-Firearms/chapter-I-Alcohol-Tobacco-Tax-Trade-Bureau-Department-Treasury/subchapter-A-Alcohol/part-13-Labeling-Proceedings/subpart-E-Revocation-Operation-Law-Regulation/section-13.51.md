@@ -1,0 +1,5 @@
+##### § 13.51 Revocation by operation of law or regulation. #####
+
+TTB will not individually notify all holders of certificates of label approval, certificates of exemption from label approval, or distinctive liquor bottle approvals that their approvals have been revoked if the revocation occurs by operation of either TTB-administered law or regulation or applicable law or regulation of other agencies. If changes in labeling or other requirements are made as a result of amendments or revisions to the law or regulations, the certificate holder must voluntarily surrender all certificates that are no longer in compliance. The holder must submit applications for new certificates in compliance with the new requirements, unless TTB determines that new applications are not necessary. If a new application is unnecessary, it is the responsibility of the certificate holder to ensure that labels are in compliance with their requirements of the new regulations or law.
+
+[T.D. ATF-406, 64 FR 2129, Jan. 13, 1999, as amended by T.D. ATF-483, 67 FR 62858, Oct. 8, 2002]

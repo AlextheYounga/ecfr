@@ -1,0 +1,3 @@
+##### § 822.6 When will you notify me that I am required to conduct postmarket surveillance? #####
+
+We will notify you as soon as we have determined that postmarket surveillance of your device is necessary, based on the identification of a surveillance question. This may occur during the review of a marketing application for your device, as your device goes to market, or after your device has been marketed for a period of time.

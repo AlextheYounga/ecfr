@@ -1,0 +1,5 @@
+##### § 44.225 Delivery of tobacco products, or cigarette papers or tubes for export other than by parcel post. #####
+
+The claimant, upon release of the tobacco products, or cigarette papers or tubes by the appropriate TTB officer for exportation with benefit of drawback of tax under this subpart, shall be responsible for delivery of such articles to the port of exportation for customs inspection, supervision of lading, and clearance of the articles. The claimant shall file with the district director of customs at the port of exportation the two copies of Form 5620.7 returned to the claimant by the appropriate TTB officer in accordance with § 44.224. Such copies shall be filed in sufficient time prior to lading to permit customs inspection and supervision of lading of the tobacco products, or cigarette papers or tubes.
+
+(72 Stat. 1419; 26 U.S.C. 5706)[T.D. 6961, 33 FR 9493, June 28, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28089, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-424, 64 FR 71933, Dec. 22, 1999]

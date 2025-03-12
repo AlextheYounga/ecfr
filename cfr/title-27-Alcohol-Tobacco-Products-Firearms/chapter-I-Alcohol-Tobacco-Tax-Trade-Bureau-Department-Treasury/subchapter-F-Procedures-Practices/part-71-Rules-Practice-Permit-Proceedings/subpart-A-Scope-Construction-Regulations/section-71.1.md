@@ -1,0 +1,5 @@
+##### § 71.1 Scope of part. #####
+
+The regulations in this part govern the procedure and practice in connection with the disapproval of applications for basic permits, and for the suspension, revocation and annulment of such permits under sections 3 and 4 of the Federal Alcohol Administration Act (27 U.S.C. 201 *et seq.*) and disapproval, suspension, and revocation of permits under title 26 of the U.S. Code. The regulations in this part shall also govern, insofar as applicable, any adversary proceeding involving adjudication required by statute to be determined on the record after opportunity for hearing, under laws administered by the Alcohol and Tobacco Tax and Trade Bureau.
+
+[21 FR 1441, Mar. 6, 1956, as amended by T.D. 6389, 24 FR 4790, June 12, 1959. Redesignated at 40 FR 16835, Apr. 15, 1975]Editorial Note:For Federal Register citations affecting § 71.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

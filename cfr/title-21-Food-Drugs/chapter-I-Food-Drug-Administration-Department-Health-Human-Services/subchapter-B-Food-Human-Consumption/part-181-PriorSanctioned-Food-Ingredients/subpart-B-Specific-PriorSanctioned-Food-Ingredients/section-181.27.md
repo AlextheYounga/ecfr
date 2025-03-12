@@ -1,0 +1,5 @@
+##### § 181.27 Plasticizers. #####
+
+Substances classified as plasticizers, when migrating from food-packaging material shall include:
+
+Acetyl tributyl citrate.Acetyl triethyl citrate.*p-tert-*Butylphenyl salicylate.Butyl stearate.Butylphthalyl butyl glycolate.Dibutyl sebacate.Di-(2-ethylhexyl) phthalate (for foods of high water content only).Diethyl phthalate.Diisobutyl adipate.Diisooctyl phthalate (for foods of high water content only).Diphenyl-2-ethylhexyl phosphate.Epoxidized soybean oil (iodine number maximum 6; and oxirane oxygen, minimum, 6.0 percent).Ethylphthalyl ethyl glycolate.Glycerol monooleate.Monoisopropyl citrate.Mono, di-, and tristearyl citrate.Triacetin (glycerol triacetate).Triethyl citrate.3-(2-Xenolyl)-1,2-epoxypropane.[42 FR 14638, Mar. 15, 1977; 42 FR 56728, Oct. 28, 1977, as amended at 50 FR 49536, Dec. 3, 1985]

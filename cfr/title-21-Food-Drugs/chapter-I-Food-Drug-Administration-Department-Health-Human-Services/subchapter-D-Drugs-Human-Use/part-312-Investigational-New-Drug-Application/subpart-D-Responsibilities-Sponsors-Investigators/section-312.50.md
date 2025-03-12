@@ -1,0 +1,3 @@
+##### § 312.50 General responsibilities of sponsors. #####
+
+Sponsors are responsible for selecting qualified investigators, providing them with the information they need to conduct an investigation properly, ensuring proper monitoring of the investigation(s), ensuring that the investigation(s) is conducted in accordance with the general investigational plan and protocols contained in the IND, maintaining an effective IND with respect to the investigations, and ensuring that FDA and all participating investigators are promptly informed of significant new adverse effects or risks with respect to the drug. Additional specific responsibilities of sponsors are described elsewhere in this part.

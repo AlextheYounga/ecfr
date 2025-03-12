@@ -1,0 +1,3 @@
+##### § 1006.445 What action may I take if a primary tier participant knowingly does business with an excluded or disqualified person? #####
+
+If a participant knowingly does business with an excluded or disqualified person, you as an agency official may refer the matter for suspension and debarment consideration. You may also disallow costs, annul or terminate the transaction, issue a stop work order, or take any other appropriate remedy.

@@ -1,0 +1,3 @@
+##### § 555.81 Service on applicant, licensee, or permittee. #####
+
+All notices and other formal documents required to be served on an applicant, licensee, or permittee under this subpart will be served by certified mail or by personal delivery. Where service is by personal delivery, the signed duplicate original copy of the formal document will be delivered to the applicant, licensee, or permittee, or, in the case of a corporation, partnership, or association, by delivering it to an officer, manager, or general agent, or to its attorney of record.

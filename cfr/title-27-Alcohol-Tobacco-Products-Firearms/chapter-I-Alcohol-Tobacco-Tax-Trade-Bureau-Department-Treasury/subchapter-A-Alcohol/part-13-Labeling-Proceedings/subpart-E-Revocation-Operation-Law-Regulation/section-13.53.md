@@ -1,0 +1,3 @@
+##### § 13.53 Appeal of notice of revocation. #####
+
+Within 45 days after the date of receipt of a notice of revocation by operation of law or regulations, the certificate holder may file a written appeal with the appropriate TTB officer. The appeal should set forth the reasons why the certificate holder believes that the regulation or law at issue does not require the revocation of the certificate.

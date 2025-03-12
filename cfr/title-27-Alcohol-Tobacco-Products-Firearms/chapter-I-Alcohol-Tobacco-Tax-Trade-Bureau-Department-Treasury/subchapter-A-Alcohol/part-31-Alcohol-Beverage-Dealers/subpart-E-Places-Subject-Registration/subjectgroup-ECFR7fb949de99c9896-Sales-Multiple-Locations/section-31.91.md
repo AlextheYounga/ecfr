@@ -1,0 +1,3 @@
+##### § 31.91 Passenger trains, aircraft, and vessels. #####
+
+Persons who carry on the business of a retail dealer in liquors or of a retail dealer in beer on trains, aircraft, boats, or other conveyances engaged in the business of carrying passengers may conduct that business throughout the passenger carrying train, aircraft, boat, or other vessel, after filing only one registration under this part. Such persons must specify on the registration form the number of passenger carriers for which registration is being completed.

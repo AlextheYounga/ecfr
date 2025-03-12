@@ -1,0 +1,3 @@
+##### § 555.62 State or other law. #####
+
+A license or permit issued under this part confers no right or privilege to conduct business or operations, including storage, contrary to State or other law. The holder of a license or permit issued under this part is not, by reason of the rights and privileges granted by that license or permit, immune from punishment for conducting an explosive materials business or operations in violation of the provisions of any State or other law. Similarly, compliance with the provisions of any State or other law affords no immunity under Federal law or regulations.

@@ -1,0 +1,3 @@
+##### § 229.440 Health and insurance benefits and services. #####
+
+Subject to § 229.235(d), in providing a medical, hospital, accident, or life insurance benefit, service, policy, or plan to any of its students, a recipient shall not discriminate on the basis of sex, or provide such benefit, service, policy, or plan in a manner that would violate §§ 229.500 through 229.550 if it were provided to employees of the recipient. This section shall not prohibit a recipient from providing any benefit or service that may be used by a different proportion of students of one sex than of the other, including family planning services. However, any recipient that provides full coverage health service shall provide gynecological care.

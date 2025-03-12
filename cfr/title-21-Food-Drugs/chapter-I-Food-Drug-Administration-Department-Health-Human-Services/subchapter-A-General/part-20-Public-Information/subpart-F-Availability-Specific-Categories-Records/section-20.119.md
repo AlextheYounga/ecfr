@@ -1,0 +1,3 @@
+##### § 20.119 Lists of names and addresses. #####
+
+Names and addresses of individuals in Food and Drug Administration records shall not be sold or rented. Names and addresses shall not be disclosed if disclosure is prohibited as a clearly unwarranted invasion of personal privacy, e.g., lists of names and home addresses of Food and Drug Administration employees, which shall not be disclosed under § 20.110.

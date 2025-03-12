@@ -1,0 +1,15 @@
+##### § 24.304 Chaptalization (Brix adjustment) and amelioration record. #####
+
+(a) *General.* A proprietor who chaptalizes juice or ameliorates juice or wine, or both, shall maintain a record of the operation and the transaction date. Records will be maintained for each kind of wine produced (grape, apple, strawberry, etc.). No form of record is prescribed, but the record maintained will contain the information necessary to enable appropriate TTB officers to readily determine compliance with chaptalization and amelioration limitations. All quantities will be recorded in wine gallons, and, where sugar is used, the quantity will be determined either by measuring the increase in volume or, for pure dry sugar by considering that each 13.5 pounds results in a volumetric increase of one gallon. If grape juice is chaptalized and subsequently this juice or wine is ameliorated, the quantity of pure dry sugar added to juice will be included as ameliorating material. If fruit juice other than grape is chaptalized and this juice or wine is ameliorated, the quantity of pure dry sugar added for chaptalization is not considered ameliorating material; however, if liquid sugar or invert sugar syrup is used, the quantity of water in such sugar is included as ameliorating material. The record will include the following:
+
+(1) The volume of juice (exclusive of pulp) deposited in fermenters;
+
+(2) The maximum volume of ameliorating material to which the juice is entitled, as provided in § 24.178;
+
+(3) The volume of ameliorating or chaptalizing material used; and
+
+(4) The volume of material authorized but not yet used.
+
+(b) *Supporting records.* The amelioration record will show the basis for entries and calculations, including determination of the natural fixed acid level and total solids content of juice, as applicable. The records are maintained on the basis of annual accounting periods, with each period commencing on July 1 of a year and ending on the following June 30, except the record for an accounting period may be continued after June 30, where the juice or wine included therein is to be held after that date for completion. When the amelioration of wine included in the record for one accounting period is complete, the record is closed and any unused ameliorating material may not be used. The proprietor may mix wines before amelioration of the wine is completed; however, the proprietor shall additionally maintain records necessary to establish the quantity of unused authorized material to which the resultant mixture would be entitled so that appropriate TTB officers may readily ascertain compliance with amelioration limitations.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended 1385, as amended (26 U.S.C. 5367, 5384))(Approved by the Office of Management and Budget under control number 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31082, July 9, 1991; T.D. ATF-409, 64 FR 13684, Mar. 22, 1999]

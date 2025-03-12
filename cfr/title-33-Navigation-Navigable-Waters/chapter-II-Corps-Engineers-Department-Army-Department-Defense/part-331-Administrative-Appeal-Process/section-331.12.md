@@ -1,0 +1,3 @@
+##### § 331.12 Exhaustion of administrative remedies. #####
+
+No affected party may file a legal action in the Federal courts based on a permit denial or a proffered permit until after a final Corps decision has been made and the appellant has exhausted all applicable administrative remedies under this part. The appellant is considered to have exhausted all administrative remedies when a final Corps permit decision is made in accordance with § 331.10.

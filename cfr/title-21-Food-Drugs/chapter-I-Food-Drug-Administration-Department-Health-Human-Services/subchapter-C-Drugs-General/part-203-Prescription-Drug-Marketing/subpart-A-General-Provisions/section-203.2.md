@@ -1,0 +1,3 @@
+##### § 203.2 Purpose. #####
+
+The purpose of this part is to implement the Prescription Drug Marketing Act of 1987 and the Prescription Drug Amendments of 1992, except for those sections relating to State licensing of wholesale distributors (see part 205 of this chapter), to protect the public health, and to protect the public against drug diversion by establishing procedures, requirements, and minimum standards for the distribution of prescription drugs and prescription drug samples.

@@ -1,0 +1,3 @@
+##### § 1314.03 Definitions. #####
+
+As used in this part, the term “mail-order sale” means a retail sale of scheduled listed chemical products for personal use where a regulated person uses or attempts to use the U.S. Postal Service or any private or commercial carrier to deliver the product to the customer. Mail-order sale includes purchase orders submitted by phone, mail, fax, Internet, or any method other than face-to-face transaction.

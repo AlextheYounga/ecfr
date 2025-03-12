@@ -1,0 +1,3 @@
+##### § 92.36 Authentication defined. #####
+
+An authentication is a certification of the genuineness of the official character, *i.e.*, signature and seal, or position of a foreign official. It is an act done with the intention of causing a document which has been executed or issued in one jurisdiction to be recognized in another jurisdiction. Documents which may require authentication include legal instruments notarized by foreign notaries or other officials, and copies of public records, such as birth, death, and marriage certificates, issued by foreign record keepers.

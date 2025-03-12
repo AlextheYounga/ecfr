@@ -1,0 +1,5 @@
+##### § 40.42 Authority of Appropriate TTB officers to enter premises. #####
+
+Any appropriate TTB officer may enter in the daytime any premises where tobacco products are produced or kept, so far as it may be necessary for the purpose of examining such products. When such premises are open at night, any appropriate TTB officer may enter them, while so open, in the performance of his official duties. The owner of such premises, or person having the superintendence of the same, who refuses to admit any appropriate TTB officer or permit him to examine such products shall be liable to the penalties prescribed by law for the offense.
+
+(68A Stat. 872, 903; 26 U.S.C. 7342, 7606)[T.D. 6871, 31 FR 33, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975; T.D. ATF-232, 51 FR 28080, Aug. 5, 1986; T.D. ATF-243, 52 FR 43194, Dec. 1, 1986; T.D. TTB-91, 76 FR 5479, Feb. 1, 2011]

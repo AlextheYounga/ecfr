@@ -1,0 +1,3 @@
+##### § 240.21F-15 No amnesty. #####
+
+The Securities Whistleblower Incentives and Protection provisions do not provide amnesty to individuals who provide information to the Commission. The fact that you may become a whistleblower and assist in Commission investigations and enforcement actions does not preclude the Commission from bringing an action against you based upon your own conduct in connection with violations of the Federal securities laws. If such an action is determined to be appropriate, however, the Commission will take your cooperation into consideration in accordance with its Policy Statement Concerning Cooperation by Individuals in Investigations and Related Enforcement Actions (17 CFR 202.12).

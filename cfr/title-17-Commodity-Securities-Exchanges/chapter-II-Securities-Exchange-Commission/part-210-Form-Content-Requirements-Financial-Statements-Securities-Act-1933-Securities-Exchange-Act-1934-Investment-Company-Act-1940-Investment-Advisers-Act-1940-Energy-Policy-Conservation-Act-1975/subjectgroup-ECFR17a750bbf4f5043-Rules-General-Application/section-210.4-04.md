@@ -1,0 +1,3 @@
+##### § 210.4-04 Omission of substantially identical notes. #####
+
+If a note covering substantially the same subject matter is required with respect to two or more financial statements relating to the same or affiliated persons, for which separate sets of notes are presented, the required information may be shown in a note to only one of such statements: *Provided,* That a clear and specific reference thereto is made in each of the other statements with respect to which the note is required.

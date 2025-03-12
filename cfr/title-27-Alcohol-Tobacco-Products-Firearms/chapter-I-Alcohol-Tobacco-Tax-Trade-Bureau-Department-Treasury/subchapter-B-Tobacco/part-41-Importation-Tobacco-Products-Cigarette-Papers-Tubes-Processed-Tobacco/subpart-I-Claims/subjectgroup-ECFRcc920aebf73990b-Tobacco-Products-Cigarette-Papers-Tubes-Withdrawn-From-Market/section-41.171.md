@@ -1,0 +1,5 @@
+##### § 41.171 Reduction of tobacco products to materials, action by appropriate TTB officer. #####
+
+Upon receipt of a schedule of tobacco products and cigarette papers and tubes which have been imported or brought into the United States and which are withdrawn from the market by a taxpayer who desires to destroy such articles or, in the case of tobacco products, reduce them to tobacco, the appropriate TTB officer may verify the schedule and supervise destruction of the articles (and stamps, if any) or the reduction of tobacco products to tobacco, or the appropriate TTB officer may authorize the taxpayer to destroy the articles (and stamps, if any) or reduce tobacco products to tobacco without supervision by so stating on the original and one copy of the schedule returned to the taxpayer.
+
+(72 Stat. 1419, as amended; 26 U.S.C. 5705)[T.D. 6871, 31 FR 46, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28087, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

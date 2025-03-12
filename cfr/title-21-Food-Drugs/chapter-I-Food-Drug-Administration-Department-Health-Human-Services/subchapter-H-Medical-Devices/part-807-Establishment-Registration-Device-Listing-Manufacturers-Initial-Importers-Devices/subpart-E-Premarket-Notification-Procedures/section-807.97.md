@@ -1,0 +1,3 @@
+##### § 807.97 Misbranding by reference to premarket notification. #####
+
+Submission of a premarket notification in accordance with this subpart, and a subsequent determination by the Commissioner that the device intended for introduction into commercial distribution is substantially equivalent to a device in commercial distribution before May 28, 1976, or is substantially equivalent to a device introduced into commercial distribution after May 28, 1976, that has subsequently been reclassified into class I or II, does not in any way denote official approval of the device. Any representation that creates an impression of official approval of a device because of complying with the premarket notification regulations is misleading and constitutes misbranding.

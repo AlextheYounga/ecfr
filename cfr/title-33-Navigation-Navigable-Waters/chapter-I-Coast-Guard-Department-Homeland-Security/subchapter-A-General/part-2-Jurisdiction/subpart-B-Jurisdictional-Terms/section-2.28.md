@@ -1,0 +1,5 @@
+##### § 2.28 Contiguous zone. #####
+
+(a) For the purposes of the Federal Water Pollution Control Act (33 U.S.C. 1251 *et seq.*), *contiguous zone* means the zone, 9 nautical miles wide, adjacent to and seaward of the territorial sea, as defined in § 2.22(a)(2), that was declared to exist in Department of State Public Notice 358 of June 1, 1972 and that extends from 3 nautical miles to 12 nautical miles as measured from the territorial sea baseline.
+
+(b) For all other purposes, *contiguous zone* means all waters within the area adjacent to and seaward of the territorial sea, as defined in § 2.22(a), and extending to 24 nautical miles from the territorial sea baseline, but in no case extending within the territorial sea of another nation, as declared in Presidential Proclamation 7219 of September 2, 1999 (113 Stat. 2138).

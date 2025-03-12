@@ -1,0 +1,5 @@
+##### § 230.905 Resale limitations. #####
+
+Equity securities of domestic issuers acquired from the issuer, a distributor, or any of their respective affiliates in a transaction subject to the conditions of § 230.901 or § 230.903 are deemed to be “restricted securities” as defined in § 230.144. Resales of any of such restricted securities by the offshore purchaser must be made in accordance with this Regulation S (§ 230.901 through § 230.905, and Preliminary Notes), the registration requirements of the Act or an exemption therefrom. Any “restricted securities,” as defined in § 230.144, that are equity securities of a domestic issuer will continue to be deemed to be restricted securities, notwithstanding that they were acquired in a resale transaction made pursuant to § 230.901 or § 230.904.
+
+[63 FR 9647, Feb. 25, 1998]

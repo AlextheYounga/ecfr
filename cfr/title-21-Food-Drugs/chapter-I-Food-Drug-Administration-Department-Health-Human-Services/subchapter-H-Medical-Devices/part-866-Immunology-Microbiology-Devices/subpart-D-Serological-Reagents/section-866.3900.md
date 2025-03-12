@@ -1,0 +1,5 @@
+##### § 866.3900 Varicella-zoster virus serological reagents. #####
+
+(a) *Identification.* Varicella-zoster virus serological reagents are devices that consist of antigens and antisera used in serological tests to identify antibodies to varicella-zoster in serum. The identification aids in the diagnosis of diseases caused by varicella-zoster viruses and provides epidemiological information on these diseases. Varicella (chicken pox) is a mild, highly infectious disease, chiefly of children. Zoster (shingles) is the recurrent form of the disease, occurring in adults who were previously infected with varicella-zoster viruses. Zoster is the response (characterized by a rash) of the partially immune host to a reactivation of varicella viruses present in latent form in the patient's body.
+
+(b) *Classification.* Class II (performance standards).

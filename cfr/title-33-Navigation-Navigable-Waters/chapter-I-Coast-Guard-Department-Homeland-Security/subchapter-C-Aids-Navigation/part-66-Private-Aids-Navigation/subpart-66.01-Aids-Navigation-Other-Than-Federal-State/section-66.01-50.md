@@ -1,0 +1,3 @@
+##### § 66.01-50 Protection of private aids to navigation. #####
+
+Private aids to navigation lawfully maintained under these regulations are entitled to the same protection against interference or obstruction as is afforded by law to Coast Guard aids to navigation (Part 70 of this subchapter). If interference or obstruction occurs, a prompt report containing all the evidence available should be made to the Commander of the Coast Guard District in which the aids are located.

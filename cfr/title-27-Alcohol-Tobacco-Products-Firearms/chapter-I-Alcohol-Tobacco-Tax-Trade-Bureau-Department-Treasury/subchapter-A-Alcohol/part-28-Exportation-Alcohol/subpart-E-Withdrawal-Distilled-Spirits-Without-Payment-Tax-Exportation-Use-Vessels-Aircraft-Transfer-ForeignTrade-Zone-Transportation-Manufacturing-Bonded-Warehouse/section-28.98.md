@@ -1,0 +1,5 @@
+##### § 28.98 Inspection and regauge. #####
+
+The proprietor shall inspect all containers to be withdrawn pursuant to TTB Form 5100.11 and shall regauge all packages, except those which are to be withdrawn on the filling or production gauge as authorized in 27 CFR part 19. If the withdrawal is to be made subject to regauge, the proprietor shall prepare a package gauge record as provided in 27 CFR part 19, enter the total proof gallons regauged on TTB Form 5100.11, and attach a copy of the package gauge record to each copy of TTB Form 5100.11. If a proprietor wishes to reduce the proof of spirits contained in packages to be withdrawn pursuant to TTB Form 5100.11, he shall make such proof reduction incident to regauge of the packages.
+
+(Approved by the Office of Management and Budget under control number 1412-0190 and 1512-0250)(Sec. 201, Pub. L. 85-859, 72 Stat. 1358, as amended (26 U.S.C. 5204))[T.D. ATF-198, 50 FR 8559, Mar. 1, 1985, as amended by T.D. TTB-8, 69 FR 3832, Jan. 27, 2004]

@@ -1,0 +1,19 @@
+##### § 74.705 FD&C Yellow No. 5. #####
+
+(a) *Identity.* (1) The color additive FD&C Yellow No. 5 is principally the trisodium salt of 4,5-dihydro-5-oxo-1-(4-sulfophenyl)-4-[4-sulfophenyl-azo]-1*H*-pyrazole-3-carboxylic acid (CAS Reg. No. 1934-21-0). To manufacture the additive, 4-amino-benzenesulfonic acid is diazotized using hydrochloric acid and sodium nitrite. The diazo compound is coupled with 4,5-dihydro-5-oxo-1-(4-sulfophenyl)-1*H*-pyrazole-3-carboxylic acid or with the methyl ester, the ethyl ester, or a salt of this carboxylic acid. The resulting dye is purified and isolated as the sodium salt.
+
+(2) Color additive mixtures for food use made with FD&C Yellow No. 5 may contain only those diluents that are suitable and that are listed in part 73 of this chapter as safe for use in color additive mixtures for coloring foods.
+
+(b) *Specifications.* FD&C Yellow No. 5 shall conform to the following specifications and shall be free from impurities other than those named to the extent that such other impurities may be avoided by good manufacturing practice:
+
+Sum of volatile matter at 135 °C (275 °F) and chlorides and sulfates (calculated as sodium salts), not more than 13 percent.Water-insoluble matter, not more than 0.2 percent.4,4′-[4,5-Dihydro-5-oxo-4-[(4-sulfophenyl)hydrazono]-1*H*-pyrazol-1,3-diyl]bis[benzenesulfonic acid], trisodium salt, not more than 1 percent.4-[(4′,5-Disulfo[1,1′-biphenyl]-2-yl)hydrazono]-4,5-dihydro-5-oxo-1-(4-sulfophenyl)-1*H*-pyrazole-3-carboxylic acid, tetrasodium salt, not more than 1 percent.Ethyl or methyl 4,5-dihydro-5-oxo-1-(4-sulfophenyl)-4-[(4-sulfophenyl)hydrazono]-1*H*-pyrazole-3-carboxylate, disodium salt, not more than 1 percent.Sum of 4,5-dihydro-5-oxo-1-phenyl-4-[(4-sulfophenyl)azo]-1*H*-pyrazole-3-carboxylic acid, disodium salt, and 4,5-dihydro-5-oxo-4-(phenylazo)-1-(4-sulfophenyl)-1*H*-pyrazole-3-carboxylic acid, disodium salt, not more than 0.5 percent.4-Aminobenzenesulfonic acid, sodium salt, not more than 0.2 percent.4,5-Dihydro-5-oxo-1-(4-sulfophenyl)-1*H*-pyrazole-3-carboxylic acid, disodium salt, not more than 0.2 percent.Ethyl or methyl 4,5-dihydro-5-oxo-1-(4-sulfophenyl)-1*H*-pyrazole-3-carboxylate, sodium salt, not more than 0.1 percent.4,4′-(1-Triazene-1,3-diyl)bis[benzenesulfonic acid], disodium salt, not more than 0.05 percent.4-Aminoazobenzene, not more than 75 parts per billion.4-Aminobiphenyl, not more than 5 parts per billion.Aniline, not more than 100 parts per billion.Azobenzene, not more than 40 parts per billion.Benzidine, not more than 1 part per billion.1,3-Diphenyltriazene, not more than 40 parts per billion.Lead (as Pb), not more than 10 parts per million.Arsenic (as As), not more than 3 parts per million.Mercury (as Hg), not more than 1 part per million.Total color, not less than 87 percent.
+
+(c) *Uses and restrictions.* FD&C Yellow No. 5 may be safely used for coloring foods (including dietary supplements) generally in amounts consistent with good manufacturing practice, except that it may not be used to color foods for which standards of identity have been promulgated under section 401 of the act unless added color is authorized by such standards.
+
+(d) *Labeling requirements.* (1) The label of the color additive and any mixtures intended solely or in part for coloring purposes prepared therefrom shall conform to the requirements of § 70.25 of this chapter.
+
+(2) Foods for human use that contain FD&C Yellow No. 5, including butter, cheese, and ice cream, shall specifically declare the presence of FD&C Yellow No. 5 by listing the color additive as FD&C Yellow No. 5 among the list of ingredients.
+
+(e) *Certification.* All batches of FD&C Yellow No. 5 shall be certified in accordance with regulations in part 80 of this chapter.
+
+[42 FR 15654, Mar. 22, 1977; 44 FR 17658, Mar. 23, 1979, as amended at 44 FR 37220, June 26, 1979; 51 FR 24519, July 7, 1986]

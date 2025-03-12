@@ -1,0 +1,5 @@
+##### § 866.3390 Neisseria spp. direct serological test reagents. #####
+
+(a) *Identification. Neisseria* spp. direct serological test reagents are devices that consist of antigens and antisera used in serological tests to identify *Neisseria* spp. from cultured isolates. Additionally, some of these reagents consist of *Neisseria* spp. antisera conjugated with a fluorescent dye (immunofluorescent reagents) which may be used to detect the presence of *Neisseria* spp. directly from clinical specimens. The identification aids in the diagnosis of disease caused by bacteria belonging to the genus *Neisseria,* such as epidemic cerebrospinal meningitis, meningococcal disease, and gonorrhea, and also provides epidemiological information on diseases caused by these microorganisms. The device does not include products for the detection of gonorrhea in humans by indirect methods, such as detection of antibodies or of oxidase produced by gonococcal organisms.
+
+(b) *Classification.* Class II (performance standards).

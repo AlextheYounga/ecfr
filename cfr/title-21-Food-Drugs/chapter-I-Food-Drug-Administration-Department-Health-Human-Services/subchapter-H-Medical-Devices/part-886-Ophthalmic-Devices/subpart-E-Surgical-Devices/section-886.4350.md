@@ -1,0 +1,7 @@
+##### § 886.4350 Manual ophthalmic surgical instrument. #####
+
+(a) *Identification.* A manual ophthalmic surgical instrument is a nonpowered, handheld device intended to aid or perform ophthalmic surgical procedures. This generic type of device includes the manual corneal burr, ophthalmic caliper, ophthalmic cannula, eyelid clamp, ophthalmic muscle clamp, iris retractor clip, orbital compressor, ophthalmic curette, cystotome, orbital depressor, lachrymal dilator, erisophake, expressor, ophthalmic forcep, ophthalmic hook, sphere introducer, ophthalmic knife, ophthalmic suturing needle, lachrymal probe, trabeculotomy probe, cornea-sclera punch, ophthalmic retractor, ophthalmic ring (Flieringa), lachrymal sac rongeur, ophthalmic scissors, enucleating snare, ophthalmic spatula, ophthalmic specula, ophthalmic spoon, ophthalmic spud, trabeculotome or ophthalmic manual trephine.
+
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter, subject to the limitations in § 886.9.
+
+[52 FR 33355, Sept. 2, 1987, as amended at 53 FR 35606, Sept. 14, 1988; 59 FR 63013, Dec. 7, 1994; 60 FR 15872, Mar. 28, 1995; 66 FR 38813, July 25, 2001]

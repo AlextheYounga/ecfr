@@ -1,0 +1,3 @@
+##### § 71.27 Listing and exemption from certification on the Commissioner's initiative. #####
+
+Where a petition for a regulation to list a color additive has not been received and the Commissioner has available facts which demonstrate that a color additive should be listed and/or that certification procedure is not necessary in order to protect the public health, he may list such color additive by appropriate regulation and listing in part 73 or 74 of this chapter.

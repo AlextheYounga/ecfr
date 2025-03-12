@@ -1,0 +1,13 @@
+##### § 1413.6 Notice of meetings; public announcement and publication. #####
+
+(a) A public announcement setting forth the time, place and subject matter of meetings, or portions thereof, closed to public observation pursuant to the provisions of § 1413.4(a), shall be made at the earliest practicable time.
+
+(b) Except for meetings closed to public observation pursuant to the provisions of § 1413.4(a), the agency shall make public announcement of each meeting to be held at least seven (7) days before the scheduled date of the meeting. The announcement shall specify the time, place and subject matter of the meeting, whether it is to be open to public observation or closed, and the name, address, and phone number of an agency official designated to respond to requests for information about the meeting. The seven (7) day period for advance notice may be shortened only upon a determination by a majority of the members of the Board who will participate in the meeting that agency business requires that such meeting be called at an earlier date, in which event the public announcements shall be made at the earliest practicable time. A record of the vote to schedule a meeting at an earlier date shall be kept and made available to the public.
+
+(c) Within one (1) day after a vote to close a meeting, or any portion thereof, pursuant to the provisions of § 1413.4(b), the agency shall make publicly available a full written explanation of its action closing the meeting, or portion thereof, together with a list of all persons expected to attend the meeting and their affiliation.
+
+(d) If after public announcement required by paragraph (b) of this section has been made, the time and place of the meeting are changed, a public announcement shall be made at the earliest practicable time. The subject matter of the meeting may be changed after the public announcement only if a majority of the members of the Board who will participate in the meeting determine that agency business so requires and that no earlier announcement of the change was possible. When such a change in subject matter is approved, a public announcement of the change shall be made at the earliest practicable time. A record of the vote to change the subject matter of the meeting shall be kept and made available to the public.
+
+(e) All announcements or changes thereto issued pursuant to the provisions of paragraphs (b) and (d) of this section or pursuant to the provisions of § 1413.5(d) shall be submitted for publication in the Federal Register immediately following their release to the public.
+
+(f) Announcements of meetings made pursuant to the provisions of this section shall be made publicly available by the Executive Director of the Authority.

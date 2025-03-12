@@ -1,0 +1,3 @@
+##### § 10.107 Leave to adduce additional evidence. #####
+
+Any time prior to issuance of the final decision the Commission may, upon its own motion or upon application in writing by any party, after notice to the parties and an opportunity for them to be heard, reopen the hearing for the reception of further evidence. The application shall show to the satisfaction of the Commission that the additional evidence is material, and that there were reasonable grounds for failure to adduce such evidence at the hearing. The Commission may hear the additional evidence or may refer the proceeding to the Administrative Law Judge for the taking of the additional evidence.

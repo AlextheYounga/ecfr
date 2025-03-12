@@ -1,0 +1,7 @@
+##### § 18.22 Restrictions as to location and use. #####
+
+(a) *Restrictions.* A concentrate plant may not be established in any dwelling house or on board any vessel or boat, or on any premises where any other business is conducted. The premises of a concentrate plant may be used only for the business stated in the approved application for registration.
+
+(b) *Exceptions.* The appropriate TTB officer may authorize (1) the establishment of a concentrate plant on premise where other business is conducted, or (2) the use of the premises of a concentrate plant for other business. A person or proprietor desiring such authorization shall submit a written application to the appropriate TTB officer. The application will describe the other business by type and the premises to be used. If the premises of a concentrate plant are to be used for other business, the relationship (if any) to the concentrate plant will be described in the application. A concentrate plant may not be established on premises where other business is conducted or used to conduct other business until the application is approved. The appropriate TTB officer may decline to approve the application or withdraw the authorization if the revenue is jeopardized or the effective administration of this part is hindered.
+
+(Approved by the Office of Management and Budget under control number 1512-0046)[T.D. ATF-104, 47 FR 23921, June 2, 1982, as amended by T.D. ATF-381, 61 FR 37003, July 16, 1996]

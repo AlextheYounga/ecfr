@@ -1,0 +1,3 @@
+##### § 12.36 Subpoenas to compel discovery. #####
+
+An application for a subpoena requiring a party or non-party to comply with a discovery order issued pursuant to §§ 12.31 and 12.32, may be made, in writing, by any party without notice to other parties, and may be filed simultaneously with the motion for the discovery order. The standards for issuance or denial of such an application, the service requirement, and the method for enforcing such subpoenas shall be determined by the provisions of § 12.313 of these rules.

@@ -1,0 +1,3 @@
+##### § 18.6 Authority to prohibit appearances. #####
+
+Pursuant to 18 U.S.C 207(j), if the Director General finds, after notice and opportunity for a hearing, that a former officer or employee of the Department has violated 18 U.S.C. 207(a), (b) or (c), the Director General in his/her discretion may prohibit that person from engaging in practice before the Department for a period not to exceed five years, or may take other appropriate disciplinary action.

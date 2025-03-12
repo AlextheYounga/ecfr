@@ -1,0 +1,5 @@
+##### § 1203.735-212 Wearing of uniforms. #####
+
+(a) An employee of the Foreign Service may not wear any uniform except as may be authorized by law or as a military commander may require civilians to wear in a theater of military operations (22 U.S.C. 803). When an employee is authorized by law or required by a military commander of the United States to wear a uniform, care shall be taken that the uniform is worn only at authorized times and for authorized purposes.
+
+(b) Conventional attire worn by chauffeurs, elevator operators, and other miscellaneous employees are not considered uniforms within the meaning of this section except that, for ICA, MOA VII 917.2b prohibits the purchase from Agency funds of uniforms or any item of personal wearing apparel other than special protective clothing.

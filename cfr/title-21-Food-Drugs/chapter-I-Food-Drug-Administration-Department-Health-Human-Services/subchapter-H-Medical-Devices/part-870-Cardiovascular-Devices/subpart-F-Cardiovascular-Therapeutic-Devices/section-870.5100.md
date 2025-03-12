@@ -1,0 +1,11 @@
+##### § 870.5100 Percutaneous Transluminal Coronary Angioplasty (PTCA) Catheter. #####
+
+(a) *Standard PTCA Catheter*—(1) *Identification.* A PTCA catheter is a device that operates on the principle of hydraulic pressurization applied through an inflatable balloon attached to the distal end. A PTCA balloon catheter has a single or double lumen shaft. The catheter features a balloon of appropriate compliance for the clinical application, constructed from a polymer. The balloon is designed to uniformly expand to a specified diameter and length at a specific pressure as labeled, with well characterized rates of inflation and deflation and a defined burst pressure. The device generally features a type of radiographic marker to facilitate fluoroscopic visualization of the balloon during use. A PTCA catheter is intended for balloon dilatation of a hemodynamically significant coronary artery or bypass graft stenosis in patients evidencing coronary ischemia for the purpose of improving myocardial perfusion. A PTCA catheter may also be intended for the treatment of acute myocardial infarction; treatment of in-stent restenosis (ISR) and/or post-deployment stent expansion.
+
+(2) *Classification.* Class II (special controls). The special control for this device is “Class II Special Controls Guidance Document for Certain Percutaneous Transluminal Coronary Angioplasty (PTCA) Catheters.” See § 870.1(e) for the availability of this guidance document.
+
+(b) *Cutting/scoring PTCA Catheter*—(1) *Identification.* A cutting/scoring PTCA catheter is a balloon-tipped catheter with cutting/scoring elements attached, which is used in those circumstances where a high pressure balloon resistant lesion is encountered. A cutting/scoring PTCA catheter is intended for the treatment of hemodynamically significant coronary artery stenosis for the purpose of improving myocardial perfusion. A cutting/scoring PTCA catheter may also be indicated for use in complex type C lesions or for the treatment of in-stent restenosis.
+
+(2) *Classification.* Class III (premarket approval). As of May 28, 1976, an approval under section 515 of the act is required before this device may be commercially distributed. See § 870.3.
+
+[75 FR 54496, Sept. 8, 2010]

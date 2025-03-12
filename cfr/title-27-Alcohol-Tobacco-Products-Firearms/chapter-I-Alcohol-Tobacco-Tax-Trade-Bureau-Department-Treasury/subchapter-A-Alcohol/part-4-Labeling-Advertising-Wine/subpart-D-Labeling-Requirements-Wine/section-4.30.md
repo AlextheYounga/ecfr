@@ -1,0 +1,11 @@
+##### § 4.30 General. #####
+
+(a) *Application.* No person engaged in business as a producer, rectifier, blender, importer, or wholesaler, directly or indirectly or through an affiliate, shall sell or ship or deliver for sale or shipment, or otherwise introduce in interstate or foreign commerce, or receive therein, or remove from customs custody, any wine in containers unless such wine is packaged, and such packages are marked, branded, and labeled in conformity with this subpart. Wine domestically bottled or packed prior to Dec. 15, 1936, and imported wine entered in customs bond in containers prior to that date shall be regarded as being packaged, marked, branded and labeled in accordance with this subpart, if the labels on such wine (1) bear all the mandatory label information required by § 4.32, even though such information is not set forth in the manner and form as required by § 4.32 and other sections of this title referred to therein, and (2) bear no statements, designs, or devices which are false or misleading.
+
+(b) *Alteration of labels.* (1) It shall be unlawful for any person to alter, mutilate, destroy, obliterate or remove any mark, brand, or label upon wine held for sale in interstate or foreign commerce or after shipment therein, except as authorized by Federal law, or except as provided in paragraph (b)(2) of this section: *Provided,* That the appropriate TTB officer may, upon written application, permit additional labeling or relabeling of wine for purposes of compliance with the requirements of this part or of State law.
+
+(2) No application for permission to relabel wine need be made in any case where there is added to the container, after removal from customs custody or from the premises where bottled or packed, a label identifying the wholesale or retail distributor thereof, and containing no reference whatever to the characteristics of the product.
+
+[T.D. 6521, 25 FR 13835, Dec. 29, 1960, as amended by T.D. ATF-425, 65 FR 11891, Mar. 7, 2000; T.D. ATF-953, 68 FR 39455, July 2, 2003]Cross Reference:
+
+For customs warehouses and control of merchandise therein, see 19 CFR part 19.

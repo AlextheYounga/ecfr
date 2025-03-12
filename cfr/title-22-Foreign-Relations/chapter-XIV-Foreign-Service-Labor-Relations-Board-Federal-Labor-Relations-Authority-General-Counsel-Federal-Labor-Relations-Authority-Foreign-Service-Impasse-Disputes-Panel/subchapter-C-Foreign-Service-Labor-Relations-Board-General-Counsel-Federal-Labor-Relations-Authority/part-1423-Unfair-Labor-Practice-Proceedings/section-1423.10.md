@@ -1,0 +1,11 @@
+##### § 1423.10 Determination not to issue complaint; review of action by the Regional Director. #####
+
+(a) If the Regional Director determines that the charge has not been timely filed, that the charge fails to state an unfair labor practice, or for other appropriate reasons, the Regional Director may request the charging party to withdraw the charge, and in the absence of such withdrawal within a reasonable time, decline to issue a complaint.
+
+(b) If the Regional Director determines not to issue a complaint on a charge which is not withdrawn, the Regional Director shall provide the parties with a written statement of the reasons for not issuing a complaint.
+
+(c) The charging party may obtain a review of the Regional Director's decision not to issue a complaint by filing an appeal with the General Counsel within twenty-five (25) days after service of the Regional Director's decision. The appeal shall contain a complete statement setting forth the facts and reasons upon which it is based. A copy of the appeal shall also be filed with the Regional Director. In addition, the charging party should notify all other parties of the fact that an appeal has been taken, but any failure to give such notice shall not affect the validity of the appeal.
+
+(d) A request for extension of time to file an appeal shall be in writing and received by the General Counsel not later than five (5) days before the date the appeal is due. The charging party should notify the Regional Director and all other parties that it has requested an extension of time in which to file an appeal, but any failure to give such notice shall not affect the validity of its request for an extension of time to file an appeal.
+
+(e) The General Counsel may sustain the Regional Director's refusal to issue or re-issue a complaint, stating the grounds of affirmance, or may direct the Regional Director to take further action. The General Counsel's decision shall be served on all the parties. The decision of the General Counsel shall be final.

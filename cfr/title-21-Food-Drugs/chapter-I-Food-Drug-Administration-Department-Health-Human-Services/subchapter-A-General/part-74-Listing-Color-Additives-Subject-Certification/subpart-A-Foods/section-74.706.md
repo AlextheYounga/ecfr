@@ -1,0 +1,19 @@
+##### § 74.706 FD&C Yellow No. 6. #####
+
+(a) *Identity.* (1) The color additive FD&C Yellow No. 6 is principally the disodium salt of 6-hydroxy-5-[(4-sulfophenyl)azo]-2-naphthalenesulfonic acid (CAS Reg. No. 2783-94-0). The trisodium salt of 3-hydroxy-4-[(4-sulfophenyl)azo]-2,7-naphthalenedisulfonic acid (CAS Reg. No. 50880-65-4) may be added in small amounts. The color additive is manufactured by diazotizing 4-aminobenzenesulfonic acid using hydrochloric acid and sodium nitrite or sulfuric acid and sodium nitrite. The diazo compound is coupled with 6-hydroxy-2-naphthalene-sulfonic acid. The dye is isolated as the sodium salt and dried. The trisodium salt of 3-hydroxy-4-[(4-sulfophenyl)azo]-2,7-naphthalenedisulfonic acid which may be blended with the principal color is prepared in the same manner except the diazo benzenesulfonic acid is coupled with 3-hydroxy-2,7-naphthalenedisulfonic acid.
+
+(2) Color additive mixtures for food use made with FD&C Yellow No. 6 may contain only those diluents that are suitable and that are listed in part 73 of this chapter as safe for use in color additive mixtures for coloring foods.
+
+(b) *Specifications.* The color additive FD&C Yellow No. 6 shall conform to the following specifications and shall be free from impurities other than those named to the extent that such other impurities may be avoided by current good manufacturing practice:
+
+Sum of volatile matter (at 135 °C) and chlorides and sulfates (calculated as sodium salts), not more than 13 percent.Water insoluble matter, not more than 0.2 percent.Sodium salt of 4-aminobenzenesulfonic acid, not more than 0.2 percent.Sodium salt of 6-hydroxy-2-naphthalenesulfonic acid, not more than 0.3 percent.Disodium salt of 6,6′-oxybis[2-naphthalenesulfonic acid], not more than 1 percent.Disodium salt of 4,4′-(1-triazene-1,3-diyl)bis[benzenesulfonic acid], not more than 0.1 percent.Sum of the sodium salt of 6-hydroxy-5-(phenylazo)-2-naphthalenesulfonic acid and the sodium salt of 4-[(2-hydroxy-1-naphthalenyl)azo]benzenesulfonic acid, not more than 1 percent.Sum of the trisodium salt of 3-hydroxy-4-[(4-sulfophenyl)azo]-2,7-naphthalenedisulfonic acid and other higher sulfonated subsidiaries, not more than 5 percent.4-Aminoazobenzene, not more than 50 parts per billion.4-Aminobiphenyl, not more than 15 parts per billion.Aniline, not more than 250 parts per billion.Azobenzene, not more than 200 parts per billion.Benzidine, not more than 1 part per billion.1,3-Diphenyltriazene, not more than 40 parts per billion.1-(Phenylazo)-2-naphthalenol, not more than 10 parts per million.Lead (as Pb), not more than 10 parts per million.Arsenic (as As), not more than 3 parts per million.Mercury (as Hg), not more than 1 part per million.Total color, not less than 87 percent.
+
+(c) *Uses and restrictions.* The color additive FD&C Yellow No. 6 may be safely used for coloring foods (including dietary supplements) generally in amounts consistent with current good manufacturing practice, except that it may not be used to color foods for which standards of identity have been promulgated under section 401 of the act unless added color is authorized by such standards.
+
+(d) *Labeling requirements.* (1) The label of the color additive and any mixtures intended solely or in part for coloring purposes prepared therefrom shall conform to the requirements of § 70.25 of this chapter.
+
+(2) [Reserved]
+
+(e) *Certification.* All batches of FD&C Yellow No. 6 shall be certified in accordance with regulations in part 80 of this chapter.
+
+[51 FR 41782, Nov. 19, 1986, as amended at 52 FR 21508, June 8, 1987; 53 FR 49138, Dec. 6, 1988]

@@ -1,0 +1,3 @@
+##### § 260.7a-7 Effective date of amendment filed under section 8(a) of the Securities Act with the consent of the Commission. #####
+
+An applicant desiring the Commission's consent to the filing of an amendment with the effect provided in section 8(a) of the Securities Act of 1933 may apply for such consent at or before the time of filing the amendment. The application shall be signed by the applicant or the agent for service and shall state fully the grounds upon which made. The Commission's consent shall be deemed to be given and the amendment shall be treated as a part of the application for qualification upon the sending of written or telegraphic notice to that effect.

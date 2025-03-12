@@ -1,0 +1,5 @@
+##### § 120.6 Defense article. #####
+
+*Defense article* means any item or technical data designated in § 121.1 of this subchapter. The policy described in § 120.3 is applicable to designations of additional items. This term includes technical data recorded or stored in any physical form, models, mockups or other items that reveal technical data directly relating to items designated in § 121.1 of this subchapter. It also includes forgings, castings, and other unfinished products, such as extrusions and machined bodies, that have reached a stage in manufacturing where they are clearly identifiable by mechanical properties, material composition, geometry, or function as defense articles. It does not include basic marketing information on function or purpose or general system descriptions.
+
+[79 FR 61227, Oct. 10, 2014]

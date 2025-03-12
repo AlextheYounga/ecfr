@@ -1,0 +1,5 @@
+##### § 478.54 Change of control. #####
+
+In the case of a corporation or association holding a license under this part, if actual or legal control of the corporation or association changes, directly or indirectly, whether by reason of change in stock ownership or control (in the licensed corporation or in any other corporation), by operations of law, or in any other manner, the licensee shall, within 30 days of such change, give written notification thereof, executed under the penalties of perjury, to the Chief, Federal Firearms Licensing Center. Upon expiration of the license, the corporation or association must file a Form 7 (Firearms) as required by § 478.44.
+
+[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-290, 54 FR 53054, Dec. 27, 1989]

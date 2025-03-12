@@ -1,0 +1,3 @@
+##### § 53.171 Claims for credit or refund of overpayments of manufacturers taxes. #####
+
+Any claims for credit or refund of an overpayment of a tax imposed by chapter 32 of the Code shall be made in accordance with the applicable provisions of this subpart and the applicable provisions of 27 CFR 70.123 (Procedure and Administration). A claim on TTB Form 2635 (5620.8) is not required in the case of a claim for credit, but the amount of the credit shall be claimed by entering that amount as a credit on a return of tax under this subpart filed by the person making the claim. In this regard, see § 53.185.

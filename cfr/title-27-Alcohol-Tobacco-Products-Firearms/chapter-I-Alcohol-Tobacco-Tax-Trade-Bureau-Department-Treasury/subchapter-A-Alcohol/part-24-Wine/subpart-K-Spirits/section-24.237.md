@@ -1,0 +1,5 @@
+##### § 24.237 Spirits added to juice or concentrated fruit juice. #####
+
+Juice or concentrated fruit juice to which spirits have been added may not have an alcohol content exceeding 24 percent by volume. Although not considered to be wine, juice or concentrated fruit juice to which spirits have been added will be included in the appropriate tax class of any wine inventory and will be properly identified. Juice or concentrated juice to which wine spirits are added will be reported on the TTB F 5120.17, Report of Bonded Wine Premises Operations, as wine, but a separate record will be maintained.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1383, as amended (26 U.S.C. 5382))(Approved by the Office of Management and Budget under control numbers 1512-0216 and 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-338, 58 FR 19064, Apr. 12, 1993]

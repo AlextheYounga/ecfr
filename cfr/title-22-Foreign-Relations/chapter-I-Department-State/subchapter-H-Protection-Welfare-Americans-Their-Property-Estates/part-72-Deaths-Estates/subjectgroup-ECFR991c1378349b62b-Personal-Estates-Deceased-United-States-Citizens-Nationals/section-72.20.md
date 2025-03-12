@@ -1,0 +1,3 @@
+##### § 72.20 Prohibition against performing legal services or employing counsel. #####
+
+A consular officer may not act as an attorney or agent for the estate of a deceased United States citizen or non-citizen national overseas or employ counsel at the expense of the United States Government in taking possession and disposing of the personal estate of a United States citizen or non-citizen national who dies abroad, unless specifically authorized in writing by the Department. If the legal representative or other interested person wishes to obtain legal counsel, the consular officer may furnish a list of attorneys.

@@ -1,0 +1,15 @@
+##### § 310.531 Drug products containing active ingredients offered over-the-counter (OTC) for the treatment of boils. #####
+
+(a) Aminacrine hydrochloride, benzocaine, bismuth subnitrate, calomel, camphor, cholesterol, ergot fluid extract, hexachlorophene, ichthammol, isobutamben, juniper tar (oil of cade), lanolin, magnesium sulfate, menthol, methyl salicylate, oxyguinoline sulfate, petrolatum, phenol, pine tar, rosin, rosin cerate, sassafras oil, sulfur, thymol, triclosan, and zinc oxide have been present in OTC boil treatment drug products. There is a lack of adequate data to establish general recognition of the safety and effectiveness of these or any other ingredient for OTC use for the treatment of boils. Treatment is defined as reducing the size of a boil or reducing an infection related to a boil. Treatment has involved the use of “drawing salves” for these purposes. These “drawing salves” contained various ingredients. Based on evidence currently available, any OTC drug product offered for the treatment of boils cannot be considered generally recognized as safe and effective.
+
+(b) Any OTC drug product that is labeled, represented, or promoted for the treatment of boils is regarded as a new drug within the meaning of section 201(p) of the Federal Food, Drug, and Cosmetic Act (the act), for which an approved application or abbreviated application under section 505 of the act and part 314 of this chapter is required for marketing. In the absence of an approved new drug application or abbreviated new drug application, such product is also misbranded under section 502 of the act.
+
+(c) Clinical investigations designed to obtain evidence that any OTC boil treatment drug product is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter.
+
+(d) After May 7, 1991, any such OTC drug product that contains aminacrine hydrochloride, bismuth subnitrate, calomel, camphor, cholesterol, ergot fluid extract, hexachlorophene, isobutamben, juniper tar (oil of cade), lanolin, magnesium sulfate, menthol, methyl salicylate, oxyguinoline sulfate, petrolatum, phenol, pine tar, rosin, rosin cerate, sassafras oil, thymol, or zinc oxide initially introduced or initially delivered for introduction into interstate commerce that is not in compliance with this section is subject to regulatory action.
+
+(e) After May 16, 1994, any such OTC drug product that contains benzocaine, ichthammol, sulfur, or triclosan initially introduced or initially delivered for introduction into interstate commerce that is not in compliance with this section is subject to regulatory action.
+
+(f) This section does not apply to drug products that contain benzocaine labeled, represented, or promoted for OTC topical use in accordance with part 348 of this chapter.
+
+[58 FR 60336, Nov. 15, 1993]

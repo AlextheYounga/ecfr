@@ -1,0 +1,3 @@
+##### § 10.94 Setting aside of default. #####
+
+In order to prevent injustice and on such conditions as may be appropriate, (a) the Commission may at any time set aside a default order obtained under § 10.93; and (b) the Administrative Law Judge may set aside a default order obtained under § 10.93 at any time prior to filing of his initial decision in a proceeding in which there are remaining respondents. Any motion to set aside a default shall be made within a reasonable time, and shall state the reasons for the failure to file or appear and specify the nature of the proposed defense in the proceeding.

@@ -1,0 +1,3 @@
+##### § 12.203 Filing of documents; subscription; service. #####
+
+Except as otherwise specifically provided in these rules, all documents filed in a summary decisional proceeding, including (but not limited to) amended or supplemental pleadings, motions, discovery notices and responses thereto, documents produced or filed pursuant to § 12.34 of these rules, and submissions of proof, shall meet the requirements of §§ 12.11 and 12.12 of these rules as to form, and shall be filed and served in accordance with § 12.10 of the Reparation Rules.

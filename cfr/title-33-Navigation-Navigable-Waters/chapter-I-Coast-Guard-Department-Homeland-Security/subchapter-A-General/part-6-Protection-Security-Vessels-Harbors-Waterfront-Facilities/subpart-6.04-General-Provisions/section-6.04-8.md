@@ -1,0 +1,3 @@
+##### § 6.04-8 Possession and control of vessels. #####
+
+The Captain of the port may supervise and control the movement of any vessel and shall take full or partial possession or control of any vessel or any part thereof, within the territorial waters of the United States under his jurisdiction, whenever it appears to him that such action is necessary in order to secure such vessel from damage or injury, or to prevent damage or injury to any vessel or waterfront facility or waters of the United States, or to secure the observance of rights and obligations of the United States.

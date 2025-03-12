@@ -1,0 +1,5 @@
+##### § 1308.45 Final order. #####
+
+As soon as practicable after the presiding officer has certified the record to the Administrator, the Administrator shall cause to be published in the Federal Register his order in the proceeding, which shall set forth the final rule and the findings of fact and conclusions of law upon which the rule is based. This order shall specify the date on which it shall take effect, which shall not be less than 30 days from the date of publication in the Federal Register unless the Administrator finds that conditions of public health or safety necessitate an earlier effective date, in which event the Administrator shall specify in the order his findings as to such conditions.
+
+[38 FR 8254, Mar. 30, 1973. Redesignated at 38 FR 26609, Sept. 24, 1973, and further redesignated at 62 FR 13968, Mar. 24, 1997]

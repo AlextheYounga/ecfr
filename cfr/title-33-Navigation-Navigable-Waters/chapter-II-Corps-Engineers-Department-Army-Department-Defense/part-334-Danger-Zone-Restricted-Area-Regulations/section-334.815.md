@@ -1,0 +1,9 @@
+##### § 334.815 Menominee River, at the Marinette Marine Corporation Shipyard, Marinette, Wisconsin; naval restricted area. #####
+
+(a) *The area.* The waters adjacent to Marinette Marine Corporation's pier defined by a rectangular shaped area on the south side of the river beginning on shore at the eastern property line of Marinette Marine Corporation at latitude 45°5′58.7″ N, longitude 087°36′55.9″ W; thence northerly to latitude 45°5′59.2″ N, longitude 087°36′55.8″ W; thence westerly to latitude 45°5′59.6″ N, longitude 087°36′57.5″ W; thence westerly to latitude 45°6′00.0″ N, longitude 087°36′58.7″ W; thence westerly to latitude 45°6′1.7″ N, longitude 087°37′4.9″ W; thence westerly to latitude 45°6′2.8″ N, longitude 087°37′9.8″ W; thence southerly to latitude 45°6′2.2″ N, longitude 087°37′10.0″ W; thence easterly along the Marinette Marine Corporation pier to the point of origin. The restricted area will be marked by a lighted and signed floating buoy line.
+
+(b) *The regulation.* All persons, swimmers, vessels and other craft, except those vessels under the supervision or contract to a local military or Naval authority, vessels of the United States Coast Guard, and local or state law enforcement vessels, are prohibited from entering the restricted area when marked by a signed floating buoy line without permission from the Supervisor of Shipbuilding, Conversion and Repair, United States Navy, Bath, Maine or his/her authorized representative.
+
+(c) *Enforcement.* The regulation in this section shall be enforced by the Supervisor of Shipbuilding, Conversion and Repair, United States Navy, Bath, Maine and/or such agencies or persons as he/she may designate.
+
+[77 FR 20296, Apr. 4, 2012]

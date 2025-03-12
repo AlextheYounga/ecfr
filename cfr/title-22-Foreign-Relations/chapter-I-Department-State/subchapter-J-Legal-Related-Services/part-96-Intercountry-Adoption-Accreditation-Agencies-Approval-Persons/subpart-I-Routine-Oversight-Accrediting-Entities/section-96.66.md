@@ -1,0 +1,7 @@
+##### § 96.66 Oversight of accredited agencies and approved persons by the accrediting entity. #####
+
+(a) The accrediting entity must monitor agencies it has accredited and persons it has approved at least annually to ensure that they are in substantial compliance with the standards in subpart F of this part, as determined using a method approved by the Secretary in accordance with § 96.27(d). The accrediting entity must investigate complaints about accredited agencies and approved persons, as provided in subpart J of this part.
+
+(b) An accrediting entity may, on its own initiative, conduct site visits to inspect an agency's or person's premises or programs, with or without advance notice, for purposes of random verification of its continued compliance or to investigate a complaint. The accrediting entity may consider any information about the agency or person that becomes available to it about the compliance of the agency or person. The provisions of §§ 96.25 and 96.26 govern requests for and use of information.
+
+(c) The accrediting entity must require accredited agencies or approved persons to attest annually that they have remained in substantial compliance and to provide supporting documentation to indicate such ongoing compliance with the standards in subpart F of this part.

@@ -1,0 +1,3 @@
+##### § 170.215 Incorporation into a GRAS notice. #####
+
+You may incorporate into your GRAS notice either specifically identified data and information that you previously submitted to the Center for Food Safety and Applied Nutrition (CFSAN), or specifically identified publicly available data and information submitted by another party, when such data and information remain in CFSAN's records, such as data and information contained in a previous GRAS notice or a food additive petition.

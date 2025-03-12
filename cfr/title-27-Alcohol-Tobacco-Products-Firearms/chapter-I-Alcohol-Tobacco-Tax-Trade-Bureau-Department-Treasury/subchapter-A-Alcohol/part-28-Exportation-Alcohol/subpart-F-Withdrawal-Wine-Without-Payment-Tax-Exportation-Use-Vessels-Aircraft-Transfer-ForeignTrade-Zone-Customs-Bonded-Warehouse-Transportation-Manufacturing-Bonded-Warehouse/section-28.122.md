@@ -1,0 +1,11 @@
+##### § 28.122 Application or notice, TTB Form 5100.11. #####
+
+(a) *Export, use on vessels and aircraft, transfer to a customs bonded warehouse, and transfer to a foreign-trade zone.* Where the exporter is not the proprietor of the bonded wine cellar from which the wine is to be withdrawn, the exporter must make an application on TTB Form 5100.11 for approval of the withdrawal. Where the exporter is the proprietor of the bonded wine cellar from which the wine is to be withdrawn, the exporter must, at the time of withdrawal of the wine, prepare a notice of the withdrawal and shipment on TTB Form 5100.11. TTB approval is not required if the exporter is the proprietor of the bonded wine cellar from which the wine is to be withdrawn.
+
+(b) *Manufacturing bonded warehouse.* The proprietor of the manufacturing bonded warehouse must make an application on TTB Form 5100.11 to withdraw wine without payment of tax for transportation to and deposit in such warehouse before withdrawal of the wine.
+
+(c) *Action by appropriate TTB officer.* Where, under the provisions of paragraphs (a) and (b) of this section, a TTB Form 5100.11 is submitted to the appropriate TTB officer for approval, the appropriate TTB officer shall, if satisfied that the application is in order and that the applicant has on file a good and sufficient bond, approve the application and forward it to the proprietor of the premises from which the wines are to be withdrawn.
+
+(d) *Restriction on shipment.* Where, under the provisions of paragraphs (a) and (b) of this section, prior approval of TTB Form 5100.11 by the appropriate TTB officer is required, the proprietor of the bonded wine cellar may not ship the wine until the approved TTB Forms 5100.11 have been received by him. In such cases, the proprietor of the bonded wine cellar shall, on removal of the wines, execute his certificate of removal on TTB Form 5100.11.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1380, as amended (26 U.S.C. 5362))[T.D. ATF-198, 50 FR 8560, Mar. 1, 1985]Editorial Note:For Federal Register citations affecting § 28.122, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

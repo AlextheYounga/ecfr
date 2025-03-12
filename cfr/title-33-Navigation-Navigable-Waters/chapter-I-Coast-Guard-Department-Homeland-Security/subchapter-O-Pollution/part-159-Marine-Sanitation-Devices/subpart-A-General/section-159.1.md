@@ -1,0 +1,3 @@
+##### § 159.1 Purpose. #####
+
+This part prescribes regulations governing the design and construction of marine sanitation devices and procedures for certifying that marine sanitation devices meet the regulations and the standards of the Environmental Protection Agency promulgated under section 312 of the Federal Water Pollution Control Act (33 U.S.C. 1322), to eliminate the discharge of untreated sewage from vessels into the waters of the United States, including the territorial seas. Subpart A of this part contains regulations governing the manufacture and operation of vessels equipped with marine sanitation devices.

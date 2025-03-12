@@ -1,0 +1,5 @@
+##### § 25.75 Change in officers and directors. #####
+
+When there is any change in the list of officers or directors furnished under the provisions of § 25.66(a)(4), the brewer shall submit, within 30 days of the change, an amended notice on Form 5130.10. If the brewer has shown to the satisfaction of the appropriate TTB officer that certain corporate officers listed on the original notice have no responsibilities in connection with the operations covered by the notice, the appropriate TTB officer may waive the requirements for submitting applications for amended notice to cover changes of those corporate officers. In the case of multiplant brewers, new brewers notices need not be filed for those breweries in which the lists of officers and directors are incorporated by reference in their brewer's notices under § 25.62(b).
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1388, as amended (26 U.S.C. 5401))

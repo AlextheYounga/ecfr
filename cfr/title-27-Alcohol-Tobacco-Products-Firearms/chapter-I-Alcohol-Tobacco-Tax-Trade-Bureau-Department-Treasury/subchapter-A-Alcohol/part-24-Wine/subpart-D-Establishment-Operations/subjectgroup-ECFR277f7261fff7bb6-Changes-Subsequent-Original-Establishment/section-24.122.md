@@ -1,0 +1,5 @@
+##### § 24.122 Change in name of proprietor or trade name. #####
+
+Where there is to be a change in the name of the proprietor or operating trade name, the proprietor shall file an amended application and, if a basic permit has been issued under the Federal Alcohol Administration Act (49 Stat. 978; 27 U.S.C. 203), an application for amendment of the basic permit. Where there is a change in or addition of a trade name, the proprietor shall file an amended application or, if a basic permit has been issued under the Federal Alcohol Administration Act (49 Stat. 978; 27 U.S.C. 203), an application for amendment of the basic permit. Operations under a new name may not be conducted before approval of the amended application or issuance of an amended permit, as the case may be.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended (26 U.S.C. 5356))(Approved by the Office of Management and Budget under control number 1512-0058)

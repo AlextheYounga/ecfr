@@ -1,0 +1,9 @@
+##### § 316.36 Insufficient quantities of orphan drugs. #####
+
+(a) Under section 527 of the act, whenever the Director has reason to believe that the holder of exclusive approval cannot assure the availability of sufficient quantities of an orphan drug to meet the needs of patients with the disease or condition for which the drug was designated, the Director will so notify the holder of this possible insufficiency and will offer the holder one of the following options, which must be exercised by a time that the Director specifies:
+
+(1) Provide the Director in writing, or orally, or both, at the Director's discretion, views and data as to how the holder can assure the availability of sufficient quantities of the orphan drug within a reasonable time to meet the needs of patients with the disease or condition for which the drug was designated; or
+
+(2) Provide the Director in writing the holder's consent for the approval of other marketing applications for the same drug before the expiration of the 7-year period of exclusive approval.
+
+(b) If, within the time that the Director specifies, the holder fails to consent to the approval of other marketing applications and if the Director finds that the holder has not shown that it can assure the availability of sufficient quantities of the orphan drug to meet the needs of patients with the disease or condition for which the drug was designated, the Director will issue a written order withdrawing the drug product's exclusive approval. This order will embody the Director's findings and conclusions and will constitute final agency action. An order withdrawing the sponsor's exclusive marketing rights may issue whether or not there are other sponsors that can assure the availability of alternative sources of supply. Once withdrawn under this section, exclusive approval may not be reinstated for that drug.

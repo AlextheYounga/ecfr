@@ -1,0 +1,3 @@
+##### § 72.30 Provisions in a will or advanced directive regarding disposition of remains. #####
+
+United States state law regarding advance directives, deaths and estates include provisions regarding a person's right to direct disposition of remains. Host country law may or may not accept such directions, particularly if the surviving spouse/next-of-kin disagree with the wishes of the testator/affiant.

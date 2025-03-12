@@ -1,0 +1,3 @@
+##### § 822.37 Under what circumstances would you inspect records identifying subjects? #####
+
+We can inspect and copy records identifying subjects under the same circumstances that we can inspect any records relating to postmarket surveillance. We are likely to be interested in such records if we have reason to believe that required reports have not been submitted, or are incomplete, inaccurate, false, or misleading.

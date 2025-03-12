@@ -1,0 +1,3 @@
+##### § 303.4 Records published in the Federal Register. #####
+
+The Peace Corps publishes its notices and substantive regulations in the Federal Register. It also publishes information on its basic structure and operations necessary to inform the public how to deal effectively with the Peace Corps in the *United States Government Manual,* a special publication of the Federal Register. The Peace Corps will make reasonable efforts to currently update such information, which includes information on Peace Corps' location and functions, and how the public may obtain information or forms, or make submittals or requests. The Peace Corps' published regulations are at 22 CFR Chapter III.

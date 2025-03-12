@@ -1,0 +1,5 @@
+##### § 555.129 Exportation. #####
+
+Exportation of explosive materials is to be in accordance with the applicable provisions of section 38 of the Arms Export Control Act (22 U.S.C. 2778) and implementing regulations. However, a licensed importer, licensed manufacturer, or licensed dealer exporting explosive materials shall maintain records showing the manufacture or acquisition of explosive materials as required by this part and records showing the quantity, the manufacturer's name or brand name of explosive materials, the name and address of the foreign consignee of the explosive materials, and the date the explosive materials were exported. See § 555.180 for regulations concerning the exportation of plastic explosives.
+
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF-387, 62 FR 8377, Feb. 25, 1997]

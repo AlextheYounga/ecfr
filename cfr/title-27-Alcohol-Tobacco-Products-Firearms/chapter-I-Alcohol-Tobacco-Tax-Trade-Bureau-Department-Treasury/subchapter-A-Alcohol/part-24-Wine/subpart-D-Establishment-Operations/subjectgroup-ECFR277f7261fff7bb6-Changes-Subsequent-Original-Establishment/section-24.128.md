@@ -1,0 +1,5 @@
+##### § 24.128 Continuing partnerships. #####
+
+If, under the laws of the particular State, the partnership is not terminated upon the death or insolvency of a partner but continues until the dissolution of the partnership is completed, and the surviving partner has the exclusive right to the control and possession of the partnership assets for the purpose of liquidation and settlement, the surviving partner may continue to operate the wine premises under the prior qualification of the partnership, provided a consent of surety is filed wherein the surety and the surviving partner agree to remain liable on any bond covering the bonded wine premises. A surviving partner who acquires the business on completion of the dissolution of the partnership shall qualify from the date of acquisition, as provided in § 24.125(a). The rule set forth in this section will also apply where there is more than one surviving partner.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended (26 U.S.C. 5356))(Approved by the Office of Management and Budget under control number 1512-0058)

@@ -1,0 +1,5 @@
+##### § 888.3030 Single/multiple component metallic bone fixation appliances and accessories. #####
+
+(a) *Identification.* Single/multiple component metallic bone fixation appliances and accessories are devices intended to be implanted consisting of one or more metallic components and their metallic fasteners. The devices contain a plate, a nail/plate combination, or a blade/plate combination that are made of alloys, such as cobalt-chromium-molybdenum, stainless steel, and titanium, that are intended to be held in position with fasteners, such as screws and nails, or bolts, nuts, and washers. These devices are used for fixation of fractures of the proximal or distal end of long bones, such as intracapsular, intertrochanteric, intercervical, supracondylar, or condylar fractures of the femur; for fusion of a joint; or for surgical procedures that involve cutting a bone. The devices may be implanted or attached through the skin so that a pulling force (traction) may be applied to the skeletal system.
+
+(b) *Classification.* Class II.

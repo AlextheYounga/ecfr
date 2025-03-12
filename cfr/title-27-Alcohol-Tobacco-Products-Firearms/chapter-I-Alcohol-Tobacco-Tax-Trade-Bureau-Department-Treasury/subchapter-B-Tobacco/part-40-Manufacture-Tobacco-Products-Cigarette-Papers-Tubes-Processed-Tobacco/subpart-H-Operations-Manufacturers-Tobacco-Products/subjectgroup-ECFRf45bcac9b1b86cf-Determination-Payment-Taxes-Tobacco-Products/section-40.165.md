@@ -1,0 +1,7 @@
+##### § 40.165 Times for filing semimonthly return. #####
+
+(a) *General.* Except as otherwise provided in § 40.164 and in paragraph (b) of this section, semimonthly returns on TTB F 5000.24 must be filed, for each return period, not later than the 14th day after the last day of the return period. If the due date falls on a Saturday, Sunday, or legal holiday, the return and remittance are due on the immediately preceding day that is not a Saturday, Sunday, or legal holiday, except as otherwise provided in § 40.164(c).
+
+(b) *Postmark.* The official postmark of the U.S. Postal Service stamped on the cover in which the return was mailed shall be considered the date of delivery of the tax return and, if the return was accompanied by a remittance, the date of delivery of the remittance. When the postmark is illegible, the manufacturer shall prove when the postmark was made. When the proprietor sends the tax return with or without remittance by registered mail or by certified mail, the date of registry or the date of the postmark on the sender's receipt of certified mail, as the case may be, shall be treated as the date of delivery of the tax return and, if accompanied, of the remittance.
+
+(Approved by the Office of Management and Budget under control number 1512-0467)[T.D. ATF-246, 52 FR 669, Jan. 8, 1987, as amended by T.D. ATF-251, 52 FR 19339, May 22, 1987; T.D. ATF-365, 60 FR 33675, June 28, 1995; T.D. ATF-446, 66 FR 16602, Mar. 27, 2001; T.D. ATF-446a, 66 FR 19089, Apr. 13, 2001; T.D. TTB-89, 76 FR 3514, Jan. 20, 2011]

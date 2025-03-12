@@ -1,0 +1,3 @@
+##### § 1.920 What information submitted in a petition requesting a waiver or submitted in comments on such a petition is publicly available? #####
+
+We will presume that information submitted in a petition requesting a waiver and comments submitted on such a petition does not contain information exempt from public disclosure under part 20 of this chapter and would be made public as part of the docket associated with this request.

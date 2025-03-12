@@ -1,0 +1,3 @@
+##### § 70.40 Safety factors to be considered. #####
+
+In accordance with section 721(b)(5)(A)(iii) of the act, the following safety factor will be applied in determining whether the proposed use of a color additive will be safe: Except where evidence is submitted which justifies use of a different safety factor, a safety factor of 100 to 1 will be used in applying animal experimentation data to man; that is, a color additive for use by man will not be granted a tolerance that will exceed 1/100th of the maximum no-effect level for the most susceptible experimental animals tested. The various species of experimental animals used in the tests shall conform to good pharmacological practice.

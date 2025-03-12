@@ -1,0 +1,5 @@
+##### § 478.145 Research organizations. #####
+
+The provisions of § 478.98 with respect to the sale or delivery of destructive devices, machine guns, short-barreled shotguns, and short-barreled rifles shall not apply to the sale or delivery of such devices and weapons to any research organization designated by the Director to receive same. A research organization desiring such designation shall submit a letter application, in duplicate, to the Director. Such application shall contain the name and address of the research organization, the names and addresses of the persons directing or controlling, directly or indirectly, the policies and management of such organization, the nature and purpose of the research being conducted, a description of the devices and weapons to be received, and the identity of the person or persons from whom such devices and weapons are to be received.
+
+[T.D. ATF-270, 53 FR 10507, Mar. 31, 1988]

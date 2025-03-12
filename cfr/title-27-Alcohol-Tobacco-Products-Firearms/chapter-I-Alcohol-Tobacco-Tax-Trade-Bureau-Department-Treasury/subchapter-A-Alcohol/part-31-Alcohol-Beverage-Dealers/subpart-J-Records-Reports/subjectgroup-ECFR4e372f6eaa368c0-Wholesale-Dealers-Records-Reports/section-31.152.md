@@ -1,0 +1,5 @@
+##### § 31.152 Requirements as to wines and beer. #####
+
+Every wholesale dealer in liquors who receives wines, or wines and beer, and every wholesale dealer in beer must keep at the dealer's place of business a complete record showing the quantities of wine and beer received, from whom the wine and beer were received, and the dates of receipt. This record, which must be kept for a period of not less than three years as prescribed in § 31.191, shall consist of all purchase invoices or bills covering wines and beer received or, at the option of the dealer, a book record containing all of the required information. Wholesale dealers are not required to prepare or submit reports to the appropriate TTB officer of transactions relating to wines and beer.
+
+(26 U.S.C. 5121)(Approved by the Office of Management and Budget under control number 1513-0065)

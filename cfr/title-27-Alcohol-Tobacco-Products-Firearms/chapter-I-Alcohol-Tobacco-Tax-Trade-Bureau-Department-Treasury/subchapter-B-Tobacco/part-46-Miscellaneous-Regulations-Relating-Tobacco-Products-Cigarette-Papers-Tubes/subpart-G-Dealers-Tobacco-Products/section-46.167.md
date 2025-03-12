@@ -1,0 +1,5 @@
+##### § 46.167 Liability to tax. #####
+
+Any dealer who, with intent to defraud the United States, possesses tobacco products (a) upon which the tax has not been paid or determined in the manner and at the time prescribed in parts 40 and 41 of this chapter or (b) which, after removal without payment of tax pursuant to section 5704, I.R.C., and regulations issued thereunder, have been diverted from the applicable purpose or use specified in that section or (c) which are not put up in packages prescribed in parts 40 and 41 of this chapter or are put up in packages not bearing the marks and notices prescribed in such regulations shall be liable for a tax equal to the tax on such products.
+
+(72 Stat. 1424; 26 U.S.C. 5751)[T.D. 6871, 31 FR 60, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28092, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-460, 66 FR 390 93, July 27, 2001; T.D. TTB-16, 69 FR 52423, Aug. 26, 2004]

@@ -1,0 +1,3 @@
+##### § 117.929 Durham Creek. #####
+
+The removable span of the Seaboard System Railroad bridge, mile 1.7 at Bushy Park, shall be removed to allow the passage of dredges and construction equipment if at least 20 days notice is given. When notified by the City of Charleston of an emergency in the Bushy Park Reservoir, the span shall be removed as soon as possible to permit the passage of dredges and construction equipment.

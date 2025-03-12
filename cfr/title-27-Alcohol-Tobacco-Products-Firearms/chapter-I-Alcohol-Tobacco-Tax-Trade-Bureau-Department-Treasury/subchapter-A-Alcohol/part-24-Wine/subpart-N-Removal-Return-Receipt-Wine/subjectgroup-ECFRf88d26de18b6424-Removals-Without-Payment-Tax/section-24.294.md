@@ -1,0 +1,7 @@
+##### § 24.294 Destruction of wine. #####
+
+(a) *General.* Wine on bonded wine premises may be destroyed on or off wine premises by the proprietor without payment of tax. A proprietor who wants to destroy wine on or off wine premises must file with the appropriate TTB officer an application stating the kind, alcohol content, and approximate volume of wine to be destroyed, where the wine is to be destroyed, and the reason for destruction. Wine to be destroyed must be inspected, and the destruction supervised, by an appropriate TTB officer unless the appropriate TTB officer authorizes the proprietor to destroy the wine without inspection and supervision. The wine must not be destroyed until the proprietor has received authority from the appropriate TTB officer.
+
+(b) *Record of destruction.* The proprietor shall maintain a record of the volume destroyed and include the quantity on the TTB F 5120.17, Report of Bonded Wine Premises Operations. If part of the volume of the material destroyed is not wine, the volume destroyed will be reported on the basis of actual wine content of the material, excluding any dilution by water or other substance.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367, 5370))(Approved by the Office of Management and Budget under control numbers 1512-0216 and 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-338, 58 FR 19065, Apr. 12, 1993; T.D. ATF-409, 64 FR 13686, Mar. 22, 1999]

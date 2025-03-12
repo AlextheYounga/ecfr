@@ -1,0 +1,5 @@
+##### § 40.256 Minimum manufacturing and activity requirements. #####
+
+The minimum manufacturing and activity requirement prescribed in § 40.61(c) of this part is a continuing condition of a manufacturer's permit, that is, a permit to manufacture tobacco products is conditioned upon a person's principal business activity being the manufacture of tobacco products. A permit may be suspended, and subsequently revoked, if the person's principal business activity under such permit is to receive or transfer tobacco products in bond, or if the person has no activity under such permit for a period of one year. As a minimum activity requirement, the quantity of tobacco products manufactured under the permit must be equivalent to, or exceed, the quantity transferred or received in bond under the permit.
+
+[T.D. TTB-78, 74 FR 29410, June 22, 2009, as amended by T.D. TTB-80, 74 FR 37552, July 29, 2009; T.D. TTB-104, 77 FR 37303, June 21, 2012]

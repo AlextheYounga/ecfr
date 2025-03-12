@@ -1,0 +1,3 @@
+##### § 110.72 Blackhole Creek, Md. #####
+
+The waters on the west side of Blackhole Creek, a tributary of Magothy River, southwest of a line bearing 310°30′ from the most northerly tip of an unnamed island located 0.16 mile upstream from the mouth of the creek approximately 660 feet to the west shore of the creek; northwest of a line ranging from the southwesterly tip of the island toward the point of land on the west shore of the creek immediately southwest thereof; and north of a line 100 feet from and parallel to the shore of the creek to its intersection with the south property line extended of the Potapskut Sailing Association, Inc., thence northwesterly along the said property line extended to the shore.

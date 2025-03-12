@@ -1,0 +1,9 @@
+##### § 26.35 Taxable status. #####
+
+(a) Liquors coming into the United States from Puerto Rico, except as provided in § 26.36, are subject to a tax equal to the internal revenue tax imposed on the production in the United States of like liquors. Articles coming into the United States from Puerto Rico, except as provided in § 26.36, are subject to tax on the liquors contained therein at the rates imposed in the United States on like liquors of domestic production.
+
+(b) The excise taxes collected on distilled spirits or articles containing distilled spirits shall be deposited into the Treasury of Puerto Rico only if at least 92 percent of the alcoholic content of such products is rum. The amount deposited into the Treasury of Puerto Rico shall not exceed the lesser of $10.50, or the rate imposed by 26 U.S.C. 5001(a)(1) (including adjustments to the effective tax rate under 26 U.S.C. 5010), on each proof gallon of such distilled spirits or articles, other than eligible articles, containing distilled spirits coming into the United States or consumed on the island. Such excise tax deposits will be reduced by the estimated amount necessary for payment of refunds and drawbacks.
+
+(c) Except for products described in 26 U.S.C. 7652(c), no excise taxes shall be deposited into the Treasury of Puerto Rico if an excise tax subsidy is provided by Puerto Rico that is of a kind different from, or in an amount per value or volume of production greater than, any subsidy offered by Puerto Rico to industries manufacturing products not subject to Federal excise tax.
+
+(Sec. 2682, Pub. L. 98-369, 98 Stat. 494 (26 U.S.C. 7652))[T.D. ATF-175, 49 FR 20804, May 16, 1984, as amended by T.D. ATF-203, 50 FR 15888, Apr. 23, 1985; T.D. ATF-263, 52 FR 46593, Dec. 9, 1987. Redesignated and amended by T.D. ATF-459, 66 FR 38550, July 25, 2001]

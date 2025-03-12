@@ -1,0 +1,3 @@
+##### § 201.56 Decision. #####
+
+The administrative law judge shall issue an initial decision on the application promptly after completion of proceedings on the application. The decision shall include written findings and conclusions on the applicant's eligibility and status as a prevailing party, and an explanation of the reasons for any difference between the amount requested and the amount awarded. The decision shall also include, if at issue, findings on whether the Commission's position was substantially justified, whether the applicant unduly protracted the proceedings, or whether special circumstances make an award unjust.

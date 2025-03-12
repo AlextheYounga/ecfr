@@ -1,0 +1,3 @@
+##### § 70.20 Packaging requirements for straight colors (other than hair dyes). #####
+
+Straight colors shall be packaged in containers which prevent changes in composition. Packages shall be sealed so that they cannot be opened without breaking the seal. An unavoidable change in moisture content caused by the ordinary and customary exposure that occurs in good storage, packing, and distribution practice is not considered a change in composition. If the packaging material is a food additive it shall be authorized by an appropriate regulation in parts 170 through 189 of this chapter.

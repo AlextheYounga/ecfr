@@ -1,0 +1,3 @@
+##### § 110.45 Onset Bay, Mass. #####
+
+Northerly of a line extending from the northernmost point of Onset Island to the easternmost point of Wickets Island; easterly of a line extending from the easternmost point of Wickets Island to the southwest extremity of Point Independence; southerly of the shore line; and westerly of the shore line and of a line bearing due north from the northernmost point of Onset Island.

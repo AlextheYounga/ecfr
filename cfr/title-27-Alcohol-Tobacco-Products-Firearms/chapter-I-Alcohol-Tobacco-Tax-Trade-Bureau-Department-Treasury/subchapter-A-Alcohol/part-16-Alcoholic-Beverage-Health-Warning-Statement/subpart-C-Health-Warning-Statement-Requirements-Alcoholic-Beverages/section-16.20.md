@@ -1,0 +1,5 @@
+##### § 16.20 General. #####
+
+(a) *Domestic products.* On and after November 18, 1989, no person shall bottle for sale or distribution in the United States any alcoholic beverage unless the container of such beverage bears the health warning statement required by § 16.21. It is the responsibility of the bottler to provide, upon request, sufficient evidence to establish that the alcoholic beverage was bottled prior to November 18, 1989.
+
+(b) *Imported products.* On and after November 18, 1989, no person shall import for sale or distribution in the United States any alcoholic beverage unless the container of such beverage bears the health warning statement required by § 16.21. This requirement does not apply to alcoholic beverages that were bottled in the foreign country prior to November 18, 1989. It is the responsibility of the importer to provide, upon request, sufficient evidence to establish that the alcoholic beverage was bottled prior to such date.

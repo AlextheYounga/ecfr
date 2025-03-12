@@ -1,0 +1,3 @@
+##### § 67.40-20 Charges invoiced to owner. #####
+
+Charges to the owner for the cost of marking a structure by the Coast Guard shall be determined in accordance with Part 74 of this subchapter. All such charges shall be invoiced to the owner beginning with the date such marking is established and shall continue until notice is received by the District Commander that the structure has been removed, or until the owner has applied for and been issued a permit by the District Commander to establish and operate the required obstruction lights and/or sound signals or other markings required by this part.

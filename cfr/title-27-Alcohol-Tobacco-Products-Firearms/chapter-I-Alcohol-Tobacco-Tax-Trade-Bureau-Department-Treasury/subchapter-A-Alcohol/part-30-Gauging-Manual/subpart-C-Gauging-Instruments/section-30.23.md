@@ -1,0 +1,20 @@
+##### § 30.23 Use of precision hydrometers and thermometers. #####
+
+Care should be exercised to obtain accurate hydrometer and thermometer readings. In order to accomplish this result, the following precautions should be observed. Bulk spirits should be thoroughly agitated so that the test samples will be representative of the entire quantity. The hydrometers should be kept clean and free of any oily substance. Immediately before readings are taken, the glass cylinder containing the thermometer should be rinsed several times with the spirits which are to be gauged so as to bring both the cylinder and the thermometer to the temperature of the spirits (if time permits, it is desirable to bring both the spirits and the instruments to room temperature). If the outer surface of the cylinder becomes wet, it should be wiped dry to avoid the cooling effect of rapid evaporation. During the readings the cylinder should be protected from drafts or other conditions which might affect its temperature or that of the spirits which it contains. The hands should not be placed on the cylinder in such a manner as to warm the liquid contained therein. The hydrometer should be inserted in the liquid and the hydrometer bulb raised and lowered from top to bottom 5 or 6 times to obtain an even temperature distribution over its surface, and, while the hydrometer bulb remains in the liquid, the stem should be dried and the hydrometer allowed to come to rest without wetting more than a few tenths degrees of the exposed stem. Special care should be taken to ascertain the exact point at which the level of the surface liquid intersects the scale of proof in the stem of the hydrometer. The hydrometer and thermometer should be immediately read, as nearly simultaneously as possible. In reading the hydrometer, a sighting should be made slightly below the plane of the surface of the liquid and the line of sight should then be raised slowly, being kept perpendicular to the hydrometer stem, until the appearance of the surface changes from an ellipse to a straight line. The point where this line intersects the hydrometer scale is the correct reading of the hydrometer. When the correct readings of the hydrometer and the thermometer have been determined, the true percent of proof shall be ascertained from Table 1. Another sample of the spirits should then be taken and be tested in the same manner so as to verify the proof originally ascertained. Hydrometer readings should be made to the nearest 0.05 degree and thermometer readings should be made to the nearest 0.1 degree, and instrument correction factors, if any, should be applied. It is necessary to interpolate in Table 1 for fractional hydrometer and thermometer readings.
+
+Example.A hydrometer reads 192.85° at 72.10 °F. The correction factors for the hydrometer and the thermometer, respectively are minus0.03° and plus0.05°. The corrected reading, then, is 192.82° at 72.15 °F.
+
+|  From Table 1:   |   |      |
+|------------------|---|------|
+|193.0° at 72.0 °F.|\= |190.2°|
+|192.0° at 72.0 °F.|\= |189.1°|
+|    Difference    |\= | 1.1° |
+|192.0° at 72.0 °F.|\= |189.1°|
+|192.0° at 73.0 °F.|\= |188.9°|
+|    Difference    |\= | 0.2° |
+
+The hydrometer difference (1.1°) multiplied by the fractional degree of the hydrometer reading (0.82°) = 0.902.
+
+The temperature difference (0.2°) multiplied by the fractional degree of the temperature reading (0.15°) = 0.03°.
+
+Proof at 60 °F. = 189.1 + 0.902 − 0.03 = 189.972° = 190.0°.As shown, the final proof is rounded to the nearest tenth of a degree of proof. In such cases, if the hundredths decimal is less than five, it will be dropped; if it is five or over, a unit will be added.(Sec. 201, Pub. L. 85-859, 72 Stat. 1358, as amended (26 U.S.C. 5204))[T.D. ATF-198, 50 FR 8535, Mar. 1, 1985, as amended by T.D. ATF-381, 61 FR 37004, July 16, 1996]

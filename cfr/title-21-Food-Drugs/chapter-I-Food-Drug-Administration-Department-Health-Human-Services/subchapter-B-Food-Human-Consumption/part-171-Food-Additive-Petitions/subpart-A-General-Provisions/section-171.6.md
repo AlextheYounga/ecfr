@@ -1,0 +1,5 @@
+##### § 171.6 Amendment of petition. #####
+
+After a petition has been filed, the petitioner may submit additional information or data in support thereof. In such cases, if the Commissioner determines that the additional information or data amount to a substantive amendment, the petition as amended will be given a new filing date, and the time limitation will begin to run anew. If nonclinical laboratory studies are involved, additional information and data submitted in support of filed petitions shall include, with respect to each nonclinical study, either a statement that the study was conducted in compliance with the requirements set forth in part 58 of this chapter, or, if the study was not conducted in compliance with such regulations, a brief statement of the reason for the noncompliance.
+
+[50 FR 7492, Feb. 22, 1985, as amended at 50 FR 16668, Apr. 26, 1985]

@@ -1,0 +1,3 @@
+##### § 385.7 Concurrency statements. #####
+
+The administrative record of the programmatic regulations in this part contains a copy of the concurrency statements by the Secretary of the Interior and the Governor to the Secretary of the Army. The concurrency statements can be obtained from the Army Corps of Engineers, Jacksonville District, 701 San Marco Blvd., Jacksonville, Florida 32207, or by accessing the programmatic regulations Web page at: *http://www.evergladesplan.org/pm/progr\_regs\_final\_rule.cfm.*

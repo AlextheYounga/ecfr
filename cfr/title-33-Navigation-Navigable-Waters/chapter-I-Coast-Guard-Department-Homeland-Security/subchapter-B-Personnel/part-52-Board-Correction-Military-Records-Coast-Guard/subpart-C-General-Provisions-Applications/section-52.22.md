@@ -1,0 +1,3 @@
+##### § 52.22 Time limit for filing application. #####
+
+An application for correction of a record must be filed within three years after the applicant discovered or reasonably should have discovered the alleged error or injustice. If an application is untimely, the applicant shall set forth reasons in the application why it is in the interest of justice for the Board to consider the application. An untimely application shall be denied unless the Board finds that sufficient evidence has been presented to warrant a finding that it would be in the interest of justice to excuse the failure to file timely.

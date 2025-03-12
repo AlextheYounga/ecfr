@@ -1,0 +1,3 @@
+##### § 125.27 Sponsorship of applicant. #####
+
+Applications for a Coast Guard Port Security Card shall not be accepted unless sponsored. The applicant shall be sponsored by an authorized official of applicant's employer or by an authorized official of applicant's labor union. Each company and each labor union concerned shall file with the appropriate Captain of the Port a list of officials of the company or union who are authorized to sponsor applicants. Other sponsorship may be accepted where the circumstances warrant.

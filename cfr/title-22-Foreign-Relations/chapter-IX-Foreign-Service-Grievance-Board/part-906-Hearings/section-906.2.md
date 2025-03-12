@@ -1,0 +1,3 @@
+##### § 906.2 Mandatory hearing. #####
+
+The Board shall conduct a hearing—(a) At the request of the grievant in any case which involves disciplinary action or a grievant's retirement from the Service for expiration of time-in-class or based on relative performance, or (b) In any case which in the judgment of the Board can best be resolved by a hearing or presentation of oral argument. The Board shall also conduct a hearing in separation for cause proceedings unless the charged employee waives in writing his or her right to such hearing.

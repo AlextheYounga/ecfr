@@ -1,0 +1,3 @@
+##### § 19.451 Scope. #####
+
+The IRC allows a proprietor of a distilled spirits plant to return distilled spirits, denatured spirits, and articles to the bonded premises of that plant under certain conditions. This subpart covers the types of returns allowed, sets forth the procedures that the proprietor must follow when returning these products to bonded premises, and prescribes rules for voluntary destruction on or off bonded premises.

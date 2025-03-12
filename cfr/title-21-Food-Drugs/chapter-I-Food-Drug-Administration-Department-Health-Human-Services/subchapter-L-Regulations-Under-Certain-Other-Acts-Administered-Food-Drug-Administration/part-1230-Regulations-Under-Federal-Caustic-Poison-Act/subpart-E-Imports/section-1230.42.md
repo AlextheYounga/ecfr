@@ -1,0 +1,3 @@
+##### § 1230.42 Invoices. #####
+
+As soon as the importer makes entry, the invoices covering containers and the public stores packages shall be made available, with the least possible delay, for inspection by the representative of the district. When no sample is desired the invoice shall be stamped by the district “No sample desired, Food and Drug Administration, Department of Health and Human Services, per (initials of inspecting officer).”

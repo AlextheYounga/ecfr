@@ -1,0 +1,5 @@
+##### § 240.15b5-1 Extension of registration for purposes of the Securities Investor Protection Act of 1970 after cancellation or revocation. #####
+
+Commission revocation or cancellation of the registration of a broker or dealer pursuant to section 15(b) of the Act: (i) shall be effective for all purposes, except as hereinafter provided, on the date of the order of revocation or cancellation or, if such order is stayed, on the date the stay is terminated; and (ii) shall be effective six months after the date of the order of revocation or cancellation (or, if such order is stayed, the date the stay is terminated) with respect to a broker's or dealer's registration status as a member within the meaning of Section 3(a)(2) of the Securities Investor Protection Act of 1970 for purposes of the application of sections 5, 6, and 7 thereof to customer claims arising prior to the date of the order of revocation or cancellation (or, if such order is stayed, the date the stay is terminated).
+
+[39 FR 37485, Oct. 22, 1974]

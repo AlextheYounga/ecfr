@@ -1,0 +1,7 @@
+##### § 201.303 Labeling of drug preparations containing significant proportions of wintergreen oil. #####
+
+(a) Because methyl salicylate (wintergreen oil) manifests no toxicity in the minute amounts in which it is used as a flavoring, it is mistakenly regarded by the public as harmless even when taken in substantially larger amounts. Actually, it is quite toxic when taken in quantities of a teaspoonful or more. Wintergreen oil and preparations containing it have caused a number of deaths through accidental misuse by both adults and children. Children are particularly attracted by the odor and are likely to swallow these products when left within reach.
+
+(b) To safeguard against fatalities from this cause, the Department of Health and Human Services will regard as misbranded under the provisions of the Federal Food, Drug, and Cosmetic Act any drug containing more than 5 percent methyl salicylate (wintergreen oil), the labeling of which fails to warn that use otherwise than as directed therein may be dangerous and that the article should be kept out of reach of children to prevent accidental poisoning.
+
+(c) This statement of interpretation in no way exempts methyl salicylate (wintergreen oil) or its preparations from complying in all other respects with the requirements of the Federal Food, Drug, and Cosmetic Act.

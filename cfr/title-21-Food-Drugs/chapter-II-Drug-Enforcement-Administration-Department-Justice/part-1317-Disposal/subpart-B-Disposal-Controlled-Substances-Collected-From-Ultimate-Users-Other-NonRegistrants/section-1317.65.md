@@ -1,0 +1,11 @@
+##### § 1317.65 Take-back events. #####
+
+(a) Federal, State, tribal, or local law enforcement may conduct a take-back event and collect controlled substances from ultimate users and persons lawfully entitled to dispose of an ultimate user decedent's property in accordance with this section. Any person may partner with law enforcement to hold a collection take-back event in accordance with this section.
+
+(b) Law enforcement shall appoint a law enforcement officer employed by the agency to oversee the collection. Law enforcement officers employed and authorized by the law enforcement agency or law enforcement component of a Federal agency conducting a take-back event shall maintain control and custody of the collected substances from the time the substances are collected from the ultimate user or person authorized to dispose of the ultimate user decedent's property until secure transfer, storage, or destruction of the controlled substances has occurred.
+
+(c) Each take-back event should have at least one receptacle for the collection of controlled substances. The collection receptacle should be a securely locked, substantially constructed container with an outer container and a removable inner liner as specified in § 1317.60 of this chapter. The outer container should include a small opening that allows contents to be added to the inner liner, but that does not allow removal of the inner liner's contents.
+
+(d) Only those controlled substances listed in Schedule II, III, IV, or V that are lawfully possessed by an ultimate user or person entitled to dispose of an ultimate user decedent's property may be collected. Controlled and non-controlled substances may be collected together and be comingled, although comingling is not required.
+
+(e) Only ultimate users and persons entitled to dispose of an ultimate user decedent's property in lawful possession of a controlled substance in Schedule II, III, IV, or V may transfer such substances to law enforcement during the take-back event. No other person may handle the controlled substances at any time.

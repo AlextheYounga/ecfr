@@ -1,0 +1,19 @@
+##### § 155.1065 Procedures for plan submission, approval, requests for acceptance of alternative planning criteria, and appeal. #####
+
+(a) An owner or operator of a vessel to which this subpart applies shall submit one complete English language copy of a vessel response plan to Commandant electronically by using the Vessel Response Plan Electronic Submission Tool available at *http://evrp.uscg.mil* or by mail to Commandant (CG-CVC-1), Attn: Vessel Response Plans, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501 or *vrp@uscg.mil.* The plan must be submitted at least 60 days before the vessel intends to handle, store, transport, transfer, or lighter oil in areas subject to the jurisdiction of the United States.
+
+(b) The owner or operator shall include a statement certifying that the plan meets the applicable requirements of subparts D, E, F, G, and J of this part and shall include a statement indicating whether the vessel(s) covered by the plan are manned vessels carrying oil as a primary cargo, unmanned vessels carrying oil as a primary cargo, or vessels carrying oil as a secondary cargo. For plans submitted in paper format, CG Form “Application for Approval/Revision of Vessel Pollution Response Plans” (CG-6083) located at: *http://www.uscg.mil/forms/CG/CG\_6083.pdf* meets the requirement for a vessel response plan certification statement as required by this paragraph.
+
+(c) If the Coast Guard determines that the plan meets all requirements of this subpart, the Coast Guard will notify the vessel owner or operator with an approval letter. The plan will be valid for a period of up to 5 years from the date of approval.
+
+(d) If the Coast Guard reviews the plan and determines that it does not meet all of the requirements, the Coast Guard will notify the vessel owner or operator of the response plan's deficiencies. The vessel owner or operator must then resubmit the revised plan, or corrected portions of the plan, within the time period specified in the written notice provided by the Coast Guard.
+
+(e) For those vessels temporarily authorized under § 155.1025 to operate without an approved plan pending formal Coast Guard approval, the deficiency provisions of § 155.1070(c), (d), and (e) will also apply.
+
+(f) When the owner or operator of a vessel believes that national planning criteria contained elsewhere in this part are inappropriate to the vessel for the areas in which it is intended to operate, the owner or operator may request acceptance of alternative planning criteria by the Coast Guard. Submission of a request must be made 90 days before the vessel intends to operate under the proposed alternative and must be forwarded to the COTP for the geographic area(s) affected.
+
+(g) An owner or operator of a United States flag vessel may meet the response plan requirements of Regulation 37 of MARPOL 73/78 and subparts D, E, F, and G of this part by stating in writing, according to the provisions of § 155.1030(j), that the plan submitted is intended to address the requirements of both Regulation 37 of MARPOL 73/78 and the requirements of subparts D, E, F, and G of this part.
+
+(h) Within 21 days of notification that a plan is not approved, the vessel owner or operator may appeal that determination to the Director of Inspections and Compliance (CG-5PC). This appeal must be submitted in writing to Commandant (CG-5PC), Attn: Director of Inspections and Compliance, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501.
+
+[CGD 91-034, 61 FR 1081, Jan. 12, 1996, as amended by CGD 96-026, 61 FR 33666, June 28, 1996; CGD 97-023, 62 FR 33364, June 19, 1997; USCG-2002-12471, 67 FR 41333, June 18, 2002; USCG-2008-0179, 73 FR 35015, June 19, 2008; USCG-2010-0351, 75 FR 36285, June 25, 2010; USCG-2008-1070, 78 FR 60123, Sept. 30, 2013; USCG-2014-0410, 79 FR 38436, July 7, 2014]

@@ -1,0 +1,5 @@
+##### § 478.26 Curio and relic determination. #####
+
+Any person who desires to obtain a determination whether a particular firearm is a curio or relic shall submit a written request, in duplicate, for a ruling thereon to the Director. Each such request shall be executed under the penalties of perjury and shall contain a complete and accurate description of the firearm, and such photographs, diagrams, or drawings as may be necessary to enable the Director to make a determination. The Director may require the submission of the firearm for examination and evaluation. If the submission of the firearm is impractical, the person requesting the determination shall so advise the Director and designate the place where the firearm will be available for examination and evaluation.
+
+[T.D. ATF-270, 53 FR 10493, Mar. 31, 1988]

@@ -1,0 +1,3 @@
+##### § 1402.5 Appeal procedure. #####
+
+Appeals reviewed as a result of a denial will be routed to the Director of ONDCP, who will take action as necessary to determine whether any part of the information may be declassified. If so, the Director shall notify the requester of this determination and shall make any information available that is declassified and is otherwise releasable. If continued classification is required, the requester shall be notified by the Director of ONDCP of the reasons therefore.

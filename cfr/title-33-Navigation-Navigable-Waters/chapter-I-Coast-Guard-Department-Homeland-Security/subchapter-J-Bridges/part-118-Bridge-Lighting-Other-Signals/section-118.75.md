@@ -1,0 +1,7 @@
+##### § 118.75 Lights on single-opening drawbridges. #####
+
+(a) *Bridges in this class.* Bridges of the folding, pontoon and similar type single opening drawbridges are included in this class.
+
+(b) *Draw span lights.* Each draw span of every single opening drawbridge shall be lighted with two lanterns so that when viewed from an approaching vessel the draw span when closed will display two red lights, one at each end of the span and when open to navigation will display two green lights, one at each end of the span. Each lantern shall show alternate red and green horizontal arcs of 60° each, the axis of adjacent arcs to be located 90° from each other; each lantern shall be securely mounted 15 feet above the roadway with the axis of the green arcs parallel to the long axis of the swing span.
+
+(c) *Pier or abutment lights.* Every swing bridge shall be lighted so that the end of each pier, abutment or fixed portion of the bridge adjacent to the navigable channel through the draw, or each end of the protection piers for such piers, abutments, or fixed portion of the bridge will be marked by a red light. Each red light shall show through an arc of 180°, and shall be securely mounted on the pier, abutment or fixed portion of the bridge as low as practicable to show 90° on either side of a line parallel to the axis of the channel so as to be visible from an approaching vessel.

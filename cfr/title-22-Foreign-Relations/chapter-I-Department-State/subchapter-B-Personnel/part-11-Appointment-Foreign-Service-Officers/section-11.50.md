@@ -1,0 +1,29 @@
+##### § 11.50 Foreign Service specialist career candidate appointments. #####
+
+(a) *General considerations.* (1) Pursuant to section 303 of the Act, the Secretary may appoint individuals to the Foreign Service (other than those who are in the personnel categories specified in section 302(a) of the Act). Pursuant to section 306 of the Act, such appointment is initially a career candidate appointment. Section 303 governs the appointment by the Department of State of Foreign Service specialist career candidates to classes FS-1 and all classes below. Specialist candidates comprise all candidates for career appointment in all career tracks other than generalist career tracks (*i.e.,* management, consular, economic, political, and public diplomacy). The tenuring of specialist career candidates is governed by the procedures in 3 FAM 2250.
+
+(2) Veterans' preference shall apply to the selection and appointment of Foreign Service specialist career candidates. Veterans' preference is an affirmative factor once the candidate has been qualified for the position. As soon as veterans go on the Hiring Register, they may apply for additional points to increase their rank order standing.
+
+(b) *Specialist career candidate appointments*—(1) *Certification of need.* (i) Candidates for appointment as specialist career candidates must be world-wide available and must have a professional or a functional skill for which there is a continuing need in the Foreign Service. No applicant shall be appointed for which there is no certified need established at a specific class level. Either the Director General may determine in advance which specialties are routinely or frequently in shortage or need periodic recruitment through publicly posted vacancy announcements, or the Director General may certify that there is a need for an applicant in a specific specialist category and at a specific class.
+
+(ii) Candidates who receive a career candidate appointment, *i.e.,* who are untenured, have four years with the possibility of five years (see 3 FAM 2251.3) to obtain tenure. These appointments, including the appointment of an individual who is the employee of any agency, may not exceed five years in duration, and may not be renewed or be extended beyond five years. A specialist candidate denied tenure under 3 FAM 2250 generally may not be reappointed as a career candidate in the same career track.
+
+(2) *Eligibility.* An applicant must be a citizen of the United States and at least 20 years of age. The minimum age for appointment as a career candidate is 21. Except for preference eligible candidates, all career candidate appointments shall be made before the candidate's 60th birthday. Preference eligible candidates may be appointed up to their 65th birthday. The maximum age for appointment under the program is based on the requirement that all career candidates shall be able to:
+
+(i) Complete at least two full tours of duty, exclusive of orientation and training,
+
+(ii) Complete the requisite eligibility period for tenure consideration, and
+
+(iii) Complete the requisite eligibility period to receive retirement benefits, prior to reaching the mandatory retirement age of 65 prescribed by the Act.
+
+(3) *Screening.* (i) Specialist career candidates will be screened initially on the basis of education and experience.
+
+(ii) Based on a job analysis, the Board of Examiners, in coordination with any bureau responsible for the specialty, will establish the knowledge, skills, and abilities required to perform successfully the tasks and duties of Foreign Service specialists in that functional field. Assessors working for the Board of Examiners will screen applications under those approved criteria and select those who meet the requirements to invite to an oral assessment.
+
+(4) *Oral assessment.* Candidates are selected through the initial screening process. The oral assessment will be given by a panel of assessors, at least one of whom will be a career Foreign Service employee proficient in the functional field for which the candidate is being tested. The assessment may include a writing sample. Candidates taking the oral assessment will be scored numerically according to standards set by the Board of Examiners. The candidacy of anyone whose score is at or above the passing level set by the Board will be continued. The candidacy of anyone whose score is below the passing level will be terminated. The candidate may only reapply after the first anniversary date of the original application.
+
+(5) *Background investigation.* Specialist candidates who pass the oral assessment and elect to continue the hiring process will be subject to a background investigation. The background investigation must be conducted to determine the candidate's eligibility for a security clearance and serves as the basis for determining suitability for appointment to the Foreign Service (see 3 FAM 2212.1-1 (Security Investigation)).
+
+(6) *Medical examination.* Candidates who pass the oral assessment and elect to continue the hiring process must undergo a medical examination. See the procedures in 16 FAM 210 (Medical Clearances).
+
+(7) *Suitability Review Panel.* After the medical examination clearance has been issued and the background investigation is received, the candidate's entire file (excluding any medical records) is reviewed and evaluated by a Suitability Review Panel to determine the candidate's suitability for the Foreign Service. See the procedures in 3 FAM 2215 (Suitability Review). According to procedures established by the Board of Examiners, a candidate may appeal this decision to the Board of Examiners Staff Director or designee, whose decision will be final. DS will re-submit applicants to the Suitability Review Panel if they are found to have falsified information on their application or are found to have disqualifying factors.

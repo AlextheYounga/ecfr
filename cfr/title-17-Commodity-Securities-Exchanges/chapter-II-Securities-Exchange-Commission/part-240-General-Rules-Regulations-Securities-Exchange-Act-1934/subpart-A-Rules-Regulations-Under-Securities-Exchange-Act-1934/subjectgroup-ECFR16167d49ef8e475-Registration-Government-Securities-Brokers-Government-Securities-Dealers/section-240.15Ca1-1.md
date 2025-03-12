@@ -1,0 +1,9 @@
+##### § 240.15Ca1-1 Notice of government securities broker-dealer activities. #####
+
+(a) Every government securities broker or government securities dealer that is a broker or dealer registered pursuant to section 15 or 15B of the Act (other than a financial institution as defined in section 3(a)(46) of the Act) shall file with the Commission written notice on Form BD (§ 249.501 of this chapter) in accordance with the instructions contained therein that it is a government securities broker or government securities dealer. After July 25, 1987, every broker or dealer subject to this paragraph shall file notice that it is a government securities broker or government securities dealer prior to or on the date it begins acting as a government securities broker or government securities dealer.
+
+(b) Every government securities broker or government securities dealer required to file notice under paragraph (a) of this section shall file with the Commission written notice on Form BD in accordance with the instructions contained therein when it ceases to be a government securities broker or government securities dealer. Notice shall be filed within 30 days after the date the broker or dealer has ceased acting as a government securities broker or a government securities dealer.
+
+(c) Any notice required pursuant to this section shall be considered filed with the Commission if it is filed with the Central Registration Depository (operated by the Financial Industry Regulatory Authority, Inc.) in accordance with applicable filing requirements.
+
+[52 FR 16839, May 6, 1987, as amended at 58 FR 14, Jan. 4, 1993; 64 FR 25148, May 10, 1999; 73 FR 4693, Jan. 28, 2008]

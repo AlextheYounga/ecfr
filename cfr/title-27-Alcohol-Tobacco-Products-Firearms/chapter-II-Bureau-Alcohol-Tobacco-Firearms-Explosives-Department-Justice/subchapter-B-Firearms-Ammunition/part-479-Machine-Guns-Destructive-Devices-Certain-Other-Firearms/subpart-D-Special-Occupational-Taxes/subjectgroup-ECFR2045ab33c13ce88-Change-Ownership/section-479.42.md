@@ -1,0 +1,5 @@
+##### § 479.42 Changes through death of owner. #####
+
+Whenever any person who has paid special (occupational) tax dies, the surviving spouse or child, or executors or administrators, or other legal representatives, may carry on this business for the remainder of the term for which tax has been paid and at the place (or places) for which the tax was paid, without any additional payment, subject to the following conditions. If the surviving spouse or child, or executor or administrator, or other legal representative of the deceased taxpayer continues the business, such person shall, within 30 days after the date on which the successor begins to carry on the business, file a new return, Form 5630.7, with ATF in accordance with the instructions on the form. The return thus executed shall show the name of the original taxpayer, together with the basis of the succession. (As to liability in case of failure to register, see § 479.49.)
+
+[T.D. ATF-70, 45 FR 33979, May 21, 1980, as amended by T.D. ATF-251, 52 FR 19334, May 22, 1987; T.D. ATF-363, 60 FR 17456, Apr. 6, 1995]

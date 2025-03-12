@@ -1,0 +1,11 @@
+##### § 310.547 Drug products containing quinine offered over-the-counter (OTC) for the treatment and/or prevention of malaria. #####
+
+(a) Quinine and quinine salts have been used OTC for the treatment and/or prevention of malaria, a serious and potentially life-threatening disease. Quinine is no longer the drug of choice for the treatment and/or prevention of most types of malaria. In addition, there are serious and complicating aspects of the disease itself and some potentially serious and life-threatening risks associated with the use of quinine at doses employed for the treatment of malaria. There is a lack of adequate data to establish general recognition of the safety of quinine drug products for OTC use in the treatment and/or prevention of malaria. Therefore, quinine or quinine salts cannot be safely and effectively used for the treatment and/or prevention of malaria except under the care and supervision of a doctor.
+
+(b) Any OTC drug product containing quinine or quinine salts that is labeled, represented, or promoted for the treatment and/or prevention of malaria is regarded as a new drug within the meaning of section 201(p) of the act, for which an approved application or abbreviated application under section 505 of the act and part 314 of this chapter is required for marketing. In the absence of an approved new drug application or abbreviated new drug application, such product is also misbranded under section 502 of the act.
+
+(c) Clinical investigations designed to obtain evidence that any drug product labeled, represented, or promoted for OTC use for the treatment and/or prevention of malaria is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter.
+
+(d) After April 20, 1998, any such OTC drug product initially introduced or initially delivered for introduction into interstate commerce that is not in compliance with this section is subject to regulatory action.
+
+[63 FR 13528, Mar. 20, 1998]

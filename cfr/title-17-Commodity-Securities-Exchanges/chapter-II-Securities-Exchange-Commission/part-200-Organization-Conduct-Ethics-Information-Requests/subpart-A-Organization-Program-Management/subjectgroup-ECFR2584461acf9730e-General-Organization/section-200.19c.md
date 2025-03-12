@@ -1,0 +1,5 @@
+##### § 200.19c Director of the Office of Compliance Inspections and Examinations. #####
+
+The Director of the Office of Compliance Inspections and Examinations (“OCIE”) is responsible for the compliance inspections and examinations relating to the regulation of exchanges, national securities associations, clearing agencies, securities information processors, the Municipal Securities Rulemaking Board, brokers and dealers, municipal securities dealers, municipal advisors, transfer agents, investment companies, and investment advisers, under Sections 15B, 15C(d)(1) and 17(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78*o*-4, 78*o*-5(d)(1) and 78q(b)), Section 31(b) of the Investment Company Act of 1940 (15 U.S.C. 80a-30(b)), and Section 204 of the Investment Advisers Act of 1940 (15 U.S.C. 80b-4).
+
+[78 FR 67632, Nov. 12, 2013]

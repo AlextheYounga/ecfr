@@ -1,0 +1,3 @@
+##### § 401.19 Reducing or extending time and dispensing with statements. #####
+
+In any case where the Commission considers that such action would be in the public interest and not prejudicial to the right of interested persons to be heard in accordance with Article XII of the Treaty, the Commission may reduce or extend the time for the presentation of any paper or the doing of any act required by these rules or may dispense with the presentation of statements in response and statements in reply.

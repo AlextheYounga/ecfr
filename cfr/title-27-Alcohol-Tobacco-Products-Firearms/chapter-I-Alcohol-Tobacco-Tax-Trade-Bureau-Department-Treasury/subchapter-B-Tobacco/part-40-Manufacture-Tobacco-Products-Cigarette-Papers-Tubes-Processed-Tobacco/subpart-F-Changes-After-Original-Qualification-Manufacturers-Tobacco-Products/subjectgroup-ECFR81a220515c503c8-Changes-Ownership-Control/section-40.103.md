@@ -1,0 +1,5 @@
+##### § 40.103 Change in officers, directors, or stockholders of a corporation. #####
+
+Upon election or appointment (excluding successive reelection or reappointment) of any officer or director of a corporation operating the business of a manufacturer of tobacco products, or upon any occurrence which results in a person acquiring ownership or control of more than ten percent in aggregate of the outstanding stock of such corporation, the manufacturer shall, within 30 days of such action, so notify the appropriate TTB officer in writing, giving the identity of such person. When there is any change in the authority furnished under § 40.63 for officers to act in behalf of the corporation the manufacturer shall immediately so notify the appropriate TTB officer in writing.
+
+(72 Stat. 1421; 26 U.S.C. 5712)[T.D. 6840, 30 FR 9311, July 27, 1965. Redesignated at 40 FR 16835, Apr. 15, 1975]

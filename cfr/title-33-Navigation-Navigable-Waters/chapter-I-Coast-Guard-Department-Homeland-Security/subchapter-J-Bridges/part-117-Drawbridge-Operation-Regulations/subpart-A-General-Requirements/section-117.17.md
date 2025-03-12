@@ -1,0 +1,3 @@
+##### § 117.17 Signalling for contiguous drawbridges. #####
+
+When a vessel must past two or more drawbridges close together, the opening signal is given for the first bridge. After acknowledgment from the first bridge that it will promptly open, the opening signal is given for the second bridge, and so on until all bridges that the vessel must pass have been given the opening signal and have acknowledged that they will open promptly.

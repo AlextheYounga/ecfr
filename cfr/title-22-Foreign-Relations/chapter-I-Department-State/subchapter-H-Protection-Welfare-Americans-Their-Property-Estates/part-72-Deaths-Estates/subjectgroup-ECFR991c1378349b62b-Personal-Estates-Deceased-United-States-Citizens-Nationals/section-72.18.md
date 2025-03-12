@@ -1,0 +1,3 @@
+##### § 72.18 Payment of debts owed by decedent. #####
+
+The consular officer may pay debts of the decedent which the consular officer believes in his or her discretion are legitimately owed in the country in which the death occurred, or in the country in which the decedent was residing at the time of death, including expenses incident to the disposition of the remains and the personal effects, out of the convertible assets of the personal estate taken into possession by the consular officer.

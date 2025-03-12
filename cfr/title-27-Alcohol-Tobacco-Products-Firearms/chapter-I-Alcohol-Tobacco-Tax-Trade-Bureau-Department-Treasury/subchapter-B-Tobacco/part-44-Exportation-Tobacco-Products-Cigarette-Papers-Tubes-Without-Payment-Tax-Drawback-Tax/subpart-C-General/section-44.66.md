@@ -1,0 +1,5 @@
+##### § 44.66 Relief from liability for tax. #####
+
+A manufacturer of tobacco products or cigarette papers and tubes or an export warehouse proprietor is relieved of the liability for tax on tobacco products, or cigarette papers or tubes upon providing evidence satisfactory to the appropriate TTB officer of exportation or proper delivery. The evidence must comply with this part. Such evidence shall be furnished within 90 days of the date of removal of the tobacco products, or cigarette papers or tubes: *Provided,* That this period may be extended for good cause shown.
+
+(72 Stat. 1417; 26 U.S.C. 5703)[T.D. 6871, 31 FR 49, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975; T.D. ATF-232, 51 FR 28088, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-480, 67 FR 30801, May 8, 2002]

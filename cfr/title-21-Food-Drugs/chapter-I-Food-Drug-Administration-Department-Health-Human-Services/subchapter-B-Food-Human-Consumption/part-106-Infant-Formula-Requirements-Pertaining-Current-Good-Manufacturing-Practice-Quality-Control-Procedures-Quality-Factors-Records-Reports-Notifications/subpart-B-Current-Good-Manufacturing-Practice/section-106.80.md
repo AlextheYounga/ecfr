@@ -1,0 +1,3 @@
+##### § 106.80 Traceability. #####
+
+Each production aggregate of infant formula shall be coded with a sequential number that identifies the product and the establishment where the product was packed and that permits tracing of all stages of manufacture of that production aggregate, including the year, the days of the year, and the period during those days that the product was packed, and the receipt and handling of raw materials used.

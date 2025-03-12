@@ -1,0 +1,5 @@
+##### § 24.108 Bonded wine warehouse application. #####
+
+A warehouse company or other person desiring to establish a bonded wine warehouse on bonded wine premises for storing wine or allied products for credit purposes shall file an application, in letter form, with the appropriate TTB officer. The name and address of the applicant and of the bonded wine premises, and the approximate area and storage capacity (in gallons) of the bonded wine warehouse, will be stated in the application. The application will be accompanied by a signed statement from the proprietor of the bonded wine premises requesting the establishment of the warehouse, and the consent of the surety of the bond for the bonded wine premises.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended (26 U.S.C. 5353))(Approved by the Office of Management and Budget under control number 1512-0058)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, Mar. 22, 1999]

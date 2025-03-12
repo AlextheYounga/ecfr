@@ -1,0 +1,3 @@
+##### § 1500.8 Changing the time and place of, and reconsideration of opening or closing a meeting. #####
+
+The time or place of a Board meeting may be changed following the public announcement only if the Foundation publicly announces such change at the earliest practicable time. The subject matter of a meeting, or the determination of the Foundation to open or close a meeting, or portion of a meeting, to the public, may be changed following the public announcement only if a majority of the Board of Directors determines by a recorded vote that Foundation business so requires and that no earlier announcement of the change was possible, and the Foundation publicly announces such change and the vote of each member upon change at the earliest practicable time.

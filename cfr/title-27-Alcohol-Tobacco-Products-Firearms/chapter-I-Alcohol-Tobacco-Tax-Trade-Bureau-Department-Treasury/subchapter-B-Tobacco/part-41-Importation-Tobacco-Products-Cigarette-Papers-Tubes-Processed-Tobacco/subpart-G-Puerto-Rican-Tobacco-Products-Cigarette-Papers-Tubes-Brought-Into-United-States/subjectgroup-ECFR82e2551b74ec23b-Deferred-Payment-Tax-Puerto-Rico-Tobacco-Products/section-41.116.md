@@ -1,0 +1,5 @@
+##### § 41.116 Default. #####
+
+Where a check or money order tendered with a semimonthly return for payment of internal revenue tax under the provisions of this subpart is not paid on presentment, where a bonded manufacturer fails to remit with the semimonthly return the full amount of tax due thereunder, or where a bonded manufacturer is otherwise in default in payment of tax under the provisions of this subpart, he shall not ship tobacco products to the United States on computation of tax, until the appropriate TTB officer finds that the revenue will not be jeopardized by deferred payment of tax under the provisions of this subpart.
+
+[T.D. 6871, 31 FR 44, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28086, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-251, 52 FR 19340, May 22, 1987. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

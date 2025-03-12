@@ -1,0 +1,5 @@
+##### § 229.915 (Item 915) Federal income tax consequences. #####
+
+(a) Provide a brief, clear and understandable summary of the material Federal income tax consequences of the roll-up transaction and an investment in the successor. Where a tax opinion has been provided, briefly summarize the substance of such opinion, including identification of the material consequences upon which counsel has not been asked, or is unable, to opine. If any of the material Federal income tax consequences are not expected to be the same for investors in all partnerships, the differences shall be described.
+
+(b) State whether or not the opinion of counsel is included as an appendix to the prospectus. If filed as an exhibit to the registration statement and not included as an appendix to the prospectus, include a statement to the effect that, upon receipt of a written request by an investor or his representative who has been so designated in writing, a copy of the opinion of counsel will be transmitted promptly, without charge, by the general partner or sponsor. The statement should include the name and address of the person to whom investors should make their request.

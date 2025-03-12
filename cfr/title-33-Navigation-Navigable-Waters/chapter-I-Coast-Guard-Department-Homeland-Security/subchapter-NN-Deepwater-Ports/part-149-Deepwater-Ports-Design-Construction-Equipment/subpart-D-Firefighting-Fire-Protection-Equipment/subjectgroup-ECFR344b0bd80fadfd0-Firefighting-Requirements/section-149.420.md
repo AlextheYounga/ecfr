@@ -1,0 +1,3 @@
+##### § 149.420 What are the fire protection requirements for escape routes? #####
+
+At least one escape route from an accommodation space or module to a survival craft or other means of evacuation must provide adequate protection. Separation of the escape route from the cargo area by steel construction, in accordance with 46 CFR 108.133, or equivalent protection is considered adequate protection for personnel escaping from fires and explosions. Additional requirements for escape routes are in subpart F of this part.

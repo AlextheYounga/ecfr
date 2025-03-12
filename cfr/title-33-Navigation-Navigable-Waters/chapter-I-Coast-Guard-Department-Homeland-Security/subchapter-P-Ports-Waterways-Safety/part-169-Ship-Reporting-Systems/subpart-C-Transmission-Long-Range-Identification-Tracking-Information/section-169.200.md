@@ -1,0 +1,3 @@
+##### § 169.200 What is the purpose of this subpart? #####
+
+This subpart implements Regulation 19-1 of SOLAS Chapter V (SOLAS V/19-1) and requires certain ships engaged on an international voyage to transmit vessel identification and position information electronically. This requirement enables the Coast Guard to obtain long range identification and tracking (LRIT) information and thus heightens our overall maritime domain awareness, enhances our search and rescue operations, and increases our ability to detect anomalies and deter transportation security incidents.

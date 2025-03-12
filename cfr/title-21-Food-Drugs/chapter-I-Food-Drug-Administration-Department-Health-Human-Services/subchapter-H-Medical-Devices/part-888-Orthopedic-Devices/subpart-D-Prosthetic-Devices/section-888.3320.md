@@ -1,0 +1,9 @@
+##### § 888.3320 Hip joint metal/metal semi-constrained, with a cemented acetabular component, prosthesis. #####
+
+(a) *Identification.* A hip joint metal/metal semi-constrained, with a cemented acetabular component, prosthesis is a two-part device intended to be implanted to replace a hip joint. The device limits translation and rotation in one or more planes via the geometry of its articulating surfaces. It has no linkage across-the-joint. This generic type of device includes prostheses that consist of a femoral and an acetabular component, both made of alloys, such as cobalt-chromium-molybdenum. This generic type of device is limited to those prostheses intended for use with bone cement (§ 888.3027).
+
+(b) *Classification.* Class III.
+
+(c) *Date PMA or notice of completion of PDP is required.* A PMA or a notice of completion of a PDP is required to be filed with the Food and Drug Administration on or before May 18, 2016, for any hip joint metal/metal semi-constrained prosthesis with a cemented acetabular component that was in commercial distribution before May 28, 1976, or that has, on or before May 18, 2016, been found to be substantially equivalent to a hip joint metal/metal semi-constrained prosthesis with a cemented acetabular component that was in commercial distribution before May 28, 1976. Any other hip joint metal/metal semi-constrained prosthesis with a cemented acetabular component shall have an approved PMA or a declared completed PDP in effect before being placed in commercial distribution.
+
+[52 FR 33702, Sept. 4, 1987, as amended at 81 FR 8149, Feb. 18, 2016]

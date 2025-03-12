@@ -1,0 +1,7 @@
+##### § 270.45a-1 Confidential treatment of names and addresses of dealers of registered investment company securities. #####
+
+(a) Exhibits calling for the names and addresses of dealers to or through whom principal underwriters of registered investment companies are currently offering securities and which are required to be furnished with registration statements filed pursuant to section 8(b) of the Act (54 Stat. 804; 15 U.S.C. 80a-8), or periodic reports filed pursuant to section 30(a) or section 30(b)(1) of the Act (54 Stat. 836; 15 U.S.C. 80a-30), shall be the subject of confidential treatment and shall not be made available to the public, except that the Commission may by order make such exhibits available to the public if, after appropriate notice and opportunity for hearing, it finds that public disclosure of such material is necessary or appropriate in the public interest or for the protection of investors.
+
+(b) The exhibits referred to in paragraph (a) of this section shall be filed in quadruplicate with the Commission at the time the registration statement or periodic report is filed. Such exhibits shall be enclosed in a separate envelope marked “Confidential Treatment” and addressed to the Chairman, Securities and Executive Commission, Washington, DC. Confidential treatment requests shall be submitted in paper only, whether or not the registrant is required to file in electronic format.
+
+[Rule N-45A-1, 7 FR 197, Jan. 10, 1942, as amended at 20 FR 7036, Sept. 20, 1955; 58 FR 14860, Mar. 18, 1993]

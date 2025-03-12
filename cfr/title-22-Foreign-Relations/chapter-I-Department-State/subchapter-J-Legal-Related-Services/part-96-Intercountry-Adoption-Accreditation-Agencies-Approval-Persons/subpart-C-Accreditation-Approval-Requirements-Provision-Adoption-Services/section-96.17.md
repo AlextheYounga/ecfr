@@ -1,0 +1,5 @@
+##### § 96.17 Effective date of accreditation and approval requirements. #####
+
+The Convention entered into force for the United States on April 1, 2008. As of that date, the regulations in subpart C of this part govern Convention adoptions between the United States and Convention countries, and require agencies or persons providing adoption services on behalf of prospective adoptive parent(s) to comply with § 96.12 and applicable Federal regulations. The Secretary maintains for the public a current listing of Convention countries. The effective date of the UAA is July 14, 2014. As of that date, consistent with the UAA, the regulations in subpart C of this part will govern adoptions of children described in INA § 101(b)(1)(F), and will require agencies or persons providing adoption services on behalf of prospective adoptive parent(s) in connection with a child described in section 101(b)(1)(F) to comply with § 96.12 and applicable Federal regulations.
+
+[79 FR 40634, July 14, 2014]

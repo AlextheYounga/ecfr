@@ -1,0 +1,5 @@
+##### § 507.5 Procedures for announcing meetings. #####
+
+(a) In the case of each meeting, the Board shall make public, at least one week before the meeting, the time, place, and subject matter of the meeting, whether it is to be open or closed to the public, and the name and phone number of the official designated by the Board to respond to requests for information about the meeting. Such announcement shall be made unless a majority of the members of the Board determine by a recorded vote that such meeting must be called at an earlier date, in which case the Board shall make public announcement of the time, place, subject matter of such meeting and whether it is open or closed to the public, at the earliest practical time.
+
+(b) Immediately following the public announcement, the Board will publish it in the Federal Register.

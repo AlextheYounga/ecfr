@@ -1,0 +1,25 @@
+##### § 308.10 Security of records systems—manual and automated. #####
+
+The head of the agency has the responsibility of maintaining adequate technical, physical, and security safeguards to prevent unauthorized disclosure or destruction of manual and automatic record systems. These security safeguards shall apply to all systems in which identifiable personal data are processed or maintained including all reports and outputs from such systems which contain identifiable personal information. Such safeguards must be sufficient to prevent negligent, accidental, or unintentional disclosure, modification or destruction of any personal records or data and must furthermore minimize the extent technicians or knowledgeable persons could improperly obtain access to modify or destroy such records or data and shall further insure against such casual entry by unskilled persons without official reasons for access to such records or data.
+
+(a) *Manual systems.* (1) Records contained in records systems as defined herein may be used, held or stored only where facilities are adequate to prevent unauthorized access by persons within or without the agency.
+
+(2) All records systems when not under the personal control of the employees authorized to use same must be stored in an appropriate metal filing cabinet. Where appropriate, such cabinet shall have a three position dial-type combination lock, and/or be equipped with a steel lock bar secured by a GSA approved changeable combination padlock or in some such other securely locked cabinet as may be approved by GSA for the storage of such records. Certain systems are not of such confidential nature that their disclosure would harm an individual who is the subject of such record. Records in this category shall be maintained in steel cabinets without the necessity of combination locks.
+
+(3) Access to and use of systems of records shall be permitted only to persons whose official duties require such access within the agency, for routine use as defined in § 308.4 and in the Peace Corps' published systems of records notices, or for such other uses as may be provided herein.
+
+(4) Other than for access within the agency to persons needing such records in the performance of their official duties or routine uses as defined herein and in the Peace Corps' systems of records notices or such other uses as provided herein, access to records within systems of records shall be permitted only to the individual to whom the record pertains or upon his or her written request to a designated personal representative.
+
+(5) Access to areas where records systems are stored will be limited to those persons whose official duties require work in such areas and proper accounting of removal of any records from storage areas shall be maintained at all times in the form directed by the Director, Administrative Services.
+
+(6) The agency shall assure that all persons whose official duties require access to and use of records contained in records systems are adequately trained to protect the security and privacy of such records.
+
+(7) The disposal and destruction of records within records systems shall be in accord with rules promulgated by the General Services Administration.
+
+(b) *Automated systems.* (1) Identifiable personal information may be processed, stored or maintained by automatic data systems only where facilities or conditions are adequate to prevent unauthorized access to such systems in any form. Whenever such data contained in punch cards, magnetic tapes or discs are not under the personal control of an authorized person such information must be stored in a metal filing cabinet having a built-in three position combination lock, a metal filing cabinet equipped with a steel lock, a metal filing cabinet equipped with a steel lock bar secured with a General Services Administration (GSA) approved combination padlock, or in adequate containers or in a secured room or in such other facility having greater safeguards than those provided for herein.
+
+(2) Access to and use of identifiable personal data associated with automated data systems shall be limited to those persons whose official duties require such access. Proper control of personal data in any form associated with automated data systems shall be maintained at all times including maintenance of accountability records showing disposition of input and output documents.
+
+(3) All persons whose official duties require access to processing and maintenance of identifiable personal data and automated systems shall be adequately trained in the security and privacy of personal data.
+
+(4) The disposal and disposition of identifiable personal data and automated systems shall be carried on by shredding, burning or in the case of tapes of discs, degaussing, in accord with any regulations now or hereafter proposed by the GSA or other appropriate authority.

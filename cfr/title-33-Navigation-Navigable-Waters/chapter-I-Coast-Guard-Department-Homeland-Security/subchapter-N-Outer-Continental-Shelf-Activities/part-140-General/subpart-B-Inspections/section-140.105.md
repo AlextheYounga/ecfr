@@ -1,0 +1,13 @@
+##### § 140.105 Correction of deficiencies and hazards. #####
+
+(a) Lifesaving and fire fighting equipment which is found defective during an inspection by a Coast Guard marine inspector or a Bureau of Safety and Environmental Enforcement (BSEE) inspector and which, in the opinion of the inspector, cannot be satisfactorily repaired must be so mutilated in the presence of the inspector that it cannot be used for the purpose for which it was originally intended. Lifesaving and fire fighting equipment subsequently determined to be unrepairable must be similarly mutilated in the presence of the person making that determination.
+
+(b) Any deficiency or hazard discovered during an inspection by a Coast Guard marine inspector or a BSEE inspector is reported to the unit's owner or operator, who shall have the deficiency or hazard corrected or eliminated as soon as practicable and within the period of time specified by the inspector.
+
+(c) Deficiencies and hazards discovered during an inspection of a fixed OCS facility under § 140.103(a) must be corrected or eliminated, if practicable, before the form CG-5432 is completed. Deficiencies and hazards that are not corrected or eliminated by the time the form is completed must be indicated on the form as “outstanding” and the form submitted to the appropriate BSEE District office. Upon receipt of a form CG-5432 indicating outstanding deficiencies or hazards, BSEE informs, by letter, the owner or operator of the fixed OCS facility of the deficiencies or hazards and the time period specified to correct or eliminate the deficiencies or hazards.
+
+(d) For lifesaving and fire fighting equipment deficiencies on fixed OCS facilities that cannot be corrected before the submission of form CG-5432, the owner or operator must contact the appropriate BSEE District Supervisor to request a time period for repair of the item. The owner or operator must include a description of the deficiency and the time period approved by BSEE for correction of the deficiency in the comment section of form CG-5432.
+
+(e) Where a deficiency or hazard remains uncorrected or uneliminated after the expiration of the time specified for correction or elimination, the Officer in Charge, Marine Inspection or BSEE (for deficiencies or hazards discovered by BSEE during an inspection of a fixed OCS facility), initiates appropriate enforcement measures.
+
+[CGD84-098a, 53 FR 18981, May 26, 1988, as amended by USCG-2001-9045, 67 FR 5916, Feb. 7, 2002; USCG-2013-0797, 79 FR 36405, June 27, 2014]

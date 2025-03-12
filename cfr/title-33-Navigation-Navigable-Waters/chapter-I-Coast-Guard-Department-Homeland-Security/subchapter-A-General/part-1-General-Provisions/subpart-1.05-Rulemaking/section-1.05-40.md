@@ -1,0 +1,3 @@
+##### § 1.05-40 Supplemental notice of proposed rulemaking (SNPRM). #####
+
+An SNPRM may be issued if a proposed rule has been substantially changed from the original notice of proposed rulemaking. The supplemental notice advises the public of the revised proposal and provides an opportunity for additional comment. To give the public a reasonable opportunity to become reacquainted with a rulemaking, a supplemental notice may also be issued if considerable time has elapsed since publication of a notice of proposed rulemaking. An SNPRM contains the same type of information generally included in an NPRM.

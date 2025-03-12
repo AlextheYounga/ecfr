@@ -1,0 +1,5 @@
+##### § 556.308 Halofuginone hydrobromide. #####
+
+The marker residue selected to monitor for total residues of halofuginone hydrobromide in broilers and turkeys is parent halofuginone hydrobromide and the target tissue selected is liver. A tolerance is established in broilers of 0.16 part per million and in turkeys of 0.13 part per million for parent halofuginone hydrobromide in liver. These marker residue concentrations in liver correspond to total residue concentrations of 0.3 part per million in liver. The safe concentrations for total residues of halofuginone hydrobromide in the uncooked edible tissues of broilers and turkeys are 0.1 part per million in muscle, 0.3 part per million in liver, and 0.2 part per million in skin with adhering fat. As used in this section, “tolerance” refers to a concentration of a marker residue in the target tissue selected to monitor for total residues of the drug in the target animal, and “safe concentrations” refers to the concentrations of total residues considered safe in edible tissues.
+
+[54 FR 28052, July 5, 1989, as amended at 56 FR 8711, Mar. 1, 1991; 57 FR 21209, May 19, 1992]

@@ -1,0 +1,17 @@
+##### § 172.810 Dioctyl sodium sulfosuccinate. #####
+
+The food additive, dioctyl sodium sulfosuccinate, meets the specifications of the Food Chemicals Codex, 7th ed. (2010), pp. 313-314, which is incorporated by reference. The Director of the Office of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies from the United States Pharmacopeial Convention, 12601 Twinbrook Pkwy., Rockville, MD 20852 (Internet address *http://www.usp.org*). Copies may be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html*). The food additive, dioctyl sodium sulfosuccinate, may be safely used in food in accordance with the following prescribed conditions:
+
+(a) As a wetting agent in the following fumaric acid-acidulated foods: Dry gelatin dessert, dry beverage base, and fruit juice drinks, when standards of identity do not preclude such use. The labeling of the dry gelatin dessert and dry beverage base shall bear adequate directions for use, and the additive shall be used in such an amount that the finished gelatin dessert will contain not in excess of 15 parts per million of the additive and the finished beverage or fruit juice drink will contain not in excess of 10 parts per million of the additive.
+
+(b) As a processing aid in sugar factories in the production of unrefined cane sugar, in an amount not in excess of 0.5 part per million of the additive per percentage point of sucrose in the juice, syrup, or massecuite being processed, and so used that the final molasses will contain no more than 25 parts per million of the additive.
+
+(c) As a solubilizing agent on gums and hydrophilic colloids to be used in food as stabilizing and thickening agents, when standards of identity do not preclude such use. The additive is used in an amount not to exceed 0.5 percent by weight of the gums or hydrophilic colloids.
+
+(d) As an emulsifying agent for cocoa fat in noncarbonated beverages containing cocoa, whereby the amount of the additive does not exceed 25 parts per million of the finished beverage.
+
+(e) As a dispersing agent in “cocoa with dioctyl sodium sulfosuccinate for manufacturing” that conforms to the provisions of § 163.117 of this chapter and the use limitations prescribed in § 172.520, in an amount not to exceed 0.4 percent by weight thereof.
+
+(f) As a processing aid and wetting agent in combination with α-hydro-*omega -*hydroxy - poly(oxyethylene) - poly-(oxypropylene) (53-59 moles) poly(oxyethylene) (14-16 moles) block copolymer, having a molecular weight range of 3,500-4,125 and a cloud point of 9 °C-12 °C in 10 percent aqueous solution, for fumaric acid used in fumaric acid-acidulated dry beverage base and in fumaric acid-acidulated fruit juice drinks, when standards of identity do not preclude such use. The labeling of the dry beverage base shall bear adequate directions for use, and the additives shall be used in such an amount that the finished beverage or fruit juice drink will contain not in excess of a total of 10 parts per million of the dioctyl sodium sulfosuccinate-block copolymer combination.
+
+[42 FR 14491, Mar. 15, 1977, as amended at 49 FR 10105, Mar. 19, 1984; 78 FR 71464, Nov. 29, 2013]

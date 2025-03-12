@@ -1,0 +1,5 @@
+##### § 27.58 Containers of 1 gallon (3.785 liters) or less. #####
+
+Labels on imported containers of distilled spirits, and on containers of imported distilled spirits bottled in customs custody, for sale at retail, are required to be covered by a certificate of label approval TTB Form 5100.31 issued pursuant to part 5 of this chapter. Containers of imported distilled spirits bottled after taxpayment and withdrawal from customs custody are required to be covered by a certificate of label approval or a certificate of exemption from label approval TTB Form 5100.31 issued pursuant to part 5 of this chapter. When distilled spirits are to be labeled under a certificate of exemption from label approval, the labels affixed to containers are required to conform to the provisions of part 19 of this chapter.
+
+[T.D. 6954, 33 FR 6818, May 4, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975]Editorial Note:For Federal Register citations affecting § 27.58, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

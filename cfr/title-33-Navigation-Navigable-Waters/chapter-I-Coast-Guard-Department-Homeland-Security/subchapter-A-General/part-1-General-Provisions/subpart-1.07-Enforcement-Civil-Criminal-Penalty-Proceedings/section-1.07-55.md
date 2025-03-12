@@ -1,0 +1,13 @@
+##### § 1.07-55 Hearing procedures. #####
+
+(a) The Hearing Officer must conduct a fair and impartial proceeding in which the party is given a full opportunity to be heard. At the outset of the hearing, the Hearing Officer insures that the party is aware of the nature of the proceeding and of the alleged violation, and of the provisions of the law or regulation allegedly violated.
+
+(b) The material in the case file pertinent to the issues to be determined by the Hearing Officer is presented. The party has the right to examine, and to respond to or rebut, this material. The party may offer any facts, statements, explanations, documents, sworn or unsworn testimony, or other exculpatory items which bear on appropriate issues, or which may be relevant to the size of an appropriate penalty. The Hearing Officer may require the authentication of any written exhibit or statement.
+
+(c) At the close of the party's presentation of evidence, the Hearing Officer may allow the introduction of rebuttal evidence. The Hearing Officer may allow the party to respond to any such evidence submitted.
+
+(d) In receiving evidence, the Hearing Officer is not bound by strict rules of evidence. In evaluating the evidence presented, the Hearing Officer must give due consideration to the reliability and relevance of each item of evidence.
+
+(e) The Hearing Officer may take notice of matters which are subject to a high degree of indisputability and are commonly known in the community or are ascertainable from readily available sources of known accuracy. Prior to taking notice of a matter, the Hearing Officer gives the party an opportunity to show why notice should not be taken. In any case in which notice is taken, the Hearing Officer places a written statement of the matters as to which notice was taken in the record, with the basis for such notice, including a statement that the party consented to notice being taken or a summary of the party's objections.
+
+(f) After the evidence in the case has been presented, the party may present argument on the issues in the case. The party may also request an opportunity to submit a written statement for consideration by the Hearing Officer and for further review. The Hearing Officer shall allow a reasonable time for submission of the statement and shall specify the date by which it must be received. If the statement is not received within the time prescribed, or within the limits of any extension of time granted by the Hearing Officer, the Hearing Officer renders his decision in the case.

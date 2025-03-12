@@ -1,0 +1,5 @@
+##### § 192.40 Eligibility for benefits. #####
+
+(a) A spouse or unmarried dependent child (including an unmarried dependent stepchild or adopted child) under 21 years of age of a captive as determined under subpart A of the subchapter shall be eligible for benefits under 192.41 of this subpart. (Certain limitations apply, however, to persons eligible for direct assistance through other programs of the Department of Veterans' Affairs under chapter 35 of title 38, United States Code).
+
+(b) A Principal designated as a captive under subpart A of this subchapter, who intends to change jobs or careers because of the captive experience and who desires additional training for this purpose, shall be eligible for benefits under § 192.42 of this part, unless the Secretary of the Department of Veterans' Affairs determines that such person is eligible to receive educational assistance for the additional training under either chapters 30, 32, 34, or 35, title 38 U.S.C.

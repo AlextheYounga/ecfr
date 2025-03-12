@@ -1,0 +1,5 @@
+##### § 28.310 Loss of specially denatured spirits in transit. #####
+
+Losses of specially denatured spirits withdrawn free of tax under this part during transportation from the bonded premises of the distilled spirits plant from which withdrawn to (a) the port of export, or (b) the foreign-trade zone, as the case may be, may be allowed if evidence satisfactory to the appropriate TTB officer establishes that such specially denatured spirits have not been unlawfully diverted, or lost by theft as the result of any connivance, collusion, fraud, or negligence on the part of the exporter, owner, consignor, consignee, bailee, or carrier, or the employees or agents of any of them. The giving of notice to the exporter, filing claims for allowance of loss, and action on the claims shall be, insofar as applicable, in accordance with the procedure prescribed in §§ 28.302 through 28.304.
+
+[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. TTB-8, 69 FR 3834, Jan. 27, 2004]

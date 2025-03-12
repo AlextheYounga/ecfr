@@ -1,0 +1,11 @@
+##### § 3.5 Procedures for identifying the designated agency component. #####
+
+(a)(1) The Center for Biologics Evaluation and Research, the Center for Devices and Radiological Health, and the Center for Drug Evaluation and Research have entered into agreements clarifying product jurisdictional issues. These guidance documents are on display in the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, and are entitled “Intercenter Agreement Between the Center for Drug Evaluation and Research and the Center for Devices and Radiological Health;” “Intercenter Agreement Between the Center for Devices and Radiological Health and the Center for Biologics Evaluation and Research;” “Intercenter Agreement Between the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research.” The availability of any amendments to these intercenter agreements will be announced by Federal Register notice.
+
+(2) These guidance documents describe the allocation of responsibility for categories of products or specific products. These intercenter agreements, and any amendments thereto, are nonbinding determinations designed to provide useful guidance to the public.
+
+(3) The sponsor of a premarket application or required investigational filing for a combination or other product covered by these guidance documents may contact the designated agency component identified in the intercenter agreement before submitting an application of premarket review or to confirm coverage and to discuss the application process.
+
+(b) For a combination product not covered by a guidance document or for a product where the agency component with primary jurisdiction is unclear or in dispute, the sponsor of an application for premarket review should follow the procedures set forth in § 3.7 to request a designation of the agency component with primary jurisdiction before submitting the application.
+
+[56 FR 58756, Nov. 21, 1991, as amended at 68 FR 24879, May 9, 2003]

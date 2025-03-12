@@ -1,0 +1,3 @@
+##### § 13.42 Notice of proposed revocation. #####
+
+Except as provided in § 13.51, when the appropriate TTB officer determines that a certificate of label approval, certificate of exemption from label approval, or distinctive liquor bottle approval has been issued for a label or bottle that is not in compliance with the laws or regulations, he or she must issue to the certificate holder a notice of proposed revocation. The notice must set forth the basis for the proposed revocation and must provide the certificate holder with 45 days from the date of receipt of the notice to present written arguments or evidence why the revocation should not occur.

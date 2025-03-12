@@ -1,0 +1,11 @@
+##### § 334.1215 Port Gardner, Everett Naval Base, naval restricted area, Everett, Washington. #####
+
+(a) *The area.* The waters of Port Gardner and East Waterway surrounding Naval Station Everett beginning at Point 1, a point near the northwest corner of Naval Station Everett at latitude 47°59′40″ North, longitude 122°13′23.5″ West and thence to latitude 47°59′40″ North, longitude 122°13′30″ West (Point 2); thence to latitude 47°59′20″ North, longitude 122°13′33″ West (Point 3); thence to latitude 47°59′13″ North, longitude 122°13′38″ West (Point 4); thence to latitude 47°59′05.5″ North, longitude 122°13′48.5″ West (Point 5); thence to latitude 47°58′51″ North, longitude 122°14′04″ West (Point 6); thence to latitude 47°58′45.5″ North, longitude 122°13′53″ West (Point 7); thence to latitude 47°58′45.5″ North, longitude 122°13′44″ West (Point 8); thence to latitude 47°58′48″ North, longitude 122°13′40″ West (Point 9); thence to latitude 47°58′59″ North, longitude 122°13′30″ West (Point 10); thence to latitude 47°59′14″ North, longitude 122°13′18″ West (Point 11); thence to latitude 47°59′13″ North, longitude 122°13′12″ West (Point 12); thence to latitude 47°59′20″ North, longitude 122°13′08″ West (Point 13); thence to latitude 47°59′20″ North, longitude 122°13′02.5″ West (Point 14), a point upon the Naval Station's shore in the northeast corner of East Waterway.
+
+(b) *The regulation.* (1) All persons and vessels are prohibited from entering the waters within the restricted area for any reason without prior written permission from the Commanding Officer of the Naval Station Everett.
+
+(2) Mooring, anchoring, fishing and/or recreational boating shall not be allowed within the restricted area without prior written permission from the Commanding Officer, Naval Station Everettt.
+
+(c) *Enforcement.* The regulation in this section, promulgated by the United States Army Corps of Engineers, shall be enforced by the Commanding Officer, Naval Station Everett and such agencies and persons as he/she shall designate.
+
+[67 FR 36525, May 24, 2002]

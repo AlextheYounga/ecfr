@@ -1,0 +1,5 @@
+##### § 28.61 Bond, Form 2734 (5100.25). #####
+
+If a specific lot of distilled spirits or wine is to be withdrawn without payment of tax, as authorized in § 28.91(a)(1), (2), (3), (5), or § 28.121(a), (b), (c), or (d), by a person other than the proprietor of the bonded premises, a specific bond on TTB Form 2734 (5100.25) shall be filed by the exporter, as provided in § 28.51. The penal sum of the bond shall not be less than the tax prescribed by law on the quantity of spirits or wine to be withdrawn. However, the maximum penal sum of the bond shall not exceed $200,000 but in no case shall the penal sum be less than $1,000.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1352, as amended, 1362, as amended, 1380, as amended, 1381, 1382 (26 U.S.C. 5175, 5214, 5362) sec. 3. Pub. L. 91-659, 84 Stat. 1965, as amended (26 U.S.C. 5066, 5370, 5371))[T.D. ATF-88, 46 FR 39815, Aug. 5, 1981, as amended by T.D. TTB-8, 69 FR 3832, Jan. 27, 2004]

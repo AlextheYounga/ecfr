@@ -1,0 +1,5 @@
+##### § 161.30 Declaration of quantity of contents on labels for canned oysters. #####
+
+(a) For many years packers of canned oysters in the Gulf area of the United States have labeled their output with a declaration of the drained weight of oysters in the containers. Packers in other areas have marketed canned oysters with a declaration of the total weight of the contents of the container. Investigation reveals that under present-day practice consumers generally do not discard the liquid packing medium, but use it as a part of the food. Section 403(e)(2) of the Federal Food, Drug, and Cosmetic Act and the regulations thereunder require food in package form to bear an accurate label statement of the quantity of food in the container.
+
+(b) It is concluded that compliance with the label declaration of quantity of contents requirement will be met by an accurate declaration of the total weight of the contents of the can. The requirements of § 161.145(c), establishing a standard of fill of container for canned oysters and specifying the statement of substandard fill for those canned oysters failing to meet that standard remain unaffected by this interpretation.

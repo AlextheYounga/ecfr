@@ -1,0 +1,29 @@
+##### § 230.431 Summary prospectuses. #####
+
+(a) A summary prospectus prepared and filed (except a summary prospectus filed by an open-end management investment company registered under the Investment Company Act of 1940) as part of a registration statement in accordance with this section shall be deemed to be a prospectus permitted under section 10(b) of the Act (15 U.S.C. 77j(b)) for the purposes of section 5(b)(1) of the Act (15 U.S.C. 77e(b)(1)) if the form used for registration of the securities to be offered provides for the use of a summary prospectus and the following conditions are met:
+
+(1)(i) The registrant is organized under the laws of the United States or any State or Territory or the District of Columbia and has its principal business operations in the United States or its territories; or
+
+(ii) The registrant is a foreign private issuer eligible to use Form F-2 (§ 239.32 of this chapter);
+
+(2) The registrant has a class of securities registered pursuant to section 12(b) of the Securities Exchange Act of 1934 or has a class of equity securities registered pursuant to section 12(g) of that Act or is required to file reports pursuant to section 15(d) of that Act;
+
+(3) The registrant: (i) Has been subject to the requirements of section 12 or 15(d) of the Securities Exchange Act of 1934 and has filed all the material required to be filed pursuant to sections 13, 14 or 15(d) of that Act for a period of at least thirty-six calendar months immediately preceding the filing of the registration statement; and (ii) has filed in a timely manner all reports required to be filed during the twelve calendar months and any portion of a month immediately preceding the filing of the registration statement and, if the registrant has used (during the twelve calendar months and any portion of a month immediately preceding the filing of the registration statement) Rule 12b-25(b) under the Securities Exchange Act of 1934 (§ 240.12b-25 of this chapter) with respect to a report or portion of a report, that report or portion thereof has actually been filed within the time period prescribed by that Rule; and
+
+(4) Neither the registrant nor any of its consolidated or unconsolidated subsidiaries has, since the end of its last fiscal year for which certified financial statements of the registrant and its consolidated subsidiaries were included in a report filed pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934: (i) failed to pay any dividend or sinking fund installment on preferred stock; or (ii) defaulted on any installment or installments on indebtedness for borrowed money, or on any rental on one or more long term leases, which defaults in the aggregate are material to the financial position of the registrant and its consolidated and unconsolidated subsidiaries, taken as a whole.
+
+(b) A summary prospectus shall contain the information specified in the instructions as to summary prospectuses in the form used for registration of the securities to be offered. Such prospectus may include any other information the substance of which is contained in the registration statement except as otherwise specifically provided in the instructions as to summary prospectuses in the form used for registration. It shall not include any information the substance of which is not contained in the registration statement except that a summary prospectus may contain any information specified in Rule 134(a) (§ 230.134(a)). No reference need be made to inapplicable terms and negative answers to any item of the form may be omitted.
+
+(c) All information included in a summary prospectus, other than the statement required by paragraph (e) of this section, may be expressed in such condensed or summarized form as may be appropriate in the light of the circumstances under which the prospectus is to be used. The information need not follow the numerical sequence of the items of the form used for registration. Every summary prospectus shall be dated approximately as of the date of its first use.
+
+(d) When used prior to the effective date of the registration statement, a summary prospectus shall be captioned a “Preliminary Summary Prospectus” and shall comply with the applicable requirements relating to a preliminary prospectus.
+
+(e) A statement to the following effect shall be prominently set forth in conspicuous print at the beginning or at the end of every summary prospectus:
+
+“Copies of a more complete prospectus may be obtained from” (Insert name(s), address(es) and telephone number(s)).Copies of a summary prospectus filed with the Commission pursuant to paragraph (g) of this section may omit the names of persons from whom the complete prospectus may be obtained.
+
+(f) Any summary prospectus published in a newspaper, magazine or other periodical need only be set in type at least as large as 7 point modern type. Nothing in this rule shall prevent the use of reprints of a summary prospectus published in a newspaper, magazine, or other periodical, if such reprints are clearly legible.
+
+(g) Eight copies of every proposed summary prospectus shall be filed as a part of the registration statement, or as an amendment thereto, at least 5 days (exclusive of Saturdays, Sundays and holidays) prior to the use thereof, or prior to the release for publication by any newspaper, magazine or other person, whichever is earlier. The Commission may, however, in its discretion, authorize such use or publication prior to the expiration of the 5-day period upon a written request for such authorization. Within 7 days after the first use or publication thereof, 5 additional copies shall be filed in the exact form in which it was used or published.
+
+[47 FR 11440, Mar. 16, 1982, as amended at 47 FR 54770, Dec. 6, 1982; 63 FR 13984, Mar. 23, 1998; 76 FR 71876, Nov. 21, 2011]

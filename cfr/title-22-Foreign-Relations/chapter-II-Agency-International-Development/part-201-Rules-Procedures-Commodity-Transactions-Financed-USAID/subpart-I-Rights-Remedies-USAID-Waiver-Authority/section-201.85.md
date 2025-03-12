@@ -1,0 +1,3 @@
+##### § 201.85 Legal effect of USAID approvals and decisions. #####
+
+In any transaction subject to this part 201, USAID may reserve certain rights to approve the transaction for USAID-financing. USAID, in reserving any approval rights, acts solely as a financing entity to assure the proper use of United States Government funds. Any decision by USAID to exercise or refrain from exercising these approval rights shall be made as a financier and shall not be construed as making USAID a party to the contract or incurring any liability to the parties jointly or to any of them.

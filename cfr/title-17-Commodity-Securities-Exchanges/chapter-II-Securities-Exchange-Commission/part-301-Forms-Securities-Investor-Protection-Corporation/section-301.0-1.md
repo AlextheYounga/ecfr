@@ -1,0 +1,3 @@
+##### § 301.0-1 Availability of forms. #####
+
+The forms prescribed for use under the Securities Investor Protection Act of 1970, as amended, (the “Act”) and under part 300 of this chapter are identified and described in this part. Copies of these forms may be obtained upon request to, as appropriate, the Securities Investor Protection Corporation (“SIPC”) at 900 Seventeenth Street, NW., Washington, DC 20006, or the trustee appointed in a liquidation proceeding under section 5 of the Act.

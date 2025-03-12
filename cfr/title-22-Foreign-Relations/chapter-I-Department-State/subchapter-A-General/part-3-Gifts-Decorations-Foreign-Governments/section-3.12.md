@@ -1,0 +1,3 @@
+##### § 3.12 Exemption of grants and other foreign government assistance in cultural exchange programs from coverage of foreign gifts and decorations legislation. #####
+
+The Act specifically excludes from its application grants and other forms of assistance “to which section 108A of the Mutual Educational and Cultural Exchange Act of 1961 applies”. See 22 U.S.C. 2558 (a) and (b) for the terms and conditions under which Congress consents to the acceptance by a Federal employee of grants and other forms of assistance provided by a foreign government to facilitate the participation of such employee in a cultural exchange.

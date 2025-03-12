@@ -1,0 +1,19 @@
+##### § 178.3690 Pentaerythritol adipate-stearate. #####
+
+Pentaerythritol adipate-stearate identified in paragraph (a) of this section may be safely used as a lubricant in the fabrication of rigid and semi-rigid polyvinyl chloride and/or vinyl chloride-propylene copolymers complying with § 177.1980 of this chapter used as articles or components of articles that contact food, excluding food with alcohol content greater than 8 percent under conditions of use of E, F, and G described in table 2 in § 175.300(d) of this chapter, subject to the provisions of this section.
+
+(a) *Identity.* For the purpose of this section, pentaerythritol adipate-stearate is an ester of pentaerythritol with adipic acid and stearic acid and its associated fatty acids (chiefly palmitic), with adipic acid comprising 14 percent and stearic acid and its associated acids (chiefly palmitic) comprising 71 percent of the organic moieties.
+
+(b) *Specifications.* Pentaerythritol adipate-stearate has the following specifications:
+
+(1) Melting point (dropping) of 55-58 °C as determined by ASTM method D566-76 (Reapproved 1982), “Standard Test Method for Dropping Point of Lubricating Grease,” which is incorporated by reference. Copies may be obtained from the American Society for Testing Materials, 100 Barr Harbor Dr., West Conshohocken, Philadelphia, PA 19428-2959, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(2) Acid value not to exceed 15 as determined by ASTM method D1386-78, “Standard Test Method for Saponification Number (Empirical) of Synthetic and Natural Waxes” (Revised 1978), which is incorporated by reference. Copies are available from American Society for Testing and Materials (ASTM), 100 Barr Harbor Dr., West Conshohocken, Philadelphia, PA 19428-2959, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(3) Saponification number of 270-280 as determined by ASTM method D1387-78, “Standard Test Method for Acid Number (Empirical) of Synthetic and Natural Waxes” (Revised 1978), which is incorporated by reference. Copies are available from American Society for Testing and Materials (ASTM), 100 Barr Harbor Dr., West Conshohocken, Philadelphia, PA 19428-2959, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(4) Iodine number not to exceed 2 as determined by Iodine Absorption Number, Hanus Method, of the “Official Methods of Analysis of the Association of Official Analytical Chemists,” sections 28.018-28.019, 13th Ed. (1980), which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) The total amount of ester (calculated as free pentaerythritol) shall not exceed 0.4 percent by weight of the polyvinyl chloride and/or the vinyl chloride-propylene copolymers complying with § 177.1980.
+
+[45 FR 1018, Jan. 4, 1980, as amended at 47 FR 11848, Mar. 19, 1982; 49 FR 10112, Mar. 19, 1984; 54 FR 24898, June 12, 1989; 57 FR 18082, Apr. 29, 1992; 70 FR 40880, July 15, 2005; 70 FR 67651, Nov. 8, 2005]

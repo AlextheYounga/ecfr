@@ -1,0 +1,5 @@
+##### § 41.253 Change in location or address. #####
+
+Whenever an importer of processed tobacco intends to relocate the principal business office, the importer must, before commencing operations at the new location, make application on TTB F 5230.5, and obtain an amended permit. Whenever any change occurs in the address, but not the location, of the principal business office of an importer of processed tobacco, as a result of action of local authorities, the importer must, within 30 days of such change, make application on TTB F 5230.5 for an amended permit. Whenever the importer wishes to change the location of the premises used for the storage of processed tobacco imported or received by the importer to an extent that would be inconsistent with the location information submitted with the importer's last permit application, the importer must apply for, and obtain, an amended permit before such a change in premises takes place.
+
+[T.D. TTB-78, 74 FR 29416, June 22, 2009, as amended by T.D. TTB-104, 77 FR 37304, June 21, 2012]

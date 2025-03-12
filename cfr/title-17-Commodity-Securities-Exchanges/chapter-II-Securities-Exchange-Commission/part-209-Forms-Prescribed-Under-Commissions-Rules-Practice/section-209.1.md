@@ -1,0 +1,11 @@
+##### § 209.1 Form D-A: Disclosure of assets and financial information. #####
+
+(a) Rules 410 and 630 of the Rules of Practice (17 CFR 201.410 and 201.630) provide that under certain circumstances a respondent who asserts or intends to assert an inability to pay disgorgement, interest or penalties may be required to disclose certain financial information. Unless otherwise ordered, this form may be used by individuals required to supply such information.
+
+(b) The respondent filing Form D-A is required promptly to notify the Commission of any material change in the answer to any question on this form.
+
+(c) Form D-A may not be withheld from the interested division. A respondent making financial information disclosures on this form after the institution of proceedings may make a motion, pursuant to Rule 322 of the Commission's Rules of Practice (17 CFR 201.322), for the issuance of a protective order to limit disclosure to the public or parties other than the interested division of the information submitted on Form D-A. A request for a protective order allows the requester an opportunity to justify the need for confidentiality. The making of a motion for a protective order, however, does not guarantee that disclosure will be limited.
+
+(d) No party receiving information for which a motion for a protective order has been made may transfer or convey the information to any other person prior to a ruling on the motion without the prior permission of the Commission or a hearing officer.
+
+(e) A person making financial information disclosures on Form D-A prior to the institution of proceedings, in connection with an offer of settlement or otherwise, may request confidential treatment of the information pursuant to the Freedom of Information Act. *See* the Commission's Freedom of Information Act (“FOIA”) regulations, 17 CFR 200.83. A request for confidential treatment allows the requester an opportunity to substantiate the need for confidentiality. No determination as to the validity of any request for confidential treatment will be made until a request for disclosure of the information under FOIA is received.

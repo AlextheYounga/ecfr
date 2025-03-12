@@ -1,0 +1,5 @@
+##### § 308.8 Rules of conduct. #####
+
+(a) The head of the agency shall assure that all persons involved in the design, development, operation or maintenance of any systems of records as defined herein are informed of all requirements necessary to protect the privacy of individuals who are the subject of such records. All employees shall be informed of all implications of the Act in this area including the criminal penalties provided under the Act, and the fact the agency may be subject to civil suit for failure to comply with the provisions of the Privacy Act and these regulations.
+
+(b) The head of the agency shall also ensure that all personnel having access to records receive adequate training in the protection of the security of personal records and that adequate and proper storage is provided for all such records with sufficient security to assure the privacy of such records.

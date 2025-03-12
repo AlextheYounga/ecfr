@@ -1,0 +1,3 @@
+##### § 96.200 Purpose. #####
+
+This subpart establishes the minimum standards that the safety management system of a company and its U.S. flag vessel(s) must meet for certification to comply with the requirements of 46 U.S.C. 3201-3205 and Chapter IX of SOLAS, 1974. It also permits companies with U.S. flag vessels that are not required to comply with this part to voluntarily develop safety management systems which can be certificated to standards consistent with Chapter IX of SOLAS.

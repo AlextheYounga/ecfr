@@ -1,0 +1,3 @@
+##### § 1422.21 Preferential voting. #####
+
+In any election in which more than two choices are on the ballot and no choice receives a majority of first preferences the Board shall distribute to the two choices having the most first preferences the preferences as between those two of the other valid ballots cast. The choice receiving a majority of preferences shall be declared the winner. A labor organization which is declared the winner of the election shall be certified by the Board as the exclusive representative.

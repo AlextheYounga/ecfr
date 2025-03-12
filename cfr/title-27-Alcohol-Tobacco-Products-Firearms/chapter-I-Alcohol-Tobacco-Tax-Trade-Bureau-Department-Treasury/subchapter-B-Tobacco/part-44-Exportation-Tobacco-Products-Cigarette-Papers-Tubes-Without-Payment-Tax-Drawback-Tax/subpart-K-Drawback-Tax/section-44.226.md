@@ -1,0 +1,5 @@
+##### § 44.226 Delivery of tobacco products, and cigarette papers and tubes for export by parcel post. #####
+
+Where the tobacco products, and cigarette papers and tubes are to be shipped by parcel post to a destination in a foreign country, Puerto Rico, the Virgin Islands, or a possession of the United States, a waiver of his right to withdraw such articles from the mails shall be stamped or written on each shipping container and be signed by the claimant, after which the claimant shall present the shipment to the post office. The claimant shall request the postmaster or his agent to execute the certificate of mailing on the copy of the claim, Form 5620.7, returned to the claimant by the appropriate TTB officer in accordance with § 44.224. When so executed by the postal authorities, the Form 5620.7 shall be transmitted at once to the appropriate TTB officer with whom the form was previously filed.
+
+(72 Stat. 1419; 26 U.S.C. 5706)[T.D. 6871, 31 FR 55, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28089, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-424, 64 FR 71933, Dec. 22, 1999]

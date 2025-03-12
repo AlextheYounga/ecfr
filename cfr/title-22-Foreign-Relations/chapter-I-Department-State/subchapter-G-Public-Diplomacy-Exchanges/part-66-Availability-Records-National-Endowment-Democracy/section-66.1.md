@@ -1,0 +1,3 @@
+##### § 66.1 Introduction. #####
+
+These regulations amend the Code of Federal Regulations to conform with Pub. L. 99-93. Pub. L. 99-93 amended the National Endowment for Democracy Act (22 U.S.C. 4411, et. seq.) to require the National Endowment for Democracy (hereinafter “NED”) to comply fully with the provisions of the Freedom of Information Act (5 U.S.C. 552) (hereinafter “FOIA”), notwithstanding that NED is not an agency or establishment of the United States Government. NED will make information about its operation, organization, procedures and records available to the public in accordance with the provisions of FOIA.

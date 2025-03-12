@@ -1,0 +1,3 @@
+##### § 9.30 Scope of review. #####
+
+On review, the Commission may, in its discretion, consider *sua sponte* any issues arising from the record before it and may base its determination thereon, or limit the issues to those presented in the statement of issues in the briefs, treating those issues not raised as waived. If the Commission determines to consider any issue not raised by the parties, it may issue an order that notifies the parties of such determination and provides an opportunity for the parties to address any issue considered *sua sponte* by the Commission.

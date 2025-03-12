@@ -1,0 +1,5 @@
+##### § 640.17 Modifications for specific products. #####
+
+Red Blood Cells Frozen: A cryophylactic substance may be added to the Red Blood Cells for extended manufacturers' storage at −65 °C or colder, provided the manufacturer submits data considered by the Director, Center for Biologics Evaluation and Research, as adequately demonstrating through in vivo cell survival and other appropriate tests that the addition of the substance, the materials used and the processing methods results in a final product that meets the required standards of safety, purity, and potency for Red Blood Cells, and that the frozen product will maintain those properties for the prescribed dating period. Section 640.11 (a) and (b) do not apply while a cryophylactic substance is present.
+
+[38 FR 32089, Nov. 20, 1973, as amended at 41 FR 18292, May 3, 1976; 49 FR 23834, June 8, 1984; 50 FR 4139, Jan. 29, 1985; 55 FR 11013, Mar. 26, 1990; 63 FR 16685, Apr. 6, 1998]

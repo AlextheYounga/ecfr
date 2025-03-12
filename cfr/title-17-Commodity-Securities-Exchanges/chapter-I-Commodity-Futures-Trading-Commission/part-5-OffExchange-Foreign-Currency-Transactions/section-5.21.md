@@ -1,0 +1,3 @@
+##### § 5.21 Supervision. #####
+
+Each Commission registrant subject to this part 5, except an associated person who has no supervisory duties, must diligently supervise the handling by its partners, officers, employees and agents (or persons occupying a similar status or performing a similar function) of all retail forex accounts carried, operated, advised or introduced by the registrant and all other activities of its partners, officers, employees and agents (or persons occupying a similar status or performing a similar function) relating to its business as a Commission registrant.

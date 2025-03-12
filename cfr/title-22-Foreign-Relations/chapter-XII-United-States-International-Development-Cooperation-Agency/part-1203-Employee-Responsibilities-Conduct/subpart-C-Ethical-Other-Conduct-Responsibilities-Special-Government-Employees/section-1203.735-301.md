@@ -1,0 +1,3 @@
+##### § 1203.735-301 Conflicts of interest. #####
+
+Special Government employees are subject to the conflicts of interest statutes (18 U.S.C. 202). An explanation of these conflicts of interest statutes their effects upon special Government employees and guidelines for obtaining and utilizing the services of special Government employees are in appendix C of chapter 735 of the Federal Personnel Manual. A special Government employee shall not have a direct or indirect financial interest that conflicts substantially, or appears to conflict substantially, with Government duties and responsibilities.

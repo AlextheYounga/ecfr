@@ -1,0 +1,3 @@
+##### § 200.29 Rules. #####
+
+The individual operating divisions shall have the initial responsibility for proposing amendments to existing rules or new rules under the statutory provisions within the jurisdiction of the particular division. Where any such proposals presents a legal problem or is a matter of first impression, or involves a matter of enforcement policy or questions involving statutes other than those administered by the Commission, or may have an effect on prior judicial precedent or pending litigation, submission of the proposal should be made to the Office of the General Counsel for an expression of opinion prior to presentation of the matter to the Commission.

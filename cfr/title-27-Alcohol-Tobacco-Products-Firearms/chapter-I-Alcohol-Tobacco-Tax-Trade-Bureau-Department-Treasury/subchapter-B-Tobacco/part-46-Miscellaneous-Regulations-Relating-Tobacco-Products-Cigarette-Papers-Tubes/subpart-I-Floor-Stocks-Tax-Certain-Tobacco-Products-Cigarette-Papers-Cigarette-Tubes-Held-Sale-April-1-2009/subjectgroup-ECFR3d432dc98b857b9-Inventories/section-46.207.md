@@ -1,0 +1,3 @@
+##### § 46.207 Articles held in bond. #####
+
+If the dealer is a manufacturer or an export warehouse proprietor and holds articles in TTB bond on April 1, 2009, the floor stocks tax does not apply to those articles. Likewise, if the dealer holds articles in a customs bonded warehouse on which tax has not been paid or determined, the floor stocks tax does not apply on those articles. However, if the dealer on April 1, 2009, holds articles in a customs bonded warehouse or foreign trade zone on which tax has been paid or determined pursuant to 26 U.S.C. 5703(b)(2)(B), the floor stocks tax applies to those articles.

@@ -1,0 +1,3 @@
+##### § 176.250 Poly-1,4,7,10,13-pentaaza-15-hydroxyhexadecane. #####
+
+Poly-1,4,7,10,13-pentaaza-15-hydrox-yhexadecane may be safely used as a retention aid employed prior to the sheet-forming operation in the manufacture of paper and paperboard intended for use in contact with food in an amount not to exceed that necessary to accomplish the intended physical or technical effect and not to exceed 6 pounds per ton of finished paper or paperboard.

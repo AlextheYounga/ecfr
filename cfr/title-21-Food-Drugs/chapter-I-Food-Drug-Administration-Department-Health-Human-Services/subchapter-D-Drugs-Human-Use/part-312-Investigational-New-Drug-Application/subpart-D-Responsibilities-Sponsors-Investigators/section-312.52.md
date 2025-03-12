@@ -1,0 +1,5 @@
+##### § 312.52 Transfer of obligations to a contract research organization. #####
+
+(a) A sponsor may transfer responsibility for any or all of the obligations set forth in this part to a contract research organization. Any such transfer shall be described in writing. If not all obligations are transferred, the writing is required to describe each of the obligations being assumed by the contract research organization. If all obligations are transferred, a general statement that all obligations have been transferred is acceptable. Any obligation not covered by the written description shall be deemed not to have been transferred.
+
+(b) A contract research organization that assumes any obligation of a sponsor shall comply with the specific regulations in this chapter applicable to this obligation and shall be subject to the same regulatory action as a sponsor for failure to comply with any obligation assumed under these regulations. Thus, all references to “sponsor” in this part apply to a contract research organization to the extent that it assumes one or more obligations of the sponsor.

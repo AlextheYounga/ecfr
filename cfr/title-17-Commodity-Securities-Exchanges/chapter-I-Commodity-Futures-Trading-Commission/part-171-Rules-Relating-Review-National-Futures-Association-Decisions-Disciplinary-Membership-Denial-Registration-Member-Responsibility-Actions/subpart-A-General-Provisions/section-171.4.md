@@ -1,0 +1,5 @@
+##### § 171.4 Computation of time. #####
+
+(a) *In general.* In computing any period of time prescribed by these rules or allowed by the Commission, the day of the act, event, or default from which the designated period of time begins to run is not to be included. The last day of the period so computed is to be included unless it is a Saturday, a Sunday, or a legal holiday. In the latter circumstances, the period runs until the end of the next day which is not a Saturday, a Sunday, or a legal holiday. Intermediate Saturdays, Sundays, and legal holidays shall be included in the computation unless the period of time prescribed or allowed is less than seven (7) days.
+
+(b) *Date of service of orders.* In computing any period of time involving the date of service of an order, the date of service shall be the date the order is mailed or hand delivered by the Proceedings Clerk, which, unless otherwise indicated, shall be the date stamped on the order by the Proceedings Clerk.

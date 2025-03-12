@@ -1,0 +1,29 @@
+##### § 26.200 Taxable status. #####
+
+(a) Liquors coming into the United States from the Virgin Islands, except as provided in § 26.201, are subject to a tax equal to the internal revenue tax imposed upon the production in the United States of like liquors. Articles coming into the United States from the Virgin Islands, except as provided in § 26.201, are subject to tax on the liquors contained therein at the rates imposed in the United States on like liquors of domestic production.
+
+(b) The excise taxes collected on distilled spirits and articles containing distilled spirits shall be deposited into the Treasury of the Virgin Islands only if at least 92 percent of the alcoholic content of such product is rum. The amount deposited into the Treasury of the Virgin Islands shall not exceed the lesser of $10.50, or the rate imposed by 26 U.S.C. 5001(a)(1) (including adjustments to the effective tax rate under 26 U.S.C. 5010), on each proof gallon of such distilled spirits or article containing distilled spirits coming into the United States. Such excise tax payments to the Treasury of the Virgin Islands will be reduced by one percent and the estimated amount of refunds or credits, and may be further reduced by certain amounts deposited to the U.S. Treasury as miscellaneous receipts. The moneys so transferred and paid over shall constitute a separate fund in the Treasury of the Virgin Islands, and may be expended as the Virgin Islands legislature may determine.
+
+(c) Except for products described in 26 U.S.C. 7652(c), no excise taxes shall be deposited into the Treasury of the Virgin Islands if an excise tax subsidy is provided by the Virgin Islands that is of a kind different from, or in an amount per value or volume of production greater than, any subsidy offered by the Virgin Islands to industries manufacturing products not subject to Federal excise tax.
+
+(d) Internal revenue taxes payable on liquors brought into the United States from the Virgin Islands are collected by U.S. Customs and Border Protection (CBP) in accordance with CBP requirements. The tax must be paid on the basis of a return, and the customs form (including any electronic transmissions) by which the liquors are duty- and tax-paid to CBP will be treated as a return for purposes of this part. The person bringing such liquors into the United States, if filing electronically, must file the information specified in this section with the entry or entry summary, as appropriate, along with any other information that is required by CBP to be filed with the entry or entry summary for purposes of administering the provisions of the Internal Revenue Code and Federal Alcohol Administration Act (FAA Act). Any information required by this section that is also required by, and filed with, CBP as part of the entry or entry summary for purposes of meeting CBP requirements will satisfy the requirements of this section. The following information is required as described under this section:
+
+(1) The permit number of the valid importer permit issued under the FAA Act and the regulations issued pursuant to the FAA Act (27 CFR part 1), if applicable, as required by 27 CFR 1.20 and 1.58, and the importer's name, address, and employer identification number (EIN) associated with that permit;
+
+(2) The TTB-assigned number of the valid certificate of label approval (COLA), if applicable, as required by 27 CFR 4.40 in the case of wine, 27 CFR 5.51 in the case of distilled spirits, and 27 CFR 7.31 in the case of malt beverages;
+
+(3) The name and address of the ultimate consignee;
+
+(4) The quantity of each product (for distilled spirits, in proof liters or proof gallons; for wine and beer, in liters or gallons); and
+
+(5) Information identifying each product for Internal Revenue Code and/or FAA Act purposes.
+
+(e) Distilled spirits, natural wines, and beer in bulk containers may be released from customs custody without payment of tax under the provisions of subpart Oa of this part and thereafter removed subject to tax from internal revenue bonded premises. The tax will be collected and paid under the provisions of parts 19, 24, and 25 of this chapter, respectively.
+
+(f)(1) Except as provided in paragraph (f)(2) of this section, in the case of an entry for warehousing (that is, products transferred directly to a customs bonded warehouse or foreign trade zone), the last day for payment of the tax shall not be later than the 14th day after the last day of the semimonthly period during which the products are removed from the first such warehouse, even if the products have been removed from that customs bonded warehouse or foreign trade zone for transfer to another customs bonded warehouse or foreign trade zone.
+
+(2) Paragraph (f)(1) of this section does not apply to any distilled spirits, wines, or beer entered for warehousing and then removed for transfer to another customs bonded warehouse or foreign trade zone that is shown to the satisfaction of the Secretary to be destined for export.
+
+(g) Regardless of the method of filing, the person bringing the liquors into the United States must retain as a record the information required by this section, any information provided to CBP to meet CBP requirements, and any supporting documentation. These records must be retained in accordance with the record retention requirements of § 26.276, and the records must be made available upon request of the appropriate TTB officer or a customs officer.
+
+(26 U.S.C. 5001, 5054, 5061, 5232, 5364, 5418, 7652)(Approved by the Office of Management and Budget under control number 1513-0064)[T.D. ATF-175, 49 FR 20804, May 16, 1984, as amended by T.D. ATF-206, 50 FR 15888, Apr. 23, 1985. Redesignated and amended by T.D. ATF-459, 66 FR 38550, 38552, July 25, 2001; T.D. TTB-145, 81 FR 94200, Dec. 22, 2016]

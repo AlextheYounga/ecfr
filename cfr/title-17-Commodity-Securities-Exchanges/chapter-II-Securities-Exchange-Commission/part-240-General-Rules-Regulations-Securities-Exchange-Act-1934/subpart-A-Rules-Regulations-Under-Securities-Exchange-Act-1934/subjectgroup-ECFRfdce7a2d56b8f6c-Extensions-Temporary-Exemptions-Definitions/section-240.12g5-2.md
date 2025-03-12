@@ -1,0 +1,5 @@
+##### § 240.12g5-2 Definition of “total assets”. #####
+
+For the purpose of section 12(g)(1) of the Act, the term *total assets* shall mean the total assets as shown on the issuer's balance sheet or the balance sheet of the issuer and its subsidiaries consolidated, whichever is larger, as required to be filed on the form prescribed for registration under this section and prepared in accordance with the pertinent provisions of Regulation S-X (17 CFR part 210). Where the security is a certificate of deposit, voting trust certificate, or certificate or other evidence of interest in a similar trust or agreement, the “total assets” of the issuer of the security held under the trust or agreement shall be deemed to be the “total assets” of the issuer of such certificate or evidence of interest.
+
+(Sec. 3, 48 Stat. 882, as amended, sec. 3, 78 Stat. 566; 15 U.S.C. 78c, 78*l*)[30 FR 484, Jan. 14, 1965]

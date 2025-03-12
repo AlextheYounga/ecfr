@@ -1,0 +1,3 @@
+##### § 10.22 Employee associations. #####
+
+Gifts, donations, and other payments such as for advertising in publications, by an industry member, to trade buyer employee associations are considered the same as bonuses, premiums, compensation, or other things of value given directly to the employees, since the benefits resulting from the gifts or payments flow to the individual members of the association.

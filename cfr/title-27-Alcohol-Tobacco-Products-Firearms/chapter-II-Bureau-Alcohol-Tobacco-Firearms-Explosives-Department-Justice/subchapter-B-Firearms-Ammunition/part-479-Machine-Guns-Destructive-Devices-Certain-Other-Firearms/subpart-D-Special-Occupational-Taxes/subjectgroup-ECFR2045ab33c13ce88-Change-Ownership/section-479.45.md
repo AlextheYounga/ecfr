@@ -1,0 +1,3 @@
+##### § 479.45 Changes in corporation. #####
+
+Additional special (occupational) tax is not required by reason of a mere change of name or increase in the capital stock of a corporation if the laws of the State of incorporation provide for such change or increase without the formation of a new corporation. A stockholder in a corporation who after its dissolution continues the business, incurs new special (occupational) tax liability.

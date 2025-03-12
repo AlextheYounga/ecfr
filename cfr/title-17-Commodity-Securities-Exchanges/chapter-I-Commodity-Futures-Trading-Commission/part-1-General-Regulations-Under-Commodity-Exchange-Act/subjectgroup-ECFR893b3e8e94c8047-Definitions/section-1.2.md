@@ -1,0 +1,3 @@
+##### § 1.2 Liability of principal for act of agent. #####
+
+The act, omission, or failure of any official, agent, or other person acting for any individual, association, partnership, corporation, or trust, within the scope of his employment or office, shall be deemed the act, omission, or failure of such individual, association, partnership, corporation, or trust as well as of such official, agent, or other person.

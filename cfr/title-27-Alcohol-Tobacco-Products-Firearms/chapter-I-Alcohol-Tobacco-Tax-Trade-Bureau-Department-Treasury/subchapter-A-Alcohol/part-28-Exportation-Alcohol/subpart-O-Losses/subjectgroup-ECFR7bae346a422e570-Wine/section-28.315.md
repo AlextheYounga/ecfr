@@ -1,0 +1,5 @@
+##### § 28.315 Loss of wine in transit. #####
+
+The tax on wine withdrawn without payment of tax under this part and which is lost during transportation from the bonded wine cellar from which withdrawn to (a) the port of export, (b) the vessel or aircraft, (c) the foreign-trade zone, (d) the manufacturing bonded warehouse, or (e) the customs bonded warehouse, as the case may be, may be remitted if evidence satisfactory to the appropriate TTB officer establishes that such wine has not been unlawfully diverted, or lost by theft with connivance, collusion, fraud, or negligence on the part of the exporter, owner, consignor, consignee, bailee, or carrier or the employees or agents of any of them. However, the remission of tax on wine withdrawn without payment of tax under this part and which is lost while in transit may be allowed only to the extent that the claimant is not indemnified or recompensed for such tax.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, 1382 (26 U.S.C. 5370, 5371))[T.D. ATF-88, 46 FR 39816, Aug. 5, 1981, as amended by T.D. TTB-8, 69 FR 3834, Jan. 27, 2004]

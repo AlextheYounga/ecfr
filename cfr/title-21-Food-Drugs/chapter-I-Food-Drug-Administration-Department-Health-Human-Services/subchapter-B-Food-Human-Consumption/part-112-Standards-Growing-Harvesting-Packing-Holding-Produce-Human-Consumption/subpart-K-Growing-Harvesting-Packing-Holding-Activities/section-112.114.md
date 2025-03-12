@@ -1,0 +1,3 @@
+##### § 112.114 What requirements apply to dropped covered produce? #####
+
+You must not distribute dropped covered produce. Dropped covered produce is covered produce that drops to the ground before harvest. Dropped covered produce does not include root crops that grow underground (such as carrots), crops that grow on the ground (such as cantaloupe), or produce that is intentionally dropped to the ground as part of harvesting (such as almonds).

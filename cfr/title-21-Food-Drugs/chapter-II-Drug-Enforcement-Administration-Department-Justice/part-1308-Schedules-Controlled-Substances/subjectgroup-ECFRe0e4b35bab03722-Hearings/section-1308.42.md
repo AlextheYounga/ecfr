@@ -1,0 +1,5 @@
+##### § 1308.42 Purpose of hearing. #####
+
+If requested by any interested person after proceedings are initiated pursuant to § 1308.43, the Administrator shall hold a hearing for the purpose of receiving factual evidence and expert opinion regarding the issues involved in the issuance, amendment or repeal of a rule issuable pursuant to section 201(a) of the Act (21 U.S.C. 811(a)). Extensive argument should not be offered into evidence but rather presented in opening or closing statements of counsel or in memoranda or proposed findings of fact and conclusions of law. Additional information relating to hearings to include waivers or modification of rules, request for hearing, burden of proof, time and place, and final order are set forth in part 1316 of this chapter.
+
+[62 FR 13968, Mar. 24, 1997]

@@ -1,0 +1,11 @@
+##### § 25.51 Environmental assessments and findings of no significant impact. #####
+
+(a) Data and information that are protected from disclosure by 18 U.S.C. 1905 or 21 U.S.C. 331(j) or 360j(c) shall not be included in the portion of environmental documents that is made public. When such data and information are pertinent to the environmental review of a proposed action, an applicant or petitioner shall submit such data and information separately in a confidential section and shall summarize the confidential data and information in the EA to the extent possible.
+
+(b) FONSI's and EA's will be available to the public in accordance with 40 CFR 1506.6 as follows:
+
+(1) When the proposed action is the subject of a notice of proposed rulemaking or a notice of filing published in the Federal Register, the notice shall state that no EIS is necessary and that the FONSI and the EA are available for public inspection at FDA's Division of Dockets Management. If the responsible agency official is unable to complete environmental consideration of the proposed action before a notice of filing of a food or color additive petition is required to be published under the act, and if the subsequent environmental analysis leads to the conclusion that no EIS is necessary, the final regulation rather than the notice of filing shall state that no EIS is necessary and that the FONSI and the EA are available upon request and filed in FDA's Division of Dockets Management.
+
+(2) For actions for which notice is not published in the Federal Register, the FONSI and the EA shall be made available to the public upon request according to the procedures in 40 CFR 1506.6.
+
+(3) For a limited number of actions, the agency may make the FONSI and EA available for public review (including review by State and areawide information clearinghouses) for 30 days before the agency makes its final determination whether to prepare an EIS and before the action may begin, as described in 40 CFR 1501.4(e). This procedure will be followed when the proposed action is, or is closely similar to, one that normally requires an EIS or when the proposed action is one without precedent.

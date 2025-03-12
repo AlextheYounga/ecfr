@@ -1,0 +1,3 @@
+##### § 10.6 Changes in time permitted for filing. #####
+
+Except as otherwise provided by law or by these rules, for good cause shown the Commission or the Presiding Officer before whom a matter is then pending, on their own motion or the motion of a party, at any time may extend or shorten the time limit prescribed by the rules for filing any document. In any instance in which a time limit is not prescribed for an action to be taken in a proceeding, the Commission or the Presiding Officer may set a time limit for that action.

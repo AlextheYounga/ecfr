@@ -1,0 +1,5 @@
+##### § 46.103 Time for filing return and paying tax. #####
+
+The return, along with remittance of special tax, must be filed on or before the date of commencing business as a manufacturer of tobacco products, manufacturer of cigarette papers or tubes, or export warehouse proprietor, and thereafter every year on or before July 1. If the return and applicable tax are received in the mail and the U.S. postmark on the cover shows that it was deposited in the mail in the United States within the time prescribed for filing in an envelope or other appropriate wrapper which was properly addressed with postage prepaid, the return will be considered as timely filed. If the postmark is not legible, the sender has the burden of proving the date when the postmark was made. When registered mail is used, the date of registration will be accepted as the postmark date. When certified mail is used, the date of the postmark on the sender's receipt of certified mail is treated as the postmark date.
+
+(26 U.S.C. 5732, 6011, 6071)

@@ -1,0 +1,15 @@
+##### § 96.13 Circumstances in which accreditation, approval, or supervision is not required. #####
+
+(a) *Home studies and child background studies.* Home studies and child background studies, when performed by exempted providers, may be performed without accreditation, approval, or supervision; provided, however, that an exempted provider's home study must be approved by an accredited agency in accordance with § 96.47(c), and an exempted provider's child background study must be approved by an accredited agency in accordance with § 96.53(b).
+
+(b) *Child welfare services.* An agency or person does not need to be accredited, approved, or operate as a supervised provider if it is providing only child welfare services, and not providing any adoption services, in connection with an intercountry adoption. If the agency or person provides both a child welfare service and any adoption service in the United States in an intercountry adoption case, it must be accredited, approved or operate as a supervised provider unless the only adoption service provided is preparation of a home study and/or a child background study.
+
+(c) *Legal services.* An agency or person does not need to be accredited, approved, or to operate as a supervised provider if it is providing only legal services, and not providing any adoption services, in connection with an intercountry adoption. If the agency or person provides both a legal service and any adoption service in the United States in an intercountry adoption case, it must be accredited, approved or operate as a supervised provider unless the only adoption service provided is preparation of a home study and/or a child background study. Nothing in this part shall be construed:
+
+(1) To permit an attorney to provide both legal services and adoption services in an adoption case where doing so is prohibited by State law; or
+
+(2) To require any attorney who is providing one or more adoption services as part of his or her employment by a public domestic authority to be accredited or approved or operate as a supervised provider.
+
+(d) *Prospective adoptive parent(s) acting on own behalf.* Prospective adoptive parent(s) may act on their own behalf without being accredited, or approved unless so acting is prohibited by State law or the law of the foreign country. In the case of a child immigrating to the United States in connection with his or her adoption, such conduct must be permissible under the laws of the State in which the prospective adoptive parent(s) reside and the laws of the foreign country from which the parent(s) seek to adopt. In the case of a child emigrating from the United States in connection with his or her adoption, such conduct must be permissible under the laws of the State where the child resides and the laws of the Convention country in which the parent(s) reside.
+
+[71 FR 8131, Feb. 15, 2006, as amended at 79 FR 40633, July 14, 2014]

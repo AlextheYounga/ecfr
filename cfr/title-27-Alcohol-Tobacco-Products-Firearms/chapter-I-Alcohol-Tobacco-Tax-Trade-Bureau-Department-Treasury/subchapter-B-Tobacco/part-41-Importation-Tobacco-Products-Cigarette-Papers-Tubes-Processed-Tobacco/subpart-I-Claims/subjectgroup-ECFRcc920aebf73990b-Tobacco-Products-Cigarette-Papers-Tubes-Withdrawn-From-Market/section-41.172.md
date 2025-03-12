@@ -1,0 +1,9 @@
+##### § 41.172 Return to nontaxpaid status, action by taxpayer. #####
+
+(a) *General.* Where tobacco products and cigarette papers and tubes which have been imported or brought into the United States are withdrawn from the market and the taxpayer desires to file a claim for refund of the tax on the articles and return them to a nontaxpaid status, he shall, in addition to the requirements of § 41.163, assemble the articles in or adjacent to the factory in which the articles are to be retained or received in a nontaxpaid status. The taxpayer shall group the articles according to the rates of tax applicable to the articles, and shall prepare a schedule of the articles, on Form 5200.7, in triplicate. All copies of the schedule shall be forwarded to the appropriate TTB officer.
+
+(b) *Large cigars.* Refund or credit of tax on large cigars withdrawn from the market is limited to the lowest tax applicable to that brand and size of cigar during the required record retention period (see § 41.22) except where the importer establishes that a greater amount was actually paid. For each claim involving large cigars withdrawn from the market, the importer must include a certification on either TTB Form 5200.7 or TTB Form 2635 (5620.8) to read as follows:
+
+The amounts claimed relating to large cigars are based on the lowest sale price applicable to the cigars during the required record retention period, except where specific documentation is submitted with the claim to establish that any greater amount of tax claimed was actually paid.
+
+(See 26 U.S.C. 5705)[T.D. ATF-80, 46 FR 18311, Mar. 24, 1981, and amended by T.D. ATF-232, 51 FR 28087, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-251, 52 FR 19341, May 22, 1987; T.D. ATF-307, 55 FR 52745, Dec. 21, 1990; T.D. ATF-424, 64 FR 71933, Dec. 22, 1999; T.D. ATF-420, 64 FR 71944, Dec. 22, 1999. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

@@ -1,0 +1,5 @@
+##### § 1.07-50 Witnesses. #####
+
+A party may present the testimony of any witness either through a personal appearance or through a written statement. The party may request the assistance of the Hearing Officer in obtaining the personal appearance of a witness. The request must be in writing and state the reasons why a written statement would be inadequate, the issue or issues to which the testimony would be relevant, and the substance of the expected testimony. If the Hearing Officer determines that the personal appearance of the witness may materially aid in the decision on the case, the Hearing Officer seeks to obtain the witness' appearance. Because many statutes prescribing civil penalties do not provide subpoena power, there may be cases where a witness cannot be required to attend. In such a case, the Hearing Officer may move the hearing to the witness' location, accept a written statement, or accept a stipulation in lieu of testimony. If none of these procedures is practical, the Hearing Officer shall proceed on the basis of the evidence before him.
+
+[CGD 78-82, 43 FR 54186, Nov. 20, 1978, as amended by USCG-2002-12471, 67 FR 41331, June 18, 2002]

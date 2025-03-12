@@ -1,0 +1,7 @@
+##### § 1240.65 Psittacine birds. #####
+
+(a) The term psittacine birds shall include all birds commonly known as parrots, Amazons, Mexican double heads, African grays, cocatoos, macaws, parakeets, love birds, lories, lorikeets, and all other birds of the psittacine family.
+
+(b) No person shall transport, or offer for transportation, in interstate traffic any psittacine bird unless the shipment is accompanied by a permit from the State health department of the State of destination where required by such department.
+
+(c) Whenever the Surgeon General finds that psittacine birds or human beings in any area are infected with psittacosis and there is such danger of transmission of psittacosis from such area as to endanger the public health, he may declare it an area of infection. No person shall thereafter transport, or offer for transportation, in interstate traffic any psittacine bird from such area, except shipments authorized by the Surgeon General for purposes of medical research and accompanied by a permit issued by him, until the Surgeon General finds that there is no longer any danger of transmission of psittacosis from such area. As used in this paragraph, the term “area” includes, but is not limited to, specific premises or buildings.

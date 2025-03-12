@@ -1,0 +1,3 @@
+##### § 1002.4 Confidentiality of information. #####
+
+The Secretary or his representative shall not disclose any information reported to or otherwise obtained by him, pursuant to this part, which concerns or relates to a trade secret or other matter referred to in section 1905 of title 18 of the United States Code, except that such information may be disclosed to other officers or employees of the Department and of the other agencies concerned with carrying out the requirements of the Act. Nothing in this section shall authorize the withholding of information by the Secretary, or by any officers or employees under his control, from the duly authorized committees of the Congress.

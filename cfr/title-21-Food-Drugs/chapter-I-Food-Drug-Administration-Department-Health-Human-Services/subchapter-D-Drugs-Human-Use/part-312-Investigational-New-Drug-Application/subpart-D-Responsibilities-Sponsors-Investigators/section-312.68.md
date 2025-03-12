@@ -1,0 +1,3 @@
+##### § 312.68 Inspection of investigator's records and reports. #####
+
+An investigator shall upon request from any properly authorized officer or employee of FDA, at reasonable times, permit such officer or employee to have access to, and copy and verify any records or reports made by the investigator pursuant to § 312.62. The investigator is not required to divulge subject names unless the records of particular individuals require a more detailed study of the cases, or unless there is reason to believe that the records do not represent actual case studies, or do not represent actual results obtained.

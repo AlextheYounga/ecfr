@@ -1,0 +1,283 @@
+##### § 230.405 Definitions of terms. #####
+
+Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494, inclusive, or in the forms for registration have the same meanings as in the Act and in the general rules and regulations. In addition, the following definitions apply, unless the context otherwise requires:
+
+*Affiliate.* An *affiliate* of, or person *affiliated* with, a specified person, is a person that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the person specified.
+
+*Amount.* The term *amount,* when used in regard to securities, means the principal amount if relating to evidences of indebtedness, the number of shares if relating to shares, and the number of units if relating to any other kind of security.
+
+*Associate.* The term *associate,* when used to indicate a relationship with any person, means (1) a corporation or organization (other than the registrant or a majority-owned subsidiary of the registrant) of which such person is an officer or partner or is, directly or indirectly, the beneficial owner of 10 percent or more of any class of equity securities, (2) any trust or other estate in which such person has a substantial benefical interest or as to which such person serves as trustee or in a similar capacity, and (3) any relative or spouse of such person, or any relative of such spouse, who has the same home as such person or who is a director or officer of the registrant or any of its parents or subsidiaries.
+
+*Automatic shelf registration statement.* The term *automatic shelf registration statement* means a registration statement filed on Form S-3 or Form F-3 (§ 239.13 or § 239.33 of this chapter) by a well-known seasoned issuer pursuant to General Instruction I.D. or I.C. of such forms, respectively.
+
+*Business combination related shell company.* The term *business combination related shell company* means a shell company (as defined in § 230.405) that is:
+
+(1) Formed by an entity that is not a shell company solely for the purpose of changing the corporate domicile of that entity solely within the United States; or
+
+(2) Formed by an entity that is not a shell company solely for the purpose of completing a business combination transaction (as defined in § 230.165(f)) among one or more entities other than the shell company, none of which is a shell company.
+
+*Business development company.* The term *business development company* refers to a company which has elected to be regulated as a business development company under sections 55 through 65 of the Investment Company Act of 1940.
+
+*Certified.* The term *certified,* when used in regard to financial statements, means examined and reported upon with an opinion expressed by an independent public or certified public accountant.
+
+*Charter.* The term *charter* includes articles of incorporation, declarations of trust, articles of association or partnership, or any similar instrument, as amended, affecting (either with or without filing with any governmental agency) the organization or creation of an incorporated or unincorporated person.
+
+*Common equity.* The term *common equity* means any class of common stock or an equivalent interest, including but not limited to a unit of beneficial interest in a trust or a limited partnership interest.
+
+*Commission.* The term *Commission* means the Securities and Exchange Commission.
+
+*Control.* The term *control* (including the terms *controlling, controlled by* and *under common control with*) means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, by contract, or otherwise.
+
+*Depositary share.* The term *depositary share* means a security, evidenced by an American Depositary Receipt, that represents a foreign security or a multiple of or fraction thereof deposited with a depositary.
+
+*Director.* The term *director* means any director of a corporation or any person performing similar functions with respect to any organization whether incorporated or unincorporated.
+
+*Dividend or interest reinvestment plan.* The term *dividend or interest reinvestment plan* means a plan which is offered solely to the existing security holders of the registrant, which allows such persons to reinvest dividends or interest paid to them on securities issued by the registrant, and also may allow additional cash amounts to be contributed by the participants in the plan, provided the securities to be registered are newly issued, or are purchased for the account of plan participants, at prices not in excess of current market prices at the time of purchase, or at prices not in excess of an amount determined in accordance with a pricing formula specified in the plan and based upon average or current market prices at the time of purchase.
+
+*Electronic filer.* The term *electronic filer* means a person or an entity that submits filings electronically pursuant to Rules 100 and 101 of Regulation S-T (§§ 232.100 and 232.101 of this chapter, respectively).
+
+*Electronic filing.* The term *electronic filing* means a document under the federal securities laws that is transmitted or delivered to the Commission in electronic format.
+
+*Employee.* The term *employee* does not include a director, trustee, or officer.
+
+*Employee benefit plan.* The term *employee benefit plan* means any written purchase, savings, option, bonus, appreciation, profit sharing, thrift, incentive, pension or similar plan or written compensation contract solely for employees, directors, general partners, trustees (where the registrant is a business trust), officers, or consultants or advisors. However, consultants or advisors may participate in an employee benefit plan only if:
+
+(1) They are natural persons;
+
+(2) They provide *bona fide* services to the registrant; and
+
+(3) The services are not in connection with the offer or sale of securities in a capital-raising transaction, and do not directly or indirectly promote or maintain a market for the registrant's securities.
+
+*Equity security.* The term *equity security* means any stock or similar security, certificate of interest or participation in any profit sharing agreement, preorganization certificate or subscription, transferable share, voting trust certificate or certificate of deposit for an equity security, limited partnership interest, interest in a joint venture, or certificate of interest in a business trust; any security future on any such security; or any security convertible, with or without consideration into such a security, or carrying any warrant or right to subscribe to or purchase such a security; or any such warrant or right; or any put, call, straddle, or other option or privilege of buying such a security from or selling such a security to another without being bound to do so.
+
+*Executive officer.* The term *executive officer,* when used with reference to a registrant, means its president, any vice president of the registrant in charge of a principal business unit, division or function (such as sales, administration or finance), any other officer who performs a policy making function or any other person who performs similar policy making functions for the registrant. Executive officers of subsidiaries may be deemed executive officers of the registrant if they perform such policy making functions for the registrant.
+
+*Fiscal year.* The term *fiscal year* means the annual accounting period or, if no closing date has been adopted, the calendar year ending on December 31.
+
+*Foreign government.* The term *foreign government* means the government of any foreign country or of any political subdivision of a foreign country.
+
+*Foreign issuer.* The term *foreign issuer* means any issuer which is a foreign government, a national of any foreign country or a corporation or other organization incorporated or organized under the laws of any foreign country.
+
+*Foreign private issuer.* (1) The term *foreign private issuer* means any foreign issuer other than a foreign government except an issuer meeting the following conditions as of the last business day of its most recently completed second fiscal quarter:
+
+(i) More than 50 percent of the outstanding voting securities of such issuer are directly or indirectly owned of record by residents of the United States; and
+
+(ii) Any of the following:
+
+(A) The majority of the executive officers or directors are United States citizens or residents;
+
+(B) More than 50 percent of the assets of the issuer are located in the United States; or
+
+(C) The business of the issuer is administered principally in the United States.
+
+Note to paragraph (1) of the definition of *Foreign private issuer:*
+
+To determine the percentage of outstanding voting securities held by U.S. residents:
+
+A. Use the method of calculating record ownership in § 240.12g3-2(a) of this chapter, except that:
+
+(1) The inquiry as to the amount of shares represented by accounts of customers resident in the United States may be limited to brokers, dealers, banks and other nominees located in:
+
+(i) The United States,
+
+(ii) The issuer's jurisdiction of incorporation, and
+
+(iii) The jurisdiction that is the primary trading market for the issuer's voting securities, if different than the issuer's jurisdiction of incorporation; and
+
+(2) Notwithstanding § 240.12g5-1(a)(8) of this chapter, the issuer shall not exclude securities held by persons who received the securities pursuant to an employee compensation plan.
+
+B. If, after reasonable inquiry, the issuer is unable to obtain information about the amount of shares represented by accounts of customers resident in the United States, the issuer may assume, for purposes of this definition, that the customers are residents of the jurisdiction in which the nominee has its principal place of business.
+
+C. Count shares of voting securities beneficially owned by residents of the United States as reported on reports of beneficial ownership provided to the issuer or filed publicly and based on information otherwise provided to the issuer.
+
+(2) In the case of a new registrant with the Commission, the determination of whether an issuer is a foreign private issuer shall be made as of a date within 30 days prior to the issuer's filing of an initial registration statement under either the Act or the Securities Exchange Act of 1934.
+
+(3) Once an issuer qualifies as a foreign private issuer, it will immediately be able to use the forms and rules designated for foreign private issuers until it fails to qualify for this status at the end of its most recently completed second fiscal quarter. An issuer's determination that it fails to qualify as a foreign private issuer governs its eligibility to use the forms and rules designated for foreign private issuers beginning on the first day of the fiscal year following the determination date. Once an issuer fails to qualify for foreign private issuer status, it will remain unqualified unless it meets the requirements for foreign private issuer status as of the last business day of its second fiscal quarter.
+
+*Free writing prospectus.* Except as otherwise specifically provided or the context otherwise requires, a *free writing prospectus* is any written communication as defined in this section that constitutes an offer to sell or a solicitation of an offer to buy the securities relating to a registered offering that is used after the registration statement in respect of the offering is filed (or, in the case of a well-known seasoned issuer, whether or not such registration statement is filed) and is made by means other than:
+
+(1) A prospectus satisfying the requirements of section 10(a) of the Act, Rule 430 (§ 230.430), Rule 430A (§ 230.430A), Rule 430B (§ 230.430B), Rule 430C (§ 230.430C), Rule 430D (§ 230.430D), or Rule 431 (§ 230.431);
+
+(2) A written communication used in reliance on Rule 167 and Rule 426 (§ 230.167 and § 230.426); or
+
+(3) A written communication that constitutes an offer to sell or solicitation of an offer to buy such securities that falls within the exception from the definition of prospectus in clause (a) of section 2(a)(10) of the Act.
+
+*Graphic communication.* The term *graphic communication*, which appears in the definition of “write, written” in section 2(a)(9) of the Act and in the definition of written communication in this section, shall include all forms of electronic media, including, but not limited to, audiotapes, videotapes, facsimiles, CD-ROM, electronic mail, Internet Web sites, substantially similar messages widely distributed (rather than individually distributed) on telephone answering or voice mail systems, computers, computer networks and other forms of computer data compilation. Graphic communication shall not include a communication that, at the time of the communication, originates live, in real-time to a live audience and does not originate in recorded form or otherwise as a graphic communication, although it is transmitted through graphic means.
+
+*Ineligible issuer.* (1) An *ineligible issuer* is an issuer with respect to which any of the following is true as of the relevant date of determination:
+
+(i) Any issuer that is required to file reports pursuant to section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d)) that has not filed all reports and other materials required to be filed during the preceding 12 months (or for such shorter period that the issuer was required to file such reports pursuant to sections 13 or 15(d) of the Securities Exchange Act of 1934), other than reports on Form 8-K (§ 249.308 of this chapter) required solely pursuant to an item specified in General Instruction I.A.3(b) of Form S-3 (§ 239.13 of this chapter) (or in the case of an asset-backed issuer, to the extent the depositor or any issuing entity previously established, directly or indirectly, by the depositor (as such terms are defined in Item 1101 of Regulation AB (§ 229.1101 of this chapter) are or were at any time during the preceding 12 calendar months required to file reports pursuant to section 13 or 15(d) of the Securities Exchange Act of 1934 with respect to a class of asset-backed securities involving the same asset class, such depositor and each such issuing entity must have filed all reports and other material required to be filed for such period (or such shorter period that each such entity was required to file such reports), other than reports on Form 8-K required solely pursuant to an item specified in General Instruction I.A.2 of Form SF-3);
+
+(ii) The issuer is, or during the past three years the issuer or any of its predecessors was:
+
+(A) A blank check company as defined in Rule 419(a)(2) (§ 230.419(a)(2));
+
+(B) A shell company, other than a business combination related shell company, each as defined in this section;
+
+(C) An issuer in an offering of penny stock as defined in Rule 3a51-1 of the Securities Exchange Act of 1934 (§ 240.3a51-1 of this chapter);
+
+(iii) The issuer is a limited partnership that is offering and selling its securities other than through a firm commitment underwriting;
+
+(iv) Within the past three years, a petition under the federal bankruptcy laws or any state insolvency law was filed by or against the issuer, or a court appointed a receiver, fiscal agent or similar officer with respect to the business or property of the issuer subject to the following:
+
+(A) In the case of an involuntary bankruptcy in which a petition was filed against the issuer, ineligibility will occur upon the earlier to occur of:
+
+(*1*) 90 days following the date of the filing of the involuntary petition (if the case has not been earlier dismissed); or
+
+(*2*) The conversion of the case to a voluntary proceeding under federal bankruptcy or state insolvency laws; and
+
+(B) Ineligibility will terminate under this paragraph (1)(iv) if an issuer has filed an annual report with audited financial statements subsequent to its emergence from that bankruptcy, insolvency, or receivership process;
+
+(v) Within the past three years, the issuer or any entity that at the time was a subsidiary of the issuer was convicted of any felony or misdemeanor described in paragraphs (i) through (iv) of section 15(b)(4)(B) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)(4)(B)(i) through (iv));
+
+(vi) Within the past three years (but in the case of a decree or order agreed to in a settlement, not before December 1, 2005), the issuer or any entity that at the time was a subsidiary of the issuer was made the subject of any judicial or administrative decree or order arising out of a governmental action that:
+
+(A) Prohibits certain conduct or activities regarding, including future violations of, the anti-fraud provisions of the federal securities laws;
+
+(B) Requires that the person cease and desist from violating the anti-fraud provisions of the federal securities laws; or
+
+(C) Determines that the person violated the anti-fraud provisions of the federal securities laws;
+
+(vii) The issuer has filed a registration statement that is the subject of any pending proceeding or examination under section 8 of the Act or has been the subject of any refusal order or stop order under section 8 of the Act within the past three years; or
+
+(viii) The issuer is the subject of any pending proceeding under section 8A of the Act in connection with an offering.
+
+(2) An issuer shall not be an ineligible issuer if the Commission determines, upon a showing of good cause, that it is not necessary under the circumstances that the issuer be considered an ineligible issuer. Any such determination shall be without prejudice to any other action by the Commission in any other proceeding or matter with respect to the issuer or any other person.
+
+(3) The date of determination of whether an issuer is an ineligible issuer is as follows:
+
+(i) For purposes of determining whether an issuer is a well-known seasoned issuer, at the date specified for purposes of such determination in paragraph (2) of the definition of well-known seasoned issuer in this section; and
+
+(ii) For purposes of determining whether an issuer or offering participant may use free writing prospectuses in respect of an offering in accordance with the provisions of Rules 164 and 433 (§ 230.164 and § 230.433), at the date in respect of the offering specified in paragraph (h) of Rule 164.
+
+*Majority-owned subsidiary.* The term *majority-owned subsidiary* means a subsidiary more than 50 percent of whose outstanding securities representing the right, other than as affected by events of default, to vote for the election of directors, is owned by the subsidiary's parent and/or one or more of the parent's other majority-owned subsidiaries.
+
+*Material.* The term *material,* when used to qualify a requirement for the furnishing of information as to any subject, limits the information required to those matters to which there is a substantial likelihood that a reasonable investor would attach importance in determining whether to purchase the security registered.
+
+*Officer.* The term *officer* means a president, vice president, secretary, treasurer or principal financial officer, comptroller or principal accounting officer, and any person routinely performing corresponding functions with respect to any organization whether incorporated or unincorporated.
+
+*Parent.* A *parent* of a specified person is an affiliate controlling such person directly, or indirectly through one or more intermediaries.
+
+*Predecessor.* The term *predecessor* means a person the major portion of the business and assets of which another person acquired in a single succession, or in a series of related successions in each of which the acquiring person acquired the major portion of the business and assets of the acquired person.
+
+*Principal underwriter.* The term *principal underwriter* means an underwriter in privity of contract with the issuer of the securities as to which he is underwriter, the term *issuer* having the meaning given in sections 2(4) and 2(11) of the Act.
+
+*Promoter.* (1) The term *promoter* includes:
+
+(i) Any person who, acting alone or in conjunction with one or more other persons, directly or indirectly takes initiative in founding and organizing the business or enterprise of an issuer; or
+
+(ii) Any person who, in connection with the founding and organizing of the business or enterprise of an issuer, directly or indirectly receives in consideration of services or property, or both services and property, 10 percent or more of any class of securities of the issuer or 10 percent or more of the proceeds from the sale of any class of such securities. However, a person who receives such securities or proceeds either solely as underwriting commissions or solely in consideration of property shall not be deemed a promoter within the meaning of this paragraph if such person does not otherwise take part in founding and organizing the enterprise.
+
+(2) All persons coming within the definition of *promoter* in paragraph (1) of this definition may be referred to as *founders* or *organizers* or by another term provided that such term is reasonably descriptive of those persons' activities with respect to the issuer.
+
+*Prospectus.* Unless otherwise specified or the context otherwise requires, the term *prospectus* means a prospectus meeting the requirements of section 10(a) of the Act.
+
+*Registrant.* The term *registrant* means the issuer of the securities for which the registration statement is filed.
+
+*Share.* The term *share* means a share of stock in a corporation or unit of interest in an unincorporated person.
+
+*Shell company.* The term *shell company* means a registrant, other than an asset-backed issuer as defined in Item 1101(b) of Regulation AB (§ 229.1101(b) of this chapter), that has:
+
+(1) No or nominal operations; and
+
+(2) Either:
+
+(i) No or nominal assets;
+
+(ii) Assets consisting solely of cash and cash equivalents; or
+
+(iii) Assets consisting of any amount of cash and cash equivalents and nominal other assets.
+
+Note:
+
+For purposes of this definition, the determination of a registrant's assets (including cash and cash equivalents) is based solely on the amount of assets that would be reflected on the registrant's balance sheet prepared in accordance with generally accepted accounting principles on the date of that determination.
+
+*Significant subsidiary.* The term *significant subsidiary* means a subsidiary, including its subsidiaries, which meets any of the following conditions:
+
+(1) The registrant's and its other subsidiaries' investments in and advances to the subsidiary exceed 10 percent of the total assets of the registrant and its subsidiaries consolidated as of the end of the most recently completed fiscal year (for a proposed business combination to be accounted for as a pooling of interests, this condition is also met when the number of common shares exchanged or to be exchanged by the registrant exceeds 10 percent of its total common shares outstanding at the date the combination is initiated); or
+
+(2) The registrant's and its other subsidiaries' proportionate share of the total assets (after intercompany eliminations) of the subsidiary exceeds 10 percent of the total assets of the registrants and its subsidiaries consolidated as of the end of the most recently completed fiscal year; or
+
+(3) The registrant's and its other subsidiaries' equity in the income from continuing operations before income taxes, extraordinary items and cumulative effect of a change in accounting principle of the subsidiary exceeds 10 percent of such income of the registrant and its subsidiaries consolidated for the most recently completed fiscal year.
+
+Computational note.
+
+For purposes of making the prescribed income test the following guidance should be applied:
+
+1. When a loss has been incurred by either the parent and its subsidiaries consolidated or the tested subsidiary, but not both, the equity in the income or loss of the tested subsidiary should be excluded from the income of the registrant and its subsidiaries consolidated for purposes of the computation.
+
+2. If income of the registrant and its subsidiaries consolidated for the most recent fiscal year is at least 10 percent lower than the average of the income for the last five fiscal years, such average income should be substituted for purposes of the computation. Any loss years should be omitted for purposes of computing average income.
+
+*Smaller reporting company:* As used in this part, the term *smaller reporting company* means an issuer that is not an investment company, an asset-backed issuer (as defined in § 229.1101 of this chapter), or a majority-owned subsidiary of a parent that is not a smaller reporting company and that:
+
+(1) Had a public float of less than $75 million as of the last business day of its most recently completed second fiscal quarter, computed by multiplying the aggregate worldwide number of shares of its voting and non-voting common equity held by non-affiliates by the price at which the common equity was last sold, or the average of the bid and asked prices of common equity, in the principal market for the common equity; or
+
+(2) In the case of an initial registration statement under the Securities Act or Exchange Act for shares of its common equity, had a public float of less than $75 million as of a date within 30 days of the date of the filing of the registration statement, computed by multiplying the aggregate worldwide number of such shares held by non-affiliates before the registration plus, in the case of a Securities Act registration statement, the number of such shares included in the registration statement by the estimated public offering price of the shares; or
+
+(3) In the case of an issuer whose public float as calculated under paragraph (1) or (2) of this definition was zero, had annual revenues of less than $50 million during the most recently completed fiscal year for which audited financial statements are available.
+
+(4) *Determination:* Whether or not an issuer is a smaller reporting company is determined on an annual basis.
+
+(i) For issuers that are required to file reports under section 13(a) or 15(d) of the Exchange Act, the determination is based on whether the issuer came within the definition of smaller reporting company using the amounts specified in paragraph (f)(2)(iii) of Item 10 of Regulation S-K (§ 229.10(f)(1)(i) of this chapter), as of the last business day of the second fiscal quarter of the issuer's previous fiscal year. An issuer in this category must reflect this determination in the information it provides in its quarterly report on Form 10-Q for the first fiscal quarter of the next year, indicating on the cover page of that filing, and in subsequent filings for that fiscal year, whether or not it is a smaller reporting company, except that, if a determination based on public float indicates that the issuer is newly eligible to be a smaller reporting company, the issuer may choose to reflect this determination beginning with its first quarterly report on Form 10-Q following the determination, rather than waiting until the first fiscal quarter of the next year.
+
+(ii) For determinations based on an initial Securities Act or Exchange Act registration statement under paragraph (f)(1)(ii) of Item 10 of Regulation S-K (§ 229.10(f)(1)(ii) of this chapter), the issuer must reflect the determination in the information it provides in the registration statement and must appropriately indicate on the cover page of the filing, and subsequent filings for the fiscal year in which the filing is made, whether or not it is a smaller reporting company. The issuer must redetermine its status at the end of its second fiscal quarter and then reflect any change in status as provided in paragraph (4)(i) of this definition. In the case of a determination based on an initial Securities Act registration statement, an issuer that was not determined to be a smaller reporting company has the option to redetermine its status at the conclusion of the offering covered by the registration statement based on the actual offering price and number of shares sold.
+
+(iii) Once an issuer fails to qualify for smaller reporting company status, it will remain unqualified unless it determines that its public float, as calculated in accordance with paragraph (f)(1) of this definition, was less than $50 million as of the last business day of its second fiscal quarter or, if that calculation results in zero because the issuer had no public equity outstanding or no market price for its equity existed, if the issuer had annual revenues of less than $40 million during its previous fiscal year.
+
+*Subsidiary.* A *subsidiary* of a specified person is an affiliate controlled by such person directly, or indirectly through one or more intermediaries. (See also *majority owned subsidiary, significant subsidiary, totally held subsidiary,* and *wholly owned subsidiary.*)
+
+*Succession.* The term *succession* means the direct acquisition of the assets comprising a going business, whether by merger, consolidation, purchase, or other direct transfer. The term does not include the acquisition of control of a business unless followed by the direct acquisition of its assets. The terms *succeed* and *successor* have meanings correlative to the foregoing.
+
+*Totally held subsidiary.* The term *totally held subsidiary* means a subsidiary (1) substantially all of whose outstanding securities are owned by its parent and/or the parent's other totally held subsidiaries, and (2) which is not indebted to any person other than its parent and/or the parent's other totally held subsidiaries in an amount which is material in relation to the particular subsidiary, excepting indebtedness incurred in the ordinary course of business which is not overdue and which matures within one year from the date of its creation, whether evidenced by securities or not.
+
+*Voting securities.* The term *voting securities* means securities the holders of which are presently entitled to vote for the election of directors.
+
+*Well-known seasoned issuer.* A *well-known seasoned issuer* is an issuer that, as of the most recent determination date determined pursuant to paragraph (2) of this definition:
+
+(1)(i) Meets all the registrant requirements of General Instruction I.A. of Form S-3 or Form F-3 (§ 239.13 or § 239.33 of this chapter) and either:
+
+(A) As of a date within 60 days of the determination date, has a worldwide market value of its outstanding voting and non-voting common equity held by non-affiliates of $700 million or more; or
+
+(B)(*1*) As of a date within 60 days of the determination date, has issued in the last three years at least $1 billion aggregate principal amount of non-convertible securities, other than common equity, in primary offerings for cash, not exchange, registered under the Act; and
+
+(*2*) Will register only non-convertible securities, other than common equity, and full and unconditional guarantees permitted pursuant to paragraph (1)(ii) of this definition unless, at the determination date, the issuer also is eligible to register a primary offering of its securities relying on General Instruction I.B.1. of Form S-3 or Form F-3.
+
+(*3*) Provided that as to a parent issuer only, for purposes of calculating the aggregate principal amount of outstanding non-convertible securities under paragraph (1)(i)(B)(*1*) of this definition, the parent issuer may include the aggregate principal amount of non-convertible securities, other than common equity, of its majority-owned subsidiaries issued in registered primary offerings for cash, not exchange, that it has fully and unconditionally guaranteed, within the meaning of Rule 3-10 of Regulation S-X (§ 210.3-10 of this chapter) in the last three years; or
+
+(ii) Is a majority-owned subsidiary of a parent that is a well-known seasoned issuer pursuant to paragraph (1)(i) of this definition and, as to the subsidiaries' securities that are being or may be offered on that parent's registration statement:
+
+(A) The parent has provided a full and unconditional guarantee, as defined in Rule 3-10 of Regulation S-X, of the payment obligations on the subsidiary's securities and the securities are non-convertible securities, other than common equity;
+
+(B) The securities are guarantees of:
+
+(*1*) Non-convertible securities, other than common equity, of its parent being registered; or
+
+(*2*) Non-convertible securities, other than common equity, of another majority-owned subsidiary being registered where there is a full and unconditional guarantee, as defined in Rule 3-10 of Regulation S-X, of such non-convertible securities by the parent; or
+
+(C) The securities of the majority-owned subsidiary meet the conditions of General Instruction I.B.2 of Form S-3 or Form F-3.
+
+(iii) Is not an ineligible issuer as defined in this section.
+
+(iv) Is not an asset-backed issuer as defined in Item 1101 of Regulation AB (§ 229.1101(b) of this chapter).
+
+(v) Is not an investment company registered under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*) or a business development company as defined in section 2(a)(48) of the Investment Company Act of 1940 (15 U.S.C. 80a-2(a)(48)).
+
+(2) For purposes of this definition, the determination date as to whether an issuer is a well-known seasoned issuer shall be the latest of:
+
+(i) The time of filing of its most recent shelf registration statement; or
+
+(ii) The time of its most recent amendment (by post-effective amendment, incorporated report filed pursuant to section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 78o(d) of this chapter), or form of prospectus) to a shelf registration statement for purposes of complying with section 10(a)(3) of the Act (or if such amendment has not been made within the time period required by section 10(a)(3) of the Act, the date on which such amendment is required); or
+
+(iii) In the event that the issuer has not filed a shelf registration statement or amended a shelf registration statement for purposes of complying with section 10(a)(3) of the Act for sixteen months, the time of filing of the issuer's most recent annual report on Form 10-K (§ 249.310 of this chapter) or Form 20-F (§ 249.220f of this chapter) (or if such report has not been filed by its due date, such due date).
+
+*Wholly owned subsidiary.* The term *wholly owned subsidiary* means a subsidiary substantially all of whose outstanding voting securities are owned by its parent and/or the parent's other wholly owned subsidiaries.
+
+*Written communication.* Except as otherwise specifically provided or the context otherwise requires, a *written communication* is any communication that is written, printed, a radio or television broadcast, or a graphic communication as defined in this section.
+
+Note:
+
+Note to definition of “written communication.”
+
+A communication that is a radio or television broadcast is a written communication regardless of the means of transmission of the broadcast.
+
+[47 FR 11435, Mar. 16, 1982]Editorial Note:For Federal Register citations affecting § 230.405, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

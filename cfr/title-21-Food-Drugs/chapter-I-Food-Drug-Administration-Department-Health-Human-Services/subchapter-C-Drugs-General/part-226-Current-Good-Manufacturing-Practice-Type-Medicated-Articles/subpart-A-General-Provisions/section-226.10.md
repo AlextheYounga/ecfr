@@ -1,0 +1,3 @@
+##### § 226.10 Personnel. #####
+
+The key personnel and any consultants involved in the manufacture and control of the Type A medicated article(s) shall have a background of appropriate education or appropriate experience or combination thereof for assuming responsibility to assure that the Type A medicated article(s) has the proper labeling and the safety, identity, strength, quality, and purity that it purports to possess.

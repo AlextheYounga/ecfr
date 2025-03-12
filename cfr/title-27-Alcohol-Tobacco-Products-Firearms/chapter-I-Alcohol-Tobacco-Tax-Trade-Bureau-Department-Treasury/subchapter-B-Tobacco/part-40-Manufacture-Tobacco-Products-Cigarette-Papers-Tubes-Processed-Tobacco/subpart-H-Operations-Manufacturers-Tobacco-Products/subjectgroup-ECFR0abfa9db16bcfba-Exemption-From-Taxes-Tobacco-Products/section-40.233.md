@@ -1,0 +1,5 @@
+##### § 40.233 Transfer in bond. #####
+
+A manufacturer of tobacco products may transfer tobacco products in bond, to the factory of any manufacturer of tobacco products. The transfer of tobacco products in bond to the premises of an export warehouse proprietor shall be in accordance with the provisions of part 44 of this chapter. However, tobacco products are eligible for transfer in bond to a manufacturer of tobacco products or to an export warehouse only if they bear the required marks, labels, and notices.
+
+(72 Stat. 1418, as amended; 26 U.S.C. 5704)[T.D. 6871, 31 FR 37, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28082, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-421, 64 FR 71924, Dec. 22, 1999; 78 FR 38567, June 27, 2013]

@@ -1,0 +1,3 @@
+##### § 49.01-1 Applicability. #####
+
+The Commandant of the Coast Guard is hereby designated and is authorized to appoint, in his discretion, the person or persons who may receive active-duty pay and allowances, amounts due for accumulated or accrued leave, or any retired or retainer pay, otherwise payable to personnel on the active or retired list of the Coast Guard and Coast Guard Reserve, entitled to Federal pay either on the active or any retired list of said service, who, in the opinion of competent medical authority, have been determined to be mentally incapable of managing their own affairs, and for whom no legal committee, guardian, or other representative has been appointed by a court of competent jurisdiction.

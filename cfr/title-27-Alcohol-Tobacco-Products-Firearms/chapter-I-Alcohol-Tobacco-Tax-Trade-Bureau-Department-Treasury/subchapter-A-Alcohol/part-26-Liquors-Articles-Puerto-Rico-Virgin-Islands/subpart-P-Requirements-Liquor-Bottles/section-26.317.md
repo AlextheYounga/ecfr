@@ -1,0 +1,3 @@
+##### § 26.317 Bottles to be used for display purposes. #####
+
+Empty liquor bottles may be brought into the United States and may be furnished to liquor dealers for display purposes, provided each bottle is marked to show that it is to be used for such purpose. Any paper strip used to seal the bottle shall be of solid color and without design or printing, except that a border or a design, formed entirely of the legend “not genuine—for display purposes only” is permissible. Records shall be kept of the receipt and disposition of such bottles, showing the names and addresses of consignees, dates of shipment, and size, quantity, and description of bottles.

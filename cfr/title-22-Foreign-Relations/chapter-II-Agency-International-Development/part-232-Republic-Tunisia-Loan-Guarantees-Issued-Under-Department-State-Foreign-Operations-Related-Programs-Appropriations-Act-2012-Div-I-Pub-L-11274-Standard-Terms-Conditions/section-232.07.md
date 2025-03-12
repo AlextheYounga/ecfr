@@ -1,0 +1,3 @@
+##### § 232.07 Fiscal agent obligations. #####
+
+Failure of the Fiscal Agent to perform any of its obligations pursuant to the Fiscal Agency Agreement shall not impair any Noteholder's rights under this Guarantee, but may be the subject of action for damages against the Fiscal Agent by USAID as a result of such failure or neglect. A Noteholder may appoint the Fiscal Agent to make demand for payment on its behalf under this Guarantee.

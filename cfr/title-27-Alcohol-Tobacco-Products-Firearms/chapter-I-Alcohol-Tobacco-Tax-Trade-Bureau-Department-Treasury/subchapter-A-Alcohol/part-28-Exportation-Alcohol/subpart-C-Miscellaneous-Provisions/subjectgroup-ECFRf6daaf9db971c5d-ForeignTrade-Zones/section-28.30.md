@@ -1,0 +1,7 @@
+##### § 28.30 Export status. #####
+
+(a) Distilled spirits and wines manufactured, produced, bottled in bottles packed in containers, or packaged in casks or other bulk containers in the United States, and beer brewed or produced in the United States may be transferred to a foreign-trade zone for the sole purpose of exportation, or storage pending exportation. Liquors deposited in a foreign-trade zone under this part solely for such purposes are considered to be exported. Export status is not acquired until application on Form 214 for admission of the liquors into the zone has been approved by the district director of customs under the appropriate provision of 19 CFR chapter I, and the required certification of deposit has been made on the TTB form prescribed in this part.
+
+(b) The provisions of subpart H of this part do not apply to specially denatured spirits transferred to a foreign-trade zone for use in the manufacture of articles pursuant to the provisions of 19 U.S.C. 81c(c). Transfer of domestic specially denatured spirits to a qualified user in a foreign-trade zone is made free of tax under the provisions of part 20 of this chapter. Such transfer does not place the domestic specially denatured spirits in an export status.
+
+(48 Stat. 999, as amended (19 U.S.C. 81c))[T.D. ATF-274, 53 FR 25157, July 5, 1988, as amended by T.D. TTB-8, 69 FR 3831, Jan. 27, 2004]

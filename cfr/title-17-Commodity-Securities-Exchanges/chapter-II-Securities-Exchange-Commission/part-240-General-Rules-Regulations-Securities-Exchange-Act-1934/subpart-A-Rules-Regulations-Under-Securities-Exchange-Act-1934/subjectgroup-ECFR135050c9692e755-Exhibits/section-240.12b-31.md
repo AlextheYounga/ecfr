@@ -1,0 +1,3 @@
+##### § 240.12b-31 Omission of substantially identical documents. #####
+
+In any case where two or more indentures, contracts, franchises, or other documents required to be filed as exhibits are substantially identical in all material respects except as to the parties thereto, the dates of execution, or other details, the registrant need file a copy of only one of such documents, with a schedule identifying the other documents omitted and setting forth the material details in which such documents differ from the document of which a copy is filed. The Commission may at any time in its discretion require the filing of copies of any documents so omitted.

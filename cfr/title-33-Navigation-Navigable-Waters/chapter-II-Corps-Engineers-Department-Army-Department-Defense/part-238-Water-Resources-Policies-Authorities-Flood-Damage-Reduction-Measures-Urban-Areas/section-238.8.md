@@ -1,0 +1,3 @@
+##### § 238.8 Other participation. #####
+
+In addition to providing flood damage reduction works in urban areas, the Corps may provide related services to State and local governments on a reimbursable basis. Under Title III of the Inter-governmental Cooperation Act of 1968, specialized or technical services for which the Corps has specific expertise may be furnished only when such services cannot be procured reasonably and expeditiously from private firms (see ER 1140-2-303).

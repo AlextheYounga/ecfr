@@ -1,0 +1,79 @@
+##### § 229.1100 (Item 1100) General. #####
+
+(a) *Application of Regulation AB.* Regulation AB (§§ 229.1100 through 229.1125) is the source of various disclosure items and requirements for “asset-backed securities” filings under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) (the “Securities Act”) and the Securities Exchange Act of 1934 (the “Exchange Act”) (15 U.S.C. 78a *et seq.*). Unless otherwise specified, definitions to be used in this Regulation AB, including the definition of “asset-backed security,” are set forth in Item 1101.
+
+(b) *Presentation of historical delinquency and loss information.* Several Items in Regulation AB call for the presentation of historical information and data on delinquencies and loss information. In providing such information:
+
+(1) Present delinquency experience in 30 or 31 day increments, as applicable, beginning at least with assets that are 30 or 31 days delinquent, as applicable, through the point that assets are written off or charged off as uncollectible. At a minimum, present such information by number of accounts and dollar amount. Present statistical information in a tabular or graphical format, if such presentation will aid understanding.
+
+(2) Disclose the total amount of delinquent assets as a percentage of the aggregate asset pool.
+
+(3) Present loss and cumulative loss information, as applicable, regarding charge-offs, charge-off rate, gross losses, recoveries and net losses (with a description of how these terms are defined), the number and amount of assets experiencing a loss and the number and amount of assets with a recovery, the ratio of aggregate net losses to average portfolio balance and the average of net loss on all assets that have experienced a net loss.
+
+(4) Categorize all delinquency and loss information by pool asset type.
+
+(5) In a registration statement under the Securities Act or the Exchange Act or in a prospectus to be filed pursuant to § 230.424, describe how delinquencies, charge-offs and uncollectible accounts are defined or determined, addressing the effect of any grace period, re-aging, restructure, partial payments considered current or other practices on delinquency and loss experience.
+
+(6) Describe any other material information regarding delinquencies and losses particular to the pool asset type(s), such as repossession information, foreclosure information and real estate owned (REO) or similar information.
+
+(c) *Presentation of certain third party information.* If information of a third party is required in a filing by Item 1112(b) of this Regulation AB (Information regarding significant obligors) (§ 229.1112(b)), Items 1114(b)(2) or 1115(b) of this Regulation AB (Information regarding significant provider of enhancement or other support) (§ 229.1114(b)(2) or (§ 229.1115(b)), or Item 1125 of this Regulation AB (Asset-level information) (§ 229.1125) such information, in lieu of including such information, may be provided as follows:
+
+(1) *Incorporation by reference.* If the following conditions are met, you may incorporate by reference (by means of a statement to that effect) the reports filed by the third party (or the entity that consolidates the third party) pursuant to section 13(a) or 15(d) of the Exchange Act (15 U.S.C. 78m(a) or 78o(d)):
+
+(i) Such third party or the entity that consolidates the third party is required to file reports with the Commission pursuant to section 13(a) or 15(d) of the Exchange Act.
+
+(ii) Such third party or the entity that consolidates the third party has filed all reports and other materials required to be filed by such requirements during the preceding 12 months (or such shorter period that such party was required to file such reports and materials).
+
+(iii) The reports filed by such third party, or entity that consolidates the third party, include (or properly incorporate by reference) the financial statements of such third party.
+
+(iv) If incorporated by reference into a prospectus or registration statement, the prospectus also states that all documents subsequently filed by such third party, or the entity that consolidates the third party, pursuant to section 13(a) or 15(d) of the Exchange Act prior to the termination of the offering also shall be deemed to be incorporated by reference into the prospectus.
+
+*Instructions to Item 1100(c)(1):* 1. In addition to the conditions in paragraph (c)(1) of this section, any information incorporated by reference must comply with all applicable Commission rules pertaining to incorporation by reference, such as Item 10(d) of Regulation S-K (§ 229.10(d)), Rule 303 of Regulation S-T (§ 232.303 of this chapter), Rule 411 of Regulation C (§ 230.411 of this chapter), and Rules 12b-23 and 12b-32 under the Exchange Act (§§ 240.12b-23 and 240.12b-32 of this chapter).
+
+2. In addition, any applicable requirements under the Securities Act or the rules and regulations of the Commission regarding the filing of a written consent for the use of incorporated material apply to the material incorporated by reference. *See*, for example, § 230.439 of this chapter.
+
+3. Any undertakings set forth in Item 512 of Regulation S-K (§ 229.512) apply to any material incorporated by reference in a registration statement or prospectus.
+
+4. If neither the third party nor any of its affiliates has had a direct or indirect agreement, arrangement, relationship or understanding, written or otherwise, relating to the ABS transaction, and neither the third party nor any of its affiliates is an affiliate of the sponsor, depositor, issuing entity or underwriter of the ABS transaction, then paragraph (c)(1)(ii) of this section is qualified by the knowledge of the registrant.
+
+5. If you are relying on paragraph (c)(1) of this section to provide information required by Item 1112 of this Regulation AB regarding a significant obligor that is an asset-backed issuer and the pool assets relating to such significant obligor are asset-backed securities, then for purposes of paragraph (c)(1)(iii) of this section, the term “financial statements” means the information required by Instruction 3 of Item 1112 of this Regulation AB. Such information required by Instruction 3.a. of Item 1112 of this Regulation AB may be incorporated by reference from a prospectus that contains such information and is included in an effective Securities Act registration statement or filed pursuant to § 230.424 of this chapter.
+
+(2) *Reference information for significant obligors.* If the third party information relates to a significant obligor and the following conditions are met, you may include a reference to the third party's periodic reports (or the third party's parent with respect to paragraph (c)(2)(ii)(C) of this section) under section 13(a) or 15(d) of the Exchange Act (15 U.S.C. 78m(a) or 78o(d)) that are on file with the Commission (or otherwise publicly available with respect to paragraph (c)(2)(ii)(F) of this section), along with a statement of how those reports may be accessed, including the third party's name and Commission file number, if applicable (See, e.g., Item 1118 of this Regulation AB):
+
+(i) Neither the third party nor any of its affiliates has had a direct or indirect agreement, arrangement, relationship or understanding, written or otherwise, relating to the asset-backed securities transaction, and neither the third party nor any of its affiliates is an affiliate of the sponsor, depositor, issuing entity or underwriter of the asset-backed securities transaction.
+
+(ii) To the knowledge of the registrant, any of the following is true:
+
+(A) The third party is eligible to use Form S-3 or F-3 (§ 239.13 or 239.33 of this chapter) for a primary offering of non-investment grade securities pursuant to General Instruction I.B.1 of such forms.
+
+(B) The third party meets the requirements of General Instruction I.A. of Form S-3 or General Instructions 1.A.1, 2, 3, 4 and 6 of Form F-3 and the pool assets relating to such third party are non-convertible investment grade securities, as described in General Instruction 1.B.2 of Form S-3 or Form F-3.
+
+(C) If the third party does not meet the conditions of paragraph (c)(2)(ii)(A) or (c)(2)(ii)(B) of this section and the pool assets relating to the third party are fully and unconditionally guaranteed by a direct or indirect parent of the third party, General Instruction I.C.3 of Form S-3 or General Instruction I.A.5(iii) of Form F-3 is met with respect to the pool assets relating to such third party and the requirements of Rule 3-10 of Regulation S-X (§ 210.3-10 of this chapter) are satisfied regarding the information in the reports to be referenced.
+
+(D) If the pool assets relating to the third party are guaranteed by a wholly owned subsidiary of the third party and the subsidiary does not meet the conditions of paragraph (c)(2)(ii)(A) or (c)(2)(ii)(B) of this section, the criteria in either paragraph (c)(2)(ii)(A) or paragraph (c)(2)(ii)(B) of this section are met with respect to the third party and the requirements of Rule 3-10 of Regulation S-X (§ 210.3-10 of this chapter) are satisfied regarding the information in the reports to be referenced.
+
+(E) The pool assets relating to such third party are asset-backed securities and the third party is filing reports pursuant to section 12 or 15(d) of the Exchange Act (15 U.S.C. 78*l* or 78o(d)) and has filed all the material that would be required to be filed pursuant to section 13, 14 or 15(d) of the Exchange Act (15 U.S.C. 78m, 78n or 78o(d)) for a period of at least twelve calendar months and any portion of a month immediately preceding the filing referencing the third party's reports (or such shorter period that such third party was required to file such materials).
+
+(F) The third party is a U.S. government-sponsored enterprise, has outstanding securities held by non-affiliates with an aggregate market value of $75 million or more, and makes information publicly available on an annual and quarterly basis, including audited financial statements prepared in accordance with generally accepted accounting principles covering the same periods that would be required for audited financial statements under Regulation S-X (§§ 210.1-01 through 210.12-29 of this chapter) and non-financial information consistent with that required by Regulation S-K (§§ 229.10 through 229.1123).
+
+*Instruction to Item 1100(c)(2):* If you are relying on paragraph (c)(2)(ii)(E) of this section because the pool assets relating to such third party are asset-backed securities, then for purposes of a registration statement under the Securities Act or the Exchange Act or a prospectus to be filed pursuant to § 230.424 for your securities, you also must include a reference (including Commission reporting number and filing date) to the prospectus for the third party asset-backed securities that:
+
+(a) Is either included in an effective Securities Act registration statement or filed pursuant to § 230.424 of this chapter; and
+
+(b) Contains the information required by Instruction 3.a. of Item 1112 of this Regulation AB.
+
+(d) *Other participants to the transaction and pool assets representing interests in certain other asset pools.* (1) If the asset-backed securities transaction involves additional or intermediate parties not specifically identified in this Regulation AB, the disclosure required by this Regulation AB includes information to the extent material regarding any such party and its role, function and experience in relation to the asset-backed securities and the asset pool. Describe the material terms of any agreement with such party regarding the transaction, and file such agreement as an exhibit.
+
+(2) If the asset pool backing the asset-backed securities includes one or more pool assets representing an interest in or the right to the payments or cash flows of another asset pool, then for purposes of this Regulation AB and §§ 240.13a-18 and 240.15d-18 of this chapter, references to the asset pool and the pool assets of the issuing entity also include the other asset pool and its pool assets if the following conditions are met:
+
+(i) Both the issuing entity for the asset-backed securities and the entity issuing the pool asset to be included in the issuing entity's asset pool were established under the direction of the same sponsor or depositor.
+
+(ii) The pool asset was created solely to satisfy legal requirements or otherwise facilitate the structuring of the asset-backed securities transaction.
+
+*Instruction to Item 1100(d)(2).* Reference to the underlying asset pool includes, without limitation, compliance with applicable servicing criteria referenced in §§ 240.13a-18 and 240.15d-18 of this chapter and the servicer compliance statement required by Item 1123 of this Regulation AB. In addition, provide clear and concise disclosure, including by flow chart or other illustration, of the transaction and the various parties involved.
+
+(e) *Foreign asset-backed securities.* If the asset-backed securities are issued by a foreign issuer (as defined in § 230.405 of this chapter), backed by pool assets that are foreign assets, or affected by enhancement or support contemplated by Items 1114 or 1115 of this Regulation AB provided by a foreign entity, then in providing the disclosure required by this Regulation AB (including, but not limited to, Items 1104 and 1110 of this Regulation AB regarding origination and securitization practices, Item 1107 of this Regulation AB regarding the sale or transfer of the pool assets, bankruptcy remoteness and collateral protection, Item 1108 of this Regulation AB regarding servicing, Item 1109 of this Regulation AB regarding the rights, duties and responsibilities of the trustee, Item 1111 of this Regulation AB regarding the terms, nature and treatment of the pool assets and Items 1114 or 1115 of this Regulation AB, as applicable, regarding the enhancement provider), the filing must describe any pertinent governmental, legal or regulatory or administrative matters and any pertinent tax matters, exchange controls, currency restrictions or other economic, fiscal, monetary or potential factors in the applicable home jurisdiction that could materially affect payments on, the performance of, or other matters relating to, the assets contained in the pool or the asset-backed securities. See also Instruction 2 to Item 202 of Regulation S-K (§ 229.202). In addition, in a registration statement under the Securities Act, provide the information required by Item 101(g) of Regulation S-K (§ 229.101(g)). Disclosure also is required in Forms 10-D (§ 249.312 of this chapter) and 10-K (§ 249.310 of this chapter) with respect to the asset-backed securities regarding any material impact caused by foreign legal and regulatory developments during the period covered by the report which have not been previously described in a Form 10-D, 10-K or 8-K (§ 249.308 of this chapter) filed under the Exchange Act.
+
+(f) *Filing of required exhibits.* Where agreements or other documents in this Regulation AB (§§ 229.1100 through 229.1125) are specified to be filed as exhibits to a Securities Act registration statement, such agreements or other documents, if applicable, may be incorporated by reference as an exhibit to the registration statement, such as by filing a Form 8-K (§ 249.308 of this chapter) in the case of offerings registered on Form SF-3 (§ 239.45 of this chapter). Final agreements must be filed and made part of the registration statement no later than the date the final prospectus is required to be filed under § 230.424 of this chapter.
+
+[70 FR 1597, Jan. 7, 2005, as amended at 70 FR 72373, Dec. 5, 2005; 79 FR 57313, Sept. 24, 2014; 80 FR 6652, Feb. 6, 2015]

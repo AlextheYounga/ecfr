@@ -1,0 +1,3 @@
+##### § 10.64 Public hearings. #####
+
+All hearings shall be public, except that upon application of a respondent or affected witness the Administrative Law Judge may direct that specific documents or testimony be received and retained non-publicly in order to prevent unwarranted disclosure of trade secrets or sensitive commercial or financial information or an unwarranted invasion of personal privacy.

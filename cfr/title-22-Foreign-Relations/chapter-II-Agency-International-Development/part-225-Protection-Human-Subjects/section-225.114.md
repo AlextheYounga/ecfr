@@ -1,0 +1,3 @@
+##### § 225.114 Cooperative research. #####
+
+Cooperative research projects are those projects covered by this policy which involve more than one institution. In the conduct of cooperative research projects, each institution is responsible for safeguarding the rights and welfare of human subjects and for complying with this policy. With the approval of the department or agency head, an institution participating in a cooperative project may enter into a joint review arrangement, rely upon the review of another qualified IRB, or make similar arrangements for avoiding duplication of effort.

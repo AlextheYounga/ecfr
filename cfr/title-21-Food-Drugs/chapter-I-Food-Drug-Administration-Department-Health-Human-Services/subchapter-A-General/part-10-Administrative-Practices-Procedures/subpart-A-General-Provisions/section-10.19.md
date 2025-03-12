@@ -1,0 +1,3 @@
+##### § 10.19 Waiver, suspension, or modification of procedural requirements. #####
+
+The Commissioner or a presiding officer may, either voluntarily or at the request of a participant, waive, suspend, or modify any provision in parts 12 through 16 applicable to the conduct of a public hearing by announcement at the hearing or by notice in advance of the hearing if no participant will be prejudiced, the ends of justice will thereby be served, and the action is in accordance with law.

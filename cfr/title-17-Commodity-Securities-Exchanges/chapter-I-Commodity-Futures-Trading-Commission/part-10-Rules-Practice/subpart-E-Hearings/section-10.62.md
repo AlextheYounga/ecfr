@@ -1,0 +1,7 @@
+##### § 10.62 Appearances. #####
+
+(a) *Who may appear.* The parties may appear in person, by counsel or by other representatives of their choosing, subject to the provisions of § 10.11 of these rules and part 14 of this chapter, dealing with appearance and practice before the Commission.
+
+(b) *Effect of failure to appear.* (1) If any party to the proceeding, after filing an answer fails to appear at the hearing or any part thereof, he shall to that extent be deemed to have waived the right to an oral hearing in the proceeding. In the event that a party appears at the hearing and no party appears for the opposing side, the party who is present may present his evidence, in whole or in part, in the form of affidavits or by oral testimony, before the Administrative Law Judge.
+
+(2) A failure to appear at a hearing shall not constitute a waiver of a party's right to propose findings of fact based on the record in the proceeding, to propose conclusions of law or to submit briefs, in the manner provided in § 10.82, if the non-appearing party submits prior to the scheduled hearing or within three days thereafter, a notice of appearance indicating his intent to continue to participate in the proceeding. Otherwise, his failure to appear will constitute a default, and a default order may be sought in accordance with procedures set forth in § 10.93 of these rules.

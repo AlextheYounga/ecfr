@@ -1,0 +1,3 @@
+##### § 52.73 Interpretation. #####
+
+If the intent or import of the final decision is not clear to the Coast Guard, if the Coast Guard believes that executing all or part of the order in the final decision is beyond the Coast Guard's authority, or if the Coast Guard believes that the order is incomplete because of an oversight, the final decision shall be returned to the Board for clarification or technical amendment.

@@ -1,0 +1,3 @@
+##### § 31.82 Hotels. #####
+
+The proprietor of a hotel who conducts the sale of liquors throughout the hotel premises is only required to register under this part for one place. For example, different areas operated by the proprietor in the hotel, such as banquet rooms, meeting rooms, and guest rooms, collectively constitute a single place of business. When a concessionaire conducts the sale of liquors at two or more areas in a hotel, those areas are regarded as a single place of business, and the concessionaire is required to register only once.

@@ -1,0 +1,55 @@
+##### § 1.908 What requirements apply to transportation operations? #####
+
+(a) *General requirements.* (1) Unless stated otherwise in this section, the requirements of this section apply to all shippers, carriers, loaders, and receivers engaged in transportation operations. A person may be subject to these requirements in multiple capacities, *e.g.,* the shipper may also be the loader and the carrier, if the person also performs the functions of those respective persons as defined in this subpart. An entity subject to this subpart (shipper, loader, carrier, or receiver) may reassign, in a written agreement, its responsibilities under this subpart to another party subject to this subpart. The written agreement is subject to the records requirements of § 1.912(d).
+
+(2) Responsibility for ensuring that transportation operations are carried out in compliance with all requirements in this subpart must be assigned to competent supervisory personnel.
+
+(3) All transportation operations must be conducted under such conditions and controls necessary to prevent the food from becoming unsafe during transportation operations including:
+
+(i) Taking effective measures such as segregation, isolation, or the use of packaging to protect food from contamination by raw foods and nonfood items in the same load.
+
+(ii) Taking effective measures such as segregation, isolation, or other protective measures, such as hand washing, to protect food transported in bulk vehicles or food not completely enclosed by a container from contamination and cross-contact during transportation operations.
+
+(iii) Taking effective measures to ensure that food that requires temperature control for safety is transported under adequate temperature control.
+
+(4) The type of food, *e.g.,* animal feed, pet food, human food, and its production stage, *e.g.,* raw material, ingredient or finished food, must be considered in determining the necessary conditions and controls for the transportation operation.
+
+(5) Shippers, receivers, loaders, and carriers, which are under the ownership or operational control of a single legal entity, as an alternative to meeting the requirements of paragraphs (b), (d), and (e) of this section may conduct transportation operations in conformance with common, integrated written procedures that ensure the sanitary transportation of food consistent with the requirements of this section. The written procedures are subject to the records requirements of § 1.912(e).
+
+(6) If a shipper, loader, receiver, or carrier becomes aware of an indication of a possible material failure of temperature control or other conditions that may render the food unsafe during transportation, the food shall not be sold or otherwise distributed, and these persons must take appropriate action including, as necessary, communication with other parties to ensure that the food is not sold or otherwise distributed unless a determination is made by a qualified individual that the temperature deviation or other condition did not render the food unsafe.
+
+(b) *Requirements applicable to shippers engaged in transportation operations.* (1) Unless the shipper takes other measures in accordance with paragraph (b)(3) of this section to ensure that vehicles and equipment used in its transportation operations are in appropriate sanitary condition for the transportation of the food, *i.e.,* that will prevent the food from becoming unsafe, the shipper must specify to the carrier and, when necessary, the loader, in writing, all necessary sanitary specifications for the carrier's vehicle and transportation equipment to achieve this purpose, including any specific design specifications and cleaning procedures. One-time notification shall be sufficient unless the design requirements and cleaning procedures required for sanitary transport change based upon the type of food being transported, in which case the shipper shall so notify the carrier in writing before the shipment. The information submitted by the shipper to the carrier is subject to the records requirements in § 1.912(a).
+
+(2) Unless the shipper takes other measures in accordance with paragraph (b)(5) of this section to ensure that adequate temperature control is provided during the transportation of food that requires temperature control for safety under the conditions of shipment, a shipper of such food must specify in writing to the carrier, except a carrier who transports the food in a thermally insulated tank, and, when necessary, the loader, an operating temperature for the transportation operation including, if necessary, the pre-cooling phase. One-time notification shall be sufficient unless a factor, *e.g.,* the conditions of shipment, changes, necessitating a change in the operating temperature, in which case the shipper shall so notify the carrier in writing before the shipment. The information submitted by the shipper to the carrier is subject to the records requirements in § 1.912(a).
+
+(3) A shipper must develop and implement written procedures, subject to the records requirements of § 1.912(a), adequate to ensure that vehicles and equipment used in its transportation operations are in appropriate sanitary condition for the transportation of the food, *i.e.,* will prevent the food from becoming unsafe during the transportation operation. Measures to implement these procedures may be accomplished by the shipper or by the carrier or another party covered by this subpart under a written agreement subject to the records requirements of § 1.912(a).
+
+(4) A shipper of food transported in bulk must develop and implement written procedures, subject to the records requirements of § 1.912(a), adequate to ensure that a previous cargo does not make the food unsafe. Measures to ensure the safety of the food may be accomplished by the shipper or by the carrier or another party covered by this subpart under a written agreement subject to the records requirements of § 1.912(a).
+
+(5) The shipper of food that requires temperature control for safety under the conditions of shipment must develop and implement written procedures, subject to the records requirements of § 1.912(a), to ensure that the food is transported under adequate temperature control. Measures to ensure the safety of the food may be accomplished by the shipper or by the carrier or another party covered by this subpart under a written agreement subject to the records requirements of § 1.912(a) and must include measures equivalent to those specified for carriers under paragraphs (e)(1) through (3) of this section.
+
+(c) *Requirements applicable to loaders engaged in transportation operations.* (1) Before loading food not completely enclosed by a container onto a vehicle or into transportation equipment the loader must determine, considering, as appropriate, specifications provided by the shipper in accordance with paragraph (b)(1) of this section, that the vehicle or transportation equipment is in appropriate sanitary condition for the transport of the food, *e.g.,* it is in adequate physical condition, and free of visible evidence of pest infestation and previous cargo that could cause the food to become unsafe during transportation. This may be accomplished by any appropriate means.
+
+(2) Before loading food that requires temperature control for safety, the loader must verify, considering, as appropriate, specifications provided by the shipper in accordance with paragraph (b)(2) of this section, that each mechanically refrigerated cold storage compartment or container is adequately prepared for the transportation of such food, including that it has been properly pre-cooled, if necessary, and meets other sanitary conditions for food transportation.
+
+(d) *Requirements applicable to receivers engaged in transportation operations.* Upon receipt of food that requires temperature control for safety under the conditions of shipment, the receiver must take steps to adequately assess that the food was not subjected to significant temperature abuse, such as determining the food's temperature, the ambient temperature of the vehicle and its temperature setting, and conducting a sensory inspection, *e.g.,* for off-odors.
+
+(e) *Requirements applicable to carriers engaged in transportation operations.* When the carrier and shipper have a written agreement that the carrier is responsible, in whole or in part, for sanitary conditions during the transportation operation, the carrier is responsible for the following functions as applicable per the agreement:
+
+(1) A carrier must ensure that vehicles and transportation equipment meet the shipper's specifications and are otherwise appropriate to prevent the food from becoming unsafe during the transportation operation.
+
+(2) A carrier must, once the transportation operation is complete and if requested by the receiver, provide the operating temperature specified by the shipper in accordance with paragraph (b)(2) of this section and, if requested by the shipper or receiver, demonstrate that it has maintained temperature conditions during the transportation operation consistent with the operating temperature specified by the shipper in accordance with paragraph (b)(2) of this section. Such demonstration may be accomplished by any appropriate means agreeable to the carrier and shipper, such as the carrier presenting measurements of the ambient temperature upon loading and unloading or time/temperature data taken during the shipment.
+
+(3) Before offering a vehicle or transportation equipment with an auxiliary refrigeration unit for use for the transportation of food that requires temperature control for safety under the conditions of the shipment during transportation, a carrier must pre-cool each mechanically refrigerated cold storage compartment as specified by the shipper in accordance with paragraph (b)(2) of this section.
+
+(4) If requested by the shipper, a carrier that offers a bulk vehicle for food transportation must provide information to the shipper that identifies the previous cargo transported in the vehicle.
+
+(5) If requested by the shipper, a carrier that offers a bulk vehicle for food transportation must provide information to the shipper that describes the most recent cleaning of the bulk vehicle.
+
+(6) A carrier must develop and implement written procedures subject to the records requirements of § 1.912(b) that:
+
+(i) Specify practices for cleaning, sanitizing if necessary, and inspecting vehicles and transportation equipment that the carrier provides for use in the transportation of food to maintain the vehicles and the transportation equipment in appropriate sanitary condition as required by § 1.906(b);
+
+(ii) Describe how it will comply with the provisions for temperature control in paragraph (e)(2) of this section, and;
+
+(iii) Describe how it will comply with the provisions for the use of bulk vehicles in paragraphs (e)(4) and (5) of this section.

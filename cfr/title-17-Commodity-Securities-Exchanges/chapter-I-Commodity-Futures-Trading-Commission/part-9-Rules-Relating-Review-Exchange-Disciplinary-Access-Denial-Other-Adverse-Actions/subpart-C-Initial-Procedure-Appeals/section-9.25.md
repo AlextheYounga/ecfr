@@ -1,0 +1,5 @@
+##### § 9.25 Limited participation of interested persons. #####
+
+On its own motion or upon motion of any person asserting a direct and substantial interest in the outcome of a proceeding conducted under this part, the Commission, in its discretion, may permit the limited participation by such interested person in the proceeding. A motion for leave to participate in the proceeding must identify the interest of that person and must state the reasons why participation in the proceeding by that person is desirable, and must state whether that person requests a copy of the record of the exchange proceeding to the extent permitted by section 8c(a)(2) of the Act and that such person agrees to pay the exchange reasonable fees, as provided in the rules of the exchange, for printing the copy.
+
+[52 FR 25366, July 7, 1987, as amended at 59 FR 5701, Feb. 8, 1994]

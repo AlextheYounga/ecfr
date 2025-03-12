@@ -1,0 +1,3 @@
+##### § 72.21 Consular officer may not assume financial responsibility for the estate. #####
+
+A consular officer is not authorized to assume any financial responsibility or to incur any expense on behalf of the United States Government in collecting and disposing of the personal estate of a United States citizen or national who dies abroad. A consular officer may incur expenses on behalf of the estate only to the extent that there are funds available in the estate or from other sources (such as the next of kin).

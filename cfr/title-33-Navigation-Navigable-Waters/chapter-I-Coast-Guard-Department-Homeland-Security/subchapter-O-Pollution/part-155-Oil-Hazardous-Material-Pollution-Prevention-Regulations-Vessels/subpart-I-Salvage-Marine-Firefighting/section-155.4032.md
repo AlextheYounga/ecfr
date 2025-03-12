@@ -1,0 +1,5 @@
+##### § 155.4032 Other resource provider considerations. #####
+
+(a) *Use of resource providers not listed in the VRP.* If another resource provider, not listed in the approved plan for the specific service required, is to be contracted for a specific response, justification for the selection of that resource provider needs to be provided to, and approved by, the FOSC. Only under exceptional circumstances will the FOSC authorize deviation from the resource provider listed in the approved vessel response plan in instances where that would best affect a more successful response.
+
+(b) *Worker health and safety.* Your resource providers must have the capability to implement the necessary engineering, administrative, and personal protective equipment controls to safeguard their workers when providing salvage and marine firefighting services, as found in 33 CFR 155.1055(e) and 29 CFR 1910.120(q).

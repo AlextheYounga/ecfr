@@ -1,0 +1,5 @@
+##### § 201.19 Drugs; use of term “infant”. #####
+
+The regulations affecting special dietary foods (§ 105.3(e) of this chapter) define an infant as a child not more than 12 months old. Apart from this, the Food and Drug Administration has not established any definition of the term *infant.* Some question has arisen whether, for the purposes of drug labeling, an infant means a child up to 1 year of age or a child up to 2 years of age. Until the term is more precisely defined by legislation or formal regulation, where the exact meaning of the term is significant, manufacturers should qualify any reference to “infant” to indicate whether it refers to a child who is not more than 1 year of age, or a child not more than 2 years of age.
+
+[40 FR 13998, Mar. 27, 1975, as amended at 42 FR 14091, Mar. 15, 1977; 44 FR 16006, Mar. 16, 1979]

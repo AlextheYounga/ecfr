@@ -1,0 +1,5 @@
+##### § 71.25 Communications and pleadings. #####
+
+All communications to the Government regarding the procedures set forth in this part and all pleadings, such as answers, motions, requests, or other papers or documents required or permitted to be filed under this part, relating to a proceeding pending before an administrative law judge, shall be addressed to the administrative law judge, at his post of duty or to the administrative law judge, in care of the appropriate TTB officer to be forwarded to the examiner. Communications concerning proceedings not pending before an administrative law judge, should be addressed to the appropriate TTB officer or the Administrator, as the case may be. All pleadings should be filed in quadruplicate.
+
+[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, as amended by T.D. ATF-374, 61 FR 29957, June 13, 1996]

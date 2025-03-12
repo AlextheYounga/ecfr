@@ -1,0 +1,3 @@
+##### § 201.326 Evidence: Presentation, rebuttal and cross-examination. #####
+
+In any proceeding in which a hearing is required to be conducted on the record after opportunity for hearing in accord with 5 U.S.C. 556(a), a party is entitled to present its case or defense by oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as, in the discretion of the Commission or the hearing officer, may be required for a full and true disclosure of the facts. The scope and form of evidence, rebuttal evidence, if any, and cross-examination, if any, in any other proceeding shall be determined by the Commission or the hearing officer in each proceeding.

@@ -1,0 +1,9 @@
+##### § 334.1410 Pacific Ocean, at Makapuu Point, Waimanalo, Island of Oahu, Hawaii, Makai Undersea Test Range. #####
+
+(a) *The restricted area.* The waters within an area beginning at a point in latitude 21°18′50″ N., longitude 157°39′07″ W.; thence to latitude 21°20′33″ N., longitude 157°38′00″ W.; thence to latitude 21°22′02″ N., longitude 157°39′07″ W.; and thence to latitude 21°19′35″ N., longitude 157°40′46″ W.
+
+(b) *The regulations.* (1) During critical testing phases of surface and submerged units, the operating officials of the Makai Test Range will mark in a conspicuous manner the location of the equipment which might be subject to damage from navigation and fishing activities or might represent a hazard to persons or property in the vicinity. During the display of signals in the restricted area, all persons and surface craft will remain away from the area until such time as the signals are withdrawn. At all other times the area is open to unrestricted fishing, boating and general navigation.
+
+(2) Operating officers and personnel of the Makai Test Range will be responsible for marking in a conspicuous manner the location of surface and underwater equipment which is subject to damage from navigation and fishing activities in the vicinity or represents a hazard to persons or property in the vicinity, and the location of the work area during critical testing phases. Surface communication by boat will be provided by the Makai Test Range during testing phases.
+
+[34 FR 7964, May 21, 1969. Redesignated at 50 FR 42696, Oct. 22, 1985, as amended at 62 FR 17559, Apr. 10, 1997; 62 FR 24034, May 2, 1997]

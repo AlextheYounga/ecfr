@@ -1,0 +1,11 @@
+##### § 310.527 Drug products containing active ingredients offered over-the-counter (OTC) for external use as hair growers or for hair loss prevention. #####
+
+(a) Amino acids, aminobenzoic acid, ascorbic acid, benzoic acid, biotin and all other B-vitamins, dexpanthenol, estradiol and other topical hormones, jojoba oil, lanolin, nucleic acids, polysorbate 20, polysorbate 60, sulfanilamide, sulfur 1 percent on carbon in a fraction of paraffinic hydrocarbons, tetracaine hydrochloride, urea, and wheat germ oil have been marketed as ingredients in OTC drug products for external use as hair growers or for hair loss prevention. There is a lack of adequate data to establish general recognition of the safety and effectiveness of these or any other ingredients intended for OTC external use as a hair grower or for hair loss prevention. Based on evidence currently available, all labeling claims for OTC hair grower and hair loss prevention drug products for external use are either false, misleading, or unsupported by scientific data. Therefore, any OTC drug product for external use containing an ingredient offered for use as a hair grower or for hair loss prevention cannot be considered generally recognized as safe and effective for its intended use.
+
+(b) Any OTC drug product that is labeled, represented, or promoted for external use as a hair grower or for hair loss prevention is regarded as a new drug within the meaning of section 201(p) of the Federal Food, Drug, and Cosmetic Act (the act), for which an approved new drug application under section 505 of the act and part 314 of this chapter is required for marketing. In the absence of an approved new drug application, such product is also misbranded under section 502 of the act.
+
+(c) Clinical investigations designed to obtain evidence that any drug product labeled, represented, or promoted for OTC external use as a hair grower or for hair loss prevention is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter.
+
+(d) After January 8, 1990, any such OTC drug product initially introduced or initially delivered for introduction into interstate commerce that is not in compliance with this section is subject to regulatory action.
+
+[54 FR 28777, July 7, 1989]

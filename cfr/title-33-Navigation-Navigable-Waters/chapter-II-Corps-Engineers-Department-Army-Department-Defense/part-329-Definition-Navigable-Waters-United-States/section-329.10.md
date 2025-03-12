@@ -1,0 +1,3 @@
+##### § 329.10 Existence of obstructions. #####
+
+A stream may be navigable despite the existence of falls, rapids, sand bars, bridges, portages, shifting currents, or similar obstructions. Thus, a waterway in its original condition might have had substantial obstructions which were overcome by frontier boats and/or portages, and nevertheless be a “channel” of commerce, even though boats had to be removed from the water in some stretches, or logs be brought around an obstruction by means of artificial chutes. However, the question is ultimately a matter of degree, and it must be recognized that there is some point beyond which navigability could not be established.

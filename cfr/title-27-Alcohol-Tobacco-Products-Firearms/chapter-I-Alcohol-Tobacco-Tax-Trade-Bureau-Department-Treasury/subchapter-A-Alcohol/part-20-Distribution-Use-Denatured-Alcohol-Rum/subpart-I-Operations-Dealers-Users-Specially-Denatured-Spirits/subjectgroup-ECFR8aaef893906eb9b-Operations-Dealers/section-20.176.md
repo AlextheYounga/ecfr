@@ -1,0 +1,3 @@
+##### § 20.176 Packaging by a dealer. #####
+
+A dealer may package specially denatured spirits in containers of any size necessary for the conduct of business. After filling packages, the dealer shall accurately determine the contents of each package. After filling drums, the dealer shall seal all the drum openings with the dealer's own seals. Packages of specially denatured spirits shall be marked or labeled in accordance with § 20.178.

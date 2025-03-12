@@ -1,0 +1,3 @@
+##### § 203.12 Cooperative Development Organizations (CDOs). #####
+
+CDOs are not PVOs for purposes of registration under this part. CDOs as part of the larger PVO community will continue to be listed in the U.S. PVO Registry at *www.usaid.gov* Keyword: Registry and will continue to be eligible for assistance that is otherwise available to registered U.S. PVOs. In order to be listed in the Registry as a CDO, the CDO must comply with the annual documentation requirements of § 203.5. A CDO applying for registration or registered under this part as a U.S. PVO must comply with the requirements of this part.

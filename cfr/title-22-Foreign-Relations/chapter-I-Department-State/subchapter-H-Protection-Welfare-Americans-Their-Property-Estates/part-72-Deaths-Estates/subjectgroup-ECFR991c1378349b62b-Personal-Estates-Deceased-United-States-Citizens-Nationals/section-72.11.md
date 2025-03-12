@@ -1,0 +1,3 @@
+##### § 72.11 Responsibility if a will intended to operate in the United States exists. #####
+
+The consular officer immediately should forward any will that is intended to operate in the United States and that is among the effects taken into possession to the person or persons designated as executor(s). When the executor(s) cannot be located, the consular officer should send the will to the appropriate court in the State of the decedent's domicile. Until the consular officer knows that a legal representative is present in the foreign country and has qualified or made arrangements to take charge of the personal estate, the consular officer should act as provisional conservator in accordance with § 72.8.

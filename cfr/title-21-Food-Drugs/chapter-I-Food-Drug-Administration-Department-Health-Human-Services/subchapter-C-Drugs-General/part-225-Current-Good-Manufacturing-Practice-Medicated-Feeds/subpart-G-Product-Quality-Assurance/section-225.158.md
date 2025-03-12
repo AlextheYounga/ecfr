@@ -1,0 +1,3 @@
+##### § 225.158 Laboratory assays. #####
+
+Where the results of laboratory assays of drug components, including assays by State feed control officials, indicate that the medicated feed is not in accord with the permissible limits specified in this chapter, investigation and corrective action shall be implemented immediately by the firm and such records shall be maintained on the premises for a period of 1 year.

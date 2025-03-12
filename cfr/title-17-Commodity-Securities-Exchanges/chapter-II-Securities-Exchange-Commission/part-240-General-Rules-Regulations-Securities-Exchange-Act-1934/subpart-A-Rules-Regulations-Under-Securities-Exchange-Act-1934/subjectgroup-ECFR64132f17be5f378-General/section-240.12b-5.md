@@ -1,0 +1,3 @@
+##### § 240.12b-5 Determination of affiliates of banks. #####
+
+In determining whether a person is an “affiliate” or “parent” of a bank or whether a bank is a “subsidiary” or “majority-owner subsidiary” of a person within the meaning of those terms as defined in § 240.12b-2, voting securities of the bank held by a corporation all of the stock of which is directly owned by the United States Government shall not be taken into consideration.

@@ -1,0 +1,7 @@
+##### § 210.12-04 Condensed financial information of registrant. #####
+
+(a) Provide condensed financial information as to financial position, cash flows and results of operations of the registrant as of the same dates and for the same periods for which audited consolidated financial statements are required. The financial information required need not be presented in greater detail than is required for condensed statements by § 210.10-01(a) (2), (3) and (4). Detailed footnote disclosure which would normally be included with complete financial statements may be omitted with the exception of disclosures regarding material contingencies, long-term obligations and guarantees. Descriptions of significant provisions of the registrant's long-term obligations, mandatory dividend or redemption requirements of redeemable stocks, and guarantees of the registrant shall be provided along with a five-year schedule of maturities of debt. If the material contingencies, long-term obligations, redeemable stock requirements and guarantees of the registrant have been separately disclosed in the consolidated statements, they need not be repeated in this schedule.
+
+(b) Disclose separately the amounts of cash dividends paid to the registrant for each of the last three fiscal years by consolidated subsidiaries, unconsolidated subsidiaries and 50 percent or less owned persons accounted for by the equity method, respectively.
+
+[46 FR 56180, Nov. 16, 1981, as amended at 57 FR 45293, Oct. 1, 1992]

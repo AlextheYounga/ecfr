@@ -1,0 +1,3 @@
+##### § 204.31 Prosecution of claims. #####
+
+After an assignment to A.I.D. by the Lender or any Assignee pursuant to § 204.21(b), A.I.D. shall have exclusive power to prosecute all claims related to the outstanding Eligible Notes so assigned. If the Lender or such Assignee continues to have an interest in the outstanding Eligible Notes, the Lender or such Assignee and A.I.D. shall consult with each other with respect to their respective interests in such Eligible Notes and the manner of and responsibility for prosecuting claims.

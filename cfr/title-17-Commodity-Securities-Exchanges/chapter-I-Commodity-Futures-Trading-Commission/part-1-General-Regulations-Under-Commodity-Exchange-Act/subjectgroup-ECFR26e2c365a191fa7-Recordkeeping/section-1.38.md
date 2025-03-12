@@ -1,0 +1,7 @@
+##### § 1.38 Execution of transactions. #####
+
+(a) *Competitive execution required; exceptions.* All purchases and sales of any commodity for future delivery, and of any commodity option, on or subject to the rules of a contract market shall be executed openly and competitively by open outcry or posting of bids and offers or by other equally open and competitive methods, in the trading pit or ring or similar place provided by the contract market, during the regular hours prescribed by the contract market for trading in such commodity or commodity option: *Provided, however,* That this requirement shall not apply to transactions which are executed non-competitively in accordance with written rules of the contract market which have been submitted to and approved by the Commission, specifically providing for the non-competitive execution of such transactions.
+
+(b) *Noncompetitive trades; exchange of futures, etc.; requirements.* Every person handling, executing, clearing, or carrying trades, transactions or positions which are not competitively executed, including transfer trades or office trades, or trades involving the exchange of futures for cash commodities or the exchange of futures in connection with cash commodity transactions, shall identify and mark by appropriate symbol or designation all such transactions or contracts and all orders, records, and memoranda pertaining thereto.
+
+(Approved by the Office of Management and Budget under control numbers 3038-0007 and 3038-0022)[46 FR 54523, Nov. 3, 1981, as amended at 46 FR 63035, Dec. 30, 1981]

@@ -1,0 +1,13 @@
+##### § 864.1860 Immunohistochemistry reagents and kits. #####
+
+(a) *Identification.* Immunohistochemistry test systems (IHC's) are in vitro diagnostic devices consisting of polyclonal or monoclonal antibodies labeled with directions for use and performance claims, which may be packaged with ancillary reagents in kits. Their intended use is to identify, by immunological techniques, antigens in tissues or cytologic specimens. Similar devices intended for use with flow cytometry devices are not considered IHC's.
+
+(b) *Classification of immunohistochemistry devices.* (1) Class I (general controls). Except as described in paragraphs (b)(2) and (b)(3) of this section, these devices are exempt from the premarket notification requirements in part 807, subpart E of this chapter. This exemption applies to IHC's that provide the pathologist with adjunctive diagnostic information that may be incorporated into the pathologist's report, but that is not ordinarily reported to the clinician as an independent finding. These IHC's are used after the primary diagnosis of tumor (neoplasm) has been made by conventional histopathology using nonimmunologic histochemical stains, such as hematoxylin and eosin. Examples of class I IHC's are differentiation markers that are used as adjunctive tests to subclassify tumors, such as keratin.
+
+(2) Class II (special control, guidance document: “FDA Guidance for Submission of Immunohistochemistry Applications to the FDA,” Center for Devices and Radiologic Health, 1998). These IHC's are intended for the detection and/or measurement of certain target analytes in order to provide prognostic or predictive data that are not directly confirmed by routine histopathologic internal and external control specimens. These IHC's provide the pathologist with information that is ordinarily reported as independent diagnostic information to the ordering clinician, and the claims associated with these data are widely accepted and supported by valid scientific evidence. Examples of class II IHC's are those intended for semiquantitative measurement of an analyte, such as hormone receptors in breast cancer.
+
+(3) Class III (premarket approval). IHC's intended for any use not described in paragraphs (b)(1) or (b)(2) of this section.
+
+(c) *Date of PMA or notice of completion of a PDP is required.* As of May 28, 1976, an approval under section 515 of the Federal Food, Drug, and Cosmetic Act is required for any device described in paragraph (b)(3) of this section before this device may be commercially distributed. See § 864.3.
+
+[63 FR 30142, June 3, 1998]

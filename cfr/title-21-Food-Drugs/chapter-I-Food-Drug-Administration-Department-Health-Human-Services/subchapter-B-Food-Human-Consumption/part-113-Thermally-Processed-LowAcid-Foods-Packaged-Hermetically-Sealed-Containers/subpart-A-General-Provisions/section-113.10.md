@@ -1,0 +1,3 @@
+##### § 113.10 Personnel. #####
+
+The operators of processing systems, retorts, aseptic processing and packaging systems and product formulating systems (including systems wherein water activity is used in conjunction with thermal processing) and container closure inspectors shall be under the operating supervision of a person who has attended a school approved by the Commissioner for giving instruction appropriate to the preservation technology involved and who has been identified by that school as having satisfactorily completed the prescribed course of instruction. This person shall supervise only in those areas for which a school approved by the Commissioner identifies the person as having satisfactorily completed training.

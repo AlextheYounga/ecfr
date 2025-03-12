@@ -1,0 +1,3 @@
+##### § 31.4 Relation to State and municipal law. #####
+
+Compliance with the requirements of this part shall not be held to exempt any person from any penalty or punishment provided by the laws of any State for carrying on any trade or business within such State, or in any manner to authorize the commencement or continuance of such trade or business contrary to the laws of such State or in places prohibited by municipal law; nor shall such compliance be held to prohibit any State from placing a duty or tax on the same trade or business, for State or other purposes.

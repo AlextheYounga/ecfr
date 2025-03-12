@@ -1,0 +1,5 @@
+##### § 10.34 Limited participation. #####
+
+(a) *Petitions for leave to be heard.* Any person may, in the discretion of the Administrative Law Judge, be given leave to be heard in any proceeding as to any matter affecting his interests. Petitions for leave to be heard shall be in writing, shall set forth (1) the nature and extent of the applicant's interest in the proceeding; (2) the issues on which he wishes to participate; and (3) in what manner he wishes to participate. The Administrative Law Judge may direct any person requesting leave to be heard to submit himself to examination as to his interest in the proceeding.
+
+(b) *Rights of a participant.* Leave to be heard pursuant to § 10.34(a) may include such rights of a party as the Administrative Law Judge may deem appropriate, except that oral argument before the Commission may be permitted only by the Commission.

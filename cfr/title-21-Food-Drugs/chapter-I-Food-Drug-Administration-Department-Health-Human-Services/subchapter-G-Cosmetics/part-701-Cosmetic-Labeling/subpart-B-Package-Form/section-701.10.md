@@ -1,0 +1,11 @@
+##### § 701.10 Principal display panel. #####
+
+The term *principal display panel* as it applies to cosmetics in package form and as used in this part, means the part of a label that is most likely to be displayed, presented, shown, or examined under customary conditions of display for retail sale. The principal display panel shall be large enough to accommodate all the mandatory label information required to be placed thereon by this part with clarity and conspicuousness and without obscuring designs, vignettes, or crowding. Where packages bear alternate principal display panels, information required to be placed on the principal display panel shall be duplicated on each principal display panel. For the purpose of obtaining uniform type size in declaring the quantity of contents of all packages of substantially the same size, the term “area of the principal display panel” means the area of the side or surface that bears the principal display panel, which area shall be:
+
+(a) In the case of a rectangular package where one entire side properly can be considered to be the principal display panel side, the product of the height times the width of that side;
+
+(b) In the case of a cylindrical or nearly cylindrical container, 40 percent of the product of the height of the container times the circumference; and
+
+(c) In the case of any other shape of container, 40 percent of the total surface of the container: *Provided, however,* That where such container presents an obvious “principal display panel” such as the top of a triangular or circular package, the area shall consist of the entire top surface.
+
+In determining the area of the principal display panel, exclude tops, bottoms, flanges at the tops and bottoms of cans, and shoulders and necks of bottles or jars. In the case of cylindrical or nearly cylindrical containers, information required by this part to appear on the principal display panel shall appear within that 40 percent of the circumference which is most likely to be displayed, presented, shown, or examined under customary conditions of display for retail sale.

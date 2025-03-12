@@ -1,0 +1,5 @@
+##### § 230.149 Definition of “exchanged” in section 3(a)(9), for certain transactions. #####
+
+The term *exchanged* in section 3(a)(9) (sec. 202(c), 48 Stat. 906; 15 U.S.C. 77c(9)) shall be deemed to include the issuance of a security in consideration of the surrender, by the existing security holders of the issuer, of outstanding securities of the issuer, notwithstanding the fact that the surrender of the outstanding securities may be required by the terms of the plans of exchange to be accompanied by such payment in cash by the security holder as may be necessary to effect an equitable adjustment, in respect of dividends or interest paid or payable on the securities involved in the exchange, as between such security holder and other security holders of the same class accepting the offer of exchange.
+
+[2 FR 1382, July 7, 1937]

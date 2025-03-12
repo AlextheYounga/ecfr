@@ -1,0 +1,3 @@
+##### § 7.40 Application. #####
+
+Sections 7.40 through 7.42 shall apply only to persons bottling or packing malt beverages (other than malt beverages in customs custody) for shipment, or delivery for sale or shipment, into a State, the laws or regulations of which require that all malt beverages sold or otherwise disposed of in such State be labeled in conformity with the requirements of §§ 7.20 through 7.29.

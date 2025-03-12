@@ -1,0 +1,9 @@
+##### § 1304.3 Records available to the public. #####
+
+(a) *General.* (1) It is the policy of MCC to respond promptly to all FOIA requests.
+
+(2) MCC may disclose records that were previously published or disclosed or are customarily furnished to the public in the course of the performance of official duties without complying with this part. These records include, but are not limited to, the annual report that MCC submits to Congress pursuant to section 613(a) of the Millennium Challenge Act of 2003 (22 U.S.C. 7701), press releases, MCC forms, and materials published in the Federal Register. MCC should first determine whether the information requested is already available on its Web site, which contains information readily accessible to the public. In such an event, MCC will contact the requesting party, either orally or in writing, to advise the individual of the availability of the information on the public Web site. MCC should document this request and the manner in which it handled the file. Where MCC makes the determination that the information requested is not already publicly accessible, MCC should adhere to the procedures outlined in this part for processing a FOIA request and any administrative appeals received.
+
+(b) *Public Reading room.* (1) Records that are required to be maintained by MCC shall be available for public inspection and copying at 875 Fifteenth Street, NW., Washington, DC 20005. Reading room records created on or after November 1, 1996 shall be made available electronically via the Web site at *http://www.mcc.gov.*
+
+(2) MCC shall assess fees for searching, reviewing, or duplicating reading room records in accordance with § 1304.9.

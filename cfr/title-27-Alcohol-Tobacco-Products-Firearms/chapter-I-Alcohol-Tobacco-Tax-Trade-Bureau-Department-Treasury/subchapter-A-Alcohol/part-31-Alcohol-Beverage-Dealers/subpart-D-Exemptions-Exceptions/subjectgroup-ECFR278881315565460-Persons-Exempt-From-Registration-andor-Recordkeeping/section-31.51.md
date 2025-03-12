@@ -1,0 +1,3 @@
+##### § 31.51 Wholesale dealers making retail sales. #####
+
+A wholesale dealer in liquors who sells, or offers for sale, distilled spirits, wines, or beer, and a wholesale dealer in beer who sells, or offers for sale, only beer, whether to dealers or to persons other than dealers, at any place where the wholesale dealer in liquors or beer has appropriately registered under this part, is exempt from registration at that place as a retail dealer in liquors or in beer.

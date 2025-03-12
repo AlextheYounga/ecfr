@@ -1,0 +1,5 @@
+##### § 71.99 Conduct of hearing. #####
+
+The administrative law judge is charged with the duty of conducting a fair and impartial hearing and of maintaining order in form and manner consistent with dignity. In the event that counsel or any person or witness in any proceeding shall refuse to obey the orders of the administrative law judge, or be guilty of disorderly or contemptuous language or conduct in connection with any hearing, the administrative law judge may, for good cause stated in the record, suspend the hearing, and, in the case of an attorney, recommend that the Administrator report the matter to the Administrator of Practice for disciplinary action. The refusal of a witness to answer any question which has been ruled to be proper shall be considered by the administrative law judge in determining the weight to be given all the testimony of that witness.
+
+[21 FR 1441, Mar. 6, 1956. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 43 FR 13531, Mar. 31, 1978; 44 FR 55846, Sept. 28, 1979]

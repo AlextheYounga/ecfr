@@ -1,0 +1,13 @@
+##### § 41.181 Records of large cigars. #####
+
+Every person who imports large cigars for sale within the United States must keep such records as are necessary to establish and verify the sale price that applies to large cigars removed (entered or withdrawn).
+
+(a) *Basic record.* The importer must keep a record to show each sale price (as determined under § 41.39), which is applicable to large cigars removed. No later than the tenth business day in January of each year the importer must prepare such a record to show the sale price in effect on the first day of that year for each brand and size of large cigars. The importer must note any change in a price from that shown in the record within ten business days after such change in price. The record must be a continuing one for each brand and size of cigar (and type of packaging, if pertinent), so that the taxable price on any date may be readily ascertained. If an importer removes new types of large cigars after the beginning of the year, the importer must enter the sale price and its effective date for such large cigars in the basic record within ten business days after such removal.
+
+(b) *Copies of price announcements.* The importer must keep a copy of each general announcement that is issued internally or to the trade about establishment or change of large cigar sale prices. If the copy does not show the actual date when issued it must be annotated to show this information.
+
+(c) *Copies of entry and withdrawal forms.* The importer must keep a copy of each customs entry or withdrawal form on which internal revenue tax for large cigars is declared pursuant to § 41.81.
+
+(d) *Alternative record.* If an importer has so few import transactions and/or brands and sizes of large cigars that retention of an appropriate copy of each entry and withdrawal form required under paragraph (c) of this section will provide an adequate record of sale prices, then the record required under paragraph (a) of this section need not be kept. In such case the entry and withdrawal forms must identify the brands and sizes of cigars covered and show the corresponding quantity and sale price for each. If such information was not originally entered on the form it may be included by annotation. Whenever the appropriate TTB officer finds that alternative records being kept pursuant to this paragraph are inadequate for the intended purpose, he or she may so notify the importer in writing, after which time the importer must keep the record required under paragraph (a) of this section.
+
+(Approved by the Office of Management and Budget under control number 1512-0368)[T.D. ATF-420, 64 FR 71944, Dec. 22, 1999. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

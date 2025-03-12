@@ -1,0 +1,3 @@
+##### § 46.7 Reporting to a single swap data repository. #####
+
+All data reported for each pre-enactment or transition swap pursuant to this part 46, and all corrections of errors and omissions in previously reported data for the swap, shall be reported to the same swap data repository to which the initial data report concerning the swap is made (or to its successor in the event that it ceases to operate, as provided in part 49 of this chapter).

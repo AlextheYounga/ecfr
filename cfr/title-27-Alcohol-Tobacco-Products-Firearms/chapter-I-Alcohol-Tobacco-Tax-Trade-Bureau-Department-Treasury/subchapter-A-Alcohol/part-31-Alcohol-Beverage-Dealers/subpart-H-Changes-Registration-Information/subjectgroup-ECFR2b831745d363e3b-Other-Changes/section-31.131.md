@@ -1,0 +1,5 @@
+##### § 31.131 Change of address. #####
+
+(a) *General.* A dealer who removes the business to a place other than that for which the dealer is registered must register the change with TTB by filing an amended registration form, TTB Form 5630.5d, on or before the next July 1 following the change.
+
+(b) *Caterers.* A caterer who sells liquor by the drink at locations other than his or her principal place of business shall not be required to provide the change of location registration prescribed in paragraph (a) of this section for those catering activities, provided that the caterer maintains the records required by § 31.95(c). For a permanent change in location of the principal place of business, the caterer must file an amended registration form in accordance with paragraph (a) of this section.

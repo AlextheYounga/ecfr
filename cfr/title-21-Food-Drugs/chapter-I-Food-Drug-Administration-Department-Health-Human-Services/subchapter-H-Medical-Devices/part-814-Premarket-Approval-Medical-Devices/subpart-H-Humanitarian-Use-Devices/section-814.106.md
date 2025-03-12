@@ -1,0 +1,5 @@
+##### § 814.106 HDE amendments and resubmitted HDE's. #####
+
+An HDE or HDE supplement may be amended or resubmitted upon an applicant's own initiative, or at the request of FDA, for the same reasons and in the same manner as prescribed for PMA's in § 814.37, except that the timeframes set forth in § 814.37(c)(1) and (d) do not apply. If FDA requests an HDE applicant to submit an HDE amendment, and a written response to FDA's request is not received within 75 days of the date of the request, FDA will consider the pending HDE or HDE supplement to be withdrawn voluntarily by the applicant. Furthermore, if the HDE applicant, on its own initiative or at FDA's request, submits a major amendment as described in § 814.37(c)(1), the review period may be extended up to 75 days.
+
+[63 FR 59220, Nov. 3, 1998]

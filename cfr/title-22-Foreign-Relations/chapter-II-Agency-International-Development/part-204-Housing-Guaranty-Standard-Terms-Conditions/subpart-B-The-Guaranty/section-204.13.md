@@ -1,0 +1,3 @@
+##### § 204.13 Non-impairment of the guaranty. #####
+
+The full faith and credit of the United States of America is pledged to the performance of this Guaranty. The Guaranty shall not be affected or impaired by any defect in the authorization, execution, delivery or enforceability of any agreement or other document executed by the Lender, A.I.D., the Paying Agent or the Borrower in connection with the transactions contemplated by this Guaranty. This non-impairment of the guaranty provision shall not, however, be operative with respect to any amount arising out of fraud or misrepresentation for which the Lender or Assignee is responsible or of which it had knowledge prior to the time it became such Lender or Assignee.

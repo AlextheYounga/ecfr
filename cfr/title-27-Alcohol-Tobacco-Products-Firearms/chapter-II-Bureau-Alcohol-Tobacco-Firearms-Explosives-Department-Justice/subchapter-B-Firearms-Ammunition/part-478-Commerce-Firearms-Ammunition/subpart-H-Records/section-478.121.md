@@ -1,0 +1,11 @@
+##### § 478.121 General. #####
+
+(a) The records pertaining to firearms transactions prescribed by this part shall be retained on the licensed premises in the manner prescribed by this subpart and for the length of time prescribed by § 478.129. The records pertaining to ammunition prescribed by this part shall be retained on the licensed premises in the manner prescribed by § 478.125.
+
+(b) ATF officers may, for the purposes and under the conditions prescribed in § 478.23, enter the premises of any licensed importer, licensed manufacturer, licensed dealer, or licensed collector for the purpose of examining or inspecting any record or document required by or obtained under this part. Section 923(g) of the Act requires licensed importers, licensed manufacturers, licensed dealers, and licensed collectors to make such records available for such examination or inspection during business hours or, in the case of licensed collectors, hours of operation, as provided in § 478.23.
+
+(c) Each licensed importer, licensed manufacturer, licensed dealer, and licensed collector shall maintain such records of importation, production, shipment, receipt, sale, or other disposition, whether temporary or permanent, of firearms and such records of the disposition of ammunition as the regulations contained in this part prescribe. Section 922(m) of the Act makes it unlawful for any licensed importer, licensed manufacturer, licensed dealer, or licensed collector knowingly to make any false entry in, to fail to make appropriate entry in, or to fail to properly maintain any such record.
+
+(d) For recordkeeping requirements for sales by licensees at gun shows see § 478.100(c).
+
+(Information collection requirements in paragraph (a) approved by the Office of Management and Budget under control number 1140-0020; information collection requirements in paragraphs (b) and (c) approved by the Office of Management and Budget under control number 1140-0032)[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-191, 49 FR 46891, Nov. 29, 1984; T.D. ATF-208, 50 FR 26703, June 28, 1985; T.D. ATF-270, 53 FR 10501, Mar. 31, 1988; T.D. ATF-11F, 73 FR 57241, Oct. 2, 2008]

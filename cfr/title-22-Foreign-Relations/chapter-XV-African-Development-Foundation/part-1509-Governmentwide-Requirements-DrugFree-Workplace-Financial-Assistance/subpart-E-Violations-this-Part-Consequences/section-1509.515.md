@@ -1,0 +1,3 @@
+##### § 1509.515 Are there any exceptions to those actions? #####
+
+The ADF President may waive with respect to a particular award, in writing, a suspension of payments under an award, suspension or termination of an award, or suspension or debarment of a recipient if the ADF President determines that such a waiver would be in the public interest. This exception authority cannot be delegated to any other official.

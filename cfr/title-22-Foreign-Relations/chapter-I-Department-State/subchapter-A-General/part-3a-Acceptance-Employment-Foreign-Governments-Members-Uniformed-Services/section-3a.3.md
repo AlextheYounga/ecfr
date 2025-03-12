@@ -1,0 +1,3 @@
+##### § 3a.3 Authority to approve or disapprove proposed foreign government employment. #####
+
+The Director, Bureau of Politico-Military Affairs, is authorized to approve or disapprove any request by an applicant for approval under this part to accept civil employment (and compensation therefor) from a foreign government. The Director may delegate this authority within the Bureau of Politico-Military Affairs, Department of State.

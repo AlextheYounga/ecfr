@@ -1,0 +1,3 @@
+##### § 1422.15 Transfer of case to the Board; contents of record. #####
+
+Upon the close of the hearing the case is transferred automatically to the Board. The record of the proceeding shall include the petition, notice of hearing, service sheet, motions, rulings, orders, official transcript of the hearing with any corrections thereto, stipulations, objections, depositions, interrogatories, exhibits, documentary evidence, and any briefs or other documents submitted by the parties.

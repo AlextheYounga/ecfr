@@ -1,0 +1,13 @@
+##### § 184.1005 Acetic acid. #####
+
+(a) Acetic acid (C2H4O2, CAS Reg. No. 64-19-7) is known as ethanoic acid. It occurs naturally in plant and animal tissues. It is produced by fermentation of carbohydrates or by organic synthesis. The principal synthetic methods currently employed are oxidation of acetaldehyde derived from ethylene, liquid phase oxidation of butane, and reaction of carbon monoxide with methanol derived from natural gas.
+
+(b) The ingredient meets the specifications of the Food Chemicals Codex, 3d Ed. (1981), p. 8, which is incorporated by reference. Copies are available from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) The ingredient is used as a curing and pickling agent as defined in § 170.3(o)(5) of this chapter; flavor enhancer as defined in § 170.3(o)(11) of this chapter; flavoring agent and adjuvant as defined in § 170.3(o)(12) of this chapter; pH control agent as defined in § 170.3(o)(23) of this chapter; as a solvent and vehicle as defined in § 170.3(o)(27) of this chapter; and as a boiler water additive complying with § 173.310 of this chapter.
+
+(d) The ingredient is used in food at levels not to exceed current good manufacturing practice in accordance with § 184.1(b)(1). Current good manufacturing practice results in a maximum level as served, of 0.25 percent for baked goods as defined in § 170.3(n)(1) of this chapter; 0.8 percent for cheeses as defined in § 170.3(n)(5) of this chapter and dairy product analogs as defined in § 170.3(n)(10) of this chapter; 0.5 percent for chewing gum as defined in § 170.3(n)(6) of this chapter; 9.0 percent for condiments and relishes as defined in § 170.3(n)(8) of this chapter; 0.5 percent for fats and oils as defined in § 170.3(n)(12) of this chapter; 3.0 percent for gravies and sauces as defined in § 170.3(n)(24) of this chapter; 0.6 percent for meat products as defined in § 170.3(n)(29) of this chapter; and 0.15 percent or less for all other food categories. The ingredient may also be used in boiler water additives at levels not to exceed current good manufacturing practice.
+
+(e) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived.
+
+[47 FR 27814, June 25, 1982]

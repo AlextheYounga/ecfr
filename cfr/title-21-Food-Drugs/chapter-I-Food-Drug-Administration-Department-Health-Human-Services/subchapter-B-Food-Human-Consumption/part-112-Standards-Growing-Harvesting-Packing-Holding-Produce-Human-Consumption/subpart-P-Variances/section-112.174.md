@@ -1,0 +1,3 @@
+##### § 112.174 What information submitted in a petition requesting a variance or submitted in comments on such a petition are publicly available? #####
+
+We will presume that information submitted in a petition requesting a variance and comments submitted on such a petition, including a request that a variance be applied to its similarly situated persons, does not contain information exempt from public disclosure under part 20 of this chapter and will be made public as part of the docket associated with this request.

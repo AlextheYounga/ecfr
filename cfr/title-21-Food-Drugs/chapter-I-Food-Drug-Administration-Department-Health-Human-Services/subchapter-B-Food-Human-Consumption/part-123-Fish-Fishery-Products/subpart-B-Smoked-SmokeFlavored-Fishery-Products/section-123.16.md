@@ -1,0 +1,3 @@
+##### § 123.16 Process controls. #####
+
+In order to meet the requirements of subpart A of this part, processors of smoked and smoke-flavored fishery products, except those subject to the requirements of part 113 or 114 of this chapter, shall include in their HACCP plans how they are controlling the food safety hazard associated with the formation of toxin by *Clostridium botulinum* for at least as long as the shelf life of the product under normal and moderate abuse conditions.

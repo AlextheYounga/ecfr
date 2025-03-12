@@ -1,0 +1,5 @@
+##### § 24.100 General. #####
+
+Each person desiring to conduct operations in wine production, as specified in § 24.101(b), (other than the production of wine free of tax as provided in §§ 24.75 through 24.77) shall, prior to commencing operations, establish wine premises, make application as provided in § 24.105, file bond, and receive permission to operate wine premises as provided in this part. After approval, the wine premises will be designated a bonded winery, bonded wine cellar or taxpaid wine bottling house. As provided in § 24.107, the designated bonded winery will be used if production operations are to be conducted. In addition, wine premises may be used, in accordance with the provisions of this part, for the conduct of certain other operations.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1378, as amended (26 U.S.C. 5351, 5352))(Approved by the Office of Management and Budget under control number 1512-0058)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13684, Mar. 22, 1999]

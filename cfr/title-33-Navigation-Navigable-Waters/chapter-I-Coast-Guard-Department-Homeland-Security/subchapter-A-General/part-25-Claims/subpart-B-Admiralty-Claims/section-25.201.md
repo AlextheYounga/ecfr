@@ -1,0 +1,3 @@
+##### § 25.201 Scope. #####
+
+This subpart prescribes the requirements for the administrative settlement of maritime tort claims against the United States for death, personal injury, damage to or loss of property caused by a vessel or other property in the service of the Coast Guard, or a maritime tort committed by an agent of the Coast Guard, and for claims for towage and salvage services rendered to a Coast Guard vessel or property.

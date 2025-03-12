@@ -1,0 +1,11 @@
+##### § 312.21 Phases of an investigation. #####
+
+An IND may be submitted for one or more phases of an investigation. The clinical investigation of a previously untested drug is generally divided into three phases. Although in general the phases are conducted sequentially, they may overlap. These three phases of an investigation are a follows:
+
+(a) *Phase 1.* (1) Phase 1 includes the initial introduction of an investigational new drug into humans. Phase 1 studies are typically closely monitored and may be conducted in patients or normal volunteer subjects. These studies are designed to determine the metabolism and pharmacologic actions of the drug in humans, the side effects associated with increasing doses, and, if possible, to gain early evidence on effectiveness. During Phase 1, sufficient information about the drug's pharmacokinetics and pharmacological effects should be obtained to permit the design of well-controlled, scientifically valid, Phase 2 studies. The total number of subjects and patients included in Phase 1 studies varies with the drug, but is generally in the range of 20 to 80.
+
+(2) Phase 1 studies also include studies of drug metabolism, structure-activity relationships, and mechanism of action in humans, as well as studies in which investigational drugs are used as research tools to explore biological phenomena or disease processes.
+
+(b) *Phase 2.* Phase 2 includes the controlled clinical studies conducted to evaluate the effectiveness of the drug for a particular indication or indications in patients with the disease or condition under study and to determine the common short-term side effects and risks associated with the drug. Phase 2 studies are typically well controlled, closely monitored, and conducted in a relatively small number of patients, usually involving no more than several hundred subjects.
+
+(c) *Phase 3.* Phase 3 studies are expanded controlled and uncontrolled trials. They are performed after preliminary evidence suggesting effectiveness of the drug has been obtained, and are intended to gather the additional information about effectiveness and safety that is needed to evaluate the overall benefit-risk relationship of the drug and to provide an adequate basis for physician labeling. Phase 3 studies usually include from several hundred to several thousand subjects.

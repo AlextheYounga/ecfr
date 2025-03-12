@@ -1,0 +1,7 @@
+##### § 308.17 Denial of access and appeals with respect thereto. #####
+
+In the event that the agency finds it necessary to deny any individual access to a record about such individual pursuant to provisions of the Privacy Act or of these regulations, a response to the original request shall be made in writing within ten working days after the date of such initial request. The denial shall specify the reasons for such refusal or denial and advise the individual of the reasons therefore, and of his or her right to an appeal within the agency and/or judicial review under the provisions of the Act.
+
+(a) In the event an individual desires to appeal any denial of access, he or she may do so in writing by addressing such appeal to the attention of the Director, Peace Corps, or designee identified in such denial. Such appeal should be addressed to Director, Peace Corps, c/o Office of Administrative Services, Room P-314, 806 Connecticut Avenue, NW., Washington, DC 20526.
+
+(b) The Director, or designee, shall review a request from a denial of access and shall make a determination with respect to such appeal within 30 days after receipt thereof. Notice of such determination shall be provided to the individual making the request in writing. If such appeal is denied in whole or in part, such notice shall include notification of the right of the person making such request to have judicial review of the denial as provided in the Act.

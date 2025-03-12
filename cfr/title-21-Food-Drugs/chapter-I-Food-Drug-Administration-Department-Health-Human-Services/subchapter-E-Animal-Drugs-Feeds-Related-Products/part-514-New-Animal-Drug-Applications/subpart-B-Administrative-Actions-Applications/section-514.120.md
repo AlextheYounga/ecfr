@@ -1,0 +1,3 @@
+##### § 514.120 Revocation of order refusing to approve an application or suspending or withdrawing approval of an application. #####
+
+The Commissioner, upon his own initiative or upon request of an applicant stating reasonable grounds therefor and if he finds that the facts so require, may issue an order approving an application that previously has had its approval refused, suspended, or withdrawn.

@@ -1,0 +1,5 @@
+##### § 1423.2 Informal proceedings. #####
+
+(a) The purposes and policies of the Foreign Service Labor-Management Relations Statute can best be achieved by the cooperative efforts of all persons covered by the program. To this end, it shall be the policy of the Board and the General Counsel to encourage all persons alleging unfair labor practices and persons against whom such allegations are made to meet and, in good faith, attempt to resolve such matters prior to the filing of unfair labor practice charges with the Board.
+
+(b) In furtherance of the policy referred to in paragraph (a) of this section, and noting the six (6) month period of limitation set forth in 22 U.S.C. 4116(d), it shall be the policy of the Board and the General Counsel to encourage the informal resolution of unfair labor practice allegations subsequent to the filing of a charge and prior to the issuance of a complaint by the Regional Director.

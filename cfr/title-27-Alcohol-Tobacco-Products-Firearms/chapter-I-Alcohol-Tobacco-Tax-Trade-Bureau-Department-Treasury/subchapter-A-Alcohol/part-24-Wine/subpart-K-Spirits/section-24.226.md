@@ -1,0 +1,5 @@
+##### § 24.226 Receipt or transfer of spirits. #####
+
+When spirits are received at the bonded wine premises, the proprietor shall determine that the spirits are the same as described on the transfer record and follow the procedures prescribed by § 19.407 of this chapter. A copy of the transfer record, annotated to show any difference between the description of spirits and quantity received, will be maintained by the proprietor as a record of receipt. If spirits are to be transferred to a distilled spirits plant or to bonded wine premises, the proprietor shall use the transfer record and procedures prescribed by § 19.405 of this chapter.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1382, as amended (26 U.S.C. 5373))(Approved by the Office of Management and Budget under control number 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. TTB-92, 76 FR 9171, Feb. 16, 2011]

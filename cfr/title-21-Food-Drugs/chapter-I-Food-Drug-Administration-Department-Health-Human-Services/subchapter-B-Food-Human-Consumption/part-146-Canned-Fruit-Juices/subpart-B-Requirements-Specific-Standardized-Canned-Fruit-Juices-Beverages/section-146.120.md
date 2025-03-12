@@ -1,0 +1,15 @@
+##### § 146.120 Frozen concentrate for lemonade. #####
+
+(a) Frozen concentrate for lemonade is the frozen food prepared from one or both of the lemon juice ingredients specified in paragraph (b) of this section together with one or any mixture of safe and suitable nutritive carbohydrate sweeteners. The product contains not less than 48.0 percent by weight of soluble solids taken as the sucrose value determined by refractometer and corrected for acidity prescribed in “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed. (1980), section 22.025, “Frozen Concentrate for Lemonade (12),” under the heading “Soluble Solids by Refractometer—Official First Action,” which is incorporated by reference. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html* When the product is diluted according to directions for making lemonade which shall appear on the label, the acidity of the lemonade, calculated as anhydrous citric acid, shall be not less than 0.70 gram per 100 milliliters, and the soluble solids, measured as described for the concentrate, shall be not less than 10.5 percent by weight.
+
+(b) The lemon juice ingredients referred to in paragraph (a) of this section are:
+
+(1) Lemon juice or frozen lemon juice or a mixture of these.
+
+(2) Concentrated lemon juice or frozen concentrated lemon juice or a mixture of these.
+
+For the purposes of this section, lemon juice is the undiluted juice expressed from mature lemons of an acid variety; and concentrated lemon juice is lemon juice from which part of the water has been removed. In the preparation of the lemon juice ingredients, the lemon oil content may be adjusted by the addition of lemon oil or concentrated lemon oil in accordance with good manufacturing practice, and the lemon pulp in the juice as expressed may be left in the juice or may be separated. Lemon pulp that has been separated, which may have been preserved by freezing, may be added in preparing frozen concentrate for lemonade, provided that the amount of pulp added does not raise the proportion of pulp in the finished food to a level in excess of that which would be present by using lemon juice ingredients from which pulp has not been separated. The lemon juice ingredients may be treated by heat, either before or after the other ingredients are added, to reduce the enzymatic activity and the number of viable microorganisms.
+
+(c) *Label declaration.* Each of the ingredients used in the food shall be declared on the label as required by the applicable sections of parts 101 and 130 of this chapter.
+
+[42 FR 14433, Mar. 15, 1977, as amended at 47 FR 11830, Mar. 19, 1982; 49 FR 10100, Mar. 19, 1984; 54 FR 24895, June 12, 1989; 58 FR 2881, Jan. 6, 1993; 63 FR 14035, Mar. 24, 1998]

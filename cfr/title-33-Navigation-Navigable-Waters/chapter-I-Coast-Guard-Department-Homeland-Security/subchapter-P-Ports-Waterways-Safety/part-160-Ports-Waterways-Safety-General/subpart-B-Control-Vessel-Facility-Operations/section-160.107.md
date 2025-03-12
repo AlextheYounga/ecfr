@@ -1,0 +1,3 @@
+##### § 160.107 Denial of entry. #####
+
+Each District Commander or Captain of the Port, subject to recognized principles of international law, may deny entry into the navigable waters of the United States or to any port or place under the jurisdiction of the United States, and within the district or zone of that District Commander or Captain of the Port, to any vessel not in compliance with the provisions of the Port and Tanker Safety Act (33 U.S.C. 1221-1232) or the regulations issued thereunder.

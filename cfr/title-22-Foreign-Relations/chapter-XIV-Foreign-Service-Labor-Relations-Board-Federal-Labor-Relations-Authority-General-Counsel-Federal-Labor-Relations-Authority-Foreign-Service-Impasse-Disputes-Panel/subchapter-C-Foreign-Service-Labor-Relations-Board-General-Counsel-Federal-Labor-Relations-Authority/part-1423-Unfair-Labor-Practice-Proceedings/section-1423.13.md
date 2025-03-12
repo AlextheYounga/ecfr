@@ -1,0 +1,9 @@
+##### § 1423.13 Answer to the complaint; extension of time for filing; amendment. #####
+
+(a) Except in extraordinary circumstances as determined by the Regional Director, within twenty (20) days after the complaint is served upon the respondent, the respondent shall file the original and four (4) copies of the answer thereto, signed by the respondent or its representative, with the Regional Director who issued the complaint. The respondent shall serve a copy of the answer on the Chief Administrative Law Judge and on all other parties.
+
+(b) The answer: (1) Shall specifically admit, deny, or explain each of the allegations of the complaint unless the respondent is without knowledge, in which case the answer shall so state; or (2) Shall state that the respondent admits all of the allegations in the complaint. Failure to file an answer or to plead specifically to or explain any allegation shall constitute an admission of such allegation and shall be so found by the Board, unless good cause to the contrary is shown.
+
+(c) Upon the Regional Director's own motion or upon proper cause shown by any other party, the Regional Director issuing the complaint may by written order extend the time within which the answer shall be filed.
+
+(d) The answer may be amended by the respondent at any time prior to the hearing. During the hearing or subsequent thereto, the answer may be amended in any case where the complaint has been amended, within such period as may be fixed by the Administrative Law Judge or the Board. Whether or not the complaint has been amended, the answer may, in the discretion of the Administrative Law Judge or the Board, upon motion, be amended upon such terms and within such periods as may be fixed by the Administrative Law Judge or the Board.

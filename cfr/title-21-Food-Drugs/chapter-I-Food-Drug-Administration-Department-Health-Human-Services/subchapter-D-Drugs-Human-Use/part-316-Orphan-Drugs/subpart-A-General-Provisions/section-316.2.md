@@ -1,0 +1,3 @@
+##### § 316.2 Purpose. #####
+
+The purpose of this part is to establish standards and procedures for determining eligibility for the benefits provided for in section 2 of the Orphan Drug Act, including written recommendations for investigations of orphan drugs, a 7-year period of exclusive marketing, and treatment use of investigational orphan drugs. This part is also intended to satisfy Congress' requirements that FDA promulgate procedures for the implementation of sections 525(a) and 526(a) of the act.

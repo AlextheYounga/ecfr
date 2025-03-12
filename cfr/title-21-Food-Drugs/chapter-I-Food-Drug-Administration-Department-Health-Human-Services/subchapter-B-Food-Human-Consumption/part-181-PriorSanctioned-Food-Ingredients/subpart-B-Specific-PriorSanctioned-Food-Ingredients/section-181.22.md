@@ -1,0 +1,5 @@
+##### § 181.22 Certain substances employed in the manufacture of food-packaging materials. #####
+
+Prior to the enactment of the food additives amendment to the Federal Food, Drug, and Cosmetic Act, sanctions were granted for the usage of the substances listed in §§ 181.23, 181.24, 181.25, 181.26, 181.27, 181.28, 181.29, and 181.30 in the manufacture of packaging materials. So used, these substances are not considered “food additives” within the meaning of section 201(s) of the Act, provided that they are of good commercial grade, are suitable for association with food, and are used in accordance with good manufacturing practice. For the purpose of this subpart, good manufacturing practice for food-packaging materials includes the restriction that the quantity of any of these substances which becomes a component of food as a result of use in food-packaging materials shall not be intended to accomplish any physical or technical effect in the food itself, shall be reduced to the least amount reasonably possible, and shall not exceed any limit specified in this subpart.
+
+[42 FR 56728, Oct. 28, 1977]

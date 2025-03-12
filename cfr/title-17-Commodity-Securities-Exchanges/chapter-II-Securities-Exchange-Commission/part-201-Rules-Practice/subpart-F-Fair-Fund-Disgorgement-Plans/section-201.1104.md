@@ -1,0 +1,3 @@
+##### § 201.1104 Order approving, modifying, or disapproving proposed plan. #####
+
+At any time after 30 days following publication of notice of a proposed plan of disgorgement or of a proposed Fair Fund plan, the Commission shall, by order, approve, approve with modifications, or disapprove the proposed plan. In the discretion of the Commission, a proposed plan that is substantially modified prior to adoption may be republished for an additional comment period pursuant to § 201.1103. The order approving or disapproving the plan should be entered within 30 days after the end of the final period allowed for comments on the proposed plan unless the Commission or the hearing officer, by written order, allows a longer period for good cause shown.

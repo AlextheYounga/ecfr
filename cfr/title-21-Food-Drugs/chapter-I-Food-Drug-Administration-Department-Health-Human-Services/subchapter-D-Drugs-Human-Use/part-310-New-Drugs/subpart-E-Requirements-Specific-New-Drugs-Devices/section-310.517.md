@@ -1,0 +1,15 @@
+##### § 310.517 Labeling for oral hypoglycemic drugs of the sulfonylurea class. #####
+
+(a) The University Group Diabetes Program clinical trial has reported an association between the administration of tolbutamide and increased cardiovascular mortality. The Food and Drug Administration has concluded that this reported association provides adequate basis for a warning in the labeling. In view of the similarities in chemical structure and mode of action, the Food and Drug Administration also believes it is prudent from a safety standpoint to consider that the possible increased risk of cardiovascular mortality from tolbutamide applies to all other sulfonylurea drugs as well. Therefore, the labeling for oral hypoglycemic drugs of the sulfonylurea class shall include a warning concerning the possible increased risk of cardiovascular mortality associated with such use, as set forth in paragraph (b) of this section.
+
+(b) Labeling for oral hypoglycemic drugs of the sulfonylurea class shall include in boldface type at the beginning of the “Warnings” section of the labeling the following statement:
+
+Special Warning on Increased Risk of Cardiovascular Mortality
+
+The administration of oral hypoglycemic drugs has been reported to be associated with increased cardiovascular mortality as compared to treatment with diet alone or diet plus insulin. This warning is based on the study conducted by the University Group Diabetes Program (UGDP), a long-term prospective clinical trial designed to evaluate the effectiveness of glucose-lowering drugs in preventing or delaying vascular complications in patients with non-insulin-dependent diabetes. The study involved 823 patients who were randomly assigned to one of four treatment groups (*Diabetes,* 19 (supp. 2): 747-830, 1970).
+
+UGDP reported that patients treated for 5 to 8 years with diet plus a fixed dose of tolbutamide (1.5 grams per day) had a rate of cardiovascular mortality approximately 21/2 times that of patients treated with diet alone. A significant increase in total mortality was not observed, but the use of tolbutamide was discontinued based on the increase in cardiovascular mortality, thus limiting the opportunity for the study to show an increase in overall mortality. Despite controversy regarding the interpretation of these results, the findings of the UGDP study provide an adequate basis for this warning. The patient should be informed of the potential risks and advantages of (name of drug) and of alternative modes of therapy.
+
+Although only one drug in the sulfonylurea class (tolbutamide) was included in this study, it is prudent from a safety standpoint to consider that this warning may also apply to other oral hypoglycemic drugs in this class, in view of their close similarities in mode of action and chemical structure.
+
+[49 FR 14331, Apr. 11, 1984]

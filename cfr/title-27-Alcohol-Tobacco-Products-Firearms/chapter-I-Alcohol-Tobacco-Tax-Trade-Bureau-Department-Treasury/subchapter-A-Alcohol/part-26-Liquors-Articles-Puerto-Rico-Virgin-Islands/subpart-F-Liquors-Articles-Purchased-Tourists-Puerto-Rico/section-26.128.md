@@ -1,0 +1,5 @@
+##### § 26.128 Taxpayment at port of arrival. #####
+
+If the internal revenue tax on liquors and articles is not paid in Puerto Rico, it shall be paid by the tourist at the port of arrival prior to release of the liquors or articles from customs custody. The tax may be paid to an appropriate TTB officer, and a TTB receipt obtained, or the tax may be paid to the director of customs, who will issue a customs receipt. If payment is to be made to an appropriate TTB officer, the director of customs will notify the appropriate TTB officer of the amount of tax due. On payment of the tax to the director of customs, or on submission of the TTB receipt for the tax, the director of customs will release the liquors or articles.
+
+[T.D. ATF-251, 52 FR 19339, May 22, 1987, as amended by T.D. ATF-451, 66 FR 21669, May 1, 2001; T.D. TTB-91, 76 FR 5479, Feb. 1, 2011]

@@ -1,0 +1,3 @@
+##### § 134.30 Payment of award. #####
+
+An applicant seeking payment of an award shall submit to the Comptroller or other disbursing official of the Department of State a copy of the final decision granting the award accompanied by a statement that the applicant will not seek review of the decision in the United States courts. Requests for payment should be sent to: Executive Director, Office of the Comptroller, Room 1328, Department of State, 2201 C Street, NW., Washington, DC 20520. The Department of State will pay the amount awarded to the applicant within 60 days, unless judicial review of the award or of the underlying decision of the adversary adjudication has been sought by the applicant or any other party to the proceeding.

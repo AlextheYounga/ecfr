@@ -1,0 +1,19 @@
+##### § 207.260 Yazoo Diversion Canal, Vicksburg, Miss., from its mouth at Kleinston Landing to Fisher Street; navigation. #####
+
+(a) *Signals.* Vessels navigating the canal will be governed by the Pilot Rules for Western Rivers (rivers emptying into the Gulf of Mexico and their tributaries) prescribed by the U.S. Coast Guard. (See part 95 of this title.)1
+
+1 Part 95 was removed by CGD 82-029, 47 FR 19519, May 6, 1982.
+
+(b) *Rafts.* Rafts will be permitted to navigate the canal only if properly and securely assembled. Each section of a raft shall be so secured within itself as to prevent the sinking of any log, and so fastened with chains or wire rope that it cannot be separated or bag out or materially change its shape. All logs, chains, and other means used in assembling rafts shall be in good condition and of ample size and strength to accomplish their purpose. No section of a raft will be permitted to be towed unless the logs float sufficiently high in the water to make it evident that the section will not sink en route. Rafts shall not be of greater dimensions than 50 feet wide by 600 feet long, and if longer than 300 feet they shall be handled by two tugs; and in all cases they must be handled by sufficient tug power to make headway and guide the raft so as to give half the channel to passing vessels.
+
+(c) *Mooring.* At stages below 20 feet on the Vicksburg Gage, no vessel or raft shall be moored along the west bank of the canal between points Latitude 32°21′16″, Longitude 90°53′05″ and Latitude 32°20′55″, Longitude 90°53′18″, which is approximately 1200 feet above and 1200 feet below the public boat launch (foot of Clay Street) at Vicksburg City Front. No vessel or raft shall be moored along the west bank of the canal at any stage from the mouth of the Yazoo Diversion Canal where it enters into the Mississippi River to Latitude 32°20′21″, Longitude 90°53′44″, which is approximately 1200 feet from the mouth of the canal. No vessel or raft shall be moored along the east bank of the canal at any stage from the mouth of the Yazoo Diversion Canal where it enters into the Mississippi River to Latitude 32°20′12″, Longitude 90°53′41″, which is approximately 750 feet from the mouth of the canal. When tied up, boats, barges, or rafts shall be moored by bow and stern lines parallel to the bank and as close in as practicable. Lines shall be secured at sufficiently close intervals to insure the vessel or raft will not be drawn away from the bank by winds, current, or other passing vessels. No vessel or raft shall be moored along the banks of the canal for a period longer than five (5) calendar days without written permission from the District Engineer, Corps of Engineers, Vicksburg District Office, 4155 E. Clay St., Vicksburg, Mississippi 39180-3435.
+
+(d) [Reserved]
+
+(e) *Refuse in canal.* No person shall roll or throw any stones, ashes, cinders, barrels, logs, log butts, sawdust, shavings, refuse, or any other material into the canal or the approach thereto, or place any such material on the bank or berm so that it is liable to be rolled, thrown, or washed into the canal.
+
+(f) *Preservation of works of improvement.* Masters and pilots of all craft using the canal shall avoid damaging any revetment, dike, floodwall, or other work of improvement placed in or adjacent to the canal. They shall not disturb any gages or marks set as aids to navigation in the canal or approaches thereto.
+
+(g) *Fairway.* A clear channel not less than 175 feet wide as established by the District Engineer shall be left open at all times to permit free and unobstructed navigation by all types of vessels.
+
+[13 FR 9562, Dec. 31, 1948; 42 FR 57962, Nov. 7, 1977, as amended at 63 FR 24428, May 4, 1998]

@@ -1,0 +1,5 @@
+##### § 127.5 Authority of the Defense Security Service. #####
+
+In the case of exports involving classified technical data or defense articles, the Defense Security Service may take appropriate action to ensure compliance with the Department of Defense National Industrial Security Program Operating Manual (unless such requirements are in direct conflict with guidance provided by the Directorate of Defense Trade Controls, in which case the latter guidance must be followed). Upon a request to the Defense Security Service regarding the export of any classified defense article or technical data, the Defense Security Service official or a designated government transmittal authority may require the production of other relevant documents and information relating to the proposed export.
+
+[71 FR 20549, Apr. 21, 2006]

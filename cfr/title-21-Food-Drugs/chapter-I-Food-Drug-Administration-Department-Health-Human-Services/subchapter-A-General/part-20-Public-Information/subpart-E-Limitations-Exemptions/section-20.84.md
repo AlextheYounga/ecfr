@@ -1,0 +1,3 @@
+##### § 20.84 Disclosure to consultants, advisory committees, State and local government officials commissioned pursuant to 21 U.S.C. 372(a), and other special government employees. #####
+
+Data and information otherwise exempt from public disclosure may be disclosed to Food and Drug Administration consultants, advisory committees, State and local government officials commissioned pursuant to 21 U.S.C. 372(a), and other special government employees for use only in their work with the Food and Drug Administration. Such persons are thereafter subject to the same restrictions with respect to the disclosure of such data and information as any other Food and Drug Administration employee.

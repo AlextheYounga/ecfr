@@ -1,0 +1,3 @@
+##### § 810.18 Public notice. #####
+
+The agency will make available to the public in the weekly FDA Enforcement Report a descriptive listing of each new mandatory recall issued under § 810.13. The agency will delay public notification of orders when the agency determines that such notification may cause unnecessary and harmful anxiety in individuals and that initial consultation between individuals and their health professionals is essential.

@@ -1,0 +1,5 @@
+##### § 123.6 Foreign trade zones and U.S. Customs and Border Protection bonded warehouses. #####
+
+Foreign trade zones in the United States and U.S. Customs and Border Protection bonded warehouses are considered integral parts of the United States for the purpose of this subchapter. An export license is therefore not required for shipment between the United States and a foreign trade zone or a U.S. Customs and Border Protection bonded warehouse. In the case of classified defense articles, the provisions of the Department of Defense National Industrial Security Program Operating Manual will apply. An export license is required for all shipments of articles on the U.S. Munitions List from foreign trade zones and U.S. Customs and Border Protection bonded warehouses to foreign countries, regardless of how the articles reached the zone or warehouse.
+
+[71 FR 20540, Apr. 21, 2006]

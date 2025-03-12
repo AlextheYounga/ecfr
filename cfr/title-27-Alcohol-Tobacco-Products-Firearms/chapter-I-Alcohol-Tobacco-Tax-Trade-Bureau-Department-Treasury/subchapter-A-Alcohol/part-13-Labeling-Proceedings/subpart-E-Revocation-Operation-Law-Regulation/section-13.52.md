@@ -1,0 +1,3 @@
+##### § 13.52 Notice of revocation. #####
+
+If TTB determines that a certificate holder is still using a certificate of label approval, certificate of exemption from label approval, or distinctive liquor bottle approval that is no longer in compliance due to amendments or revisions in the law or regulations, the appropriate TTB officer will notify the certificate holder in writing that the subject certificate has been revoked by operation of law or regulations, with a brief description of the grounds for such revocation.

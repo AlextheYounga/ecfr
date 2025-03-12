@@ -1,0 +1,7 @@
+##### § 866.3365 Multiplex nucleic acid assay for identification of microorganisms and resistance markers from positive blood cultures. #####
+
+(a) *Identification.* A multiplex nucleic acid assay for identification of microorganisms and resistance markers from positive blood cultures is a qualitative in vitro device intended to simultaneously detect and identify microorganism nucleic acids from blood cultures that test positive by Gram stain or other microbiological stains. The device detects specific nucleic acid sequences for microorganism identification as well as for antimicrobial resistance. This device aids in the diagnosis of bloodstream infections when used in conjunction with other clinical and laboratory findings. However, the device does not replace traditional methods for culture and susceptibility testing.
+
+(b) *Classification.* Class II (special controls). The special control for this device is FDA's guideline document entitled “Class II Special Controls Guideline: Multiplex Nucleic Acid Assay for Identification of Microorganisms and Resistance Markers from Positive Blood Cultures.” For availability of the guideline document, see § 866.1(e).
+
+[80 FR 30154, May 27, 2015]

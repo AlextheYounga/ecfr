@@ -1,0 +1,3 @@
+##### § 92.19 Administering an oath. #####
+
+The usual formula for administering an oath is as follows: The officer administering the oath requests the person taking the oath to raise his right hand while the officer repeats the following words: “You do solemnly swear that the statements set forth in this paper which you have here signed before me are true. So help you God.” Whereupon the person taking the oath answers, “I do.”

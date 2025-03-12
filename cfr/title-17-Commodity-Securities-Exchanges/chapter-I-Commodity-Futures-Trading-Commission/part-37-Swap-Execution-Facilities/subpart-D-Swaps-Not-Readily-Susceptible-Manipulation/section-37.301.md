@@ -1,0 +1,3 @@
+##### § 37.301 General requirements. #####
+
+To demonstrate to the Commission compliance with the requirements of § 37.300, a swap execution facility shall, at the time it submits a new swap contract in advance to the Commission pursuant to part 40 of this chapter, provide the applicable information as set forth in appendix C to part 38 of this chapter—Demonstration of Compliance That a Contract is not Readily Susceptible to Manipulation. A swap execution facility may also refer to the guidance and/or acceptable practices in appendix B of this part.

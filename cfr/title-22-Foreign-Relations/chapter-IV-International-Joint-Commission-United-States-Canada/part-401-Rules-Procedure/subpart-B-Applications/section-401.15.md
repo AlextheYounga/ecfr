@@ -1,0 +1,7 @@
+##### § 401.15 Notice of publication. #####
+
+(a) As soon as practicable after an application is presented or transmitted in accordance with § 401.12, the secretary of the section of the Commission appointed by the other Government shall send a copy of the application to such Government.
+
+(b) Except as otherwise provided pursuant to § 401.19, the secretaries, as soon as practicable after the application is received, shall cause a notice to be published in the Canada Gazette and the Federal Register and once each week for three successive weeks in two newspapers, published one in each country and circulated in or near the localities which, in the opinion of the Commission, are most likely to be affected by the proposed use, obstruction or diversion. Subject to paragraph (c) of this section, the notice shall state that the application has been received, the nature and locality of the proposed use, obstruction or diversion, the time within which any person interested may present a statement in response to the Commission and that the Commission will hold a hearing or hearings at which all persons interested are entitled to be heard with respect thereto.
+
+(c) If the Commission so directs, the notice referred to in paragraph (b) of this section, appropriately modified, may be combined with the notice of hearing referred to in § 401.24 and published accordingly.

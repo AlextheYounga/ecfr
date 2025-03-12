@@ -1,0 +1,5 @@
+##### § 40.331 Discontinuance of operations. #####
+
+Every manufacturer of tobacco products who desires to discontinue operations under this part shall dispose of all tobacco products on hand, in accordance with this part, and make a concluding inventory and concluding report in accordance with the provisions of § 40.201 and § 40.202, respectively. The manufacturer shall surrender his permit, with such inventory and report, to the appropriate TTB officer as notice of such discontinuance. The appropriate TTB officer may then terminate the liability of the surety on the bond of the manufacturer.
+
+(72 Stat. 1422; 26 U.S.C. 5721, 5722)[T.D. 6871, 37 FR 40, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28083, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986]

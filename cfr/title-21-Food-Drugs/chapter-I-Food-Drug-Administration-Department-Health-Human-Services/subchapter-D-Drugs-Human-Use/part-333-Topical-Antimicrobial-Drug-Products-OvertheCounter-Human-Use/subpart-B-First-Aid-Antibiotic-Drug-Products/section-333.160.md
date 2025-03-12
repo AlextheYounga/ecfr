@@ -1,0 +1,15 @@
+##### § 333.160 Labeling of permitted combinations of active ingredients. #####
+
+Statements of identity, indications, warnings, and directions for use, respectively, applicable to each ingredient in the product may be combined to eliminate duplicative words or phrases so that the resulting information is clear and understandable.
+
+(a) *Statement of identity.* For a combination drug product that has an established name, the labeling of the product states the established name of the combination drug product, followed by the statement of identity for each ingredient in the combination, as established in the statement of identity sections of the applicable OTC drug monographs. For a combination drug product that does not have an established name, the labeling of the product states the statement of identity for each ingredient in the combination, as established in the statement of identity sections of the applicable OTC drug monographs.
+
+(b) *Indications.* The labeling of the product states, under the heading “Indications,” the indication(s) for each ingredient in the combination, as established in the “Indications” sections of the applicable OTC drug monographs, unless otherwise stated in this paragraph. Other truthful and nonmisleading statements, describing only the indications for use that have been established and listed in this paragraph (b), may also be used, as provided in § 330.1(c)(2), subject to the provisions of section 502 of the act relating to misbranding and the prohibition in section 301(d) of the act against the introduction or delivery for introduction into interstate commerce of unapproved new drugs in violation of section 505(a) of the act.
+
+(1) *For permitted combinations identified in § 333.120(a).* The indications in § 333.150 should be used.
+
+(2) *For permitted combinations identified in § 333.120(b).* In addition to the required indication identified in § 333.150, the labeling of the product may state, under the heading “Indications,” the following additional indication: “First aid for the temporary relief of” (select one of the following: “pain,” “discomfort,” “pain or discomfort” or “pain and itching”) “in minor cuts, scrapes, and burns.”
+
+(c) *Warnings.* The labeling of the product states, under the heading “Warnings,” the warning(s) for each ingredient in the combination, as established in the warnings sections of the applicable OTC drug monographs.
+
+(d) *Directions.* The labeling of the product states, under the heading “Directions,” directions that conform to the directions established for each ingredient in the directions sections of the applicable OTC drug monographs. When the time intervals or age limitations for administrations of the individual ingredients differ, the directions for the combination product may not exceed any maximum dosage limits established for the individual ingredients in the applicable OTC drug monograph.

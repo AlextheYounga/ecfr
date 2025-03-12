@@ -1,0 +1,3 @@
+##### § 51.1 Basis and purpose. #####
+
+This part establishes the procedures for review of administrative discharges from the Coast Guard by a Discharge Review Board (DRB) or by the Secretary of the Department, and for the compilation of the record of the DRB determination, made available for public inspection, copying and distribution through the Armed Forces Discharge Review/Correction Board Reading Room.

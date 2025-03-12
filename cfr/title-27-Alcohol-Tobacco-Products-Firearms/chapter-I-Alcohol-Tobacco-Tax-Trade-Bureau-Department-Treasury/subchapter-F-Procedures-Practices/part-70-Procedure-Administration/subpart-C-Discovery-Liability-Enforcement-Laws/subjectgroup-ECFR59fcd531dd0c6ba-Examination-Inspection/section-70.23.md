@@ -1,0 +1,7 @@
+##### § 70.23 Service of summonses. #####
+
+(a) *In general.* A summons issued under 26 U.S.C. 7602 shall be served by an attested copy delivered in hand to the person to whom it is directed, or left at his last and usual place of abode. The certificate of service signed by the person serving the summons shall be evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of books, papers, records, or other data, it shall be sufficient if such books, papers, records, or other data are described with reasonable certainty.
+
+(b) *Persons who may serve summonses.* Any appropriate TTB officer may serve a summons issued under 26 U.S.C. 7602.
+
+(68A Stat. 902, as amended (26 U.S.C. 7603); 26 U.S.C. 7805 (68A Stat. 917), 27 U.S.C. 205 (49 Stat. 981 as amended), 18 U.S.C. 926 (82 Stat. 959), and sec. 38, Arms Export Control Act (22 U.S.C. 2778, 90 Stat. 744), 27 U.S.C. 205, 22 U.S.C. 2778, 26 U.S.C. 7602, and 5 U.S.C. 301)[T.D. ATF-6, 38 FR 32445, Nov. 26, 1973, as amended by T.D. ATF-48, 43 FR 13531, Mar. 31, 1978; T.D. ATF-201, 50 FR 12533, Mar. 29, 1985; T.D. ATF-249, 52 FR 5961, Feb. 27, 1987; T.D. ATF-301, 55 FR 47608, Nov. 14, 1990; T.D. ATF-450, 66 FR 29023, May 29, 2001]

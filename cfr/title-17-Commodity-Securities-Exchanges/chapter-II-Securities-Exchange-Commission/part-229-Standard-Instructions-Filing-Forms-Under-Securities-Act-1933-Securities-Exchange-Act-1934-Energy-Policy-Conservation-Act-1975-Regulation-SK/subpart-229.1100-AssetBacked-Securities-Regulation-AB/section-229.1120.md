@@ -1,0 +1,3 @@
+##### § 229.1120 (Item 1120) Ratings. #####
+
+Disclose whether the issuance or sale of any class of offered securities is conditioned on the assignment of a rating by one or more rating agencies, whether or not NRSROs. If so, identify each rating agency and the minimum rating that must be assigned. Describe any arrangements to have such rating monitored while the asset-backed securities are outstanding.

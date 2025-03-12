@@ -1,0 +1,3 @@
+##### § 479.93 Transfers of firearms to certain persons. #####
+
+Where the transfer of a destructive device, machine gun, short-barreled shotgun, or short-barreled rifle is to be made by a person licensed under the provisions of Title I of the Gun Control Act of 1968 (82 Stat. 1213) to a person not so licensed, the sworn statement required by § 478.98 of this chapter shall be attached to and accompany the transfer application required by this subpart.

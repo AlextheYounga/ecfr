@@ -1,0 +1,5 @@
+##### § 31.67 Persons returning liquors for credit, refund, or exchange. #####
+
+No retail dealer in liquors or retail dealer in beer, or other person, shall be deemed to be a wholesale dealer in liquors or a wholesale dealer in beer by virtue of a bona fide return of distilled spirits, wines, or beer to the dealer from whom the distilled spirits, wines, or beer were purchased (or to the successor of such vendor's business or line of merchandise) for credit, refund, or exchange; and the giving of such credit, refund or exchange shall not be deemed to be a purchase within the meaning of § 31.141 of this part. Except in the case of wholesale dealers in liquors required to keep records of their transactions under §§ 31.155 and 31.156, or retail dealers required to keep records under § 31.171, persons returning liquors as provided in this section are not required to keep records or submit reports of such transactions.
+
+(26 U.S.C. 5132)

@@ -1,0 +1,5 @@
+##### § 20.58 Adoption of documents by a fiduciary. #####
+
+If the business covered by a permit issued under this part, is to be operated by a fiduciary, the fiduciary may, in lieu of qualifying as a new proprietor, file a written notice, and any necessary supporting documents, to amend the predecessor's permit. The fiduciary may adopt the formulas and statements of process of the predecessor. The effective date of the qualifying documents filed by a fiduciary shall coincide with the effective date of the court order or the date specified therein for the fiduciary to assume control. If the fiduciary was not appointed by the court, the date the fiduciary assumed control shall coincide with the effective date of the filing of the qualifying documents.
+
+[T.D. ATF-199, 50 FR 9162, Mar. 6, 1985, as amended at T.D. ATF-476, 67 FR 17939, Apr. 12, 2002]

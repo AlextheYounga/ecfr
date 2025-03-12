@@ -1,0 +1,5 @@
+##### § 44.64 Responsibility for delivery or exportation of tobacco products, and cigarette papers and tubes. #####
+
+Responsibility for compliance with the provisions of this part with respect to the removal under bond of tobacco products, and cigarette papers and tubes, without payment of tax, for export, and for the proper delivery or exportation of such articles, and with respect to the exportation of tobacco products, and cigarette papers and tubes with benefit of drawback of tax, shall rest upon the manufacturer of such articles or the proprietor of an export warehouse or customs warehouse from whose premises such articles are removed for export, and upon the exporter who exports tobacco products, and cigarette papers and tubes with benefit of drawback of tax.
+
+(72 Stat. 1418, as amended; 26 U.S.C. 5704)[T.D. 6871, 31 FR 49, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28088, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986]

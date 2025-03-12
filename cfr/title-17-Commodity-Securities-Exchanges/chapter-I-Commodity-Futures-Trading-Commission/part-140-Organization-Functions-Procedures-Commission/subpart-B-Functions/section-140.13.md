@@ -1,0 +1,5 @@
+##### § 140.13 Vacancy in position of Chairman. #####
+
+At any time that a vacancy exists in the position of Chairman of the Commission the remaining members of the Commission shall elect a member to serve as acting Chairman who shall exercise the executive and administrative functions of the Commission that would otherwise be exercised by a Chairman in accordance with section 2(a)(6) of the Commodity Exchange Act, as amended, until a new Chairman has been appointed by the President and confirmed by the Senate: *Provided, however,* That if the President shall appoint a new Chairman from among the existing members of the Commission, that Commissioner shall serve as acting Chairman for these purposes until such time as his appointment as Chairman has been confirmed or rejected by the Senate.
+
+[43 FR 50167, Oct. 27, 1978]

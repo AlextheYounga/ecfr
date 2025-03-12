@@ -1,0 +1,3 @@
+##### § 103.4 General. #####
+
+This subpart implements the enforcement of the civil penalty provisions of section 501 of the Chemical Weapons Convention Implementation Act of 1998 (CWCIA), and sets forth relevant administrative proceedings by which such violations are adjudicated. Both the Department of State (in this subpart), and the Department of Commerce (in part 719 of the CWCR at 15 CFR parts 710 through 722) are involved in the implementation and enforcement of section 501.

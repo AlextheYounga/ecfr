@@ -1,0 +1,3 @@
+##### § 9.3 Senior agency official. #####
+
+The Executive Order requires that each agency that originates or handles classified information designate a Senior Agency Official to direct and administer its information security program. The Department's senior agency official is the Under Secretary of State for Management. The Senior Agency Official is assisted in carrying out the provisions of the Executive Order and the Department's information security program by the Assistant Secretary for Diplomatic Security, the Assistant Secretary for Administration, and the Deputy Assistant Secretary for Global Information Services.

@@ -1,0 +1,13 @@
+##### § 878.3540 Silicone gel-filled breast prosthesis. #####
+
+(a) *Identification*—(1) *Single-lumen silicone gel-filled breast prosthesis.* A single-lumen silicone gel-filled breast prosthesis is a silicone rubber shell made of polysiloxane(s), such as polydimethylsiloxane and polydiphenylsiloxane. The shell either contains a fixed amount cross-linked polymerized silicone gel, filler, and stabilizers or is filled to the desired size with injectable silicone gel at time of implantation. The device is intended to be implanted to augment or reconstruct the female breast.
+
+(2) *Double-lumen silicone gel-filled breast prosthesis.* A double lumen silicone gel-filled breast prosthesis is a silicone rubber inner shell and a silicone rubber outer shell, both shells made of polysiloxane(s), such as polydimethylsiloxane and polydiphenylsiloxane. The inner shell contains fixed amounts of cross-linked polymerized silicone gel, fillers, and stabilizers. The outer shell is inflated to the desired size with sterile isotonic saline before or after implantation. The device is intended to be implanted to augment or reconstruct the female breast.
+
+(3) *Polyurethane covered silicone gel-filled breast prosthesis.* A polyurethane covered silicone gel-filled breast prosthesis is an inner silicone rubber shell made of polysiloxane(s), such as polydimethylsiloxane and polydiphenylsiloxane, with an outer silicone adhesive layer and an outer covering of polyurethane; contained within the inner shell is a fixed amount of cross-linked polymerized silicone gel, fillers, and stabilizers and an inert support structure compartmentalizing the silicone gel. The device is intended to be implanted to augment or reconstruct the female breast.
+
+(b) *Classification.* Class III.
+
+(c) *Date premarket approval application (PMA) is required.* A PMA is required to be filed with the Food and Drug Administration on or before July 9, 1991 for any silicone gel-filled breast prosthesis that was in commercial distribution before May 28, 1976, or that has on or before July 9, 1991 been found to be substantially equivalent to a silicone gel-filled breast prosthesis that was in commercial distribution before May 28, 1976. Any other silicone gel-filled breast prosthesis shall have an approved PMA in effect before being placed in commercial distribution.
+
+[53 FR 23872, June 24, 1988, as amended at 56 FR 14627, Apr. 10, 1991]

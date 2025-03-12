@@ -1,0 +1,3 @@
+##### § 37.701 Required clearing. #####
+
+Transactions executed on or through the swap execution facility that are required to be cleared under section 2(h)(1)(A) of the Act or are voluntarily cleared by the counterparties shall be cleared through a Commission-registered derivatives clearing organization, or a derivatives clearing organization that the Commission has determined is exempt from registration.

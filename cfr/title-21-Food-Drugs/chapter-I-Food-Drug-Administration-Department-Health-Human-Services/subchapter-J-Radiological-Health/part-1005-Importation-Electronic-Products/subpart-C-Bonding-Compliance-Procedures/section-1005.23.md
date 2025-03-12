@@ -1,0 +1,3 @@
+##### § 1005.23 Bonds. #####
+
+The bond required under section 360(b) of the Act shall be executed by the owner or consignee on the appropriate form of a customs single-entry bond, customs Form 7551 or term bond, customs Form 7553 or 7595, containing a condition for the redelivery of the shipment or any part thereof not complying with the laws and regulations governing its admission into the commerce of the United States upon demand of the District Director of Customs and containing a provision for the performance of any action necessary to bring the product into compliance with all applicable laws and regulations. The bond shall be filed with the District Director of Customs.

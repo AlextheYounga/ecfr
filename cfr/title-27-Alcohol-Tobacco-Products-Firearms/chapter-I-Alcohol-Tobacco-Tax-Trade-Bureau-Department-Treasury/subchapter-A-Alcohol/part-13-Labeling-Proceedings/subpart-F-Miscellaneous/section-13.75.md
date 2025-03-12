@@ -1,0 +1,3 @@
+##### § 13.75 Evidence of receipt by TTB. #####
+
+If there is a time limit on TTB action that runs from TTB's receipt of a document, the date of receipt may be established by a certified mail receipt or equivalent written acknowledgment secured by a commercial delivery service or by a written acknowledgment of personal delivery. In the absence of proof of receipt, the date the document is logged in by TTB will be considered the date of receipt.

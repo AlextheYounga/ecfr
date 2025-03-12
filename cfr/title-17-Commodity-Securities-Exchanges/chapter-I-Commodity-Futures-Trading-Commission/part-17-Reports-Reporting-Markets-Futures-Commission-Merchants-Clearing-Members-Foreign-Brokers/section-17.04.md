@@ -1,0 +1,15 @@
+##### § 17.04 Reporting omnibus accounts to reporting firms. #####
+
+(a) Any futures commission merchant, clearing member or foreign broker who establishes an omnibus account with another futures commission merchant, clearing member or foreign broker shall report to that futures commission merchant, clearing member or foreign broker the total open long positions and the total open short positions in each future of a commodity and, for commodity options transactions, the total open long put options, the total open short put options, the total open long call options, and the total open short call options for each commodity options expiration date and each strike price in such account at the close of trading each day. The information required by this section shall be reported in sufficient time to enable the futures commission merchant, clearing member or foreign broker with whom the omnibus account is established to comply with the regulations of this part and the reporting requirements established by the reporting markets.
+
+(b) In determining open long and open short futures positions, and open purchased long and open granted short option positions, in an omnibus account for purposes of complying with §§ 17.00(f), 1.37(b) and 1.58 of this chapter, a futures commission merchant, clearing member or foreign broker shall total the open long positions of all traders and the open short positions of all traders in each future of a commodity and, for commodity options transactions, shall total the open long put options, the open short put options, the open long call options, and the open short call options of all traders for each commodity option expiration date and each strike price. The futures commission merchant, clearing member or foreign broker shall, if both open long and short positions in the same future or option are carried for the same trader, compute open long or open short positions as instructed in this paragraph.
+
+(1) Include both the total open long and the total open short positions of the trader if:
+
+(i) The positions represent transactions on a reporting market which requires long and short positions in the same future or option held in accounts for the same trader to be recorded and reported on a gross basis; or
+
+(ii) The account is an omnibus account of another futures commission merchant, clearing member or foreign broker; or
+
+(2) Include only the net long or net short positions of the trader if the positions represent transactions on a reporting market which does not require long and short positions in the same future or option held in accounts for the same trader to be recorded and reported on a gross basis.
+
+(Approved by the Office of Management and Budget under control number 3038-0009)[46 FR 63036, Dec. 30, 1981, and 47 FR 21028, May 17, 1982, as amended at 62 FR 24034, May 2, 1997; 69 FR 76400, Dec. 21, 2004; 71 FR 37820, July 3, 2006; 74 FR 12191, Mar. 23, 2009]

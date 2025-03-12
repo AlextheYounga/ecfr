@@ -1,0 +1,3 @@
+##### § 38.157 Real-time market monitoring. #####
+
+A designated contract market must conduct real-time market monitoring of all trading activity on its electronic trading platform(s) to identify disorderly trading and any market or system anomalies. A designated contract market must have the authority to adjust trade prices or cancel trades when necessary to mitigate market disrupting events caused by malfunctions in its electronic trading platform(s) or errors in orders submitted by members and market participants. Any trade price adjustments or trade cancellations must be transparent to the market and subject to standards that are clear, fair, and publicly available.

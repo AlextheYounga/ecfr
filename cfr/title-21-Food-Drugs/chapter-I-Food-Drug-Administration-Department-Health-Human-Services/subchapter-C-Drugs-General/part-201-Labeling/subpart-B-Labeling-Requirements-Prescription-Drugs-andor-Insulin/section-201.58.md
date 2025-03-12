@@ -1,0 +1,5 @@
+##### § 201.58 Waiver of labeling requirements. #####
+
+An applicant may ask the Food and Drug Administration to waive any requirement under §§ 201.56, 201.57, and 201.80. A waiver request must be submitted in writing to the Director (or the Director's designee), Center for Drug Evaluation and Research, Food and Drug Administration, Central Document Room, 5901-B Ammendale Rd., Beltsville, MD 20705-1266, or, if applicable, the Director (or the Director's designee), Food and Drug Administration, Center for Biologics Evaluation and Research, Document Control Center, 10903 New Hampshire Ave., Bldg. 71, Rm. G112, Silver Spring, MD 20993-0002. The waiver must be granted or denied in writing by the Director or the Director's designee.
+
+[71 FR 3996, Jan. 24, 2006, as amended at 74 FR 13112, Mar. 26, 2009; 80 FR 18090, Apr. 3, 2015]

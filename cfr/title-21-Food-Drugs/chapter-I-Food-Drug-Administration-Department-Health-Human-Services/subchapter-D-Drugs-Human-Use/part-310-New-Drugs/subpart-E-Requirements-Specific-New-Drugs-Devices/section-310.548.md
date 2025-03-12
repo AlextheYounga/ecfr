@@ -1,0 +1,11 @@
+##### § 310.548 Drug products containing colloidal silver ingredients or silver salts offered over-the-counter (OTC) for the treatment and/or prevention of disease. #####
+
+(a) Colloidal silver ingredients and silver salts have been marketed in over-the-counter (OTC) drug products for the treatment and prevention of numerous disease conditions. There are serious and complicating aspects to many of the diseases these silver ingredients purport to treat or prevent. Further, there is a lack of adequate data to establish general recognition of the safety and effectiveness of colloidal silver ingredients or silver salts for OTC use in the treatment or prevention of any disease. These ingredients and salts include, but are not limited to, silver proteins, mild silver protein, strong silver protein, silver, silver ion, silver chloride, silver cyanide, silver iodide, silver oxide, and silver phosphate.
+
+(b) Any OTC drug product containing colloidal silver ingredients or silver salts that is labeled, represented, or promoted for the treatment and/or prevention of any disease is regarded as a new drug within the meaning of section 201(p) of the Federal Food, Drug, and Cosmetic Act (the act) for which an approved application or abbreviated application under section 505 of the act and part 314 of this chapter is required for marketing. In the absence of an approved new drug application or abbreviated new drug application, such product is also misbranded under section 502 of the act.
+
+(c) Clinical investigations designed to obtain evidence that any drug product containing colloidal silver or silver salts labeled, represented, or promoted for any OTC drug use is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs as set forth in part 312 of this chapter.
+
+(d) After September 16, 1999, any such OTC drug product containing colloidal silver or silver salts initially introduced or initially delivered for introduction into interstate commerce that is not in compliance with this section is subject to regulatory action.
+
+[64 FR 44658, Aug. 17, 1999]

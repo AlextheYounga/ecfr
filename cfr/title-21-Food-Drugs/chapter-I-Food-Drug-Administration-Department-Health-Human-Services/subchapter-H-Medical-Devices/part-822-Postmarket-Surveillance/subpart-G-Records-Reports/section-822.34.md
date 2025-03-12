@@ -1,0 +1,3 @@
+##### § 822.34 What must I do with the records if the sponsor of the plan or an investigator in the plan changes? #####
+
+If the sponsor of the plan or an investigator in the plan changes, you must ensure that all records related to the postmarket surveillance have been transferred to the new sponsor or investigator and notify us within 10 working days of the effective date of the change. You must provide the name, address, and telephone number of the new sponsor or investigator, certify that all records have been transferred, and provide the date of transfer.

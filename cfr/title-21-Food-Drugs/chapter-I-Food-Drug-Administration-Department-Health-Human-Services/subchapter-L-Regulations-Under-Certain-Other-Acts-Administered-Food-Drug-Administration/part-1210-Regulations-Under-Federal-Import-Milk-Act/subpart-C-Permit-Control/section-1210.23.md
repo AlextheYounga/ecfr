@@ -1,0 +1,3 @@
+##### § 1210.23 Permits granted on certificates. #####
+
+In the discretion of the Secretary, a permit may be granted on a duly certified statement signed by a duly accredited official of an authorized department of any foreign government or of any State of the United States or any municipality thereof. Such statement shall be in the form of a certificate prescribed by the Secretary, and shall have attached thereto, as a part thereof, signed copies of reports prescribed by §§ 1210.12, 1230.13, and also by §§ 1210.11, 1210.14, as applicable. The necessary inspections and examinations upon which the reports are based shall be made by persons who are acting under the direct supervision of the certifying official.

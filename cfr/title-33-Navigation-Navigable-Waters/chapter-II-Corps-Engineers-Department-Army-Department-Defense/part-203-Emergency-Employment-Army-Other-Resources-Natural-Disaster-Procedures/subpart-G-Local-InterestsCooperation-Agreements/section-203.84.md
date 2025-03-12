@@ -1,0 +1,9 @@
+##### § 203.84 Forms of local participation—cost sharing. #####
+
+In addition to the standard requirements of local cooperation and according to the circumstances, local participation in project work may be in the form of: contributed funds; the furnishing of materials, equipment, or services; and/or accomplishment of work either concurrently or within a specified reasonable period of time. The final terms agreed upon will be set forth in writing and made a part of the CA before commencement of work.
+
+(a) *Contributed funds.* Contributed funds may be accepted, or refunded, without further reference or approval by the Chief of Engineers. The required certificate of the district commander will cite 33 U.S.C. 701h as the pertinent authority.
+
+(b) *Obligation of contributed funds.* Per OMB Circular A-34, all contributed funds must be received in cash and deposited with the Treasury before any obligations can be made against such funds. Public Law 84-99 assistance for well construction is exempted from this requirement because financing is specifically authorized. However, the CA for such well construction assistance (*see* subpart G of this part) must be signed in advance of any obligations. To reduce administrative problems, CA terms for well construction should be for no longer a period than that which will allow for payments within the means of the applicant. Public Law 84-99 limits the term to a maximum of 30 years.
+
+(c) *Provision of work or services in kind.* To the extent practicable, local interests should be allowed to minimize the amount of contributed funds by providing equivalent work or services in kind. Such services do not include LERRD's.

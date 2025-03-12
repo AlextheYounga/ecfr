@@ -1,0 +1,3 @@
+##### § 214.11 Costs. #####
+
+Costs incurred by the Corps of Engineers in furnishing emergency supplies of clean drinking water are chargeable to Pub. L. 84-99 funds, 96X3125, Code 910-400 and repayment by the community generally will not be required. Costs of necessary measures for the decontamination of the water supply source are the responsibility of local governments and are not authorized under Pub. L. 84-99.

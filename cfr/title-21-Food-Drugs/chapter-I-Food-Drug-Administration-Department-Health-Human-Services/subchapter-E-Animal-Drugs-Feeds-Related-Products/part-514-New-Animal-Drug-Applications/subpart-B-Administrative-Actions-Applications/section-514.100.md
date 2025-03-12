@@ -1,0 +1,21 @@
+##### § 514.100 Evaluation and comment on applications. #####
+
+(a) After the filed application has been evaluated, the applicant will be furnished written comment on any apparent deficiencies in the application.
+
+(b) When the description of the methods used in, and the facilities and controls used for, the manufacture, processing, and packing of such new animal drug appears adequate on its face, but it is not feasible to reach a conclusion as to the safety and effectiveness of the new animal drug solely from consideration of this description, the applicant may be notified that an establishment inspection is required to verify their adequacy.
+
+(c) A request for samples of a new animal drug or any edible tissues and byproducts of animals treated with such a drug, shall specify the quantity deemed adequate to permit tests of analytical methods to determine their adequacy for regulatory purposes. The request should be made as early in the 180-day period as possible to assure timely completion. The date used for computing the 180-day limit for the purposes of section 512(c) of the act shall be moved forward 1 day for each day after the mailing date of the request until all of the requested samples are received. If the samples are not received within 90 days after the request, the application will be considered withdrawn without prejudice.
+
+(d) The information contained in an application may be insufficient to determine whether a new animal drug is safe or effective in use if it fails to include (among other things) a statement showing whether such drug is to be limited to prescription sale and exempt under section 502(f) of the act from the requirement that its labeling bear adequate directions for lay use. If such drug is to be exempt, the information may also be insufficient if:
+
+(1) The specimen labeling proposed fails to bear adequate information for professional use including indications, effects, dosages, routes, methods, and frequency and duration of administration and any relevant hazards, contraindications, side effects, and precautions under which practitioners licensed by law to administer such drug can use the drug for the purposes for which it is intended, including all purposes for which it is to be advertised, or represented, in accordance with § 201.105 of this chapter, and information concerning hazards, contraindications, side effects, and precautions relevant with respect to any uses for which such drug is to be prescribed.
+
+(2) The application fails to show that the labeling and advertising of such drug will offer the drug for use only under those conditions for which it is offered in the labeling that is part of the application.
+
+(3) The application fails to show that all labeling that furnishes or purports to furnish information for professional use of such drug will contain, in the same language and emphasis, the information for use including indications, effects, dosages, routes, methods, and frequency and duration of administration and any relevant warnings, hazards, contraindications, side effects, and precautions, which is contained in the labeling that is part of the application in accordance with § 201.105 of this chapter.
+
+(e) The information contained in an application will be considered insufficient to determine whether a new animal drug is safe and effective for use when there is a refusal or failure upon written notice to furnish inspectors authorized by the Food and Drug Administration an adequate opportunity to inspect the facilities, controls, and records pertinent to the application.
+
+(f) On the basis of preliminary consideration of an application or supplemental application containing typewritten or other draft labeling in lieu of final printed labeling, an applicant may be informed that such application is approvable when satisfactory final printed labeling identical in content to such draft copy is submitted.
+
+(g) When an application has been found incomplete on the basis of a need for the kind of information described in § 514.6, such application shall be considered withdrawn without prejudice to future filing on the date of issuance of the letter citing the inadequacies contained in the application, unless within 30 days the sponsor chooses to avail himself of the opportunity for hearing as prescribed by § 514.111.

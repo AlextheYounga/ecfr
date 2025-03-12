@@ -1,0 +1,5 @@
+##### § 479.22 Right of entry and examination. #####
+
+Any ATF officer or employee of the Bureau of Alcohol, Tobacco, Firearms, and Explosives duly authorized to perform any function relating to the administration or enforcement of this part may enter during business hours the premises (including places of storage) of any importer or manufacturer of or dealer in firearms, to examine any books, papers, or records required to be kept pursuant to this part, and any firearms kept by such importer, manufacturer or dealer on such premises, and may require the production of any books, papers, or records necessary to determine any liability for tax under 26 U.S.C. Chapter 53, or the observance of 26 U.S.C. Chapter 53, and this part.
+
+[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55842, Sept. 28, 1979; T.D. ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]

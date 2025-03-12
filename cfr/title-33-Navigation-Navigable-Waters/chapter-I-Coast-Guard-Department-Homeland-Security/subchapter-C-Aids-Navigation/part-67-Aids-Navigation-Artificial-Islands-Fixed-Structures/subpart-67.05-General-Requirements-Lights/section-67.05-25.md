@@ -1,0 +1,3 @@
+##### § 67.05-25 Special lighting requirements. #####
+
+Whenever a structure is erected in a position on or adjacent to the edges of navigable channels and fairways, or lines of demarcation, the District Commander is authorized to require the structure to be marked by the lights which in his judgment are necessary for the safety of marine commerce, and without regard to the fact that the structure may be located in an area in which either Class “B” or Class “C” requirements are otherwise applicable. The requirements for the lights in any of these cases, shall not exceed those established for structures in the Class “A” areas.

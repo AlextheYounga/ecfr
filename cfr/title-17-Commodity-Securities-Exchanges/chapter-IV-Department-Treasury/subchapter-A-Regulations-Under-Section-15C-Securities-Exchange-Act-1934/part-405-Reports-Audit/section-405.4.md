@@ -1,0 +1,3 @@
+##### § 405.4 Financial recordkeeping and reporting of currency and foreign transactions by registered government securities brokers and dealers. #####
+
+Every registered government securities broker or dealer who is subject to the requirements of the Currency and Foreign Transactions Reporting Act of 1970 shall comply with the reporting, recordkeeping and record retention requirements of 31 CFR part 103. Where 31 CFR part 103 and § 404.3 of this chapter require the same records to be preserved for different periods of time, such records or reports shall be preserved for the longer period of time.

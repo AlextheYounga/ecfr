@@ -1,0 +1,11 @@
+##### § 120.24 Process controls. #####
+
+(a) In order to meet the requirements of subpart A of this part, processors of juice products shall include in their Hazard Analysis and Critical Control Point (HACCP) plans control measures that will consistently produce, at a minimum, a 5 log (*i.e.,* 105) reduction, for a period at least as long as the shelf life of the product when stored under normal and moderate abuse conditions, in the pertinent microorganism. For the purposes of this regulation, the “pertinent microorganism” is the most resistant microorganism of public health significance that is likely to occur in the juice. The following juice processors are exempt from this paragraph:
+
+(1) A juice processor that is subject to the requirements of part 113 or part 114 of this chapter; and
+
+(2) A juice processor using a single thermal processing step sufficient to achieve shelf-stability of the juice or a thermal concentration process that includes thermal treatment of all ingredients, provided that the processor includes a copy of the thermal process used to achieve shelf-stability or concentration in its written hazard analysis required by § 120.7.
+
+(b) All juice processors shall meet the requirements of paragraph (a) of this section through treatments that are applied directly to the juice, except that citrus juice processors may use treatments to fruit surfaces, provided that the 5-log reduction process begins after culling and cleaning as defined in § 120.3(a) and (f) and the reduction is accomplished within a single production facility.
+
+(c) All juice processors shall meet the requirements of paragraphs (a) and (b) of this section and perform final product packaging within a single production facility operating under current good manufacturing practices. Processors claiming an exemption under paragraph (a)(1) or (a)(2) of this section shall also process and perform final product packaging of all juice subject to the claimed exemption within a single production facility operating under current good manufacturing practices.

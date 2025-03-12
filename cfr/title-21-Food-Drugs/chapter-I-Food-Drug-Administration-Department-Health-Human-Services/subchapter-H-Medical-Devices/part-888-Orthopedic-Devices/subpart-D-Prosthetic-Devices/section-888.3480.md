@@ -1,0 +1,9 @@
+##### § 888.3480 Knee joint femorotibial metallic constrained cemented prosthesis. #####
+
+(a) *Identification.* A knee joint femorotibial metallic constrained cemented prosthesis is a device intended to be implanted to replace part of a knee joint. The device prevents dislocation in more than one anatomic plane and has components that are linked together. The only knee joint movement allowed by the device is in the sagittal plane. This generic type of device includes prostheses that have an intramedullary stem at both the proximal and distal locations. The upper and lower components may be joined either by a solid bolt or pin, an internally threaded bolt with locking screw, or a bolt retained by circlip. The components of the device are made of alloys, such as cobalt-chromium-molybdenum. The stems of the device may be perforated, but are intended for use with bone cement (§ 888.3027).
+
+(b) *Classification.* Class III.
+
+(c) *Date PMA or notice of completion of a PDP is required.* A PMA or a notice of completion of a PDP is required to be filed with the Food and Drug Administration on or before December 26, 1996 for any knee joint femorotibial metallic constrained cemented prosthesis that was in commercial distribution before May 28, 1976, or that has, on or before December 26, 1996 been found to be substantially equivalent to a knee joint femorotibial metallic constrained cemented prosthesis that was in commercial distribution before May 28, 1976. Any other knee joint femorotibial metallic constrained cemented prosthesis shall have an approved PMA or a declared completed PDP in effect before being placed in commercial distribution.
+
+[52 FR 33702, Sept. 4, 1987, as amended at 61 FR 50710, Sept. 27, 1996]

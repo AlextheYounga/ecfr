@@ -1,0 +1,23 @@
+##### § 3.4 Restriction on acceptance of gifts and decorations. #####
+
+(a) An employee is prohibited from requesting or otherwise encouraging the tender of a gift or decoration from a foreign government. An employee is also prohibited from accepting a gift or decoration from a foreign government, except in accordance with these regulations.
+
+(b) An employee may accept and retain a gift of minimal value tendered and received as a souvenir or mark of courtesy, subject, however, to the following restrictions—
+
+(1) Where more than one tangible item is included in a single presentation, the entire presentation shall be considered as one gift, and the aggregate value of all items taken together must not exceed “minimal value”.
+
+(2) The donee is responsible for determining that a gift is of minimal value in the United States at the time of acceptance. However, should any dispute result from a difference of opinion concerning the value of a gift, the employing agency will secure the services of an outside appraiser to establish whether the gift is one of “minimal value”. If, after an appraisal has been made, it is established that the value of the gift in question is $200 or more at retail in the United States, the donee will bear the costs of the appraisal. If, however, the appraised value is established to be less than $200, the employing agency will bear the costs.
+
+(c) An employee may accept a gift of more than minimal value when (1) such gift is in the nature of an educational scholarship or medical treatment, or (2) it appears that to refuse the gift would likely cause offense or embarrassment or otherwise adversely affect the foreign relations of the United States, except that a tangible gift of more than minimal value is deemed to have been accepted on behalf of the United States and, upon acceptance, shall become the property of the United States.
+
+(d) An employee may accept gifts of travel or expenses for travel taking place entirely outside the United States (such as transportation, food, and lodging) of more than minimal value if such acceptance is appropriate, consistent with the interests of the United States, and permitted by the employing agency. Except where the employing agency has specific interests which may be favorably affected by employee travel wholly outside the United States, even though it would not normally authorize its employees to engage in such travel, the standards normally applied to determine when proposed travel will be in the best interests of the employing agency and of the United States Government shall be applied in approving acceptance of travel or travel expenses offered by a foreign government.
+
+(1) There are two circumstances under which employees may accept gifts of travel or expenses:
+
+(i) When the employee is issued official travel orders placing him or her in the position of accepting travel or travel expenses offered by a foreign government which are directly related to the authorized purpose of the travel; or
+
+(ii) When the employee's travel orders specifically anticipate the acceptance of additional travel and travel expenses incident to the authorized travel.
+
+(2) When an employee is traveling under circumstances described in paragraph (d)(1)(i) of this section, that is, without specific instructions authorizing acceptance of additional travel expenses from a foreign government, the employee must file a report with the employing angency under the procedures prescribed in § 3.6.
+
+(e) Since tangible gifts of more than minimal value may not lawfully become the personal property of the donee, all supervisory officials shall, in advising employees of their responsibilities under the regulations, impress upon them their obligation to decline acceptance of such gifts, whenever possible, at the time they are offered, or to return them if they have been sent or delivered without a prior offer. All practical measures, such as periodic briefings, shall be taken to minimize the number of gifts which employees must deposit and which thus become subject to disposal as provided by law and regulation. Employees should not accept gifts of more than minimal value on the assumption that refusal would be likely to “cause offense or embarrassment or otherwise adversely affect the foreign relations of the United States”. In many instances it should be possible, by explanation of the prohibition against an employee's retention of such gifts, to avoid consequences of acceptance, including possible return of the gift to the donor. Refusal of the gift at the inception should typically be regarded as in the interest both of the foreign government donor and the U.S. Government.

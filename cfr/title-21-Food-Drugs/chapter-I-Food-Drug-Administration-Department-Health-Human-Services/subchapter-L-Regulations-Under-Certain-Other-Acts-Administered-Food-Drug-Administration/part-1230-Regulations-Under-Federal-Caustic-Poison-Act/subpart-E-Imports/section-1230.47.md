@@ -1,0 +1,5 @@
+##### § 1230.47 Rejected containers. #####
+
+(a) In all cases where the containers are to be refused admission, the chief of the district within 1 day after hearing, or, if the importer does not appear or reply within 3 days after second notice, shall notify the District Director of Customs in duplicate accordingly.
+
+(b) Not later than 1 day after receipt of this notice the District Director of Customs shall sign and transmit to the importer one of the copies, which shall serve as notification to the importer that the containers must be exported under customs supervision within 3 months from such date, as provided by law; the other notice shall be retained as office record and later returned as a report to the chief of the district. In all cases the importer shall return his notice to the District Director of Customs, properly certified as to the information required, as the form provides.

@@ -1,0 +1,5 @@
+##### § 25.103 Notice by surety for relief from liability under bond. #####
+
+A surety may, at any time, in writing, notify the principal and the appropriate TTB officer that the surety desires after a specified date (not less than 60 days after the date of service on the principal) to be relieved of any liability under the bond which is incurred by the principal after the date named in the notice. The surety shall include proof of service of the notice on the principal with the notice filed with the appropriate TTB officer. The notice will become effective on the date named, unless the surety withdraws the notice, in writing. The surety on the bond remains liable under the bond with respect to any liability incurred by the principal while the bond is in effect.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1388, as amended (26 U.S.C. 5401))

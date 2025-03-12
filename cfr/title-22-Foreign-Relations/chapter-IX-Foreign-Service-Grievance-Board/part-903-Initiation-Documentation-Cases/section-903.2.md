@@ -1,0 +1,3 @@
+##### § 903.2 Record of proceedings. #####
+
+Upon receipt of initial documents relating to a case, a record of proceedings shall be established, and all material received or obtained by the Board in connection with the case shall be placed in it unless the Board excludes such material under § 903.3. The parties and the exclusive representative, if any, shall have access to the record of proceedings. Classified portions of the record of proceedings may be reviewed by the parties and the exclusive representative, if any, under conditions prescribed by the Board to ensure appropriate security.

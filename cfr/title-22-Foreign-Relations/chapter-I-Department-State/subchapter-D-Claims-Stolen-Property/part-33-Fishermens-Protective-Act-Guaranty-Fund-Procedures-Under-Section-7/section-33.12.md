@@ -1,0 +1,3 @@
+##### § 33.12 Penalties. #####
+
+Persons who willfully make any false or misleading statement or representation to obtain compensation from the Fund are subject to criminal prosecution under 22 U.S.C. 1980(g). This provides penalties up to $25,000 or imprisonment for up to one year, or both. Any evidence of criminal conduct will be promptly forwarded to the United States Department of Justice for action. Additionally, misrepresentation, concealment, or fraud, or acts intentionally designed to result in seizure, may void the guaranty agreement.

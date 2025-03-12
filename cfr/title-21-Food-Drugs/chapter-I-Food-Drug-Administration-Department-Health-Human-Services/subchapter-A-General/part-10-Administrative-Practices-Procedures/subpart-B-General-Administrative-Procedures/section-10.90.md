@@ -1,0 +1,11 @@
+##### § 10.90 Food and Drug Administration regulations, recommendations, and agreements. #####
+
+(a) *Regulations.* FDA regulations are issued in the Federal Register under § 10.40 or § 10.50 and codified in the Code of Federal Regulations. Regulations may contain provisions that will be enforced as legal requirements, or which are intended only as guidance documents and recommendations, or both. The dissemination of draft notices and regulations is subject to § 10.80.
+
+(b) [Reserved]
+
+(c) *Recommendations.* In addition to the guidance documents subject to § 10.115, FDA often formulates and disseminates recommendations about matters which are authorized by, but do not involve direct regulatory action under, the laws administered by the Commissioner, e.g., model State and local ordinances, or personnel practices for reducing radiation exposure, issued under 42 U.S.C. 243 and 21 U.S.C. 360ii. These recommendations may, in the discretion of the Commissioner, be handled under the procedures established in § 10.115, except that the recommendations will be included in a separate public file of recommendations established by the Division of Dockets Management and will be separated from the guidance documents in the notice of availability published in the Federal Register, or be published in the Federal Register as regulations under paragraph (a) of this section.
+
+(d) *Agreements.* Formal agreements, memoranda of understanding, or other similar written documents executed by FDA and another person will be included in the public file on agreements established by the Division of Freedom of Information (ELEM-1029)” and adding in its place “(the Freedom of Information Staff's address is available on the agency's web site at *http://www.fda.gov*) under § 20.108. A document not included in the public file is deemed to be rescinded and has no force or effect whatever.
+
+[44 FR 22323, Apr. 13, 1979, as amended at 54 FR 9035, Mar. 3, 1989; 65 FR 56477, Sept. 19, 2000; 75 FR 16346, Apr. 1, 2010; 79 FR 68114, Nov. 14, 2014]

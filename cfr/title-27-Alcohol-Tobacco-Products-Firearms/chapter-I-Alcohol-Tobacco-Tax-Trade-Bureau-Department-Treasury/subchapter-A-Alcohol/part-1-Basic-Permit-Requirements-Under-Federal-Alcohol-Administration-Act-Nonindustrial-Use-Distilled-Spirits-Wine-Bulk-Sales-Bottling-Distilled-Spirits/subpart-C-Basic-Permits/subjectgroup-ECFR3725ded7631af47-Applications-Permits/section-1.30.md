@@ -1,0 +1,5 @@
+##### § 1.30 Power of attorney; Form 5000.8 (1534). #####
+
+If the application and other documents in support of such application are signed by an attorney in fact of an individual, partnership, association, or corporation, or by one of the members of a copartnership or association, or, in the case of a corporation by an officer or other person not authorized by the corporation's bylaws or by its board of directors to sign such applications and supporting documents, the applications must be supported by a duly authenticated copy of the power of attorney conferring authority upon the person signing the documents to execute the same. Such powers of attorney will be executed on Form 5000.8 (1534).
+
+(Approved by the Office of Management and Budget under control number 1512-0079)[T.D. ATF-373, 61 FR 26098, May 24, 1996, as amended by T.D. ATF-416, 64 FR 49985, Sept. 15, 1999]

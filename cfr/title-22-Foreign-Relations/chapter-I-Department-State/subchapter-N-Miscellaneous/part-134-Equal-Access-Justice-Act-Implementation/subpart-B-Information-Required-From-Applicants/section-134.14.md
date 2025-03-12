@@ -1,0 +1,7 @@
+##### § 134.14 When application may be filed. #####
+
+(a) An application may be filed whenever the applicant has prevailed in the proceeding or in a significant and discrete substantive portion of the proceeding, but in no case later than 30 days after the Department of State's final disposition of the proceeding.
+
+(b) If review or reconsideration is sought or taken of a decision as to which an applicant believes it has prevailed, proceedings for the award of fees shall be stayed pending final disposition of the underlying controversy.
+
+(c) For purposes of this rule, final disposition means the later of (1) the date on which an initial decision or other recommended disposition of the merits of the proceeding by an adjudicative officer or intermediate review board becomes administratively final; (2) issuance of an order disposing of any petitions for reconsideration of the Department of State's final order in the proceeding; (3) if no petition for reconsideration is filed, the last date on which such a petition could have been filed; or (4) issuance of a final order or any other final resolution of a proceeding, such as a settlement or voluntary dismissal, which is not subject to a petition for reconsideration or to a petition for judicial review; or (5) completion of judicial action on the underlying controversy and any subsequent Department of State action pursuant to judicial mandate.

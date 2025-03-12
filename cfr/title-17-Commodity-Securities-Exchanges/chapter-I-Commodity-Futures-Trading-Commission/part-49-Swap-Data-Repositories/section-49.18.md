@@ -1,0 +1,7 @@
+##### § 49.18 Confidentiality and indemnification agreement. #####
+
+(a) *Purpose.* This section sets forth the obligations of registered swap data repositories to execute a “Confidentiality and Indemnification Agreement” in connection with providing access to swap data to certain domestic and foreign regulators.
+
+(b) *Confidentiality and indemnification agreement.* Prior to the registered swap data repository providing access to the swap data with any Appropriate Domestic Regulator or Appropriate Foreign Regulator as defined in § 49.17(b), the swap data repository shall receive a written agreement from each such entity stating that the entity shall abide by the confidentiality requirements described in Section 8 of the Act relating to the swap data that is provided; and each such entity shall agree to indemnify the swap data repository and the Commission for any expenses arising from litigation relating to the information provided under Section 8 of the Act.
+
+(c) *Certain appropriate domestic and foreign regulators with regulatory responsibility over a swap data repository.* The requirements set forth above in paragraph (b) shall not apply to certain Appropriate Domestic and Foreign Regulators with regulatory responsibility over a swap data repository as described in § 49.17(d)(2) and (3). The swap data repository and such Appropriate Domestic or Foreign Regulator in each case is required to comply with Section 8 of the Act and any other relevant statutory confidentiality provisions.

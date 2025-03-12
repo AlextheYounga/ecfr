@@ -1,0 +1,13 @@
+##### § 10.91 Summary disposition. #####
+
+(a) *Filing of motions, answers.* Any party who believes that there is no genuine issue of material fact to be determined and that he is entitled to a decision as a matter of law may move for a summary disposition in his favor of all or any part of the proceeding. Such motion shall be filed at or before the first prehearing conference or at such later time as may be allowed by the Administrative Law Judge. Any adverse party within 20 days after service of the motion, may serve opposing papers or may countermove for summary disposition.
+
+(b) *Supporting papers.* A motion for summary judgment shall include a statement of material facts as to which the moving party contends there is no genuine issue, supported by the pleadings, and by affidavits, other verified statements, including investigative transcripts, admissions, stipulations, and depositions. The motion may also be supported by briefs containing points and authorities in support of the contention of the party making the motion. When a motion is made and supported as provided in this section, an adverse party may not rest upon the mere allegations, but shall serve and file in response a statement setting forth those material facts as to which he contends a genuine issue exists, supported by affidavits or otherwise. He may also submit a brief of points and authorities.
+
+(c) *Form of affidavits.* Supporting and opposing affidavits shall be made upon personal knowledge, shall set forth such facts as would be admissible in evidence, and shall show affirmatively that the affiant is competent to testify on the matters stated therein. Sworn or certified copies of all papers or parts thereof referred to in an affidavit shall be attached thereto or served therewith.
+
+(d) *Oral argument.* Oral argument may be granted at the discretion of the Administrative Law Judge.
+
+(e) *Ruling on motion.* The Administrative Law Judge shall grant a motion for summary disposition if the undisputed pleaded facts, affidavits, other verified statements, admissions, stipulations, and depositions, and matters of official notice show that (1) there is no genuine issue as to any material fact, (2) there is no necessity that further facts be developed in the record, and (3) such party is entitled to a decision as a matter of law.
+
+(f) *Review of ruling; appeal.* An order denying a motion for summary disposition is subject to interlocutory review under the provisions of § 10.101 on the same terms as a ruling on any other motion. An order granting a motion for summary disposition is reviewable by the Commission in accordance with the provisions of § 10.102 relating to appeals of initial decisions.

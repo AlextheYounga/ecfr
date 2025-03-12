@@ -1,0 +1,3 @@
+##### § 1.05-35 Notice of proposed rulemaking (NPRM). #####
+
+Under the Administrative Procedure Act (APA), 5 U.S.C. 553, an NPRM is generally published in the Federal Register for Coast Guard rulemakings. The NPRM normally contains a preamble statement in sufficient detail to explain the proposal, its background, basis, and purpose, and the various issues involved. It also contains a discussion of any comments received in response to prior notices, a citation of legal authority for the rule, and the text of the proposed rule.

@@ -1,0 +1,3 @@
+##### § 1411.1 Purpose and scope. #####
+
+This part contains the regulations of the Foreign Service Labor Relations Board (the Board), the General Counsel of the Federal Labor Relations Authority (the General Counsel) and the Foreign Service Impasse Disputes Panel (the Panel) providing for public access to information from the Board, the General Counsel or the Panel. These regulations implement the Freedom of Information Act, as amended, 5 U.S.C. 552, and the policy of the Board, the General Counsel and the Panel to disseminate information on matters of interest to the public and to disclose to members of the public on request such information contained in records insofar as is compatible with the discharge of their responsibilities, consistent with applicable law.

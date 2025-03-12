@@ -1,0 +1,3 @@
+##### § 38.156 Automated trade surveillance system. #####
+
+A designated contract market must maintain an automated trade surveillance system capable of detecting and investigating potential trade practice violations. The automated system must load and process daily orders and trades no later than 24 hours after the completion of the trading day. In addition, the automated trade surveillance system must have the capability to detect and flag specific trade execution patterns and trade anomalies; compute, retain, and compare trading statistics; compute trade gains, losses, and futures-equivalent positions; reconstruct the sequence of market activity; perform market analyses; and support system users to perform in-depth analyses and ad hoc queries of trade-related data.

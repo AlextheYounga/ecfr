@@ -1,0 +1,5 @@
+##### § 1.902 How do the criteria and definitions in this subpart apply under the Federal Food, Drug, and Cosmetic Act? #####
+
+(a) The criteria and definitions of this subpart apply in determining whether food is adulterated within the meaning of section 402(i) of the Federal Food, Drug, and Cosmetic Act in that the food has been transported or offered for transport by a shipper, carrier by motor vehicle or rail vehicle, loader, or receiver engaged in transportation operations under conditions that are not in compliance with this subpart.
+
+(b) The failure by a shipper, carrier by motor vehicle or rail vehicle, loader, or receiver engaged in transportation operations to comply with the requirements of this subpart is a prohibited act under section 301(hh) of the Federal Food, Drug, and Cosmetic Act.

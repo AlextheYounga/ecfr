@@ -1,0 +1,3 @@
+##### § 22.173 Procurement of tax-free spirits. #####
+
+Each Government agency shall retain the original of its permit, Form 5150.33, on file. When placing an initial order with a vendor, the agency shall forward a photocopy of its permit with the purchase order for tax-free spirits. In the case of an agency holding a single permit for use of other sub-agencies, the photocopy of the permit shall contain an attachment listing all other locations authorized to procure tax-free spirits. Any subsequent purchases from the same vendor need only contain the permit number on the purchase order.

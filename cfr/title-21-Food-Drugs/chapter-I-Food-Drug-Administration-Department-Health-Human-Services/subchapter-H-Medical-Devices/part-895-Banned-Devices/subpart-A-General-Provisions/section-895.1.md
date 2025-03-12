@@ -1,0 +1,9 @@
+##### § 895.1 Scope. #####
+
+(a) This part describes the procedures by which the Commissioner may institute proceedings to make a device intended for human use that presents substantial deception or an unreasonable and substantial risk of illness or injury a banned device.
+
+(b) This part applies to any “device”, as defined in section 201(h) of the Federal Food, Drug, and Cosmetic Act (act) that is intended for human use.
+
+(c) A device that is made a banned device in accordance with this part is adulterated under section 501(g) of the act. A restricted device that is banned may also be misbranded under section 502(q) of the act.
+
+(d) Although this part does not cover devices intended for animal use, the manufacturer, distributor, importer, or any other person(s) responsible for the labeling of the device that is banned cannot avoid the ban by relabeling the device for veterinary use. A device that has been banned from human use but that also has a valid veterinary use may be marketed for use as a veterinary device only under the following conditions: The device shall comply with all requirements applicable to veterinary devices under the Federal Food, Drug, and Cosmetic Act and this chapter, and the label for the device shall bear the following statement: “For Veterinary Use Only. Caution: Federal law prohibits the distribution of this device for human use.” A device so labeled, however, that is determined by the Food and Drug Administration to be intended for human use, will be considered to be a banned device. In determining whether such a device is intended for human use, the Food and Drug Administration will consider, among other things, the ultimate destination of the device.

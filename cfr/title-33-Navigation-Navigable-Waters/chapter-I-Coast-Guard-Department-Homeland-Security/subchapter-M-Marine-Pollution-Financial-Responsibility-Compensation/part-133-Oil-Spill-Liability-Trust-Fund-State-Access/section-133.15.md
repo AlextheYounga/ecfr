@@ -1,0 +1,3 @@
+##### § 133.15 Determination of eligibility for funding. #####
+
+Upon receipt of the information under § 133.11 and, if necessary, from other sources determined to be appropriate at his or her discretion, the OSC will determine whether the proposed removal actions meet the requirements of § 133.13. If necessary, the OSC may seek further clarification of the proposed actions from the State official. The OSC shall expeditiously notify the State official and the Director, NPFC, of his or her decision.

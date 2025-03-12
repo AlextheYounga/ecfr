@@ -1,0 +1,9 @@
+##### § 154.1040 Specific requirements for facilities that could reasonably be expected to cause substantial harm to the environment. #####
+
+(a) The owner or operator of a facility that, under § 154.1015, could reasonably be expected to cause substantial harm to the environment, shall submit a response plan that meets the requirements of § 154.1035, except as modified by this section.
+
+(b) The facility's response activities section of the response plan need not list the facility or corporate organizational structure that will be used to manage the response, as required by § 154.1035(b)(3)(iii).
+
+(c) The owner or operator of a facility must ensure the availability of response resources required to be identified in § 154.1035(b)(3)(iv) by contract or other approved means described in § 154.1028.
+
+(d) A facility owner or operator must have at least 200 feet of containment boom and the means of deploying and anchoring the boom available at the spill site within 1 hour of the detection of a spill to respond to the average most probable discharge in lieu of the quantity of containment boom specified in § 154.1045(c)(1). Based on site-specific or facility-specific information, the COTP may specify that additional quantities of containment boom are available within one hour. In addition, there must be adequate sorbent material for initial response to an average most probable discharge. If the facility is a fixed facility, the containment boom and sorbent material must be located at the facility. If the facility is a mobile facility, the containment boom and sorbent must be available locally and be at the site of the discharge within 1 hour of its discovery.

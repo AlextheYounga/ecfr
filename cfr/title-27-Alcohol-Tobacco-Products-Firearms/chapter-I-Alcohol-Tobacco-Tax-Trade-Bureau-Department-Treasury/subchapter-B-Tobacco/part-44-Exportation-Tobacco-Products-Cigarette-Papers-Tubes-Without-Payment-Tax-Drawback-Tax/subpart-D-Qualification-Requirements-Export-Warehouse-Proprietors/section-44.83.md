@@ -1,0 +1,5 @@
+##### § 44.83 Corporate documents. #####
+
+Every corporation, before commencing business as an export warehouse proprietor, shall furnish with its application for permit required by § 44.82, a true copy of the corporate charter or a certificate of corporate existence or incorporation, executed by the appropriate officer of the State in which incorporated. The corporation shall also furnish, in duplicate, evidence which will establish the authority of the officer or other person who executes the application for permit to execute the same; the authority of persons to sign other documents, required by this part, for the corporation; and the identity of the officers and directors, and each person who holds more than ten percent of the stock of such corporation. Where a corporation has previously filed such documents or evidence with the appropriate TTB officer, a written statement by the corporation, in duplicate, to that effect will be sufficient for the purpose of this section.
+
+(72 Stat. 1421; 26 U.S.C. 5712)

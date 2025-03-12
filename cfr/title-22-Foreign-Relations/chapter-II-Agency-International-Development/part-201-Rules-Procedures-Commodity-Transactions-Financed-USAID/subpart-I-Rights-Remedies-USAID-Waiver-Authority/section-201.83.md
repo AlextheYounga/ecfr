@@ -1,0 +1,3 @@
+##### § 201.83 No waiver of alternative rights or remedies by USAID. #####
+
+No right reserved to USAID in this subpart to seek a refund from a borrower/grantee, and no exercise of such right, whether or not successful, shall in any way limit or affect, under the doctrine of the election of remedies or otherwise, USAID's rights against a supplier under this subpart I or under the laws of the United States, or of any other country or political subdivision thereof, nor shall any right or remedy herein reserved to USAID against a supplier in any way derogate from or otherwise limit any other rights or remedies which may accrue to USAID under such laws.

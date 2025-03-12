@@ -1,0 +1,5 @@
+##### § 28.45 Retention of records. #####
+
+File copies of forms required by this part to be retained by any proprietor or claimant, and all records, documents, or copies of records and documents supporting such forms, shall be preserved by such proprietor or claimant for a period of not less than two years, and during such period shall be available, during business hours, for inspection and the taking of abstracts therefrom by appropriate TTB officers.
+
+(Approved by the Office of Management and Budget under control number 1512-0385)(Sec. 201, Pub. L. 85-859, 72 Stat. 1342, as amended, 1381, as amended, 1390, as amended, 1395, as amended (26 U.S.C. 5114, 5367, 5415, 5555); sec. 807, Pub. L. 96-39, 93 Stat. 283 (26 U.S.C. 5207))[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-62, 44 FR 71721, Dec. 11, 1979; T.D. ATF-172, 49 FR 14943, Apr. 16, 1984; T.D. TTB-8, 69 FR 3832, Jan. 27, 2004]

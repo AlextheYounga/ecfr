@@ -1,0 +1,5 @@
+##### § 507.10 Applicability of subparts C and E of this part to a facility solely engaged in the storage of unexposed packaged animal food. #####
+
+(a) Subparts C and E of this part do not apply to a facility solely engaged in the storage of unexposed packaged animal food that does not require time/temperature control to significantly minimize or prevent the growth of, or toxin production by, pathogens.
+
+(b) A facility solely engaged in the storage of unexposed packaged animal food, including unexposed packaged animal food that requires time/temperature control to significantly minimize or prevent the growth of, or toxin production by, pathogens is subject to the modified requirements in § 507.51 for any unexposed packaged animal food that requires time/temperature control to significantly minimize or prevent the growth of, or toxin production by, pathogens.

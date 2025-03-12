@@ -1,0 +1,5 @@
+##### § 126.31 Termination or suspension of general permit. #####
+
+The Captain of the Port is hereby authorized to terminate or to suspend the general permit granted by § 126.27 in respect to any particular designated waterfront facility whenever he deems that the security or safety of the port or vessels or waterfront facilities therein so requires. Confirmation of such termination or suspension shall be given to the permittee in writing. After such termination, the general permit may be revived by the District Commander with respect to such particular waterfront facility upon a finding by him that the cause of termination no longer exists and is unlikely to recur. After such suspension, the general permit shall be revived by the Captain of the Port with respect to such particular waterfront facility when the cause of suspension no longer exists, and he shall so advise the permittee in writing.
+
+[CGFR 51-37, 16 FR 8680, Aug. 28, 1951, as amended by CGFR 69-89, 34 FR 17479, Oct. 29, 1969]

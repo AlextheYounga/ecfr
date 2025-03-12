@@ -1,0 +1,3 @@
+##### § 570.245 Part 5 of a GRAS notice: Experience based on common use in food before 1958. #####
+
+If the statutory basis for your conclusion of GRAS status is through experience based on common use in animal food, in Part 5 of your GRAS notice you must include evidence of a substantial history of consumption of the notified substance for food use by a significant number of animals of the species to which the substance is intended to be fed prior to January 1, 1958, and evidence of a substantial history of consumption by humans consuming human foods derived from food-producing animals prior to January 1, 1958.

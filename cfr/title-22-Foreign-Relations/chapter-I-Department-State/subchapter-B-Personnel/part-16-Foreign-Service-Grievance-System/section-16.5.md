@@ -1,0 +1,5 @@
+##### § 16.5 Relationship to other remedies. #####
+
+(a) A grievant may not file a grievance under these procedures if the grievant has formally requested, prior to filing a grievance, that the matter or matters which are the basis of the grievance be considered or resolved and relief be provided, under another provision of law, regulation, or executive order, and the matter has been carried to final decision thereunder on its merits or is still under consideration.
+
+(b) If a grievant is not prohibited from filing a grievance under these regulations by paragraph (a) of this section, the grievant may file under these regulations notwithstanding the fact that such grievance may be eligible for consideration, resolution, and relief under a regulation or executive order other than under these regulations, but such election of remedies shall be final upon the acceptance of jurisdiction by the Board.

@@ -1,0 +1,3 @@
+##### § 1.681 How frequently must eligible entities be recertified? #####
+
+An eligible entity seeking recertification of a food or facility certification under this subpart must apply for recertification prior to the expiration of its certification. For certifications used in meeting the requirements of section 801(q) or 806 of the FD&C Act, FDA may require an eligible entity to apply for recertification at any time FDA determines appropriate under such section.

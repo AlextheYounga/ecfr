@@ -1,0 +1,13 @@
+##### § 130.6 Review of Codex Alimentarius food standards. #####
+
+(a) All food standards adopted by the Codex Alimentarius Commission will be reviewed by the Food and Drug Administration and will be accepted without change, accepted with change, or not accepted.
+
+(b) Review of Codex standards will be accomplished in one of the following three ways:
+
+(1) Any interested person may petition the Commissioner to adopt a Codex standard, with or without change, by proposing a new standard or an appropriate amendment of an existing standard, pursuant to section 401 of the act. Any such petition shall specify any deviations from the Codex standard, and the reasons for any such deviations. The Commissioner shall publish such a petition in the Federal Register as a proposal, with an opportunity for comment, if reasonable grounds are provided in the petition. Any published proposal shall state any deviations from the Codex standard and the stated reasons therefor.
+
+(2) The Commissioner may on his own initiative propose by publication in the Federal Register the adoption of a Codex standard, with or without change, through a new standard or an appropriate amendment to an existing standard, pursuant to section 401 of the act. Any such proposal shall specify any deviations from the Codex standard, and the reasons for any such deviations.
+
+(3) Any Codex standard not handled under paragraph (b) (1) or (2) of this section may be published in the Federal Register for review and informal comment. Interested persons shall be requested to comment on the desirability and need for the standard, on the specific provisions of the standard, on additional or different provisions that should be included in the standard, and on any other pertinent points. After reviewing all such comments, the Commissioner either shall publish a proposal to establish a food standard pursuant to section 401 of the act covering the food involved, or shall publish a notice terminating consideration of such a standard.
+
+(c) All interested persons are encouraged to confer with different interest groups (consumers, industry, the academic community, professional organizations, and others) in formulating petitions or comments pursuant to paragraph (b) of this section. All such petitions or comments are requested to include a statement of any meetings and discussions that have been held with other interest groups. Appropriate weight will be given by the Commissioner to petitions or comments that reflect a consensus of different interest groups.

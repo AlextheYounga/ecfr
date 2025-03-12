@@ -1,0 +1,7 @@
+##### § 40.511 Change in name. #####
+
+(a) *Change in individual name.* When there is a change in the name of an individual operating under a permit as a manufacturer of processed tobacco, the manufacturer must, within 30 days of such change, make application on TTB F 5200.16 for an amended permit.
+
+(b) *Change in trade name.* When there is a change in a trade name used by a manufacturer of processed tobacco in connection with operations authorized by the permit, the manufacturer must, within 30 days of such change, make application on TTB F 5200.16 for an amended permit to reflect such change. This requirement also applies to the addition or discontinuance of a trade name. The manufacturer must also furnish a true copy of any new trade name certificate or document issued to the manufacturer, or statement in lieu thereof, required by § 40.496.
+
+(c) *Change in corporate name.* When there is a change in the corporate name of a manufacturer of processed tobacco, the manufacturer must, within 30 days of such change, make application on TTB F 5200.16 for an amended permit. The manufacturer must also furnish such documents as may be necessary to establish that the corporate name has been changed.

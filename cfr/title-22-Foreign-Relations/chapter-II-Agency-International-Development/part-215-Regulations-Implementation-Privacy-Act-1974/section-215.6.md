@@ -1,0 +1,3 @@
+##### § 215.6 Special procedures: Medical records. #####
+
+If the Assistant Director for Administration or the Privacy Liaison Officer, determines that the release directly to the individual of medical records maintained by the Agency could have an adverse effect upon such individual, the Director/Officer will attempt to arrange an alternative acceptable to both the individual and Agency (such as the release of said information to a doctor named by the individual) in granting access to such record.

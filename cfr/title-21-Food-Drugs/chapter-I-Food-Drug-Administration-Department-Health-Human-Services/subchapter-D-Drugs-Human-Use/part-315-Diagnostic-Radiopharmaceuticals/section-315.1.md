@@ -1,0 +1,3 @@
+##### § 315.1 Scope. #####
+
+The regulations in this part apply to radiopharmaceuticals intended for in vivo administration for diagnostic and monitoring use. They do not apply to radiopharmaceuticals intended for therapeutic purposes. In situations where a particular radiopharmaceutical is proposed for both diagnostic and therapeutic uses, the radiopharmaceutical must be evaluated taking into account each intended use.

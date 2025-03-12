@@ -1,0 +1,3 @@
+##### § 343.22 Permitted combinations of active ingredients for cardiovascular-rheumatologic use. #####
+
+Combinations containing aspirin must meet the standards of an acceptable dissolution test, as set forth in § 343.90. The following combinations are permitted: Aspirin identified in §§ 343.12 and 343.13 may be combined with any antacid ingredient identified in § 331.11 of this chapter or any combination of antacids permitted in accordance with § 331.10(a) of this chapter provided that the finished product meets the requirements of § 331.10 of this chapter and is marketed in a form intended for ingestion as a solution.

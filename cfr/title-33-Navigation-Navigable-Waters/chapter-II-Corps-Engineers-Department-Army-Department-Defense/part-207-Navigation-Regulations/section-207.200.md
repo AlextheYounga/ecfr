@@ -1,0 +1,13 @@
+##### § 207.200 Mississippi River below mouth of Ohio River, including South and Southwest Passes; use, administration, and navigation. #####
+
+(a) *Mississippi River bank protection works provided by United States.* Except in case of great emergency, no vessel or craft shall anchor over revetted banks of the river, and no floating plant other than launches and similar small craft shall land against banks protected by revetment except at regular commercial landings. In all cases, every precaution to avoid damage to the revetment works shall be exercised. The construction of log rafts along mattressed or paved banks or the tying up and landing of log rafts against such banks shall be performed in such a manner as to cause no damage to the mattress work or bank paving. Generally, mattress work extends out into the river 600 feet from the low water line. Information as to the location of revetted areas may be obtained from, and will be published from time to time by, the District Engineers, Corps of Engineers, New Orleans, Louisiana, Vicksburg, Mississippi, and Memphis, Tennessee, and the President, Mississippi River Commission, Vicksburg, Mississippi.
+
+(b) *Mississippi River below Baton Rouge, La., including South and Southwest Passes*—(1) *Supervision.* The use, administration, and navigation of the waterways to which this paragraph applies shall be under the supervision of the District Engineer, Corps of Engineers, New Orleans, Louisiana.
+
+(2)-(3) [Reserved]
+
+(4) *Cable and pipeline crossings.* Any cable or pipeline crossing or extending into the waterways shall be marked by large signs with 12-inch black letters on a white background readable from the waterway side, placed on each side of the river near the point where the cable or pipeline enters the water, and at a sufficient height to be readable above any obstructions normally to be expected at the locality such as weeds or moored vessels.
+
+(5) *Marine accidents.* Masters, mates, pilots, owners, or other persons using the waterway to which this paragraph applies shall notify the District Engineer by the most expeditious means available of all marine accidents, such as fire, collision, sinking, or stranding, where there is possible obstruction of the channel or interference with navigation or where damage to Government property is involved, furnishing a clear statement as to the name, address, and ownership of the vessel or vessels involved, the time and place, and the action taken. In all cases, the owner of the sunken vessel shall take immediate steps properly to mark the wreck.
+
+[15 FR 3325, May 30, 1950, as amended at 17 FR 6594, July 18, 1952; 27 FR 3166, Apr. 3, 1962; 33 FR 10456, July 23, 1968; 42 FR 51773, Sept. 29, 1977; 42 FR 57961, 57962, Nov. 7, 1977]

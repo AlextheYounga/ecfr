@@ -1,0 +1,5 @@
+##### § 478.148 Armor piercing ammunition intended for sporting or industrial purposes. #####
+
+The Director may exempt certain armor piercing ammunition from the requirements of this part. A person who desires to obtain an exemption under this section for any such ammunition which is primarily intended for sporting purposes or intended for industrial purposes, including charges used in oil and gas well perforating devices, shall submit a written request to the Director. Each request shall be executed under the penalties of perjury and contain a complete and accurate description of the ammunition, the name and address of the manufacturer or importer, the purpose of and use for which it is designed and intended, and any photographs, diagrams, or drawings as may be necessary to enable the Director to make a determination. The Director may require that a sample of the ammunition be submitted for examination and evaluation.
+
+[T.D. ATF-270, 53 FR 10507, Mar. 31, 1988]

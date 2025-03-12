@@ -1,0 +1,7 @@
+##### § 112.152 What methods must I use to test the growing, harvesting, packing, and holding environment for Listeria species or L. monocytogenes to satisfy the requirements of § 112.144(a)? #####
+
+You must test the growing, harvesting, packing, and holding environment for *Listeria* species or *L.**monocytogenes* using:
+
+(a) The method of analysis described in “Testing Methodology for *Listeria* species or *L. monocytogenes* in Environmental Samples,” Version 1, October 2015, U.S. Food and Drug Administration. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 5. You may obtain a copy from, and/or inspect a copy at, the Division of Produce Safety, Center for Food Safety and Applied Nutrition (CFSAN), U.S. Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, 240-402-1600; FDA's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039; *http://www.fda.gov/fsma*; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*; or
+
+(b) A scientifically valid method that is at least equivalent to the method of analysis in § 112.152(a) in accuracy, precision, and sensitivity.

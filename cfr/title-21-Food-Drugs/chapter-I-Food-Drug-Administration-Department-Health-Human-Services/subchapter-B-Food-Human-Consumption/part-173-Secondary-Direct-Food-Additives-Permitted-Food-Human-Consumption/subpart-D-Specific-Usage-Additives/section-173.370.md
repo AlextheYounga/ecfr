@@ -1,0 +1,13 @@
+##### § 173.370 Peroxyacids. #####
+
+Peroxyacids may be safely used in accordance with the following prescribed conditions:
+
+(a) The additive is a mixture of peroxyacetic acid, octanoic acid, acetic acid, hydrogen peroxide, peroxyoctanoic acid, and 1-hydroxyethylidene-1,1-diphosphonic acid.
+
+(b)(1) The additive is used as an antimicrobial agent on meat carcasses, parts, trim, and organs in accordance with current industry practice where the maximum concentration of peroxyacids is 220 parts per million (ppm) as peroxyacetic acid, and the maximum concentration of hydrogen peroxide is 75 ppm.
+
+(2) The additive is used as an antimicrobial agent on poultry carcasses, poultry parts, and organs in accordance with current industry standards of good manufacturing practice (unless precluded by the U.S. Department of Agriculture's standards of identity in 9 CFR part 381, subpart P) where the maximum concentration of peroxyacids is 220 parts per million (ppm) as peroxyacetic acid, the maximum concentration of hydrogen peroxide is 110 ppm, and the maximum concentration of 1-hydroxyethylidene-1,1-diphosphonic acid (HEDP) is 13 ppm.
+
+(c) The concentrations of peroxyacids and hydrogen peroxide in the additive are determined by a method entitled “Hydrogen Peroxide and Peracid (as Peracetic Acid) Content,” July 26, 2000, developed by Ecolab, Inc., St. Paul, MN, which is incorporated by reference. The concentration of 1-hydroxyethylidene-1,1-diphosphonic acid is determined by a method entitled “Determination of 1-hydroxyethylidene-1,1-diphosphonic acid (HEDP) Peroxyacid/Peroxide-Containing Solutions,” August 21, 2001, developed by Ecolab, Inc., St. Paul, MN, which is incorporated by reference. The Director of the Office of the Federal Register approves these incorporations by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain copies of these methods from the Division of Petition Review, Center for Food Safety and Applied Nutrition, Food and Drug Administration, 5001 Campus Dr., College Park, MD 20740, or you may examine a copy at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+[65 FR 70660, Nov. 27, 2000, as amended at 66 FR 48208, Sept. 19, 2001; 67 FR 61784, Oct. 2, 2002; 81 FR 5593, Feb. 3, 2016]

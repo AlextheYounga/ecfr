@@ -1,0 +1,11 @@
+##### § 7.20 General. #####
+
+(a) *Application.* This subpart shall apply to malt beverages sold or shipped or delivered for shipment, or otherwise introduced into or received in any State from any place outside thereof, only to the extent that the law of such State imposes similar requirements with respect to the labeling of malt beverages not sold or shipped or delivered for shipment or otherwise introduced into or received in such State from any place outside thereof.
+
+(b) *Marking, branding, and labeling.* No person engaged in business as a brewer, wholesaler, or importer of malt beverages, directly or indirectly, or through an affiliate, shall sell or ship, or deliver for sale or shipment, or otherwise introduce in interstate or foreign commerce, or receive therein, or remove from Customs custody any malt beverages in containers unless the malt beverages are packaged, and the packages are marked, branded, and labeled in conformity with this subpart.
+
+(c) *Alteration of labels.* (1) It shall be unlawful for any person to alter, mutilate, destroy, obliterate, or remove any mark, brand, or label upon malt beverages held for sale in interstate or foreign commerce or after shipment therein, except as authorized by Federal law. The appropriate TTB officer may, upon written application, permit additional labeling or relabeling of malt beverages in containers if, in his judgment, the facts show that the additional labeling or relabeling is for the purpose of compliance with the requirements of this subpart or of State law.
+
+(2) Application for permission to relabel shall be accompanied by two complete sets of the old labels and two complete sets of any proposed labels, together with a statement of the reasons for relabeling, the quantity and the location of the malt beverages, and the name and address of the person by whom they will be relabeled.
+
+[T.D. 6521, 25 FR 13859, Dec. 29, 1960, as amended by T.D. ATF-66, 45 FR 40551, June 13, 1980; T.D. ATF-425, 65 FR 11892, Mar. 7, 2000]

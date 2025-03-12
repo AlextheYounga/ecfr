@@ -1,0 +1,5 @@
+##### § 19.31 Pilot operations. #####
+
+Except for the filing of any bond or the payment of any tax provided for in 26 U.S.C. chapter 51, TTB may waive any regulatory provision in this part for temporary pilot or experimental operations for the purpose of facilitating the development and testing of improved methods of governmental supervision (necessary for the protection of the revenue) over plants. For this purpose, the appropriate TTB officer may, with the approval of the proprietor thereof, designate any plant for such operations. Any waiver granted under this section must be in writing and signed by the appropriate TTB officer. The waiver will identify the provisions of law and/or regulations waived and the period of time during which the waiver will be effective. The appropriate TTB officer may terminate the waiver if he or she determines that the waiver jeopardizes the revenue.
+
+(26 U.S.C. 5554)

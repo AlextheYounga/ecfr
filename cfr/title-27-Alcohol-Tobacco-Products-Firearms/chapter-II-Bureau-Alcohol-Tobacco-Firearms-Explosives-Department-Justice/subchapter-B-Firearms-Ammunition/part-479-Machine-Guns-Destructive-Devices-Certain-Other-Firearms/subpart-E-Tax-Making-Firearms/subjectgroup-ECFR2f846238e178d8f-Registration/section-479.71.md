@@ -1,0 +1,3 @@
+##### § 479.71 Proof of registration. #####
+
+The approval by the Director of an application, Form 1 (Firearms), to make a firearm under this subpart shall effectuate registration of the firearm described in the Form 1 (Firearms) to the person making the firearm. The original Form 1 (Firearms) showing approval by the Director shall be retained by the maker to establish proof of his registration of the firearm described therein, and shall be made available to any ATF officer on request.

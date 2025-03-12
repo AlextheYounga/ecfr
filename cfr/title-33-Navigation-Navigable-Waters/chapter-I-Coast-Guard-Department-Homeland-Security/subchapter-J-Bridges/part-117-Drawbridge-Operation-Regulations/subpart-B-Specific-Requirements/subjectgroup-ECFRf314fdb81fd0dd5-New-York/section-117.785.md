@@ -1,0 +1,5 @@
+##### § 117.785 Genessee River. #####
+
+The draw of the Colonel Patrick Henry O'Rorke Memorial Bridge, mile 1.2 at Rochester, shall open on signal from April 1 through December 15; however, from 7 a.m. to 9 a.m. and from 4 p.m. to 6 p.m., Monday through Friday, except Federal holidays, the draw need be opened only for the passage of commercial vessels. From 9 a.m. to 4 p.m. and 6 p.m. to 11 p.m., Monday through Friday, except Federal holidays, and from 7 a.m. to 11 p.m. on Saturdays, Sundays, and Federal holidays, the draw need be opened only on the hour and half-hour, except that commercial vessels shall be passed at any time. From December 16 through March 31, the draw shall open on signal if at least 12 hours notice is given. The owners of the bridge shall maintain clearance gauges in accordance with 33 CFR 118.160.
+
+[USCG-2013-0921, 78 FR 72025, Dec. 2, 2013]

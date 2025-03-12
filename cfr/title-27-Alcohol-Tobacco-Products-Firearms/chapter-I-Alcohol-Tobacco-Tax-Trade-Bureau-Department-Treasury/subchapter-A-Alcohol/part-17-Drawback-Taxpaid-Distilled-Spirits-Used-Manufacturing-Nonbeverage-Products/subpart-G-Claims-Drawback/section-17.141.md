@@ -1,0 +1,5 @@
+##### § 17.141 Drawback. #####
+
+Upon the filing of a claim as provided in this subpart, drawback shall be allowed to any person who meets the requirements of this part. Drawback shall be paid at the rate specified by 26 U.S.C. 5114 on each proof gallon of distilled spirits on which the tax has been paid or determined and which have been used in the manufacture of nonbeverage products. The drawback rate is $1.00 less than the effective tax rate. Drawback shall be allowed only to the extent that the claimant can establish, by evidence satisfactory to the appropriate TTB officer, the actual quantity of taxpaid or tax-determined distilled spirits used in the manufacture of the product, and the effective tax rate applicable to those spirits.
+
+[T.D. ATF-379, 61 FR 31412, June 20, 1996, as amended by T.D. TTB-79, 74 FR 37402, July 28, 2009; T.D. TTB-91, 76 FR 5477, Feb. 1, 2011]

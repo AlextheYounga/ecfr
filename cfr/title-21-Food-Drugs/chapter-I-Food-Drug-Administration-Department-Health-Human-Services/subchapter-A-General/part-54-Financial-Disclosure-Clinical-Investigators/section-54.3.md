@@ -1,0 +1,3 @@
+##### § 54.3 Scope. #####
+
+The requirements in this part apply to any applicant who submits a marketing application for a human drug, biological product, or device and who submits covered clinical studies. The applicant is responsible for making the appropriate certification or disclosure statement where the applicant either contracted with one or more clinical investigators to conduct the studies or submitted studies conducted by others not under contract to the applicant.

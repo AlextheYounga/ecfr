@@ -1,0 +1,9 @@
+##### § 516.21 Documentation of minor use status. #####
+
+So that FDA can determine whether a drug qualifies for MUMS-drug designation as a minor use in a major species under section 573 of the act, the sponsor shall include in its request to FDA for MUMS-drug designation under § 516.20 documentation demonstrating that the use is limited to a small number of animals (annualized). This documentation must include the following information:
+
+(a) The estimated total number of animals to which the drug could potentially be administered on an annual basis for the treatment, control, or prevention of the disease or condition for which the drug is being developed, including animals administered the drug as part of herd or flock treatment, together with a list of the sources (including dates of information provided and literature citations) for the estimate.
+
+(b) The estimated total number of animals referred to in paragraph (a) of this section may be further reduced to only a subset of the estimated total number of animals if administration of the drug is only medically justified for this subset. To establish this, requestors must demonstrate that administration of the drug to animals subject to the disease or condition for which the drug is being developed other than the subset is not medically justified. The sponsor must also include a list of the sources (including dates of information provided and literature citations) for the justification that administration of the drug to animals other than the targeted subset is medically inappropriate.
+
+[72 FR 41017, July 26, 2007, as amended at 74 FR 43050, Aug. 25, 2009]

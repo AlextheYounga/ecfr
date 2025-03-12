@@ -1,0 +1,3 @@
+##### § 479.89 Transfers to the United States. #####
+
+A firearm may be transferred to the United States or any department, independent establishment or agency thereof without payment of the transfer tax. However, the procedures for the transfer of a firearm as provided in § 479.90 shall be followed in a tax-exempt transfer of a firearm under this section, unless the transferor is relieved of such requirement under other provisions of this part.

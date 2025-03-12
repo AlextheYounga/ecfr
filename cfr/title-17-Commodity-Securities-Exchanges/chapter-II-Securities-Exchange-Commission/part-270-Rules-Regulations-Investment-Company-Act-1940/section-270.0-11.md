@@ -1,0 +1,5 @@
+##### § 270.0-11 Customer identification programs. #####
+
+Each registered open-end company is subject to the requirements of 31 U.S.C. 5318(l) and the implementing regulation at 31 CFR 103.131, which requires a customer identification program to be implemented as part of the anti-money laundering program required under subchapter II of chapter 53 of title 31, United States Code and the implementing regulations issued by the Department of the Treasury at 31 CFR part 103. Where 31 CFR 103.131 and this chapter use different definitions for the same term, the definition in 31 CFR 103.131 shall be used for the purpose of compliance with 31 CFR 103.131. Where 31 CFR 103.131 and this chapter require the same records to be preserved for different periods of time, such records shall be preserved for the longer period of time.
+
+[68 FR 25146, May 9, 2003]

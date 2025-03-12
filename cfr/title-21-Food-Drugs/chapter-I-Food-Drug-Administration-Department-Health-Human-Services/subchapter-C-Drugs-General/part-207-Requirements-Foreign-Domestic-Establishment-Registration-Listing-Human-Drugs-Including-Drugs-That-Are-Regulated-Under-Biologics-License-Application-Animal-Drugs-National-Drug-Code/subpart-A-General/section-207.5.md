@@ -1,0 +1,3 @@
+##### § 207.5 What is the purpose of this part? #####
+
+Establishment registration information helps FDA identify who is manufacturing, repacking, relabeling, and salvaging drugs and where those operations are performed. Drug listing information gives FDA a current inventory of drugs manufactured, repacked, relabeled, or salvaged for commercial distribution. Both types of information facilitate implementation and enforcement of the Federal Food, Drug, and Cosmetic Act and are used for many important public health purposes.

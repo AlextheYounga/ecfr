@@ -1,0 +1,5 @@
+##### § 140.14 Delegation of authority to the Secretary of the Commission. #####
+
+After the Commission has formally reached a decision or taken other action on a matter, has agreed upon the language of the document which embodies the Commission decision or other action, including, but not limited to, a rule, regulation or order, and has directed that the document be issued, the Secretary of the Commission (or a person designated in writing by the Secretary) shall sign the document on behalf of the Commission. Signature by the Secretary shall be a ministerial function and shall not be discretionary. The delegation to the Secretary of the authority to sign documents on the Commission's behalf shall not affect any other delegation which the Commission has made, or may make, which authorizes any other officer or employee of the Commission to take action and to sign documents on the Commission's behalf. In addition, the Commission reserves the authority to provide for signature on its behalf by the Chairman or any other member of the Commission in particular circumstances.
+
+[44 FR 33677, June 12, 1979]

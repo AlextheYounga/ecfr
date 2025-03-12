@@ -1,0 +1,3 @@
+##### § 312.86 Focused FDA regulatory research. #####
+
+At the discretion of the agency, FDA may undertake focused regulatory research on critical rate-limiting aspects of the preclinical, chemical/manufacturing, and clinical phases of drug development and evaluation. When initiated, FDA will undertake such research efforts as a means for meeting a public health need in facilitating the development of therapies to treat life-threatening or severely debilitating illnesses.

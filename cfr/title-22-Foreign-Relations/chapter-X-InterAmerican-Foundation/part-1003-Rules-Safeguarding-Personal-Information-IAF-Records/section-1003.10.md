@@ -1,0 +1,5 @@
+##### § 1003.10 Reports. #####
+
+(a) The Administrator or designee will provide adequate advance notice to Congress and the Office of Management and Budget of any proposal to establish or alter any Inter-American Foundation system or systems of records, as required by 5 U.S.C. 552a(o). This will permit an evaluation of the probable or potential effect of such proposal on the privacy and other personal or property rights of individuals or the disclosure of information relating to such individuals, and its effect on the preservation of the constitutional principles of federalism and separation of powers.
+
+(b) If at any time an Inter-American Foundation system or systems of records is determined to be exempt from the application of 5 U.S.C. 552a in accordance with the provisions of 5 U.S.C. 552a (j) and (k), the number of records contained in such system or systems will be separately listed and reported to the Office of Management and Budget in accordance with the then prevailing guidelines and instructions of that agency.

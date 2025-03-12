@@ -1,0 +1,5 @@
+##### § 44.207a To a foreign-trade zone. #####
+
+Where tobacco products, and cigarette papers and tubes are removed from a factory or an export warehouse for delivery to a foreign-trade zone, under zone restricted status for the purpose of exportation or storage, the manufacturer or export warehouse proprietor making the shipment shall forward two copies of the notice of removal, Form 5200.14, to the customs officer in charge of the zone. Upon receipt of the shipment, the customs officer shall execute the certificate of receipt on each copy of the form, noting thereon any discrepancy, retain one copy for his records, and forward the other copy to the manufacturer or export warehouse proprietor making the shipment for filing with the appropriate TTB officer.
+
+(48 Stat. 999, as amended, 72 Stat. 1418, as amended; 19 U.S.C. 81c, 26 U.S.C. 5704)[T.D. 6871, 31 FR 54, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28089, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-421, 64 FR 71926, Dec. 22, 1999]

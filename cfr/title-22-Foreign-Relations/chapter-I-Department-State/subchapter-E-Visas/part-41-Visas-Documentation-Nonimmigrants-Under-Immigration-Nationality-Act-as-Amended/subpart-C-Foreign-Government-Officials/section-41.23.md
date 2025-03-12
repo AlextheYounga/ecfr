@@ -1,0 +1,3 @@
+##### § 41.23 Accredited officials in transit. #####
+
+An accredited official of a foreign government intending to proceed in immediate and continuous transit through the United States on official business for that government is entitled to the benefits of INA 212(d)(8) if that government grants similar privileges to officials of the United States, and is classifiable C-3 under the provisions of INA 101(a)(15)(C). Members of the immediate family, attendants, servants, or personal employees of such an official receive the same classification as the principal alien.

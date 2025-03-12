@@ -1,0 +1,3 @@
+##### § 38.710 Disciplinary sanctions. #####
+
+All disciplinary sanctions imposed by a designated contract market or its disciplinary panels must be commensurate with the violations committed and must be clearly sufficient to deter recidivism or similar violations by other market participants. All disciplinary sanctions, including sanctions imposed pursuant to an accepted settlement offer, must take into account the respondent's disciplinary history. In the event of demonstrated customer harm, any disciplinary sanction must also include full customer restitution, except where the amount of restitution, or to whom it should be provided, cannot be reasonably determined.

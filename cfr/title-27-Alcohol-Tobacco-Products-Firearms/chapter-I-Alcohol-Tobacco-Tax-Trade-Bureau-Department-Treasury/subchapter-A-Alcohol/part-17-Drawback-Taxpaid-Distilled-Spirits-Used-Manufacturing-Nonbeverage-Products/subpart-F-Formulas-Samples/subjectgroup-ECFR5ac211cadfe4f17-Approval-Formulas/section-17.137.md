@@ -1,0 +1,5 @@
+##### § 17.137 Formulas disapproved for drawback. #####
+
+A formula may be disapproved for drawback either because it does not prescribe appropriate ingredients in sufficient quantities to make the product unfit for beverage use, or because the product is neither a medicine, a medicinal preparation, a food product, a flavor, a flavoring extract, nor a perfume. The formula for a disapproved product may be used as an intermediate product formula under § 17.126. No drawback will be allowed on distilled spirits used in a disapproved product, unless that product is later used in the manufacture of an approved nonbeverage product. In the case of a product that is disapproved because it is fit for beverage use, any further use or disposition of such a product, other than as an intermediate product in accordance with this part, subjects the manufacturer to the qualification requirements of parts 1 and 19 of this chapter.
+
+[T.D. ATF-379, 61 FR 31412, June 20, 1996, as amended by T.D. TTB-91, 76 FR 5477, Feb. 1, 2011]

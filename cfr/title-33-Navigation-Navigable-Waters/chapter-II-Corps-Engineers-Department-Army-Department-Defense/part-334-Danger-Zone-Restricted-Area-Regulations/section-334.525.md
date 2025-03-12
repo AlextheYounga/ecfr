@@ -1,0 +1,11 @@
+##### § 334.525 Atlantic Ocean off John F. Kennedy Space Center, FL; restricted area. #####
+
+(a) *The area.* The restricted area shall encompass all navigable waters of the United States, as defined at 33 CFR part 329, contiguous to the area offshore of the John F. Kennedy Space Center (KSC), Florida. The area is bounded by a line connecting the following coordinates: Commencing from the shoreline at the southwest portion of the area, at latitude 28°35.008′ N, longitude 80°34.448′ W, thence directly to latitude 28°35.716′ N, longitude 80°32.938′ W, thence follow the mean high water line northerly at a distance of 1.5 nautical miles to a point at latitude 28°43.566′ N, longitude 80°39.094′ W, thence proceed westerly to terminate at a point on the shoreline at latitude 28°43.566′ N, longitude 80°41.189′ W.
+
+(b) *The regulation.* (1) The area described in paragraph (a) of this section will be closed when it is deemed necessary by the Director, KSC or his/her designee during launch operations or to address any perceived threat to the facilities. With the exception of local, State, and Federal law enforcement entities, all persons, vessels, and other craft are prohibited from entering, transiting, anchoring, or drifting within the restricted area when it is closed, unless they have the permission of the Director, KSC or his/her designee.
+
+(2) Due to the nature of this restricted area, closures may occur with little advance notice. Closure of the area shall be noticed by warning statements displayed on the electronic marquee signs located at the gates of the KSC and on an electronic marquee sign located on the north side of the Port Canaveral ship channel between the Trident and Poseidon wharfs during the duration of the closure. If time permits, additional information will be published in area newspapers and announced on marine radio broadcast.
+
+(c) *Enforcement.* The regulations in this section shall be enforced by the Director, KSC and/or such persons or agencies as he/she may designate.
+
+[75 FR 34643, June 18, 2010]

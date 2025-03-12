@@ -1,0 +1,5 @@
+##### § 1316.50 Appearance; representation; authorization. #####
+
+Any person entitled to appear in a hearing may appear in person or by a representative in any proceeding or hearing and may be heard with respect to matters relevant to the issues under consideration. A representative must either be an employee of the person or an attorney at law who is a member of the bar, in good standing, of any State, territory, or the District of Columbia, and admitted to practice before the highest court of that jurisdiction. Any representative may be required by the Administrator or the presiding officer to present a notarized power of attorney showing his authority to act in such representative capacity and/or an affidavit or certificate of admission to practice.
+
+[36 FR 7820, Apr. 24, 1971, as amended at 36 FR 13387, July 21, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973]

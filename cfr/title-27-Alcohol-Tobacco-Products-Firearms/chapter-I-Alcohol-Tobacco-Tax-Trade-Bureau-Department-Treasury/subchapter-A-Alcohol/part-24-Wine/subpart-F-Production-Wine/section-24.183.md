@@ -1,0 +1,5 @@
+##### § 24.183 Use of distillates containing aldehydes. #####
+
+Distillates containing aldehydes may be received on wine premises for use in the fermentation of wine and then returned to the distilled spirits plant from which distillates were withdrawn as distilling material. Distillates produced from one kind of fruit may not be used in the fermentation of wine made from a different kind of fruit. Distillates containing aldehydes which are received at bonded wine premises and not immediately used will be placed in a locked room or tank on bonded wine premises. Distillates containing aldehydes may not be mingled with wine spirits. If the distillates contain less than 0.1 percent of aldehydes, the proprietor shall comply with any additional condition relating to the receipt, storage, and use which the appropriate TTB officer may require to assure that the distillates are properly used and accounted for.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended, 1382, as amended (26 U.S.C. 5367, 5373))[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, Mar. 22, 1999]

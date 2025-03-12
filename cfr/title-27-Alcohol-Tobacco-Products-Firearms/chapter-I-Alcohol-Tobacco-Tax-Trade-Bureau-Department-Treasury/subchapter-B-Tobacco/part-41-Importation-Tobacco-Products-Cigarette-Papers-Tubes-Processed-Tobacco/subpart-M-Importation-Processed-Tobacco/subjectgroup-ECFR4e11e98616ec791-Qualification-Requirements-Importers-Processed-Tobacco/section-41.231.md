@@ -1,0 +1,3 @@
+##### § 41.231 Persons required to qualify. #####
+
+Except as otherwise provided in § 41.233, every person, before commencing business as an importer of processed tobacco, must apply for, and obtain, either a permit as an importer of processed tobacco or, if the person holds a TTB permit as an importer of tobacco products, an amendment to the existing permit authorizing the importation of processed tobacco under such permit, in accordance with the provisions of this subpart.

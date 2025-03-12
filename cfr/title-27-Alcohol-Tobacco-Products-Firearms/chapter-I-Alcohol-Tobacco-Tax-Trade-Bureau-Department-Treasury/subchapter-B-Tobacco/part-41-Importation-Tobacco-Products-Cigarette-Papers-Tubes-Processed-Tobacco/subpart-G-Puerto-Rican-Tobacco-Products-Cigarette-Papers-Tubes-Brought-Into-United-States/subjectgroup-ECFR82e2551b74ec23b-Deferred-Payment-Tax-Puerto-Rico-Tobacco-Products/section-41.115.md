@@ -1,0 +1,5 @@
+##### § 41.115 Remittance with return. #####
+
+Remittance of the full amount of internal revenue tax computed during the return period shall accompany the return, except as prescribed in § 41.115a. Such remittance may be in any form the appropriate TTB officer is authorized to accept under the provisions of § 70.61 of this chapter (Payment by check or money order) and which is acceptable to that officer. In paying the tax, a fractional part of a cent shall be disregarded unless it amounts to one-half cent or more, in which case it shall be increased to one cent.
+
+(Aug. 16, 1954, Ch. 736, 68A Stat. 778 (26 U.S.C. 6313) Aug. 16, 1954, ch. 736, 68A Stat. 775 (26 U.S.C. 6301); June 29, 1956, ch. 462, 70 Stat. 391 (26 U.S.C. 6301))[26 FR 8195, Aug. 31, 1961. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55855, Sept. 28, 1979; T.D. ATF-77, 46 FR 3009, Jan. 13, 1981; T.D. ATF-251, 52 FR 19340, May 22, 1987; T.D. ATF-301, 55 FR 47658, Nov. 14, 1990. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

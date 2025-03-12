@@ -1,0 +1,3 @@
+##### § 248.102 Examples. #####
+
+The examples in this subpart are not exclusive. The examples in this subpart provide guidance concerning the rules' application in ordinary circumstances. The facts and circumstances of each individual situation, however, will determine whether compliance with an example, to the extent applicable, constitutes compliance with this subpart. Examples in a paragraph illustrate only the issue described in the paragraph and do not illustrate any other issue that may arise under this subpart. Similarly, the examples do not illustrate any issues that may arise under other laws or regulations.

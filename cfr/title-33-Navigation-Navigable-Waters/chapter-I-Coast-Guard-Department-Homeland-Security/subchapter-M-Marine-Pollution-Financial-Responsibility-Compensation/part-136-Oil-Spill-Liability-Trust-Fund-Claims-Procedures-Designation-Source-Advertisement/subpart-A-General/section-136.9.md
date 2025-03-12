@@ -1,0 +1,5 @@
+##### § 136.9 Falsification of claims. #####
+
+Persons submitting false claims or making false statements in connection with claims under this part may be subject to prosecution under Federal law, including but not limited to 18 U.S.C. 287 and 1001. In addition, persons submitting written documentation in support of claims under this part which they know, or should know, is false or omits a material fact may be subject to a civil penalty for each claim. If any payment is made on the claim, the claimant may also be subject to an assessment of up to twice the amount claimed. These civil sanctions may be imposed under the Program Fraud Civil Remedies Act, 31 U.S.C. 3801-3812, as implemented in 6 CFR part 13.
+
+[CGD 91-035, 57 FR 36316, Aug. 12, 1992, as amended by CGD 96-052, 62 FR 16703, Apr. 8, 1997; USCG-2013-0397, 78 FR 39175, July 1, 2013]

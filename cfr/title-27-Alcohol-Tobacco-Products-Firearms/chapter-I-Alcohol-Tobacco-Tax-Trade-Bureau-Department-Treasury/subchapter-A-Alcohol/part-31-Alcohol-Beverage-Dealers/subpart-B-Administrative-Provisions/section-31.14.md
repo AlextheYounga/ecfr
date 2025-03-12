@@ -1,0 +1,9 @@
+##### § 31.14 Penalties. #####
+
+(a) *Criminal penalties.* Criminal penalties for failure to comply with the requirements of this part are imposed by 26 U.S.C. 5603 and 5687. A failure to register as required by this part may result in a penalty under 26 U.S.C. 5603(b).
+
+(b) *Administrative penalty.* An administrative penalty for failure to supply the required identifying number (employer identification number) in a dealer's registration is imposed by 26 U.S.C. 6723. The penalty is $50 for each such failure, but not more than $100,000 for all such failures during a calendar year. A failure to submit a registration includes a failure to include the identifying number on the registration.
+
+(c) *Reasonable cause.* The administrative penalty described in paragraph (b) of this section is not imposed when it is shown that the failure was due to reasonable cause and not due to willful neglect. A dealer who believes that the circumstances that led to the failure were reasonable and who desires to have the penalty waived shall submit a written statement, under the penalty of perjury, affirmatively showing all of the circumstances alleged as reasonable causes for the failure. If the appropriate TTB officer determines that the failure was due to a reasonable cause and not to willful neglect, the penalty will not be assessed. If the dealer exercised ordinary business care and prudence but was nevertheless unable to comply with the requirement, then the failure was due to reasonable cause. Mere ignorance of the law will not be considered a reasonable cause.
+
+(26 U.S.C. 5603, 5687, 6109, 6723, 6724)

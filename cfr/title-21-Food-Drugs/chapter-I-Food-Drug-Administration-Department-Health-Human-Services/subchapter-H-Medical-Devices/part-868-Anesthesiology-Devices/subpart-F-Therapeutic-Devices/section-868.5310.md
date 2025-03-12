@@ -1,0 +1,7 @@
+##### § 868.5310 Carbon dioxide absorber. #####
+
+(a) *Identification.* A carbon dioxide absorber is a device that is intended for medical purposes and that is used in a breathing circuit as a container for carbon dioxide absorbent. It may include a canister and water drain.
+
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to the limitations in § 868.9.
+
+[47 FR 31142, July 16, 1982, as amended at 61 FR 1120, Jan. 16, 1996; 66 FR 38794, July 25, 2001]

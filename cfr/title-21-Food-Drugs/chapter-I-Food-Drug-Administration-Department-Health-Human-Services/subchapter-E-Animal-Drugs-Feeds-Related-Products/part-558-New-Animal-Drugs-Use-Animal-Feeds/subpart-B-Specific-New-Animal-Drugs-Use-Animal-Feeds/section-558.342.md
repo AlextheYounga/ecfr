@@ -1,0 +1,53 @@
+##### § 558.342 Melengestrol. #####
+
+(a) *Specifications.* (1) Dry Type A medicated articles containing 100 or 200 milligrams (mg) melengestrol acetate per pound.
+
+(2) Liquid Type A medicated article containing 500 mg melengestrol acetate per pound.
+
+(b) *Approvals.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (e) of this section.
+
+(1) No. 054771 for use of products described in paragraph (a) of this section.
+
+(2) No. 058198 for use of product described in paragraph (a)(2) of this section.
+
+(c) *Related tolerances.* See § 556.380 of this chapter.
+
+(d) *Special considerations.* (1) Type B or C medicated feeds may be manufactured from melengestrol acetate liquid Type A articles or Type B or C medicated feeds which have a pH of 4.0 to 8.0 and bear appropriate mixing directions as follows:
+
+(i) For liquid feeds stored in recirculating tank systems: Recirculate immediately prior to use for no less than 10 minutes, moving not less than 1 percent of the tank contents per minute from the bottom of the tank to the top. Recirculate daily as described even when not used.
+
+(ii) For liquid feeds stored in mechanical, air, or other agitation type tank systems: Agitate immediately prior to use for not less than 10 minutes, creating a turbulence at the bottom of the tank that is visible at the top. Agitate daily as described even when not used.
+
+(2) A physically stable melengestrol acetate liquid Type B or C feed will not be subject to the requirements for mixing directions prescribed in paragraph (d)(1) of this section provided it has a pH of 4.0 to 8.0 and contains a suspending agent(s) sufficient to maintain a viscosity of not less than 300 centipoises per second for 3 months.
+
+(3) Combination Type B or C medicated feeds containing lasalocid must be labeled in accordance with § 558.311(d)(5) of this chapter.
+
+(4) Liquid combination Type B or C medicated feeds containing melengestrol acetate and lasalocid must be manufactured in accordance with § 558.311(d) of this chapter.
+
+(5) Combination Type B or C medicated feeds containing monensin must be labeled in accordance with § 558.355(d) of this chapter.
+
+(6) Liquid combination Type B or C medicated feeds containing melengestrol acetate and monensin must be manufactured in accordance with § 558.355(f)(3)(i) of this chapter.
+
+(7) Liquid combination Type B or C medicated feeds containing melengestrol acetate and tylosin must be manufactured in accordance with § 558.625(c) of this chapter.
+
+(8) Liquid melengestrol acetate may not be mixed with oxytetracycline in a common liquid feed supplement.
+
+(e) *Conditions of use* - (1) *Cattle.*
+
+|Melengestrol acetate in mg/head/day|Combination in mg/head/day|                                                                           Indications for use                                                                            |                                                                                                                                                                                                                   Limitations                                                                                                                                                                                                                    |      Sponsor      |
+|-----------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+|          (i) 0.25 to 0.5          |                          |                 Heifers fed in confinement for slaughter: For increased rate of weight gain, improved feed efficiency, and suppression of estrus (heat).                 |                                                                                                                                     Administer 0.5 to 2.0 pounds (lb)/head/day of medicated feed containing 0.125 to 1.0 mg melengestrol acetate/lb to provide 0.25 to 0.5 mg melengestrol acetate/head/day.                                                                                                                                     |  054771, 058198   |
+|             (ii) 0.5              |                          |                                                     Heifers intended for breeding: For suppression of estrus (heat).                                                     |                                                                                                                              Administer 0.5 to 2.0 lb/head/day of Type C feed containing 0.25 to 1.0 mg melengestrol acetate/lb to provide 0.5 mg melengestrol acetate/head/day. Do not exceed 24 days of feeding.                                                                                                                               |  054771, 058198   |
+|       (iii)-(ix) [Reserved]       |                          |                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                   |
+|          (x) 0.25 to 0.5          |   Monensin 50 to 480.    |Heifers fed in confinement for slaughter: As in paragraph (e)(1)(i) of this section; and for the prevention and control of coccidiosis due to Eimeria bovis and E.zuernii.|Add at the rate of 0.5 to 2.0 lb/head/day a medicated feed (liquid or dry) containing 0.125 to 1.0 mg melengestrol acetate/lb to a feed containing 10 to 40 g of monensin per ton to provide 0.25 to 0.5 mg melengestrol acetate/head/day and 0.14 to 0.42 mg monensin/lb body weight, depending on severity of coccidiosis challenge, up to 480 mg monensin/head/day.  <br/><br/>Monensin provided by No. 058198 in § 510.600(c) of this chapter.|054771  <br/>058198|
+|          (xi) [Reserved]          |                          |                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                   |
+
+(2) Melengestrol may also be used in combination with:
+
+(i) Ractopamine as in § 558.500.
+
+(ii) Tylosin as in § 558.625.
+
+(iii) Zilpaterol as in § 558.665.
+
+[42 FR 28535, June 3, 1977]Editorial Note:For Federal Register citations affecting § 558.342, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

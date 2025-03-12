@@ -1,0 +1,5 @@
+##### § 874.4680 Bronchoscope (flexible or rigid) and accessories. #####
+
+(a) *Identification.* A bronchoscope (flexible or rigid) and accessories is a tubular endoscopic device with any of a group of accessory devices which attach to the bronchoscope and is intended to examine or treat the larynx and tracheobronchial tree. It is typically used with a fiberoptic light source and carrier to provide illumination. The device is made of materials such as stainless steel or flexible plastic. This generic type of device includes the rigid ventilating bronchoscope, rigid nonventilating bronchoscope, nonrigid bronchoscope, laryngeal-bronchial telescope, flexible foreign body claw, bronchoscope tubing, flexible biopsy forceps, rigid biopsy curette, flexible biopsy brush, rigid biopsy forceps, flexible biopsy curette, and rigid bronchoscope aspirating tube, but excludes the fiberoptic light source and carrier.
+
+(b) *Classification.* Class II.

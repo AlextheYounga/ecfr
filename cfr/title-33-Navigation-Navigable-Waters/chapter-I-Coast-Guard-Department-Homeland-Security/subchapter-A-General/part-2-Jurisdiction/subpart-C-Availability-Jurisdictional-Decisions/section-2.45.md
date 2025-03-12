@@ -1,0 +1,3 @@
+##### § 2.45 Decisions subject to change or modification and availability of lists and charts. #####
+
+The determinations referred to in § 2.40 are subject to change or modification. The determinations are made for Coast Guard use at the request of Coast Guard officials. Determinations made or subsequently changed are available to the public under § 1.10-5(b) of this chapter. Inquiries concerning whether a determination has been made for specific waters, for the purposes of Coast Guard jurisdiction, should be directed to the District Commander of the district in which the waters are located.

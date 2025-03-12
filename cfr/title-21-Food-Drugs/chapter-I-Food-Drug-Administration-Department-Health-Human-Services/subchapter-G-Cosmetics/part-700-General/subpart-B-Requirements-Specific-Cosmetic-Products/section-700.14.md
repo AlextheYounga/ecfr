@@ -1,0 +1,7 @@
+##### § 700.14 Use of vinyl chloride as an ingredient, including propellant of cosmetic aerosol products. #####
+
+(a) Vinyl chloride has been used as an ingredient in cosmetic aerosol products including hair sprays. Where such aerosol products are used in the confines of a small room, as is often the case, the level of vinyl chloride to which the individual may be exposed could be significantly in excess of the safe level established in connection with occupational exposure. Evidence indicates that vinyl chloride inhalation can result in acute toxicity, manifested by dizziness, headache, disorientation, and unconsciousness where inhaled at high concentrations. Studies also demonstrate carcinogenic effects in animals as a result of inhalation exposure to vinyl chloride. Furthermore, vinyl chloride has recently been linked to liver disease, including liver cancer, in workers engaged in the polymerization of vinyl chloride. It is the view of the Commissioner that vinyl chloride is a deleterious substance which may render any cosmetic aerosol product that contains it as an ingredient injurious to users. Accordingly, any cosmetic aerosol product containing vinyl chloride as an ingredient is deemed to be adulterated under section 601(a) of the Federal Food, Drug, and Cosmetic Act.
+
+(b) Any cosmetic aerosol product containing vinyl chloride as an ingredient shipped within the jurisdiction of the Act is subject to regulatory action.
+
+[39 FR 30830, Aug. 26, 1974]

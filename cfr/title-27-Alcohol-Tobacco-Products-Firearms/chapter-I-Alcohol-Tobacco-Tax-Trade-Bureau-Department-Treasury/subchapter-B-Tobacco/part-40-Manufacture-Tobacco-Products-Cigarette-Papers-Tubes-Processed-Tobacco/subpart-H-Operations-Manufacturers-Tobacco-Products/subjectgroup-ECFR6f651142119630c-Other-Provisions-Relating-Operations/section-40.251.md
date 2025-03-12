@@ -1,0 +1,5 @@
+##### § 40.251 Emergency storage. #####
+
+In cases of emergency, the appropriate TTB officer may authorize, for a stated period, the temporary storage of tobacco products at a place outside the factory without the application for amended permit required under § 40.114, where such action will not hinder the effective administration of this part, is not contrary to law, and will not jeopardize the revenue. Application for authorization to so store tobacco products shall be submitted to the appropriate TTB officer by letter, in duplicate. All tobacco products so stored outside the factory shall be accounted for in the records and reports required under §§ 40.183 and 40.202 the same as products within the factory.
+
+(72 Stat. 1422, 1423, as amended; 26 U.S.C. 5722, 5741)[T.D. 6871, 31 FR 37, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975; T.D. ATF-232, 51 FR 28082, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986]

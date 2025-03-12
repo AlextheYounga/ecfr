@@ -1,0 +1,9 @@
+##### § 807.41 Identification of importers and persons who import or offer for import. #####
+
+(a) Upon initial registration, annually, and at the time of any changes, each foreign establishment required to register and list as provided in § 807.40(a) must, using the FDA electronic device registration and listing system, submit the name, address, telephone and fax numbers, email address, and registration number, if any has been assigned, of any importer (defined in § 807.3(x)) of the establishment's devices that is known to the foreign establishment. The foreign establishment must also specify which of the establishment's listed products each importer receives from the foreign establishment.
+
+(b) Upon initial registration, annually, and at the time of any changes, each foreign establishment required to register and list as provided in § 807.40(a) must, using the FDA electronic device registration and listing system, submit the name, address, telephone and fax numbers, email address, and registration number, if any has been assigned, of each person who imports or offers for import the establishment's devices into the United States. The term “person who imports or offers for import,” which is defined in § 807.3(y), includes agents, brokers, or other parties used by the foreign establishment to facilitate the import of its device into the United States.
+
+(c) For each individual or organization identified by the foreign establishment under paragraphs (a) and (b) of this section, the foreign establishment must submit to FDA electronically the current FDA premarket submission number and any other identifying information that is known to the establishment for each device being imported or offered for import by the named individuals or organizations.
+
+[77 FR 45944, Aug. 2, 2012]

@@ -1,0 +1,5 @@
+##### § 81.3 General. #####
+
+Vessels of special construction or purpose which cannot fully comply with the light, shape, and sound signal provisions of 72 COLREGS without interfering with their special function may instead meet alternative requirements. The Chief of the Marine Safety Division in each Coast Guard District Office makes this determination and requires that alternative compliance be as close as possible with the 72 COLREGS. These regulations set out the procedure by which a vessel may be certified for alternative compliance. The information collection and recordkeeping requirements in §§ 81.5 and 81.18 have been approved by the Office of Management and Budget under OMB control No. 1625-0019.
+
+[CGD 77-136, 47 FR 13799, Apr. 1, 1982, as amended by USCG-2006-25150, 71 FR 39208, July 12, 2006]

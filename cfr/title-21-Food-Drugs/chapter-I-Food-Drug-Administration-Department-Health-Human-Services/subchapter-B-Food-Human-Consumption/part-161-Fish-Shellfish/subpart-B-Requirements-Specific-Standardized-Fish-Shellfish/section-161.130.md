@@ -1,0 +1,15 @@
+##### § 161.130 Oysters. #####
+
+(a) Oysters, raw oysters, shucked oysters, are the class of foods each of which is obtained by shucking shell oysters and preparing them in accordance with the procedure prescribed in paragraph (b) of this section. The name of each such food is the name specified in the applicable definition and standard of identity prescribed in §§ 161.131 to 161.140, inclusive.
+
+(b) If water, or salt water containing less than 0.75 percent salt, is used in any vessel into which the oysters are shucked the combined volume of oysters and liquid when such oysters are emptied from such vessel is not less than four times the volume of such water or salt water. Any liquid accumulated with the oysters is removed. The oysters are washed, by blowing or otherwise, in water or salt water, or both. The total time that the oysters are in contact with water or salt water after leaving the shucker, including the time of washing, rinsing, and any other contact with water or salt water is not more than 30 minutes. In computing the time of contact with water or salt water, the length of time that oysters are in contact with water or salt water that is agitated by blowing or otherwise, shall be calculated at twice its actual length. Any period of time that oysters are in contact with salt water containing not less than 0.75 percent salt before contact with oysters, shall not be included in computing the time that the oysters are in contact with water or salt water. Before packing into the containers for shipment or other delivery for consumption the oysters are thoroughly drained and are packed without any added substance.
+
+(c) For the purposes of this section:
+
+(1) *Shell oysters* means live oysters of any of the species, *Ostrea virginica, Ostrea gigas, Ostrea lurida,* in the shell, which, after removal from their beds, have not been floated or otherwise held under conditions which result in the addition of water.
+
+(2) *Thoroughly drained* means one of the following:
+
+(i) The oysters are drained on a strainer or skimmer which has an area of not less than 300 square inches per gallon of oysters, drained, and has perforations of at least1/4 of an inch in diameter and not more than 11/4 inches apart, or perforations of equivalent areas and distribution. The oysters are distributed evenly over the draining surface of the skimmer and drained for not less than 5 minutes; or
+
+(ii) The oysters are drained by any method other than that prescribed by paragraph (c)(2)(i) of this section whereby liquid from the oysters is removed so that when the oysters are tested within 15 minutes after packing by draining a representative gallon of oysters on a skimmer of the dimensions and in the manner described in paragraph (c)(2)(i) of this section for 2 minutes, not more than 5 percent of liquid by weight is removed by such draining.

@@ -1,0 +1,5 @@
+##### § 26.171 Claimant registration. #####
+
+Any person filing claim for drawback of tax on eligible articles brought into the United States from Puerto Rico must register annually as a nonbeverage domestic drawback claimant. Registration will be accomplished when the claimant submits the first drawback claim for each year, along with the required supporting data for the claim, under subpart G of part 17 of this chapter. For purposes of registration, subpart C part 17 of this chapter shall apply as if the use and tax determination occurred in the United States at the time the article was brought into the United States, and each business location from which entry of eligible articles is caused or effected shall be treated as a place of manufacture.
+
+[T.D. TTB-79, 74 FR 37405, July 28, 2009]

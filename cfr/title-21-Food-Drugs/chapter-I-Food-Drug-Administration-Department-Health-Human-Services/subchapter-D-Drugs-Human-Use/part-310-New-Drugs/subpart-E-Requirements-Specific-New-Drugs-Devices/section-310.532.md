@@ -1,0 +1,11 @@
+##### § 310.532 Drug products containing active ingredients offered over-the-counter (OTC) to relieve the symptoms of benign prostatic hypertrophy. #####
+
+(a) The amino acids glycine, alanine, and glutamic acid (alone or in combination) and the ingredient sabal have been present in over-the-counter (OTC) drug products to relieve the symptoms of benign prostatic hypertrophy, e.g., urinary urgency and frequency, excessive urinating at night, and delayed urination. There is a lack of adequate data to establish general recognition of the safety and effectiveness of these or any other ingredients for OTC use in relieving the symptoms of benign prostatic hypertrophy. In addition, there is no definitive evidence that any drug product offered for the relief of the symptoms of benign prostatic hypertrophy would alter the obstructive or inflammatory signs and symptoms of this condition. Therefore, self-medication with OTC drug products might unnecessarily delay diagnosis and treatment of progressive obstruction and secondary infections. Based on evidence currently available, any OTC drug product containing ingredients offered for use in relieving the symptoms of benign prostatic hypertrophy cannot be generally recognized as safe and effective.
+
+(b) Any OTC drug product that is labeled, represented, or promoted to relieve the symptoms of benign prostatic hypertrophy is regarded as a new drug within the meaning of section 201(p) of the Federal Food, Drug, and Cosmetic Act (the act), for which an approved application under section 505 of the act and part 314 of this chapter is required for marketing. In the absence of an approved application, such product is also misbranded under section 502 of the act.
+
+(c) Clinical investigations designed to obtain evidence that any drug product labeled, represented, or promoted for OTC use to relieve the symptoms of benign prostatic hypertrophy is safe and effective for the purpose intended must comply with the requirements and procedures governing the use of investigational new drugs set forth in part 312 of this chapter.
+
+(d) After August 27, 1990, any such OTC drug product initially introduced or initially delivered for introduction into interstate commerce that is not in compliance with this section is subject to regulatory action.
+
+[55 FR 6930, Feb. 27, 1990]

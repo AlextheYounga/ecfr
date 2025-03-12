@@ -1,0 +1,3 @@
+##### § 22.48 Conditions of permits. #####
+
+Permits to withdraw and use tax-free alcohol will designate the acts which are permitted, and include any limitations imposed on the performance of these acts. All of the provisions of this part relating to the use or recovery of tax-free alcohol are considered to be included in the provisions and conditions of the permit, the same as if set out in the permit.

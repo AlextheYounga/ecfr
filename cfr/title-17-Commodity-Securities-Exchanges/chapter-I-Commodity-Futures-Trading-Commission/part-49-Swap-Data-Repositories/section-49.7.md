@@ -1,0 +1,3 @@
+##### § 49.7 Swap data repositories located in foreign jurisdictions. #####
+
+Any swap data repository located outside of the United States applying for registration pursuant to § 49.3 of this part shall certify on Form SDR and provide an opinion of counsel that the swap data repository, as a matter of law, is able to provide the Commission with prompt access to the books and records of such swap data repository and that the swap data repository can submit to onsite inspection and examination by the Commission.

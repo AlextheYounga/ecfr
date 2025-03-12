@@ -1,0 +1,5 @@
+##### § 201.550 Summary suspensions pursuant to Exchange Act Section 12(k)(1)(A). #####
+
+(a) *Petition for termination of suspension.* Any person adversely affected by a suspension pursuant to Section 12(k)(1)(A) of the Exchange Act, 15 U.S.C. 78*l*(k)(1)(A), who desires to show that such suspension is not necessary in the public interest or for the protection of investors may file a sworn petition with the Secretary, requesting that the suspension be terminated. The petition shall set forth the reasons why the petitioner believes that the suspension of trading should not continue and state with particularity the facts upon which the petitioner relies.
+
+(b) *Commission consideration of a petition.* The Commission, in its discretion, may schedule a hearing on the matter, request additional written submissions, or decide the matter on the facts presented in the petition and any other relevant facts known to the Commission. If the petitioner fails to cooperate with, obstructs, or refuses to permit the making of an examination by the Commission, such conduct shall be grounds to deny the petition.

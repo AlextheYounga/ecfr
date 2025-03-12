@@ -1,0 +1,5 @@
+##### § 31.153 Records to be kept by States, political subdivisions of States, or the District of Columbia. #####
+
+The provisions of this subpart regarding the maintenance of records and the submission of reports shall not apply to States, political subdivisions of States, or the District of Columbia, or to any liquor stores operated by such entities that maintain, and make available for inspection by appropriate TTB officers, records that will enable TTB to verify receipts of wines and beer and to trace readily all distilled spirits received and disposed of by those entities. However, States, political subdivisions of States, and the District of Columbia, and liquor stores operated by such entities, must, on request of the appropriate TTB officer, furnish such transcripts, summaries, and copies of records with respect to distilled spirits as that TTB officer may require.
+
+(26 U.S.C. 5121)

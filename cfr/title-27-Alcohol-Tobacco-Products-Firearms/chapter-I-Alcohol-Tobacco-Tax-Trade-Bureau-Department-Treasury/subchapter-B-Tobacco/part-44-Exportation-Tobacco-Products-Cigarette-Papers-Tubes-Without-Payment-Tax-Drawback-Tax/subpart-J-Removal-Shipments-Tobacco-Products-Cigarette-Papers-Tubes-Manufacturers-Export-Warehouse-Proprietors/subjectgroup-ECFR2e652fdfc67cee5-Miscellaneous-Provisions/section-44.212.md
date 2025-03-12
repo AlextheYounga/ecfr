@@ -1,0 +1,5 @@
+##### § 44.212 Delay in lading at port of exportation. #####
+
+If, on arrival of tobacco products, and cigarette papers and tubes at the port of exportation, the vessel or aircraft for which they are intended is not prepared to receive the articles, they may be properly stored at the port for not more than 30 days. In the event of any further delay, the facts shall be reported by the manufacturer or export warehouse proprietor to the appropriate TTB officer and unless such officer approves an extension of time in which to effect lading and clearance of the shipment it must be returned to the factory or export warehouse.
+
+[T.D. 6871, 31 FR 55, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28089, Aug. 5, 1987; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-480, 67 FR 30802, May 8, 2002]

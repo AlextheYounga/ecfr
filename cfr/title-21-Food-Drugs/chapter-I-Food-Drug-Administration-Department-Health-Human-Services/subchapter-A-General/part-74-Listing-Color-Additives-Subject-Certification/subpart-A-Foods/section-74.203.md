@@ -1,0 +1,19 @@
+##### § 74.203 FD&C Green No. 3. #####
+
+(a) *Identity.* (1) The color additive FD&C Green No. 3 is principally the inner salt disodium salt of *N*-ethyl-*N-*[4-[[4-[ethyl[(3-sulfophenyl)methyl]amino]phenyl](4-hydroxy-2-sulfophenyl)methylene]-2,5-cyclohexadien-1-ylidene]-3-sulfobenzenemethanaminium hydroxide (CAS Reg. No. 2353-45-9); with smaller amounts of the isomeric inner salt disodium salt of *N*-ethyl-*N-*[4-[[4-[ethyl[(3-sulfophenyl)methyl] amino]phenyl](4-hydroxy-2-sulfophenyl)methylene]-2,5-cyclohexadien-1-ylidene]-4-sulfobenzenemethanaminium hydroxide; of *N*-ethyl-*N-*[4-[[4-[ethyl[(4-sulfophenyl)methyl]amino]phenyl](4-hydroxy-2-sulfophenyl)methylene]-2,5-cyclohexadien-1-ylidene]-4-sulfobenzenemethanaminium hydroxide and of *N*-ethyl-*N-*[4-[[4-[ethyl[(2-sulfophenyl)methyl]amino]phenyl](4-hydroxy-2-sulfophenyl)methylene]-2,5-cyclohexadien-1-ylidene]-3-sulfobenzenemethanaminium hydroxide. Additionally, FD&C Green No. 3 is manufactured by the acid catalyzed condensation of one molecule of 2-formyl-5-hydroxybenzenesulfonic acid with two molecules from a mixture consisting principally of 3-[(ethylphenylamino)methyl]
+
+benzensulfonic acid, and smaller amounts of 4-[(ethylphenylamino)methyl]benzenesulfonic acid and 2-[(ethylphenylamino)methyl]benzenesulfonic acid to form the leuco base. The leuco base is then oxidized with lead dioxide and acid or with dichromate and acid to form the dye. The intermediate 2-formyl-5-hydroxybenzenesulfonic acid is prepared by the potassium permanganate oxidation of 2,2′-(1,2-ethenediyl)-bis(5-aminobenzenesulfonic acid) to sodium 5-amino-2-formylbenzenesulfonate. This amine is diazotized and the resulting diazonium salt is hydrolyzed to the desired 2-formyl-5-hydroxybenzenesulfonic acid.
+
+(2) Color additive mixtures for food use (including dietary supplements) made with FD&C Green No. 3 may contain only those diluents that are suitable and that are listed in part 73 of this chapter as safe for use in color additive mixtures for coloring food.
+
+(b) *Specifications.* The color additive FD&C Green No. 3 shall conform to the following specifications and shall be free from impurities other than those named to the extent that such other impurities may be avoided by current good manufacturing practice:
+
+Sum of volatile matter at 135 °C (275 °F) and chlorides and sulfates (calculated as sodium salts), not more than 15 percent.Water-insoluble matter, not more than 0.2 percent.Leuco base, not more than 5 percent.Sum of 2-,3-,4-formylbenzenesulfonic acids, sodium salts, not more than 0.5 percent.Sum of 3- and 4-[[ethyl(4-sulfophenyl)amino]methyl] benzenesulfonic acid, disodium salts, not more than 0.3 percent.2-Formyl-5-hydroxybenzenesulfonic acid, sodium salt, not more than 0.5 percent.Subsidiary colors, not more than 6 percent.Chromium (as Cr), not more than 50 parts per million.Arsenic (as As), not more than 3 parts per million.Lead (as Pb), not more than 10 parts per million.Mercury (as Hg), not more than 1 part per million.Total color, not less than 85 percent.
+
+(c) *Uses and restrictions.* The color additive FD&C Green No. 3 may be safely used for coloring foods (including dietary supplements) generally in amounts consistent with current good manufacturing practice except that it may not be used to color foods for which standards of identity have been promulgated under section 401 of the act unless added color is authorized by such standards.
+
+(d) *Labeling.* The label of the color additive and any mixtures prepared therefrom intended solely or in part for coloring purposes shall conform to the requirements of § 70.25 of this chapter.
+
+(e) *Certification.* All batches of FD&C Green No. 3 shall be certified in accordance with regulations in part 80 of this chapter.
+
+[47 FR 52143, Nov. 19, 1982; 47 FR 56489, Dec. 17, 1982]

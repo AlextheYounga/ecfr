@@ -1,0 +1,3 @@
+##### § 706.10 Publically available records. #####
+
+Many OPIC records are readily available to the public by electronic access, including annual reports and financial statements, program handbooks, press releases, application forms, claims information, and annual FOIA reports. Records required to be proactively published under the FOIA are also online. Persons seeking information are encouraged to visit OPIC's Internet site at: *www.opic.gov* to see what information is already available before submitting a request.

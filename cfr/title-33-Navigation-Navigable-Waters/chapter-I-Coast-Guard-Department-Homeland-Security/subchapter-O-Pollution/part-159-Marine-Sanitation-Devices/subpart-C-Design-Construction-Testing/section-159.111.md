@@ -1,0 +1,3 @@
+##### § 159.111 Pressure and vacuum pulse test. #####
+
+Liquid retention components of the device with manufacturer specified venting installed must be subjected to 50 fillings of water at a pressure head of 7 feet or the maximum pressure specified by the manufacturer for operation of the device, whichever is greater, and then emptied with a 45 gallon per minute or larger positive displacement pump that remains in operation 30 seconds after emptying the tank at the end of each cycle.

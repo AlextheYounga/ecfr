@@ -1,0 +1,5 @@
+##### § 72.23 Type and conditions of cost bond. #####
+
+The cost bond delivered by a claimant to effect removal of the forfeiture status of the property or carrier claimed to the jurisdiction of the Federal court for adjudication shall be a corporate surety bond: *Provided, however,* That upon a showing to the satisfaction of the Director or his delegate that the claimant is unable to furnish a corporate surety bond such claimant may deliver a cost bond with individual sureties acceptable to the Director or his delegate: *Provided further,* That in lieu of a cost bond with corporate or individual sureties the claimant may deposit collateral as provided in § 72.25. The cost bond shall be conditioned that in the case of the condemnation of the property the obligators shall pay all costs and expenses of the proceedings to obtain such condemnation.
+
+[T.D. ATF-9, 39 FR 9954, Mar. 15, 1974, as amended by T.D. ATF-183, 49 FR 37061, Sept. 21, 1984]

@@ -1,0 +1,7 @@
+##### § 20.101 Administrative enforcement records. #####
+
+(a) All Food and Drug Administration records relating to administrative enforcement action disclosed to any member of the public, including the person who is the subject of such action, are available for public disclosure at the time such disclosure is first made. Such records include correspondence with companies following factory inspection, recall or detention requests, notice of refusal of admission of an imported product, regulatory letters, information letters, Forms FD-483 and FD-2275 furnished to companies after factory inspection, and similar records.
+
+(b) To the extent that any of such records fall within the exemption for investigatory records established in § 20.64, the Commissioner determines that they are subject to discretionary release pursuant to § 20.82.
+
+(c) Records relating to administrative enforcement action that are not disclosed to any member of the public constitute investigatory records that are subject to the rules for disclosure established in § 20.64. For example, an establishment inspection report is an investigatory record and thus subject to § 20.64 except insofar as the Commissioner exercises his discretion to release it pursuant to § 20.82.

@@ -1,0 +1,11 @@
+##### § 500.26 Timed-release dosage form drugs. #####
+
+(a) Drugs are being offered in dosage forms that are designed to release the active ingredients over a prolonged period of time. There is a possibility of unsafe overdosage or ineffective dosage if such products are improperly made and the active ingredients are released at one time, over too short or too long a period of time, or not released at all. Drugs marketed in this form, which are referred to by such terms as timed-release, controlled-release, prolonged-release, sustained-release, or delayed-release drugs, are regarded as new animal drugs within the meaning of section 201(v) of the Federal Food, Drug, and Cosmetic Act.
+
+(b) Timed-release dosage form animal drugs that are introduced into interstate commerce are deemed to be adulterated within the meaning of section 501(a)(5) of the act and subject to regulatory action, unless such animal drug is the subject of an approved new animal drug application, or listed in the index, as required by paragraph (a) of this section.
+
+(c) The fact that the labeling of this kind of drug may claim delayed, prolonged, controlled, or sustained-release of all or only some of the active ingredients does not affect the new animal drug status of such articles. A new animal drug application or index listing is required in any such case.
+
+(d) New animal drug applications for timed-release dosage form animal drugs must contain, among other things, data to demonstrate safety and effectiveness by establishing that the article is manufactured using procedures and controls to ensure release of the total dosage at a safe and effective rate. Data submitted in the new animal drug application must demonstrate that the formulation of the drug and the procedures used in its manufacture will ensure release of the active ingredient(s) of the drug at a safe and effective rate and that these release characteristics will be maintained until the expiration date of the drug. When the drug is intended for use in food-producing animals, data submitted must also demonstrate that, with respect to possible residues of the drug, food derived from treated animals is safe for consumption.
+
+[42 FR 8635, Feb. 11, 1977, as amended at 60 FR 38480, July 27, 1995; 72 FR 69120, Dec. 6, 2007]

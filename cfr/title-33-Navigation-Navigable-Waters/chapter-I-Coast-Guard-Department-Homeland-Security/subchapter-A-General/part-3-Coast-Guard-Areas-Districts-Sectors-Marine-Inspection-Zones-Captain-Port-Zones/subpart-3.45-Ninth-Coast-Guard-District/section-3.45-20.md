@@ -1,0 +1,5 @@
+##### § 3.45-20 Sector Detroit Marine Inspection Zone and Captain of the Port Zone. #####
+
+Sector Detroit's office is located in Detroit, MI. The boundaries of Sector Detroit's Marine Inspection Zone and Captain of the Port Zone include all navigable waters of the United States and contiguous land areas within the boundaries of an area starting from a point at latitude 41°00′00″ N, longitude 84°48′12″ W on the Ohio-Indiana boundary, proceeding east to longitude 82°25′00″ W; thence north to the international boundary in Lake Erie at latitude 41°40′36″ N, longitude 82°25′00″ W; thence north along the international boundary to latitude 44°43′00″ N in Lake Huron; thence due west to latitude 44°43′00″ N, longitude 84°30′00″ W; thence south to the Michigan-Ohio boundary at latitude 41°42′13″ N; thence west along the Michigan-Ohio boundary to the Ohio-Michigan-Indiana boundary at latitude 41°41′46″ N, longitude 84°48′22″ W; thence south along the Ohio-Indiana boundary to the starting point.
+
+[USCG-2009-0929, 76 FR 13510, Mar. 14, 2011]

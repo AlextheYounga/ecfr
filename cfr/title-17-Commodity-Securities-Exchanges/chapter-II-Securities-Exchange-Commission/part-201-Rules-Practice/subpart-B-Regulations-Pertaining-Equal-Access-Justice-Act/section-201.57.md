@@ -1,0 +1,5 @@
+##### § 201.57 Commission review. #####
+
+In accordance with the procedures set forth in 17 CFR 201.410 and 201.411, either the applicant or counsel for the Office or Division of the Commission may seek review of the initial decision on the fee application, or the Commission may decide to review the decision on its own initiative. If neither the applicant nor counsel for the Division or Office of the Commission seeks review and the Commission does not take review on its own initiative, the initial decision on the application shall become a final decision of the Commission 30 days after it is issued. Whether to review a decision is a matter within the discretion of the Commission. If review is taken, the Commission will issue a final decision on the application or remand the application to the administrative law judge for further proceedings.
+
+[47 FR 610, Jan. 6, 1982, as amended at 60 FR 32795, June 23, 1995]

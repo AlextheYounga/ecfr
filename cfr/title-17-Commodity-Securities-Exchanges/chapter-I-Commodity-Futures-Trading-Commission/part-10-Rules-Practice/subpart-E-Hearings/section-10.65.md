@@ -1,0 +1,7 @@
+##### § 10.65 Record of hearing. #####
+
+(a) *Reporting and transcription.* Hearings for the purpose of taking evidence shall be recorded and transcribed in written form under the supervision of the Administrative Law Judge by a reporter employed by the Commission for that purpose. The original transcript shall be a part of the record and shall be the sole official transcript. Copies of transcripts, except those portions granted non-public treatment, shall be available from the reporter at rates not to exceed the maximum rates fixed by the contract between the Commission and the reporter.
+
+(b) *Corrections.* Any party may submit a timely request to the Administrative Law Judge to correct the transcript. Corrections may be submitted to the Administrative Law Judge by stipulation of the parties, or by motion by any party, and upon notice to all parties to the proceeding, the Administrative Law Judge may specify corrections of the transcript. A copy of such specification shall be furnished to all parties and made a part of the record. Corrections shall be made by the official reporter, who shall furnish substitute pages of the transcript, under the usual certificate of the reporter, for insertion in the official record. The original uncorrected pages shall be retained in the files of the Proceedings Clerk.
+
+[41 FR 2511, Jan. 16, 1976, as amended at 60 FR 54802, Oct. 26, 1995]

@@ -1,0 +1,15 @@
+##### § 239.16b Form S-8, for registration under the Securities Act of 1933 of securities to be offered to employees pursuant to employee benefit plans. #####
+
+(a) Any registrant that, immediately prior to the time of filing a registration statement on this form, is subject to the requirement to file reports pursuant to section 13 (15 U.S.C. 78m) or 15(d) (15 U.S.C. 78o(d)) of the Securities Exchange Act of 1934; has filed all reports and other materials required to be filed by such requirements during the preceding 12 months (or for such shorter period that the registrant was required to file such reports and materials); is not a shell company (as defined in § 230.405 of this chapter) and has not been a shell company for at least 60 calendar days previously (subject to Instruction A.1.(a)(7) to Form S-8); and if it has been a shell company at any time previously, has filed current Form 10 information (as defined in Instruction A.1.(a)(6) to Form S-8) with the Commission at least 60 calendar days previously reflecting its status as an entity that is not a shell company (subject to Instruction A.1.(a)(7) to Form S-8), may use this form for registration under the Securities Act of 1933 (the Act) (15 U.S.C. 77a *et seq.*) of the following securities:
+
+(1) Securities of the registrant to be offered to its employees or employees of its subsidiaries or parents under any employee benefit plan. The form also is available for the exercise of employee benefit plan options by an employee's family member (as defined in General Instruction A.1(a)(5) to Form S-8) who has acquired the options from the employee through a gift or a domestic relations order.
+
+(2) Interests in the above plans, if such interests constitute securities and are required to be registered under the Act. (*See* Release No. 33-6188 (February 1, 1980) and section 3(a)(2) of the Act.)
+
+(b) *Electronic filings.* In addition to satisfying the foregoing conditions, a registrant subject to the electronic filing requirements of Rule 101 of Regulation S-T (§ 232.101 of this chapter) shall have:
+
+(1) Filed with the Commission all required electronic filings, including electronic copies of documents submitted in paper pursuant to a hardship exemption as provided by Rule 201 or Rule 202(d) of Regulation S-T (§ 232.201 or § 232.202(d) of this chapter); and
+
+(2) Submitted electronically to the Commission and posted on its corporate Web site, if any, all Interactive Data Files required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the twelve calendar months and any portion of a month immediately preceding the filing of the registration statement on this Form (or for such shorter period of time that the registrant was required to submit and post such files).
+
+[55 FR 23925, June 13, 1990, as amended at 58 FR 14680, Mar. 18, 1993; 64 FR 11116, Mar. 8, 1999; 70 FR 42246, July 21, 2005; 74 FR 6817, Feb. 10, 2009]Editorial Note:For Federal Register citations affecting Form S-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

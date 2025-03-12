@@ -1,0 +1,5 @@
+##### § 516.34 FDA recognition of exclusive marketing rights. #####
+
+(a) FDA will send the sponsor (or the permanent-resident U.S. agent, if applicable) timely written notice recognizing exclusive marketing rights when an application for a MUMS-designated drug has been conditionally approved or approved. The written notice will inform the sponsor of the requirements for maintaining MUMS-designated drug exclusive marketing rights for the full 7-year term. This notice will generally be contained in the letter conditionally approving or approving the application.
+
+(b) When an application is conditionally approved or approved for a MUMS-designated drug that qualifies for exclusive marketing rights, FDA will publish this information in the Federal Register at the time of the conditional approval or approval. This notice will generally be contained in the notice of conditional approval or approval of the application.

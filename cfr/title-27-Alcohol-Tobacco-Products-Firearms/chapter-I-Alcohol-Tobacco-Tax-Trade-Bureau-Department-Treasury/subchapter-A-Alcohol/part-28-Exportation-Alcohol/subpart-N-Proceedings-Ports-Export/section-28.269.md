@@ -1,0 +1,9 @@
+##### § 28.269 Certification by district director of customs. #####
+
+(a) *Exportation.* When the district director of customs is satisfied that merchandise described on the application, notice, or claim, TTB Form 5100.11, 5110.30, 1582-A (5120.24), 1582-B (5130.6), or 1689 (5130.12), as the case may be, has been laden and cleared for export, he shall execute his certificate of lading and clearance on both copies of the form.
+
+(b) *Distilled spirits and wines as supplies on vessels and aircraft.* When the district director of customs is satisfied that the distilled spirits and wines described on TTB Form 5100.11, 5110.30, or 1582-A (5120.24), as the case may be, have been duly laden for use on vessels and aircraft, and that proper accounting for such spirits or wines has been submitted to him as required by this part, he shall execute his certificate of lading for use on both copies of the form.
+
+(c) *Disposition of forms.* After executing his certificate, the district director of customs shall forward the original of TTB Form 5100.11, 5110.30, 1582-A (5120.24), 1582-B (5130.6), or 1689 (5130.12), as the case may be, with attachments (if any), to the appropriate TTB officer designated on the form, and retain the remaining copy, with any attached forms, for his files.
+
+(46 Stat. 690, as amended, 72 Stat. 1334, 1335, 1336, 1362, 1380; 19 U.S.C. 1309, 26 U.S.C. 5053, 5055, 5062, 5214, 5362)[25 FR 5734, June 23, 1960, as amended by T.D. 7006, 34 FR 2251, Feb. 15, 1969. Redesignated at 40 FR 16835, Apr. 15, 1975]Editorial Note:For Federal Register citations affecting § 28.269, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,0 +1,3 @@
+##### § 167.400 Off San Francisco Traffic Separation Scheme: General. #####
+
+The Off San Francisco Traffic Separation Scheme consists of six parts: a Precautionary Area, a Northern Approach, a Southern Approach, a Western Approach, a Main Ship Channel, and an Area To Be Avoided. The specific areas in the Off San Francisco TSS and Precautionary Area are described in §§ 167.401 through 167.406 of this chapter. The geographic coordinates in §§ 167.401 through 167.406 are defined using North American Datum 1983 (NAD 83).

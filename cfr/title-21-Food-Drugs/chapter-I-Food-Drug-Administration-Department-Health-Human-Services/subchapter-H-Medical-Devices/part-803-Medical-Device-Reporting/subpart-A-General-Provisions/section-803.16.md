@@ -1,0 +1,3 @@
+##### § 803.16 When I submit a report, does the information in my report constitute an admission that the device caused or contributed to the reportable event? #####
+
+No. A report or other information submitted by you, and our release of that report or information, is not necessarily an admission that the device, or you or your employees, caused or contributed to the reportable event. You do not have to admit and may deny that the report or information submitted under this part constitutes an admission that the device, you, or your employees, caused or contributed to a reportable event.

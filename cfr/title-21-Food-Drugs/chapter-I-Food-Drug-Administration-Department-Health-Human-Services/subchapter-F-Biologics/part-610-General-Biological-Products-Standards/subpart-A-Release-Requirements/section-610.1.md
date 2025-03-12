@@ -1,0 +1,3 @@
+##### § 610.1 Tests prior to release required for each lot. #####
+
+No lot of any licensed product shall be released by the manufacturer prior to the completion of tests for conformity with standards applicable to such product. Each applicable test shall be made on each lot after completion of all processes of manufacture which may affect compliance with the standard to which the test applies. The results of all tests performed shall be considered in determining whether or not the test results meet the test objective, except that a test result may be disregarded when it is established that the test is invalid due to causes unrelated to the product.

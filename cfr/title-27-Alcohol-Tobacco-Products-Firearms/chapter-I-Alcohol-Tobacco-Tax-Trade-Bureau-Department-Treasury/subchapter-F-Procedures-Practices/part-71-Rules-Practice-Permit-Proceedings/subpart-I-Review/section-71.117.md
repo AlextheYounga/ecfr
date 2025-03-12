@@ -1,0 +1,5 @@
+##### § 71.117 Permit privileges, exceptions. #####
+
+Pending final determination of any timely appeal in revocation, suspension, or annulment proceeding to the Administrator, the permit involved shall continue in force and effect except that, in the case of industrial use permits, any time after a citation has been issued withdrawals of tax-free spirits or specially denatured spirits by such permittee may, in the discretion of the appropriate TTB officer or Administrator, be restricted to the quantity which, together with the quantity then on hand, is necessary to carry on legitimate operations under such permit. The appropriate TTB officer may, in restricting the permittee to his legitimate needs, refuse to issue any withdrawal permit.
+
+[T.D. 6389, 24 FR 4791, June 12, 1959. Redesignated at 40 FR 16835, Apr. 15, 1975; T.D. ATF-199, 50 FR 9197, Mar. 6, 1985; T.D. ATF-374, 61 FR 29957, June 13, 1996]

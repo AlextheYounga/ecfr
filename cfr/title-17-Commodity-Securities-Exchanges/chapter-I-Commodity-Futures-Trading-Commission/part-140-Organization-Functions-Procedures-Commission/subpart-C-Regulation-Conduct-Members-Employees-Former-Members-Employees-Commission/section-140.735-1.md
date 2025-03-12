@@ -1,0 +1,7 @@
+##### § 140.735-1 Authority and purpose. #####
+
+This subpart sets forth specific standards of conduct required of Commission members, employees of the Commission, and special government employees as well as regulations concerning former Commissioners, employees, and special government employees of the Commodity Futures Trading Commission. These rules are separate from and in addition to the Office of Government Ethics' conduct rules, Standards of Ethical Conduct for Employees of the Executive Branch, 5 CFR part 2635. In addition, this subpart contains references to various statutes governing employee conduct in order to aid Commission members, employees of the Commission and others in their understanding of statutory restrictions and requirements.1 Absent compelling countervailing reasons, all Commission members and employees are subject to all the terms of this section.
+
+1 These references, however, do not purport to cover all restrictions and requirements, and paraphrased restatements of statutory provisions are not intended to be, and should not be construed as, verbatim quotations of the law. Statutory text should be consulted in any situation in which it might apply.
+
+[67 FR 5939, Feb. 8, 2002]

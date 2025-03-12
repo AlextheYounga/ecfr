@@ -1,0 +1,3 @@
+##### § 1.926 Under what circumstances may we deny a petition requesting a waiver? #####
+
+We may deny a petition requesting a waiver if the petition does not provide the information required under § 1.918 (including the requirements of § 10.30 of this chapter), or if we determine that the waiver could result in the transportation of food under conditions that would be unsafe for human or animal health, or that the waiver could be contrary to the public interest.

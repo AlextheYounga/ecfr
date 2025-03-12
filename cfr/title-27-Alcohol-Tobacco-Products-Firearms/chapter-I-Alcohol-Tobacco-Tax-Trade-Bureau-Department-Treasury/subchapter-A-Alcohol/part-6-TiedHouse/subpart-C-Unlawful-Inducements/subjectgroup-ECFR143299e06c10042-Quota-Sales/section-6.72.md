@@ -1,0 +1,5 @@
+##### § 6.72 “Tie-in” sales. #####
+
+The act by an industry member of requiring that a retailer purchase one product (as defined in § 6.11) in order to obtain another constitutes a means to induce within the meaning of the Act. This includes the requirement to take a minimum quantity of a product in standard packaging in order to obtain the same product in some type of premium package, i.e., a distinctive decanter, or wooden or tin box. This also includes combination sales if one or more products may be purchased only in combination with other products and not individually. However, an industry member is not precluded from selling two or more kinds or brands of products to a retailer at a special combination price, provided the retailer has the option of purchasing either product at the usual price, and the retailer is not required to purchase any product it does not want. See § 6.93 for combination packaging of products plus non-alcoholic items.
+
+[T.D. ATF-364, 60 FR 20422, Apr. 26, 1995]

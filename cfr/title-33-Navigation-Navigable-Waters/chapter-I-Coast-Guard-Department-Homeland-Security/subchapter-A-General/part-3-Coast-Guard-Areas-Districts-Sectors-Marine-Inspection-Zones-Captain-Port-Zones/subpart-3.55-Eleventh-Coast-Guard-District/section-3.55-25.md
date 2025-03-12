@@ -1,0 +1,5 @@
+##### § 3.55-25 Sector Humboldt Bay Search and Rescue Mission Coordinator Zone. #####
+
+The Sector Humboldt Bay office is located in McKinleyville, CA. The boundaries of Sector Humboldt Bay's Search and Rescue Mission Coordinator Zone start in the north by a line bearing 264T from the coastal point of the Oregon-California border (42°00.0′ N./124°13.0′ W.), on the south by a line bearing 270T from the coastal point of the Mendecino-Sonoma County, CA, border (38°47.0′ N./123°30.0′ W.), and on the west by the outermost extent of the exclusive economic zone (EEZ). The inland Area of Responsibility (AOR) includes the entirety of the following California counties: Del Norte, Humboldt, Mendecino, Siskiyou, Trinity, Shasta, Tehama, Glenn, Lake, Colusa, Butte, Plumas, Lassen, and Modoc.
+
+[USCG-2013-0397, 78 FR 39170, July 1, 2013]

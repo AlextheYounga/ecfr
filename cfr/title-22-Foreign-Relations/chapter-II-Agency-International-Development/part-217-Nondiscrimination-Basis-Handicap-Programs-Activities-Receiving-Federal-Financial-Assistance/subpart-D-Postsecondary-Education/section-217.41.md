@@ -1,0 +1,3 @@
+##### § 217.41 Application of this subpart. #####
+
+Subpart D applies within the United States to postsecondary education programs or activities, including postsecondary vocational education programs or activities, that receive or benefit from Federal financial assistance and to recipients that operate, or that receive Federal financial assistance for the operation of such programs or activities within the United States.

@@ -1,0 +1,3 @@
+##### § 1309.41 Administrative review generally. #####
+
+The Administrator may inspect, or cause to be inspected, the establishment of an applicant or registrant, pursuant to subpart A of part 1316 of this chapter. The Administrator shall review the application for registration and other information gathered by the Administrator regarding an applicant in order to determine whether the applicable standards of Section 303 of the Act (21 U.S.C. 823) have been met by the applicant.

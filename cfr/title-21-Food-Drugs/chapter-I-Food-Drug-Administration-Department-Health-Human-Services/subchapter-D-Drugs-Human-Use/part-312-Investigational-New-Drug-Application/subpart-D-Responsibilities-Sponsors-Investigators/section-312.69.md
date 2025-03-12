@@ -1,0 +1,3 @@
+##### § 312.69 Handling of controlled substances. #####
+
+If the investigational drug is subject to the Controlled Substances Act, the investigator shall take adequate precautions, including storage of the investigational drug in a securely locked, substantially constructed cabinet, or other securely locked, substantially constructed enclosure, access to which is limited, to prevent theft or diversion of the substance into illegal channels of distribution.

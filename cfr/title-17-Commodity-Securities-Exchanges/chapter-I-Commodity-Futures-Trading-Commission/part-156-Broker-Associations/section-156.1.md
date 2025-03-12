@@ -1,0 +1,3 @@
+##### § 156.1 Definition. #####
+
+For the purposes of this part, the term *broker association* as applied to each board of trade shall include two or more contract market members with floor trading privileges, of whom at least one is acting as a floor broker, who: (1) Engage in floor brokerage activity on behalf of the same employer, (2) have an employer and employee relationship which relates to floor brokerage activity, (3) share profits and losses associated with their brokerage or trading activity, or (4) regularly share a deck of orders.

@@ -1,0 +1,11 @@
+##### § 38.158 Investigations and investigation reports. #####
+
+(a) *Procedures.* A designated contract market must establish and maintain procedures that require its compliance staff to conduct investigations of possible rule violations. An investigation must be commenced upon the receipt of a request from Commission staff or upon the discovery or receipt of information by the designated contract market that indicates a reasonable basis for finding that a violation may have occurred or will occur.
+
+(b) *Timeliness.* Each compliance staff investigation must be completed in a timely manner. Absent mitigating factors, a timely manner is no later than 12 months after the date that an investigation is opened. Mitigating factors that may reasonably justify an investigation taking longer than 12 months to complete include the complexity of the investigation, the number of firms or individuals involved as potential wrongdoers, the number of potential violations to be investigated, and the volume of documents and data to be examined and analyzed by compliance staff.
+
+(c) *Investigation reports when a reasonable basis exists for finding a violation.* Compliance staff must submit a written investigation report for disciplinary action in every instance in which compliance staff determines from surveillance or from an investigation that a reasonable basis exists for finding a rule violation. The investigation report must include the reason the investigation was initiated; a summary of the complaint, if any; the relevant facts; compliance staff's analysis and conclusions; and a recommendation as to whether disciplinary action should be pursued.
+
+(d) *Investigation reports when no reasonable basis exists for finding a violation.* If after conducting an investigation, compliance staff determines that no reasonable basis exists for finding a violation, it must prepare a written report including the reason(s) the investigation was initiated; a summary of the complaint, if any; the relevant facts; and compliance staff's analysis and conclusions.
+
+(e) *Warning letters.* No more than one warning letter may be issued to the same person or entity found to have committed the same rule violation within a rolling twelve month period.

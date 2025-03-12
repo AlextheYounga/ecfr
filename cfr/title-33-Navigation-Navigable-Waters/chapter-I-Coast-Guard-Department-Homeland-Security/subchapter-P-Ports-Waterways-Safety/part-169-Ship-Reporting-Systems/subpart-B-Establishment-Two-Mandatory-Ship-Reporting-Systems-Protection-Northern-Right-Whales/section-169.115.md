@@ -1,0 +1,3 @@
+##### § 169.115 Where is the southeastern reporting system located? #####
+
+Geographical boundaries of the southeastern area include coastal waters within about 25 nautical miles (45 kilometer) along a 90-nautical mile (170-kilometer) stretch of the Atlantic seaboard in Florida and Georgia. The area coordinates (NAD 83) extends from the shoreline east to longitude 80°51.6′ W with the southern and northern boundaries at latitude 30°00′ N and 31°27′ N, respectively.

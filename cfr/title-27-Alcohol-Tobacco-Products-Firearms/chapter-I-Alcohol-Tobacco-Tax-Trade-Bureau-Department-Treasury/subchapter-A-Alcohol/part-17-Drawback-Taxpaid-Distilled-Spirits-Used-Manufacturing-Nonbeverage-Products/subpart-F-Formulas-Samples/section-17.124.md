@@ -1,0 +1,3 @@
+##### § 17.124 Samples. #####
+
+Any person claiming drawback or submitting a formula for approval under the regulations in this part may be required, at any time, to submit a sample of each nonbeverage or intermediate product for analysis. If the product is manufactured with a mixture of oil or other ingredients, the composition of which is unknown to the claimant, a 1-ounce sample of the mixture shall be submitted with the sample of finished product when so required.

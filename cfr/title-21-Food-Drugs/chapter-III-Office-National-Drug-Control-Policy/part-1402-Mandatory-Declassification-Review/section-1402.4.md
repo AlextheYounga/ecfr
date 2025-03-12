@@ -1,0 +1,3 @@
+##### § 1402.4 Information classified by another agency. #####
+
+When a request is received for information that was classified by another agency, the Director of the Office of Planning, Budget, and Administration of ONDCP will forward the request and a copy of the document(s) along with any other related materials, to the appropriate agency for review and determination as to release. Recommendations as to release or denial may be made if appropriate. The requester will be notified of the referral, unless the receiving agency objects on the grounds that its association with the information requires protection.

@@ -1,0 +1,7 @@
+##### § 201.160 Time computation. #####
+
+(a) *Computation.* In computing any period of time prescribed in or allowed by these Rules of Practice or by order of the Commission, the day of the act, event, or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included unless it is a Saturday, Sunday, or Federal legal holiday (as defined in § 201.104), in which event the period runs until the end of the next day that is not a Saturday, Sunday, or Federal legal holiday. Intermediate Saturdays, Sundays, and Federal legal holidays shall be excluded from the computation when the period of time prescribed or allowed is seven days or less, not including any additional time allowed for service by mail in paragraph (b) of this section. If on the day a filing is to be made, weather or other conditions have caused the Secretary's office or other designated filing location to close, the filing deadline shall be extended to the end of the next day that is neither a Saturday, a Sunday, nor a Federal legal holiday.
+
+(b) *Additional time for service by mail.* If service is made by mail, three days shall be added to the prescribed period for response unless an order of the Commission or the hearing officer specifies a date certain for filing. In the event that an order of the Commission or the hearing officer specifies a date certain for filing, no time shall be added for service by mail.
+
+[60 FR 32796, June 23, 1995, as amended at 69 FR 13177, Mar. 19, 2004]

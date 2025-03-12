@@ -1,0 +1,7 @@
+##### § 9.13 Initial processing of AVA petitions. #####
+
+(a) *TTB notification to petitioner of petition receipt.* The appropriate TTB officer will acknowledge receipt of a submitted petition. This notification will be in a letter sent to the petitioner within 30 days of receipt of the petition.
+
+(b) *Acceptance of a perfected petition or return of a deficient petition to the petitioner.* The appropriate TTB officer will perform an initial review of the petition to determine whether it is a perfected petition. If the petition is not perfected, the appropriate TTB officer will return it to the petitioner without prejudice to resubmission in perfected form. If the petition is perfected, TTB will decide whether to proceed with rulemaking under § 9.14 and will advise the petitioner in writing of that decision. If TTB decides to proceed with rulemaking, TTB will advise the petitioner of the date of receipt of the perfected petition. If TTB decides not to proceed with rulemaking, TTB will advise the petitioner of the reasons for that decision.
+
+(c) *Notice of pending petition.* When a perfected petition is accepted for rulemaking, TTB will place a notice to that effect on the TTB Web site.

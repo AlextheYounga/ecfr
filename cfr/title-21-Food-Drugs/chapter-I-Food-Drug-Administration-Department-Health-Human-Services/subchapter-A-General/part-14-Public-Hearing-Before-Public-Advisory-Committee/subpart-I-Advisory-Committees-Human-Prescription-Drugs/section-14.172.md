@@ -1,0 +1,3 @@
+##### § 14.172 Utilization of an advisory committee at the request of an interested person. #####
+
+Any interested person may request, under § 10.30, that a specific matter relating to a particular human prescription drug be submitted to an appropriate advisory committee for a hearing and review and recommendations. The request must demonstrate the importance of the matter and the reasons why it should be submitted for a hearing at that time. The Commissioner may grant or deny the request.

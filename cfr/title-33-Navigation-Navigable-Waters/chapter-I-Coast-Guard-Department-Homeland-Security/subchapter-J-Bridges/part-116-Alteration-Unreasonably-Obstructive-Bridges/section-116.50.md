@@ -1,0 +1,11 @@
+##### § 116.50 Apportionment of costs under the Truman-Hobbs Act. #####
+
+(a) In determining the apportionment of costs, the bridge owner must bear such part of the cost attributable to the direct and special benefits which will accrue to the bridge owner as a result of alteration to the bridge, including expected savings in repairs and maintenance, expected increased carrying capacity, costs attributable to the requirements of highway and railroad traffic, and actual capital costs of the used service life. The United States will bear the balance of the costs, including that part attributable to the necessities of navigation.
+
+(b) “Direct and special benefits” ordinarily will include items desired by the owner but which have no counterpart or are of higher quality than similar items in the bridge prior to alteration. Examples include improved signal and fender systems, pro rata share of dismantling costs, and improvements included, but not required, in the interests of navigation.
+
+(c) During the development of the Apportionment of Costs, the bridge owner will be provided with an opportunity to be heard. Proportionate shares of cost to be borne by the United States and the bridge owner are developed in substantially the following form:
+
+Total cost of project \_\_\_\_\_\_\_\_ $\_\_\_\_\_\_\_\_Less salvage \_\_\_\_ $\_\_\_\_Less contribution by third party \_\_\_\_ $\_\_\_\_Cost of alteration to be apportioned \_\_\_\_ $\_\_\_\_Share to be borne by the bridge owner:Direct and Special Benefits:a. Removing old bridge \_\_\_\_ $\_\_\_\_b. Fixed charges \_\_\_\_ $\_\_\_\_c. Betterments \_\_\_\_ $\_\_\_\_Expected savings in repair or maintenance costs:a. Repair \_\_\_\_ $\_\_\_\_b. Maintenance \_\_\_\_ $\_\_\_\_Costs attributable to requirements of railroad and/or highway traffic \_\_\_\_ $\_\_\_\_Expenditure for increased carrying capacity \_\_\_\_ $\_\_\_\_Expired service life of old bridge \_\_\_\_ $\_\_\_\_Subtotal \_\_\_\_ $\_\_\_\_Share to be borne by the bridge owner \_\_\_\_ $\_\_\_\_Contingencies \_\_\_\_ $\_\_\_\_Total \_\_\_\_ $\_\_\_\_Share to be borne by the United States \_\_\_\_ $\_\_\_\_Contingencies \_\_\_\_ $\_\_\_\_Total \_\_\_\_ $\_\_\_\_
+
+(d) The Order of Apportionment of Costs will include the guaranty of costs.

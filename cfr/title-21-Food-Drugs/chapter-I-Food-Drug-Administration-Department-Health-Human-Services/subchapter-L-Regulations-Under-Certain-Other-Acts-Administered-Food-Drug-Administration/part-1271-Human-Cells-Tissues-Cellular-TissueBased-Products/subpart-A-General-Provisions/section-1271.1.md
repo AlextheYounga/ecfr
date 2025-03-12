@@ -1,0 +1,9 @@
+##### § 1271.1 What are the purpose and scope of this part? #####
+
+(a) *Purpose.* The purpose of this part, in conjunction with §§ 207.9(a)(5), 210.1(c), 210.2, 807.20(d), and 820.1(a) of this chapter, is to create an electronic registration and listing system for establishments that manufacture human cells, tissues, and cellular and tissue-based products (HCT/P's) and to establish donor-eligibility, current good tissue practice, and other procedures to prevent the introduction, transmission, and spread of communicable diseases by HCT/P's.
+
+(b) *Scope.* (1) If you are an establishment that manufactures HCT/P's that are regulated solely under the authority of section 361 of the Public Health Service Act (the PHS Act), this part requires you to register and list your HCT/P's with the Food and Drug Administration's (FDA's) Center for Biologics Evaluation and Research and to comply with the other requirements contained in this part, whether or not the HCT/P enters into interstate commerce. Those HCT/P's that are regulated solely under the authority of section 361 of the PHS Act are described in § 1271.10.
+
+(2) If you are an establishment that manufactures HCT/P's that are regulated as drugs, devices and/or biological products under section 351 of the PHS Act and/or the Federal Food, Drug, and Cosmetic Act, §§ 207.9(a)(5) and 807.20(d) of this chapter require you to register and list your HCT/P's following the procedures in part 207 (if a drug and/or biological product) of this chapter or part 807 (if a device) of this chapter. Sections 210.1(c), 210.2, 211.1(b), and 820.1(a) of this chapter require you to comply with the donor-eligibility procedures in subpart C of this part and the current good tissue practice procedures in subpart D of this part, in addition to all other applicable regulations.
+
+[66 FR 5466, Jan. 19, 2001, as amended at 69 FR 29829, May 25, 2004; 81 FR 60223, Aug. 31, 2016]

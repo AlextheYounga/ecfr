@@ -1,0 +1,3 @@
+##### § 212.1 Purpose and scope. #####
+
+This subpart contains the rules that the United States Agency of International Development (hereinafter “USAID” or “the Agency”) follows in processing requests for records under the Freedom of Information Act (“FOIA”), 5 U.S.C. 552. The rules in this subpart should be read in conjunction with the text of the FOIA. Requests made by individuals for records about themselves under the Privacy Act of 1974, are processed under Subpart O. Definitions of FOIA terms are referenced in Subpart L.

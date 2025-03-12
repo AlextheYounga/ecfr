@@ -1,0 +1,3 @@
+##### § 17.127 Self-manufactured ingredients treated optionally as unfinished nonbeverage products. #####
+
+A self-manufactured ingredient made with taxpaid spirits, which otherwise would be treated as an intermediate product, may instead be treated as an unfinished nonbeverage product, if the ingredient's formula is fully expressed as a part of the approved formula for the nonbeverage product in which the ingredient will be used. A manufacturer desiring to change the treatment of an ingredient from “intermediate product” to “unfinished nonbeverage product” (or vice versa) may do so by resubmitting the applicable formula(s) on TTB Form 5154.1. Requirements pertaining to unfinished nonbeverage products are found in § 17.185(c).

@@ -1,0 +1,5 @@
+##### § 204.21 Event of default; Application for compensation; Payment. #####
+
+(a) Within one year after an Event of Default, as this term is defined in an Eligible Note, the Lender or Assignee may file with A.I.D. an Application for Compensation in form as provided in Exhibit A. A.I.D. shall make the required payment not later than sixty (60) days after the Date of Application unless A.I.D. has cured the default under § 204.22.
+
+(b) *Guaranty Payment.* On or before the Guaranty Payment Date, the Applicant shall tender assignment of all Applicant's right, title and interest as of the Date of Application in and to all sums for which Application has been made. A.I.D. shall accept the assignment and pay or cause to be paid to Applicant and compensation due to the Applicant pursuant to the Guaranty.

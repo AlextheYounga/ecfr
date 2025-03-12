@@ -1,0 +1,13 @@
+##### § 157.06 Appeals. #####
+
+(a) Any person directly affected by an action taken under this part may request reconsideration by the Coast Guard official who is responsible for that action.
+
+(b) Any person not satisfied with a ruling made under the procedure contained in paragraph (a) of this section may appeal that ruling in writing, except as allowed under paragraph (e) of this section, to the Coast Guard District Commander of the district in which the action was taken. The appeal may contain supporting documentation and evidence that the appellant wishes to have considered. If requested, the District Commander may stay the effect of the action being appealed while the ruling is being reviewed. The District Commander issues a ruling after reviewing the appeal submitted under this paragraph.
+
+(c) Any person not satisfied with a ruling made under the procedure contained in paragraph (b) of this section may appeal that ruling in writing, except as allowed under paragraph (e) of this section, to the Commandant (CG-5P), Attn: Assistant Commandant for Prevention, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501. The appeal may contain supporting documentation and evidence that the appellant wishes to have considered. If requested, the Deputy for Operations Policy and Capabilities (CG-DCO-D) may stay the effect of the action being appealed while the ruling is being reviewed. The Chief, Marine Safety, Security and Environmental Protection issues a ruling after reviewing the appeal submitted under this paragraph.
+
+(d) Any decision made by the Assistant Commandant for Prevention (CG-5P) under the procedure contained in paragraph (c) of this section is final agency action.
+
+(e) If the delay in presenting a written appeal would have a significant adverse impact on the appellant, the appeal under paragraph (b) or (c) of this section may initially be presented orally. If an initial presentation of the appeal is made orally, the appellant must submit the appeal in writing within five days of the oral presentation to the Coast Guard official to whom the oral presentation was made. The written appeal must contain, at a minimum the basis for the appeal and a summary of the material presented orally.
+
+[CGD 77-058b, 45 FR 43706, June 30, 1980, as amended by CGD 88-052, 53 FR 25122, July 1, 1988; CGD 96-026, 61 FR 33667, 33668, June 28, 1996; CGD 97-023, 62 FR 33364, June 19, 1997; USCG-2002-12471, 67 FR 41333, June 18, 2002; USCG-2008-0179, 73 FR 35015, June 19, 2008; USCG-2010-0351, 75 FR 36286, June 25, 2010; USCG-2014-0410, 79 FR 38438, July 7, 2014]

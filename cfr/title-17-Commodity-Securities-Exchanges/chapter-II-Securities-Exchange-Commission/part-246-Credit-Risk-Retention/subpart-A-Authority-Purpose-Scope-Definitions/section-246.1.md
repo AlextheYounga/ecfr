@@ -1,0 +1,7 @@
+##### § 246.1 Purpose, scope, and authority. #####
+
+(a) *Authority and purpose.* This part (Regulation RR) is issued by the Securities and Exchange Commission (“Commission”) jointly with the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and, in the case of the securitization of any residential mortgage asset, together with the Secretary of Housing and Urban Development and the Federal Housing Finance Agency, pursuant to Section 15G of the Securities Exchange Act of 1934 (15 U.S.C. 78o-11). The Commission also is issuing this part pursuant to its authority under Sections 7, 10, 19(a), and 28 of the Securities Act and Sections 3, 13, 15, 23, and 36 of the Exchange Act. This part requires securitizers to retain an economic interest in a portion of the credit risk for any asset that the securitizer, through the issuance of an asset-backed security, transfers, sells, or conveys to a third party. This part specifies the permissible types, forms, and amounts of credit risk retention, and establishes certain exemptions for securitizations collateralized by assets that meet specified underwriting standards or otherwise qualify for an exemption.
+
+(b) The authority of the Commission under this part shall be in addition to the authority of the Commission to otherwise enforce the federal securities laws, including, without limitation, the antifraud provisions of the securities laws.
+
+[79 FR 77766, Dec. 24, 2014]

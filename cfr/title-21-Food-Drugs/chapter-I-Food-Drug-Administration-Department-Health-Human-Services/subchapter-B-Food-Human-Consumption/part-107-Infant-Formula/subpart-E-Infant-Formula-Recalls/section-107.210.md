@@ -1,0 +1,5 @@
+##### § 107.210 Firm-initiated product removals. #####
+
+(a) If a manufacturer has determined to recall voluntarily from the market an infant formula that is not subject to § 107.200 but that otherwise violates the laws and regulations administered by the Food and Drug Administration (FDA) and that would be subject to legal action, the manufacturer, upon prompt notification to FDA, shall administer such voluntary recall consistent with the requirements of this subpart.
+
+(b) If a manufacturer has determined to withdraw voluntarily from the market an infant formula that is adulterated or misbranded in only a minor way and that would not be subject to legal action, such removal from the market is deemed to be a market withdrawal, as defined in § 7.3(j) of this chapter. As required by § 107.240(a), the manufacturer shall promptly notify FDA of such violative formula and may, but is not required to, conduct such market withdrawal consistent with the requirements of this subpart pertaining to product recalls.

@@ -1,0 +1,5 @@
+##### § 70.101 Bad checks. #####
+
+If any check or money order in payment of any amount receivable under Title 26 of the United States Code is not duly paid, in addition to any other penalties provided by law, there shall be paid as a penalty by the person who tendered such check, upon notice and demand, in the same manner as tax, an amount equal to 1 percent of the amount of such check, except that if the amount of such check is less than $500, the penalty under this section shall be $5 or the amount of such check, whichever is the lesser. This section shall not apply if the person establishes to the satisfaction of the appropriate TTB officer that such check was tendered in good faith and that such person had reasonable cause to believe that such check would be duly paid.
+
+(26 U.S.C. 6657)[T.D. ATF-251, 52 FR 19314, May 22, 1987. Redesignated and amended by T.D. ATF-301, 55 FR 47606, 47615, Nov. 14, 1990]

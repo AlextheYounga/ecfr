@@ -1,0 +1,3 @@
+##### § 178.3900 Sodium pentachlorophenate. #####
+
+Sodium pentachlorophenate may be safely used as a preservative for ammonium alginate employed as a processing aid in the manufacture of polyvinyl chloride emulsion polymers intended for use as articles or components of articles that contact food at temperatures not to exceed room temperature. The quantity of sodium pentachlorophenate used shall not exceed 0.5 percent by weight of ammonium alginate solids.

@@ -1,0 +1,3 @@
+##### § 1002.9 Denial of records; review. #####
+
+If a request for records is denied, the person who made the request is entitled to have the denial reviewed by the Foundation President as promptly as circumstances permit. If the President determines that the withholding is improper, he will direct in writing that the requested records be made available in accordance with these regulations. If he determines that the withholding is proper, he will so notify such person in writing, and his determination will constitute the final Foundation decision.

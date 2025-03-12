@@ -1,0 +1,3 @@
+##### § 9.11 Systematic declassification review. #####
+
+The Director of the Office of Information Programs and Services shall be responsible for conducting a program for systematic declassification review of historically valuable records that: were exempted from the automatic declassification provisions of section 3.3 of the Executive Order; or will soon become subject to the automatic declassification provisions of section 3.3 of the Order. The Director shall prioritize such review in accordance with priorities established by the National Declassification Center.

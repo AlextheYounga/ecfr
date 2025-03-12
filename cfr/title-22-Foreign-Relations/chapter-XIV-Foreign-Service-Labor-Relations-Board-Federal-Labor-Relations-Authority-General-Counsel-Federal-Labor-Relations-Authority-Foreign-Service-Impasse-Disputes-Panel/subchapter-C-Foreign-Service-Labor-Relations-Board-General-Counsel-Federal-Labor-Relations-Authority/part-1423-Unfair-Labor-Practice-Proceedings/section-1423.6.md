@@ -1,0 +1,5 @@
+##### § 1423.6 Filing and service of copies. #####
+
+(a) An original and four (4) copies of the charge together with one copy for each additional charged party named shall be filed with the Regional Director for the region in which the alleged unfair labor practice has occurred or is occurring. A charge alleging that an unfair labor practice has occurred or is occurring in two or more regions may be filed with the Regional Director for any such region.
+
+(b) Upon the filing of a charge, the charging party shall be responsible for the service of a copy of the charge (without the supporting evidence and documents) upon the person(s) against whom the charge is made, and for filing a written statement of such service with the Regional Director. The Regional Director will, as a matter of course, cause a copy of such charge to be served on the person(s) against whom the charge is made, but shall not be deemed to assume responsibility for such service.

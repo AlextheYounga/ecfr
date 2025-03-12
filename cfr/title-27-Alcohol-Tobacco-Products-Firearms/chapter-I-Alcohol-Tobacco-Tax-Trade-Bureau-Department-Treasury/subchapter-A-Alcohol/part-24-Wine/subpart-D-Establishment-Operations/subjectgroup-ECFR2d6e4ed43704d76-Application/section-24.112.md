@@ -1,0 +1,5 @@
+##### § 24.112 Name of proprietor and trade names. #####
+
+The applicant shall list on the application, TTB F 5120.25, the proprietor's name or the operating trade name, if different than the proprietor's name, and any bottling or packing trade names. However, if a bottling or packing trade name is listed on a basic permit issued to the proprietor under the Federal Alcohol Administration Act (49 Stat 978; 27 U.S.C. 204), that trade name is not required to be listed again on the application. If State or local law requires the registration of a trade name, the applicant shall certify that each trade name listed on the application is so registered. A trade name may not be used prior to approval of the application or issuance of a basic permit covering the use of the name.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1379, as amended (26 U.S.C. 5356))(Approved by the Office of Management and Budget under control number 1512-0058)

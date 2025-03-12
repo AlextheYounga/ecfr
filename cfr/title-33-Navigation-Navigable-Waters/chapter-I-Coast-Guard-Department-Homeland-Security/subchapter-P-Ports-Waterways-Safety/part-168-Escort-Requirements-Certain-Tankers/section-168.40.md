@@ -1,0 +1,7 @@
+##### § 168.40 Applicable waters and number of escort vessels. #####
+
+The requirements of this part apply to the following waters:
+
+(a) *Prince William Sound:* Each tanker to which this part applies must be escorted by at least two escort vessels in those navigable waters of the United States within Prince William Sound, Alaska, and the adjoining tributaries, bays, harbors, and ports, including the navigable waters of the United States within a line drawn from Cape Hinchinbrook Light, to Seal Rocks Light, to a point on Montague Island at 60°14.6′ North, 146°59′ West, and the waters of Montague Strait east of a line between Cape Puget and Cape Cleare.
+
+(b) *Puget Sound and certain associated waters:* Each tanker to which this part applies must be escorted by at least two escort vessels in those navigable waters of the United States and Washington State east of a line connecting New Dungeness Light with Discovery Island Light and all points in the Puget Sound area north and south of these lights. This area includes all the navigable waters of the United States within Haro Strait, Rosario Strait, the Strait of Georgia, Puget Sound, and Hood Canal, as well as those portions of the Strait of Juan de Fuca east of the New Dungeness-Discovery Island line.

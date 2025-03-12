@@ -1,0 +1,5 @@
+##### § 28.261 Notice to district director of customs. #####
+
+On arrival at the port of exportation, of distilled spirits (including specially denatured spirits), wines, or beer, withdrawn or shipped for exportation or for use on vessels or aircraft, the exporter or his agent shall immediately notify the director of the port. At the same time, or prior thereto, the exporter or his agent shall file with the director two copies of the application, claim, or notice, TTB Form 5100.11, 5110.30, 1582-A (5120.24), 1582-B (5130.6), or 1689 (5130.12), as the case may be, covering the shipment: *Provided,* That where the shipment is for direct exportation, such forms shall be filed at least six hours prior to lading.
+
+(46 Stat. 690, as amended, 72 Stat. 1334, 1335, 1336, 1362, 1380; 19 U.S.C. 1309, 26 U.S.C. 5053, 5055, 5062, 5214, 5362)[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975]Editorial Note:For Federal Register citations affecting § 28.261, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

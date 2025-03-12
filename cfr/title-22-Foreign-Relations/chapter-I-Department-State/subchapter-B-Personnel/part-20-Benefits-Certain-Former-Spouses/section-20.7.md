@@ -1,0 +1,3 @@
+##### § 20.7 Waiver. #####
+
+A former spouse entitled to an annuity under this part may decide to decline all or any part of the annuity for personal reasons. An annuity waiver shall be in writing and sent to the Retirement Division (PER/ER/RET), Department of State, Washington, DC 20520. A waiver may be revoked in writing at any time. Payment of the annuity waived prior to receipt by the Retirement Division of the renovation may not be made.

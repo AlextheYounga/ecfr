@@ -1,0 +1,17 @@
+##### § 275.206(4)-1 Advertisements by investment advisers. #####
+
+(a) It shall constitute a fraudulent, deceptive, or manipulative act, practice, or course of business within the meaning of section 206(4) of the Act (15 U.S.C. 80b-6(4)) for any investment adviser registered or required to be registered under section 203 of the Act (15 U.S.C. 80b-3), directly or indirectly, to publish, circulate, or distribute any advertisement:
+
+(1) Which refers, directly or indirectly, to any testimonial of any kind concerning the investment adviser or concerning any advice, anaylsis, report or other service rendered by such investment adviser; or
+
+(2) Which refers, directly or indirectly, to past specific recommendations of such investment adviser which were or would have been profitable to any person: *Provided, however,* That this shall not prohibit an advertisement which sets out or offers to furnish a list of all recommendations made by such investment adviser within the immediately preceding period of not less than one year if such advertisement, and such list if it is furnished separately: (i) State the name of each such security recommended, the date and nature of each such recommendation (e.g., whether to buy, sell or hold), the market price at that time, the price at which the recommendation was to be acted upon, and the market price of each such security as of the most recent practicable date, and (ii) contain the following cautionary legend on the first page thereof in print or type as large as the largest print or type used in the body or text thereof: “it should not be assumed that recommendations made in the future will be profitable or will equal the performance of the securities in this list”; or
+
+(3) Which represents, directly or indirectly, that any graph, chart, formula or other device being offered can in and of itself be used to determine which securities to buy or sell, or when to buy or sell them; or which represents directly or indirectly, that any graph, chart, formula or other device being offered will assist any person in making his own decisions as to which securities to buy, sell, or when to buy or sell them, without prominently disclosing in such advertisement the limitations thereof and the difficulties with respect to its use; or
+
+(4) Which contains any statement to the effect that any report, analysis, or other service will be furnished free or without charge, unless such report, analysis or other service actually is or will be furnished entirely free and without any condition or obligation, directly or indirectly; or
+
+(5) Which contains any untrue statement of a material fact, or which is otherwise false or misleading.
+
+(b) For the purposes of this section the term *advertisement* shall include any notice, circular, letter or other written communication addressed to more than one person, or any notice or other announcement in any publication or by radio or television, which offers (1) any analysis, report, or publication concerning securities, or which is to be used in making any determination as to when to buy or sell any security, or which security to buy or sell, or (2) any graph, chart, formula, or other device to be used in making any determination as to when to buy or sell any security, or which security to buy or sell, or (3) any other investment advisory service with regard to securities.
+
+(Sec. 206, 54 Stat. 852, as amended; 15 U.S.C. 80b-6)[26 FR 10549, Nov. 9, 1961, as amended at 62 FR 28135, May 22, 1997]

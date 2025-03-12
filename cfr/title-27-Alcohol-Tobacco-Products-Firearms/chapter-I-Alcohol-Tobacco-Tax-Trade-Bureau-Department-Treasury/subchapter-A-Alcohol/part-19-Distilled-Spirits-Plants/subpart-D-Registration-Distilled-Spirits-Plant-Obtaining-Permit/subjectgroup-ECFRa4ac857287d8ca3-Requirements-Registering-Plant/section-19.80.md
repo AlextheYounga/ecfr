@@ -1,0 +1,5 @@
+##### § 19.80 Approved notice of registration. #####
+
+A person may not operate a distilled spirits plant unless a notice of registration has been approved by TTB authorizing the businesses and operations to be conducted at such plant. When approved by the appropriate TTB officer, the application for registration constitutes the notice of registration of the distilled spirits plant. A distilled spirits plant will not be registered or reregistered under this subpart until the applicant has complied with all requirements of law and regulations relating to the qualification of the business or operations in which the applicant intends to engage. In any instance where a person is required to have a bond or permit and the bond or permit becomes invalid, then the notice of registration also becomes invalid. Another application for registration must be filed and a new notice of registration approved by TTB before the business or operation at such plant may be resumed. Reregistration of a plant is not required when a new bond or a strengthening bond is filed in accordance with § 19.167 or § 19.168.
+
+(26 U.S.C. 5171, 5172)

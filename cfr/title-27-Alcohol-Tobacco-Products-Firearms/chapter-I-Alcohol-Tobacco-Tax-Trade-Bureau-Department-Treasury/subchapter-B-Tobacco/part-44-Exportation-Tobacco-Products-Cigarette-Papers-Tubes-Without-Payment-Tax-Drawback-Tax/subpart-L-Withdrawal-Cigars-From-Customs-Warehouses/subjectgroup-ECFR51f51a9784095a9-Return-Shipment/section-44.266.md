@@ -1,0 +1,5 @@
+##### § 44.266 Return of cigars from export warehouses. #####
+
+Where cigars are returned to a customs warehouse from an export warehouse, the officer in charge of the customs warehouse shall execute the certificate of receipt on each of the copies of the related Form 5200.14 received from the export warehouse proprietor, after checking the containers to determine whether all the cigars described on the notice have been received. Thereafter, both copies of the Form 5200.14 shall be turned over to the proprietor of the customs warehouse who shall return one copy to the export warehouse proprietor for disposition as provided in § 44.201. The customs warehouse proprietor shall retain the other copy of the notice of removal, as a part of his records, for 3 years following the close of the calendar year in which the shipment was received. Such copy shall be made available for inspection by any appropriate TTB officer upon his request.
+
+[T.D. ATF-48, 44 FR 55856, Sept. 28, 1979, as amended by T.D. ATF-421, 64 FR 71926, Dec. 22, 1999]

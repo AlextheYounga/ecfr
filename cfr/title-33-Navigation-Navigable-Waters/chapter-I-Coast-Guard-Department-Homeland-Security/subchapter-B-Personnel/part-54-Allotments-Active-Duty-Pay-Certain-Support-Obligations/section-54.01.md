@@ -1,0 +1,3 @@
+##### § 54.01 Purpose. #####
+
+This part prescribes procedures for State officials to notify the Coast Guard that a member on active duty is delinquent in meeting an obligation for child support alone, or both child and spousal support, in an amount equal to the support payable for two months or longer. Under 42 U.S.C. 665, an allotment may be taken from the pay and allowances of the member in this situation.

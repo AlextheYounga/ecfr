@@ -1,0 +1,13 @@
+##### § 385.17 Project Delivery Team. #####
+
+(a) In accordance with the procedures of the Corps of Engineers business process described in Engineer Regulation ER 5-1-11 “US Army Corps of Engineers Business process,” the Corps of Engineers and the non-Federal sponsor shall form a Project Delivery Team to develop the products necessary to implement each project.
+
+(b) The Corps of Engineers shall assign, and the non-Federal sponsor may assign, a project manager to lead the Project Delivery Team.
+
+(c) The Corps of Engineers and the South Florida Water Management District shall encourage the participation of other Federal, State, and local agencies and the Miccosukee Tribe of Indians of Florida and the Seminole Tribe of Florida on Project Delivery Teams, and use their expertise to ensure that information developed by the Project Delivery Team is shared with agencies, tribes, and the public at the earliest possible time in the implementation process. In forming the Project Delivery Team, the Corps of Engineers and the non-Federal sponsor shall request that the Department of the Interior, the Environmental Protection Agency, the Department of Commerce, the Miccosukee Tribe of Indians of Florida, the Seminole Tribe of Florida, the Florida Department of Environmental Protection, and other Federal, State, and local agencies participate on the Project Delivery Team.
+
+(1) In general, participation on the Project Delivery Team shall be the financial responsibility of the participating agency or tribe. However, the Corps of Engineers shall provide funding for the U.S. Fish and Wildlife Service and the National Marine Fisheries Service to prepare Fish and Wildlife Coordination Act Reports, as required by applicable law, regulation, or agency procedures.
+
+(2) Participation by an agency or tribe on the Project Delivery Team shall not be considered or construed to be a substitute for consultation, coordination, or other activities required by applicable law or this part.
+
+(d) Documents and work products prepared or developed by the Project Delivery Team shall not be self-executing, but shall be provided as information for consideration by the Corps of Engineers and the non-Federal sponsor, in consultation with the Department of the Interior, the Environmental Protection Agency, the Department of Commerce, the Seminole Tribe of Florida, the Miccosukee Tribe of Indians of Florida, the Florida Department of Environmental Protection, and other Federal, State, and local agencies.

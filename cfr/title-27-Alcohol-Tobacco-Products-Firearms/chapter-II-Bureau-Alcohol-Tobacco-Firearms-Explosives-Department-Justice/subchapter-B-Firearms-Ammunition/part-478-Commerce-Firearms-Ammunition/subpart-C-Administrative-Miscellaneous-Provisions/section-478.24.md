@@ -1,0 +1,7 @@
+##### § 478.24 Compilation of State laws and published ordinances. #####
+
+(a) The Director shall annually revise and furnish Federal firearms licensees with a compilation of State laws and published ordinances which are relevant to the enforcement of this part. The Director annually revises the compilation and publishes it as “State Laws and Published Ordinances—Firearms” which is furnished free of charge to licensees under this part. Where the compilation has previously been furnished to licensees, the Director need only furnish amendments of the relevant laws and ordinances to such licensees.
+
+(b) “State Laws and Published Ordinances—Firearms” is incorporated by reference in this part. It is ATF Publication 5300.5, revised yearly. The current edition is available from the Superintendent of Documents, U.S. Government Printing Office, Washington, DC 20402. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* This incorporation by reference was approved by the Director of the Federal Register.
+
+[T.D. ATF-270, 53 FR 10493, Mar. 31, 1988, as amended by 69 FR 18803, Apr. 9, 2004]

@@ -1,0 +1,3 @@
+##### § 150.628 How must the operator label, tag, and mark a container of hazardous material? #####
+
+The operator must label, tag, or mark each container of hazardous material with the identity of the hazardous material and the appropriate physical, health, reactive and other special condition hazard warnings. The only exception is for portable containers that transfer hazardous material from a labeled container to the work site for immediate use by the person who performs the transfer.

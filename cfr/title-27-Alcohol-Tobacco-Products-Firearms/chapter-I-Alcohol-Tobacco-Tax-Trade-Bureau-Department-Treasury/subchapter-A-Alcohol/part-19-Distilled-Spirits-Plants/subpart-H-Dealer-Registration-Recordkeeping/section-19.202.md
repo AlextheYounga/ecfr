@@ -1,0 +1,5 @@
+##### § 19.202 Dealer registration. #####
+
+Every proprietor that sells or offers for sale any alcoholic product (distilled spirits, wines, or beer) fit for beverage use must register as a dealer under part 31 of this chapter. However, the proprietor's application for registration of a distilled spirits plant filed under subpart D of this part, and approval of that application by the appropriate TTB officer, will constitute the proprietor's registration as a dealer at the distilled spirits plant. Every proprietor registered as a dealer under this subpart will be classified as a wholesale dealer in liquors (see § 31.32 of this chapter) and as such may also operate as a retail dealer in liquors without additional registration. Registration covers all sales from the same location, including sales of wine, beer, or other proprietors' spirits. A proprietor who conducts business as a dealer at a location other than the distilled spirits plant must register and keep records in accordance with part 31 of this chapter.
+
+(26 U.S.C. 5124)

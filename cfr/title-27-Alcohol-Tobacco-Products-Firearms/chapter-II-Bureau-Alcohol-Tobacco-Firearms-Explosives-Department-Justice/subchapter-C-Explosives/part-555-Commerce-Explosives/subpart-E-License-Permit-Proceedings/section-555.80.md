@@ -1,0 +1,5 @@
+##### § 555.80 Court review. #####
+
+An applicant, licensee, or permittee may, within 60 days after receipt of the decision of the administrative law judge or the final order of the Director, Industry Operations or the Director, file a petition for a judicial review of the decision, with the U.S. Court of Appeals for the district in which he resides or has his principal place of business. The Director, upon notification that a petition has been filed, shall have prepared a complete transcript of the record of the proceedings. The Director, Industry Operations or the Director, as the case may be, shall certify to the correctness of the transcript of the record, forward one copy to the attorney for the Government in the review of the case, and file the original record of the proceedings with the original certificate in the U.S. Court of Appeals.
+
+[T.D. ATF-87, 46 FR 40384, Aug. 7, 1981, as amended by T.D. ATF 2013R-9F, 79 FR 46694, Aug. 11, 2014]

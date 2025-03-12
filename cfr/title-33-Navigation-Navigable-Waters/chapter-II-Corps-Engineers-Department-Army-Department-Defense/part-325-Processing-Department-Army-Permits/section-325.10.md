@@ -1,0 +1,3 @@
+##### § 325.10 Publicity. #####
+
+The district engineer will establish and maintain a program to assure that potential applicants for permits are informed of the requirements of this regulation and of the steps required to obtain permits for activities in waters of the United States or ocean waters. Whenever the district engineer becomes aware of plans being developed by either private or public entities which might require permits for implementation, he should advise the potential applicant in writing of the statutory requirements and the provisions of this regulation. Whenever the district engineer is aware of changes in Corps of Engineers regulatory jurisdiction, he will issue appropriate public notices.

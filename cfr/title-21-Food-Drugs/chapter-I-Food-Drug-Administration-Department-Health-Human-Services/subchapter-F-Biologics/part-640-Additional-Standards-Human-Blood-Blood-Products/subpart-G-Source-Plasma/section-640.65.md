@@ -1,0 +1,33 @@
+##### § 640.65 Plasmapheresis. #####
+
+(a) *Procedure-general.* The plasmapheresis procedure is a procedure in which, during a single visit to the establishment, blood is removed from a donor, the plasma separated from the formed elements, and at least the red blood cells returned to the donor. This procedure shall be described in detail in the biologics license application.
+
+(b) *Procedures-specific requirements.* The plasmapheresis procedure shall meet the following requirements:
+
+(1)(i) Except as provided under § 630.25 of this chapter, the responsible physician must draw a sample of blood from each donor on the day of the initial physical examination or plasmapheresis, whichever comes first, and at least every 4 months thereafter. A serologic test for syphilis, a total plasma or serum protein determination, and a plasma or serum protein electrophoresis or quantitative immuno-diffusion test or an equivalent test to determine immunoglobulin composition of the plasma or serum shall be performed on the sample.
+
+(ii) A repeat donor who does not return for plasmapheresis at the time the 4-month sample is due to be collected may be plasmapheresed on the day he appears: *Provided,* That no longer than 6 months has elapsed since the last sample was collected, and the responsible physician approves the plasmapheresis procedure and so indicates by signing the donor's record before such procedure is performed. The sample for the 4-month tests shall be collected on the day of the donor's return.
+
+(iii) A repeat donor from whom the plasmapheresis center is unable to obtain a sample for testing as prescribed in paragraph (b)(1)(i) of this section for a total period exceeding 6 months shall be processed as a new donor.
+
+(2)(i) Except as provided under § 630.25 of this chapter, the responsible physician must review the accumulated laboratory data, including any tracings of the plasma or serum protein electrophoresis pattern, the calculated values of the protein composition of each component, and the collection records within 14 calendar days after the sample is drawn to determine whether or not the donor should be deferred from further donation. If a determination is not made within 14 calendar days, the donor must be deferred pending such a determination. The responsible physician must sign the review. If the protein composition is not within normal limits established by the testing laboratory, or if the total protein level is less than 6.0 grams per deciliter or more than 9.0 grams per deciliter in a plasma sample or serum sample, the donor must be deferred from donation until the protein composition returns to acceptable levels. Reinstatement of the donor into the plasmapheresis program when the donor's protein composition values have returned to an acceptable level must first be approved by the responsible physician.
+
+(ii) A donor with a reactive serologic test for syphilis shall not be plasmapheresed again until the donor's serum is tested and found to be nonreactive to a serologic test for syphilis, except as provided in paragraph (b)(2) (iii) and (iv) of this section.
+
+(iii) A donor whose serum is determined to have a biologic false-positive reaction to a serologic test for syphilis may be plasmapheresed: *Provided,* That the donor's file identifies the serologic test for syphilis and results used to confirm the biologic false-positive reaction and indicates that the responsible physician has determined the false-positive reaction is not the result of an underlying disorder that would disqualify the donor from participation in the plasmapheresis program. If the serologic test for syphilis is performed at a facility other than the plasmapheresis center, all applicable provisions of § 640.71 shall be met.
+
+(iv) A donor with a reactive serologic test for syphilis may be plasmapheresed only to obtain plasma to be used for further manufacturing into control serum for the serologic test for syphilis: *Provided,* That the responsible physician approves the donation, the donor's file contains a signed statement from a physician or clinic establishing that treatment for syphilis has been initiated and that continuance in the plasmapheresis program will not interfere with or jeopardize the treatment of the syphilitic donor.
+
+(3) A donor identification system shall be established that positively identifies each donor and relates such donor directly to his blood and its components as well as to his accumulated records and laboratory data. Such system shall include either a photograph of each donor which shall be used on each visit to confirm the donor's identity, or some other method that provides equal or greater assurance of positively identifying the donor.
+
+(4) The amount of whole blood, not including anticoagulant, removed from a donor during a manual plasmapheresis procedure or in any 2-day period shall not exceed 1,000 milliliters unless the donor's weight is 175 pounds or greater, in which case the amount of whole blood, not including anticoagulant, removed from the donor during a manual plasmapheresis procedure or in any 2-day period shall not exceed 1,200 milliliters.
+
+(5) The amount of whole blood, not including anticoagulant, removed from a donor during a manual plasmapheresis procedure within a 7-day period shall not exceed 2,000 milliliters unless the donor's weight is 175 pounds or greater, in which case the amount of whole blood, not including anticoagulant, removed from a donor during a manual plasmapheresis procedure within a 7-day period shall not exceed 2,400 milliliters.
+
+(6) No more than 500 milliliters of whole blood shall be removed from a donor at one time, unless the donor's weight is 175 pounds or greater, in which case no more than 600 milliliters of whole blood shall be removed from the donor at one time.
+
+(7) The plasma shall be separated from the red blood cells immediately after blood collection. The maximum feasible volume of red blood cells shall be returned to the donor before another unit is collected.
+
+(8) The volume of plasma collected during an automated plasmapheresis collection procedure shall be consistent with the volumes specifically approved by the Director, Center for Biologics Evaluation and Research, and collection shall not occur less than 2 days apart or more frequently than twice in a 7-day period.
+
+[38 FR 32089, Nov. 20, 1973, as amended at 41 FR 10769, Mar. 12, 1976; 64 FR 45373, Aug. 19, 1999; 64 FR 56453, Oct. 20, 1999; 80 FR 29905, May 22, 2015]

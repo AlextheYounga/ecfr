@@ -1,0 +1,5 @@
+##### § 117.1095 Root River. #####
+
+(a) The draw of the Main Street bridge, mile 0.3 shall open on signal; except that, from April 1 through December 1 from 6 a.m. to 6 p.m., the draw need be opened only on the hour, 20 minutes after the hour, and 40 minutes after the hour to pass all accumulated vessels; and, from December 2 through March 31, the draw shall open on signal if at least two hours notice is given. At all times, public vessels of the United States, state or local vessels used for public safety, commercial vessels, and vessels in distress shall be passed as soon as possible.
+
+(b) The draw of the State Street bridge, mile 0.5, shall open on signal; except that, from October 16 through April 30, the draw shall open on signal if at least two hours notice is given. At all times, public vessels of the United States, state or local vessels used for public safety, commercial vessels, and vessels in distress shall be passed as soon as possible.

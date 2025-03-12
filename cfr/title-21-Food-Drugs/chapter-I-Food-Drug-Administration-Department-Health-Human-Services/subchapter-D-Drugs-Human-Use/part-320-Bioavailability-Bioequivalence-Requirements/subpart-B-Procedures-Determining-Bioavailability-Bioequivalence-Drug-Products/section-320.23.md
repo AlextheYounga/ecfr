@@ -1,0 +1,13 @@
+##### § 320.23 Basis for measuring in vivo bioavailability or demonstrating bioequivalence. #####
+
+(a)(1) The in vivo bioavailability of a drug product is measured if the product's rate and extent of absorption, as determined by comparison of measured parameters, e.g., concentration of the active drug ingredient in the blood, urinary excretion rates, or pharmacological effects, do not indicate a significant difference from the reference material's rate and extent of absorption. For drug products that are not intended to be absorbed into the bloodstream, bioavailability may be assessed by scientifically valid measurements intended to reflect the rate and extent to which the active ingredient or active moiety becomes available at the site of action.
+
+(2) Statistical techniques used must be of sufficient sensitivity to detect differences in rate and extent of absorption that are not attributable to subject variability.
+
+(3) A drug product that differs from the reference material in its rate of absorption, but not in its extent of absorption, may be considered to be bioavailable if the difference in the rate of absorption is intentional, is appropriately reflected in the labeling, is not essential to the attainment of effective body drug concentrations on chronic use, and is considered medically insignificant for the drug product.
+
+(b)(1) Two drug products will be considered bioequivalent drug products if they are pharmaceutical equivalents or pharmaceutical alternatives whose rate and extent of absorption do not show a significant difference when administered at the same molar dose of the active moiety under similar experimental conditions, either single dose or multiple dose. Some pharmaceutical equivalents or pharmaceutical alternatives may be equivalent in the extent of their absorption but not in their rate of absorption and yet may be considered bioequivalent because such differences in the rate of absorption are intentional and are reflected in the labeling, are not essential to the attainment of effective body drug concentrations on chronic use, and are considered medically insignificant for the particular drug product studied.
+
+(2) For drug products that are not intended to be absorbed into the bloodstream, bioequivalence may be demonstrated by scientifically valid methods that are expected to detect a significant difference between the drug and the listed drug in safety and therapeutic effect.
+
+[57 FR 17999, Apr. 28, 1992, as amended at 67 FR 77673, Dec. 19, 2002, 81 FR 69658, Oct. 6, 2016]

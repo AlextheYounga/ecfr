@@ -1,0 +1,3 @@
+##### § 201.323 Evidence: Official notice. #####
+
+Official notice may be taken of any material fact which might be judicially noticed by a district court of the United States, any matter in the public official records of the Commission, or any matter which is peculiarly within the knowledge of the Commission as an expert body. If official notice is requested or taken of a material fact not appearing in the evidence in the record, the parties, upon timely request, shall be afforded an opportunity to establish the contrary.

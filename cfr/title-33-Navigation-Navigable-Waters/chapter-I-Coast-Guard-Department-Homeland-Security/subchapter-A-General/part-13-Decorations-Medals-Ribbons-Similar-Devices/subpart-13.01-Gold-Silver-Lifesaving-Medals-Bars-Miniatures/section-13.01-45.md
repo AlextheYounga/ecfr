@@ -1,0 +1,3 @@
+##### § 13.01-45 Replacement of medals and bars. #####
+
+The Gold or Silver Lifesaving Medal or bar will be replaced at cost to the applicant upon submitting a statement in affidavit form of having been awarded a medal or bar and the circumstances involving loss of same. A Lifesaving Medal or bar, however, may be replaced without charge in the discretion of the Commandant, if said medal or bar has, under extremely unusual circumstances, been lost, destroyed or rendered unfit for use without fault or neglect on the part of the person to whom it was awarded.

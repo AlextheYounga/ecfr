@@ -1,0 +1,9 @@
+##### § 19.685 Change in type of alcohol fuel plant. #####
+
+(a) *Small plants.* If the proprietor of a small plant intends to increase production (including receipts) to more than 10,000 proof gallons of spirits per calendar year, the proprietor must first obtain an amended permit by filing an application for a medium plant or a large plant, as appropriate, under §§ 19.675 or 19.676. If any of the required information is already on file with TTB, that information may be incorporated by reference in the new application. The proprietor must also provide a new or strengthening bond in accordance with §§ 19.699 and 19.700.
+
+(b) *Medium plants.* If the proprietor of a medium plant intends to increase production (including receipts) to more than 500,000 proof gallons of spirits per calendar year, the proprietor must first obtain an amended permit by filing an application for a large plant under § 19.676. If any of the required information is already on file with TTB, that information may be incorporated by reference in the new application. If the penal sum of the proprietor's current bond is below the amount specified for the new production level, the proprietor must obtain a new or strengthening bond in accordance with § 19.700.
+
+(c) *Curtailment of activities.* A proprietor of a medium or large plant who curtails operations to a level whereby the proprietor is eligible to requalify as a small or medium plant may so qualify by submitting a letterhead application to the appropriate TTB officer for approval. If the appropriate TTB officer approves the application, the proprietor automatically will be relieved of those regulatory requirements that apply only to the superseded qualification. In addition, in the case of a change to small plant status, the proprietor may be allowed to terminate the bond in accordance with the procedure set forth in § 19.170 of this part.
+
+(26 U.S.C. 5181, 5271)

@@ -1,0 +1,3 @@
+##### § 479.70 Certain government entities. #####
+
+A firearm may be made without payment of the making tax by, or on behalf of, any State, or possession of the United States, any political subdivision thereof, or any official police organization of such a government entity engaged in criminal investigations. Any person making a firearm under this exemption shall first file an application, in duplicate, on Form 1 (Firearms) and obtain the approval of the Director as prescribed in § 479.62.

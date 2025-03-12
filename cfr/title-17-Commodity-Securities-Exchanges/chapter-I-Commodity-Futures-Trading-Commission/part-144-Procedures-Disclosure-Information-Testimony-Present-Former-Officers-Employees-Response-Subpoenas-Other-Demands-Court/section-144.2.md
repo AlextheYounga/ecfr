@@ -1,0 +1,7 @@
+##### § 144.2 Service upon an employee or former employee of the Commission. #####
+
+(a) Any employee of the Commission who is served or is attempted to be served with a demand of a court or other authority seeking information or documents relating to the business of the Commission shall promptly advise the General Counsel of the service or attempted service of such demand, the nature of the information or documents sought by the demand and any circumstances that may bear upon the desirability in the public interest of disclosure of the information or the production of documents.
+
+(b) Any former employee of the Commission who is served or is attempted to be served with a demand of a court or other authority seeking information or documents relating to the business of the Commission shall promptly advise the General Counsel of the service or the attempted service of such demand, the nature of the information or documents sought by the demand and any circumstances that might bear upon the desirability in the public interest of the disclosure of the information or the production of documents.
+
+(c) After such further inquiry as appropriate, the General Counsel shall advise the Commission concerning the matter.

@@ -1,0 +1,3 @@
+##### § 10.110 Settlement proposals. #####
+
+At any time in the course of a proceeding subject to this part, a person may propose settlement of the issues involved. A participant in a proceeding will have an opportunity to consider a proposed settlement. Unaccepted proposals of settlement and related matters, e.g., proposed stipulations not agreed to, will not be admissible in evidence in an FDA administrative proceeding. FDA will oppose the admission in evidence of settlement information in a court proceeding or in another administrative proceeding.

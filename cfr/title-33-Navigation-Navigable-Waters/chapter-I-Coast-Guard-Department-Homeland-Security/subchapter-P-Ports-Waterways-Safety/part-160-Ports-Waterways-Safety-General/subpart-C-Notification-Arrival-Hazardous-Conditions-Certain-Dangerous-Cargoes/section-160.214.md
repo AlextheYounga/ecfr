@@ -1,0 +1,3 @@
+##### § 160.214 Waivers. #####
+
+The Captain of the Port may waive, within that Captain of the Port's designated zone, any of the requirements of this subpart for any vessel or class of vessels upon finding that the vessel, route, area of operations, conditions of the voyage, or other circumstances are such that application of this subpart is unnecessary or impractical for purposes of safety, environmental protection, or national security.

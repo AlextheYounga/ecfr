@@ -1,0 +1,7 @@
+##### § 42.31 Family-sponsored immigrants. #####
+
+(a) *Entitlement to status.* An alien shall be classifiable as a family-sponsored immigrant under INA 203(a) (1), (2), (3) or (4) if the consular officer has received from DHS a Petition to Classify Status of Alien Relative for Issuance of Immigrant Visa approved in accordance with INA 204 to accord the alien such preference status, or official notification of such an approval, and the consular officer is satisfied that the alien has the relationship to the petitioner indicated in the petition. In the case of a petition according an alien status under INA 203(a) (1) or (3) or status as an unmarried son or daughter under INA 203(a)(2), the petitioner must be a “parent” as defined in INA 101(b)(2) and 22 CFR 40.1. In the case of a petition to accord an alien status under INA 203(a)(4) filed on or after January 1, 1977, the petitioner must be at least twenty-one years of age.
+
+(b) *Entitlement to derivative status.* Pursuant to INA 203(d), and whether or not named in the petition, the child of a family-sponsored first, second, third or fourth preference immigrant or the spouse of a family-sponsored third or fourth preference immigrant, if not otherwise entitled to an immigrant status and the immediate issuance of a visa, is entitled to a derivative status corresponding to the classification and priority date of the beneficiary of the petition.
+
+[56 FR 49676, Oct. 1, 1991, as amended at 61 FR 1836, Jan. 24, 1996]

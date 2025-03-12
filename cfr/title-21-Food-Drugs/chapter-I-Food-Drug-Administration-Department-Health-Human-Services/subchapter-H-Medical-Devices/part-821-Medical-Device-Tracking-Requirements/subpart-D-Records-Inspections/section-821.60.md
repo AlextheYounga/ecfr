@@ -1,0 +1,3 @@
+##### § 821.60 Retention of records. #####
+
+Persons required to maintain records under this part shall maintain such records for the useful life of each tracked device they manufacture or distribute. The useful life of a device is the time a device is in use or in distribution for use. For example, a record may be retired if the person maintaining the record becomes aware of the fact that the device is no longer in use, has been explanted, returned to the manufacturer, or the patient has died.

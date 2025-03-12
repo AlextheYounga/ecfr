@@ -1,0 +1,7 @@
+##### § 263.16 Program management responsibilities. #####
+
+(a) *Office, Chief of Engineers.* Two OCE elements will have primary responsibility for program management: DAEN-CWP (Sections 205, 208, 14, 107 and 103 Authorities) and DAEN-CWO (Section 3 and 111 Authorities). These elements are responsible for the staffing of all actions required of OCE by this regulation, maintaining a list of Division and District Program coordinators (as required by paragraphs (b) and (c) of this section), and evaluating the performance of the Program.
+
+(b) *Division Engineers.* Divisions are responsible for intensive management of the Program in accordance with ER 1105-2-10, and are delegated certain approval authorities by the Chief of Engineers, as given in §§ 263.15 and 263.17 of this part. Division Engineers are responsible for insuring, through intensive management, that studies are initiated and terminated at the appropriate time, and funded at the appropriate level, for efficient use of Program funds. Division Engineers are to specifically designate an individual, or individuals, within the Division office, to manage and coordinate activities under the Continuing Authorities Program.
+
+(c) *District Engineers/Operating Division Engineers.* Reporting officers are to specifically designate individuals to coordinate and manage activities under the Continuing Authorities Program. Reporting officers are responsible for insuring that the Reconnaissance investigations are conducted only to the extent required to achieve the objective established by this regulation.

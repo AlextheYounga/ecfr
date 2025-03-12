@@ -1,0 +1,3 @@
+##### § 1230.15 Responsibility for labeling directions for treatment. #####
+
+A person who receives from a manufacturer or wholesaler any container which under the conditions set forth in section 2(b)(4) of the act and § 1230.16 does not bear at the time of shipment directions for treatment in the case of personal injury must place such directions on the label or sticker if he offers such container for general sale or exchange.

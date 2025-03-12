@@ -1,0 +1,11 @@
+##### § 210.12-25 Supplementary profit and loss information. #####
+
+|                                                              Column A—Item <sup>1</sup>                                                              |Column B—Charged to investment expense|Column C—Charged to other accounts|Column D—Total|   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|----------------------------------|--------------|---|
+|                                                                     (1)—Account                                                                      |              (2)—Amount              |                                  |              |   |
+|1. Legal expenses (including those in connection with any matter, measure or proceeding before legislative bodies, officers or government departments)|                                      |                                  |              |   |
+|                                                             2. Advertising and publicity                                                             |                                      |                                  |              |   |
+|                                                           3. Sales promotion <sup>2</sup>                                                            |                                      |                                  |              |   |
+|            4. Payments directly and indirectly to trade associations and service organizations, and contributions to other organizations             |                                      |                                  |              |   |
+|                             <sup>1</sup> Amounts resulting from transactions with affiliates shall be stated separately.                             |                                      |                                  |              |   |
+|         <sup>2</sup> State separately each category of expense representing more than 5 percent of the total expense shown under this item.          |                                      |                                  |              |   |

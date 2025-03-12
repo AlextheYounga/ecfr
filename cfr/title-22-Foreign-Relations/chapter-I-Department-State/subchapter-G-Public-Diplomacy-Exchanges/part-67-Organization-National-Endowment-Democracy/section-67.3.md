@@ -1,0 +1,7 @@
+##### § 67.3 Management. #####
+
+(a) NED's operations and staff are managed by a President selected by the Board of Directors. The President is the chief executive officer of the corporation and manages the business of the corporation under the policy direction of the Board of Directors. The President directs a staff whose functions are divided among the Office of the President, a Program Section and a Finance Office.
+
+(b) The Office of the President provides policy direction and is responsible for day-to-day management of the organization, including personnel management, liaison with the Board of Directors and preparation of meetings of the Board and Board committees. The President's office also provides information concerning NED's activities to the press and public. The Program Section, under the direction of the Director of Program, is responsible for the review and preparation of proposals submitted to the Endowment and for the monitoring and evaluation of all programs funded by NED.
+
+(c) The Finance Office, under the direction of the Comptroller, is responsible, with the President and the Board of Directors, for financial management of NED's affairs, including both administrative financial management and grant management. The Director of Program and the Comptroller report to the NED President.

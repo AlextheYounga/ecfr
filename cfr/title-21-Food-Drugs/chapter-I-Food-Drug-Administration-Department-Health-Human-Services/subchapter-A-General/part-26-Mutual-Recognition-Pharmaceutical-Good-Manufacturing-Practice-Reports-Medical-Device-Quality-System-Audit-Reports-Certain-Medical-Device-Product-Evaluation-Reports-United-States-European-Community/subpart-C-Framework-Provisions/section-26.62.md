@@ -1,0 +1,7 @@
+##### § 26.62 General obligations. #####
+
+(a) The United States shall, as specified in subparts A and B of this part, accept or recognize results of specified procedures, used in assessing conformity to specified legislative, regulatory, and administrative provisions of the United States, produced by the other party's conformity assessment bodies (CAB's) and/or authorities.
+
+(b) The European Community (EC) and its Member States shall, as specified in subparts A and B of this part, accept or recognize results of specified procedures, used in assessing conformity to specified legislative, regulatory, and administrative provisions of the EC and its Member States, produced by the other party's CAB's and/or authorities.
+
+(c) Where sectoral transition arrangements have been specified in subparts A and B of this part, the obligations in paragraphs (a) and (b) of this section will apply following the successful completion of those sectoral transition arrangements, with the understanding that the conformity assessment procedures utilized assure conformity to the satisfaction of the receiving party, with applicable legislative, regulatory, and administrative provisions of that party, equivalent to the assurance offered by the receiving party's own procedures.

@@ -1,0 +1,3 @@
+##### § 96.470 How does the Coast Guard terminate an organization's authorization? #####
+
+At least every 12 months, the Coast Guard evaluates organizations authorized under this subpart. If an organization fails to maintain acceptable standards, the Coast Guard may terminate that organization's authorization, remove the organization from the Commandant's list of recognized organizations, and further evaluate the organization's recognition under 46 CFR part 8.

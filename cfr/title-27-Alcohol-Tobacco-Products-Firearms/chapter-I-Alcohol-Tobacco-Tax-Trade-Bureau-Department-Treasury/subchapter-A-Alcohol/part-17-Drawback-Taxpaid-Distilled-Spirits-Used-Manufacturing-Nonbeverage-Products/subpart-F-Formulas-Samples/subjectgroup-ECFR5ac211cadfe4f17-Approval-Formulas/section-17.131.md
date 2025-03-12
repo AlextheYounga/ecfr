@@ -1,0 +1,3 @@
+##### § 17.131 Formulas on TTB Form 5154.1. #####
+
+Upon receipt, formulas on TTB Form 5154.1 shall be examined and, if found to be medicines, medicinal preparations, food products, flavors, flavoring extracts, or perfume which are unfit for beverage purposes and which otherwise meet the requirements of law and this part, they shall be approved for drawback. If the formulas do not meet the requirements of the law and regulations for drawback products, they shall be disapproved.

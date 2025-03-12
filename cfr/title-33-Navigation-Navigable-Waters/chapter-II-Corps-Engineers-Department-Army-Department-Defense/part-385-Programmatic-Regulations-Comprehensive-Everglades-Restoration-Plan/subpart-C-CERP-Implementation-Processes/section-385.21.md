@@ -1,0 +1,7 @@
+##### § 385.21 Quality control. #####
+
+(a) The Corps of Engineers and the non-Federal sponsor shall prepare a quality control plan, in accordance with applicable Corps of Engineers regulations, for each product that will be produced by a Project Delivery Team. The quality control plan shall be included in the Project Management Plan and shall describe the procedures to be used to ensure compliance with technical and policy requirements during implementation.
+
+(b) During development of the Project Management Plan for each project, the Corps of Engineers and the non-Federal sponsor shall establish a Technical Review Team to conduct reviews to ensure that products are consistent with established criteria, guidance, procedures, and policy. The members of the Technical Review Team shall be independent of the Project Delivery Team and the project being reviewed, and should be knowledgeable of design criteria established for the Plan.
+
+(c) Technical review is intended to be a continuous process throughout project implementation. The Technical Review Team shall document its actions and recommendations and provide reports to the Project Delivery Team at designated points during the implementation process that shall be described in the quality control plan.

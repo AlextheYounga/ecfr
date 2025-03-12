@@ -1,0 +1,7 @@
+##### § 201.55 Further proceedings. #####
+
+(a) Ordinarily, the determination of an award will be made on the basis of the written record. However, on request of either the applicant or counsel for the Office or Division of the Commission, or on his or her own initiative, the administrative law judge may order further proceedings, such as an informal conference, oral argument, additional written submissions or, as to issues other than substantial justification (such as the applicant's eligibility or substantiation of fees and expenses) an evidentiary hearing. The administrative law judge may order all proceedings that are otherwise available under § 201.221 and § 201.222(a). Such further proceedings shall be held only when necessary for full and fair resolution of the issues arising from the application, and shall be conducted as promptly as possible. Whether or not the Commission's position was substantially justified shall be determined on the basis of the administrative record, as a whole, which is made in the adversary adjudication for which fees and other expenses are sought.
+
+(b) A request for further proceedings under this section shall specifically identify the information sought or the disputed issues and shall explain why the additional proceedings are necessary to resolve the issues.
+
+[47 FR 610, Jan. 6, 1982, as amended at 54 FR 53052, Dec. 27, 1989; 70 FR 72569, Dec. 5, 2005]

@@ -1,0 +1,5 @@
+##### § 866.3870 Trypanosoma spp. serological reagents. #####
+
+(a) *Identification. Trypanosoma* spp. serological reagents are devices that consist of antigens and antisera used in serological tests to identify antibodies to *Trypanosoma* spp. in serum. The identification aids in the diagnosis of trypanosomiasis, a disease caused by parasitic protozoans belonging to the genus *Trypanosoma.* Trypanosomiasis in adults is a chronic disease characterized by fever, chills, headache, and vomiting. Central nervous system involvement produces typical sleeping sickness syndrome: physical exhaustion, inability to eat, tissue wasting, and eventual death. Chagas disease, an acute form of trypanosomiasis in children, most seriously affects the central nervous system and heart muscle.
+
+(b) *Classification.* Class I (general controls).

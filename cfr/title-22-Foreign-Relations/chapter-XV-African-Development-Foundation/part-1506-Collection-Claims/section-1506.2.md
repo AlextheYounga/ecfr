@@ -1,0 +1,3 @@
+##### § 1506.2 Applicability of Federal Claims Collection Standards. #####
+
+Except as otherwise provided by law, the African Development Foundation will conduct administrative actions to collect claims (including offset, compromise, suspension, termination, disclosure and referral) in accordance with the Federal Claim Collection Standards (“FCCS”) of the General Accounting Office and Department of Justice, 4 CFR parts 101-105.

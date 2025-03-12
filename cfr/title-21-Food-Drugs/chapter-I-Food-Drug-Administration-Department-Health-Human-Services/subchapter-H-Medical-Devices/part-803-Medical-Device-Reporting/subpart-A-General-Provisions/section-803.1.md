@@ -1,0 +1,7 @@
+##### § 803.1 What does this part cover? #####
+
+(a) This part establishes the requirements for medical device reporting for device user facilities, manufacturers, importers, and distributors. If you are a device user facility, you must report deaths and serious injuries that a device has or may have caused or contributed to, establish and maintain adverse event files, and submit summary annual reports. If you are a manufacturer or importer, you must report deaths and serious injuries that your device has or may have caused or contributed to, you must report certain device malfunctions, and you must establish and maintain adverse event files. If you are a manufacturer, you must also submit specified followup. These reports help us to protect the public health by helping to ensure that devices are not adulterated or misbranded and are safe and effective for their intended use. If you are a medical device distributor, you must maintain records (files) of incidents, but you are not required to report these incidents.
+
+(b) This part supplements and does not supersede other provisions of this chapter, including the provisions of part 820 of this chapter.
+
+(c) References in this part to regulatory sections of the Code of Federal Regulations are to chapter I of title 21, unless otherwise noted.

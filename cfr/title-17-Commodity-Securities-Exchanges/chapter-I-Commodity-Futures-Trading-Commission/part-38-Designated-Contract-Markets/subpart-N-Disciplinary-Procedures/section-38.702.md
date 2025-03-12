@@ -1,0 +1,3 @@
+##### § 38.702 Disciplinary panels. #####
+
+A designated contract market must establish one or more disciplinary panels that are authorized to fulfill their obligations under the rules of this subpart. Disciplinary panels must meet the composition requirements of part 40 of this chapter, and must not include any members of the designated contract market's compliance staff or any person involved in adjudicating any other stage of the same proceeding.

@@ -1,0 +1,27 @@
+##### § 129.35 Sanitary facilities. #####
+
+Each plant shall provide adequate sanitary facilities including, but not limited to, the following:
+
+(a) *Product water and operations water* - (1) *Product water.* The product water supply for each plant shall be from an approved source properly located, protected, and operated and shall be easily accessible, adequate, and of a safe, sanitary quality which shall be in conformance at all times with the applicable laws and regulations of the government agency or agencies having jurisdiction.
+
+(2) *Operations water.* If different from the product water supply, the operations water supply shall be obtained from an approved source properly located, protected, and operated and shall be easily accessible, adequate, and of a safe, sanitary quality which shall be in conformance at all times with the applicable laws and regulations of the government agency or agencies having jurisdiction.
+
+(3) *Product water and operations water from approved sources.* (i) Samples of source water from each source in use by the plant are to be taken and analyzed by the plant as often as necessary, but at a minimum frequency of once each year for chemical contaminants and once every 4 years for radiological contaminants. Additionally, source water obtained from other than a public water system is to be sampled and analyzed for total coliform at least once each week. If any coliform organisms are detected, follow-up testing must be conducted to determine whether any of the coliform organisms are *Escherichia coli.* This sampling is in addition to any performed by government agencies having jurisdiction. Source water found to contain *E. coli* is not considered water of a safe, sanitary quality as required for use in bottled water by paragraph (a)(1) of this section. Before a bottler can use source water from a source that has tested positive for *E. coli*, the bottler must take appropriate measures to rectify or otherwise eliminate the cause of *E. coli* contamination of that source in a manner sufficient to prevent its reoccurrence. A source previously found to contain *E. coli* will be considered negative for *E. coli* after five samples collected over a 24-hour period from the same sampling site that originally tested positive for *E. coli* are tested and found to be *E. coli* negative. Records of approval of the source water by government agencies having jurisdiction, records of sampling and analyses for which the plant is responsible, and records describing corrective measures taken in response to a finding of *E. coli* are to be maintained on file at the plant.
+
+(ii) Test and sample methods shall be those recognized and approved by the government agency or agencies having jurisdiction over the approval of the water source, and shall be consistent with the minimum requirements set forth in § 165.110(b) of this chapter.
+
+(iii) Analysis of the sample may be performed for the plant by competent commercial laboratories (e.g., Environmental Protection Agency (EPA) and State-certified laboratories).
+
+(4) *Source water testing exemptions.* (i) Firms that use a public water system for source water may substitute public water system testing results, or certificates showing full compliance with all provisions of EPA National Primary and Secondary Drinking Water Regulations pertaining to chemical contaminants (40 CFR parts 141 and 143), for the testing requirements of § 129.35(a)(3).
+
+(ii) Firms that do not use a public water system as the source of their water may reduce the frequency of their testing of that source, as well as the number of chemical contaminants for which they test the source water, if they can document that such reduction is consistent with a State-issued waiver under EPA regulations (40 CFR parts 141 and 143).
+
+(iii) Firms that do not use a public water system as the source of their water and whose source water has not been treated with a chlorine-based disinfectant or ozone do not have to test their source water for the residual disinfectants and DBP's listed in § 165.110(b)(4)(iii)(H) of this chapter. Firms that do not use a public water system as the source of their water but whose source water has been treated with a chlorine-based disinfectant or ozone must test their source water for the residual disinfectants and the DBP's listed in § 165.110(b)(4)(iii)(H) that are likely to result from such treatment.
+
+(iv) The finished bottled water must comply with bottled water quality standards (§ 165.110(b) of this chapter) and section 402(a)(1) and (a)(3) of the Federal Food, Drug, and Cosmetic Act dealing with adulterated foods.
+
+(b) *Air under pressure.* Whenever air under pressure is directed at product water or a product water-contact surface, it shall be free of oil, dust, rust, excessive moisture, and extraneous materials; shall not affect the bacteriological quality of the water; and should not adversely affect the flavor, color, or odor of the water.
+
+(c) *Locker and lunchrooms.* When employee locker and lunchrooms are provided, they shall be separate from plant operations and storage areas and shall be equipped with self-closing doors. The rooms shall be maintained in a clean and sanitary condition and refuse containers should be provided. Packaging or wrapping material or other processing supplies shall not be stored in locker or lunchrooms.
+
+[42 FR 14355, Mar. 15, 1977, as amended at 44 FR 12175, Mar. 6, 1979; 60 FR 57123, Nov. 13, 1995; 66 FR 16865, Mar. 28, 2001; 74 FR 25664, May 29, 2009]

@@ -1,0 +1,11 @@
+##### § 31.18 Margin calls. #####
+
+(a) No leverage transaction merchant shall liquidate a leverage contract because of a margin deficiency without effecting personal contact with the leverage customer. If a leverage transaction merchant is unable to effect personal contact with a leverage customer, a telegram sent to the leverage customer at the address furnished by the customer to the leverage transaction merchant shall be sufficient contact.
+
+(b) A leverage transaction merchant shall allow a leverage customer a reasonable time after contact is effected in which to respond to a margin call. Twenty-four hours, excluding Saturdays, Sundays, and holidays, will be a reasonable time: *Provided, however,* That in the event the leverage customer's leverage account equity falls below 50 percent of aggregate minimum margin with respect to the leverage contracts therein, the leverage transaction merchant may liquidate sufficient contracts to restore minimum margin without prior notice: *Provided, further,* That the leverage customer must be notified of such liquidation within no more than 24 hours thereafter and must be permitted to re-establish his contract for a period of 5 business days at the then prevailing bid price in the case of a long leverage contract and at the then prevailing ask price in the case of a short leverage contract, without commissions, fees or other mark-ups or charges. If a termination charge was assessed by the leverage transaction merchant upon liquidation of a contract in accordance with the first proviso of this paragraph, such a charge must be rescinded upon re-establishment of the contract in accordance with the second proviso of this paragraph.
+
+(c) A record of all margin calls, including all contacts with leverage customers and attempts to contact leverage customers with respect to such calls, shall be kept by the leverage transaction merchant in accordance with the provisions of § 31.14.
+
+(d) Leverage contracts liquidated by a leverage transaction merchant because of a margin deficiency must be liquidated in declining order of loss, commencing with the leverage contract with the greatest loss.
+
+(Secs. 8a(5) and 19 of the Commodity Exchange Act, as amended, 7 U.S.C. 12a(5) and 23 (1982))[49 FR 5540, Feb. 13, 1984, as amended at 50 FR 34, Jan. 2, 1985; 50 FR 36416, Sept. 6, 1985]

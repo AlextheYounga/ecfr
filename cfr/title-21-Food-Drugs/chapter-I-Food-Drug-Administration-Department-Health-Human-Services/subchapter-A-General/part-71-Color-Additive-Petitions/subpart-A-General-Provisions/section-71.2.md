@@ -1,0 +1,7 @@
+##### § 71.2 Notice of filing of petition. #####
+
+(a) Except where the petition involves a new drug, the Commissioner, within 15 days after receipt, will notify the petitioner of acceptance or nonacceptance of a petition, and if not accepted the reasons therefor. If accepted, the date of the notification letter sent to petitioner becomes the date of filing for the purposes of section 721(d)(1) of the act. If the petitioner desires, he may supplement a deficient petition after being notified regarding deficiencies. If the supplementary material or explanation of the petition is deemed acceptable, petitioner shall be notified. The date of such notification becomes the date of filing. If the petitioner does not wish to supplement or explain the petition and requests in writing that it be filed as submitted, the petition shall be filed and the petitioner so notified. The date of such notification becomes the date of filing. Where the petition involves a new drug, notification to the petitioner will be made in accordance with § 70.10(b)(3) of this chapter.
+
+(b) The Commissioner will cause to be published in the Federal Register within 30 days from the date of filing of such petition a notice of the filing, the name of the petitioner, and a brief description of the proposal in general terms. A copy of the notice will be mailed to the petitioner when the original document is signed.
+
+[42 FR 15639, Mar. 22, 1977, as amended at 64 FR 400, Jan. 5, 1999]

@@ -1,0 +1,5 @@
+##### § 51.65 Notification of denial or revocation of passport. #####
+
+(a) The Department will notify in writing any person whose application for issuance of a passport has been denied, or whose passport has been revoked. The notification will set forth the specific reasons for the denial or revocation, and, if applicable, the procedures for review available under 22 CFR 51.70 through 51.74.
+
+(b) An application for a passport will be denied or treated as abandoned if an applicant fails to meet his or her burden of proof under 22 CFR 51.23(a) and 51.40 or otherwise does not provide documentation sufficient to establish entitlement to passport issuance within ninety days of notification by the Department that additional information from the applicant is required. Thereafter, if an applicant wishes to pursue a claim of entitlement to passport issuance, he or she must submit a new application and supporting documents, photographs, and statements in support of the application, along with applicable application and execution fees.

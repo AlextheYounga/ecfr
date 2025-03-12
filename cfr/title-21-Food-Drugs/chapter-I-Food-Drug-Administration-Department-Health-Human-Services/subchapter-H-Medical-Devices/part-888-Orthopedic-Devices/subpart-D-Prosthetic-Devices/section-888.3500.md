@@ -1,0 +1,5 @@
+##### § 888.3500 Knee joint femorotibial metal/composite semi-constrained cemented prosthesis. #####
+
+(a) *Identification.* A knee joint femorotibial metal/composite semi-constrained cemented prosthesis is a two-part device intended to be implanted to replace part of a knee joint. The device limits translation and rotation in one or more planes via the geometry of its articulating surfaces. It has no linkage across-the-joint. This generic type of device includes prostheses that have a femoral component made of alloys, such as cobalt-chromium-molybdenum, and a tibial component with the articulating surfaces made of ultra-high molecular weight polyethylene with carbon-fibers composite and is limited to those prostheses intended for use with bone cement (§ 888.3027).
+
+(b) *Classification.* Class II.

@@ -1,0 +1,11 @@
+##### § 149.610 What must the District Commander be notified of and when? #####
+
+The District Commander must be notified of the following:
+
+|                                                                          When—                                                                          |                                         The District Commander must be notified—                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+|                                   (a) Construction of a pipeline, platform, or single point mooring (SPM) is planned                                    |                                       At least 30 days before construction begins.                                       |
+|                                                 (b) Construction of a pipeline, platform, or SPM begins                                                 |Within 24 hours, from the date construction begins, that the lights and sound signals are in use at the construction site.|
+|                                               (c) A light or sound signal is changed during construction                                                |                                              Within 24 hours of the change.                                              |
+|(d) Lights or sound signals used during construction of a platform, buoy, or SPM are replaced by permanent fixtures to meet the requirements of this part|                                             Within 24 hours of replacement.                                              |
+|                                                      (e) The first cargo transfer operation begins                                                      |                                          At least 60 days before the operation.                                          |

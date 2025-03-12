@@ -1,0 +1,7 @@
+##### § 270.30d-1 Filing of copies of reports to shareholders. #####
+
+Link to an amendment published at 81 FR 82021, Nov. 18, 2016.This amendment was delayed until May 1, 2020, at 82 FR 58731, Dec. 14, 2017.
+
+A registered management investment company, other than a small business investment company registered on Form N-5 (§§ 239.24 and 274.5 of this chapter), that is required to file annual and quarterly reports pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a) or 78o(d)) shall satisfy its requirement to file such reports by the filing, in accordance with the rules and procedures specified therefor, of reports on Form N-CSR (§§ 249.331 and 274.128 of this chapter) and Form N-Q (§§ 249.332 and 274.130 of this chapter). A registered unit investment trust or a small business investment company registered on Form N-5 that is required to file annual and quarterly reports pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934 shall satisfy its requirement to file such reports by the filing, in accordance with the rules and procedures specified therefor, of reports on Form N-SAR (§§ 249.330 and 274.101 of this chapter).
+
+[69 FR 11264, Mar. 9, 2004]

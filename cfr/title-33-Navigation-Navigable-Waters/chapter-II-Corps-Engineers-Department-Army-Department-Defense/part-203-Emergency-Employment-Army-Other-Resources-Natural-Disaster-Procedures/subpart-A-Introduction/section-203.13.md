@@ -1,0 +1,15 @@
+##### § 203.13 Available assistance. #####
+
+Corps assistance provided under authority of Public Law 84-99 is intended to be supplemental to State and local efforts. The principal assistance programs and activities of the Corps are described in this section.
+
+(a) *Disaster preparedness.* Technical assistance for many types of disasters is available to State and local interests. Primary Corps efforts are focused on technical assistance for, and inspections of, flood control works, and related flood fight preparedness and training activities. Technical assistance for specialized studies, project development, and related activities, and requirements for long term assistance, are normally beyond the scope of disaster preparedness assistance, and are appropriately addressed by other Corps authorities and programs. Subpart B addresses disaster preparedness responsibilities and activities.
+
+(b) *Emergency operations.* Emergency operations, consisting of Flood Response (flood fight and rescue operations) and Post Flood Response assistance, may be provided to supplement State and local emergency operations efforts. Subpart C of this part addresses emergency operations assistance.
+
+(c) *Rehabilitation.* The Corps may rehabilitate flood control works damaged or destroyed by floods and coastal storms. The Corps Rehabilitation and Inspection Program (RIP) incorporates both disaster preparedness activities and Rehabilitation Assistance. The RIP consists of a process to inspect flood control works; a status determination, *i.e.,* an inspection-based determination of qualification for future potential Rehabilitation Assistance; and the provision of Rehabilitation Assistance to those projects with Active status that are damaged in a flood or coastal storm event. Subpart D addresses Rehabilitation Assistance and the RIP.
+
+(d) *Emergency water supplies due to contaminated water source.* The Corps may provide emergency supplies of clean water to any locality confronted with a source of contaminated water causing, or likely to cause, a substantial threat to the public health and welfare of the inhabitants of the locality. Subpart E addresses emergency water supply assistance.
+
+(e) *Drought assistance.* Corps assistance may be provided to drought-distressed areas (as declared by the Secretary of the Army or his delegated nominee) to construct wells and to transport water for human consumption. Subpart E addresses drought assistance.
+
+(f) *Advance Measures.* Advance Measures assistance may be provided to protect against imminent threats of predicted, but unusual, floods. Advance Measures projects must be justified from an engineering and economic standpoint, and must be capable of completion in a timely manner. Advance Measures assistance may be provided only to protect against loss of life and/or significant damages to improved property due to flooding. Subpart F of this part addresses Advance Measures assistance.

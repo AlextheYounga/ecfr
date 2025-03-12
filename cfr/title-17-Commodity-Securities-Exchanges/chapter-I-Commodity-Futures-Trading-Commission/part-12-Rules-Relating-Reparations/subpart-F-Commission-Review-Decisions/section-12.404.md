@@ -1,0 +1,5 @@
+##### § 12.404 The record of proceedings. #####
+
+The record of proceedings on appeal before the Commission shall include: The pleadings; motions and requests filed, and rulings thereon; the transcript of the testimony taken at an oral hearing, together with the exhibits filed therein; the transcript of testimony taken during an oral examination by telephone; any statements or stipulations filed in any proceeding; any documents or papers filed in connection with prehearing conferences; such proposed findings of fact, conclusions, and orders and briefs as may have been permitted to be filed in connection with an oral hearing; such statements of objections, and briefs in support thereof, as may have been filed in the proceedings; and the initial (or final) decision, or other order disposing of issues in the proceeding.
+
+[49 FR 6621, Feb. 22, 1984, as amended at 59 FR 9638, Mar. 1, 1994]

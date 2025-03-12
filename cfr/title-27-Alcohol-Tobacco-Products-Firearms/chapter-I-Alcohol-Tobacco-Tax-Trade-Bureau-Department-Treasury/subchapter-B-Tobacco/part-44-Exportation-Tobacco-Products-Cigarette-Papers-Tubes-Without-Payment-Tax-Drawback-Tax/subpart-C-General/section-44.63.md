@@ -1,0 +1,5 @@
+##### § 44.63 Restrictions on disposal of tobacco products, and cigarette papers and tubes on vessels and aircraft. #####
+
+Tobacco products, and cigarette papers and tubes delivered to a vessel or aircraft, without payment of tax, pursuant to § 44.62, shall not be sold, offered for sale, or otherwise disposed of until the vessel or aircraft is outside the jurisdiction of the internal revenue laws of the United States, i.e., outside the 3-mile limit or international boundary, as the case may be, of the United States. Where the vessel or aircraft returns within the jurisdiction of the internal revenue laws with such articles on board, the articles shall be subject to treatment under the tariff laws of the United States.
+
+(72 Stat. 1418, as amended; 26 U.S.C. 5704; 19 U.S.C. 1317)[T.D. 6871, 31 FR 49, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28088, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986]

@@ -1,0 +1,17 @@
+##### § 70.29 Suspension of statutes of limitations. #####
+
+(a) *Suspension while a proceeding under 26 U.S.C. 7609(b) is pending.* Under 26 U.S.C. 7609(e)(1), the statutes of limitations of 26 U.S.C. 6501 and 6531 are suspended if a notified person with respect to whose liability a summons is issued, or the notified person's agent, nominee, or other person acting under the direction or control of the notified person, takes any action as provided in 26 U.S.C. 7609(b).
+
+(1) *Agent, nominee, etc.* A person is a notified person's agent, nominee, or other person acting under the direction or control of a notified person for purposes of 26 U.S.C. 7609(e) if the person with respect to whose liability the summons is issued has the ability in fact or at law to cause the agent, etc., to take the actions permitted under 26 U.S.C. 7609(b). Thus, in the case of a corporation, direction or control by the notified person may exist even though less than 50 percent of the voting power of the corporation is held by the notified person.
+
+(2) *Period during which a proceeding, etc., is pending.* Under 26 U.S.C. 7609(e), the statute of limitations shall be suspended for the period during which a proceeding and any appeals regarding the enforcement of such summons is pending. This period begins on the date the petition to quash the summons is filed in district court. The period continues until all appeals are disposed of, or until the expiration of the period in which an appeal may be taken or a request for a rehearing may be made. Full compliance, partial compliance, and noncompliance have no effect on the suspension provisions. The periods of limitations which are suspended under 26 U.S.C. 7609(e) are those which apply to the taxable periods to which the summons relates.
+
+(3) *Taking of action as provided in 26 U.S.C. 7609(b).* Title 26 U.S.C. 7609(b) allows intervention by a notified person as a matter of right upon compliance with the Federal Rules of Civil Procedure. The phrase “takes any action as provided in subsection (b)”, found in 26 U.S.C. 7609(e), includes any intervention whether or not 26 U.S.C. 7609(b) is specifically mentioned in the order of the court allowing intervention. The phrase also includes the fulfilling of only part of the requirements of 26 U.S.C. 7609(b)(2), relating to the right of a person to institute a proceeding to quash. Thus, for instance, if a notified person notifies a person who has been summoned by sending a copy of the petition by registered or certified mail but does not mail a copy of that notice to the appropriate person and office under 26 U.S.C. 7609(b)(2)(B), the notified person has taken an action under 26 U.S.C. 7609(e).
+
+(b) *Suspension after 6 months of service of summons.* In the absence of the resolution of the third-party recordkeeper's response to the summons described in 26 U.S.C. 7609(c) or the summoned party's response to a summons described in 26 U.S.C. 7609(f) the running of any period of limitations under 26 U.S.C. 6501 or under 26 U.S.C. 6531 with respect to any person with respect to whose liability the summons is issued (other than a person taking action as provided in 26 U.S.C. 7609(b)) shall be suspended for the period:
+
+(1) Beginning on the date which is 6 months after the service of such summons, and
+
+(2) Ending with the final resolution of such response.
+
+(26 U.S.C. 7609)[T.D. ATF-301, 55 FR 47610, Nov. 14, 1990]

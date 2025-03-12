@@ -1,0 +1,5 @@
+##### § 5.56 Certificates of age and origin. #####
+
+Distilled spirits that would be required under § 5.52 to be covered by a certificate of age and/or a certificate of origin and that are imported in bulk for bottling in the United States may be removed from the plant where bottled only if the bottler possesses a certificate of age and/or a certificate of origin, issued by an official duly authorized by the foreign government as set forth in § 5.52, applicable to the spirits that provides the same information as a certificate required under § 5.52 would provide for like spirits imported in bottles. The bottler of distilled spirits imported in bulk must retain for five years following the removal of such spirits from the domestic plant where bottled copies of the certificates required by § 5.52(a) through (e), and must provide them upon request of the appropriate TTB officer.
+
+(Approved by the Office of Management and Budget under control number 1513-0064)[T.D. TTB-145, 81 FR 94199, Dec. 22, 2016]

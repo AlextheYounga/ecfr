@@ -1,0 +1,5 @@
+##### § 44.208 For export by parcel post. #####
+
+Where tobacco products, and cigarette papers and tubes are removed from a factory or an export warehouse, for export by parcel post, the manufacturer or export warehouse proprietor shall present one copy of the notice of removal, Form 5200.14, together with the shipping containers, to the postal authorities with the request that the postmaster or his agent execute the certificate of mailing on the form. Where the manufacturer or export warehouse proprietor so desires, he may cover under one notice of removal all the merchandise removed under this part for export by parcel post which is delivered at one time to the postal service for that purpose. The manufacturer or export warehouse proprietor shall immediately file the receipted copy of the notice of removal with the appropriate TTB officer.
+
+(72 Stat. 1418, as amended; 26 U.S.C. 5704)[T.D. 6871, 31 FR 54, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28089, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-421, 64 FR 71926, Dec. 22, 1999]

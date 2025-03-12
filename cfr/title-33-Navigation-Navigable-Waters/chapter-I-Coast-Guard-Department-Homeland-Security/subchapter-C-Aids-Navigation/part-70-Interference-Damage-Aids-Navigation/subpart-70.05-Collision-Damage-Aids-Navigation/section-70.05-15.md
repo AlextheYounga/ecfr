@@ -1,0 +1,3 @@
+##### § 70.05-15 Liability for damages. #####
+
+Any boat, vessel, scow, raft or other craft used or employed in violating any of the provisions of § 70.05-1 shall be liable for the pecuniary penalties specified in § 70.05-5, and in addition thereto for the amount of damage done by said boat, vessel, scow, raft or other craft, which may be proceeded against summarily by way of libel in any district court of the United States having jurisdiction thereof.

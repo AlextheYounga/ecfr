@@ -1,0 +1,5 @@
+##### § 44.243 Bond required. #####
+
+Where the customs warehouse proprietor desires to withdraw cigars from his warehouse, without payment of tax, under this subpart, he shall, prior to making the first withdrawal, file a bond, Form 2104 (5200.15), conditioned upon compliance with the provisions of 26 U.S.C. chapter 52, and regulations thereunder, including, but not limited to, the timely payment of taxes imposed by such chapter, for which he may be responsible to the United States, and penalties and interest in connection therewith. The provisions of §§ 44.121 and 44.122 are applicable to the bond required under this section.
+
+[25 FR 4725, May 28, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55856, Sept. 28, 1979; T.D. ATF-460, 66 FR 39093, July 27, 2001; T.D. ATF-480, 67 FR 30803, May 8, 2002]

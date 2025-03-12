@@ -1,0 +1,21 @@
+##### § 184.1685 Rennet (animal-derived) and chymosin preparation (fermentation-derived). #####
+
+(a)(1) Rennet and bovine rennet are commercial extracts containing the active enzyme rennin (CAS Reg. No. 9001-98-3), also known as chymosin (International Union of Biochemistry Enzyme Commission (E.C.) 3.4.23.4). Rennet is the aqueous extract prepared from cleaned, frozen, salted, or dried fourth stomachs (abomasa) of calves, kids, or lambs. Bovine rennet is the product from adults of the animals listed above. Both products are called rennet and are clear amber to dark brown liquid preparations or white to tan powders.
+
+(2) Chymosin preparation is a clear solution containing the active enzyme chymosin (E.C. 3.4.23.4). It is derived, via fermentation, from a nonpathogenic and nontoxigenic strain of *Escherichia coli* K-12 containing the prochymosin gene. The prochymosin is isolated as an insoluble aggregate that is acid-treated to destroy residual cellular material and, after solubilization, is acid-treated to form chymosin. It must be processed with materials that are generally recognized as safe, or are food additives that have been approved by the Food and Drug Administration for this use.
+
+(3) Chymosin preparation is a clear solution containing the active enzyme chymosin (E.C. 3.4.23.4). It is derived, via fermentation, from a nonpathogenic and nontoxigenic strain of *Kluyveromyces marxianus* variety *lactis,* containing the prochymosin gene. The prochymosin is secreted by cells into fermentation broth and converted to chymosin by acid treatment. All materials used in the processing and formulating of chymosin must be either generally recognized as safe (GRAS), or be food additives that have been approved by the Food and Drug Administration for this use.
+
+(4) Chymosin preparation is a clear solution containing the active enzyme chymosin (E.C. 3.4.23.4). It is derived, via fermentation, from a nonpathogenic and nontoxigenic strain of *Aspergillus niger* van Tieghem variety *awamori* (Nakazawa) Al-Musallam (synonym *A. awamori* Nakazawa) containing the prochymosin gene. Chymosin is recovered from the fermentation broth after acid treatment. All materials used in the processing and formulating of chymosin preparation must be either generally recognized as safe (GRAS) or be food additives that have been approved by the Food and Drug Administration for this use.
+
+(b) Rennet and chymosin preparation meet the general and additional requirements for enzyme preparations of the “Food Chemicals Codex,” 3d Ed. (1981), pp. 107-110, which is incorporated by reference in accordance with 5 U.S.C. 552(a). Copies are available from the National Academy Press, 2101 Constitution Avenue NW., Washington, DC 20418, or are available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) In accordance with § 184.1(b)(1), the ingredient is used in food with no limitation other than current good manufacturing practice. The affirmation of this ingredient as generally recognized as safe as a direct human food ingredient is based upon the following current good manufacturing practice conditions of use:
+
+(1) The ingredient is used as an enzyme as defined in § 170.3(o)(9) of this chapter; a processing aid as defined in § 170.3(o)(24) of this chapter; and a stabilizer and thickener as defined in § 170.3(o)(28) of this chapter.
+
+(2) The ingredient is used in the following foods at levels not to exceed current good manufacturing practice: In cheeses as defined in § 170.3(n)(5) of this chapter; frozen dairy desserts and mixes as defined in § 170.3(n)(20) of this chapter; gelatins, puddings, and fillings as defined in § 170.3(n)(22) of this chapter; and milk products as defined in § 170.3(n)(31) of this chapter.
+
+(d) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived.
+
+[55 FR 10935, Mar. 23, 1990, as amended at 57 FR 6479, Feb. 25, 1992; 58 FR 27202, May 7, 1993]

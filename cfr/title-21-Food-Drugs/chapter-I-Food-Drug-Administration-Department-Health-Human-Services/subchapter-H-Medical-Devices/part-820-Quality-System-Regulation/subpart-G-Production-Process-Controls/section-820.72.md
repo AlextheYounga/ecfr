@@ -1,0 +1,9 @@
+##### § 820.72 Inspection, measuring, and test equipment. #####
+
+(a) *Control of inspection, measuring, and test equipment.* Each manufacturer shall ensure that all inspection, measuring, and test equipment, including mechanical, automated, or electronic inspection and test equipment, is suitable for its intended purposes and is capable of producing valid results. Each manufacturer shall establish and maintain procedures to ensure that equipment is routinely calibrated, inspected, checked, and maintained. The procedures shall include provisions for handling, preservation, and storage of equipment, so that its accuracy and fitness for use are maintained. These activities shall be documented.
+
+(b) *Calibration.* Calibration procedures shall include specific directions and limits for accuracy and precision. When accuracy and precision limits are not met, there shall be provisions for remedial action to reestablish the limits and to evaluate whether there was any adverse effect on the device's quality. These activities shall be documented.
+
+(1) *Calibration standards.* Calibration standards used for inspection, measuring, and test equipment shall be traceable to national or international standards. If national or international standards are not practical or available, the manufacturer shall use an independent reproducible standard. If no applicable standard exists, the manufacturer shall establish and maintain an in-house standard.
+
+(2) *Calibration records.* The equipment identification, calibration dates, the individual performing each calibration, and the next calibration date shall be documented. These records shall be displayed on or near each piece of equipment or shall be readily available to the personnel using such equipment and to the individuals responsible for calibrating the equipment.

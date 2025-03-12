@@ -1,0 +1,3 @@
+##### § 111.170 What requirements apply to rejected components, packaging, and labels, and to rejected products that are received for packaging or labeling as a dietary supplement? #####
+
+You must clearly identify, hold, and control under a quarantine system for appropriate disposition any component, packaging, and label, and any product that you receive for packaging or labeling as a dietary supplement (and for distribution rather than for return to the supplier), that is rejected and unsuitable for use in manufacturing, packaging, or labeling operations.

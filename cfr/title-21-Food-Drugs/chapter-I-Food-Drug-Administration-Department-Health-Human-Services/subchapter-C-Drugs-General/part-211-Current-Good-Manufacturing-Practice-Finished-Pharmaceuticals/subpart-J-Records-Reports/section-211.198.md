@@ -1,0 +1,13 @@
+##### § 211.198 Complaint files. #####
+
+(a) Written procedures describing the handling of all written and oral complaints regarding a drug product shall be established and followed. Such procedures shall include provisions for review by the quality control unit, of any complaint involving the possible failure of a drug product to meet any of its specifications and, for such drug products, a determination as to the need for an investigation in accordance with § 211.192. Such procedures shall include provisions for review to determine whether the complaint represents a serious and unexpected adverse drug experience which is required to be reported to the Food and Drug Administration in accordance with §§ 310.305 and 514.80 of this chapter.
+
+(b) A written record of each complaint shall be maintained in a file designated for drug product complaints. The file regarding such drug product complaints shall be maintained at the establishment where the drug product involved was manufactured, processed, or packed, or such file may be maintained at another facility if the written records in such files are readily available for inspection at that other facility. Written records involving a drug product shall be maintained until at least 1 year after the expiration date of the drug product, or 1 year after the date that the complaint was received, whichever is longer. In the case of certain OTC drug products lacking expiration dating because they meet the criteria for exemption under § 211.137, such written records shall be maintained for 3 years after distribution of the drug product.
+
+(1) The written record shall include the following information, where known: the name and strength of the drug product, lot number, name of complainant, nature of complaint, and reply to complainant.
+
+(2) Where an investigation under § 211.192 is conducted, the written record shall include the findings of the investigation and followup. The record or copy of the record of the investigation shall be maintained at the establishment where the investigation occurred in accordance with § 211.180(c).
+
+(3) Where an investigation under § 211.192 is not conducted, the written record shall include the reason that an investigation was found not to be necessary and the name of the responsible person making such a determination.
+
+[43 FR 45077, Sept. 29, 1978, as amended at 51 FR 24479, July 3, 1986; 68 FR 15364, Mar. 31, 2003]

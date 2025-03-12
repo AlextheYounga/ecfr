@@ -1,0 +1,19 @@
+##### § 1.60 Pending legal proceedings. #####
+
+(a) Every contract market shall submit to the Commission copies of the complaint, any dispositive or partially dispositive decision, any notice of appeal filed concerning such decisions and such further documents as the Commission may thereafter request filed in any material legal proceeding to which the contract market is a party or its property or assets is subject.
+
+(b) Every futures commission merchant shall sumit to the Commission copies of any dispositive or partially dispositive decision for which a notice of appeal has been filed, the notice of appeal and such further documents as the Commission may thereafter request filed in any material legal proceeding to which the futures commission merchant is a party or its property or assets is subjects.
+
+(c) Every contract market shall submit to the Commission copies of the complaint, any dispositive or partially dispositive decision, any notice of appeal filed concerning such decisions and such further documents as the Commission may thereafter request filed in any material legal proceeding instituted against any officer, director, or other official of the contract market arising from conduct in such person's capacity as a contract market official and alleging violations of:
+
+(1) The act or any rule, regulation, or order thereunder;
+
+(2) the constitution, bylaws or rules of the contract market; or
+
+(3) the applicable provisions of state law relating to the duties of officers, directors, or other officials of business organizations.
+
+(d) Every futures commission merchant shall submit to the Commission copies of any dispositive or partially dispositive decision concerning which a notice of appeal has been filed, the notice of appeal, and such further documents as the Commission may thereafter request filed in any material legal proceeding instituted against any person who is a principal of the futures commission merchant (as that term is defined in § 3.1(a) of this chapter) arising from conduct in such person's capacity as a principal of the futures commission merchant and alleging violations of: (1) The Act or any rule, regulation, or order thereunder; or (2) provisions of state law relating to a duty or obligation owed by such a principal.
+
+(e) All documents required by this section to be submitted to the Commission shall be mailed via first-class or submitted by other more expeditious means to the Commission's headquarters office in Washington, DC, Attention: Office of the General Counsel. All documents required by this section to be submitted to the Commission as to matters pending on the effective date of the section (May 25, 1984), shall be mailed to the Commission within 45 days of that effective date. Thereafter, all complaints required by this section to be submitted to the Commission by contract markets shall be mailed to the Commission within 10 days after the initiation of the legal proceedings to which they relate, all decisions required to be submitted by contract markets shall be mailed within 10 days of their date of issuance, all notices of appeal required to be submitted by contract markets shall be mailed within 10 days of the filing or receipt by the contract market of the notice of appeal, and all decisions and notices of appeal required to be submitted by futures commission merchants shall be mailed within 10 days of the filing or receipt by the futures commission merchant of the relevant notice of appeal. For purposes of paragraph (a), (b), (c) and (d) of this rule, a “material legal proceeding” includes but is not limited to actions involving alleged violations of the Commodity Exchange Act or the Commission's regulations. However, a legal proceeding is not “material” for the purposes of this rule if the proceeding is not in a federal or state court or if the Commission is a party.
+
+[49 FR 17750, Apr. 25, 1984]

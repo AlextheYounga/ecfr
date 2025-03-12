@@ -1,0 +1,3 @@
+##### § 230.608 Prohibition of certain statements. #####
+
+No offering circular or other written or oral communication used in connection with any offering under §§ 230.601 to 230.610a shall contain any language stating or implying that the Commission has in any way passed upon the merits of, or given approval to, guaranteed or recommended the securities offered or the terms of the offering or has determined that the securities are exempt from registration, or has made any finding that the statements in any such offering circular or other communication are accurate or complete.

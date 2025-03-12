@@ -1,0 +1,7 @@
+##### § 128.4 Default. #####
+
+(a) *Failure to answer.* If the respondent fails to answer the charging letter, the respondent may be held in default. The case shall then be referred to the Administrative Law Judge for consideration in a manner as the Administrative Law Judge may consider appropriate. Any order issued shall have the same effect as an order issued following the disposition of contested charges.
+
+(b) *Petition to set aside defaults.* Upon showing good cause, any respondent against whom a default order has been issued may apply to set aside the default and vacate the order entered thereon. The petition shall be submitted to duplicate to the Assistant Secretary for Political-Military Affairs, U.S. Department of State, 2201 C Street, NW., Washington, DC 20520. The Director will refer the petition to the Administrative Law Judge for consideration and a recommendation. The Administrative law Judge will consider the application and may order a hearing and require the respondent to submit further evidence in support of his or her petition. The filing of a petition to set aside a default does not in any manner affect an order entered upon default and such order continues in full force and effect unless a further order is made modifying or terminating it.
+
+[61 FR 48832, Sept. 17, 1996]

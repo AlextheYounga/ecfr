@@ -1,0 +1,5 @@
+##### § 316.12 Providing written recommendations. #####
+
+(a) FDA will provide the sponsor with written recommendations concerning the nonclinical laboratory studies and clinical investigations necessary for approval of a marketing application if none of the reasons described in § 316.14 for refusing to do so applies.
+
+(b) When a sponsor seeks written recommendations at a stage of drug development at which advice on any clinical investigations, or on particular investigations would be premature, FDA's response may be limited to written recommendations concerning only nonclinical laboratory studies, or only certain of the clinical studies (e.g., Phase 1 studies as described in § 312.21 of this chapter). Prior to providing written recommendations for the clinical investigations required to achieve marketing approval, FDA may require that the results of the nonclinical laboratory studies or completed early clinical studies be submitted to FDA for agency review.

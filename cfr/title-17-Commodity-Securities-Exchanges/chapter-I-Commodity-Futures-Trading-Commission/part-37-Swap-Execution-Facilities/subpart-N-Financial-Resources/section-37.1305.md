@@ -1,0 +1,3 @@
+##### § 37.1305 Liquidity of financial resources. #####
+
+The financial resources allocated by the swap execution facility to meet the requirements of § 37.1301 shall include unencumbered, liquid financial assets (*i.e.,* cash and/or highly liquid securities) equal to at least six months' operating costs. If any portion of such financial resources is not sufficiently liquid, the swap execution facility may take into account a committed line of credit or similar facility for the purpose of meeting this requirement.

@@ -1,0 +1,5 @@
+##### § 3.35-40 Sector Key West Marine Inspection Zone and Captain of the Port Zone. #####
+
+Sector Key West's office is located in Key West, FL. The boundaries of Sector Key West's Marine Inspection Zone and Captain of the Port Zone start at the outermost extent of the EEZ at latitude 25°11′34″ N, longitude 79°41′31″ W, proceeding northeast to the Miami-Dade County, FL boundary at latitude 25°24′52″ N, longitude 80°19′39″ W; thence west along the southern boundary of Miami-Dade County to the western boundary at latitude 25°10′36″ N, longitude 80°51′29″ W; thence north along the western boundary of Miami-Dade County to the southern boundary of Collier County, FL; thence west along the southern boundary of Collier County to latitude 25°48′12″ N, longitude 81°20′39″ W; thence southwest to the outermost extent of the EEZ at latitude 24°18′57″ N, longitude 84°50′48″ W; thence east and then north along the outermost extent of the EEZ to the point of origin.
+
+[USCG-2006-25556, 72 FR 36322, July 2, 2007]

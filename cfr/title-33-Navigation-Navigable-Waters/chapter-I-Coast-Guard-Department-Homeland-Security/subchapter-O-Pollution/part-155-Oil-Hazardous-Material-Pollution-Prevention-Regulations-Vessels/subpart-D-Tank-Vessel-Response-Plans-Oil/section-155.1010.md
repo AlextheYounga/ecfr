@@ -1,0 +1,3 @@
+##### § 155.1010 Purpose. #####
+
+The purpose of this subpart is to establish requirements for oil spill response plans for certain vessels. The planning criteria in this subpart are intended for use in response plan development and the identification of resources necessary to respond to the oil spill scenarios prescribed during the planning process. The development of a response plan prepares the vessel owner or operator and the vessel's crew to respond to an oil spill. The specific criteria for response resources and their arrival times are not performance standards. They are planning criteria based on a set of assumptions that may not exist during an actual oil spill incident.

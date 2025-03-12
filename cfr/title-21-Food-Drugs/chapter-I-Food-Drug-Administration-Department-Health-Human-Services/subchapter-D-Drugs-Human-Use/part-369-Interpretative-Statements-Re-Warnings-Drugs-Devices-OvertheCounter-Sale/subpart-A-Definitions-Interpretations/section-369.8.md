@@ -1,0 +1,3 @@
+##### § 369.8 Warning statements in relation to conditions for use. #####
+
+The mention in any warning or caution statement included in subparts A, B, and C of this part, of a disease condition does not imply a finding on the part of the Food and Drug Administration that any drug or device is efficacious in such condition; nor is any drug or device bearing labeling referring to such disease condition precluded from regulatory action under the applicable provisions of the act if such claim is considered to be misbranding.

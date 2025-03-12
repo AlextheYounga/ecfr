@@ -1,0 +1,5 @@
+##### § 44.264 To export warehouses. #####
+
+Where cigars are withdrawn from a customs warehouse for delivery to an export warehouse, the proprietor of the customs warehouse shall forward to the proprietor of the export warehouse three copies of the notice of removal, Form 5200.14, covering the shipment, for execution and disposition in accordance with procedure similar to that set forth in § 44.200 in connection with a shipment of tobacco products, and cigarette papers and tubes from a factory to an export warehouse. The executed copy of the notice of removal, Form 5200.14, returned to the customs warehouse proprietor by the export warehouse proprietor shall be filed with the appropriate TTB officer.
+
+[T.D. ATF-48, 44 FR 55856, Sept. 28, 1979, as amended by T.D. ATF-232, 51 FR 28089, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-421, 64 FR 71926, Dec. 22, 1999; T.D. ATF-480, 67 FR 30803, May 8, 2002]

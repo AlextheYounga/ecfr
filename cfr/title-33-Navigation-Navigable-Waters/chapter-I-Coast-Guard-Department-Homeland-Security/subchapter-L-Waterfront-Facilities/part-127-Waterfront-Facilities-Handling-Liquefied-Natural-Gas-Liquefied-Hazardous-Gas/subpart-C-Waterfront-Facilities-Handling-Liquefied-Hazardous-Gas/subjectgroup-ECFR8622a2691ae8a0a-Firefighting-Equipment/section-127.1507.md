@@ -1,0 +1,5 @@
+##### § 127.1507 Water systems for fire protection. #####
+
+(a) Each waterfront facility handling LHG must have a supply of water and a means for distributing and applying the water to protect personnel; to cool storage tanks, equipment, piping, and vessels; and to control unignited leaks and spills in the marine transfer area for LHG except when the evaluation required by § 127.1501(a) indicates otherwise. The evaluation must address fire protection for structures, cargo, and vessels. Each water system must include on the pier or wharf at least one 21/2-inch supply line, one 21/2-inch fire hydrant, and enough 21/2-inch hose to connect the hydrant to the vessel.
+
+(b) Each water system must fully and simultaneously supply, for at least 2 hours, all fixed fire-protection systems, including monitor nozzles, at their designed flow and pressure for the worst single incident foreseeable, plus 63 L/s (1000 gpm) for streams from hand-held hoses.

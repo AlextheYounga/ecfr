@@ -1,0 +1,3 @@
+##### § 1.70 General. #####
+
+All uses of distilled spirits and wines, except as provided in §§ 1.60, 1.61, and 1.62 of this part, are regarded as “nonindustrial.” Such “nonindustrial” use shall include, but not be limited to, distilled spirits or wine used for beverage purposes, or in the manufacture, rectification, or blending of alcoholic beverages; or in the preparation of food or drink by a hotel, restaurant, tavern, or similar establishment; or for sacramental purposes; or as a medicine.

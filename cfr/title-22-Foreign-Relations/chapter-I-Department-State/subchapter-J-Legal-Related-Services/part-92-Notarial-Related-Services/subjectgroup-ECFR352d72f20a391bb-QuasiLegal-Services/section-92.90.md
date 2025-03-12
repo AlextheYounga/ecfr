@@ -1,0 +1,3 @@
+##### § 92.90 Delivering documents pertaining to the revocation of naturalization. #####
+
+Officers of the Foreign Service shall deliver, or assist in delivering, to designated persons, documents relating to proceedings in the cancellation of certificates of naturalization when such documents are forwarded by duly authorized officials of the Federal courts. The responsibility for furnishing detailed instructions on the procedure to be followed in delivering such documents rests with the court or with the United States attorney concerned, and officers should follow such instructions carefully.

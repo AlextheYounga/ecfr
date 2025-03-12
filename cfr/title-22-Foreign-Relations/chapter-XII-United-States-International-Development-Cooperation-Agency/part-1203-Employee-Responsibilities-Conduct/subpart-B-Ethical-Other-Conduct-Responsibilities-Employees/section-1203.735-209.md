@@ -1,0 +1,3 @@
+##### § 1203.735-209 Indebtedness. #####
+
+An employee shall pay each just financial obligation in a proper and timely manner, especially one imposed by law such as Federal, State, or local taxes. For the purpose of this section, a *just financial obligation* means one acknowledged by the employee or reduced to judgement by a court or one imposed by law such as Federal, State, or local taxes, and “in a proper and timely manner” means in a manner which the agency determines does not, under the circumstances, reflect adversely on the Government as the employer. In the event of dispute between an employee and an alleged creditor, this section does not require an agency to determine the validity or amount of the disputed debt.

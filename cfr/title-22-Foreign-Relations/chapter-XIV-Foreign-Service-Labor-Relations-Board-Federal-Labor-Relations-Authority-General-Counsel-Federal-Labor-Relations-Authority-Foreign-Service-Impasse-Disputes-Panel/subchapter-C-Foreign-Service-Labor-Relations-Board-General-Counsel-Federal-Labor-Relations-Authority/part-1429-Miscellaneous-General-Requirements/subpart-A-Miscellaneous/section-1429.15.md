@@ -1,0 +1,5 @@
+##### § 1429.15 Board requests for advisory opinions. #####
+
+(a) Whenever the Board, pursuant to section 1007(c)(2)(f) of the Foreign Service Act of 1980 (22 U.S.C. 4107) requests an advisory opinion from the Director of the Office of Personnel Management concerning the proper interpretation of rules, regulations, or policy directives issued by that Office in connection with any matter before the Board, a copy of such request, and any response thereto, shall be served upon the parties in the matter.
+
+(b) The parties shall have fifteen (15) days from the date of service a copy of the response of the Office of Personnel Management to file with the Board comments on that response which the parties wish the Board to consider before reaching a decision in the matter. Such comments shall be in writing and copies shall be served upon the parties in the manner and upon the Office of Personnel Management.

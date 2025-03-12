@@ -1,0 +1,5 @@
+##### § 304.12 Action on approved claim. #####
+
+(a) Payment of a claim approved under this subpart is contingent on claimant's execution of (1) a “Claim for Damage or Injury,” Standard From 95; and (2) a “Voucher for Payment,” Standard Form 1145, as appropriate. When a claimant is represented by an attorney, the voucher for payment shall designate the claimant and his attorney as copayees, and the check shall be delivered to the attorney, whose address shall appear on the voucher.
+
+(b) Acceptance by the claimant, his agent, or legal representative of an award, compromise, or settlement made under section 2672 or 2677 of title 28, United States Code, is final and conclusive on the claimant, his agent or legal representative, and any other person on whose behalf or for whose benefit the claim has been presented, and constitutes a complete release of any claim against the United States and against any officer or employee of the Government whose act or omission gave rise to the claim, by reason of the same subject matter.

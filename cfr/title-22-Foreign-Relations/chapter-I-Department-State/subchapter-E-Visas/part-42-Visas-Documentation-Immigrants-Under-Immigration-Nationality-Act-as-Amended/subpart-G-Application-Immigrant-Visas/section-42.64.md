@@ -1,0 +1,9 @@
+##### § 42.64 Passport requirements. #####
+
+(a) *Passport defined. Passport,* as defined in INA 101(a)(30), is not limited to a national passport or to a single document. A passport may consist of two or more documents which, when considered together, fulfill the requirements of a passport, provided that documentary evidence of permission to enter a foreign country has been issued by a competent authority and clearly meets the requirements of INA 101(a)(30).
+
+(b) *Passport validity requirements.* Except as provided in § 42.2, every applicant for an immigrant visa shall present a passport, as defined in INA 101(a)(30), that is valid for at least 60 days beyond the period of validity of the visa. The 60-day additional validity requirement does not apply to an applicant who would be excepted as provided in § 42.2 were it not for the fact that the applicant is applying in the country of which the applicant is a national and the possession of a passport is required for departure. Such an applicant may be issued a visa valid for 6 months or for such shorter period as will assure its expiration in unison with the passport.
+
+(c) *A single passport including more than one person.* The passport requirement of this section may be met by the presentation of a passport including more than one person, if such inclusion is authorized under the laws or regulations of the issuing authority and if a photograph of each person 16 years of age or over is attached to the passport by the issuing authority.
+
+[52 FR 42613, Nov. 5, 1987; 53 FR 9112, Mar. 21, 1988, as amended at 63 FR 48578, Sept. 11, 1998]

@@ -1,0 +1,5 @@
+##### § 191.30 Eligibility for benefits. #####
+
+(a) A spouse or unmarried dependent child aged 18 or above of a hostage as determined under subpart A of this subchapter shall be eligible for benefits under § 191.31 of this subpart. (Certain limitations apply, however, to persons eligible for direct assistance through other programs of the Veterans Administration under chapter 35 of title 38, United States Code).
+
+(b) A Principal (see definition in § 191.3) designated as a hostage under Subpart A of this subchapter, who intends to change jobs or careers because of the hostage experience and who desires additional training for this purpose, shall be eligible for benefits under § 191.32 of this part unless such person is eligible for comparable benefits under title 38 of the United States Code as determined by the Administrator of the Veterans Administration.

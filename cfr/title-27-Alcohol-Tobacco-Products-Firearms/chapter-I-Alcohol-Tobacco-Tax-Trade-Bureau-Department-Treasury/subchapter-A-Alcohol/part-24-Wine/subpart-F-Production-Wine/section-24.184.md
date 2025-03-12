@@ -1,0 +1,9 @@
+##### § 24.184 Use of volatile fruit-flavor concentrate. #####
+
+(a) *General.* In the cellar treatment of natural wine of the winemaker's own production there may be added volatile fruit-flavor concentrate produced from the same kind of fruit or from the same variety of berry or grape so long as the proportion of volatile fruit-flavor concentrate added to the wine does not exceed the equivalent proportion of volatile fruit-flavor concentrate of the original juice or must from which the wine was produced.
+
+(b) *Use of juice or must from which volatile fruit-flavor has been removed.* Juice, concentrated fruit juice, or must processed at a concentrate plant is considered to be pure juice, concentrated fruit juice, or must even though volatile fruit-flavor has been removed if, at a concentrate plant or at bonded wine premises, there is added to the juice, concentrated fruit juice, or must (or in the case of bonded wine premises, to wine of the winemaker's own production made therefrom), either the identical volatile fruit-flavor removed or an equivalent quantity of volatile fruit-flavor concentrate derived from the same kind of fruit or from the same variety of berry or grape.
+
+(c) *Certificate required.* The proprietor, prior to the use of volatile fruit flavor concentrate in wine production, shall obtain a certificate from the producer stating the kind of fruit or the variety of berry or grape from which it was produced and the total solids content of the juice before and after concentration.
+
+(Sec. 201. Pub. L. 85-859, 72 Stat. 1383, as amended (26 U.S.C. 5382))(Approved by the Office of Management and Budget under control number 1512-0298)

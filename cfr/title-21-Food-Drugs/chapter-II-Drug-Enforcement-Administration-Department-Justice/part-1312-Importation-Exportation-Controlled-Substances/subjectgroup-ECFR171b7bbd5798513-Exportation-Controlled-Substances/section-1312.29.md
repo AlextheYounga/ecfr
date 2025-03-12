@@ -1,0 +1,3 @@
+##### § 1312.29 Domestic release prohibited. #####
+
+An exporter or a forwarding agent acting for an exporter must either deliver the controlled substances to the port or border, or deliver the controlled substances to a bonded carrier approved by the consignor for delivery to the port or border, and may not, under any other circumstances, release a shipment of controlled substances to anyone, including the foreign consignee or his agent, within the United States.

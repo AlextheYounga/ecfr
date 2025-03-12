@@ -1,0 +1,3 @@
+##### § 230.18 Availability. #####
+
+Draft and final EISs and supplements will be available to the public as provided in 40 CFR 1502.19 and 1506.6. A summary may be circulated in lieu of the EIS, as provided in 40 CFR 1502.19, if the statement is unusually long. These documents will normally be made available without charge except that, in unusual circumstances, reproduction costs may be recovered in accordance with 40 CFR 1506.6(f) from recipients other than those required by CEQ to receive the complete EIS.

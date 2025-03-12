@@ -1,0 +1,9 @@
+##### § 334.1127 Naval Base Ventura County, Port Hueneme, California; restricted area. #####
+
+(a) *The area.* The waters within Port Hueneme Harbor, beginning at the seaward ends of the two Port Hueneme Harbor entrance jetties, with the northwestern entrance jetty end occurring at latitude 34°8′37.0″ N., longitude 119°12′58.8″ W. and the southeastern entrance jetty occurring at latitude 34°8′34.8″ N, longitude 119°12′43.2″ W., and extending northeasterly to the shoreline.
+
+(b) *The regulation.* No vessels or persons may enter the restricted area unless permission is obtained in advance from the Commanding Officer of Naval Base Ventura County. Commercial vessels that are required to make Advanced Notifications of Arrival shall continue to do so. All vessels must obtain clearance from “Control 1” over marine radio channel 06 VHF-FM prior to crossing the COLREGS (Collision Regulations) demarcation line. Vessels without marine radio capability must obtain clearance in advance by contacting “Control 1” via telephone at (805) 982-3938 prior to crossing the COLREGS demarcation line. The COLREGS demarcation line is defined as a line approximately 1,500 feet in length connecting the seaward limits or ends of the two Port Hueneme Harbor entrance jetties, with the northwestern jetty end occurring at latitude 34°8′37.0″ N., longitude 119°12′58.8″ W., and the southeastern entrance jetty occurring at latitude 34°8′34.8″ N., longitude 119°12′43.2″ W. (NAD83).
+
+(c) *Enforcement.* The regulation in this section, promulgated by the United States Army Corps of Engineers, shall be enforced by the Commanding Officer of Naval Base Ventura County, and such agencies or persons as he/she may designate.
+
+[69 FR 20545, Apr. 16, 2004]

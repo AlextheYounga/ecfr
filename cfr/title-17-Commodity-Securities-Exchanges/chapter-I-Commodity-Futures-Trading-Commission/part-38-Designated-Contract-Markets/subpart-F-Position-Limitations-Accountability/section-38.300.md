@@ -1,0 +1,3 @@
+##### § 38.300 Core Principle 5. #####
+
+To reduce the potential threat of market manipulation or congestion (especially during trading in the delivery month), the board of trade shall adopt for each contract of the board of trade, as is necessary and appropriate, position limitations or position accountability for speculators. For any contract that is subject to a position limitation established by the Commission, pursuant to section 4a(a), the board of trade shall set the position limitation of the board of trade at a level not higher than the position limitation established by the Commission.

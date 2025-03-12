@@ -1,0 +1,5 @@
+##### § 165.2020 Enforcement authority. #####
+
+(a) *Coast Guard.* Any Coast Guard commissioned, warrant or petty officer may enforce the rules and regulations contained in this subpart.
+
+(b) *Senior naval officer present in command.* In the navigable waters of the United States, when immediate action is required and representatives of the Coast Guard are not present or not present in sufficient force to exercise effective control in the vicinity of large U.S. naval vessels, the senior naval officer present in command is responsible for the enforcement of the rules and regulations contained in this subpart to ensure the safety and security of all large naval vessels present. In meeting this responsibility, the senior naval officer present in command may directly assist any Coast Guard enforcement personnel who are present.

@@ -1,0 +1,7 @@
+##### § 240.15Ba1-7 Registration of successor to municipal advisor. #####
+
+(a) In the event that a municipal advisor succeeds to and continues the business of a municipal advisor registered pursuant to section 15B(a) of the Act (15 U.S.C. 78*o*-4(a)), the registration of the predecessor shall be deemed to remain effective as the registration of the successor if the successor, within 30 days after the succession, files an application for registration on Form MA (17 CFR 249.1300), and the predecessor files a notice of withdrawal from registration on Form MA-W (17 CFR 249.1320); *provided, however,* that the registration of the predecessor municipal advisor will cease to be effective as the registration of the successor municipal advisor 45 days after the application for registration on Form MA is filed by the successor.
+
+(b) Notwithstanding paragraph (a) of this section, if a municipal advisor succeeds to and continues the business of a registered predecessor municipal advisor, and the succession is based solely on a change in the predecessor's date or state of incorporation, form of organization, or composition of a partnership, the successor may, within 30 days after the succession, amend the registration of the predecessor municipal advisor on Form MA (17 CFR 249.1300) to reflect these changes. This amendment shall be deemed an application for registration filed by the predecessor and adopted by the successor.
+
+[78 FR 67633, Nov. 12, 2013]

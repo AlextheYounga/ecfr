@@ -1,0 +1,3 @@
+##### § 888.5 Resurfacing technique. #####
+
+Because of resurfacing techniques, certain joint prostheses require far less bone resection than other devices intended to repair or replace the same joint. The amount of bone resection may or may not affect the safety and effectiveness of the implantation of the prosthesis. When a resurfacing technique is used, the name of the prosthesis includes this information.

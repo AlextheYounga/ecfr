@@ -1,0 +1,5 @@
+##### § 41.127 Application of surety for relief from bond. #####
+
+A surety on any bond given under the provisions of this subpart may at any time in writing notify the bonded manufacturer and the appropriate TTB officer that he desires, after a date named, to be relieved of liability under said bond. Such date shall be not less than 10 days after the date the notice is received by the appropriate TTB officer. The surety shall also file with the appropriate TTB officer an acknowledgement or other proof of service on the bonded manufacturer. If such notice is not thereafter in writing withdrawn, the rights of the bonded manufacturer as supported by said bond shall be terminated on the date named in the notice, and the surety shall be relieved from liability to the extent set forth in § 41.128.
+
+[26 FR 8196, Aug. 31, 1961. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-251, 52 FR 19341, May 22, 1987. Redesignated and amended by T.D. TTB-16, 69 FR 52424, 52425, Aug. 26, 2004]

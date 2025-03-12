@@ -1,0 +1,3 @@
+##### § 555.216 Repair of magazines. #####
+
+Before repairing the interior of magazines, all explosive materials are to be removed and the interior cleaned. Before repairing the exterior of magazines, all explosive materials must be removed if there exists any possibility that repairs may produce sparks or flame. Explosive materials removed from magazines under repair must be (a) placed in other magazines appropriate for the storage of those explosive materials under this subpart, or (b) placed a safe distance from the magazines under repair where they are to be properly guarded and protected until the repairs have been completed.

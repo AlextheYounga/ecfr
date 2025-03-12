@@ -1,0 +1,3 @@
+##### § 49.05-1 Appointment of trustee. #####
+
+Upon receipt of a finding by a board convened or appointed in accordance with § 49.01-10, that the alleged incompetent is mentally incapable of managing his own affairs, the Commandant may appoint a suitable person or persons, not under legal disability so to act, as trustee or trustees to receive in behalf of the incompetent all amounts due the incompetent from such sources set forth in § 49.01-1, and to use said funds in the best interests of the incompetent.

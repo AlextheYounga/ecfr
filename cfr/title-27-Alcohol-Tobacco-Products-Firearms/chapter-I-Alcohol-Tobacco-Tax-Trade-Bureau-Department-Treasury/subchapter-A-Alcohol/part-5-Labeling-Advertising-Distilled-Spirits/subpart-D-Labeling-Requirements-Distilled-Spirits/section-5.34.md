@@ -1,0 +1,5 @@
+##### § 5.34 Brand names. #####
+
+(a) *Misleading brand names.* No label shall contain any brand name, which, standing alone, or in association with other printed or graphic matter, creates any impression or inference as to the age, origin, identity, or other characteristics of the product unless the appropriate TTB officer finds that such brand name (when appropriately qualified if required) conveys no erroneous impressions as to the age, origin, identity, or other characteristics of the product.
+
+(b) *Trade name of foreign origin.* Paragraph (a) of this section does not prohibit the use by any person of any trade name or brand of foreign origin not effectively registered in the U.S. Patent Office on August 29, 1935, which has been used by such person or his predecessors in the United States for a period of at least 5 years immediately preceding August 29, 1935: *Provided,* That if such trade name or brand is used, the designation of the product shall be qualified by the name of the locality in the United States in which produced, and such qualification shall be in script, type, or printing as conspicuous as the trade name or brand.

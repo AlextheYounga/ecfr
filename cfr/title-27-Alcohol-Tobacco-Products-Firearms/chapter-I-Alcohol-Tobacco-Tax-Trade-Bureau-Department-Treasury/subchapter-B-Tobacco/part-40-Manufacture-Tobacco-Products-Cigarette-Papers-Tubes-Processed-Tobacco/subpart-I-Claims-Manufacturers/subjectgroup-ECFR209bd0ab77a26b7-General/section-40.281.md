@@ -1,0 +1,5 @@
+##### § 40.281 Abatement of assessment. #####
+
+A claim for abatement of the unpaid portion of the assessment of any tax on tobacco products or any liability in respect thereof, may be allowed to the extent that such assessment is excessive in amount, is assessed after expiration of the applicable period of limitation, or is erroneously or illegally assessed. Any claim under this section shall be prepared on TTB F 5620.8, in duplicate, and shall set forth the particulars under which the claim is filed. The original of the claim, accompanied by such evidence as is necessary to establish to the satisfaction of the appropriate TTB officer that the claim is valid, shall be filed with the appropriate TTB officer, and the duplicate of the claim shall be retained by the manufacturer.
+
+(68A Stat. 792; 26 U.S.C. 6404)[T.D. 6871, 31 FR 38, Jan. 4, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-232, 51 FR 28083, Aug. 5, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986; T.D. ATF-251, 52 FR 19340, May 22, 1987]

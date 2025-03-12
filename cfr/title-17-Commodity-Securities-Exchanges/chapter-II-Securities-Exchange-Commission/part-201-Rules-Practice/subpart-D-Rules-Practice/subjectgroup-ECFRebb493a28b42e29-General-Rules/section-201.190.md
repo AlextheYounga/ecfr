@@ -1,0 +1,11 @@
+##### § 201.190 Confidential treatment of information in certain filings. #####
+
+(a) *Application.* An application for confidential treatment pursuant to the provisions of Clause 30 of Schedule A of the Securities Act of 1933, 15 U.S.C. 77aa(30), and Rule 406 thereunder, 17 CFR 230.406; Section 24(b)(2) of the Securities Exchange Act of 1934, 15 U.S.C. 78x(b)(2), and Rule 24b-2 thereunder, 17 CFR 240.24b-2; Section 45(a) of the Investment Company Act of 1940, 15 U.S.C. 80a-44(a), and Rule 45a-1 thereunder, 17 CFR 270.45a-1; or Section 210(a) of the Investment Advisers Act of 1940, 15 U.S.C. 80b-10(a), shall be filed with the Secretary. The application shall be accompanied by a sealed copy of the materials as to which confidential treatment is sought.
+
+(b) *Procedure for supplying additional information.* The applicant may be required to furnish in writing additional information with respect to the grounds for objection to public disclosure. Failure to supply the information so requested within 14 days from the date of receipt by the applicant of a notice of the information required shall be deemed a waiver of the objection to public disclosure of that portion of the information to which the additional information relates, unless the Commission or the hearing officer shall otherwise order for good cause shown at or before the expiration of such 14-day period.
+
+(c) *Confidentiality of materials pending final decision.* Pending the determination of the application for confidential treatment, transcripts, non-final orders including an initial decision, if any, and other materials in connection with the application shall be placed under seal; shall be for the confidential use only of the hearing officer, the Commission, the applicant, and any other parties and counsel; and shall be made available to the public only in accordance with orders of the Commission.
+
+(d) *Public availability of orders.* Any final order of the Commission denying or sustaining an application for confidential treatment shall be made public. Any prior findings or opinions relating to an application for confidential treatment under this section shall be made public at such time as the material as to which confidentiality was requested is made public.
+
+[60 FR 32796, June 23, 1995, as amended at 76 FR 71875, Nov. 21, 2011]

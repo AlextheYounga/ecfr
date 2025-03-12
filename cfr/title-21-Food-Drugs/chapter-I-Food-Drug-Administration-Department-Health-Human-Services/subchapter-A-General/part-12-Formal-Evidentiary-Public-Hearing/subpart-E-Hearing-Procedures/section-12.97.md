@@ -1,0 +1,7 @@
+##### § 12.97 Interlocutory appeal from ruling of presiding officer. #####
+
+(a) Except as provided in paragraph (b) of this section and in §§ 12.35(b), 12.45(e), 12.93(f), and 12.99(d), when an interlocutory appeal is specifically authorized by this subpart, rulings of the presiding officer may not be appealed to the Commissioner before the Commissioner's consideration of the entire record of the hearing.
+
+(b) A ruling of the presiding officer is subject to interlocutory appeal to the Commissioner if the presiding officer certifies on the record or in writing that immediate review is necessary to prevent exceptional delay, expense, or prejudice to any participant, or substantial harm to the public interest.
+
+(c) When an interlocutory appeal is made to the Commissioner, a participant may file a brief with the Commissioner only if specifically authorized by the presiding officer or the Commissioner, and if such authorization is granted, within the period the Commissioner directs. If a participant is authorized to file a brief, any other participant may file a brief in opposition, within the period the Commissioner directs. If no briefs are authorized, the appeal will be presented as an oral argument to the Commissioner. The oral argument will be transcribed. If briefs are authorized, oral argument will be heard only at the discretion of the Commissioner.

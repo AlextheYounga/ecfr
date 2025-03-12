@@ -1,0 +1,9 @@
+##### § 70.146 45-day period for making disbursements. #####
+
+Even though a notice of a lien imposed by 26 U.S.C. 6321 is filed in accordance with § 70.149 of this part, the lien is not valid with respect to a security interest which comes into existence, after tax lien filing, by reason of disbursements made before the 46th day after the date of tax lien filing, or if earlier, before the person making the disbursements has actual notice or knowledge of the tax lien filing, but only if the security interest is:
+
+(a) In property which is subject, at the time of tax lien filing, to the lien imposed by 26 U.S.C. 6321 and which is covered by the terms of a written agreement entered into before tax lien filing, and
+
+(b) Protected under local law against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation.
+
+For purposes of paragraph (a) of this section, a contract right (as defined in § 70.232(c)(2)(i) of this part) is subject, at the time of tax lien filing, to the lien imposed by 26 U.S.C. 6321 if the contract has been made by such time. An account receivable (as defined in § 70.232(c)(2)(ii) of this part) is subject, at the time of tax lien filing, to the lien imposed by 26 U.S.C. 6321 if, and to the extent, a right to payment has been earned by performance at such time. For purposes of paragraph (b) of this section, a judgment lien is a lien held by a judgment lien creditor as defined in § 70.143(g) of this part. For purposes of this section, it is immaterial that the written agreement provides that the disbursements are to be made at the option of the person making the disbursements. See § 70.143 (a) and (e) of this part for definitions of the terms “security interest” and “tax lien filing,” respectively. See § 70.144(a) of this part for certain circumstances under which a person is deemed to have actual notice or knowledge of a fact.(26 U.S.C. 6323)

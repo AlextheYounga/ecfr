@@ -1,0 +1,11 @@
+##### § 240.12b-11 Number of copies; signatures; binding. #####
+
+(a) Except as provided in a particular form, three complete copies of each statement or report, including exhibits and all other papers and documents filed as a part thereof, shall be filed with the Commission. At least one complete copy of each statement shall be filed with each exchange on which the securities covered thereby are to be registered. At least one complete copy of each report under section 13 of the Act shall be filed with each exchange on which the registrant has securities registered.
+
+(b) At least one copy of each statement or report filed with the Commission and one copy thereof filed with each exchange shall be signed in the manner prescribed by the appropriate form.
+
+(c) Each copy of a statement or report filed with the Commission or with an exchange shall be bound in one or more parts. Copies filed with the Commission shall be bound without stiff covers. The statement or report shall be bound on the left side in such a manner as to leave the reading matter legible.
+
+(d) *Signatures.* Where the Act or the rules, forms, reports or schedules thereunder, including paragraph (b) of this section, require a document filed with or furnished to the Commission to be signed, such document shall be manually signed, or signed using either typed signatures or duplicated or facsimile versions of manual signatures. Where typed, duplicated or facsimile signatures are used, each signatory to the filing shall manually sign a signature page or other document authenticating, acknowledging or otherwise adopting his or her signature that appears in the filing. Such document shall be executed before or at the time the filing is made and shall be retained by the filer for a period of five years. Upon request, the filer shall furnish to the Commission or its staff a copy of any or all documents retained pursuant to this section.
+
+[47 FR 11465, Mar. 16, 1982, as amended at 60 FR 26622, May 17, 1995; 61 FR 30403, June 14, 1996]

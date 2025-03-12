@@ -1,0 +1,9 @@
+##### § 240.14n-1 Filing of Schedule 14N. #####
+
+(a) A shareholder or group of shareholders that submits a nominee or nominees in accordance with § 240.14a-11 or a procedure set forth under applicable state or foreign law, or a registrant's governing documents providing for the inclusion of shareholder director nominees in the registrant's proxy materials shall file with the Commission a statement containing the information required by Schedule 14N (§ 240.14n-101) and simultaneously provide the notice on Schedule 14N to the registrant.
+
+(b)(1) Whenever two or more persons are required to file a statement containing the information required by Schedule 14N (§ 240.14n-101), only one statement need be filed. The statement must identify all such persons, contain the required information with regard to each such person, indicate that the statement is filed on behalf of all such persons, and include, as an appendix, their agreement in writing that the statement is filed on behalf of each of them. Each person on whose behalf the statement is filed is responsible for the timely filing of that statement and any amendments thereto, and for the completeness and accuracy of the information concerning such person contained therein; such person is not responsible for the completeness or accuracy of the information concerning the other persons making the filing.
+
+(2) If the group's members elect to make their own filings, each filing should identify all members of the group but the information provided concerning the other persons making the filing need only reflect information which the filing person knows or has reason to know.
+
+[75 FR 56788, Sept. 16, 2010]

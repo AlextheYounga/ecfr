@@ -1,0 +1,5 @@
+##### § 478.95 Certified copy of license. #####
+
+The license furnished to each person licensed under the provisions of this part contains a purchasing certification statement. This original license may be reproduced and the reproduction then certified by the licensee for use pursuant to § 178.94. If the licensee desires an additional copy of the license for certification (instead of making a reproduction of the original license), the licensee may submit a request, in writing, for a certified copy or copies of the license to the Chief, Federal Firearms Licensing Center. The request must set forth the name, trade name (if any) and address of the licensee, and the number of license copies desired. There is a charge of $1 for each copy. The fee paid for copies of the license must accompany the request for copies. The fee may be paid by (a) cash, or (b) money order or check made payable to the Bureau of Alcohol, Tobacco, Firearms, and Explosives.
+
+(Approved by the Office of Management and Budget under control number 1140-0032)[T.D. ATF-270, 53 FR 10497, Mar. 31, 1988, as amended by T.D. ATF-290, 54 FR 53055, Dec. 27, 1989; T.D. ATF-11F, 73 FR 57241, Oct. 2, 2008]

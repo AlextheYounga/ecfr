@@ -1,0 +1,7 @@
+##### § 72.61 Alternative methods of sale. #####
+
+(a) *Sale by auction or competitive bid.* When personal property or a carrier. When personal property or a carrier forfeited administratively may be sold, the Director or his delegate shall cause a notice of sale to be placed in a newspaper of general circulation published in the judicial district wherein the seizure was made. The sale shall not occur in less than 10 days from the date of the publication of the notice. At the discretion of the Director or his delegate based upon which method in his sound judgment is most advantageous to the best interests of the United States, the forfeited personal property or carrier may be advertised for sale, and sold, at public auction to the highest bidder on open, competitive bids, or to the highest bidder on sealed, competitive bids.
+
+(b) *Sale by General Services Administration.* When a vessel, vehicle, or aircraft seized under 49 U.S.C. App., Chapter 11 is forfeited administratively, the Director may authorize the General Services Administration to conduct the sale pursuant to such conditions as the Director deems proper.
+
+(68A Stat. 870, as amended; 26 U.S.C. 7325)[T.D. ATF-9, 39 FR 9954, Mar. 15, 1974, as amended by T.D. ATF-183, 49 FR 37061, Sept. 21, 1984; T.D. ATF-241, 51 FR 39613, Oct. 29, 1986; T.D. ATF-270, 53 FR 10489, Mar. 31, 1988]

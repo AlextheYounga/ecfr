@@ -1,0 +1,21 @@
+##### § 334.620 Straits of Florida and Florida Bay in vicinity of Key West, Fla.; operational training area, aerial gunnery range, and bombing and strafing target areas, Naval Air Station, Key West, Fla. #####
+
+(a) *The danger zones*—(1) *Operational training area.* Waters of the Straits of Florida and Gulf of Mexico southwest, west and northwest of Key West bounded as follows: Beginning at latitude 25°45′00″, longitude 82°07′00″; thence southeast to latitude 24°49′00″, longitude 81°55′00″; thence southwest to latitude 24°37′30″, longitude 82°00′30″; thence westerly to latitude 24°37′30″, longitude 82°06′00″; thence southerly to latitude 24°28′30″, longitude 82°06′00″; thence southerly to latitude 24°25′00″, longitude 82°06′30″; thence easterly to latitude 24°25′00″, longitude 81°57′00″; thence southwesterly to latitude 23°30′00″, longitude 82°19′00″; thence westerly to latitude 23°30′00″, longitude 82°46′00″; thence northwesterly to latitude 23°52′30″, longitude 83°11′00″; thence northerly to latitude 24°25′00″, longitude 83°11′00″; thence easterly to latitude 24°25′00″, longitude 83°08′00″; thence clockwise along the arc of a circle with a radius of 92 miles centered at latitude 24°35′00″, longitude 81°41′15″ to latitude 25°45′05″, longitude 82°23′30″; thence east to point of beginning.
+
+(2) *Bombing and strafing target areas.* (i) A circular area immediately west of Marquesas Keys with a radius of two nautical miles having its center at latitude 24°33.4′ and longitude 82°10.9′, not to include land area and area within Marquesas Keys. The target located within this area, a grounded LSIL will be used for bombing and aircraft rocket exercises.
+
+(ii) A circular area located directly west of Marquesas Keys with a radius of three statute miles having its center at latitude 24°35.6′ and longitude 82°11.6′, not to include land area within Marquesas Keys. The targets located within this area, pile-mounted platforms, will be used as high altitude horizontal bombing range utilizing live ordnance up to and including 1,800 pounds of high explosives. In general, these explosives will be of an air-burst type, above 1,500 feet.
+
+(iii) A circular area located west of Marquesas Keys with a radius of two nautical miles having its center at latitude 24°34′30″ and longitude 82°14′00″.
+
+(b) *The regulations.* (1) In advance of scheduled air or surface operations which, in the opinion of the enforcing agency, may be dangerous to watercraft, appropriate warnings will be issued to navigation interests through official government and civilian channels or in such other manner as the District Engineer, Corps of Engineers, Jacksonville, Florida, may direct. Such warnings will specify the location, type, time, and duration of operations, and give such other pertinent information as may be required in the interests of safety.
+
+(2) Watercraft shall not be prohibited from passing through the operational training area except when the operations being conducted are of such nature that the exclusion of watercraft is required in the interest of safety or for accomplishment of the mission, or is considered important to the national security.
+
+(3) When the warning to navigation interests states that bombing and strafing operations will take place over the designated target areas or that other operations hazardous to watercraft are proposed to be conducted in a specifically described portion of the overall area, all watercraft will be excluded from the target area or otherwise described zone of operations and no vessel shall enter or remain therein during the period operations are in progress.
+
+(4) Aircraft and naval vessels conducting operations in any part of the operational training area will exercise caution in order not to endanger watercraft. Operations which may be dangerous to watercraft will not be conducted without first ascertaining that the zone of operations is clear. Any vessel in the zone of operations will be warned to leave and upon being so warned the vessel shall leave immediately.
+
+(5) The regulations in this section shall be enforced by the Commandant, Sixth Naval District, Charleston, S.C., and such agencies as he may designate.
+
+[26 FR 11197, Nov. 28, 1961, as amended at 27 FR 2508, Mar. 16, 1962; 31 FR 13129, Oct. 11, 1966. Redesignated at 50 FR 42696, Oct. 22, 1985]

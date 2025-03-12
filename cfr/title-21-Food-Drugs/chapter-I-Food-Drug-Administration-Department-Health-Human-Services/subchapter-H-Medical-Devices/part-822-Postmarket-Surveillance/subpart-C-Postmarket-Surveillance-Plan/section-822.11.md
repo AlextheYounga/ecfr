@@ -1,0 +1,3 @@
+##### § 822.11 What should I consider when designing my plan to conduct postmarket surveillance? #####
+
+You must design your surveillance to address the postmarket surveillance question identified in the order you received. You should consider what, if any, patient protection measures should be incorporated into your plan. You should also consider the function, operating characteristics, and intended use of your device when designing a surveillance approach.

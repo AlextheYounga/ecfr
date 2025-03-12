@@ -1,0 +1,5 @@
+##### § 479.50 Delinquency. #####
+
+Any person liable for special (occupational) tax under section 5801, I.R.C., who fails to file a return (Form 5630.7), as prescribed, will be liable for a delinquency penalty computed on the amount of tax due unless a return (Form 5630.7) is later filed and failure to file the return timely is shown to the satisfaction of the Chief, National Firearms Act Branch, to be due to reasonable cause. The delinquency penalty to be added to the tax is 5 percent if the failure is for not more than 1 month, with an additional 5 percent for each additional month or fraction thereof during which failure continues, not to exceed 25 percent in the aggregate (section 6651, I.R.C.). However, no delinquency penalty is assessed where the 50 percent addition to tax is assessed for fraud (see § 479.51).
+
+[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-251, 52 FR 19334, May 22, 1987; T.D. ATF-363, 60 FR 17453, Apr. 6, 1996; T.D. ATF 2013R-9F, 79 FR 46693, Aug. 11, 2014]

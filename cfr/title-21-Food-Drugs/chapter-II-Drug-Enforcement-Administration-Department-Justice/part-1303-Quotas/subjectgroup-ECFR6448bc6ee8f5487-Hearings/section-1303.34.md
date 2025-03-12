@@ -1,0 +1,13 @@
+##### § 1303.34 Request for hearing or appearance; waiver. #####
+
+(a) Any applicant or registrant who desires a hearing on the issuance, adjustment, suspension, or denial of his procurement and/or individual manufacturing quota shall, within 30 days after the date of receipt of the issuance, adjustment, suspension, or denial of such quota, file with the Administrator a written request for a hearing in the form prescribed in § 1316.47 of this chapter. Any interested person who desires a hearing on the determination of an aggregate production quota shall, within the time prescribed in § 1303.11(c), file with the Administrator a written request for a hearing in the form prescribed in § 1316.47 of this chapter, including in the request a statement of the grounds for a hearing.
+
+(b) Any interested person who desires to participate in a hearing on the determination or adjustment of an aggregate production quota, which hearing is ordered by the Administrator pursuant to § 1303.11(c) or § 1303.13(c) may do so by filing with the Administrator, within 30 days of the date of publication of notice of the hearing in the Federal Register, a written notice of his intention to participate in such hearing in the form prescribed in § 1316.48 of this chapter.
+
+(c) Any person entitled to a hearing or to participate in a hearing pursuant to paragraph (b) of this section, may, within the period permitted for filing a request for a hearing of notice of appearance, file with the Administrator a waiver of an opportunity for a hearing or to participate in a hearing, together with a written statement regarding his position on the matters of fact and law involved in such hearing. Such statement, if admissible, shall be made a part of the record and shall be considered in light of the lack of opportunity for cross-examination in determining the weight to be attached to matters of fact asserted therein.
+
+(d) If any person entitled to a hearing or to participate in a hearing pursuant to paragraph (b) of this section, fails to file a request for a hearing or notice of appearance, or if he so files and fails to appear at the hearing, he shall be deemed to have waived his opportunity for the hearing or to participate in the hearing, unless he shows good cause for such failure.
+
+(e) If all persons entitled to a hearing or to participate in a hearing waive or are deemed to waive their opportunity for the hearing or to participate in the hearing, the Administrator may cancel the hearing, if scheduled, and issue his final order pursuant to § 1303.37 without a hearing.
+
+[36 FR 7786, Apr. 24, 1971, as amended at 36 FR 18731, Sept. 21, 1971; 37 FR 15920, Aug. 8, 1972. Redesignated at 38 FR 26609, Sept. 24, 1973]

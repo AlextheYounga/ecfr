@@ -1,0 +1,7 @@
+##### § 96.86 Length of debarment period and reapplication after temporary debarment. #####
+
+(a) In the case of a temporary debarment order, the order will take effect on the date specified in the order and will specify a date, not earlier than three years later, on or after which the agency or person may petition the Secretary for withdrawal of the temporary debarment. If the Secretary withdraws the temporary debarment, the agency or person may then reapply for accreditation or approval to the same accrediting entity that handled its prior application for accreditation or approval. If that accrediting entity is no longer providing accreditation or approval services, the agency or person may apply to any accrediting entity with jurisdiction over its application.
+
+(b) In the case of a permanent debarment order, the order will take effect on the date specified in the order. The agency or person will not be permitted to apply again to an accrediting entity for accreditation or approval, or to the Secretary for termination of the debarment.
+
+(c) Nothing in this section shall be construed to prevent the Secretary from withdrawing a debarment if the Secretary concludes that the action was based on a mistake of fact or was otherwise in error. Upon taking such action, the Secretary will take appropriate steps to notify the accrediting entity and the Permanent Bureau of the Hague Conference on Private International Law.

@@ -1,0 +1,3 @@
+##### § 22.91 Premises. #####
+
+All persons qualified to withdraw and use tax-free alcohol shall have premises suitable for the business being conducted and adequate for the protection of the revenue. Storage facilities shall be provided on the premises for tax-free alcohol received or recovered. The storage facilities may consist of a combination of storerooms, compartments, or stationary storage tanks.

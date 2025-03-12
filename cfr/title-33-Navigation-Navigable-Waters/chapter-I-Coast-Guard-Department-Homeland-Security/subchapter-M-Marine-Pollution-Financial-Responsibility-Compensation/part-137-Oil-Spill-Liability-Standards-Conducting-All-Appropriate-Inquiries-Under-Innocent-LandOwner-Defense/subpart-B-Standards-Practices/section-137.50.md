@@ -1,0 +1,5 @@
+##### § 137.50 Reviews of historical sources of information. #####
+
+(a) Historical documents and records must be reviewed for the purposes of achieving the objectives and performance factors of § 137.30(a) and (b). Historical documents and records may include, but are not limited to, aerial photographs, fire insurance maps, building department records, chain of title documents, and land use records.
+
+(b) Historical documents and records reviewed must cover a period of time as far back in the history of the real property to when the first structure was built or when it was first used for residential, agricultural, commercial, industrial, or governmental purposes. The environmental professional may exercise professional judgment in context of the facts available at the time of the inquiry as to how far back in time it is necessary to search historical records.

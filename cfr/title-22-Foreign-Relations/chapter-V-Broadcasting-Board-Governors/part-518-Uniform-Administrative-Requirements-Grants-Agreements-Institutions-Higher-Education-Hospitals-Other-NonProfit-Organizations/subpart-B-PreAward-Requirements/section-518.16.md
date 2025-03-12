@@ -1,0 +1,3 @@
+##### § 518.16 Resource Conservation and Recovery Act. #####
+
+Under the Act, any State agency or agency of a political subdivision of a State which is using appropriated Federal funds must comply with section 6002. Section 6002 requires that preference be given in procurement programs to the purchase of specific products containing recycled materials identified in guidelines developed by the Environmental Protection Agency (EPA) (40 CFR Parts 247-254). Accordingly, State and local institutions of higher education, hospitals, and non-profit organizations that receive direct Federal awards or other Federal funds shall give preference in their procurement programs funded with Federal funds to the purchase of recycled products pursuant to the EPA guidelines.

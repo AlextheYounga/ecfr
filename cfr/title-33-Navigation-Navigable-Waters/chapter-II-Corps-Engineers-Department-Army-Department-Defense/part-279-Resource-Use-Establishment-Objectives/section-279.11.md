@@ -1,0 +1,3 @@
+##### § 279.11 Responsibilities. #####
+
+Division engineers will review the Districts Master Plan priority schedule and monitor regional studies and Master Plan preparation to insure timely compliance on development of resource use objectives. Future budget submissions and expenditures of construction and operation and maintenance funds will be reviewed by division engineers as to their relationship to the approved resource use objectives and management implementation. Questions and requests for technical assistance concerning implementation of the concept and guidance set forth in this regulation may be directed to HQDA (DAEN-CWP-P) WASH DC 20314 or DAEN-CWO-R.

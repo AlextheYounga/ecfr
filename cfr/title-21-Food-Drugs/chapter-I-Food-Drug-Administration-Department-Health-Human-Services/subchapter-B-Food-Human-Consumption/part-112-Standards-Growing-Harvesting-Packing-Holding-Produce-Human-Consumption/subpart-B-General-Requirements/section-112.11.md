@@ -1,0 +1,3 @@
+##### § 112.11 What general requirements apply to persons who are subject to this part? #####
+
+You must take appropriate measures to minimize the risk of serious adverse health consequences or death from the use of, or exposure to, covered produce, including those measures reasonably necessary to prevent the introduction of known or reasonably foreseeable hazards into covered produce, and to provide reasonable assurances that the produce is not adulterated under section 402 of the Federal Food, Drug, and Cosmetic Act on account of such hazards.

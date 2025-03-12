@@ -1,0 +1,5 @@
+##### § 16.02 Daily trade and supporting data reports. #####
+
+Reporting markets shall provide trade and supporting data reports to the Commission on a daily basis. Such reports shall include transaction-level trade data and related order information for each futures or options contract. Reports shall also include time and sales data, reference files and other information as the Commission or its designee may require. All reports must be submitted at the time, and in the manner and format, and with the specific content specified by the Commission or its designee. Upon request, such information shall be accompanied by data that identifies or facilitates the identification of each trader for each transaction or order included in a submitted trade and supporting data report if the reporting market maintains such data.
+
+[74 FR 12190, Mar. 23, 2009]

@@ -1,0 +1,3 @@
+##### § 12.17 Satisfaction of complaint. #####
+
+A respondent may satisfy the complaint (a) by paying to the complainant either the amount to which the complainant claims to be entitled as set forth in the complaint or such other amount as the complainant will accept in satisfaction of his claim; and (b) by submitting to the Commission notice of satisfaction and withdrawal of the complaint, duly executed by the complainant and the respondent.

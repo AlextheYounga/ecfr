@@ -1,0 +1,9 @@
+##### § 207.41 Who must list drugs and what drugs must they list? #####
+
+(a) Each registrant must list each drug that it manufactures, repacks, relabels, or salvages for commercial distribution. Each domestic registrant must list each such drug regardless of whether the drug enters interstate commerce. When operations are conducted at more than one establishment, and common ownership and control exists among all the establishments, the parent, subsidiary, or affiliate company may submit listing information for any drug manufactured, repacked, relabeled, or salvaged at any such establishment. A drug manufactured, repacked, or relabeled for private label distribution must be listed in accordance with paragraph (c) of this section.
+
+(b) Registrants must provide listing information for each drug in accordance with the listing requirements described in §§ 207.49, 207.53, and 207.54 that correspond to the activity or activities they engage in for that drug.
+
+(c)(1) For both animal and human drugs, each registrant must list each drug it manufactures, repacks, or relabels for commercial distribution under the trade name or label of a private label distributor using an NDC that includes such private label distributor's labeler code.
+
+(2) Additionally, in the case of human drugs, each registrant must list each human drug it manufactures, repacks, or relabels using an NDC that includes the registrant's own labeler code, regardless of whether the drug is commercially distributed under the registrant's own label or trade name or under the label or trade name of a private label distributor.

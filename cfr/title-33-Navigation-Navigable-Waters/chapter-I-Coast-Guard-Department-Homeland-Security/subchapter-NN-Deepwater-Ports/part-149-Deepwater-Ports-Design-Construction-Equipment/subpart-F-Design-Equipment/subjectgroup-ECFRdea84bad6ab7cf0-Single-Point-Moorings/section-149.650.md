@@ -1,0 +1,3 @@
+##### § 149.650 What are the requirements for single point moorings and their attached hoses? #####
+
+Each single point mooring and its attached hose must be designed for the protection of the environment and for durability under combined wind, wave, and current forces of the most severe storm that can be expected to occur at the port in any 100-year period. The appropriateness of a design may be shown by its compliance with standards generally used within the offshore industry that are at least equivalent, in protecting the environment, to the standards in use on January 1, 2003, by any recognized classification society as defined in 46 CFR 8.100.

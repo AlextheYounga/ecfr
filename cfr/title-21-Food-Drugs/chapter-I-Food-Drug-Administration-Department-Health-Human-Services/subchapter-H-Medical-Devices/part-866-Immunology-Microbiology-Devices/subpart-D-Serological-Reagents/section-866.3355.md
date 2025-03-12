@@ -1,0 +1,7 @@
+##### § 866.3355 Listeria spp. serological reagents. #####
+
+(a) *Identification. Listeria* spp. serological reagents are devices that consist of antigens and antisera used in serological tests to identify *Listeria* spp. from cultured isolates derived from clinical specimens. Additionally, some of these reagents consist of *Listeria* spp. antisera conjugated with a fluorescent dye (immunofluorescent reagents) used to identify *Listeria* spp. directly from clinical specimens. The identification aids in the diagnosis of listeriosis, a disease caused by bacteria belonging to the genus *Listeria,* and provides epidemiological information on diseases caused by these microorganisms. *Listeria monocytogenes,* the most common human pathogen of this genus, causes meningitis (inflammation of the brain membranes) and meningoencephalitis (inflammation of the brain and brain membranes) and is often fatal if untreated. A second form of human listeriosis is an intrauterine infection in pregnant women that results in a high mortality rate for infants before or after birth.
+
+(b) *Classification.* Class I (general controls). The device is exempt from the premarket notification procedures in subpart E of part 807 of this chapter subject to § 866.9.
+
+[47 FR 50823, Nov. 9, 1982, as amended at 65 FR 2311, Jan. 14, 2000]

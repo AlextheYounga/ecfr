@@ -1,0 +1,5 @@
+##### § 171.5 Extension of time. #####
+
+(a) *In general.* Except as otherwise provided by these rules, for good cause shown, on its own motion or the motion of a party, the Commission may at any time extend or shorten the time prescribed by the rules for filing any document. In any instance in which a specific time period is not prescribed in this part for an action to be taken concerning any matter, the Commission may establish a time for that action.
+
+(b) *Filing of motion.* Absent extraordinary circumstances, when the time period that has been prescribed for an action to be taken concerning any matter exceeds seven days, requests for extension of that time period shall be filed at least five days prior to the expiration of the time period provided and shall include an explanation of the facts and circumstances that justify the extension.

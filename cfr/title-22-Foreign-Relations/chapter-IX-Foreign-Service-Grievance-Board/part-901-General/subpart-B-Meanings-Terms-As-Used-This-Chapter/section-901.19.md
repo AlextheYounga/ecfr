@@ -1,0 +1,3 @@
+##### § 901.19 Labor organization. #####
+
+*Labor organization* means any employee organization accorded recognition as the exclusive employee representative under section 1002(11) of the Act. For the Department of State and the Agency for International Development (AID), the exclusive employee representative is the American Foreign Service Association; for the U.S. Information Agency (USIA), the exclusive employee representative is the American Federation of Government Employees, Local 1812 (AFL-CIO).

@@ -1,0 +1,5 @@
+##### § 58.217 Suspension or termination of a testing facility by a sponsor. #####
+
+Termination of a testing facility by a sponsor is independent of, and neither in lieu of nor a precondition to, proceedings or actions authorized by this subpart. If a sponsor terminates or suspends a testing facility from further participation in a nonclinical laboratory study that is being conducted as part of any application for a research or marketing permit that has been submitted to any Center of the Food and Drug Administration (whether approved or not), it shall notify that Center in writing within 15 working days of the action; the notice shall include a statement of the reasons for such action. Suspension or termination of a testing facility by a sponsor does not relieve it of any obligation under any other applicable regulation to submit the results of the study to the Food and Drug Administration.
+
+[43 FR 60013, Dec. 22, 1978, as amended at 50 FR 8995, Mar. 6, 1985]

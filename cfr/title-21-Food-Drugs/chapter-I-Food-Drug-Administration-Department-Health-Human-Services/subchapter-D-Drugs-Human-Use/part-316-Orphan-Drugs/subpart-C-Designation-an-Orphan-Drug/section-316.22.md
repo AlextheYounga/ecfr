@@ -1,0 +1,5 @@
+##### § 316.22 Permanent-resident agent for foreign sponsor. #####
+
+Every foreign sponsor that seeks orphan-drug designation shall name a permanent resident of the United States as the sponsor's agent upon whom service of all processes, notices, orders, decisions, requirements, and other communications may be made on behalf of the sponsor. Notifications of changes in such agents or changes of address of agents should preferably be provided in advance, but not later than 60 days after the effective date of such changes. The permanent-resident agent may be an individual, firm, or domestic corporation and may represent any number of sponsors. The name of the permanent-resident agent, address, telephone number, and email address shall be provided to: Office of Orphan Products Development, Food and Drug Administration, Bldg. 32, rm. 5271, 10903 New Hampshire Ave., Silver Spring, MD 20993.
+
+[78 FR 35133, June 12, 2013]

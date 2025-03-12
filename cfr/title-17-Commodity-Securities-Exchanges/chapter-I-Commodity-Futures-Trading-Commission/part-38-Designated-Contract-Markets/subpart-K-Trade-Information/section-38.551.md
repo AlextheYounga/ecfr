@@ -1,0 +1,3 @@
+##### § 38.551 Audit trail required. #####
+
+A designated contract market must capture and retain all audit trail data necessary to detect, investigate, and prevent customer and market abuses. Such data must be sufficient to reconstruct all transactions within a reasonable period of time and to provide evidence of any violations of the rules of the designated contract market. An acceptable audit trail must also permit the designated contract market to track a customer order from the time of receipt through fill, allocation, or other disposition, and must include both order and trade data.

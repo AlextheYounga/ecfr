@@ -1,0 +1,5 @@
+##### § 24.198 Blending. #####
+
+Special natural wine may be blended with other special natural wine of the same class and kind, and with heavy bodied blending wine, or natural wine of the same kind of fruit, in the further production of special natural wine. The blending of special natural wines produced under different formulas requires the filing and approval of a formula authorizing a blending; however, where two or more formulas have been approved for the production of special natural wine of the same type, e.g., producing a sweet vermouth by blending sweet vermouths produced under two or more approved formulas, the submission and approval of an additional formula is not required.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1386, as amended (26 U.S.C. 5386))(Approved by the Office of Management and Budget under control number 1512-0059)

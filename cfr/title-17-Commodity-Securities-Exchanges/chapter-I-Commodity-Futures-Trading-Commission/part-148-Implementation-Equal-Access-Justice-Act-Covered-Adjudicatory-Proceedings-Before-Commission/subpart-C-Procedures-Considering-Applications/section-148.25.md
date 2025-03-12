@@ -1,0 +1,3 @@
+##### § 148.25 Settlement. #####
+
+The applicant may propose settlement of the award to the Commission before final action on the application, either in connection with a settlement of the adjudicatory proceeding, or after the adjudicatory proceeding has been concluded, in either case in accordance with § 10.108 of this chapter. If a prevailing party offers a proposed settlement of an award before an application has been filed, the application shall be filed with the proposed settlement.

@@ -1,0 +1,5 @@
+##### § 28.226 Removals of beer by agent on behalf of brewer. #####
+
+Where proper power of attorney authorizing an agent to execute a claim on behalf of the brewer has been filed with the appropriate TTB officer, such agent may, for any of the purposes authorized in § 28.221, remove taxpaid beer from the brewery where produced or from its place of storage elsewhere, and execute the notice and claim on Form 1582-B (5130.6) on behalf of the brewer. On removal of the beer, such agent shall dispose of Form 1582-B in accordance with the applicable procedure set forth in § 28.225.
+
+(46 Stat. 690, as amended, 48 Stat. 999, as amended, 72 Stat. 1335; 19 U.S.C. 1309, 81c, 26 U.S.C. 5055)[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975. Redesignated and amended by T.D. TTB-8, 69 FR 3834, Jan. 27, 2004]

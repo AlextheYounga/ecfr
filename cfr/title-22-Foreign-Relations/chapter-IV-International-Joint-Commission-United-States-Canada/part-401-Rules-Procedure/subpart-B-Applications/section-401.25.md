@@ -1,0 +1,3 @@
+##### § 401.25 Government brief regarding navigable waters. #####
+
+When in the opinion of the Commission it is desirable that a decision should be rendered which affects navigable waters in a manner or to an extent different from that contemplated by the application and plans presented to the Commission, the Commission will, before making a final decision, submit to the Government presenting or transmitting the application a draft of the decision, and such Government may transmit to the Commission a brief or memorandum thereon which will receive due consideration by the Commission before its decision is made final.

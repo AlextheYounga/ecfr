@@ -1,0 +1,3 @@
+##### § 1.278 Who is authorized to submit prior notice? #####
+
+A prior notice for an article of food may be submitted by any person with knowledge of the required information. This person is the submitter. The submitter also may use another person to transmit the required information on his/her behalf. The person who transmits the information is the transmitter. The submitter and transmitter may be the same person.

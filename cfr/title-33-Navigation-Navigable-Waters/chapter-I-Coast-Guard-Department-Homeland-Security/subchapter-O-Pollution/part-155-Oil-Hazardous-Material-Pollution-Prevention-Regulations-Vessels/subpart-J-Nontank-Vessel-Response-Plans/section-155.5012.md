@@ -1,0 +1,3 @@
+##### § 155.5012 Deviation from response plan. #####
+
+The owner or operator of a nontank vessel required to have a vessel response plan (VRP) under this subpart may not deviate from the approved VRP unless the President or Federal On-Scene Coordinator determines that the deviation from the VRP would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects.

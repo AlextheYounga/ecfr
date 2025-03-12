@@ -1,0 +1,21 @@
+##### § 70.123 Claims for credit or refund. #####
+
+(a) *Requirement that claim be filed.* (1) Credits or refunds of overpayments may not be allowed or made after the expiration of the statutory period of limitation properly applicable unless, before the expiration of such period, a claim therefor has been filed by the taxpayer. Furthermore, under section 7422 of the Internal Revenue Code, a civil action for refund may not be instituted unless a claim has been filed within the properly applicable period of limitation.
+
+(2) All claims relating to provisions of 26 U.S.C. enforced and administered by the Bureau, together with appropriate supporting evidence, shall be filed with the appropriate TTB officer. As to interest in the case of credits or refunds, see section 6611 of the Internal Revenue Code. See section 7502 for provisions treating timely mailing as timely filing and section 7503 for time for filing claim when the last day falls on a Saturday, Sunday, or legal holiday.
+
+(b) *Grounds set forth in claim.* (1) No refund or credit will be allowed after the expiration of the statutory period of limitation applicable to the filing of a claim therefor except upon one or more of the grounds set forth in a claim filed before the expiration of such period. The claim must set forth in detail each ground upon which credit or refund is claimed and facts sufficient to apprise the appropriate TTB officer of the exact basis thereof. The statement of the grounds and facts must be verified by a written declaration that it is made under the penalties of perjury. A claim which does not comply with this paragraph will not be considered for any purpose as a claim for the refund or credit.
+
+(2) The appropriate TTB officers do not have authority to refund on equitable grounds penalties or other amounts legally collected.
+
+(c) *Form for filing claim.* All claims by taxpayers for the refunding of taxes, interest, penalties, and additions to tax shall be made on Form 2635 (5620.8).
+
+(d) *Proof of representative capacity.* If a return is filed by an individual and, after the individuals death, a refund claim is filed by a legal representative, certified copies of the letters testamentary, letters of administration, or other similar evidence must be annexed to the claim, to show the authority of the legal representative to file the claim. If an executor, administrator, guardian, trustee, receiver, or other fiduciary files a return and thereafter a refund claim is filed by the same fiduciary, documentary evidence to establish the legal authority of the fiduciary need not accompany the claim, provided a statement is made in the claim showing that the return was filed by the fiduciary and that the latter is still acting. In such cases, if a refund is to be paid, letters testamentary, letters of administration, or other evidence may be required, but should be submitted only upon the receipt of a specific request therefor. If a claim is filed by a fiduciary other than the one by whom the return was filed, the necessary documentary evidence should accompany the claim. A claim may be executed by an agent of the person assessed, but in such case a power of attorney must accompany the claim.
+
+(e) *Mailing of refund check.* (1) Checks in payment of claims allowed will be drawn in the names of the persons entitled to the money and, except as provided in paragraph (e)(2) of this section, the checks may be sent direct to the claimant or to such person in care of an attorney or agent who has filed a power of attorney specifically authorizing the attorney or agent to receive such checks.
+
+(2) Checks in payment of claims which have either been reduced to judgment or settled in the course or as a result of litigation will be drawn in the name of the person or persons entitled to the money and will be sent to the Assistant Attorney General, Tax Division, Department of Justice, for delivery to the taxpayer or the counsel of record in the court proceeding.
+
+(3) For restrictions on the assignment of claims, see 31 U.S.C. 3727.
+
+(Approved by the Office of Management and Budget under control number 1512-0141)(26 U.S.C. 6402)[T.D. ATF-251, 52 FR 19314, May 22, 1987. Redesignated and amended by T.D. ATF-301, 55 FR 47606, 47615, Nov. 14, 1990; T.D. ATF-450, 66 FR 29025, May 29, 2001]

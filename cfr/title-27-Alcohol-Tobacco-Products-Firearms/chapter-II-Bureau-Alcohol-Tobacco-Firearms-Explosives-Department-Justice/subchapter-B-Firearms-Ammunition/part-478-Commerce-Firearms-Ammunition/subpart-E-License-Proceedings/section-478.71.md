@@ -1,0 +1,5 @@
+##### § 478.71 Denial of an application for license. #####
+
+Whenever the Director has reason to believe that an applicant is not qualified to receive a license under the provisions of § 478.47, he may issue a notice of denial, on Form 4498, to the applicant. The notice shall set forth the matters of fact and law relied upon in determining that the application should be denied, and shall afford the applicant 15 days from the date of receipt of the notice in which to request a hearing to review the denial. If no request for a hearing is filed within such time, the application shall be disapproved and a copy, so marked, shall be returned to the applicant.
+
+[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-270, 53 FR 10495, Mar. 31, 1988; ATF-27P, 74 FR 1878, Jan. 14, 2009]

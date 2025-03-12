@@ -1,0 +1,3 @@
+##### § 1.680 How and when will FDA monitor eligible entities? #####
+
+FDA may, at any time, conduct an onsite audit of an eligible entity that has received food or facility certification from an accredited third-party certification body under this subpart. Where FDA determines necessary or appropriate, the unannounced audit may be conducted with or without the accredited third-party certification body or the recognized accreditation body (where applicable) present. An FDA audit conducted under this section will be conducted on an unannounced basis and may be preceded by a request for a 30-day operating schedule.

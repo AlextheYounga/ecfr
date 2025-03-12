@@ -1,0 +1,3 @@
+##### § 12.26 Modification or revocation of regulation or order. #####
+
+If the Commissioner determines upon review of an objection or request for hearing that the regulation or order should be modified or revoked, the Commissioner will promptly take such action by notice in the Federal Register. Further objections to or requests for hearing on the modification or revocation may be submitted under §§ 12.20 through 12.22 but no further issue may be taken with other provisions in the regulation or order. Objections and requests for hearing that are not affected by the modification or revocation will remain on file and be acted upon in due course.

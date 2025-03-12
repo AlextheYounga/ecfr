@@ -1,0 +1,7 @@
+##### § 76.01-1 Sale of equipment not readily procurable. #####
+
+The Commandant is authorized to sell aids to navigation apparatus or equipment to foreign, state, or municipal governments or departments thereof; parties required to maintain private aids to navigation to mark wrecks, piers, or other obstructions; contractors engaged on public works; and in other cases in which in the judgment of the Commandant the public interest may be served: *Provided:*
+
+(a) Such equipment has not been reported by the Coast Guard to the General Services Administration as excess (if the equipment has been reported to the General Services Administration as excess, the Commandant will submit the request to that administration for further action); and
+
+(b) Such equipment is not readily procurable in the open market. Requests to purchase such apparatus or equipment shall give sufficient reasons why the article or articles cannot be readily procured in the open market. If the Commandant considers that an article can be readily procured in the open market the prospective purchaser will be so informed, and given the names of dealers or manufacturers. Sales shall be invoiced at cost plus 25 percent for overhead. Proceeds of such sales shall be deposited in the Treasury to the credit of the current appropriation for operating expenses, Coast Guard.

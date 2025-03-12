@@ -1,0 +1,7 @@
+##### § 13.76 Service on applicant or certificate holder. #####
+
+(a) *Method of service.* TTB must serve notices of denial on an applicant by first class mail, or by personal delivery. TTB must serve notices of proposed revocation and notices of revocation on a certificate holder by certified mail, return receipt requested, by a commercial delivery service that will provide an equivalent written acknowledgment from the recipient, or by personal delivery.
+
+(b) *Date of receipt.* If there is a time limit on a certificate holder's action that runs from the holder's receipt of a document, the date of receipt may be established by a certified mail receipt, an equivalent written acknowledgment secured by a commercial delivery service, or by a written acknowledgment of personal delivery.
+
+(c) *Person to be served.* When service is by mail or other commercial delivery service, a copy of the document must be sent to the applicant or certificate holder at the address stated in the application or at the last known address. If authorized by the applicant or certificate holder, the copy of the document may be mailed to a designated representative. If service is by personal delivery, a copy of the document must be delivered to the certificate holder or to a designated representative. In the case of a corporation, partnership, or association, personal delivery may be made to an officer, manager, or general agent thereof, or to the attorney of record.

@@ -1,0 +1,3 @@
+##### § 1401.7 Prompt response. #####
+
+The General Counsel, or designee, will determine within 20 days (excepting Saturdays, Sundays and legal public holidays) after the receipt of a FOIA request whether it is appropriate to grant the request and will provide written notification to the person making the request. If the request is denied, the written notification will include the names of the individuals who participated in the determination, the reasons for the denial, and that an appeal may be lodged within the Office of National Drug Control Policy.

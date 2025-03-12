@@ -1,0 +1,5 @@
+##### § 170.5 Prevention of fraudulent and manipulative practices (section 17(b)(7) of the Act). #####
+
+A futures association must establish and maintain a program for the protection of customers and option customers, including the adoption of rules to protect customers and option customers and customer funds and to promote fair dealing with the public. These rules shall set forth the ethical standards for members of the association in their business dealings with the public. An applicant association must also demonstrate its capability to foster a professional atmosphere among its members, including an acceptance of an adherence to the ethical standards, and to monitor and enforce compliance with the customer and option customer protection program and rules.
+
+(Secs. 2(a)(1), 4c(a)-(d), 4d, 4f, 4g, 4k, 4m, 4n, 8a, 15 and 17, Commodity Exchange Act (7 U.S.C. 2, 4, 6c(a)-(d), 6d, 6f, 6g, 6k, 6m, 6n, 12a, 19 and 21; 5 U.S.C. 552 and 552b))[47 FR 57020, Dec. 22, 1982]

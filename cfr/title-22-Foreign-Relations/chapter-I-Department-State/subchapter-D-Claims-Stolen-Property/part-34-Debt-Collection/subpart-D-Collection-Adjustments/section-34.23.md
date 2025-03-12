@@ -1,0 +1,3 @@
+##### § 34.23 Bankruptcy. #####
+
+A debtor should notify STATE at the contact office provided in the original notice of the debt, if the debtor has filed for bankruptcy. STATE will require documentation from the applicable court indicating the date of filing and type of bankruptcy. Pursuant to the laws of bankruptcy, STATE will suspend debt collection upon such filing unless the automatic stay is no longer in effect or has been lifted. In general, collection of a debt discharged in bankruptcy shall be terminated unless otherwise provided for by bankruptcy law.

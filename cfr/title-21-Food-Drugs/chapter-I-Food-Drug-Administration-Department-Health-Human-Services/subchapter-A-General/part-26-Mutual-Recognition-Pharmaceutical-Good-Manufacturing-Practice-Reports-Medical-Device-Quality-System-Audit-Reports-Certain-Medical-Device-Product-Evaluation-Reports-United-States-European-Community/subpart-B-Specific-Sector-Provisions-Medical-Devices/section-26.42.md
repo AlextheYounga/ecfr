@@ -1,0 +1,7 @@
+##### § 26.42 Exchange and endorsement of product evaluation reports. #####
+
+(a) European Community (EC) conformity assessment bodies (CAB's) listed for this purpose will, subject to the specifications and limitations on the list, provide to FDA 510(k) premarket notification assessment reports prepared to U.S. medical device requirements.
+
+(b) U.S. CAB's will, subject to the specifications and limitations on the list, provide to the EC Notified Body of the manufacturer's choice, type examination, and verification reports prepared to EC medical device requirements.
+
+(c) Based on the determination of equivalence in light of the experience gained, the product evaluation reports prepared by the CAB's listed as equivalent will normally be endorsed by the importing party, except under specific and delineated circumstances. Examples of such circumstances include indications of material inconsistencies, inadequacies, or incompleteness in a product evaluation report, or other specific evidence of serious concern in relation to product safety, performance, or quality. In such cases, the importing party may request clarification from the exporting party which may lead to a request for a reevaluation. The parties will endeavor to respond to requests for clarification in a timely manner. Endorsement remains the responsibility of the importing party.

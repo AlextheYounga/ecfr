@@ -1,0 +1,5 @@
+##### § 1005.11 Payment for samples. #####
+
+The Department of Health and Human Services will pay for all import samples of electronic products rendered unsalable as a result of testing, or will pay the reasonable costs of repackaging such samples for sale, if the samples are found to be in compliance with the requirements of Subchapter C - Electronic Product Radiation Control of the Federal Food, Drug, and Cosmetic Act (formerly the Radiation Control for Health and Safety Act of 1968). Billing for reimbursement shall be made by the owner or consignee to the Center for Devices and Radiological Health, 5600 Fishers Lane, Rockville, MD 20857. Payment for samples will not be made if the sample is found to be in violation of the Act, even though subsequently brought into compliance pursuant to terms specified in a notice of permission issued under § 1005.22.
+
+[73 FR 34860, June 19, 2008]

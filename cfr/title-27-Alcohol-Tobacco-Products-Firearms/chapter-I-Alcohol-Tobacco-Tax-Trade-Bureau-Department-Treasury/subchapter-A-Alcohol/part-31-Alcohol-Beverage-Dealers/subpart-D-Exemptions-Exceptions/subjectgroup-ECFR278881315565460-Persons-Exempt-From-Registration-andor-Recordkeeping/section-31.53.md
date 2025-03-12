@@ -1,0 +1,3 @@
+##### § 31.53 Wholesale dealers in beer consummating sales at premises of other dealers. #####
+
+Any dealer who has registered as a wholesale dealer in beer for the place from which that dealer conducts selling operations may consummate sales of beer (but not wines or distilled spirits) to other dealers at the purchasers' places of business without having to register again as a wholesale dealer on account of those sales.

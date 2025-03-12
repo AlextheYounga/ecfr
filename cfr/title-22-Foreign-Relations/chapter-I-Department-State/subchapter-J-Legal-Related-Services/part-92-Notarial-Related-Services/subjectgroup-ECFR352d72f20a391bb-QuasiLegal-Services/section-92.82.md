@@ -1,0 +1,7 @@
+##### § 92.82 Recommending attorneys or notaries. #####
+
+(a) *Assistance in selecting American lawyers.* When any person in the district of a Foreign Service post desires to have the name of an attorney in the United States, the officer at the post may refer him to American law directories or other published references at his disposal, but he shall refrain from recommending any particular attorney.
+
+(b) *Assistance in selecting foreign attorneys or notaries.* Persons applying to a Foreign Service post for services of a legal or fiduciary character or for assistance in selecting an attorney or notary capable of rendering the services in view, may be furnished the names of several attorneys or notaries in the district, or referred to the lists to be found in American or foreign law directories or other published references. Alternatively, they may be referred to bar associations or, where applicable, to the organization charged by local law with the responsibility for providing legal assistance.
+
+(c) *Agreements for referral of legal business prohibited.* Officers of the Foreign Service shall not recommend particular attorneys or notaries to persons who apply to a Foreign Service post for legal assistance, nor shall they make agreements with attorneys or notaries for the referral to them of inquiries for legal assistance.

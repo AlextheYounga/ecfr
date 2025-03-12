@@ -1,0 +1,3 @@
+##### § 196.1 What is the Fellowship Program? #####
+
+The Thomas R. Pickering Foreign Affairs/Graduate Foreign Affairs Fellowship Program is designed to attract outstanding men and women at the undergraduate and graduate educational levels for the purpose of increasing the level of knowledge and awareness of and employment with the Foreign Service, consistent with 22 U.S.C. 3905. The Program develops a source of trained men and women, from academic disciplines representing the skill needs of the Department, who are dedicated to representing the United States' interests abroad.

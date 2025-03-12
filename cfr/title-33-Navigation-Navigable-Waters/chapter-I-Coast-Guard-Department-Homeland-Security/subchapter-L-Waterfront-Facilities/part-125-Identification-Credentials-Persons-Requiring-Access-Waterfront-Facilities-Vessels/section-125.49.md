@@ -1,0 +1,5 @@
+##### § 125.49 Action by Commandant after appeal. #####
+
+(a) If, upon receipt of the Appeal Board's recommendation, the Commandant is satisfied that the character and habits of life of the applicant or holder are such as to warrant the belief that his presence on waterfront facilities, and port and harbor areas, including vessels and harbor craft therein, would not be inimical to the security of the United States, he shall, in the case of an applicant, direct that a Coast Guard Port Security Card be issued to the applicant, or in the case of a holder, notify him accordingly.
+
+(b) If, upon receipt of the Appeal Board's recommendation, the Commandant is not satisfied that the character and habits of life of the applicant or holder are such as to warrant the belief that his presence on waterfront facilities, and port and harbor areas, including vessels and harbor craft therein, would not be inimical to the security of the United States, the Commandant shall notify the applicant or holder that his appeal is denied.

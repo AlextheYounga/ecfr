@@ -1,0 +1,3 @@
+##### § 610.14 Identity. #####
+
+The contents of a final container of each filling of each lot shall be tested for identity after all labeling operations shall have been completed. The identity test shall be specific for each product in a manner that will adequately identify it as the product designated on final container and package labels and circulars, and distinguish it from any other product being processed in the same laboratory. Identity may be established either through the physical or chemical characteristics of the product, inspection by macroscopic or microscopic methods, specific cultural tests, or in vitro or in vivo immunological tests.

@@ -1,0 +1,3 @@
+##### § 16.15 Judicial review. #####
+
+Any aggrieved party may obtain judicial review of these regulations, and revisions thereto, and final actions of the agency head (or designee) or the Grievance Board hereunder, in the District Courts of the United States, in accordance with the standards set forth in chapter 7 of title 5 of the United States Code. Section 706 of title 5 shall apply without limitation or exception.

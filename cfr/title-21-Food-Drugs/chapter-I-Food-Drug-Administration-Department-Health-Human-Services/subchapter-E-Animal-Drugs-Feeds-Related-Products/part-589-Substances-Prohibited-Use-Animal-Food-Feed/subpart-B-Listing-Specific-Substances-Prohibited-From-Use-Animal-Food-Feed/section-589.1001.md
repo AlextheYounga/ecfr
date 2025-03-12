@@ -1,0 +1,5 @@
+##### § 589.1001 Propylene glycol in or on cat food. #####
+
+The Food and Drug Administration has determined that propylene glycol in or on cat food has not been shown by adequate scientific data to be safe for use. Use of propylene glycol in or on cat food causes the feed to be adulterated and in violation of the Federal Food, Drug, and Cosmetic Act (the act), in the absence of a regulation providing for its safe use as a food additive under section 409 of the act, unless it is subject to an effective notice of claimed investigational exemption for a food additive under § 570.17 of this chapter, or unless the substance is intended for use as a new animal drug and is subject to an approved application under section 512 of the act or an effective notice of claimed investigational exemption for a new animal drug under part 511 of this chapter.
+
+[61 FR 19544, May 2, 1996]

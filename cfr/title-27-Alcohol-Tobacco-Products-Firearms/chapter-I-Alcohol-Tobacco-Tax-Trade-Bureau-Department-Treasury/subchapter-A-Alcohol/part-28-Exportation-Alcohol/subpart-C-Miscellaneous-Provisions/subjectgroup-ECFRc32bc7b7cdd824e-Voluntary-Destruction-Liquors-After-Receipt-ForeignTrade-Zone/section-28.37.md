@@ -1,0 +1,5 @@
+##### § 28.37 Action by appropriate TTB officer. #####
+
+The appropriate TTB officer shall carefully examine the application to see that all the required information has been furnished and shall cause an investigation to be made or require any additional evidence, including samples, to be submitted if necessary. If the appropriate TTB officer finds that the liquors were transported to and deposited in a foreign-trade zone in good faith for the purpose of exportation or storage pending exportation, and that the liquors, after deposit in the zone, have become unmerchantable or unfit for export, he may approve the application and authorize the destruction of the liquor described therein under the supervision of the district director of customs. On approval or disapproval of the application, the appropriate TTB officer shall advise the district director of customs of his action.
+
+[T.D. ATF-51,43 FR 24244, June 2, 1978, as amended by T.D. TTB-8, 69 FR 3831, Jan. 27, 2004]

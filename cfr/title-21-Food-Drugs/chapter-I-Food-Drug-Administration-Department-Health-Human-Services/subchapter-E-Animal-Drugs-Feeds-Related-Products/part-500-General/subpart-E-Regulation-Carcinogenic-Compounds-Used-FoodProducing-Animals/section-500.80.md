@@ -1,0 +1,11 @@
+##### § 500.80 Scope of this subpart. #####
+
+(a) The Federal Food, Drug, and Cosmetic Act requires that sponsored compounds intended for use in food-producing animals be shown to be safe and that food produced from animals exposed to these compounds be shown to be safe for consumption by people. The statute prohibits the use in food-producing animals of any compound found to induce cancer when ingested by people or animals unless it can be determined by methods of examination prescribed or approved by the Secretary (a function delegated to the Commissioner of Food and Drugs) that no residue of that compound will be found in the food produced from those animals under conditions of use reasonably certain to be followed in practice. This subpart identifies the steps a sponsor of a compound shall follow to secure the approval of the compound. FDA guidance documents contain the procedures and protocols FDA recommends for the implementation of this subpart. These guidance documents are available from the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. Requests for these guidance documents should be identified with Docket No. 1983D-0288.
+
+(b) If FDA concludes on the basis of the threshold assessment that a sponsor shall conduct carcinogenicity testing on the sponsored compound, FDA will also determine whether and to what extent the sponsor shall conduct carcinogenicity testing on metabolites of the sponsored compound. The bioassays that a sponsor conducts must be designed to assess carcinogenicity and to determine the quantitative aspects of any carcinogenic response.
+
+(c) If FDA concludes on the basis of the threshold assessment or at a later time during the approval process that the data show that the sponsored compound and its metabolites should not be subject to this subpart, FDA will continue to consider the compound for approval under the general safety provisions of the act for risks other than cancer.
+
+(d) This subpart does not apply to essential nutrients.
+
+[52 FR 49586, Dec. 31, 1987, as amended at 59 FR 14365, Mar. 28, 1994; 62 FR 66983, Dec. 23, 1997; 65 FR 56480, Sept. 19, 2000; 67 FR 78174, Dec. 23, 2002; 68 FR 24879, May 9, 2003; 69 FR 17292, Apr. 2, 2004]

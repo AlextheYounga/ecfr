@@ -1,0 +1,5 @@
+##### § 92.43 Fees for notarial services and authentications. #####
+
+The fees for administering an oath or affirmation and making a certificate thereof, for the taking of an acknowledgment of the execution of a document and executing a certificate thereof, for certifying to the correctness of a copy of or an extract from a document, official or private, for authenticating a foreign document, or for the noting of a bill of exchange, certifying to protest, etc., are as prescribed under the caption Documentary services in the Schedule of Fees (§ 22.1 of this chapter), unless the service is performed under a “no fee” item of the same caption of the Schedule. If an oath or affirmation is administered concurrently to several persons and only one consular certificate (jurat) is executed, only one fee is collectible. If more than one person joins in making an acknowledgment but only one certificate is executed, only one fee shall be charged.
+
+[22 FR 10858, Dec. 27, 1957, as amended at 63 FR 6480, Feb. 9, 1998]

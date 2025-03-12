@@ -1,0 +1,3 @@
+##### § 1429.25 Number of copies. #####
+
+Unless otherwise provided by the Board or the General Counsel, or their designated representatives, as appropriate, or under this subchapter, any document or paper filed with the Board, General Counsel, Administrative Law Judge, Regional Director, or Hearing Officer, as appropriate, under this subchapter, together with any enclosure filed therewith, shall be submitted in an original and four (4) copies. A clean copy capable of being used as an original for purposes such as further reproduction may be substituted for the original.

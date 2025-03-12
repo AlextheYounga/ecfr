@@ -1,0 +1,5 @@
+##### § 28.72 Application of surety for relief from bond. #####
+
+A surety on any bond given on Forms 2735 (5100.30), 2737 (5110.67), or 2738 (5110.68), may at any time in writing notify the principal and the appropriate TTB officer that he desires, after a date named, to be relieved of liability under said bond. Such date shall be not less than 90 days after the date the notice is received by the appropriate TTB officer. The surety shall also file with the appropriate TTB officer an acknowledgment or other proof of service on the principal. If such notice is not thereafter in writing withdrawn, the rights of the principal as supported by said bond shall be terminated on the date named in the notice, and the surety shall be relieved from liability to the extent set forth in § 28.73(b).
+
+(68A Stat. 749, as amended (26 U.S.C. 6065); Sec. 201. Pub. L. 85-859, 72 Stat. 1336, as amended, 1352, as amended (26 U.S.C. 5062, 5175))[T.D. 6895, 31 FR 11976, Sept. 13, 1966. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-62, 44 FR 71722, Dec. 11, 1979; T.D. TTB-8, 69 FR 3832, Jan. 27, 2004]

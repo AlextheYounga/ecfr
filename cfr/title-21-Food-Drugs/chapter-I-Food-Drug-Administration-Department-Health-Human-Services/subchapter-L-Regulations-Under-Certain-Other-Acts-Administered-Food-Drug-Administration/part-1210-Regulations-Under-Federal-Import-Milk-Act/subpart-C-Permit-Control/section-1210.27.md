@@ -1,0 +1,3 @@
+##### § 1210.27 Permits waiving clauses 2 and 5, section 2 of the Federal Import Milk Act. #####
+
+A permit to ship or transport raw milk into the United States will contain a waiver of clauses 2 and 5 of section 2 of the Federal Import Milk Act when the shipper is an operator of a creamery or condensery, or is a producer shipping or transporting to a creamery or condensery and the creamery or condensery is located in the United States within a radius of 20 miles of the point of production of such milk, and the milk, prior to its sale, use, or disposal, is pasteurized, condensed, or evaporated.

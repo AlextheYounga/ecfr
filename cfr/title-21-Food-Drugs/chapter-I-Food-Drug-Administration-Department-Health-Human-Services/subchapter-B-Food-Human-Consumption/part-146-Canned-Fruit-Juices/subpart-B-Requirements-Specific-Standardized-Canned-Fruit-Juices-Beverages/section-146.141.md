@@ -1,0 +1,15 @@
+##### § 146.141 Canned orange juice. #####
+
+(a) Canned orange juice is the food prepared from orange juice as specified in § 146.135 or frozen orange juice as specified in § 146.137, or a combination of both, to which may be added not more than 10 percent by volume of the unfermented juice obtained from mature oranges of the species *Citrus reticulata* or *Citrus reticulata* hybrids (except that this limitation shall not apply to the hybrid species described in § 146.135). Seeds (except embryonic seeds and small fragments of seeds that cannot be separated by good manufacturing practice) are removed. Orange oil and pulp may be adjusted in accordance with good manufacturing practice. The adjustment of pulp referred to in this paragraph does not permit the addition of washed or spent pulp. Liquid condensate recovered from the deoiling operation may be added back. One or more of the optional sweetening ingredients named in paragraph (b) of this section may be added, in a quantity reasonably necessary to raise the Brix or the Brix-acid ratio to any point within the normal range usually found in unfermented juice obtained from mature oranges as specified in § 146.135. The food is sealed in containers and so processed by heat, either before or after sealing, as to prevent spoilage. The finished canned orange juice tests not less than 10° Brix, and the ratio of the Brix hydrometer reading to the grams of anhydrous citric acid per 100 milliliters of juice is not less than 9 to 1.
+
+(b) The optional sweetening ingredients referred to in paragraph (a) of this section are sugar, invert sugar, dextrose, dried corn sirup, dried glucose sirup.
+
+(c) The name of the food is “Canned orange juice”. All the words in the name shall appear in the same size, color, and style of type and on the same color-contrasting background. If the food is not sold under refrigeration and if it does not purport to be chilled pasteurized orange juice or frozen pasteurized orange juice, the word “canned” may be omitted from the name.
+
+(d) If one or more of the sweetening ingredients specified in paragraph (b) of this section are added to the canned orange juice, the label shall bear the statement “\_\_\_\_\_\_ added”, the blank being filled in with the name or an appropriate combination of the names of the sweetening ingredients used. However, for the purpose of this section, the name “sweetener” may be used in lieu of the specific name or names of the sweetening ingredients.
+
+(e) Wherever the name of the food appears on the label so conspicuously as to be easily seen under customary conditions of purchase, the statement specified in this section for naming the optional ingredients used shall immediately and conspicuously precede or follow the name of the food, without intervening written, printed, or graphic matter.
+
+(f) *Label declaration.* Each of the ingredients used in the food shall be declared on the label as required by the applicable sections of parts 101 and 130 of this chapter.
+
+[42 FR 14433, Mar. 15, 1977, as amended at 57 FR 57667, Dec. 7, 1992; 58 FR 2881, Jan. 6, 1993]

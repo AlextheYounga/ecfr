@@ -1,0 +1,5 @@
+##### § 40.162 Semimonthly tax return. #####
+
+Every manufacturer of tobacco products shall file, for each of his factories, a semimonthly tax return on Form 5000.24 for each return period, including any period during which a manufacturer begins or discontinues business. The return shall be filed with TTB in accordance with the instructions on the form. The manufacturer shall file the return at the time specified in § 40.165 regardless of whether tobacco products are removed or whether tax is due for that particular return period. However, when the manufacturer requests by letter and the appropriate TTB officer grants specific authorization, the manufacturer need not during the term of such authorization file a tax return for which tax is not due or payable.
+
+[T.D. ATF-232, 51 FR 35353, Oct. 3, 1986; T.D. ATF-243, 51 FR 43194, Dec. 1, 1986, as amended by T.D. ATF-251, 52 FR 19339, May 22, 1987]

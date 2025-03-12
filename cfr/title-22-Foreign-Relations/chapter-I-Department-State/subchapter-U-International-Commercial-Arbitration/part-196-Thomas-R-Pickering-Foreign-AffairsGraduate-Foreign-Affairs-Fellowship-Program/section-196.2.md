@@ -1,0 +1,7 @@
+##### § 196.2 How is the Fellowship Program administered? #####
+
+(a) *Eligibility.* Eligibility will be determined annually by the Department of State and publicized nationwide. Fellows must be United States citizens.
+
+(b) *Provisions.* The grant awarded to each individual student shall not exceed $250,000 for the total amount of time the student is in the program. Fellows are prohibited from receiving grants from one or more Federal programs, which in the aggregate would exceed the cost of his or her educational expenses. Continued eligibility for participation is contingent upon the Fellow's ability to meet the educational requirements set forth in paragraph (c) of this section.
+
+(c) *Program requirements.* Eligibility for participation in the program is conditional upon successful completion of pre-employment processing specified by the Department of State, including background investigation, medical examination, and drug testing. As a condition of eligibility for continued receipt of grant funds, fellows are required to complete prescribed coursework and maintain a satisfactory grade point average as determined by the Department of State. Fellows are also required to accept employment with the Department of State's Foreign Service upon successful completion of the program, and Foreign Service entry requirements. Fellows must continue employment for a period of one and one-half years for each year of education funded by the Department of State.

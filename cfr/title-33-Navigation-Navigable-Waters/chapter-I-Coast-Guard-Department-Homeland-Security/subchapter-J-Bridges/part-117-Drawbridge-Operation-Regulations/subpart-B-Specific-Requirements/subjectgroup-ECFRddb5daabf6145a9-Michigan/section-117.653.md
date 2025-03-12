@@ -1,0 +1,3 @@
+##### § 117.653 St. Mary's Falls Canal. #####
+
+The draw of the International Railway bridge, mile 1.0 at Sault Ste. Marie, shall be maintained in the fully open position during the navigation season, except for the crossings of trains or for maintenance. Bridge operators shall not give precedence to railway traffic and shall not close the bridge against an upbound vessel after lock gates are open and the vessel is proceeding toward the bridge, nor against a downbound vessel, 1,200 feet or less west of the bridge, unless the vessel is moored at either canal pier awaiting its turn to take position at lock approaches.

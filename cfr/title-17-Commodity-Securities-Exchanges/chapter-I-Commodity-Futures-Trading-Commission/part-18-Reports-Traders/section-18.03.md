@@ -1,0 +1,5 @@
+##### § 18.03 Delegation of authority to the Director of the Division of Market and Oversight. #####
+
+The Commission hereby delegates, until the Commission orders otherwise, the authority to make special calls on traders for information as set forth in §§ 18.00, 18.04 and 18.05 to the Director of the Division of Market Oversight to be exercised by the Director or by such other employee or employees of the Director as may be designated from time to time by the Director. The Director of the Division of Market Oversight may submit to the Commission for its consideration any matter which has been delegated in this paragraph. Nothing in this paragraph prohibits the Commission, at its election, from exercising the authority delegated in this paragraph.
+
+[62 FR 6114, Feb. 11, 1997, as amended at 67 FR 62352, Oct. 7, 2002]

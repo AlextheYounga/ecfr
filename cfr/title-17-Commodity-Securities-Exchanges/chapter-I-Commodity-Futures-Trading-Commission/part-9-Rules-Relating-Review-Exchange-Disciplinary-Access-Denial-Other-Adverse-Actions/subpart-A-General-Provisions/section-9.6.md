@@ -1,0 +1,3 @@
+##### § 9.6 Sanctions for noncompliance. #####
+
+In the event that any party fails to file any document or make any appearance which is required under this part, the Commission may, in its discretion, and upon its own motion or upon the motion of any party to the proceeding, dismiss the proceeding before it, or, based on the record before it, affirm, modify, set aside, or remand for further proceedings, in whole or in part, the decision of the exchange.

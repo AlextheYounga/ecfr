@@ -1,0 +1,5 @@
+##### § 137.70 Specialized knowledge or experience on the part of persons specified in § 137.1(a). #####
+
+(a) For the purpose of identifying conditions indicative of the presence or likely presence of oil at the facility and the real property on which the facility is located, persons specified in § 137.1(a) must take into account their own specialized knowledge of the facility and the real property on which the facility is located, the area surrounding the facility and the real property on which the facility is located, and the conditions of adjoining properties and their experience relevant to the inquiry.
+
+(b) The results of all appropriate inquiries under § 137.33 must take into account the relevant and applicable specialized knowledge and experience of the persons specified in § 137.1(a) responsible for undertaking the inquiry.

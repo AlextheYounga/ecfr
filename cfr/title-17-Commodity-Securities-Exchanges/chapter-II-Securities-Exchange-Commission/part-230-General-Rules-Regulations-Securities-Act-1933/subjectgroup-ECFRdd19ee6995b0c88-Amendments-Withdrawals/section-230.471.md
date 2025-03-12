@@ -1,0 +1,7 @@
+##### § 230.471 Signatures to amendments. #####
+
+(a) Except as provided in Rule 447 (§ 230.447) and in Rule 478 (§ 230.478), every amendment to a registration statement shall be signed by the persons specified in section 6(a) of the Act. At least one copy of every amendment filed with the Commission shall be signed. Unsigned copies shall be conformed.
+
+(b) Where the Act or the rules thereunder require a document filed with or furnished to the Commission to be signed, such document shall be manually signed, or signed using either typed signatures or duplicated or facsimile versions of manual signatures. Where typed, duplicated or facsimile signatures are used, each signatory to the filing shall manually sign a signature page or other document authenticating, acknowledging or otherwise adopting his or her signature that appears in the filing. Such document shall be executed before or at the time the filing is made and shall be retained by the registrant for a period of five years. Upon request, the registrant shall furnish to the Commission or its staff a copy of any or all documents retained pursuant to this section.
+
+[47 FR 11445, Mar. 16, 1982, as amended at 61 FR 30402, June 14, 1996; 76 FR 71876, Nov. 21, 2011]

@@ -1,0 +1,3 @@
+##### § 20.148 Manufacture of articles with completely denatured alcohol. #####
+
+Articles may be made with completely denatured alcohol for sale under brand names. If ingredients are added in sufficient quantities to materially change the composition and character of the completely denatured alcohol, the article is not classified as completely denatured alcohol and may not be marked, branded, or sold as completely denatured alcohol.

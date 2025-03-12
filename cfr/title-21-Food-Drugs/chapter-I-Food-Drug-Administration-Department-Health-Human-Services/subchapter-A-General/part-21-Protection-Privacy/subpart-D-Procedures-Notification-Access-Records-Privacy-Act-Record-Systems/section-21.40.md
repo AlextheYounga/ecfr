@@ -1,0 +1,15 @@
+##### § 21.40 Procedures for submitting requests for notification and access. #####
+
+(a) An individual may request that the Food and Drug Administration notify him whether a Privacy Act Record System contains records about him that are retrieved by reference to his name or other personal identifier. An individual may at the same time, or after receiving notification that such a record about him exists, requests that he be given access to the record.
+
+(b) An individual desiring notification or access to records shall mail or deliver a request for records in any Food and Drug Administration Privacy Act Records System to the FDA Privacy Act Coordinator (address is located on the agency web site at *http://www.gov.fda*).
+
+(c) Requests shall be in writing and shall name the Privacy Act Record System or Systems concerning which the individual requests notification of whether there are records about him that are retrieved by reference to his name or other personal identifier. To help assure a prompt response, an individual should indicate that he is making a “Privacy Act Request” on the envelope and in a prominent manner in the letter.
+
+(d) An individual who merely wishes to be notified whether a Privacy Act Record System contains a record about him ordinarily need not provide any verification of his identity other than his name. The mere fact that the Food and Drug Administration has a record about an individual in any of its Privacy Act Records Systems would not be likely to constitute a clearly unwarranted invasion of personal privacy. Where mere disclosure of the fact that a record about the individual exists would be a clearly unwarranted invasion of personal privacy, further verification of the identity of the individual shall be required.
+
+(e) An individual who requests that he be given access to a copy of records about himself, if any exist, should indicate whether he prefers (1) to have copies of any such records mailed to him in accordance with § 21.43(a)(1), which may involve a fee under § 21.45, including information to verify his identity under § 21.44 or (2) to use the procedures for access in person under § 21.43(a)(2).
+
+(f) A request for notification and access may be submitted under this subpart concerning any Privacy Act Record System that is exempt under § 21.61, as indicated in the notice for the system. An individual seeking access to records under § 21.65(b)(2) to investigatory records compiled for law enforcement purposes other than criminal law enforcement purposes should submit a description of the right, benefit, or privilege that he believes he was denied as the result of the Food and Drug Administration's maintenance of the records. Where the system is exempt under § 21.61, and access to the requested records is not granted under § 21.65, the request shall be handled under the provisions of part 20 of this chapter (the public information regulations).
+
+[42 FR 15626, Mar. 22, 1977, as amended at 46 FR 8458, Jan. 27, 1981; 50 FR 52278, Dec. 23, 1985; 76 FR 31470, June 1, 2011; 79 FR 68115, Nov. 14, 2014]

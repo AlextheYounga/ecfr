@@ -1,0 +1,3 @@
+##### § 201.70 Purpose. #####
+
+This subpart sets forth the rights and responsibilities of banks with regard to reimbursement under a letter of commitment opened pursuant to an USAID request. Banks will not be held responsible for the requirements of subparts B, C, D, E (excluding § 201.44(a)(1)), and subpart G except insofar as provisions of these subparts are included in this subpart H or in a letter of commitment issued by USAID to a bank.

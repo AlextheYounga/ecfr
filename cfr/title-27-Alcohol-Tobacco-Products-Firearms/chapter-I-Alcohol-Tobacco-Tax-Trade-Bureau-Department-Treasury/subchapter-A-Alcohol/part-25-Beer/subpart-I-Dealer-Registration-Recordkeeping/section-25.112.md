@@ -1,0 +1,5 @@
+##### § 25.112 Dealer registration. #####
+
+Every brewer who sells, or offers for sale, any alcohol product (distilled spirits, wines, or beer) fit for beverage use must register as a dealer in accordance with part 31 of this chapter. However, the Brewer's Notice, TTB Form 5130.10, filed under subpart G of this part, and approval of that notice by the appropriate TTB officer, will constitute the brewer's registration as a dealer at the brewery. Every brewer registered as a dealer under this subpart will be classified as a wholesale dealer in liquors (see § 31.32 of this chapter) and as such may also operate as a retail dealer in liquors without additional registration. Registration covers all sales from the same location, including sales of wine, spirits, or other brewers' beer. As provided in § 31.52 of this chapter, the brewer is subject to no additional registration for making sales of wine or beer at the customer's place of business. Otherwise, a brewer who conducts business as a dealer at a location other than the brewery must register and keep records in accordance with part 31 of this chapter.
+
+(26 U.S.C. 5124)

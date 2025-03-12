@@ -1,0 +1,5 @@
+##### § 24.231 Receipt of spirits in sealed bulk containers. #####
+
+The proprietor shall examine sealed bulk containers (packages) of spirits received at the bonded wine premises to verify that the containers are the same as those described on the transfer record accompanying the shipment. Any container which appears to have been tampered with or from which spirits appear to have been removed or lost will be gauged by the proprietor and the proprietor shall prepare and submit to the appropriate TTB officer a statement setting forth fully the circumstances and apparent cause of any loss.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended, 1382, as amended (26 U.S.C. 5366, 5367, 5368, 5373))(Approved by the Office of Management and Budget under control numbers 1512-0292 and 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-409, 64 FR 13683, Mar. 22, 1999]

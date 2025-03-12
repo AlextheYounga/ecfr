@@ -1,0 +1,7 @@
+##### § 862.1055 Newborn screening test system for amino acids, free carnitine, and acylcarnitines using tandem mass spectrometry. #####
+
+(a) *Identification.* A newborn screening test system for amino acids, free carnitine, and acylcarnitines using tandem mass spectrometry is a device that consists of stable isotope internal standards, control materials, extraction solutions, flow solvents, instrumentation, software packages, and other reagents and materials. The device is intended for the measurement and evaluation of amino acids, free carnitine, and acylcarnitine concentrations from newborn whole blood filter paper samples. The quantitative analysis of amino acids, free carnitine, and acylcarnitines and their relationship with each other provides analyte concentration profiles that may aid in screening newborns for one or more inborn errors of amino acid, free carnitine, and acyl-carnitine metabolism.
+
+(b) *Classification.* Class II (special controls). The special control is FDA's guidance document entitled “Class II Special Controls Guidance Document: Newborn Screening Test Systems for Amino Acids, Free Carnitine, and Acylcarnitines Using Tandem Mass Spectrometry.” See § 862.1(d) for the availability of this guidance document.
+
+[69 FR 68255, Nov. 24, 2004]

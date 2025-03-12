@@ -1,0 +1,3 @@
+##### § 1.610 Who is eligible to seek recognition? #####
+
+An accreditation body is eligible to seek recognition by FDA if it can demonstrate that it meets the requirements of §§ 1.611 through 1.615. The accreditation body may use documentation of conformance with International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 17011:2004, supplemented as necessary, in meeting the applicable requirements of this subpart.

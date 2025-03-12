@@ -1,0 +1,3 @@
+##### § 71.74 General. #####
+
+All motions shall be made and addressed to the officer before whom the proceeding is pending, and copies of all motion papers shall be served upon the other party or parties. Such officer may dispose of any motion without oral argument, but he may, if he so desires, set it down for hearing and request argument. He may dispose of such motion prior to the hearing on the merits or he may postpone the disposition until the hearing on the merits. No appeal may be taken from any ruling on a motion until the whole record is certified for review. Examples of typical motions may be found in the Rules of Civil Procedure referred to in § 71.2.

@@ -1,0 +1,3 @@
+##### § 150.40 Deviating from the operations manual. #####
+
+If, because of a particular situation, the licensee needs to deviate from the operations manual, the licensee must submit a written request to the Captain of the Port (COTP) explaining why the deviation is necessary and what alternative is proposed. If the COTP determines that the deviation would ensure equivalent or greater protection and safety, the COTP authorizes the deviation and notifies the licensee in writing.

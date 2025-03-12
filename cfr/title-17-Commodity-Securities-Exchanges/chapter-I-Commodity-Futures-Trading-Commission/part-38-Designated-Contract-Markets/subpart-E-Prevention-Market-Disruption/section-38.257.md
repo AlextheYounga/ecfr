@@ -1,0 +1,3 @@
+##### § 38.257 Regulatory service provider. #####
+
+A designated contract market must comply with the regulations in this subpart through a dedicated regulatory department, or by delegation of that function to a registered futures association or a registered entity (collectively, “regulatory service provider”), as such terms are defined in the Act and over which the designated contract market has supervisory authority.

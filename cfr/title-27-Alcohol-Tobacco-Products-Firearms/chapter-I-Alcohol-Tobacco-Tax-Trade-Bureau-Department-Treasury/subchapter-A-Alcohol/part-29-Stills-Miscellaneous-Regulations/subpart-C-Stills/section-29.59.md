@@ -1,0 +1,5 @@
+##### § 29.59 Records. #####
+
+A copy of each notice of manufacture, or set up, of still required under the provisions of § 29.47, or § 29.49, shall be maintained, in chronological order, by the manufacturer at the premises where the still or distilling apparatus is manufactured. In addition, each manufacturer or vendor of stills shall maintain at their premises a record showing all stills and distilling apparatus (including those to be used for purposes other than distilling) manufactured, received, removed, or otherwise disposed of. The record will also show the name and address of the purchaser and the purpose for which each apparatus is to be used. Any commercial document on which all the required information has been recorded may be used for the record. The records will be kept available for a period of three years for inspection by appropriate TTB officers.
+
+(Approved by the Office of Management and Budget under control number 1512-0341)[T.D. ATF-207, 50 FR 23682, June 5, 1985, as amended by T.D. ATF-439, 66 FR 8770, Feb. 2, 2001]

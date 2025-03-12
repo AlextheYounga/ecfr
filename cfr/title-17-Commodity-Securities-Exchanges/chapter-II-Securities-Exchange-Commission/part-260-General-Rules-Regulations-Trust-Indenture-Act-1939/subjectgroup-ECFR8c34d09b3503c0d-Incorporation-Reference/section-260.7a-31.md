@@ -1,0 +1,3 @@
+##### § 260.7a-31 Incorporation by reference of contested material. #####
+
+Notwithstanding any particular provision permitting incorporation by reference, no application, statement or report shall incorporate by reference any matter which is subject, at the time of filing the application, statement or report, to pending proceedings under section 8(b) or 8(d) of the Securities Act of 1933 (whether pursuant to the provisions of the Trust Indenture Act of 1939, or otherwise) or to an order entered under either of those sections.

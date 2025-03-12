@@ -1,0 +1,5 @@
+##### § 21.73 Accuracy, completeness, timeliness, and relevance of records disclosed from Privacy Act Record Systems. #####
+
+(a) The Food and Drug Administration shall make reasonable efforts to assure that a record about an individual in a Privacy Act Record System is accurate, relevant to a Food and Drug Administration purpose, timely, and complete before such record is disclosed under § 21.71.
+
+(b) Paragraph (a) of this section shall not apply to disclosures that are required under part 20 of this chapter (the public information regulations) or made to other Federal Government departments and agencies. Where appropriate, the letter disclosing the information shall indicate that the Food and Drug Administration has not reviewed the record to assure that it is accurate, relevant, timely, and complete.

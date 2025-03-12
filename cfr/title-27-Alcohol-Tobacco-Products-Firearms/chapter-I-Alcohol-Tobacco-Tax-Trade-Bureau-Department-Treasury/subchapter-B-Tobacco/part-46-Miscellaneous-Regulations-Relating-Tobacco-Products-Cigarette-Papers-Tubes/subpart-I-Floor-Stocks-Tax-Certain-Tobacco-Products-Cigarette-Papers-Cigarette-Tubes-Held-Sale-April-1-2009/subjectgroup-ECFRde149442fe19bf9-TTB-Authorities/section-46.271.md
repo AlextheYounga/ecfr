@@ -1,0 +1,3 @@
+##### § 46.271 Entry, examination and testimony. #####
+
+Appropriate TTB officers, in performing official duties, may enter any premises to examine articles subject to floor stocks tax. They may enter the premises during the day or may also enter at night if the premises are open. Appropriate TTB officers may audit and examine all articles, inventory records, books, papers, or other resource data for the purpose of ascertaining, determining, or collecting floor stocks tax. They may take testimony, under oath, of any person when inquiring as to proper payment of floor stocks taxes.

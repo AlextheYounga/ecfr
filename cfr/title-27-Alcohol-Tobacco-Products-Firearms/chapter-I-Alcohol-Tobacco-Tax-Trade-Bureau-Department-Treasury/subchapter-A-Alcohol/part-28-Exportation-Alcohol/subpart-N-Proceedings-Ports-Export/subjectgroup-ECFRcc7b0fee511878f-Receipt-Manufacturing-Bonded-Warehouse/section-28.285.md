@@ -1,0 +1,5 @@
+##### § 28.285 Receipt in manufacturing bonded warehouse. #####
+
+On receipt of the distilled spirits or wines, the related TTB Form 5100.11 (with any attachments), such inspection as is necessary will be made to establish that the shipment corresponds with its description on TTB Form 5100.11 (and any attachments) and customs Form 6001 will be prepared according to § 28.291. Any discrepancy disclosed by the inspection and gauge will be noted on each copy of TTB Form 5100.11. When the shipment corresponds with the description of TTB Form 5100.11 (and any attachments), the certificate of deposit will be executed on both copies of TTB Form 5100.11 and the original of TTB Form 5100.11 (and any attachments) and the original of his customs Form 6001 will be forwarded to the appropriate TTB officer. The remaining copies shall be kept on file.
+
+(Sec. 201. Pub. L. 85-859, 72 Stat. 1362, as amended, 1380, as amended (26 U.S.C. 5214, 5362))[T.D. ATF-198, 50 FR 8563, Mar. 1, 1985, as amended by T.D. TTB-8, 69 FR 3834, Jan. 27, 2004]

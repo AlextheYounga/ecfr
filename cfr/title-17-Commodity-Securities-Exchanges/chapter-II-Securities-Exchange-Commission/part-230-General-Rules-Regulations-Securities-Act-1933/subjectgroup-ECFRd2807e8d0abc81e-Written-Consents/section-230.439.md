@@ -1,0 +1,7 @@
+##### § 230.439 Consent to use of material incorporated by reference. #####
+
+(a) If the Act or the rules and regulations of the Commission require the filing of a written consent to the use of any material in connection with the registration statement, such consent shall be filed as an exhibit to the registration statement even though the material is incorporated therein by reference. Where the filing of a written consent is required with respect to material incorporated in the registration statement by reference, which is to be filed subsequent to the effective date of the registration statement, such consent shall be filed as an amendment to the registration statement no later than the date on which such material is filed with the Commission, unless express consent to incorporation by reference is contained in the material to be incorporated by reference.
+
+(b) Notwithstanding paragraph (a) of this section, any required consent may be incorporated by reference into a registration statement filed pursuant to Rule 462(b) (§ 230.462(b)) or a post-effective amendment filed pursuant to Rule 462(e) (§ 230.462(e)) from a previously filed registration statement relating to that offering, provided that the consent contained in the previously filed registration statement expressly provides for such incorporation.
+
+[47 FR 11441, Mar. 16, 1982, as amended at 60 FR 26615, 26617, May 17, 1995; 70 FR 44818, Aug. 3, 2005]

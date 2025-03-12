@@ -1,0 +1,5 @@
+##### § 401.14 Authorization by Government. #####
+
+(a) Where the use, obstruction or diversion of waters for which the Commission's approval is sought has been authorized by or on behalf of a Government or by or on behalf of a State or Province or other competent authority, two copies of such authorization and of any plans approved incidental thereto shall accompany the application when it is presented to the Commission in accordance with § 401.12.
+
+(b) Where such a use, obstruction or diversion of waters is authorized by or on behalf of a Government or by or on behalf of a State or Province or other competent authority after an application has been presented to the Commission in accordance with § 401.12, the applicant shall deliver forthwith to the Commission two copies of such authorization and of any plans approved incidental thereto.

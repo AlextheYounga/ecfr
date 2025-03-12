@@ -1,0 +1,7 @@
+##### § 162.105 Missouri River; administration and navigation. #####
+
+(a) *Supervision.* The District Commander, Eighth Coast Guard District, has certain administrative supervision overreaches of the river within the limits of his district and is charged with the enforcement under his direction of emergency regulations to govern navigation on the river.
+
+(b) *Navigation.* During critical flood stages on any particular limited reach of the Missouri River when lives, floating plant, or major shore installations and levees are endangered, the District Commander in charge of the locality shall have the authority to declare the reach of the river closed to navigation or to prescribe temporary speed regulations whenever it appears to him that such action is necessary to prevent immediate human suffering or to mitigate major property damage or destruction from wave action. The period of closure and all speed regulations prescribed by the District Commander shall be for the duration of the emergency as determined by the District Commander and shall be terminated at the earliest practicable time that improved river conditions permit.
+
+[CGD 75-082, 42 FR 51759, Sept. 29, 1977, as amended by USCG-1998-3799, 63 FR 35532, June 30, 1998]

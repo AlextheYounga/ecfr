@@ -1,0 +1,5 @@
+##### § 230.152a Offer or sale of certain fractional interests. #####
+
+Any offer or sale of a security, evidenced by a scrip certificate, order form or similar document which represents a fractional interest in a share of stock or similar security shall be deemed a transaction by a person other than an issuer, underwriter or dealer, within the meaning of section 4(1) of the act, if the fractional interest (a) resulted from a stock dividend, stock split, reverse stock split, conversion, merger or similar transaction, and (b) is offered or sold pursuant to arrangements for the purchase and sale of fractional interests among the person entitled to such fractional interests for the purpose of combining such interests into whole shares, and for the sale of such number of whole shares as may be necessary to compensate security holders for any remaining fractional interests not so combined, notwithstanding that the issuer or an affiliate of the issuer may act on behalf of or as agent for the security holders in effecting such transactions.
+
+(Sec. 4, 48 Stat. 77; 15 U.S.C. 77d)[30 FR 2657, Mar. 2, 1965]

@@ -1,0 +1,21 @@
+##### § 171.4 Requests for information—types and how made. #####
+
+(a) Requests for records made in accordance with subparts A, B, and C of this part must be made in writing and may be made by mail addressed to the Office of Information Programs and Services (IPS), U.S. Department of State, State Annex 2 (SA-2), 515 22nd Street, NW., Washington, DC 20522-8100, or by fax to (202) 261-8579, or through the Department's FOIA Web site (*www.foia.state.gov*). PA requests may be made by mail or fax only. IPS does not accept requests submitted by email.
+
+(1) Requests for passport records that are covered under PA System of Records Notice 26, including passport records issued from 1925 to present, should be mailed to U.S. Department of State, Law Enforcement Liaison Division, CA/PPT/S/L/LE, 44132 Mercure Cir, P.O. Box 1227, Sterling, VA 20166. Further guidance on obtaining passport records is available on the Department's Web site: *travel.state.gov/content/passports/english/passports/services/obtain-copies-of-passport-records.html.*
+
+(2) Requests for records of the Office of Inspector General (OIG) may be submitted to U.S. Department of State, Office of Inspector General, Office of General Counsel, Washington, DC 20520-0308, ATTN: FOIA officer. In addition, FOIA requests seeking OIG records may be submitted via email to *oigfoia@state.gov,* which is preferred. PA requests are accepted by mail only. Guidance is available on the OIG's Web site: *oig.state.gov/foia/index.htm.*
+
+(3) All other requests for other Department records must be submitted to the Office of Information Programs and Services by one of the means noted above. The Office of Information Programs and Services, the Law Enforcement Liaison Division of the Office of Passport Services, and the OIG are the only Department components authorized to accept FOIA requests submitted to the Department.
+
+(4) Providing the specific citation to the statute under which a requester is requesting information will facilitate the processing of the request by the Department. The Department automatically processes requests for information maintained in a PA system of records under both the FOIA and the PA to provide the requester with the greatest degree of access to the requester. Such information may be withheld only if it is exempt from access under both laws; if the information is exempt under only one of the laws, it must be released.
+
+(b) Although no particular format is required, a request must reasonably describe the Department records that are sought. To the extent that requests are specific and include all pertinent details about the requested information, it will be easier for the Department to locate responsive records. For FOIA requests, such details include the subject, timeframe, names of any individuals involved, a contract number (if applicable), and reasons why the requester believes the Department may have records on the subject of the request.
+
+(c) While every effort is made to guarantee the greatest possible access to all requesters regardless of the statute(s) under which the information is requested, the following guidance is provided for the benefit of requesters:
+
+(1) The Freedom of Information Act applies to requests for records concerning the general activities of government and of the Department in particular (see subpart B of this part).
+
+(2) The Privacy Act applies to requests from U.S. citizens or legal permanent resident aliens for records that pertain to them that are maintained by the Department in a system of records retrievable by the individual's name or personal identifier (see subpart C of this part).
+
+(d) As a general matter, information access requests are processed in the order in which they are received. However, if the request is specific and the search can be narrowed, it may be processed more quickly. Additionally, FOIA requests granted expedited processing will be placed in the expedited processing queue (see § 171.11(f) for more information). Multi-tracking of FOIA requests is also used to manage requests (see § 171.11(h)).

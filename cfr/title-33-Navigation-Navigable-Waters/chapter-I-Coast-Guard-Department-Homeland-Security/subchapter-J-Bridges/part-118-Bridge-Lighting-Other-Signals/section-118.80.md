@@ -1,0 +1,13 @@
+##### § 118.80 Lights on bascule bridges. #####
+
+(a) *Lift span lights.* Each lift span of every bascule bridge shall be lighted so that the free end of the span will be marked on each side by a green light which shows only when the span is fully open for the passage of a vessel and by a red light which shows for all other positions of the lift span. Each red and each green light shall show through a horizontal arc of 180°. The lighting apparatus shall be securely mounted to the side of the span so that the light will show equally on either side of a line parallel to the axis of the channels, so that they will be visible from an approaching vessel.
+
+Note:
+
+Until such time that major repairs to or replacement of lift span navigation lights are made, existing lights may show through a horizontal arc of less than 180°. When major repairs to or replacement of existing lights are made they shall conform with this paragraph.
+
+(b) *Multiple parallel lift span lights.* The outermost side of each outer span of every bascule bridge with parallel multiple lifts shall be lighted as prescribed in paragraph (a) of this section; the lights shall be controlled so that the green lights will be displayed only when all spans are open for navigation. The inner sides of each outer lift span and both sides of each inner lift span of such bascule bridge shall be lighted by red lights for all positions of the lift span. These lights shall have the same arcs of illumination and shall be mounted as described in paragraph (a) of this section.
+
+(c) *Pier lights.* Every bascule bridge shall be lighted so that each end of every pier, or protection pier where provided, in or adjacent to the navigable channels under the lift span or spans will be marked by a red light. Each such red light shall show through a horizontal arc of 180°, and shall be securely mounted as low as practicable on the end of the pier, or protection pier, to show 90° either side of a line parallel to the axis of the navigable channel so as to be visible from an approaching vessel.
+
+(d) *Axis lights.* Every bascule bridge which has at least one pier provided with a protection pier shall be lighted so that the intersection of the long axis of the lift span with the channel side of each pier, or protection pier, will be marked by a red light: *Provided,* That if all such piers and protection piers are straight along their channel faces these lights shall not be required. Each such red light shall show through a horizontal arc of 180° and shall be securely mounted on the navigable channel face of the pier as low as practicable to show 90° on either side of a line normal to the axis of the navigable channel so as to be visible from an approaching vessel.

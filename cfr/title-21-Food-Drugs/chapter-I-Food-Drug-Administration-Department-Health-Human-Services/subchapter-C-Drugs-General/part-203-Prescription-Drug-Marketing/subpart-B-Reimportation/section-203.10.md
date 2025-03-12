@@ -1,0 +1,3 @@
+##### § 203.10 Restrictions on reimportation. #####
+
+No prescription drug or drug composed wholly or partly of insulin that was manufactured in a State and exported from the United States may be reimported by anyone other than its manufacturer, except that FDA may grant permission to a person other than the manufacturer to reimport a prescription drug or insulin-containing drug if it determines that such reimportation is required for emergency medical care.

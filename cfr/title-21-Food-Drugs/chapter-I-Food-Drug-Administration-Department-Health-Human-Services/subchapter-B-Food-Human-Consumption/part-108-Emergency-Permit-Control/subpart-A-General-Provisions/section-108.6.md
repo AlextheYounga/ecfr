@@ -1,0 +1,5 @@
+##### § 108.6 Revocation of determination of need for permit. #####
+
+(a) A permit shall be required only during such temporary period as is necessary to protect the public health.
+
+(b) Whenever the Commissioner has reason to believe that a permit holder is in compliance with the mandatory requirements and conditions established in subpart B of this part and is likely to remain in compliance, he shall, on his own initiative or on the application of the permit holder, revoke both the determination of need for a permit and the permit that had been issued. If denied, the applicant shall, upon request, be afforded a hearing conducted in accordance with § 108.5 (b) and (c) as soon as practicable. Such revocation is without prejudice to the initiation of further permit proceedings with respect to the same manufacturer, processor, or packer should later information again show the need for a permit.

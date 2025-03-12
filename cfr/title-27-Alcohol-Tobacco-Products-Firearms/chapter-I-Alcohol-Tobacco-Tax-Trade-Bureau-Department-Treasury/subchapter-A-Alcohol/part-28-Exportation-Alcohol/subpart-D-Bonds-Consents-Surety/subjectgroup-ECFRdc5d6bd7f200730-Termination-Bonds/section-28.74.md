@@ -1,0 +1,5 @@
+##### § 28.74 Release of pledged securities. #####
+
+Securities of the United States, pledged and deposited as provided in § 28.53, shall be released only in accordance with the provisions of 31 CFR part 225. Such securities will not be released by the appropriate TTB officer until liability under the bond for which they were pledged has been terminated. When the appropriate TTB officer is satisfied that they may be released, he shall fix the date or dates on which a part or all of such securities may be released. At any time prior to the release of such securities, the appropriate TTB officer may extend the date of release for such additional length of time as he deems necessary.
+
+(61 Stat. 650; 6 U.S.C. 15)[25 FR 5734, June 23, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975 and amended by T.D. TTB-8, 69 FR 3832, Jan. 27, 2004]

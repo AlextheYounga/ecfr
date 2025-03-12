@@ -1,0 +1,19 @@
+##### § 352.20 Permitted combinations of active ingredients. #####
+
+The SPF of any combination product is measured by the testing procedures established in subpart D of this part.
+
+(a) *Combinations of sunscreen active ingredients.* (1) Two or more sunscreen active ingredients identified in § 352.10(a), (c), (e), (f), and (h) through (r) may be combined with each other in a single product when used in the concentrations established for each ingredient in § 352.10. The concentration of each active ingredient must be sufficient to contribute a minimum SPF of not less than 2 to the finished product. The finished product must have a minimum SPF of not less than the number of sunscreen active ingredients used in the combination multiplied by 2.
+
+(2) Two or more sunscreen active ingredients identified in § 352.10(b), (c), (e), (f), (i) through (l), (o), and (q) may be combined with each other in a single product when used in the concentrations established for each ingredient in § 352.10. The concentration of each active ingredient must be sufficient to contribute a minimum SPF of not less than 2 to the finished product. The finished product must have a minimum SPF of not less than the number of sunscreen active ingredients used in the combination multiplied by 2.
+
+(b) *Combinations of sunscreen and skin protectant active ingredients.* Any single sunscreen active ingredient or any permitted combination of sunscreen active ingredients when used in the concentrations established for each ingredient in § 352.10 may be combined with one or more skin protectant active ingredients identified in § 347.10(a), (d), (e), (g), (h), (i), (k), (l), (m), and (r) of this chapter. The concentration of each sunscreen active ingredient must be sufficient to contribute a minimum SPF of not less that 2 to the finished product. The finished product must have a minimum SPF of not less than the number of sunscreen active ingredients used in the combination multiplied by 2, and the product must be labeled according to § 352.60.
+
+(c) [Reserved]
+
+[64 FR 27687, May 21, 1999, as amended at 68 FR 33380, June 4, 2003]Effective Date Note:At 67 FR 41823, June 20, 2002, § 352.20 was amended by revising paragraphs (a)(1) through (a)(2), effective Sept. 1, 2002. This amendment could not be incorporated because at 66 FR 67485, Dec. 31, 2001 the effective date was stayed until further notice. For the convenience of the user, the text is set forth as follows:
+
+##### § 352.20 Permitted combinations of active ingredients. #####
+
+(a) *Combinations of sunscreen active ingredients.* (1) Two or more sunscreen active ingredients identified in § 352.10(a), (c), (e), (f), (g), and (i) through (r) may be combined with each other in a single product when used in the concentrations established for each ingredient in § 352.10. The concentration of each active ingredient must be sufficient to contribute a minimum SPF of not less than 2 to the finished product. The finished product must have a minimum SPF of not less than the number of sunscreen active ingredients used in the combination multiplied by 2.
+
+(2) Two or more sunscreen active ingredients identified in § 352.10(b), (c), (e), (g), (j) through (m), (o), and (q) may be combined with each other in a single product when used in the concentrations established for each ingredient in § 352.10. The concentration of each active ingredient must be sufficient to contribute a minimum SPF of not less than 2 to the finished product. The finished product must have a minimum SPF of not less than the number of sunscreen active ingredients used in the combination multiplied by 2.

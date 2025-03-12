@@ -1,0 +1,5 @@
+##### § 20.2 Production of records by Food and Drug Administration employees. #####
+
+(a) Any request for records of the Food and Drug Administration, whether it be by letter or by a subpena duces tecum or by any other writing, shall be handled pursuant to the procedures established in subpart B of this part, and shall comply with the rules governing public disclosure established in subparts C, D, E, and F of this part and in other regulations cross-referenced in § 20.100(c).
+
+(b) Whenever a subpoena duces tecum, in appropriate form, has been lawfully served upon an officer or employee of the Food and Drug Administration commanding the production of any record, such officer or employee shall appear in response thereto, respectfully decline to produce the record on the ground that it is prohibited by this section, and state that the production of the record(s) involved will be handled by the procedures established in this part.

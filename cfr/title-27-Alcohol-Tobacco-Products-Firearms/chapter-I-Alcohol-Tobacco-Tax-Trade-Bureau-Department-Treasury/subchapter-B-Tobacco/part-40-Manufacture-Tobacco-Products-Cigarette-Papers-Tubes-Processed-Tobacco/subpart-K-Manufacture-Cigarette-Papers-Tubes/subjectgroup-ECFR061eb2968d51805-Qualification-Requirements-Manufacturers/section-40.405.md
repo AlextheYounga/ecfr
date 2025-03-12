@@ -1,0 +1,5 @@
+##### § 40.405 Strengthening bond. #####
+
+Where the appropriate TTB officer determines that the amount of the bond, under which a manufacturer of cigarette papers and tubes is currently carrying on such business, no longer adequately protects the revenue, the appropriate TTB officer may require the manufacturer to file a strengthening bond in an appropriate amount with the same surety as that on the bond already in effect, in lieu of a superseding bond to cover the full liability on the basis of § 40.404. The appropriate TTB officer shall refuse to approve any strengthening bond where any notation is made thereon which is intended or which may be construed as a release of any former bond, or as limiting the amount of either bond to less than its full amount.
+
+(72 Stat. 1421; 26 U.S.C. 5711)

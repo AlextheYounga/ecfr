@@ -1,0 +1,3 @@
+##### § 20.115 Product codes for manufacturing or sales dates. #####
+
+Data or information in Food and Drug Administration files which provide a means for deciphering or decoding a manufacturing date or sales date or use date contained on the label or in labeling or otherwise used in connection with a product subject to the jurisdiction of the Food and Drug Administration are available for public disclosure.

@@ -1,0 +1,11 @@
+##### § 230.604 Filing of notification on Form 1-E. #####
+
+(a) At least 10 days (Saturdays, Sundays and holidays excluded) prior to the date on which the initial offering or sale of any securities is to be made under §§ 230.601 to 230.610a, there shall be filed with the Commission four copies of a notification on Form 1-E. The Commission may, however, in its discretion, authorize the commencement of the offering or sale prior to the expiration of such 10-day period upon a written request for such authorization.
+
+(b) The notification shall be signed by the issuer and each person, other than the issuer, for whose account any of the securities are to be offered. If the notification is signed by any person on behalf of any other person, evidence of authority to sign on behalf of such other person shall be filed with the notification, except where an officer of the issuer signs on behalf of the issuer.
+
+(c) Any amendment to the notification shall be signed in the same manner as the original notification. Four copies of such amendment shall be filed with the Commission at least 10 days prior to any offering or sale of the securities subsequent to the filing of such amendment, or such shorter period as the Commission, in its discretion, may authorize upon a written request for such authorization.
+
+(d) A notification or any exhibit or other document filed as a part thereof may be withdrawn upon application unless the notification is subject to an order under § 230.610 at the time the application is filed or becomes subject to such an order within 15 days (Saturdays, Sundays and holidays excluded) thereafter: *Provided,* That a notification may not be withdrawn after any of the securities proposed to be offered thereunder have been sold. Any such application shall be signed in the same manner as the notification.
+
+(Secs. 3(b) and 3(c), Securities Act of 1933 (15 U.S.C. 77c (b) and (c)); sec. 38, Investment Company Act of 1940 (15 U.S.C. 80a-37))[23 FR 10484, Dec. 30, 1958, as amended at 37 FR 1471, Jan. 29, 1972; 49 FR 35344, Sept. 7, 1984; 61 FR 49959, Sept. 24, 1996]

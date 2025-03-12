@@ -1,0 +1,5 @@
+##### § 159.101 Testing: general. #####
+
+Unless otherwise authorized by the Coast Guard, a recognized facility must perform each test described in §§ 159.103 through 159.131. The same device must be used for each test and tested in the order in which the tests are described. There must be no cracking, softening, deterioration, displacement, breakage, leakage or damage of components or materials that affects the operation or safety of the device after each test described in §§ 159.103 through 159.117 and § 159.121, and the device must remain operable after the test described in § 159.119. The device must be set up in a manner simulating installation on a vessel in accordance with the manufacturer's instructions with respect to mounting, water supply, and discharge fittings.
+
+[CGD 73-83, 40 FR 4624, Jan. 30, 1975, as amended by CGD 75-213, 41 FR 15326, Apr. 12, 1976]

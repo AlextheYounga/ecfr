@@ -1,0 +1,3 @@
+##### § 26.35 Length and purpose of transition period. #####
+
+There will be a 3-year transition period immediately following the date described in § 26.80(a). During the transition period, the parties will engage in confidence-building activities for the purpose of obtaining sufficient evidence to make determinations concerning the equivalence of conformity assessment bodies (CAB's) of the other party with respect to the ability to perform quality system and product evaluations or other reviews resulting in reports to be exchanged under this subpart.

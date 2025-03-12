@@ -1,0 +1,5 @@
+##### § 130.11 Label designations of ingredients for standardized foods. #####
+
+Some definitions and standards of identity for foods set forth below require that designated optional ingredients such as spices, flavorings, colorings, emulsifiers, flavor enhancers, stabilizers, preservatives, and sweeteners be declared in a specified manner on the label wherever the name of the standardized food appears on the label so conspicuously as to be easily seen under customary conditions of purchase. Such requirements shall apply to a manufacturer, packer, or distributor of a standardized food only if the words or statements on the label of the standardized food significantly differentiate between two or more foods that comply with the same standard by describing the optional forms or varieties, the packing medium, or significant characterizing ingredients present in the food.
+
+[58 FR 2876, Jan. 6, 1993]

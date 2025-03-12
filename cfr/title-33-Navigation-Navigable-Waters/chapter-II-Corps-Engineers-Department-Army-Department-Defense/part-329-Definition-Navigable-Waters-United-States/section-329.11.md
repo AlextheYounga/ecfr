@@ -1,0 +1,9 @@
+##### § 329.11 Geographic and jurisdictional limits of rivers and lakes. #####
+
+(a) *Jurisdiction over entire bed.* Federal regulatory jurisdiction, and powers of improvement for navigation, extend laterally to the entire water surface and bed of a navigable waterbody, which includes all the land and waters below the ordinary high water mark. Jurisdiction thus extends to the edge (as determined above) of all such waterbodies, even though portions of the waterbody may be extremely shallow, or obstructed by shoals, vegetation or other barriers. Marshlands and similar areas are thus considered navigable in law, but only so far as the area is subject to inundation by the ordinary high waters.
+
+(1) The “ordinary high water mark” on non-tidal rivers is the line on the shore established by the fluctuations of water and indicated by physical characteristics such as a clear, natural line impressed on the bank; shelving; changes in the character of soil; destruction of terrestrial vegetation; the presence of litter and debris; or other appropriate means that consider the characteristics of the surrounding areas.
+
+(2) Ownership of a river or lake bed or of the lands between high and low water marks will vary according to state law; however, private ownership of the underlying lands has no bearing on the existence or extent of the dominant Federal jurisdiction over a navigable waterbody.
+
+(b) *Upper limit of navigability.* The character of a river will, at some point along its length, change from navigable to non-navigable. Very often that point will be at a major fall or rapids, or other place where there is a marked decrease in the navigable capacity of the river. The upper limit will therefore often be the same point traditionally recognized as the head of navigation, but may, under some of the tests described above, be at some point yet farther upstream.

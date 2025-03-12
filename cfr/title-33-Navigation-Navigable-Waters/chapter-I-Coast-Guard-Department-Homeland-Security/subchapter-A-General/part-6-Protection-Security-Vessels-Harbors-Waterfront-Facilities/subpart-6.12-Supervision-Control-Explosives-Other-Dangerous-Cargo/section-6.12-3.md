@@ -1,0 +1,3 @@
+##### § 6.12-3 Approval of facility for dangerous cargo. #####
+
+The Commandant may designate waterfront facilities for the handling and storage of, and for vessel loading and discharging, explosives, inflammable or combustible liquids in bulk, or other dangerous articles or cargo covered by the regulations referred to in § 6.12-1, and may require the owners, operators, masters, and others concerned to secure permits for such handling, storage, loading, and unloading from the Captain of the Port, conditioned upon the fulfillment of such requirements for the safeguarding of such waterfront facilities and vessels as the Commandant may prescribe.

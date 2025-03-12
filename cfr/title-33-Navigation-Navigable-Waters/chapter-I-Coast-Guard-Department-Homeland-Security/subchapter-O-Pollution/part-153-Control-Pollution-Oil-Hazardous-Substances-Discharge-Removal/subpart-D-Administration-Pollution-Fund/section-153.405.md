@@ -1,0 +1,3 @@
+##### § 153.405 Liability to the pollution fund. #####
+
+The owner or operator of the vessel or onshore or offshore facility from which a discharge occurs that requires Federal removal activity is liable to the pollution fund for the actual costs of Federal and State agencies, including the employment and use of personnel and equipment, not to exceed the limits established by sections 311(f) and (g) of the Act.

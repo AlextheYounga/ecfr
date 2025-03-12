@@ -1,0 +1,11 @@
+##### § 1271.420 HCT/Ps offered for import. #####
+
+(a) Except as provided in paragraphs (c) and (d) of this section, when an HCT/P is offered for import, the importer of record must notify, either before or at the time of importation, the director of the district of the Food and Drug Administration (FDA) having jurisdiction over the port of entry through which the HCT/P is imported or offered for import, or such officer of the district as the director may designate to act in his or her behalf in administering and enforcing this part, and must provide sufficient information, including information submitted in the Automated Commercial Environment (ACE) system or any other electronic data interchange system authorized by the U.S. Customs and Border Protection Agency as required in part 1, subpart D of this chapter, for FDA to make an admissibility decision.
+
+(b) Except as provided in paragraphs (c) and (d) of this section, an HCT/P offered for import must be held intact by the importer or consignee, under conditions necessary to prevent transmission of communicable disease, until an admissibility decision is made by FDA. The HCT/P may be transported under quarantine to the consignee, while the FDA district reviews the documentation accompanying the HCT/P. When FDA makes a decision regarding the admissibility of the HCT/P, FDA will notify the importer of record.
+
+(c) This section does not apply to reproductive HCT/Ps regulated solely under section 361 of the Public Health Service Act and the regulations in this part, and donated by a sexually intimate partner of the recipient for reproductive use.
+
+(d) This section does not apply to peripheral blood stem/progenitor cells regulated solely under section 361 of the Public Health Service Act and the regulations in this part, except that paragraphs (a) and (b) of this section apply when circumstances occur under which such imported peripheral blood stem/progenitor cells may present an unreasonable risk of communicable disease transmission which indicates the need to review the information referenced in paragraph (a) of this section.
+
+[69 FR 68687, Nov. 24, 2004, as amended at 81 FR 85873, Nov. 29, 2016]

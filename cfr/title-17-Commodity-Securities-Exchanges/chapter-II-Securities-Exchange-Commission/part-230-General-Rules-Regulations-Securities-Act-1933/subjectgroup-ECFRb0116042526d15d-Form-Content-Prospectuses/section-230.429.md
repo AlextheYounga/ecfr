@@ -1,0 +1,7 @@
+##### § 230.429 Prospectus relating to several registration statements. #####
+
+(a) Where a registrant has filed two or more registration statements, it may file a single prospectus in the latest registration statement in order to satisfy the requirements of the Act and the rules and regulations thereunder for that offering and any other offering(s) registered on the earlier registration statement(s). The combined prospectus in the latest registration statement must include all of the information that currently would be required in a prospectus relating to all offering(s) that it covers. The combined prospectus may be filed as part of the initial filing of the latest registration statement, in a pre-effective amendment to it or in a post-effective amendment to it.
+
+(b) Where a registrant relies on paragraph (a) of this section, the registration statement containing the combined prospectus shall act, upon effectiveness, as a post-effective amendment to any earlier registration statement whose prospectus has been combined in the latest registration statement. The registrant must identify any earlier registration statement to which the combined prospectus relates by setting forth the Commission file number at the bottom of the facing page of the latest registration statement.
+
+[66 FR 8896, Feb. 5, 2001]

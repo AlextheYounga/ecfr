@@ -1,0 +1,5 @@
+##### § 44.265 For export by parcel post. #####
+
+Where cigars are withdrawn from a customs warehouse for export by parcel post, the customs warehouse proprietor shall present one copy of the notice of removal, Form 5200.14, together with the shipping containers, to the postal authorities with the request that the postmaster or his agent execute the certificate of mailing on the form. Where a customs warehouse proprietor so desires, he may cover under one notice of removal all the cigars removed under this part for export by parcel post which are delivered at one time to the postal service for that purpose. The customs warehouse proprietor shall immediately file the receipted copy of the notice of removal with the appropriate TTB officer.
+
+[25 FR 4725, May 28, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, as amended by T.D. ATF-421, 64 FR 71926, Dec. 22, 1999]

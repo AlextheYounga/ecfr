@@ -1,0 +1,5 @@
+##### § 240.21F-17 Staff communications with individuals reporting possible securities law violations. #####
+
+(a) No person may take any action to impede an individual from communicating directly with the Commission staff about a possible securities law violation, including enforcing, or threatening to enforce, a confidentiality agreement (other than agreements dealing with information covered by § 240.21F-4(b)(4)(i) and § 240.21F-4(b)(4)(ii) of this chapter related to the legal representation of a client) with respect to such communications.
+
+(b) If you are a director, officer, member, agent, or employee of an entity that has counsel, and you have initiated communication with the Commission relating to a possible securities law violation, the staff is authorized to communicate directly with you regarding the possible securities law violation without seeking the consent of the entity's counsel.

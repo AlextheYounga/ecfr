@@ -1,0 +1,9 @@
+##### § 20.9 Application procedure. #####
+
+(a) *Submission of application.* To be eligible for retirement or survivor benefits under this part, a former spouse must submit a properly executed and completed application to the Department of State by June 22, 1990 or, if an exception is made for compelling cause to this deadline, within 60 days following the date of the letter from the Department transmitting the application to the former spouse. The application must be delivered or mailed to the Retirement Division (PER/ER/RET), Room 1251, Department of State, Washington, DC 20520.
+
+(b) *Request for application.* The Department of State has attempted to mail applications to all former spouses of whom it is aware that it believes may be eligible for benefits under this part. Any eligible former spouse who does not have an application at the time this part is published in the Federal Register (October 7, 1988) must communicate with the Department as soon as possible and request an application. Request may be in person or by mail to the address in § 20.9(a) or by telephoning the Retirement Division on area code 202-647-9315. A request by letter must include the typed or printed full name and current address of the former spouse.
+
+It shall also give the dates of marriage and divorce or annulment that establish eligibility and fully identify the Foreign Service employee or former employee in question and state the agency of current or last employment.
+
+(c) *Payment of benefits delayed.* Payment of benefits cannot be made to a former spouse until the application for benefits is approved by the Retirement Division of the Department. Upon such approval, benefits will be paid to an eligible former spouse retroactively, if necessary, back to the commencing date determined under this part.

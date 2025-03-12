@@ -1,0 +1,5 @@
+##### § 230.26 General considerations in preparing Corps EISs. #####
+
+(a) *Interdisciplinary preparation.* See (40 CFR 1502.6).
+
+(b) *Incorporation by reference.* To the maximum extent practicable, the EIS should incorporate material by reference in accordance with 40 CFR 1502.21. Footnotes should be used only where their use greatly aids the reader's understanding of the point discussed. Citation in the EIS of material incorporated by reference should be made by indicating an author's last name and date of the reference in parentheses at the appropriate location in the EIS. The list of references will be placed at the end of the EIS. Only information sources actually cited in the text should appear in the reference list. The reference list should include the author's name, the date and title of the publication, personal communications and type of communication (e.g., letter, telephone, interview, etc.).

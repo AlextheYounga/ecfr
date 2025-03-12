@@ -1,0 +1,15 @@
+##### § 92.41 Limitations to be observed in authenticating documents. #####
+
+(a) *Unknown seals and signatures.* A consular officer should not authenticate a seal and signature not known to him. See § 92.37(a) regarding the necessity for making a comparison with a specimen seal and signature.
+
+(b) *Foreign officials outside consular district.* A consular officer should not authenticate the seals and signatures of foreign officials outside his consular district.
+
+(c) *Officials in the United States.* Consular officers are not competent to authenticate the seals and signatures of notaries public or other officials in the United States. However, diplomatic and consular officers stationed at a United States diplomatic mission may certify to the seal of the Department of State (not the signature of the Secretary of State) if this is requested or required in particular cases by the national authorities of the foreign country.
+
+(d) *Photostat copies.* Consular officers should not authenticate facsimiles of signatures and seals on photographic reproductions of documents. They may, however, authenticate original signatures and seals on such photographic reproductions.
+
+(e) *Matters outside consular officer's knowledge.* A consular officer should not include in his certificate of authentication statements which are not within his power or knowledge to make. Since consular officers are not expected to be familiar with the provisions of foreign law, except in a general sense, they are especially cautioned not to certify that a document has been executed or certified in accordance with foreign law, nor to certify that a document is a valid document in a foreign country.
+
+(f) *United States officials in foreign countries.* An authentication by a United States consular officer is performed primarily to cause the official characters and positions of foreign officials to be known and recognized in the United States. Consular officers should not, therefore, undertake to authenticate the seals and signatures of other United States officials who may be residing in their consular districts.
+
+(g) *Officers of the Foreign Service in other countries.* An officer of the Foreign Service stationed in one country is not expected to authenticate the signature or seal of an officer of the Foreign Service stationed in another country. When it is necessary for the seal and signature of an officer of the Foreign Service to be authenticated, such authentication will be done in the Department of State. An official of a foreign government requesting the authentication of the seal and signature of an officer of the United States Foreign Service who is, or was, stationed in another country should be informed that the document to be authenticated will have to be sent to the Department for this purpose. Any document bearing the seal and signature of an officer of the Foreign Service which is received at a Foreign Service post from a person in the United States with the request that it be further authenticated should be referred to the Department of State.

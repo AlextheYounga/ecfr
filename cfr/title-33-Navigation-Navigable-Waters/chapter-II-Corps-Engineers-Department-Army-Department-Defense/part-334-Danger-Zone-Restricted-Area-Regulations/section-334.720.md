@@ -1,0 +1,15 @@
+##### § 334.720 Gulf of Mexico, south from Choctawhatchee Bay; Missile test area. #####
+
+(a) *The danger zone.* The danger zone shall encompass all navigable waters of the United States as defined at 33 CFR part 329, including the waters of the Gulf of Mexico south from Choctawhatchee Bay within an area described as follows: Beginning at a point five nautical miles southeasterly from USC&GS Station Tuck 3, at latitude 30°23′10.074″ N, longitude 086°48′25.433″ W, three nautical miles offshore of Santa Rosa Island; thence easterly three nautical miles offshore and parallel to shore, to a point south of Apalachicola Bay, Florida at latitude 29°32′00″ N, longitude 085°00′00″ W; thence southeasterly to latitude 29°17′30″ N, longitude 084°40′00″ W; thence southwesterly to latitude 28°40′00″ N, longitude 084°49′00″ W; thence southeasterly to latitude 28°10′00″ N, longitude 084°30′00″ W; thence 270° true to longitude 086°48′00″ W; thence due north along longitude 086°48′00″ W to the intersection of the line with a circle of five nautical miles radius centered on USC&GS Station Tuck 3, at latitude 30°23′10.074″ N, longitude 086°48′25.433″ W, thence northeasterly along the arc of the circle to the point of beginning.
+
+(b) *The regulations.* (1) The area will be used intermittently during daylight hours for a week or 10 days at a time. Firing will take place once or twice a day for periods ordinarily of not more than one hour. Advance notice of such firings will be published in local newspapers.
+
+(2) During periods of firing, passage through the area will not be denied to cargo-carrying or passenger-carrying vessels or tows proceeding on established routes. In case any such vessel is within the danger zone, the officer in charge of firing operations will cause the cessation or postponement of fire until the vessel has cleared the portion of the danger area involved. The entire area involved will be under constant observation of both surface patrol vessels and air patrol planes prior to and during periods of firing and notice will be given to vessels and tows of intention to fire by buzzing low over the vessel, upon which signal vessels and tows shall proceed on their established course promptly and clear the area as soon as possible.
+
+(3) All persons and vessels, except those identified in paragraph (b)(2) of this section, will be warned to leave the immediate danger area during firing periods by surface patrol craft. Upon being so warned, such persons and vessels shall clear the area immediately. Such periods normally will not exceed two hours.
+
+(c) *Enforcement.* (1) The regulations in this section shall be enforced by the Commander, 96 Air Base Wing, Eglin AFB, Florida and such agencies as he/she may designate.
+
+(2) Enforcement of the regulations in this section will be accomplished in accordance with the active security level as defined by the Department of Defense Force Protection Condition (FPCON) System.
+
+[76 FR 75455, Dec. 2, 2011]

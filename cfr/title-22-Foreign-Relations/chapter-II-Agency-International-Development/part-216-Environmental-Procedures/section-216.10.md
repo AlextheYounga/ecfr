@@ -1,0 +1,5 @@
+##### § 216.10 Records and reports. #####
+
+Each Agency Bureau will maintain a current list of activities for which Environmental Assessments and Environmental Impact Statements are being prepared and for which Negative Determinations and Declarations have been made. Copies of final Initial Environmental Examinations, scoping statements, Assessments and Impact Statements will be available to interested Federal agencies upon request. The cognizant Bureau will maintain a permanent file (which may be part of its normal project files) of Environmental Impact Statements, Environmental Assessments, final Initial Environmental Examinations, scoping statements, Determinations and Declarations which will be available to the public under the Freedom of Information Act. Interested persons can obtain information or status reports regarding Environmental Assessments and Environmental Impact Statements through the A.I.D. Environmental Coordinator.
+
+[45 FR 70249, Oct. 23, 1980]

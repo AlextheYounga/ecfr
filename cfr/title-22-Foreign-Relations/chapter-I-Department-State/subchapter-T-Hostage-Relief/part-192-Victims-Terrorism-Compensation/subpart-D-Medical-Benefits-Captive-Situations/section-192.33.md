@@ -1,0 +1,3 @@
+##### § 192.33 Dispute. #####
+
+Any dispute between the Office and eligible persons concerning whether medical or health care is required in a given case, whether required care is incident to the captivity, or whether the cost for any authorized care is reasonable and customary, shall be referred to the Medical Director, Department of State, for a determination. If the person bringing the claim is not satisfied with the decision of the Medical Director, the dispute shall be referred to a medical board composed of three physicians, one appointed by the Medical Director, one by the eligible person and the third by the first two members. A majority decision by the board shall be binding on all parties.

@@ -1,0 +1,7 @@
+##### § 24.233 Addition of spirits to wine. #####
+
+(a) *Prior to the addition of spirits.* Wine will be placed in tanks approved for the addition of spirits. The proprietor shall accurately measure the wine, determine its alcohol content, determine the proof of the spirits to be added, calculate the quantity of spirits required, and enter the details in the record of spirits added to wine.
+
+(b) *After the addition of spirits.* The proprietor shall thoroughly agitate the contents of the tank to assure a complete mixture of the wine and spirits. The proprietor shall then measure the volume of wine in the tank, take a representative sample of the wine, and test for alcohol content. The result of the measurement and test and the quantity of spirits added will be entered in the record of spirits added to wine. The volume of wine used and the volume of wine resulting from the addition of spirits will be entered in the bulk wine record. The alcohol content of wine after the addition of spirits may not exceed 24 percent by volume.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended, 1382, as amended, 1383, as amended (26 U.S.C. 5367, 5373, 5382))(Approved by the Office of Management and Budget under control number 1512-0298)

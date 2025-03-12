@@ -1,0 +1,3 @@
+##### § 72.33 Form of the petition. #####
+
+There is no set or standardized form provided or required by the Department for use in filing a petition for remission or mitigation of forfeiture. However, it is preferable that the petition be typewritten on legal size paper; and it is necessary that the petition be executed under oath, prepared in triplicate and addressed to the Director, and that all copies of original documents submitted as exhibits in support of allegations of the petition be certified as true and accurate copies of originals. Each copy of the petition must contain a complete set of exhibits.

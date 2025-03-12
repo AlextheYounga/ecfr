@@ -1,0 +1,3 @@
+##### § 65.4 Copies of regulations to Department of State. #####
+
+In order to enable the Secretary of State of the Department of State to reply to inquiries received from the governments of the other American republics, the Department of State shall be promptly supplied with copies of the regulations drafted by the other departments and agencies of the Government and of subsequent amendments thereto.

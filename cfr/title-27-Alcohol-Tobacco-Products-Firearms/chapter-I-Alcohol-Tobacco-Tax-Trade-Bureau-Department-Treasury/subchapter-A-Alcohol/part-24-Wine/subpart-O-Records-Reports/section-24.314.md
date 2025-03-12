@@ -1,0 +1,5 @@
+##### § 24.314 Label information record. #####
+
+A proprietor who removes bottled or packed wine with information stated on the label (e.g., varietal, vintage, appellation of origin, analytical data, date of harvest) shall have complete records so that the information appearing on the label may be verified by a TTB audit. A wine is not entitled to have information stated on the label unless the information can be readily verified by a complete and accurate record trail from the beginning source material to removal of the wine for consumption or sale. All records necessary to verify wine label information are subject to the record retention requirements of § 24.300(d).
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1381, as amended (26 U.S.C. 5367))(Approved by the Office of Management and Budget under control number 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. TTB-91, 76 FR 5478, Feb. 1, 2011]

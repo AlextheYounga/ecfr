@@ -1,0 +1,13 @@
+##### § 41.33 Nonresident alien Canadian border crossing identification card (BCC). #####
+
+(a) *Validity of Canadian BCC.* A Canadian BCC or the BCC portion of a Canadian B-1/B-2 Visa/BCC issued to a permanent resident of Canada pursuant to provisions of this section contained in the 22 CFR, parts 1 to 299, edition revised as of April 1, 1998, is valid until the date of expiration, if any, unless previously revoked, but not later than the date, currently October 1, 2001, on which a machine readable biometric identifier is required in order for a BCC to be usable for entry.
+
+(b) *Revocation of Canadian BCC.* A consular or immigration officer may revoke a BCC or a B-1/B-2 Visa/BCC issued in Canada at any time under the provisions of § 41.122, or if the consular or immigration officer determines that the alien to whom any such document was issued has ceased to be a permanent resident of Canada. Upon revocation, the consular or immigration officer shall notify the issuing consular office and if the revoked document is a card, the consular or immigration officer shall take possession of the card and physically cancel it under standard security conditions. If the revoked document is a stamp in a passport the consular or immigration officer shall write or stamp “canceled” on the face of the document.
+
+(c) *Voidance.* (1) The voiding pursuant to INA 222(g) of the visa portion of a B-1/B-2 Visa/BCC issued at any time by a consular officer in Canada under provisions of this section contained in the 22 CFR, parts 1 to 299, edition revised as of April 1, 1998, also voids the BCC portion of that document.
+
+(2) A BCC issued at any time by a consular officer in Canada under any provisions of this section contained in the 22 CFR, parts 1 to 299, edition revised as of April 1, 1998, is void if a consular or immigration officer finds that the alien has violated the conditions of the alien's admission into the United States, including the period of stay authorized by the Secretary of Homeland Security.
+
+(3) A consular or immigration officer shall immediately take possession of a card determined to be void under paragraphs (c) (1) or (2) of this section and physically cancel it under standard security conditions. If the document voided under paragraphs (c) (1) or (2) is in the form of a stamp in a passport the officer shall write or stamp “canceled” across the face of the document.
+
+[64 FR 45164, Aug. 19, 1999]

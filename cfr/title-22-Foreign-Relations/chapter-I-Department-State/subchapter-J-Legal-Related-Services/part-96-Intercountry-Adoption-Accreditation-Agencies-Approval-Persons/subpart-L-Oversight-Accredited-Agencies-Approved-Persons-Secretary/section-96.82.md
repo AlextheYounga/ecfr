@@ -1,0 +1,5 @@
+##### § 96.82 The Secretary's response to actions by the accrediting entity. #####
+
+(a) There is no administrative review by the Secretary of an accrediting entity's decision to deny accreditation or approval, nor of any decision by an accrediting entity to take an adverse action.
+
+(b) When informed by an accrediting entity that an agency has been accredited or a person has been approved, the Secretary will take appropriate steps to ensure that relevant information about the accredited agency or approved person is provided to the Permanent Bureau of the Hague Conference on Private International Law. When informed by an accrediting entity that it has taken an adverse action that impacts an agency's or person's accreditation or approval status, the Secretary will take appropriate steps to inform the Permanent Bureau of the Hague Conference on Private International Law.

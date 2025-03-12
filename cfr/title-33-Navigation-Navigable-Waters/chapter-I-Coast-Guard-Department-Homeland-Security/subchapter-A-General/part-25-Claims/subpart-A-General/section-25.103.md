@@ -1,0 +1,5 @@
+##### § 25.103 Information and assistance. #####
+
+Any person who desires to file a claim against the United States Coast Guard arising out of the activities of the Coast Guard may obtain information and assistance from the Coast Guard Legal Service Command, Claims Division (LSC-5), located at 300 East Main Street, Suite 400, Norfolk, VA 23510-9100, or from Commandant (CG-0945), Attn: Office of Claims and Litigation, U.S. Coast Guard Stop 7213, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7213, or from the Commander of any Coast Guard District listed in 33 CFR Part 3.
+
+[CGD 87-008b, 52 FR 25217, July 6, 1987, as amended by CGD 97-023, 62 FR 33362, June 19, 1997; USCG-2001-9286, 66 FR 33639, June 25, 2001; USCG-2010-0351, 75 FR 36278, June 25, 2010; USCG-2014-0410, 79 FR 38428, July 7, 2014]

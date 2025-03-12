@@ -1,0 +1,3 @@
+##### § 239.6 Level of protection. #####
+
+Evaluation of the above items may indicate that submergence of entrances to covered channels may have significant impacts on the level of flooding. The requirements of EO 11988 and the significance of the resulting flood damage may require that the covered portion of the channel be enlarged to provide capacity to pass the SPF. If inclusion of SPF capacity on the covered portions of the project cannot be justified, the added capacity may be reduced to the extent that the project will not increase upstream stages resulting from the SPF when compared to the without-project condition. If this capacity is still not feasible, covered channels shall not be recommended.

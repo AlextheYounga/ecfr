@@ -1,0 +1,9 @@
+##### § 505.3 Procedures for requests. #####
+
+(a) The agency will consider all written requests received from an individual for records pertaining to herself/himself as a request made under the Privacy Act of 1974, as amended (5 U.S.C. 552a) whether or not the individual specifically cites the Privacy Act when making the request.
+
+(b) All requests under the Privacy Act should be directed to the FOIA/Privacy Act Office, Office of the General Counsel, Broadcasting Board of Governors, Suite 3349, 330 Independence Avenue, SW, Washington, DC 20237, which will coordinate the search of all systems of records specified in the request. Requests should state name, date of birth, and social security number.
+
+(c) Requests directed to any of the Agency's worldwide establishments which involve routine unclassified, administrative and personnel records available only at those establishments may be released to the individual by the establishment if it determines that such a release is authorized by the Privacy Act. All other requests shall be submitted by the establishment to the FOIA/Privacy Act Office, Office of the General Counsel, Broadcasting Board of Governors, Suite 3349, 330 Independence Avenue, SW, Washington, DC 20237, and the individual shall be so notified of this section in writing, when possible.
+
+(d) In those instances where an individual requests records pertaining to herself/himself, as well as records pertaining to another individual, group or some other category of the Agency's records, only that portion of the request which pertains to records concerning the individual will be treated as a Privacy Act request. The remaining portions of such a request will be processed as a Freedom of Information Act request and sent to the office noted in paragraph (b) of this section.

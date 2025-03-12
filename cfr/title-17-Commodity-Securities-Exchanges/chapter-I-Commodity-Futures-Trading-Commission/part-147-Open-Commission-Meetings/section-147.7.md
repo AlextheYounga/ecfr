@@ -1,0 +1,7 @@
+##### § 147.7 Maintenance of transcripts, recordings and minutes of closed meetings. #####
+
+(a) The Commission shall make and maintain a complete transcript or electronic recording adequate to record fully the proceedings of each meeting or portion of meeting closed to the public, except as provided in paragraph (b) of this section.
+
+(b)(1) In the case of each meeting or portion of meeting closed to the public pursuant to § 147.3(b) (8), (9)(i), (9)(ii) or (b)(10), or any combination thereof, the Commission shall make and maintain either a complete transcript or recording as described in paragraph (a) of this section, or a set of minutes.
+
+(2) When the Commission elects to keep minutes under paragraph (b)(1) of this section, the minutes shall fully and clearly describe all matters discussed at the closed meeting or closed portion thereof, and shall provide a full and accurate summary of any actions taken, and the reasons therefor, including a description of each of the views expressed on any item, and a record of any roll call vote taken which reflects the vote of each Commissioner on the question. All documents considered in connection with any actions taken shall be identified in such minutes.

@@ -1,0 +1,3 @@
+##### § 183.715 Exception. #####
+
+Outboard motors designed to be equipped for remote starting, but which also have a provision for local starting in emergencies, need not comply with § 183.710 for their local starting system. However, the following information must be displayed on the motor: “Warning—Ensure shift control is in neutral before starting motor”. This information must be clearly visible to a person using the emergency starting device.

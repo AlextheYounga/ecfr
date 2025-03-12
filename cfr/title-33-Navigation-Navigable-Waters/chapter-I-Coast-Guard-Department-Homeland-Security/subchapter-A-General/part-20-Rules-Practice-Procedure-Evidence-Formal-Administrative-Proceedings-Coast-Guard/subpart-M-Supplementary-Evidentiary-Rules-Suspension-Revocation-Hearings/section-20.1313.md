@@ -1,0 +1,3 @@
+##### § 20.1313 Medical examination of respondents. #####
+
+In any proceeding in which the physical or mental condition of the respondent is relevant, the ALJ may order him or her to undergo a medical examination. Any examination ordered by the ALJ is conducted, at Federal expense, by a physician designated by the ALJ. If the respondent fails or refuses to undergo any such examination, the failure or refusal receives due weight and may be sufficient for the ALJ to infer that the results would have been adverse to the respondent.

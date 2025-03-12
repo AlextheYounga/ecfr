@@ -1,0 +1,5 @@
+##### § 20.213 Reuse of recovered spirits. #####
+
+(a) If the denatured alcohol or specially denatured rum is recovered in its original denatured state, or practically so, or contains substantial quantities of the original denaturants and other ingredients which make it unfit for beverage or other internal human medicinal use, it may be reused in any approved process without further redenaturation. In these cases, the appropriate TTB officer will require samples of the recovered product to be taken from time to time to determine if the product requires redenaturation.
+
+(b) If the denatured alcohol or specially denatured rum is not recovered in its original denatured state, or practically so, it shall be redenatured at the premises of the manufacturer or a denaturer before being used. The appropriate TTB officer may require supervision of the redenaturation of the recovered spirits by an appropriate TTB officer.

@@ -1,0 +1,5 @@
+##### § 479.91 Unserviceable firearms. #####
+
+An unserviceable firearm may be transferred as a curio or ornament without payment of the transfer tax. However, the procedures for the transfer of a firearm as provided in § 479.90 shall be followed in a tax-exempt transfer of a firearm under this section, except a statement shall be entered on the transfer application, Form 5 (Firearms), by the transferor that he is entitled to the exemption because the firearm to be transferred is unservicable and is being transferred as a curio or ornament. An unapproved transfer, the transfer of a firearm under the provisions of this section which is in fact not an unserviceable firearm, or the transfer of an unserviceable firearm as something other than a curio or ornament, may subject the transferor to civil and criminal liabilities. (See 26 U.S.C. 5811, 5852, 5861, and 5871.)
+
+[36 FR 14256, Aug. 3, 1971. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-48, 44 FR 55843, Sept. 28, 1979]

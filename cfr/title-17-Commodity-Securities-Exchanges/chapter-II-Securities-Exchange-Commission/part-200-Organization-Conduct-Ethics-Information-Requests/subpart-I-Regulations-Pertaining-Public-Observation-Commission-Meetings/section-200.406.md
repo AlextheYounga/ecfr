@@ -1,0 +1,3 @@
+##### § 200.406 Certification by the General Counsel. #####
+
+For every Commission meeting closed pursuant to § 200.402(a) (1) through (10), the General Counsel of the Commission (or, in his or her absence, the attorney designated by General Counsel pursuant to § 200.21) shall publicly certify that, in his or her opinion, the meeting may be closed to the public and shall state each relevant exemptive provision.

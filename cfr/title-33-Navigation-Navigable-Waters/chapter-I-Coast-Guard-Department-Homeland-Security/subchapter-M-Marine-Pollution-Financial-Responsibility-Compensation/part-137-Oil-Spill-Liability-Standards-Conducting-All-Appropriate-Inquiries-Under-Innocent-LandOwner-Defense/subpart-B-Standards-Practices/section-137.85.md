@@ -1,0 +1,5 @@
+##### § 137.85 The degree of obviousness of the presence or likely presence of oil at the facility and the real property on which the facility is located and the ability to detect the oil by appropriate investigation. #####
+
+(a) Persons specified in § 137.1(a) and environmental professionals conducting an inquiry of a facility and the real property on which it is located on their behalf must take into account the information collected under §§ 137.45 through 137.80 in considering the degree of obviousness of the presence or likely presence of oil at the facility and the real property on which the facility is located.
+
+(b) Persons specified in § 137.1(a) and environmental professionals conducting an inquiry of a facility and the property on which the facility is located on their behalf must take into account the information collected under §§ 137.45 through 137.80 in considering the ability to detect the presence or likely presence of oil by appropriate investigation. The report of the environmental professional should include an opinion under § 137.35(c)(4) regarding whether additional appropriate investigation is necessary.

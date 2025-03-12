@@ -1,0 +1,5 @@
+##### § 1004.6 Approval of plans. #####
+
+If, after review of any plan submitted pursuant to this subchapter, the Secretary determines that the action to be taken by the manufacturer will expeditiously and effectively fulfill the manufacturer's obligation under § 1004.1 in a manner designed to encourage the public to respond to the proposal, the Secretary will send written notice of his approval of such plan to the manufacturer. Such approval may be conditioned upon such additional terms as the Secretary deems necessary to protect the public health and safety. Any person who contests denial of a plan shall have an opportunity for a regulatory hearing before the Food and Drug Administration pursuant to part 16 of this chapter.
+
+[38 FR 28629, Oct. 15, 1973, as amended at 41 FR 48269, Nov. 2, 1976; 42 FR 15676, Mar. 22, 1977]

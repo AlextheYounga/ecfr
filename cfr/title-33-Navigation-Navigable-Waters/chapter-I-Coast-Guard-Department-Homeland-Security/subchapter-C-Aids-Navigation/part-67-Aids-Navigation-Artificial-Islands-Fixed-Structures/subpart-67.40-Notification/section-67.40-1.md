@@ -1,0 +1,9 @@
+##### § 67.40-1 Notification to District Commander. #####
+
+(a) *Class “A” structures.* In the case of structures to be located in areas where Class “A” requirements must be met, notification shall be given to the District Commander of the approximate date work will commence, as soon as known after a permit is received from the Corps of Engineers, U.S. Army, or 30 days in advance, if possible. Persons constructing structures must notify the District Commander by either telegram or overnight mail on the day they begin construction. Within this notice, they must inform him or her of the lights and sound signals they will use during construction. When construction has been completed, the maintainer shall notify the District Commander to that effect by letter, stating whether or not the authorized obstruction lights and/or sound signals are in operation. Final notification by letter shall be given when the lights used for general illumination, to facilitate the construction or operation of the structure, have been discontinued and the authorized obstruction lights placed in operation.
+
+(b) *Class “B” structures.* Notification shall be given to the District Commander in the case of structures to be located in areas where Class “B” requirements must be met, in the same manner as prescribed in the case of Class “A” structures, except that the telegram on the day construction of the structure is commenced shall not be required.
+
+(c) *Class “C” structures.* Notification shall be given to the District Commander in the case of structures to be located in areas where Class “C” requirements must be met, upon completion of the structure.
+
+[CGFR 58-17, 23 FR 3377, May 20, 1958, as amended by CGFR 62-32, 27 FR 10101, Oct. 13, 1962; USCG-2001-10714, 69 FR 24984, May 5, 2004]

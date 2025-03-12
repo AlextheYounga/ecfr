@@ -1,0 +1,7 @@
+##### § 26.50 Formulas for liquors. #####
+
+(a) *Distilled spirits products.* Except for products which are exempt from tax, as specified in § 26.36, formulas are required by part 5 of this chapter for distilled spirits products shipped to the United States from Puerto Rico. If a formula is submitted to cover only the production of spirits which are to be transferred to the bonded premises of a DSP under 26 U.S.C. 5232, the formula shall include a statement to that effect. If any product contains liquors made outside of Puerto Rico, the country of origin for each such liquor shall be stated on the formula. These formulas shall be submitted on TTB Form 5110.38, in accordance with § 26.54.
+
+(b) *Wine.* Persons in Puerto Rico who ship wine to the United States shall comply with the formula requirements of part 24 of this chapter. If any wine contains liquors made outside of Puerto Rico, the country of origin for each such liquor shall be stated on the formula. All formulas required by this paragraph shall be submitted on TTB Form 698 Supplemental, in accordance with § 26.54.
+
+(Approved by the Office of Management and Budget under control number 1512-0204)[T.D. ATF-198, 50 FR 8549, Mar. 1, 1985. Redesignated and amended by T.D. ATF-459, 66 FR 38551, July 25, 2001; T.D. TTB-91, 76 FR 5479, Feb. 1, 2011]

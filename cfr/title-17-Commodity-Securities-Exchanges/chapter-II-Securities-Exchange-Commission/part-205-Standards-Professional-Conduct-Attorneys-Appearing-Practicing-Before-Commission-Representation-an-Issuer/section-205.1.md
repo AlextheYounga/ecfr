@@ -1,0 +1,3 @@
+##### § 205.1 Purpose and scope. #####
+
+This part sets forth minimum standards of professional conduct for attorneys appearing and practicing before the Commission in the representation of an issuer. These standards supplement applicable standards of any jurisdiction where an attorney is admitted or practices and are not intended to limit the ability of any jurisdiction to impose additional obligations on an attorney not inconsistent with the application of this part. Where the standards of a state or other United States jurisdiction where an attorney is admitted or practices conflict with this part, this part shall govern.

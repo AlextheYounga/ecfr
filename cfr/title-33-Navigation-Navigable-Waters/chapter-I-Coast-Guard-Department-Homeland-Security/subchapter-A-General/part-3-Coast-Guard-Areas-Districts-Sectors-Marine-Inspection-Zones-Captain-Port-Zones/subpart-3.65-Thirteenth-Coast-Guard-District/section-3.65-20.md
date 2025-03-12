@@ -1,0 +1,5 @@
+##### § 3.65-20 Sector North Bend Search and Rescue Mission Coordinator Zone. #####
+
+The Sector North Bend office is located in North Bend, OR. The boundaries of Sector North Bend's Search and Rescue Mission Coordinator Zone start at a point 45°12.0′ N. latitude, 123°18.0′ W. longitude and proceeds southward along the 123°18.0′ W. longitude, to a point 42°00.0′ N. latitude, 123°18.0′ W. longitude; thence westerly along 42°0.00′ N. latitude to the sea. The offshore boundary is bounded on the south by the southern boundary of the 13th Coast Guard District, which is described in § 3.65-10, to the outermost extent of the EEZ; thence northerly along the outermost extent of the EEZ to 45°12.0′ N. latitude; thence easterly along 45°12.0′ N. latitude to a point 45°12.0′ N. latitude, 123°18.0′ W. longitude. Sector North Bend's search and rescue mission coordination responsibilities extend from its eastern most boundary seaward to 50 nautical miles west of the coastline.
+
+[USCG-2013-0397, 78 FR 39170, July 1, 2013]

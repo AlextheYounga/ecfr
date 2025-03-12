@@ -1,0 +1,5 @@
+##### § 114.10 General policies on issuance of permits and drawbridge operation regulations. #####
+
+The several bridge laws referenced in the Authority for part 114, are intended to prevent any interference with navigable waters of the United States whether by bridges, dams, dikes or other obstructions to navigation except by express permission of the United States. The decision as to whether a bridge permit or a drawbridge operation regulation will be issued or promulgated must rest primarily upon the effect of the proposed action on navigation to assure that the action provides for the reasonable needs of navigation after full consideration of the effect of the proposed action on the human environment. The Coast Guard is not responsible for any other permits that the applicant may need from other federal, state, or local agencies and issuance of a bridge permit does not affect flood control projects or other governmental programs.
+
+[CGD 82-006, 47 FR 36640, Aug. 23, 1982, as amended by USCG-2000-7223, 65 FR 40056, June 29, 2000; USCG-2013-0397, 78 FR 39174, July 1, 2013]

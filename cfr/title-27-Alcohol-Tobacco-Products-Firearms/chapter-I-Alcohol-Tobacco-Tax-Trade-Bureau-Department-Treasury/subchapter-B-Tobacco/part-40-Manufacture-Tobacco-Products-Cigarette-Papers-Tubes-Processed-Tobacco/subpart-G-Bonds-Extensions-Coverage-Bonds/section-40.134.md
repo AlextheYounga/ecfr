@@ -1,0 +1,5 @@
+##### § 40.134 Amount of blanket bond. #####
+
+In the case of a blanket bond filed under the provisions of § 40.67, where the total amount of individual bonds otherwise required for the factories under § 40.133 does not exceed $250,000, such blanket bond shall be not less than the total amount of such individual bonds. Where the total amount of such individual bonds required is in excess of $250,000 but not in excess of $500,000, the amount of the blanket bond shall be not less than $250,000 plus 50 percent of such total amount which is in excess of $250,000. Where the total amount of such individual bonds required is in excess of $500,000 the amount of the blanket bond shall be not less than $375,000 plus 25 percent of such total amount which is in excess of $500,000.
+
+(72 Stat. 1421; 26 U.S.C. 5711)

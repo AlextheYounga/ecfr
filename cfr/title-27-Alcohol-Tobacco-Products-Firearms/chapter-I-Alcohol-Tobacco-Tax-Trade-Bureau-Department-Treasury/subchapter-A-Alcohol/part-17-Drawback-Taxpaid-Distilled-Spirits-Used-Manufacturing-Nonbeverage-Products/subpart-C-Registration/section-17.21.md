@@ -1,0 +1,3 @@
+##### § 17.21 Registration. #####
+
+Every person claiming drawback under this part must register annually as a nonbeverage domestic drawback claimant. Registration will be accomplished when the claimant submits the first drawback claim for each year along with the supporting data required under subpart G of this part. No registration is required for any year in which the claimant does not file a claim for drawback.

@@ -1,0 +1,5 @@
+##### § 70.112 Failure to collect and pay over tax, or attempt to evade or defeat tax. #####
+
+Any person required to collect, truthfully account for, and pay over any tax imposed by the Internal Revenue Code who willfully fails to collect such tax, or truthfully account for and pay over such tax, or willfully attempts in any manner to evade or defeat any such tax or the payment thereof, shall, in addition to other penalties, be liable to a penalty equal to the total amount of the tax evaded, or not collected, or not accounted for and paid over. The penalty imposed by section 6672 of the Internal Revenue Code applies only to the collection, accounting for, or payment over of taxes imposed on a person other than the person who is required to collect, account for, and pay over such taxes. No penalty under section 6653 of the Internal Revenue Code, relating to failure to pay tax, shall be imposed for any offense to which this section is applicable.
+
+(26 U.S.C. 6672)[T.D. ATF-251, 52 FR 19314, May 22, 1987. Redesignated by T.D. ATF-301, 55 FR 47606, Nov. 14, 1990]

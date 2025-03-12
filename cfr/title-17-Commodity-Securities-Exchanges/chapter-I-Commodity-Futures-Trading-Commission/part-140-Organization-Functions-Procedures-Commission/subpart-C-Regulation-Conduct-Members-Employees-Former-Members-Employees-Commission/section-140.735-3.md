@@ -1,0 +1,7 @@
+##### § 140.735-3 Non-governmental employment and other outside activity. #####
+
+A Commission member or employee shall not accept employment or compensation from any person, exchange, swap execution facility, swap data repository or derivatives clearing organization subject to regulation by the Commission. For purposes of this section, a person subject to regulation by the Commission includes but is not limited to a contract market, swap execution facility, swap data repository or derivatives clearing organization or member thereof, a registered futures commission merchant, any person associated with a futures commission merchant or with any agent of a futures commission merchant, floor broker, commodity trading advisor, commodity pool operator or any person required to be registered in a fashion similar to any of the above or file reports under the Act or pursuant to any rule or regulation promulgated by the Commission.11
+
+11 Attention is directed to section 2(a)(8) of the Commodity Exchange Act, which provides, among other things, that no Commission member or employee shall accept employment or compensation from any person, exchange or derivatives clearing organization (“clearinghouse”) subject to regulation by the Commission, or participate, directly or indirectly, in any contract market operations or transactions of a character subject to regulation by the Commission.
+
+[ 77 FR 66348, Nov. 2, 2012]

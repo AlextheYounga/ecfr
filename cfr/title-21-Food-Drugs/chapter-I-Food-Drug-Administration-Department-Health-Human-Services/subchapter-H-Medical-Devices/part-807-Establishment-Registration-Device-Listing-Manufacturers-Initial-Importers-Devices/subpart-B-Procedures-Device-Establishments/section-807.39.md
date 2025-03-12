@@ -1,0 +1,3 @@
+##### § 807.39 Misbranding by reference to establishment registration or to registration number. #####
+
+Registration of a device establishment or assignment of a registration number does not in any way denote approval of the establishment or its products. Any representation that creates an impression of official approval because of registration or possession of a registration number is misleading and constitutes misbranding.

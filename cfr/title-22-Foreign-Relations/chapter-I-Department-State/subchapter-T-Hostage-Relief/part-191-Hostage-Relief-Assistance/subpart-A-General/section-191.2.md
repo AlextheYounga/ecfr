@@ -1,0 +1,5 @@
+##### § 191.2 Application for determination of eligibility. #####
+
+(a) Any person who believes that they or other persons known to them are either hostages as defined in the Act, or members of the family or household of hostages as defined in § 191.3(a)(1), or a child eligible for benefits under subpart D, may apply for benefits under this subchapter for themselves, or on behalf of others entitled thereto.
+
+(b) The application shall be in writing, should contain all identifying and other pertinent data available to the person applying about the person or persons claimed to be eligible, and should be addressed to the Assistant Secretary of State for Administration, Department of State, Washington, DC 20520. Applications may be filed at any time after publication of a declaration under § 191.1(a) in the Federal Register, and during the period of its validity, or within 60 days after release from captivity. Later filing may be considered when in the opinion of the Secretary of State there is good cause for the late filing.

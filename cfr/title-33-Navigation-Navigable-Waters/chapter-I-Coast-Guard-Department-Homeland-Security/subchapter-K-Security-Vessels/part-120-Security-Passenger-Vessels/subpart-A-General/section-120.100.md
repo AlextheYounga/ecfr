@@ -1,0 +1,3 @@
+##### § 120.100 Does this part apply to me? #####
+
+This part applies to all passenger vessels over 100 gross tons, carrying more than 12 passengers for hire; making voyages lasting more than 24 hours, any part of which is on the high seas; and for which passengers are embarked or disembarked in the United States or its territories. It does not apply to ferries that hold Coast Guard Certificates of Inspection endorsed for “Lakes, Bays, and Sounds”, and that transit international waters for only short periods of time, on frequent schedules.

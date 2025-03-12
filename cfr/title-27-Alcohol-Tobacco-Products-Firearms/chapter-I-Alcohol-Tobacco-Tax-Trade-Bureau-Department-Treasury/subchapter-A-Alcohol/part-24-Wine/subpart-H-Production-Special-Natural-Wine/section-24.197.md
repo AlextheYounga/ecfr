@@ -1,0 +1,5 @@
+##### § 24.197 Production by fermentation. #####
+
+In producing special natural wine by fermentation, flavoring materials may be added before or during fermentation. Special natural wine produced by fermentation may be ameliorated in the same manner and to the same extent as natural wine made from the same fruit. Spirits may not be added to special natural wine with the exception of spirits contained in the natural wine used as a base or in authorized essences made on bonded wine premises as provided in § 24.86 or in approved essences made elsewhere. Upon removal of the wine from fermenters, the volume of liquid will be determined accurately and recorded as wine produced. The quantity of liquid in fermenters at the close of each reporting period will be reported on the TTB F 5120.17, Report of Bonded Wine Premises Operations.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1386, as amended (26 U.S.C. 5386))(Approved by the Office of Management and Budget under control numbers 1512-0216 and 1512-0298)[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by ATF-338, 58 FR 19064, Apr. 12, 1993]

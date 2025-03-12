@@ -1,0 +1,11 @@
+##### § 14.15 Committees working under a contract with FDA. #####
+
+(a) FDA may enter into contracts with independent scientific or technical organizations to obtain advice and recommendations on particular matters, and these organizations may in turn undertake such work through existing or new committees. Whether a particular committee working under such a contract is an advisory committee subject to the Federal Advisory Committee Act and this subpart depends upon application of the criteria and principles in § 14.1(b).
+
+(b) The following minimum standards apply to any committee of an independent scientific or technical organization which is working under a contract initially executed with FDA after July 1, 1975, but which is determined not to be an advisory committee:
+
+(1) The committee shall give public notice of its meetings and agenda, and provide interested persons an opportunity to submit relevant information and views in writing at any time, and orally at specified times. The notice may be published in the Federal Register or disseminated by other reasonable means. It is in any event to be filed with the Division of Dockets Management not less than 15 days before the meeting. The time for oral presentations and the extent to which the committee meets in open session other than for such oral presentations is in the discretion of the committee.
+
+(2) Minutes of open sessions are to be maintained, with all written submissions attached which were made to the committee in open session. After approval, the minutes are to be forwarded to the Division of Dockets Management and placed on public display. The extent to which the committee maintains minutes of closed sessions is in the discretion of the committee.
+
+(3) In selecting the members of the committee, the organization involved is to apply the principles relating to conflicts of interest that FDA uses in establishing a public advisory committee. Those principles are set out or cross-referenced in this part and in part 19. Upon request, FDA will assist or provide guidance to any organization in meeting this requirement.

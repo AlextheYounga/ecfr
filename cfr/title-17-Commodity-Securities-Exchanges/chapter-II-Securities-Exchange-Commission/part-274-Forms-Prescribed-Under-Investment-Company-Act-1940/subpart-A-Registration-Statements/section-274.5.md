@@ -1,0 +1,5 @@
+##### § 274.5 Form N-5, for registration statement of small business investment company under the Securities Act of 1933 and the Investment Company Act of 1940. #####
+
+This form shall be used for the registration statement under both sections 6 and 7 of the Securities Act of 1933 (15 U.S.C. 77f, 77g) and section 8(b) of the Investment Company Act of 1940 (15 U.S.C. 80a-8(b)), by a small business investment company which is licensed as such under the Small Business Investment Act of 1958 or which has received preliminary approval of the Small Business Administration and has been notified by that Administration that it may submit a license application.
+
+Editorial Note:For Federal Register citations affecting Form N-5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

@@ -1,0 +1,7 @@
+##### § 28.320 Loss of beer and beer concentrate in transit. #####
+
+(a) *Losses not requiring inspection.* When, on receipt by the appropriate TTB officer of Form 1689 (5130.12) from the officer required to certify it under the provisions of subpart N of this part, it is disclosed that there has been a loss of beer or beer concentrate after removal from the brewery without payment of tax while in transit to the port of export, the vessel or aircraft, or the foreign-trade zone, and the report of the certifying officer shows that the loss was a normal one caused by casualty, leakage, or spillage, the appropriate TTB officer will allow the loss.
+
+(b) *Losses requiring inspection.* When it is disclosed that the loss of beer or beer concentrate is large or unusual, the appropriate TTB officer will conduct an investigation of the loss. When it is disclosed that the loss in transit has occurred by reason of casualty, leakage or spillage, credit for the loss will be allowed. When the investigation discloses evidence indicating that the loss resulted from theft or from fraud, the appropriate TTB officer will afford the brewer opportunity to submit a written explanation with respect to the causes of the loss before taking further action.
+
+(Sec. 201, Pub. L. 85-859, 72 Stat. 1333, as amended, 1334, as amended, 1335, as amended (26 U.S.C. 5051, 5053, 5056))[T.D. ATF-224, 51 FR 7700, Mar. 5, 1986, as amended by T.D. TTB-8, 69 FR 3835, Jan. 27, 2004]

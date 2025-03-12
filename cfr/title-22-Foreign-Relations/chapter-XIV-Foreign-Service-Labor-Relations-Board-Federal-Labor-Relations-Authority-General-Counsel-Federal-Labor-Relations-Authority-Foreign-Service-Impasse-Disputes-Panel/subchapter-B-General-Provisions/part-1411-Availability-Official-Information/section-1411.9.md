@@ -1,0 +1,3 @@
+##### § 1411.9 Effect of failure to meet time limits. #####
+
+Failure by the Board, the General Counsel or the Federal Service Impasses Panel either to deny or grant any request under this part within the time limits prescribed by the Freedom of Information Act, as amended, 5 U.S.C. 552, and these regulations shall be deemed to be an exhaustion of the administrative remedies available to the person making this request.

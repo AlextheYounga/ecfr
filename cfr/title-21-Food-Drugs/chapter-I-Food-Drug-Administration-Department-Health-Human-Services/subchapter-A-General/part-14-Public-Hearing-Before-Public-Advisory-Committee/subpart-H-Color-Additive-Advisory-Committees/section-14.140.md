@@ -1,0 +1,15 @@
+##### § 14.140 Establishment of a color additive advisory committee. #####
+
+The Commissioner will establish a color additive advisory committee under the following circumstances:
+
+(a) The Commissioner concludes, as a matter of discretion, that it would be in the public interest for a color additive advisory committee to review and make recommendations about the safety of a color additive on which important issues are pending before FDA and for interested persons to present information and views at an oral public hearing before a color additive advisory committee.
+
+(b) There is an issue arising under section 721(b)(5)(B) of the FD&C Act concerning the safety of a color additive, including its potential or actual carcinogenicity, that requires the exercise of scientific judgment and a person who would be adversely affected by the issuance, amendment, or repeal of a regulation listing a color additive requests that the matter, or the Commissioner as a matter of discretion determines that the matter should, be referred to a color additive advisory committee.
+
+(1) Paragraph (b) does not apply to any issue arising under the transitional provisions in section 203 of the Color Additive Amendments of 1960 relating to provisional listing of commercially established colors. A color additive advisory committee to consider any such matter will be established under paragraph (a) of this section.
+
+(2) A request for establishment of a color additive advisory committee is to be made in accordance with § 10.30. The Commissioner may deny any petition if inadequate grounds are stated for establishing a color additive advisory committee. A request for establishment of a color additive advisory committee may not rest on mere allegations or denials, but must set forth specific facts showing that there is a genuine and substantial issue of fact that requires scientific judgment and justifies a hearing before a color additive advisory committee. When it conclusively appears from the request for a color additive advisory committee that the matter is premature or that it does not involve an issue arising under section 721(b)(5)(B) of the FD&C Act or that there is no genuine and substantial issue of fact requiring scientific judgment, or for any other reason a color additive advisory committee is not justified, the Commissioner may deny the establishment of a color additive advisory committee.
+
+(3) Establishment of a color additive advisory committee on the request of an interested person is conditioned upon receipt of the application fee specified in § 14.155.
+
+(4) Any person adversely affected may request referral of the matter to a color additive advisory committee at any time before, or within 30 days after, publication of an order of the Commissioner acting upon a color additive petition or proposal.

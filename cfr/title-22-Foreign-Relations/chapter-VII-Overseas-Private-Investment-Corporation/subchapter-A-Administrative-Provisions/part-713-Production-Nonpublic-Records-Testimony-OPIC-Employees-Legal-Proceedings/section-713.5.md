@@ -1,0 +1,5 @@
+##### § 713.5 When should I make my request? #####
+
+Submit your request at least 45 days before the date you need the records or testimony. If you want your request processed in a shorter time, you must explain why you could not submit the request earlier and why you need such expedited processing. OPIC retains full discretion to grant, deny, or propose a new completion date on any request for expedited processing. If you are requesting the testimony of an OPIC employee, OPIC expects you to anticipate your need for the testimony in sufficient time to obtain it by deposition. The Vice-President/General Counsel may well deny a request for testimony at a legal proceeding unless you explain why you could not have used deposition testimony instead. The Vice-President/General Counsel will determine the location of a deposition, taking into consideration OPIC's interest in minimizing the disruption for an OPIC employee's work schedule and the costs and convenience of other persons attending the deposition.
+
+[79 FR 8619, Feb. 13, 2014]

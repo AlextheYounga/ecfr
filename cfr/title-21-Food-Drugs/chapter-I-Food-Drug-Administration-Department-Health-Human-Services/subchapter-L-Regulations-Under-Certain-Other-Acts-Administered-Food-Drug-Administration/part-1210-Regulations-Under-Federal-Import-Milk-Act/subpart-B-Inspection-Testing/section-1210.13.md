@@ -1,0 +1,5 @@
+##### § 1210.13 Tuberculin test. #####
+
+(a) Except as provided in § 1210.27 any and all animals in herds producing milk or cream which is to be shipped or transported raw into the United States shall be free from tuberculosis, as determined by a tuberculin test applied by an official veterinarian of the United States or of any State or municipality thereof or of the country in which such milk or cream is produced. Such test shall be made as often as the Secretary may deem necessary and, in any event, shall have been made within 1 year previous to the time of the importation. All animals showing positive or suspicious reactions to the tuberculin test must be permanently removed from the herd.
+
+(b) The results of the tuberculin test and all facts concerning the disposal of reacting or suspected animals shall be set forth in the form prescribed by the Secretary.

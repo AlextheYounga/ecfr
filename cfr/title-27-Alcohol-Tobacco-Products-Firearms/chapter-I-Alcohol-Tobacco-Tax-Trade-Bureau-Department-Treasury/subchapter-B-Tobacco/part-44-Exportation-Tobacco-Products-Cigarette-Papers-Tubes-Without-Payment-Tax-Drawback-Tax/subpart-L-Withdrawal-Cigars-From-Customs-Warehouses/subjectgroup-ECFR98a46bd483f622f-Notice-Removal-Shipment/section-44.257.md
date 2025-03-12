@@ -1,0 +1,5 @@
+##### § 44.257 Disposition. #####
+
+After actual withdrawal from his warehouse of the shipment described on the notice of removal, Form 5200.14, the customs warehouse proprietor shall, except where the shipment is to be exported by parcel post, promptly forward one copy of the notice of removal to the appropriate TTB officer. A copy of each such notice shall be retained by the customs warehouse proprietor as a part of his records, for 3 years following the close of the calendar year in which the shipment was withdrawn, and shall be made available for inspection by any appropriate TTB officer upon his request. The proprietor shall dispose of the other copies of each notice of removal as required by this subpart.
+
+[25 FR 4725, May 28, 1960. Redesignated at 40 FR 16835, Apr. 15, 1975, as amended by T.D. ATF-421, 64 FR 71926, Dec. 22, 1999; T.D. ATF-480, 67 FR 30803, May 8, 2002]

@@ -1,0 +1,15 @@
+##### § 28.36 Application. #####
+
+Liquors deposited in a foreign-trade zone from the United States which have become unmerchantable or unfit for export may be destroyed. The exporter shall prepare a letter application, in duplicate, and submit it to the appropriate TTB officer. The application shall identify the name and address of the exporter and contain the following information:
+
+(a) The kind and quantity of the liquor, the serial numbers, if any, of the containers thereof, and identification of the zone in which the liquor is stored;
+
+(b) The name and address of the producer bottler or packager of the liquor, and the name, registry number, if any, and location of the plant, warehouse or other establishment from which such liquors were withdrawn for transportation to and deposit in the foreign-trade zone;
+
+(c) The date, form, and serial number of the TTB Form 5100.11, 5110.30, 1582-A (5120.24), 1582-B (5130.6), or 1689 (5130.12), as the case may be; and, in the case of liquors on which drawback of internal revenue tax has been allowed, the TTB assigned claim number;
+
+(d) Whether the liquor has become unmerchantable or unfit for export after deposit in the zone, together with all the known facts relating thereto; and
+
+(e) Whether the unmerchantable or unfit liquor is covered by valid insurance in excess of the market value thereof, exclusive of tax. If the liquor is insured, the application shall show its market value, the amount and date of each and every policy of insurance, the name and location of the company by which each and every policy was issued, the name and address of the bona fide owner of the liquor, and to the best of the affiant's knowledge, whether any other person or party is indemnified against the loss of the liquor by reason of its spoilage or destruction.
+
+Such application shall be signed by the exporter or his authorized agent and be executed under the penalties of perjury. The appropriate TTB officer may require any further evidence as is deemed necessary. The operator of the foreign-trade zone shall countersign the application or otherwise indicate thereon his knowledge of and concurrence in the application to destroy the liquor. The exporter shall file the application with the district director of customs in whose district the foreign-trade zone is located; at the same time the exporter shall likewise file Zone Form E in accordance with Customs Regulations (19 CFR chapter I). On receipt of the application the district director of customs shall determine the completeness thereof and shall report any facts relating to the condition of the liquor of which he may have knowledge. The original application shall be forwarded to the appropriate TTB officer and the district director of customs shall retain the copy for his files.[25 FR 5734, June 23, 1960, as amended by T.D. 7006, 34 FR 2251, Feb. 15, 1969. Redesignated at 40 FR 16835, Apr. 15, 1975]Editorial Note:For Federal Register citations affecting § 28.36, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,0 +1,13 @@
+##### § 184.1666 Propylene glycol. #####
+
+(a) Propylene glycol (C3H8O2, CAS Reg. No. 57-55-6) is known as 1,2-propanediol. It does not occur in nature. Propylene glycol is manufactured by treating propylene with chlorinated water to form the chlorohydrin which is converted to the glycol by treatment with sodium carbonate solution. It is also prepared by heating glycerol with sodium hydroxide.
+
+(b) The ingredient meets the specifications of the Food Chemicals Codex, 3d Ed. (1981), p. 255, which is incorporated by reference. Copies may be obtained from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) The ingredient is used as an anticaking agent as defined in § 170.3(o)(1) of this chapter; antioxidant as defined in § 170.3(o)(3) of this chapter; dough strengthener as defined in § 170.3(o)(6) of this chapter; emulsifier as defined in § 170.3(o)(8) of this chapter; flavor agent as defined in § 170.3(o)(12) of this chapter; formulation aid as defined in § 170.3(o)(14) of this chapter; humectant as defined in § 170.3(o)(16) of this chapter; processing aid as defined in § 170.3(o)(24) of this chapter; solvent and vehicle as defined in § 170.3(o)(27) of this chapter; stabilizer and thickener as defined in § 170.3(o)(28) of this chapter; surface-active agent as defined in § 170.3(o)(29) of this chapter; and texturizer as defined in § 170.3(o)(32) of this chapter.
+
+(d) The ingredient is used in foods at levels not to exceed current good manufacturing practice in accordance with § 184.1(b)(1). Current good manufacturing practice results in maximum levels, as served, of 5 percent for alcoholic beverages, as defined in § 170.3(n)(2) of this chapter; 24 percent for confections and frostings as defined in § 170.3(n)(9) of this chapter; 2.5 percent for frozen dairy products as defined in § 170.3(n)(20) of this chapter; 97 percent for seasonings and flavorings as defined in § 170.3(n)(26) of this chapter; 5 percent for nuts and nut products as defined in § 170.3(n)(32) of this chapter; and 2.0 percent for all other food categories.
+
+(e) Prior sanctions for this ingredient different from the uses established in this section do not exist or have been waived.
+
+[47 FR 27812, June 25, 1982]

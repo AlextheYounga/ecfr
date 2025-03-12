@@ -1,0 +1,7 @@
+##### § 117.415 Green River. #####
+
+(a) The draw of the CSX Transportation railroad bridge, Mile 8.3 at Spottsville, shall open on signal when there is 40 feet or less of vertical clearance beneath the draw. When vertical clearance is more than 40 feet, at least four hours notice shall be given. The owners of, or agencies controlling, the bridge shall arrange for ready telephone communication with the authorized representative at any time from the bridge or its immediate vicinity.
+
+(b) The bascule span of the Paducah and Louisville Railroad Bridge, Mile 94.8 at Rockport, is maintained in the closed position and is remotely operated. Bridge clearance in the closed position in 41.3 feet at pool stage. Vessels requiring more clearance for passage must contact the remote bridge operator by radio telephone to request opening. The bridge operator will confirm by radiotelephone whether the bridge can be opened safely and promptly. If rail traffic is on or approaching the bridge, the bridge operator will advise the vessel that the bridge cannot be opened, and provide an approximate time when the bridge can be opened safely. Continuous radio contact between the bridge operator and the vessel shall be maintained until the vessel has transited and cleared the bridge.
+
+[CGD2 88-01, 53 FR 23621, June 23, 1988, as amended by CGD2-91-04, 56 FR 16009, Apr. 19, 1991; CGD2-91-07, 57 FR 2841, Jan. 24, 1992; USCG-2013-0041, 78 FR 21841, Apr. 12, 2013]

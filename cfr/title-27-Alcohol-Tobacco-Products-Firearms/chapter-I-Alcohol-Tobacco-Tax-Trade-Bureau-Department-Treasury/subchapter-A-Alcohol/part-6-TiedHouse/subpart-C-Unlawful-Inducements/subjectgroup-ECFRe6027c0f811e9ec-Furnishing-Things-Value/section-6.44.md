@@ -1,0 +1,3 @@
+##### § 6.44 Free warehousing. #####
+
+The furnishing of free warehousing by delaying delivery of distilled spirits, wine, or malt beverages beyond the time that payment for the product is received, or if a retailer is purchasing on credit, delaying final delivery of products beyond the close of the period of time for which credit is lawfully extended, is the furnishing of a service or thing of value within the meaning of the Act.

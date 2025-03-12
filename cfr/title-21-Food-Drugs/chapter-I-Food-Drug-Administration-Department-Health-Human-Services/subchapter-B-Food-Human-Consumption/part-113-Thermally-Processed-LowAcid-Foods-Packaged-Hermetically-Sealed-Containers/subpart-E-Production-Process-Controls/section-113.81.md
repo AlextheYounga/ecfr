@@ -1,0 +1,13 @@
+##### § 113.81 Product preparation. #####
+
+(a) Before using raw materials and ingredients susceptible to microbiological contamination, the processor shall ensure that those materials and ingredients are suitable for use in processing low-acid food. Compliance with this requirement may be accomplished by receiving the raw materials and ingredients under a supplier's guarantee that they are suitable for use, by examining them for their microbiological condition, or by other acceptable means.
+
+(b) Blanching by heat, when required in the preparation of food for canning, should be effected by heating the food to the required temperature, holding it at this temperature for the required time, and then either rapidly cooling the food or passing it to subsequent processing without delay. Thermophilic growth and contamination in blanchers should be minimized by the use of adequate operating temperatures and by cleaning. If the blanched food product is washed before filling, potable water should be used.
+
+(c) The filling of containers, either mechanically or by hand, shall be controlled so as to ensure that the filling requirements specified in the scheduled process are met.
+
+(d) The exhausting of containers for the removal of air shall be controlled so as to meet the conditions for which the process was designed. Compliance with the requirement may be accomplished by heat exhausting, mechanical exhausting, hot brining, or steam injection.
+
+(e) When the maintenance of pH (above 4.6) of a normally low-acid food is a basis for a scheduled process, there shall be careful supervision to ensure that the equilibrium pH of the finished product meets that of the scheduled process. The methodology described in § 114.90 of this chapter should be used.
+
+(f) When the scheduled process sets forth critical factors to prevent the growth of microorganisms not destroyed by the thermal process, the factors shall be carefully controlled to ensure that the limits established in the scheduled process are not exceeded. When normally low-acid foods require sufficient solute to permit safe processing at low temperatures, such as in boiling water, there shall be careful supervision to ensure that the equilibrium water activity (aw) of the finished product meets that of the scheduled process. The scheduled thermal processes for foods having an aw greater than 0.85 and less than the aw that would allow the growth of spores of microorganisms of public health significance shall be sufficient to render the food free of microorganisms capable of reproducing in the food under normal nonrefrigerated conditions of storage and distribution.

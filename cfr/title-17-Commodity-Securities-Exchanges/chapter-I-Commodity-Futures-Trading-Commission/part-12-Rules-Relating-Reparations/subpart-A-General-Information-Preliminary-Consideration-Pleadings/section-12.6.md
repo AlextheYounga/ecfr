@@ -1,0 +1,7 @@
+##### § 12.6 Extensions of time; adjournments; postponements. #####
+
+(a) *In general.* Except as otherwise provided by law or by these rules, for good cause shown, the Commission, or a Judgment Officer, Administrative Law Judge, or the Director of the Office of Proceedings, before whom a matter is then pending, on their own motion or the motion of a party, may at any time extend or shorten the time limit prescribed by the rules for filing any document. In any instance in which a time limit is not prescribed for an action to be taken concerning any matter, the Commission or one of the other officials mentioned above may set a time limit for that action.
+
+(b) *Motions for extension of time.* Absent extraordinary circumstances, in any instance in which a time limit that has been prescribed for an action to be taken concerning any matter exceeds seven days from the date of the order establishing the time limit, requests for extension of time shall be filed at least five (5) days prior to the expiration of the time limit and shall explain why an extension of time is necessary.
+
+[49 FR 6621, Feb. 22, 1984, as amended at 57 FR 20638, May 14, 1992; 59 FR 9636, Mar. 1, 1994]

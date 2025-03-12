@@ -1,0 +1,7 @@
+##### § 240.24b-3 Information filed by issuers and others under sections 12, 13, 14, and 16. #####
+
+(a) Except as otherwise provided in this section and in § 240.17a-6, each exchange shall keep available to the public under reasonable regulations as to the manner of inspection, during reasonable office hours, all information regarding a security registered on such exchange which is filed with it pursuant to section 12, 13, 14, or 16, or any rules or regulations thereunder. This requirement shall not apply to any information to the disclosure of which objection has been filed pursuant to § 240.24b-2, which objection shall not have been overruled by the Commission pursuant to section 24(b). The making of such information available pursuant to this section shall not be deemed a representation by any exchange as to the accuracy, completeness, or genuineness thereof.
+
+(b) In the case of an application for registration of a security pursuant to section 12 an exchange may delay making available the information contained therein until it has certified to the Commission its approval of such security for listing and registration.
+
+(Sec. 24, 48 Stat. 901, as amended; 15 U.S.C. 78x)[16 FR 3109, Apr. 10, 1951]

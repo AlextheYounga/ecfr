@@ -1,0 +1,3 @@
+##### § 1402.3 Information in the custody of ONDCP. #####
+
+Information contained in ONDCP files and under the exclusive declassification jurisdiction of ONDCP will be reviewed by the Director of the Office of Planning, Budget, and Administration of ONDCP and/or the office of primary interest to determine whether, under the declassification provisions of section 3.1 of Executive Order 12356 (3 CFR, 1982 Comp., p. 166), the requested information may be declassified. If the information may not be released, in whole or in part, the requester shall be given a brief statement as to the reasons for denial, a notice of the right to appeal the determination to the Director of ONDCP, and a notice that such an appeal must be filed within 60 days in order to be considered.

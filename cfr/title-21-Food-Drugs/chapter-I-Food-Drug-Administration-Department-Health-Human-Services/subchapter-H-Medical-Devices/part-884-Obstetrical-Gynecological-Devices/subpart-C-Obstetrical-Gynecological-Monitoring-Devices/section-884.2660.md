@@ -1,0 +1,5 @@
+##### § 884.2660 Fetal ultrasonic monitor and accessories. #####
+
+(a) *Identification.* A fetal ultrasonic monitor is a device designed to transmit and receive ultrasonic energy into and from the pregnant woman, usually by means of continuous wave (doppler) echoscopy. The device is used to represent some physiological condition or characteristic in a measured value over a period of time (e.g., perinatal monitoring during labor) or in an immediately perceptible form (e.g., use of the ultrasonic stethoscope). This generic type of device may include the following accessories: signal analysis and display equipment, electronic interfaces for other equipment, patient and equipment supports, and component parts. This generic type of device does not include devices used to image some relatively unchanging physiological structure or interpret a physiological condition, but does include devices which may be set to alarm automatically at a predetermined threshold value.
+
+(b) *Classification.* Class II (performance standards).

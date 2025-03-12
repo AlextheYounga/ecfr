@@ -1,0 +1,3 @@
+##### § 329.1 Purpose. #####
+
+This regulation defines the term “navigable waters of the United States” as it is used to define authorities of the Corps of Engineers. It also prescribes the policy, practice and procedure to be used in determining the extent of the jurisdiction of the Corps of Engineers and in answering inquiries concerning “navigable waters of the United States.” This definition does not apply to authorities under the Clean Water Act which definitions are described under 33 CFR parts 323 and 328.
