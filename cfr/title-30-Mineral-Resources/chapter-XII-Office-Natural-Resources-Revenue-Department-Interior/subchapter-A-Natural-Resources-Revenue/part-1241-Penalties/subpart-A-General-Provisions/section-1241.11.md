@@ -1,6 +1,6 @@
 ##### § 1241.11 Does my hearing request affect a penalty? #####
 
-Link to an amendment published at 86 FR 4659, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4659, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.
 
 (a) If you do not correct the violation identified in a Notice, any penalty will continue to accrue, even if you request a hearing, except as provided in paragraph (b) of this section.
 

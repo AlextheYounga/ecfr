@@ -11,12 +11,12 @@
 (2) The organization assessing the telecommunication certification body shall appoint a team of qualified experts to perform the assessment covering all of the elements within the scope of accreditation. For assessment of telecommunications equipment, the areas of expertise to be used during the assessment shall include, but not be limited to, electromagnetic compatibility and telecommunications equipment (wired and wireless).
 
 (d) *Incorporation by reference.* (1) The materials listed in this section are incorporated by reference in this part. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval, and notice of any change in these materials will be published in the Federal Register. All approved material is available for inspection at the Federal Communications Commission's Reference Information Center, located at the address of the FCC's main office indicated in 47 CFR 0.401(a), Tel: (202) 418-0270, and is available from the sources in this paragraph (d).
-It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_\_register/code\_\_of\_\_federal\_\_regulations/ibr\_\_locations.html.*
+It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (2) International Electrotechnical Commission (IEC), IEC Central Office, 3, rue de Varembe, CH-1211 Geneva 20, Switzerland, Email: *inmail@iec.ch,www.iec.ch* or International Organization for Standardization (ISO), 1, ch. De la Voie-Creuse, CP 56, CH-1211, Geneva 20, Switzerland; *www.iso.org;* Tel.: + 41 22 749 01 11; Fax: + 41 22 733 34 30; email: *central@iso.org* . (ISO publications can also be purchased from the American National Standards Institute (ANSI) through its NSSN operation (*www.nssn.org*), at Customer Service, American National Standards Institute, 25 West 43rd Street, New York, NY 10036, telephone (212) 642-4900.)
 
-(i) ISO/IEC 17011:2004(E), “Conformity assessment - General requirements for accreditation bodies accrediting conformity assessment bodies,” First Edition, 2004-09-01, IBR approved for § 68.160(c).
+(i) ISO/IEC 17011:2004(E), “Conformity assessment—General requirements for accreditation bodies accrediting conformity assessment bodies,” First Edition, 2004-09-01, IBR approved for § 68.160(c).
 
-(ii) ISO/IEC 17065:2012(E), “Conformity assessment - Requirements for bodies certifying products, processes and services,” First Edition, 2012-09-15.
+(ii) ISO/IEC 17065:2012(E), “Conformity assessment—Requirements for bodies certifying products, processes and services,” First Edition, 2012-09-15.
 
 [64 FR 4997, Feb. 2, 1999, as amended at 80 FR 33447, June 12, 2015; 85 FR 64408, Oct. 13, 2020]

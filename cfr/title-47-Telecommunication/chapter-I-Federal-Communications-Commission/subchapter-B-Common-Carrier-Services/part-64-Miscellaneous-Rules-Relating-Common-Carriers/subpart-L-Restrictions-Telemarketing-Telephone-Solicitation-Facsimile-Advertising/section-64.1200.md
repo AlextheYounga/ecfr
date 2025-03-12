@@ -1,7 +1,5 @@
 ##### § 64.1200 Delivery restrictions. #####
 
-Link to an amendment published at 86 FR 2563, Jan. 13, 2021.
-
 (a) No person or entity may:
 
 (1) Except as provided in paragraph (a)(2) of this section, initiate any telephone call (other than a call made for emergency purposes or is made with the prior express consent of the called party) using an automatic telephone dialing system or an artificial or prerecorded voice;
@@ -160,7 +158,9 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (7) The term *facsimile broadcaster* means a person or entity that transmits messages to telephone facsimile machines on behalf of another person or entity for a fee.
 
-(8) The term *prior express written consent* means an agreement, in writing, bearing the signature of the person called that clearly authorizes the seller to deliver or cause to be delivered to the person called advertisements or telemarketing messages using an automatic telephone dialing system or an artificial or prerecorded voice, and the telephone number to which the signatory authorizes such advertisements or telemarketing messages to be delivered.
+(8) The term *one-ring scam* means a scam in which a caller makes a call and allows the call to ring the called party for a short duration, in order to prompt the called party to return the call, thereby subjecting the called party to charges.
+
+(9) The term *prior express written consent* means an agreement, in writing, bearing the signature of the person called that clearly authorizes the seller to deliver or cause to be delivered to the person called advertisements or telemarketing messages using an automatic telephone dialing system or an artificial or prerecorded voice, and the telephone number to which the signatory authorizes such advertisements or telemarketing messages to be delivered.
 
 (i) The written agreement shall include a clear and conspicuous disclosure informing the person signing that:
 
@@ -170,17 +170,17 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (ii) The term “signature” shall include an electronic or digital form of signature, to the extent that such form of signature is recognized as a valid signature under applicable federal law or state contract law.
 
-(9) The term *seller* means the person or entity on whose behalf a telephone call or message is initiated for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person.
+(10) The term *seller* means the person or entity on whose behalf a telephone call or message is initiated for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person.
 
-(10) The term *sender* for purposes of paragraph (a)(4) of this section means the person or entity on whose behalf a facsimile unsolicited advertisement is sent or whose goods or services are advertised or promoted in the unsolicited advertisement.
+(11) The term *sender* for purposes of paragraph (a)(4) of this section means the person or entity on whose behalf a facsimile unsolicited advertisement is sent or whose goods or services are advertised or promoted in the unsolicited advertisement.
 
-(11) The term *telemarketer* means the person or entity that initiates a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person.
+(12) The term *telemarketer* means the person or entity that initiates a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person.
 
-(12) The term *telemarketing* means the initiation of a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person.
+(13) The term *telemarketing* means the initiation of a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person.
 
-(13) The term *telephone facsimile machine* means equipment which has the capacity to transcribe text or images, or both, from paper into an electronic signal and to transmit that signal over a regular telephone line, or to transcribe text or images (or both) from an electronic signal received over a regular telephone line onto paper.
+(14) The term *telephone facsimile machine* means equipment which has the capacity to transcribe text or images, or both, from paper into an electronic signal and to transmit that signal over a regular telephone line, or to transcribe text or images (or both) from an electronic signal received over a regular telephone line onto paper.
 
-(14) The term *telephone solicitation* means the initiation of a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message:
+(15) The term *telephone solicitation* means the initiation of a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message:
 
 (i) To any person with that person's prior express invitation or permission;
 
@@ -188,11 +188,11 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (iii) By or on behalf of a tax-exempt nonprofit organization.
 
-(15) The term *unsolicited advertisement* means any material advertising the commercial availability or quality of any property, goods, or services which is transmitted to any person without that person's prior express invitation or permission, in writing or otherwise.
+(16) The term *unsolicited advertisement* means any material advertising the commercial availability or quality of any property, goods, or services which is transmitted to any person without that person's prior express invitation or permission, in writing or otherwise.
 
-(16) The term *personal relationship* means any family member, friend, or acquaintance of the telemarketer making the call.
+(17) The term *personal relationship* means any family member, friend, or acquaintance of the telemarketer making the call.
 
-(17) The term *effectively mitigate* means identifying the source of the traffic and preventing that source from continuing to originate traffic of the same or similar nature.
+(18) The term *effectively mitigate* means identifying the source of the traffic and preventing that source from continuing to originate traffic of the same or similar nature.
 
 (g) Beginning January 1, 2004, common carriers shall:
 
@@ -215,6 +215,8 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 (ii) A valid North American Numbering Plan number that is not allocated to a provider by the North American Numbering Plan Administrator or the Pooling Administrator; and
 
 (iii) A valid North American Numbering Plan number that is allocated to a provider by the North American Numbering Plan Administrator or Pooling Administrator, but is unused, so long as the provider blocking the calls is the allocatee of the number and confirms that the number is unused or has obtained verification from the allocatee that the number is unused at the time of the blocking.
+
+(iv) A telephone number that the provider identifies, based on reasonable analytics, as highly likely to be associated with a one-ring scam.
 
 (3) A terminating provider may block a voice call without liability under the Communications Act or the Commission's rules where:
 
@@ -256,4 +258,4 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (2) The person's call to the number was the result of the database erroneously returning a response of “no” to the person's query consisting of the number for which prior express consent was obtained as required in paragraph (a)(1), (2), or (3) of this section and the date on which such prior express consent was obtained.
 
-[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020]
+[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020; 86 FR 2563, Jan. 13, 2021]

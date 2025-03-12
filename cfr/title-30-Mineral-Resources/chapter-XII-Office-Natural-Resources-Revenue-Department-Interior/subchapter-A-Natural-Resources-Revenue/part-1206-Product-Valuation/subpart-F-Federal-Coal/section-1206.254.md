@@ -1,6 +1,6 @@
 ##### § 1206.254 How will ONRR determine the value of my coal for royalty purposes? #####
 
-Link to an amendment published at 86 FR 4657, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4657, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.
 
 If ONRR decides to value your coal for royalty purposes under § 1206.253, or any other provision in this subpart, then ONRR will determine value by considering any information that we deem relevant, which may include, but is not limited to:
 

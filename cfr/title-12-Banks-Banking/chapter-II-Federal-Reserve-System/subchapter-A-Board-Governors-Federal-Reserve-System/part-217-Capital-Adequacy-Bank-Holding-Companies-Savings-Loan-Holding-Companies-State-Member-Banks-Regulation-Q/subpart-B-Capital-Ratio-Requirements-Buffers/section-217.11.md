@@ -1,6 +1,6 @@
 ##### § 217.11 Capital conservation buffer, countercyclical capital buffer amount, and GSIB surcharge. #####
 
-Link to an amendment published at 86 FR 7938, Feb. 3, 2021.
+Link to an amendment published at 86 FR 7938, Feb. 3, 2021.Link to a correction published at 86 FR 9261, Feb. 12, 2021.
 
 (a) *Capital conservation buffer* - (1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 

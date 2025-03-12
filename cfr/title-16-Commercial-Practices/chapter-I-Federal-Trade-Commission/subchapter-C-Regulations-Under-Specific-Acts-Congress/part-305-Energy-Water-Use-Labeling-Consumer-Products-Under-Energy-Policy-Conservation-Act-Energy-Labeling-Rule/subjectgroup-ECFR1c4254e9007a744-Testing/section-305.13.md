@@ -1,5 +1,7 @@
 ##### § 305.13 Layout, format, and placement of labels for refrigerators, refrigerator-freezers, freezers, dishwashers, clothes washers, water heaters, room air conditioners, and pool heaters. #####
 
+Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
+
 (a) *Coverage.* The requirements of this section apply to labels for refrigerators, refrigerator-freezers, freezers, dishwashers, clothes washers, water heaters, room air conditioners, and pool heaters.
 
 (b) *Layout.* Energy labels shall use one size, similar colors, and typefaces with consistent positioning of headline, copy, and charts to maintain uniformity for immediate consumer recognition and readability. Trim size dimensions for the labels shall be as follows: Width must be between 51/4 inches and 51/2 inches (13.34 cm. and 13.97 cm.); length must be between 73/8 inches (18.73 cm.) and 75/8 (19.37 cm.). Copy is to be set between 27 picas and 29 picas and copy page should be centered (right to left and top to bottom). Depth is variable but should follow closely the prototype and sample labels appearing at the end of this part illustrating the basic layout. All positioning, spacing, type sizes, and line widths should be similar to and consistent with the prototype and sample labels in appendix L to this part.

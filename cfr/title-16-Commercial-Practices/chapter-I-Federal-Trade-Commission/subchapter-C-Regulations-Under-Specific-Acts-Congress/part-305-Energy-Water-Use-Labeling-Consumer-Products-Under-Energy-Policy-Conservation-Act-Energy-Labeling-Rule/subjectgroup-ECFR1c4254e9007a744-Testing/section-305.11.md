@@ -1,5 +1,7 @@
 ##### § 305.11 Submission of data. #####
 
+Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
+
 (a)(1) Except as provided in paragraphs (a)(2) through (4) of this section, each manufacturer of a covered product subject to the disclosure requirements of this part and subject to Department of Energy certification requirements in 10 CFR part 429 shall submit annually a report for each model in current production containing the same information that must be submitted to the Department of Energy pursuant to 10 CFR part 429 for that product, and that the Department has identified as public information pursuant to 10 CFR part 429. In lieu of submitting the required information to the Commission as required by this section, manufacturers may submit such information to the Department of Energy via the CCMS at *https://regulations.doe.gov/ccms* as provided by 10 CFR 429.12.
 
 (2) Manufacturers of ceiling fans shall submit annually a report containing the brand name, model number, diameter (in inches), wattage excluding any lights, airflow (capacity) for each basic model in current production, and starting serial number, date code or other means of identifying the date of manufacture with the first submission for each basic model. In lieu of submitting the required information to the Commission as required by this section, manufacturers may submit such information to the Department of Energy via the Compliance and Certification Management System (CCMS) at *https://regulations.doe.gov/ccms* as provided by 10 CFR 429.12.

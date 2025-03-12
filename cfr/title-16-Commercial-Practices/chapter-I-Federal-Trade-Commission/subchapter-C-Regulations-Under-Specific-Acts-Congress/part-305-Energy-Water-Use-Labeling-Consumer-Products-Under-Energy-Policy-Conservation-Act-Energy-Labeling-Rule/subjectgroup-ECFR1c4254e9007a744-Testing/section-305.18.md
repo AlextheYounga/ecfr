@@ -1,5 +1,7 @@
 ##### § 305.18 Label content for room air conditioners. #####
 
+Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
+
 (a) *Label content.* (1) Headlines and texts, as illustrated in the prototype and sample labels in appendix L to this part, are standard for all labels.
 
 (2) Name of manufacturer or private labeler shall, in the case of a corporation, be deemed to be satisfied only by the actual corporate name, which may be preceded or followed by the name of the particular division of the corporation. In the case of an individual, partnership, or association, the name under which the business is conducted shall be used. Inclusion of the name of the manufacturer or private labeler is optional at the discretion of the manufacturer or private labeler.
@@ -22,7 +24,7 @@ Your costs will depend on your utility rates and use.
 
 Cost range based only on models [of similar capacity without reverse cycle and with louvered sides; of similar capacity without reverse cycle and without louvered sides; with reverse cycle and with louvered sides; or with reverse cycle and without louvered sides].
 
-Estimated annual energy cost is based on a national average electricity cost of \_\_ cents per kWh and a seasonal use of 8 hours use per day over a 3 month period.
+Estimated annual energy cost is based on a national average electricity cost of \_\_\_\_ cents per kWh and a seasonal use of 8 hours use per day over a 3 month period.
 
 For more information, visit *www.ftc.gov/energy.*
 

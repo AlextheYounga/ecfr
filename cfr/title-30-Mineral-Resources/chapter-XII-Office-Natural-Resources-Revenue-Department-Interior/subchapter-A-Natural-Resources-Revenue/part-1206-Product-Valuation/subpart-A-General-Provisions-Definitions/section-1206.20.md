@@ -1,6 +1,6 @@
 ##### § 1206.20 What definitions apply to this part? #####
 
-Link to an amendment published at 86 FR 4652, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4652, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.
 
 *Ad valorem lease* means a lease where the royalty due to the lessor is based upon a percentage of the amount or value of the coal.
 
@@ -72,15 +72,37 @@ Link to an amendment published at 86 FR 4652, Jan. 15, 2021.
 
 (1) *Oil.* Gross proceeds also include, but are not limited to, the following examples:
 
-(i) Payments for services such as dehydration, marketing, measurement, or gathering which the lessee must perform at no cost to the Federal Government(ii) The value of services, such as salt water disposal, that the producer normally performs but that the buyer performs on the producer's behalf(iii) Reimbursements for harboring or terminalling fees, royalties, and any other reimbursements(iv) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation(v) Payments made to reduce or buy down the purchase price of oil produced in later periods by allocating such payments over the production whose price that the payment reduces and including the allocated amounts as proceeds for the production as it occurs(vi) Monies and all other consideration to which a seller is contractually or legally entitled but does not seek to collect through reasonable efforts
+(i) Payments for services such as dehydration, marketing, measurement, or gathering which the lessee must perform at no cost to the Federal Government
+
+(ii) The value of services, such as salt water disposal, that the producer normally performs but that the buyer performs on the producer's behalf
+
+(iii) Reimbursements for harboring or terminalling fees, royalties, and any other reimbursements
+
+(iv) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation
+
+(v) Payments made to reduce or buy down the purchase price of oil produced in later periods by allocating such payments over the production whose price that the payment reduces and including the allocated amounts as proceeds for the production as it occurs
+
+(vi) Monies and all other consideration to which a seller is contractually or legally entitled but does not seek to collect through reasonable efforts
 
 (2) *Gas, residue gas, and gas plant products.* Gross proceeds also include, but are not limited to, the following examples:
 
-(i) Payments for services such as dehydration, marketing, measurement, or gathering that the lessee must perform at no cost to the Federal Government(ii) Reimbursements for royalties, fees, and any other reimbursements(iii) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts
+(i) Payments for services such as dehydration, marketing, measurement, or gathering that the lessee must perform at no cost to the Federal Government
+
+(ii) Reimbursements for royalties, fees, and any other reimbursements
+
+(iii) Tax reimbursements, even though the Federal royalty interest may be exempt from taxation
+
+(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts
 
 (3) *Coal.* Gross proceeds also include, but are not limited to, the following examples:
 
-(i) Payments for services such as crushing, sizing, screening, storing, mixing, loading, treatment with substances including chemicals or oil, and other preparation of the coal that the lessee must perform at no cost to the Federal Government or Indian lessor(ii) Reimbursements for royalties, fees, and any other reimbursements(iii) Tax reimbursements even though the Federal or Indian royalty interest may be exempt from taxation(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts
+(i) Payments for services such as crushing, sizing, screening, storing, mixing, loading, treatment with substances including chemicals or oil, and other preparation of the coal that the lessee must perform at no cost to the Federal Government or Indian lessor
+
+(ii) Reimbursements for royalties, fees, and any other reimbursements
+
+(iii) Tax reimbursements even though the Federal or Indian royalty interest may be exempt from taxation
+
+(iv) Monies and all other consideration to which a seller is contractually or legally entitled, but does not seek to collect through reasonable efforts
 
 *Index* means:
 

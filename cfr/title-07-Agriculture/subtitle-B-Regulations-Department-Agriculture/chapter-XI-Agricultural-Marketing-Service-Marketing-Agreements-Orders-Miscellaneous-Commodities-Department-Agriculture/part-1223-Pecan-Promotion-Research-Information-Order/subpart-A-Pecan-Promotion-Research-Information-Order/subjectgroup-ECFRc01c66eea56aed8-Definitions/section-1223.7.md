@@ -1,0 +1,3 @@
+##### § 1223.7 First handler. #####
+
+*First handler* means any person who receives, shells, cracks, accumulates, warehouses, roasts, packs, sells, consigns, transports, exports, or ships (except as a common or contract carrier of pecans owned by another person), or in any other way puts inshell or shelled pecans in the stream of commerce. The term first handler includes a producer who handles or markets pecans of the producer's own production.

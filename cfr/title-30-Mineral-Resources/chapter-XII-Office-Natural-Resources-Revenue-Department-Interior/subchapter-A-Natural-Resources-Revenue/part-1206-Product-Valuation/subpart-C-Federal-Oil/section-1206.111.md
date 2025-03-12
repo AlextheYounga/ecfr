@@ -1,6 +1,6 @@
 ##### § 1206.111 How do I determine a transportation allowance if I have an arm's-length transportation contract? #####
 
-Link to an amendment published at 86 FR 4654, Jan. 15, 2021.
+Link to an amendment published at 86 FR 4654, Jan. 15, 2021.This amendment was delayed until Apr. 16, 2021, at 86 FR 9289, Feb. 12, 2021.
 
 (a)(1) If you or your affiliate incur transportation costs under an arm's-length transportation contract, you may claim a transportation allowance for the reasonable, actual costs incurred, as more fully explained in paragraph (b) of this section, except as provided in § 1206.110(f) and subject to the limitation in § 1206.110(d).
 
@@ -38,7 +38,21 @@ Link to an amendment published at 86 FR 4654, Jan. 15, 2021.
 
 (c) You may not include the following costs to determine your transportation allowance under paragraph (a) of this section:
 
-(1) Fees paid for long-term storage (more than 30 days)(2) Administrative, handling, and accounting fees associated with terminalling(3) Title and terminal transfer fees(4) Fees paid to track and match receipts and deliveries at a market center or to avoid paying title transfer fees(5) Fees paid to brokers(6) Fees paid to a scheduling service provider(7) Internal costs, including salaries and related costs, rent/space costs, office equipment costs, legal fees, and other costs to schedule, nominate, and account for sale or movement of production(8) Gauging fees
+(1) Fees paid for long-term storage (more than 30 days)
+
+(2) Administrative, handling, and accounting fees associated with terminalling
+
+(3) Title and terminal transfer fees
+
+(4) Fees paid to track and match receipts and deliveries at a market center or to avoid paying title transfer fees
+
+(5) Fees paid to brokers
+
+(6) Fees paid to a scheduling service provider
+
+(7) Internal costs, including salaries and related costs, rent/space costs, office equipment costs, legal fees, and other costs to schedule, nominate, and account for sale or movement of production
+
+(8) Gauging fees
 
 (d) If you have no written contract for the arm's-length transportation of oil, then ONRR will determine your transportation allowance under § 1206.105. You may not use this paragraph (d) if you or your affiliate perform(s) your own transportation.
 

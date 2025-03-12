@@ -1,5 +1,7 @@
 ##### § 305.2 Definitions. #####
 
+Link to an amendment published at 86 FR 9282, Feb. 12, 2021.
+
 (a) *Act* means the Energy Policy and Conservation Act (Pub. L. 94-163), and amendments thereto.
 
 (b) *ANSI* means the American National Standards Institute and, as used herein, is the prefix for national standards and codes adopted by ANSI.
