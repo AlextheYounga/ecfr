@@ -1,7 +1,5 @@
 ##### § 576.500 Recordkeeping and reporting requirements. #####
 
-Link to an amendment published at 85 FR 47911, Aug. 7, 2020.
-
 (a) *In general.* The recipient must have policies and procedures to ensure the requirements of this part are met, including those required by 2 CFR part 200. The policies and procedures must be established in writing and implemented by the recipient and its subrecipients to ensure that ESG funds are used in accordance with the requirements. In addition, sufficient records must be established and maintained to enable the recipient and HUD to determine whether ESG requirements are being met.
 
 (b) *Homeless status.* The recipient must maintain and follow written intake procedures to ensure compliance with the homeless definition in § 576.2. The procedures must require documentation at intake of the evidence relied upon to establish and verify homeless status. The procedures must establish the order of priority for obtaining evidence as third-party documentation first, intake worker observations second, and certification from the person seeking assistance third. However, lack of third-party documentation must not prevent an individual or family from being immediately admitted to emergency shelter, receiving street outreach services, or being immediately admitted to shelter or receiving services provided by a victim service provider. Records contained in an HMIS or comparable database used by victim service or legal service providers are acceptable evidence of third-party documentation and intake worker observations if the HMIS retains an auditable history of all entries, including the person who entered the data, the date of entry, and the change made; and if the HMIS prevents overrides or changes of the dates on which entries are made.
@@ -114,7 +112,7 @@ Link to an amendment published at 85 FR 47911, Aug. 7, 2020.
 
 (i) Data concerning race, ethnicity, disability status, sex, and family characteristics of persons and households who are applicants for, or program participants in, any program or activity funded in whole or in part with ESG funds; and
 
-(ii) Documentation required under 24 CFR 5.168 in regard to the recipient's Assessment of Fair Housing and the certification that the recipient will affirmatively further fair housing.
+(ii) Documentation that the recipient submitted a certification that it will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this title.
 
 (2) Records demonstrating compliance with the uniform administrative requirements in 2 CFR part 200.
 
@@ -166,4 +164,4 @@ Link to an amendment published at 85 FR 47911, Aug. 7, 2020.
 
 (aa) *Reports.* The recipient must collect and report data on its use of ESG funds in the Integrated Disbursement and Information System (IDIS) and other reporting systems, as specified by HUD. The recipient must also comply with the reporting requirements in 2 CFR part 200 and 24 CFR part 91 and the reporting requirements under the Federal Funding Accountability and Transparency Act of 2006, (31 U.S.C. 6101 note), which are set forth in appendix A to 2 CFR part 170.
 
-[76 FR 75974, Dec. 5, 2011, as amended at 80 FR 42368, July 16, 2015; 80 FR 75939, Dec. 7, 2015; 81 FR 80809, Nov. 16, 2016]
+[76 FR 75974, Dec. 5, 2011, as amended at 80 FR 42368, July 16, 2015; 80 FR 75939, Dec. 7, 2015; 81 FR 80809, Nov. 16, 2016; 85 FR 47911, Aug. 7, 2020]

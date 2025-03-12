@@ -12,4 +12,6 @@
 
 (b) USDA shall submit significant guidance documents to OMB for coordinated review. In addition, USDA may determine that it is appropriate to coordinate with OMB in the review of guidance documents that are otherwise of importance to the Department's interests.
 
-(c) If the guidance document is determined by the proposing agency or OBPA to be not significant, the proposing agency shall issue the guidance document through its standard process.
+(c) If the guidance document is determined by OMB to be not significant, the proposing agency shall issue the guidance document through its standard process.
+
+[85 FR 34085, June 3, 2020, as amended at 85 FR 55359, Sept. 8, 2020]

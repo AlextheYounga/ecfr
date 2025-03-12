@@ -1,7 +1,5 @@
 ##### § 1011.6 Delegations of authority by the Chairman. #####
 
-Link to an amendment published at 85 FR 47696, Aug. 6, 2020.
-
 (a)(1) This section provides for delegations of authority by the Chairman of the Surface Transportation Board to individual Board employees.
 
 (2) The Chairman of the Board may remove for disposition any matter delegated under this section, and any matter delegated under this section may be referred by the Board employee to the Chairman for disposition.
@@ -36,4 +34,6 @@ Link to an amendment published at 85 FR 47696, Aug. 6, 2020.
 
 (h) Issuance of certificates and decisions authorizing Consolidated Rail Corporation to abandon or discontinue service over lines for which an application under section 308 of the Regional Rail Reorganization Act of 1973, 45 U.S.C. 748, has been filed is delegated to the Director of the Office of Proceedings.
 
-[67 FR 60167, Sept. 25, 2002, as amended at 74 FR 52904, Oct. 15, 2009; 81 FR 8851, Feb. 23, 2016; 83 FR 17299 Apr. 19, 2018]
+(i) In matters involving the streamlined market dominance approach, authority to hold a telephonic evidentiary hearing on market dominance issues is delegated to administrative law judges, as described in § 1111.12(d) of this chapter.
+
+[67 FR 60167, Sept. 25, 2002, as amended at 74 FR 52904, Oct. 15, 2009; 81 FR 8851, Feb. 23, 2016; 83 FR 17299, Apr. 19, 2018; 85 FR 47696, Aug. 6, 2020]

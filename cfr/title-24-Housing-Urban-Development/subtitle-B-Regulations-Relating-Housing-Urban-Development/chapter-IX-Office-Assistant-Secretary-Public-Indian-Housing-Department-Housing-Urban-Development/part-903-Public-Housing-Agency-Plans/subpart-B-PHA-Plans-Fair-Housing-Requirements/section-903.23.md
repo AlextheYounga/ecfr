@@ -1,7 +1,5 @@
 ##### § 903.23 What is the process by which HUD reviews, approves, or disapproves an Annual Plan? #####
 
-Link to an amendment published at 85 FR 47911, Aug. 7, 2020.
-
 (a) *Review of the plan.* When the PHA submits its Annual Plan to HUD, including any significant amendment or modification to the plan, HUD reviews the plan to determine whether:
 
 (1) The plan provides all the information that is required to be included in the plan;
@@ -34,6 +32,6 @@ Link to an amendment published at 85 FR 47911, Aug. 7, 2020.
 
 (e) *Public availability of the approved plan.* Once a PHA's plan has been approved, a PHA must make the approved plan and the required attachments and documents related to the plan, available for review and inspection, at the principal office of the PHA during normal business hours.
 
-(f) *Recordkeeping.* PHAs must maintain a copy of the Assessment of Fair Housing as described in 24 CFR part 5, subpart A (§§ 5.150 through 5.180) and records reflecting actions to affirmatively further fair housing, as described in § 903.7(o).
+(f) *Recordkeeping.* PHAs must maintain records reflecting a certification that the PHA will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this title.
 
-[65 FR 81222, Dec. 22, 2000, as amended at 68 FR 37671, June 24, 2003; 80 FR 42371, July 16, 2015]
+[65 FR 81222, Dec. 22, 2000, as amended at 68 FR 37671, June 24, 2003; 80 FR 42371, July 16, 2015; 85 FR 47911, Aug. 7, 2020]

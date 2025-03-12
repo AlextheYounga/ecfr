@@ -52,6 +52,6 @@
 
 (4) Collect, service, and liquidate single family housing loans made, insured, or guaranteed by the Rural Housing Service.
 
-(b) [Reserved.]
+(b) [Reserved]
 
 [83 FR 61313, Nov. 29, 2018]

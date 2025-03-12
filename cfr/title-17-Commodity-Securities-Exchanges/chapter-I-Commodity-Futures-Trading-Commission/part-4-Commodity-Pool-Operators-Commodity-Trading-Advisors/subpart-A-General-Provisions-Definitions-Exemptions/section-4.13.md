@@ -1,7 +1,5 @@
 ##### § 4.13 Exemption from registration as a commodity pool operator. #####
 
-Link to an amendment published at 85 FR 40890, July 8, 2020.
-
 This section is organized as follows: Paragraph (a) of this section specifies the criteria that must be met to qualify for exemption from registration under this section; paragraph (b) of this section governs the notice that must be filed to claim exemption from registration; paragraph (c) of this section sets forth the continuing obligations of a person who has claimed exemption under this section; paragraph (d) of this section specifies information certain persons must provide if they subsequently register; paragraph (e) of this section specifies the effect of registration on a person who has claimed an exemption from registration under this section or who is eligible to claim an exemption from registration hereunder; and paragraph (f) of this section specifies the effect of this section on § 4.5 of this chapter.
 
 (a) A person is not required to register under the Act as a commodity pool operator if:
@@ -84,9 +82,11 @@ This section is organized as follows: Paragraph (a) of this section specifies th
 
 (i) Provide the name, main business address, main business telephone number, main facsimile number and main email address of the person claiming the exemption and the name of the pool for which it is claiming exemption;
 
-(ii) Contain the section number pursuant to which the operator is filing the notice (*i.e.,* § 4.13(a)(1), (2), or (3)) and represent that the pool will be operated in accordance with the criteria of that paragraph; and
+(ii) Specify the paragraph number pursuant to which the person is filing the notice (*i.e.,* § 4.13(a)(1), (2), (3), or (5)) and represent that the pool will be operated in accordance with the criteria of that paragraph;
 
-(iii) Be filed by a representative duly authorized to bind the person.
+(iii) Represent that neither the person nor any of its principals has in its background a statutory disqualification that would require disclosure under section 8a(2) of the Act if such person sought registration, unless such disqualification arises from a matter which was disclosed in connection with a previous application for registration, where such registration was granted; and
+
+(iv) Be filed by a representative duly authorized to bind the person.
 
 (2) The person must file the notice by no later than the time that the pool operator delivers a subscription agreement for the pool to a prospective participant in the pool; *Provided, however,* that in the case of a claim for relief under § 4.13(a)(5), the person must file the notice by the later of the effective date of the pool's registration statement under the Securities Act of 1933 or the date on which the person first becomes a director or trustee; and *Provided, further,* that where a person registered with the Commission as a commodity pool operator intends to withdraw from registration in order to claim exemption hereunder, the person must notify its pool's participants in written communication physically delivered or delivered through electronic transmission that it intends to withdraw from registration and claim the exemption, and it must provide each such participant with a right to redeem its interest in the pool prior to the person filing a notice of exemption from registration
 
@@ -128,4 +128,4 @@ This section is organized as follows: Paragraph (a) of this section specifies th
 
 (f) The filing of a notice of exemption from registration under this section will not affect the ability of a person to qualify for exclusion from the definition of the term “commodity pool operator” under § 4.5 in connection with its operation of another trading vehicle that is not covered under this § 4.13.
 
-(Approved by the Office of Management and Budget under control number 3038-0005)(Secs. 2(a)(1), 4c(a)-(d), 4d, 4f, 4g, 4k, 4m, 4n, 8a, 15 and 17, Commodity Exchange Act (7 U.S.C. 2, 4, 6c(a)-(d), 6f, 6g, 6k, 6m, 6n, 12a, 19 and 21; 5 U.S.C. 552 and 552b))[46 FR 26013, May 8, 1981, as amended at 46 FR 63035, Dec. 30, 1981; 47 FR 57011, Dec. 22, 1982; 50 FR 15883, Apr. 23, 1985; 67 FR 77411, Dec. 18, 2002; 68 FR 47231, Aug. 8, 2003; 68 FR 59113, Oct. 14, 2003; 69 FR 41426, July 9, 2004; 72 FR 1663, Jan. 16, 2007; 74 FR 57590, Nov. 9, 2009; 75 FR 55428, Sept. 10, 2010; 76 FR 28645, May 18, 2011; 77 FR 11284, Feb. 24, 2012; 77 FR 17329, Mar. 26, 2012; 84 FR 67368, Dec. 10, 2019]
+(Approved by the Office of Management and Budget under control number 3038-0005)(Secs. 2(a)(1), 4c(a)-(d), 4d, 4f, 4g, 4k, 4m, 4n, 8a, 15 and 17, Commodity Exchange Act (7 U.S.C. 2, 4, 6c(a)-(d), 6f, 6g, 6k, 6m, 6n, 12a, 19 and 21; 5 U.S.C. 552 and 552b))[46 FR 26013, May 8, 1981, as amended at 46 FR 63035, Dec. 30, 1981; 47 FR 57011, Dec. 22, 1982; 50 FR 15883, Apr. 23, 1985; 67 FR 77411, Dec. 18, 2002; 68 FR 47231, Aug. 8, 2003; 68 FR 59113, Oct. 14, 2003; 69 FR 41426, July 9, 2004; 72 FR 1663, Jan. 16, 2007; 74 FR 57590, Nov. 9, 2009; 75 FR 55428, Sept. 10, 2010; 76 FR 28645, May 18, 2011; 77 FR 11284, Feb. 24, 2012; 77 FR 17329, Mar. 26, 2012; 84 FR 67368, Dec. 10, 2019; 85 FR 40890, July 8, 2020]

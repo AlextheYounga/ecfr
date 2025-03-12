@@ -1,7 +1,5 @@
 ##### § 91.315 Strategic plan. #####
 
-Link to an amendment published at 85 FR 47909, Aug. 7, 2020.
-
 (a) *General.* For the categories described in paragraphs (b), (c), (d), (e), and (f) of this section, the consolidated plan must do the following:
 
 (1) Indicate the general priorities for allocating investment geographically within the state and among different activities and needs.
@@ -11,10 +9,6 @@ Link to an amendment published at 85 FR 47909, Aug. 7, 2020.
 (3) Identify any obstacles to meeting underserved needs.
 
 (4) Summarize the priorities and specific objectives the state intends to initiate and/or complete during the time period covered by the strategic plan describing how the proposed distribution of funds will address identified needs. For each specific objective statement, identify proposed accomplishments and outcomes the state hopes to achieve in quantitative terms over a specified time period (e.g., one, two, three or more years), or in other measurable terms as identified and defined by the state. This information shall be provided in accordance with guidance to be issued by HUD.
-
-(5)(i) Describe how the priorities and specific objectives of the State under § 91.315(a)(4) will affirmatively further fair housing by setting forth strategies and actions consistent with the goals and other elements identified in an AFH conducted in accordance with 24 CFR 5.150 through 5.180.
-
-(ii) For AFH goals not addressed by these priorities and objectives, identify any additional objectives and priorities for affirmatively furthering fair housing.
 
 (b) *Affordable housing.* With respect to affordable housing, the consolidated plan must include the priority housing needs table prescribed by HUD and the following:
 
@@ -62,4 +56,4 @@ Link to an amendment published at 85 FR 47909, Aug. 7, 2020.
 
 (m) *Low-income housing tax credit.* The consolidated plan must describe the strategy to coordinate the Low-Income Housing Tax Credit with the development of housing that is affordable to low-income and moderate-income families.
 
-[71 FR 6968, Feb. 9, 2006, as amended at 76 FR 75972, Dec. 5, 2011; 80 FR 5220, Jan. 30, 2015; 80 FR 42365, July 16, 2015]
+[71 FR 6968, Feb. 9, 2006, as amended at 76 FR 75972, Dec. 5, 2011; 80 FR 5220, Jan. 30, 2015; 80 FR 42365, July 16, 2015; 85 FR 47909, Aug. 7, 2020]

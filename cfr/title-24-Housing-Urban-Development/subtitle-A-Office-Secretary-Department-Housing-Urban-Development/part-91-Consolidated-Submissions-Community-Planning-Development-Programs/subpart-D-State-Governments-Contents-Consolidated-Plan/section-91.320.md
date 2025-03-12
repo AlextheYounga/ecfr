@@ -1,14 +1,12 @@
 ##### § 91.320 Action plan. #####
 
-Link to an amendment published at 85 FR 47909, Aug. 7, 2020.
-
 The action plan must include the following:
 
 (a) Standard Form 424;
 
 (b) A concise executive summary that includes the objectives and outcomes identified in the plan as well as an evaluation of past performance, a summary of the citizen participation and consultation process (including efforts to broaden public participation) (24 CFR 91.300 (b)), a summary of comments or views, and a summary of comments or views not accepted and the reasons therefore (24 CFR 91.115 (b)(5)).
 
-(c) *Resources and objectives* - (1) *Federal resources.* The consolidated plan must provide a concise summary of the federal resources expected to be made available. These resources include grant funds and program income.
+(c) *Resources and objectives*—(1) *Federal resources.* The consolidated plan must provide a concise summary of the federal resources expected to be made available. These resources include grant funds and program income.
 
 (2) *Other resources.* The consolidated plan must indicate resources from private and non-federal public sources that are reasonably expected to be made available to address the needs identified in the plan. The plan must explain how federal funds will leverage those additional resources, including a description of how matching requirements of the HUD programs will be satisfied. Where the State deems it appropriate, it may indicate publicly owned land or property located within the State that may be used to carry out the purposes identified in the plan;
 
@@ -40,9 +38,7 @@ The action plan must include the following:
 
 (i) *Barriers to affordable housing.* Actions it plans to take during the next year to remove or ameliorate the negative effects of public policies that serve as barriers to affordable housing. Such policies, procedures, and processes include but are not limited to: land use controls, tax policies affecting land, zoning ordinances, building codes, fees and charges, growth limitations, and policies affecting the return on residential investment.
 
-(j)(1) *Affirmatively furthering fair housing.* Actions it plans to take during the next year that address fair housing goals identified in the AFH.
-
-(2) *Other actions.* Actions it plans to take during the next year to implement its strategic plan and address obstacles to meeting underserved needs, foster and maintain affordable housing (including allocation plans and policies governing the use of Low-Income Housing Credits under 26 U.S.C. 42, which are more commonly referred to as Low-Income Housing Tax Credits), evaluate and reduce lead-based paint hazards, reduce the number of poverty-level families, develop institutional structure, enhance coordination between public and private housing and social service agencies, address the needs of public housing (including providing financial or other assistance to troubled PHAs), and encourage public housing residents to become more involved in management and participate in homeownership.
+(j) *Other actions.* Actions it plans to take during the next year to implement its strategic plan and address obstacles to meeting underserved needs, foster and maintain affordable housing (including allocation plans and policies governing the use of Low-Income Housing Credits under 26 U.S.C. 42, which are more commonly referred to as Low-Income Housing Tax Credits), evaluate and reduce lead-based paint hazards, reduce the number of poverty-level families, develop institutional structure, enhance coordination between public and private housing and social service agencies, address the needs of public housing (including providing financial or other assistance to troubled PHAs), and encourage public housing residents to become more involved in management and participate in homeownership.
 
 (k) *Program-specific requirements.* In addition, the plan must include the following specific information:
 
@@ -140,4 +136,4 @@ The action plan must include the following:
 
 (viii) The plan must describe the conditions under which the State will refinance existing debt.
 
-[71 FR 6969, Feb. 9, 2006, as amended at 76 FR 75972, Dec. 5, 2011; 78 FR 44664, July 24, 2013; 80 FR 5220, Jan. 30, 2015; 80 FR 42365, July 16, 2015; 80 FR 69869, Nov. 12, 2015; 81 FR 86951, Dec. 1, 2016]
+[71 FR 6969, Feb. 9, 2006, as amended at 76 FR 75972, Dec. 5, 2011; 78 FR 44664, July 24, 2013; 80 FR 5220, Jan. 30, 2015; 80 FR 42365, July 16, 2015; 80 FR 69869, Nov. 12, 2015; 81 FR 86951, Dec. 1, 2016; 85 FR 47909, Aug. 7, 2020]

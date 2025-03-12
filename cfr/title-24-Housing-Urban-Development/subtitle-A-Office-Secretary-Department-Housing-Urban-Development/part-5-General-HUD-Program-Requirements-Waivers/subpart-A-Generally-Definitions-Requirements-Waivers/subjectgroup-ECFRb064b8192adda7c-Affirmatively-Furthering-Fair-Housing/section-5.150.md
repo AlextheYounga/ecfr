@@ -1,5 +1,9 @@
-##### § 5.150 Affirmatively Furthering Fair Housing: Purpose. #####
+##### § 5.150 Affirmatively Further Fair Housing; Definition. #####
 
-Link to an amendment published at 85 FR 47905, Aug. 7, 2020.
+Link to an amendment published at 86 FR 30790, June 10, 2021.
 
-Pursuant to the affirmatively furthering fair housing mandate in section 808(e)(5) of the Fair Housing Act, and in subsequent legislative enactments, the purpose of the Affirmatively Furthering Fair Housing (AFFH) regulations in §§ 5.150 through 5.180 is to provide program participants with an effective planning approach to aid program participants in taking meaningful actions to overcome historic patterns of segregation, promote fair housing choice, and foster inclusive communities that are free from discrimination. The regulations establish specific requirements for the development and submission of an Assessment of Fair Housing (AFH) by program participants (including local governments, States, and public housing agencies (PHAs)), and the incorporation and implementation of that AFH into subsequent consolidated plans and PHA Plans in a manner that connects housing and community development policy and investment planning with meaningful actions that affirmatively further fair housing. A program participant's strategies and actions must affirmatively further fair housing and may include various activities, such as developing affordable housing, and removing barriers to the development of such housing, in areas of high opportunity; strategically enhancing access to opportunity, including through: Targeted investment in neighborhood revitalization or stabilization; preservation or rehabilitation of existing affordable housing; promoting greater housing choice within or outside of areas of concentrated poverty and greater access to areas of high opportunity; and improving community assets such as quality schools, employment, and transportation.
+(a) The phrase “fair housing” in 42 U.S.C. 5304(b)(2), 5306(d)(7)(B), 12705(b)(15), and 1437c-1(d)(16) means housing that, among other attributes, is affordable, safe, decent, free of unlawful discrimination, and accessible as required under civil rights laws.
+
+(b) The phrase “affirmatively further” in 42 U.S.C. 5304(b)(2), 5306(d)(7)(B), 12705(b)(15), and 1437c-1(d)(16) means to take any action rationally related to promoting any attribute or attributes of fair housing as defined in the preceding subsection.
+
+[85 FR 47905, Aug. 7, 2020]

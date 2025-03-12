@@ -1,7 +1,5 @@
 ##### § 1111.10 Procedural schedule in cases using simplified standards. #####
 
-Link to an amendment published at 85 FR 47696, Aug. 6, 2020.
-
 (a) *Procedural schedule.* Absent a specific order by the Board, the following general procedural schedules will apply in cases using the simplified standards:
 
 (1)(i) In cases relying upon the Simplified-SAC methodology:
@@ -22,9 +20,9 @@ Link to an amendment published at 85 FR 47696, Aug. 6, 2020.
 
 (H) Day 280 - Reply evidence.
 
-(I) Day 310 - Rebuttal evidence.
+(I) Day 310 - Rebuttal evidence. In cases using the streamlined market dominance approach, a telephonic evidentiary hearing before an administrative law judge, as described in § 1111.12(d) of this chapter, will be held at the discretion of the complainant in lieu of the submission of a written rebuttal on market dominance issues. The hearing will be held on or about the date that the complainant's rebuttal evidence on rate reasonableness is due.
 
-(J) Day 320 - Technical conference (market dominance and merits).
+(J) Day 320 - Technical conference (market dominance and merits, except for cases using the streamlined market dominance approach, in which the technical conference will be limited to merits issues).
 
 (K) Day 330 - Final briefs.
 
@@ -48,7 +46,7 @@ Link to an amendment published at 85 FR 47696, Aug. 6, 2020.
 
 (H) Day 120 - Parties' final tenders on comparison group. Defendant's reply on market dominance.
 
-(I) Day 150 - Parties' replies to final tenders. Complainant's rebuttal on market dominance.
+(I) Day 150 - Parties' replies to final tenders. Complainant's rebuttal on market dominance. In cases using the streamlined market dominance approach, a telephonic evidentiary hearing before an administrative law judge, as described in § 1111.12(d) of this chapter, will be held at the discretion of the complainant in lieu of the submission of a written rebuttal on market dominance issues. The hearing will be held on or about the date that the complainant's rebuttal evidence on rate reasonableness is due.
 
 (ii) In addition, the Board will appoint a liaison within 10 business days of the filing of the complaint.
 
@@ -73,3 +71,5 @@ Link to an amendment published at 85 FR 47696, Aug. 6, 2020.
 (d) *Conferences with parties.* The Board may convene a conference of the parties with Board staff to facilitate voluntary resolution of discovery disputes and to address technical issues that may arise.
 
 (e) *Complaint filed with a petition to revoke a class exemption.* If a complaint is filed simultaneously with a petition to revoke a class exemption, the Board will take no action on the complaint and the procedural schedule will be held in abeyance automatically until the petition to revoke is adjudicated.
+
+[82 FR 57379, Dec. 5, 2017, as amended at 85 FR 47697, Aug. 6, 2020]

@@ -1,8 +1,6 @@
 ##### § 91.5 Definitions. #####
 
-Link to an amendment published at 85 FR 47906, Aug. 7, 2020.
-
-The terms *Affirmatively Furthering Fair Housing, Assessment of Fair Housing or AFH, elderly person*, and *HUD* are defined in 24 CFR part 5.
+The terms Affirmatively Furthering Fair Housing, elderly person, and HUD are defined in 24 CFR part 5.
 
 *At risk of homelessness.* (1) An individual or family who:
 
@@ -148,4 +146,4 @@ The terms *Affirmatively Furthering Fair Housing, Assessment of Fair Housing or 
 
 *Urban county.* See definition in 24 CFR 570.3.
 
-[60 FR 1896, Jan. 5, 1995; 60 FR 4861, Jan. 25, 1995, as amended at 61 FR 5205, Feb. 9, 1996; 64 FR 50223, Sept. 15, 1999; 71 FR 6961, Feb. 9, 2006; 76 FR 75966, 76013, Dec. 5, 2011; 80 FR 42360, July 16, 2015; 80 FR 75804, Dec. 4, 2015]
+[60 FR 1896, Jan. 5, 1995; 60 FR 4861, Jan. 25, 1995, as amended at 61 FR 5205, Feb. 9, 1996; 64 FR 50223, Sept. 15, 1999; 71 FR 6961, Feb. 9, 2006; 76 FR 75966, 76013, Dec. 5, 2011; 80 FR 42360, July 16, 2015; 80 FR 75804, Dec. 4, 2015; 85 FR 47906, Aug. 7, 2020]

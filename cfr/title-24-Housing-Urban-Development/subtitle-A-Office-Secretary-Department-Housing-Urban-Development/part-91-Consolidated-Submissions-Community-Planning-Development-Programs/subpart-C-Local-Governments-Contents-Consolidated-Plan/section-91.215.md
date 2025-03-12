@@ -1,7 +1,5 @@
 ##### § 91.215 Strategic plan. #####
 
-Link to an amendment published at 85 FR 47909, Aug. 7, 2020.
-
 (a) *General.* For the categories described in paragraphs (b), (c), (d), (e), and (f) of this section, the consolidated plan must do the following:
 
 (1) Indicate the general priorities for allocating investment geographically within the jurisdiction (or within the EMSA for the HOPWA program) and among different activities and needs, as identified in tables prescribed by HUD.
@@ -11,10 +9,6 @@ Link to an amendment published at 85 FR 47909, Aug. 7, 2020.
 (3) Identify any obstacles to meeting underserved needs;
 
 (4) Summarize the priorities and specific objectives the jurisdiction intends to initiate and/or complete during the time period covered by the strategic plan and how funds that are reasonably expected to be available will be used to address identified needs. For each specific objective statement, identify proposed accomplishments and outcomes the jurisdiction hopes to achieve in quantitative terms over a specified time period (e.g., one, two, three or more years), or in other measurable terms as identified and defined by the jurisdiction. This information is to be provided in accordance with guidance to be issued by HUD.
-
-(5)(i) Describe how the priorities and specific objectives of the jurisdiction under paragraph (a)(4) of this section will affirmatively further fair housing by setting forth strategies and actions consistent with the goals and other elements identified in an AFH conducted in accordance with 24 CFR 5.150 through 5.180.
-
-(ii) For AFH goals not addressed by these priorities and objectives, identify any additional objectives and priorities for affirmatively furthering fair housing.
 
 (b) *Affordable housing.* With respect to affordable housing, the consolidated plan must include the priority housing needs table prescribed by HUD and must do the following:
 
@@ -54,4 +48,4 @@ Link to an amendment published at 85 FR 47909, Aug. 7, 2020.
 
 (l) *Coordination.* The consolidated plan must provide a concise summary of the jurisdiction's activities to enhance coordination among the Continuum of Care, public and assisted housing providers, and private and governmental health, mental health, and service agencies. The summary must address the jurisdiction's efforts to coordinate housing assistance and services for homeless persons (especially chronically homeless individuals and families, families with children, veterans and their families, and unaccompanied youth) and persons who were recently homeless but now live in permanent housing. With respect to the public entities involved, the plan must describe the means of cooperation and coordination among the State and any units of general local government in the metropolitan area in the implementation of its consolidated plan. With respect to economic development, the jurisdiction should describe efforts to enhance coordination with private industry, businesses, developers, and social service agencies.
 
-[71 FR 6964, Feb. 9, 2006, as amended at 76 FR 75969, Dec. 5, 2011; 80 FR 5219, Jan. 30, 2015; 80 FR 42364, July 16, 2015]
+[71 FR 6964, Feb. 9, 2006, as amended at 76 FR 75969, Dec. 5, 2011; 80 FR 5219, Jan. 30, 2015; 80 FR 42364, July 16, 2015; 85 FR 47909, Aug. 7, 2020]

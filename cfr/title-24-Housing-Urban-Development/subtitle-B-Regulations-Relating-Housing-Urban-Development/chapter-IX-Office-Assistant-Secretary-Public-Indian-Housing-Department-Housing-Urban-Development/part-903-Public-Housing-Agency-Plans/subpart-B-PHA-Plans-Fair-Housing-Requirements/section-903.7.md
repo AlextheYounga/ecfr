@@ -1,7 +1,5 @@
 ##### § 903.7 What information must a PHA provide in the Annual Plan? #####
 
-Link to an amendment published at 85 FR 47911, Aug. 7, 2020.
-
 With the exception of the first Annual Plan submitted by a PHA, the Annual Plan must include the information provided in this section. HUD will advise PHAs by separate notice, sufficiently in advance of the first Annual Plan due date, of the information, described in this section that must be part of the first Annual Plan submission, and any additional instructions or directions that may be necessary to prepare and submit the first Annual Plan. The information described in this section applies to both public housing and tenant-based assistance, except where specifically stated otherwise. The information that the PHA must submit for HUD approval under the Annual Plan includes the discretionary policies of the various plan components or elements (for example, rent policies) and not the statutory or regulatory requirements that govern these plan components and that provide no discretion on the part of the PHA in implementation of the requirements. The PHA's Annual Plan must be consistent with the goals and objectives of the PHA's 5-Year Plan.
 
 (a) *A statement of housing needs.* (1) This statement must address the housing needs of the low-income and very low-income families who reside in the jurisdiction served by the PHA, and other families who are on the public housing and Section 8 tenant-based assistance waiting lists, including:
@@ -10,7 +8,7 @@ With the exception of the first Annual Plan submitted by a PHA, the Annual Plan 
 
 (ii) Elderly families;
 
-(iii) Until the PHA has submitted an Assessment of Fair Housing (AFH), which includes an assessment of disproportionate housing needs in accordance with 24 CFR 5.154(d)(2)(iv), households with individuals with disabilities and households of various races and ethnic groups residing in the jurisdiction or on the waiting list. Once the PHA has submitted an AFH, however, such households need not be addressed in this statement.
+(iii) Households with individuals with disabilities and households of various races and ethnic groups residing in the jurisdiction or on the waiting list.
 
 (2) A PHA must make reasonable efforts to identify the housing needs of each of the groups listed in paragraph (a)(1) of this section based on information provided by the applicable consolidated plan, information provided by HUD, and other generally available data.
 
@@ -160,27 +158,9 @@ With the exception of the first Annual Plan submitted by a PHA, the Annual Plan 
 
 (n) *A statement of the PHA's policies and rules regarding ownership of pets in public housing.* This statement describes the PHA's policies and requirements pertaining to the ownership of pets in public housing. The policies must be in accordance with section 31 of the 1937 Act (42 U.S.C. 1437a-3).
 
-(o) *Civil rights certification.* (1) The PHA must certify that it will carry out its plan in conformity with title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d-2000d-4), the Fair Housing Act (42 U.S.C. 3601-19), section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), title II of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 *et seq.*), and other applicable Federal civil right laws, and that it will affirmatively further fair housing, which means that it will take meaningful actions to further the goals identified in the AFH conducted in accordance with the requirements of 24 CFR 5.150 through 5.180, that it will take no action that is materially inconsistent with its obligation to affirmatively further fair housing, and that it will address fair housing issues and contributing factors in its programs, in accordance with paragraph (o)(3) of this section.
+(o) *Civil rights certification.* (1) The PHA must certify that it will carry out its plan in conformity with title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d-2000d-4), the Fair Housing Act (42 U.S.C. 3601-19), section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), title II of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 *et seq.*), and other applicable Federal civil right laws, and that it will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this title.
 
 (2) The certification is applicable to both the 5-Year Plan and the Annual Plan, including any plan incorporated therein.
-
-(3) A PHA shall be considered in compliance with the certification requirement to affirmatively further fair housing if the PHA fulfills the requirements of §§ 903.7(o)(1) and 903.15(d) and:
-
-(i) Examines its programs or proposed programs;
-
-(ii) Identifies any fair housing issues and contributing factors within those programs, in accordance with 24 CFR 5.154;
-
-(iii) Specifies actions and strategies designed to address contributing factors, related fair housing issues, and goals in the applicable Assessment of Fair Housing consistent with 24 CFR 5.154, in a reasonable manner in view of the resources available;
-
-(iv) Works with jurisdictions to implement any of the jurisdiction's initiatives to affirmatively further fair housing that require the PHA's involvement;
-
-(v) Operates programs in a manner consistent with any applicable consolidated plan under 24 CFR part 91, and with any order or agreement, to comply with the authorities specified in paragraph (o)(1) of this section;
-
-(vi) Complies with any contribution or consultation requirement with respect to any applicable AFH, in accordance with 24 CFR 5.150 through 5.180;
-
-(vii) Maintains records reflecting these analyses, actions, and the results of these actions; and
-
-(viii) Takes steps acceptable to HUD to remedy known fair housing or civil rights violations.
 
 (p) *Recent results of PHA's fiscal year audit.* This statement provides the results of the most recent fiscal year audit of the PHA conducted under section 5(h)(2) of the 1937 Act (42 U.S.C. 1437c(h)).
 
@@ -196,4 +176,4 @@ With the exception of the first Annual Plan submitted by a PHA, the Annual Plan 
 
 (3) A PHA must include such other information as HUD may request of PHAs, either on an individual or across-the-board basis. HUD will advise the PHA or PHAs of this additional information through advance notice.
 
-[65 FR 81222, Dec. 22, 2000, as amended at 73 FR 72344, Nov. 28, 2008; 75 FR 66262, Oct. 27, 2010; 80 FR 42368, July 16, 2015; 81 FR 12372, Mar. 8, 2016]
+[65 FR 81222, Dec. 22, 2000, as amended at 73 FR 72344, Nov. 28, 2008; 75 FR 66262, Oct. 27, 2010; 80 FR 42368, July 16, 2015; 81 FR 12372, Mar. 8, 2016; 85 FR 47911, Aug. 7, 2020]

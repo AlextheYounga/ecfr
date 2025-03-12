@@ -1,14 +1,12 @@
 ##### § 91.220 Action plan. #####
 
-Link to an amendment published at 85 FR 47909, Aug. 7, 2020.
-
 The action plan must include the following:
 
 (a) Standard Form 424;
 
 (b) A concise executive summary that includes the objectives and outcomes identified in the plan as well as an evaluation of past performance, a summary of the citizen participation and consultation process (including efforts to broaden public participation) (24 CFR 91.200 (b)), a summary of comments or views, and a summary of comments or views not accepted and the reasons therefore (24 CFR 91.105 (b)(5)).
 
-(c) *Resources and objectives* - (1) *Federal resources.* The consolidated plan must provide a concise summary of the federal resources (including grant funds and program income) expected to be made available. Federal resources should include Section 8 funds made available to jurisdictions, Low-Income Housing Tax Credits, and competitive McKinney-Vento Homeless Assistance Act funds, expected to be available to address priority needs and specific objectives identified in the strategic plan.
+(c) *Resources and objectives*—(1) *Federal resources.* The consolidated plan must provide a concise summary of the federal resources (including grant funds and program income) expected to be made available. Federal resources should include Section 8 funds made available to jurisdictions, Low-Income Housing Tax Credits, and competitive McKinney-Vento Homeless Assistance Act funds, expected to be available to address priority needs and specific objectives identified in the strategic plan.
 
 (2) *Other resources.* The consolidated plan must indicate resources from private and state and local sources that are reasonably expected to be made available to address the needs identified in the plan. The plan must explain how federal funds will leverage those additional resources, including a description of how matching requirements of the HUD programs will be satisfied. Where the jurisdiction deems it appropriate, the jurisdiction may indicate publicly owned land or property located within the jurisdiction that may be used to address the needs identified in the plan;
 
@@ -42,11 +40,9 @@ The action plan must include the following:
 
 (j) *Barriers to affordable housing.* Actions it plans to take during the next year to remove or ameliorate the negative effects of public policies that serve as barriers to affordable housing. Such policies, procedures and processes include, but are not limited to, land use controls, tax policies affecting land, zoning ordinances, building codes, fees and charges, growth limitations, and policies affecting the return on residential investment.
 
-(k)(1) *Affirmatively furthering fair housing.* Actions it plans to take during the next year that address fair housing goals identified in the AFH.
+(k) *Other actions.* Actions it plans to take during the next year to address obstacles to meeting underserved needs, foster and maintain affordable housing, evaluate and reduce lead-based paint hazards, reduce the number of poverty-level families, develop institutional structure, and enhance coordination between public and private housing and social service agencies (see § 91.215(a), (b), (i), (j), (k), and (l)).
 
-(2) *Other actions.* Actions it plans to take during the next year to address obstacles to meeting underserved needs, foster and maintain affordable housing, evaluate and reduce lead-based paint hazards, reduce the number of poverty-level families, develop institutional structure, and enhance coordination between public and private housing and social service agencies (see § 91.215(a), (b), (i), (j), (k), and (l)).
-
-(l) *Program-specific requirements* - (1) *CDBG.* (i) A jurisdiction must describe activities planned with respect to all CDBG funds expected to be available during the program year, except that an amount generally not to exceed 10 percent of such total available CDBG funds may be excluded from the funds for which eligible activities are described if it has been identified for the contingency of cost overruns.
+(l) *Program-specific requirements*—(1) *CDBG.* (i) A jurisdiction must describe activities planned with respect to all CDBG funds expected to be available during the program year, except that an amount generally not to exceed 10 percent of such total available CDBG funds may be excluded from the funds for which eligible activities are described if it has been identified for the contingency of cost overruns.
 
 (ii) “CDBG funds expected to be available during the program year” includes all of the following:
 
@@ -150,4 +146,4 @@ The action plan must include the following:
 
 (ii) [Reserved].
 
-[71 FR 6965, Feb. 9, 2006, as amended at 76 FR 75970, Dec. 5, 2011; 78 FR 44663, July 24, 2013; 80 FR 5219, Jan. 30, 2015; 80 FR 42364, July 16, 2015; 80 FR 69869, Nov. 12, 2015; 81 FR 86951, Dec. 2, 2016]
+[71 FR 6965, Feb. 9, 2006, as amended at 76 FR 75970, Dec. 5, 2011; 78 FR 44663, July 24, 2013; 80 FR 5219, Jan. 30, 2015; 80 FR 42364, July 16, 2015; 80 FR 69869, Nov. 12, 2015; 81 FR 86951, Dec. 2, 2016; 85 FR 47909, Aug. 7, 2020]

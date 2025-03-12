@@ -1,7 +1,5 @@
 ##### § 91.505 Amendments to the consolidated plan. #####
 
-Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
-
 (a) *Amendments to the plan.* The jurisdiction shall amend its approved plan whenever it makes one of the following decisions:
 
 (1) To make a change in its allocation priorities or a change in the method of distribution of funds;
@@ -16,6 +14,4 @@ Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
 
 (2) See subpart B of this part for the public notice procedures applicable to substantial amendments. For any amendment affecting the HOPWA program that would involve acquisition, rehabilitation, conversion, lease, repair or construction of properties to provide housing, an environmental review of the revised proposed use of funds must be completed by HUD in accordance with 24 CFR 574.510.
 
-(d) The jurisdiction must ensure that amendments to the plan are consistent with its certification to affirmatively further fair housing and the analysis and strategies of the AFH.
-
-(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 80 FR 42366, July 16, 2015; 80 FR 69870, Nov. 12, 2015; 81 FR 86951, Dec. 2, 2016]
+(Approved by the Office of Management and Budget under control number 2506-0117)[60 FR 1896, Jan. 5, 1995, as amended at 80 FR 42366, July 16, 2015; 80 FR 69870, Nov. 12, 2015; 81 FR 86951, Dec. 2, 2016; 85 FR 47910, Aug. 7, 2020]

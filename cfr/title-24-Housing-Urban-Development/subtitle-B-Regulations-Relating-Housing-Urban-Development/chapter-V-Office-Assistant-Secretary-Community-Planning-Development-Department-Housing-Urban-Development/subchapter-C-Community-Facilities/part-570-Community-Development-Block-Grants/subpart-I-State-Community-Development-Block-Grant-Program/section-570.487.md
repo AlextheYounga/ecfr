@@ -1,16 +1,8 @@
 ##### § 570.487 Other applicable laws and related program requirements. #####
 
-Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
-
 (a) *General.* Certain statutes are expressly made applicable to activities assisted under the Act by the Act itself, while other laws not referred to in the Act may be applicable to such activities by their own terms. Certain statutes or executive orders that may be applicable to activities assisted under the Act by their own terms are administered or enforced by governmental officials, departments or agencies other than HUD. Paragraphs (d) and (c) of this section contain two of the requirements expressly made applicable to CDBG activities by the Act itself.
 
-(b) *Affirmatively furthering fair housing.* The Act requires the State to certify to the satisfaction of HUD that it will affirmatively further fair housing. The Act also requires each unit of general local government to certify that it will affirmatively further fair housing. The certification that the State will affirmatively further fair housing shall specifically require the State to assume the responsibility of fair housing planning by:
-
-(1) Taking meaningful actions to further the goals identified in an AFH conducted in accordance with the requirements of 24 CFR5.150 through 5.180;
-
-(2) Taking no action that is materially inconsistent with its obligation to affirmatively further fair housing; and
-
-(3) Assuring that units of local government funded by the State comply with their certifications to affirmatively further fair housing.
+(b) *Affirmatively furthering fair housing.* Each State is required to submit a certification that it will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this title. Each unit of general local government is required to submit a certification that it will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this title.
 
 (c) *Lead-Based Paint Poisoning Prevention Act.* States shall devise, adopt and carry out procedures with respect to CDBG assistance that fulfill the objectives and requirements of the Lead-Based Paint Poisoning Prevention Act (42 U.S.C. 4821-4846), the Residential Lead-Based Paint Hazard Reduction Act of 1992 (42 U.S.C. 4851-4856), and implementing regulations at part 35, subparts A, B, J, K, and R of this title.
 
@@ -18,4 +10,4 @@ Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
 
 (e) *Architectural Barriers Act and the Americans with Disabilities Act.* The Architectural Barriers Act of 1968 (42 U.S.C. 4151-4157) requires certain Federal and Federally-funded buildings and other facilities to be designed, constructed, or altered in accordance with standards that ensure accessibility to, and use by, physically handicapped people. A building or facility designed, constructed, or altered with funds allocated or reallocated under this subpart after November 21, 1996 and that meets the definition of *residential structure* as defined in 24 CFR 40.2, or the definition of *building* as defined in 41 CFR 101-19.602(a), is subject to the requirements of the Architectural Barriers Act of 1968 and shall comply with the Uniform Federal Accessibility Standards. For general type buildings, these standards are in appendix A to 41 CFR part 101-19.6. For residential structures, these standards are available from the Department of Housing and Urban Development, Office of Fair Housing and Equal Opportunity, Disability Rights Division, Room 5240, 451 Seventh Street, SW, Washington, DC 20410; telephone (202) 708-2333 (voice) or (202) 708-1734 (TTY) (these are not toll-free numbers).
 
-[57 FR 53397, Nov. 9, 1992, as amended at 59 FR 33894, June 30, 1994; 60 FR 1916, Jan. 5, 1995; 61 FR 54922, Oct. 22, 1996; 64 FR 50225, Sept. 15, 1999; 80 FR 42367, July 16, 2015]
+[57 FR 53397, Nov. 9, 1992, as amended at 59 FR 33894, June 30, 1994; 60 FR 1916, Jan. 5, 1995; 61 FR 54922, Oct. 22, 1996; 64 FR 50225, Sept. 15, 1999; 80 FR 42367, July 16, 2015; 85 FR 47911, Aug. 7, 2020]

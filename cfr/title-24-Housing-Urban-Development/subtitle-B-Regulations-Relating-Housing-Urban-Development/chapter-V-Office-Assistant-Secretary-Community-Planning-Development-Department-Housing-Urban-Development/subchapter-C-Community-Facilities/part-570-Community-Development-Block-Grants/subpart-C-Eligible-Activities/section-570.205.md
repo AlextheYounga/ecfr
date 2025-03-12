@@ -1,7 +1,5 @@
 ##### § 570.205 Eligible planning, urban environmental design and policy-planning-management-capacity building activities. #####
 
-Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
-
 (a) Planning activities which consist of all costs of data gathering, studies, analysis, and preparation of plans and the identification of actions that will implement such plans, including, but not limited to:
 
 (1) Comprehensive plans;
@@ -42,13 +40,11 @@ Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
 
 (vi) Support of clearinghouse functions, such as those specified in Executive Order 12372; and
 
-(vii) Assessment of Fair Housing.
-
-(viii) Developing an inventory of properties with known or suspected environmental contamination.
+(vii) Developing an inventory of properties with known or suspected environmental contamination.
 
 (5) [Reserved]
 
-(6) Policy - planning - management - capacity building activities which will enable the recipient to:
+(6) Policy—planning—management—capacity building activities which will enable the recipient to:
 
 (1) Determine its needs;
 
@@ -60,4 +56,4 @@ Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
 
 (5) Carry out management, coordination and monitoring of activities necessary for effective planning implementation, but excluding the costs necessary to implement such plans.
 
-[53 FR 34439, Sept. 6, 1988, as amended at 56 FR 56127, Oct. 31, 1991; 60 FR 1915, Jan. 5, 1995; 71 FR 30035, May 24, 2006; 80 FR 42366, July 16, 2015]
+[53 FR 34439, Sept. 6, 1988, as amended at 56 FR 56127, Oct. 31, 1991; 60 FR 1915, Jan. 5, 1995; 71 FR 30035, May 24, 2006; 80 FR 42366, July 16, 2015; 85 FR 47910, Aug. 7, 2020]

@@ -1,7 +1,5 @@
 ##### § 92.508 Recordkeeping. #####
 
-Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
-
 (a) *General.* Each participating jurisdiction must establish and maintain sufficient records to enable HUD to determine whether the participating jurisdiction has met the requirements of this part. At a minimum, the following records are needed:
 
 (1) *Records concerning designation as a participating jurisdiction.* (i) For a consortium, the consortium agreement among the participating member units of general local government as required by § 92.101.
@@ -98,7 +96,7 @@ Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
 
 (B) Documentation of actions undertaken to meet the requirements of 24 CFR part 135 which implements section 3 of the Housing Development Act of 1968, as amended (12 U.S.C. 1701u).
 
-(C) Documentation of the actions the participating jurisdiction has taken to affirmatively further fair housing, including documentation related to the participating jurisdiction's Assessment of Fair Housing as described in 24 CFR 5.168.
+(C) Documentation that the participating jurisdiction submitted a certification that it will affirmatively further fair housing, consistent with §§ 5.150 and 5.151 of this chapter.
 
 (ii) Affirmative marketing and MBE/WBE records.
 
@@ -142,4 +140,4 @@ Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
 
 (2) HUD and the Comptroller General of the United States, any of their representatives, have the right of access to any pertinent books, documents, papers or other records of the participating jurisdiction, state recipients, and subrecipients, in order to make audits, examinations, excerpts, and transcripts.
 
-[61 FR 48750, Sept. 16, 1996, as amended at 64 FR 50224, Sept. 15, 1999; 67 FR 61757, Oct. 1, 2002; 72 FR 73493, Dec. 27, 2007; 78 FR 44682, July 24, 2013; 80 FR 42366, July 16, 2015; 80 FR 75935, Dec. 7, 2015; 81 FR 80805, Nov. 16, 2016]
+[61 FR 48750, Sept. 16, 1996, as amended at 64 FR 50224, Sept. 15, 1999; 67 FR 61757, Oct. 1, 2002; 72 FR 73493, Dec. 27, 2007; 78 FR 44682, July 24, 2013; 80 FR 42366, July 16, 2015; 80 FR 75935, Dec. 7, 2015; 81 FR 80805, Nov. 16, 2016; 85 FR 47910, Aug. 7, 2020]

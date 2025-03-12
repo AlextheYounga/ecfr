@@ -1,8 +1,6 @@
 ##### § 570.3 Definitions. #####
 
-Link to an amendment published at 85 FR 47910, Aug. 7, 2020.
-
-The terms *Affirmatively Furthering Fair Housing, Assessment of Fair Housing or AFH,**HUD,* and *Secretary* are defined in 24 CFR part 5. All of the following definitions in this section that rely on data from the United States Bureau of the Census shall rely upon the data available from the latest decennial census or the American Community Survey.
+The terms Affirmatively Furthering Fair Housing, HUD, and Secretary are defined in 24 CFR part 5. All of the following definitions in this section that rely on data from the United States Bureau of the Census shall rely upon the data available from the latest decennial census or the American Community Survey.
 
 *Act* means title I of the Housing and Community Development Act of 1974 as amended (42 U.S.C. 5301 *et seq.*).
 
@@ -114,4 +112,4 @@ The terms *Affirmatively Furthering Fair Housing, Assessment of Fair Housing or 
 
 *Urban Development Action Grant* (UDAG) means a grant made by the Secretary pursuant to section 119 of the Act and subpart G of this part.
 
-[53 FR 34437, Sept. 6, 1988; 53 FR 41330, Oct. 21, 1988, as amended at 56 FR 56126, Oct. 31, 1991; 60 FR 1915, 1943, Jan. 5, 1995; 60 FR 56909, Nov. 9, 1995; 61 FR 5209, Feb. 9, 1996; 61 FR 11475, Mar. 20, 1996; 61 FR 18674, Apr. 29, 1996; 68 FR 69582, Dec. 12, 2003; 69 FR 32778, June 10, 2004; 77 FR 5675, Feb. 3, 2012; 80 FR 42366, July 16, 2015; 80 FR 69870, Nov. 12, 2015]
+[53 FR 34437, Sept. 6, 1988; 53 FR 41330, Oct. 21, 1988, as amended at 56 FR 56126, Oct. 31, 1991; 60 FR 1915, 1943, Jan. 5, 1995; 60 FR 56909, Nov. 9, 1995; 61 FR 5209, Feb. 9, 1996; 61 FR 11475, Mar. 20, 1996; 61 FR 18674, Apr. 29, 1996; 68 FR 69582, Dec. 12, 2003; 69 FR 32778, June 10, 2004; 77 FR 5675, Feb. 3, 2012; 80 FR 42366, July 16, 2015; 80 FR 69870, Nov. 12, 2015; 85 FR 47910, Aug. 7, 2020]
