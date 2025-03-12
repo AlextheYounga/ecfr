@@ -1,10 +1,8 @@
 ##### § 214.329 Train approach warning provided by watchmen/lookouts. #####
 
-Link to an amendment published at 81 FR 37889, June 10, 2016.
-
 Roadway workers in a roadway work group who foul any track outside of working limits shall be given warning of approaching trains by one or more watchmen/lookouts in accordance with the following provisions:
 
-(a) Train approach warning shall be given in sufficient time to enable each roadway worker to move to and occupy a previously arranged place of safety not less than 15 seconds before a train moving at the maximum speed authorized on that track can pass the location of the roadway worker.
+(a) Train approach warning shall be given in sufficient time to enable each roadway worker to move to and occupy a previously arranged place of safety not less than 15 seconds before a train moving at the maximum authorized speed on that track can pass the location of the roadway worker. The place of safety to be occupied upon the approach of a train may not be on a track, unless working limits are established on that track.
 
 (b) Watchmen/lookouts assigned to provide train approach warning shall devote full attention to detecting the approach of trains and communicating a warning thereof, and shall not be assigned any other duties while functioning as watchmen/lookouts.
 
@@ -17,3 +15,5 @@ Roadway workers in a roadway work group who foul any track outside of working li
 (f) Every roadway worker who is assigned the duties of a watchman/lookout shall first be trained, qualified and designated in writing by the employer to do so in accordance with the provisions of § 214.349.
 
 (g) Every watchman/lookout shall be provided by the employer with the equipment necessary for compliance with the on-track safety duties which the watchman/lookout will perform.
+
+[61 FR 65976, Dec. 16, 1996, as amended at 81 FR 37889, June 10, 2016]

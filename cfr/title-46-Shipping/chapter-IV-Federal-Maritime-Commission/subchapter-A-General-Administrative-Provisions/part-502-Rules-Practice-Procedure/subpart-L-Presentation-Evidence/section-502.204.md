@@ -1,0 +1,5 @@
+##### § 502.204 Evidence admissible. #####
+
+(a) In any proceeding under the rules in this part and in accordance with the Administrative Procedure Act, all evidence which is relevant, material, reliable and probative, and not unduly repetitious or cumulative, will be admissible. All other evidence will be excluded. The presiding officer may consider the Federal Rules of Evidence for guidance.
+
+(b) A party who objects to a ruling of the presiding officer rejecting or excluding proffered evidence may make an offer of proof. If the ruling excludes proffered oral testimony, an offer of proof may consist of a statement by counsel of the substance of the evidence that would be adduced, or in the discretion of the presiding officer, testimony of the witness. If the ruling excludes documents offered as evidence or reference to documents or records, the documents or records shall be marked for identification and will constitute the offer of proof. [Rule 204.]

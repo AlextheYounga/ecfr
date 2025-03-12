@@ -1,3 +1,5 @@
-##### § 214.320 xxx #####
+##### § 214.320 Roadway maintenance machine movements over signalized non-controlled track. #####
 
-Link to an amendment published at 81 FR 37887, June 10, 2016.
+Working limits must be established for roadway maintenance machine movements on non-controlled track equipped with automatic block signal systems over which trains are permitted to exceed restricted speed (for purposes of this section, on-track movements prepared to stop within on-half the range of vision but not exceeding 25 mph). This section applies unless the railroad's operating rules protect the movements of roadway maintenance machines in a manner equivalent to that provided for by limiting all train and locomotive movements to restricted speed, and such equivalent level of protection is first approved in writing by FRA's Associate Administrator for Railroad Safety and Chief Safety Officer.
+
+[81 FR 37887, June 10, 2016]

@@ -1,5 +1,7 @@
 ##### § 447.299 Reporting requirements. #####
 
+Link to an amendment published at 82 FR 16122, Apr. 3, 2017.
+
 (a) Beginning with the first quarter of Federal fiscal year 1993, each State must submit to CMS the quarterly aggregate amount of its disproportionate share hospital payments made to each individual public and private provider or facility. States' reports must present a complete, accurate, and full disclosure of all of their DSH programs and expenditures.
 
 (b) Each State must report the aggregate information specified under paragraph (a) of this section on a quarterly basis in accordance with procedures established by CMS.

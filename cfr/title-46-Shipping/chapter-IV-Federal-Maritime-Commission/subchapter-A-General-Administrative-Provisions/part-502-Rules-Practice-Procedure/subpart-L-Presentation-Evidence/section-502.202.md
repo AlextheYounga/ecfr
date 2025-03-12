@@ -1,0 +1,3 @@
+##### § 502.202 Right of parties to present evidence. #####
+
+Every party has the right to present its case or defense by oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts. The presiding officer, however, has the right and duty to limit the introduction of evidence and the examination and cross-examination of witnesses when, in his or her judgment, such evidence or examination is irrelevant, immaterial, or unduly repetitious. [Rule 202.]

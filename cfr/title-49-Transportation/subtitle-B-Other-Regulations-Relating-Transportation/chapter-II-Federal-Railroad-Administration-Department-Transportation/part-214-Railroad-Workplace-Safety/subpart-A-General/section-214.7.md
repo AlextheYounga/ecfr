@@ -1,8 +1,6 @@
 ##### § 214.7 Definitions. #####
 
-Link to an amendment published at 81 FR 37884, June 10, 2016.
-
-Unless otherwise provided, as used in this part -
+Unless otherwise provided, as used in this part—
 
 *Adjacent tracks* mean two or more tracks with track centers spaced less than 25 feet apart.
 
@@ -18,6 +16,8 @@ Unless otherwise provided, as used in this part -
 
 *Control operator* means the railroad employee in charge of a remotely controlled switch or derail, an interlocking, or a controlled point, or a segment of controlled track.
 
+*Controlled point* means a location where signals and/or other functions of a traffic control system are controlled from the control machine.
+
 *Controlled track* means track upon which the railroad's operating rules require that all movements of trains must be authorized by a train dispatcher or a control operator.
 
 *Deceleration device* means any mechanism, including, but not limited to, rope grabs, ripstitch lanyards, specially woven lanyards, tearing or deforming lanyards, and automatic self-retracting lifelines/lanyards that serve to dissipate a substantial amount of energy during a fall arrest, or otherwise limit the energy on a person during fall arrest.
@@ -26,13 +26,7 @@ Unless otherwise provided, as used in this part -
 
 *Designated official* means any person(s) designated by the employer to receive notification of non-complying conditions on on-track roadway maintenance machines and hi-rail vehicles.
 
-*Effective securing device* when used in relation to a manually operated switch or derail means one which is:
-
-(a) Vandal resistant;
-
-(b) Tamper resistant; and
-
-(c) Designed to be applied, secured, uniquely tagged and removed only by the class, craft or group of employees for whom the protection is being provided.
+*Effective securing device* means a vandal and tamper resistant lock, keyed for application and removal only by the roadway worker(s) for whom the protection is provided. In the absence of a lock, it is acceptable to use a spike driven firmly into a switch tie or a switch point clamp to prevent the use of a manually operated switch. It is also acceptable to use portable derails secured with specifically designed metal wedges. Securing devices without a specially keyed lock shall be designed in such a manner that they require railroad track tools for installation and removal and the operating rules of the railroad must prohibit removal by employees other than the class, craft, or group of employees for whom the protection is being provided. Regardless of the type of securing device, the throwing handle or hasp of the switch or derail shall be uniquely tagged. If there is no throwing handle, the securing device shall be tagged.
 
 *Employee* means an individual who is engaged or compensated by a railroad or by a contractor to a railroad to perform any of the duties defined in this part.
 
@@ -62,11 +56,15 @@ Unless otherwise provided, as used in this part -
 
 *Informational line-up of trains* means information provided in a prescribed format to a roadway worker by the train dispatcher regarding movements of trains authorized or expected on a specific segment of track during a specific period of time.
 
+*Interlocking, manual* means an arrangement of signals and signal appliances operated from an interlocking machine and so interconnected by means of mechanical and/or electric locking that their movements must succeed each other in proper sequence, train movements over all routes being governed by signal indication.
+
 *Lanyard* means a flexible line of rope, wire rope, or strap that is used to secure a body harness to a deceleration device, lifeline, or anchorage.
 
 *Lifeline* means a component of a fall arrest system consisting of a flexible line that connects to an anchorage at one end to hang vertically (vertical lifeline) or to an anchorage at both ends to stretch horizontally (horizontal lifeline), and that serves as a means for connecting other components of a personal fall arrest system to the anchorage.
 
 *Lone worker* means an individual roadway worker who is not being afforded on-track safety by another roadway worker, who is not a member of a roadway work group, and who is not engaged in a common task with another roadway worker.
+
+*Maximum authorized speed* means the highest speed permitted for the movement of trains permanently established by timetable/special instructions, general order, or track bulletin.
 
 *Non-controlled track* means track upon which trains are permitted by railroad rule or special instruction to move without receiving authorization from a train dispatcher or control operator.
 
@@ -77,6 +75,8 @@ Unless otherwise provided, as used in this part -
 *On-track roadway maintenance machine, new* means an on-track roadway maintenance machine that is ordered after December 26, 2003, and completed after September 27, 2004.
 
 *On-track safety* means a state of freedom from the danger of being struck by a moving railroad train or other railroad equipment, provided by operating and safety rules that govern track occupancy by personnel, trains and on-track equipment.
+
+*On-track safety manual* means the entire set of on-track safety rules and instructions maintained together in one manual designed to prevent roadway workers from being struck by trains or other on-track equipment. These instructions include operating rules and other procedures concerning on-track safety protection and on-track safety measures.
 
 *Personal fall arrest system* means a system used to arrest the fall of a person from a working level. It consists of an anchorage, connectors, body harness, lanyard, deceleration device, lifeline, or combination of these.
 
@@ -98,6 +98,8 @@ Unless otherwise provided, as used in this part -
 
 *Roadway worker* means any employee of a railroad, or of a contractor to a railroad, whose duties include inspection, construction, maintenance or repair of railroad track, bridges, roadway, signal and communication systems, electric traction systems, roadway facilities or roadway maintenance machinery on or near track or with the potential of fouling a track, and flagmen and watchmen/lookouts as defined in this section.
 
+*Roadway worker in charge* means a roadway worker who is qualified under § 214.353 to establish on-track safety for roadway work groups, and lone workers qualified under § 214.347 to establish on-track safety for themselves.
+
 *Self-retracting lifeline/lanyard* means a deceleration device that contains a drum-wound line that may be slowly extracted from, or retracted onto, the drum under slight tension during normal employee movement, and which, after onset of a fall, automatically locks the drum and arrests the fall.
 
 *Snap-hook* means a connector comprised of a hook-shaped member with a normally closed keeper, that may be opened to permit the hook to receive an object and, when released, automatically closes to retain the object.
@@ -108,8 +110,8 @@ Unless otherwise provided, as used in this part -
 
 *Train dispatcher* means the railroad employee assigned to control and issue orders governing the movement of trains on a specific segment of railroad track in accordance with the operating rules of the railroad that apply to that segment of track.
 
-*Watchman/lookout* means an employee who has been annually trained and qualified to provide warning to roadway workers of approaching trains or on-track equipment. Watchmen/lookouts shall be properly equipped to provide visual and auditory warning such as whistle, air horn, white disk, red flag, lantern, fusee. A watchman/lookout's sole duty is to look out for approaching trains/on-track equipment and provide at least fifteen seconds advanced warning to employees before arrival of trains/on-track equipment.
+*Watchman/lookout* means an employee who has been trained and qualified to provide warning to roadway workers of approaching trains or on-track equipment. Watchmen/lookouts shall be properly equipped to provide visual and auditory warning such as whistle, air horn, white disk, red flag, lantern, fuse. A watchman/lookout's sole duty is to look out for approaching trains/on-track equipment and provide at least fifteen seconds advanced warning to employees before arrival of trains/on-track equipment.
 
 *Working limits* means a segment of track with definite boundaries established in accordance with this part upon which trains and engines may move only as authorized by the roadway worker having control over that defined segment of track. Working limits may be established through “exclusive track occupancy,” “inaccessible track,” “foul time” or “train coordination” as defined herein.
 
-[57 FR 28127, June 24, 1992, as amended at 61 FR 65975, Dec. 16, 1996; 67 FR 1906, Jan. 15, 2002; 68 FR 44407, July 28, 2003; 76 FR 74614, Nov. 30, 2011; 79 FR 66500, Nov. 7, 2014]
+[57 FR 28127, June 24, 1992, as amended at 61 FR 65975, Dec. 16, 1996; 67 FR 1906, Jan. 15, 2002; 68 FR 44407, July 28, 2003; 76 FR 74614, Nov. 30, 2011; 79 FR 66500, Nov. 7, 2014; 81 FR 37884, June 10, 2016]

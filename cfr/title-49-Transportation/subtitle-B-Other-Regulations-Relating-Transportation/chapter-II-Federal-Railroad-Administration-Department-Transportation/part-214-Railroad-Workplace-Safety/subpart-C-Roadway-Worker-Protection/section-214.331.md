@@ -1,7 +1,5 @@
 ##### § 214.331 Definite train location. #####
 
-Link to an amendment published at 81 FR 37889, June 10, 2016.
-
 A roadway worker may establish on-track safety by using definite train location only where permitted by and in accordance with the following provisions:
 
 (a) A Class I railroad or a commuter railroad may only use definite train location to establish on-track safety at points where such procedures were in use on January 15, 1997.
@@ -33,3 +31,7 @@ A roadway worker may establish on-track safety by using definite train location 
 (6) A railroad shall not permit a train to depart a location designated in a definite train location list before the time shown therein.
 
 (7) Each roadway worker who uses definite train location to establish on-track safety must be qualified on the relevant physical characteristics of the territory for which the train location information is provided.
+
+(e) Each on-track safety program that provides for the use of definite train location shall discontinue such use by June 12, 2017.
+
+[61 FR 65976, Dec. 16, 1996, as amended at 81 FR 37889, June 10, 2016]

@@ -1,7 +1,5 @@
 ##### § 214.337 On-track safety procedures for lone workers. #####
 
-Link to an amendment published at 81 FR 37889, June 10, 2016.
-
 (a) A lone worker who fouls a track while performing routine inspection or minor correction may use individual train detection to establish on-track safety only where permitted by this section and the on-track safety program of the railroad.
 
 (b) A lone worker retains an absolute right to use on-track safety procedures other than individual train detection if he or she deems it necessary, and to occupy a place of safety until such other form of on-track safety can be established.
@@ -12,7 +10,7 @@ Link to an amendment published at 81 FR 37889, June 10, 2016.
 
 (2) While performing routine inspection and minor correction work;
 
-(3) On track outside the limits of a manual interlocking, a controlled point, or a remotely controlled hump yard facility;
+(3) On track outside the limits of a manual interlocking, a controlled point (except those consisting of signals only), or a remotely controlled hump yard facility;
 
 (4) Where the lone worker is able to visually detect the approach of a train moving at the maximum speed authorized on that track, and move to a previously determined place of safety, not less than 15 seconds before the train would arrive at the location of the lone worker;
 
@@ -25,3 +23,7 @@ Link to an amendment published at 81 FR 37889, June 10, 2016.
 (e) A lone worker using individual train detection for on-track safety while fouling a track may not occupy a position or engage in any activity that would interfere with that worker's ability to maintain a vigilant lookout for, and detect the approach of, a train moving in either direction as prescribed in this section.
 
 (f) A lone worker who uses individual train detection to establish on-track safety shall first complete a written Statement of On-track Safety. The Statement shall designate the limits of the track for which it is prepared and the date and time for which it is valid. The statement shall show the maximum authorized speed of trains within the limits for which it is prepared, and the sight distance that provides the required warning of approaching trains. The lone worker using individual train detection to establish on-track safety shall produce the Statement of On-track Safety when requested by a representative of the Federal Railroad Administrator.
+
+(g) Individual train detection shall not be used to provide on-track safety for a lone worker using a roadway maintenance machine, equipment, or material that cannot be readily removed by hand.
+
+[61 FR 65976, Dec. 16, 1996, as amended at 81 FR 37889, June 10, 2016]

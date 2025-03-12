@@ -1,0 +1,3 @@
+##### § 502.212 Exceptions to rulings of presiding officer unnecessary. #####
+
+A formal exception to a ruling or order is unnecessary. When the ruling or order is requested or made, the party doing so need only state the action that it wants the presiding officer to take or that it objects to, along with the grounds for the request or objection. Failing to object does not prejudice a party who had no opportunity to do so when the ruling or order was made. [Rule 212.]

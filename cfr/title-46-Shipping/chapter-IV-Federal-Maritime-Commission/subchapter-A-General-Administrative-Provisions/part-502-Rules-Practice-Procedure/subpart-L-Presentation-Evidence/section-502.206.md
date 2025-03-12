@@ -1,0 +1,3 @@
+##### § 502.206 Documents incorporated into the record by reference. #####
+
+Any matter contained in a document on file with the Commission that is available to the public may be received in evidence through incorporation by reference without producing such document, provided that the matter so offered is specified in such manner as to be clearly identified, with sufficient particularity, and readily located electronically. [Rule 206.]

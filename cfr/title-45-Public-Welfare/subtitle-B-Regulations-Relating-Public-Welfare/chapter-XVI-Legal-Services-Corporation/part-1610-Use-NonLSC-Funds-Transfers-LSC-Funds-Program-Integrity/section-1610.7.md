@@ -1,15 +1,21 @@
-##### § 1610.7 Transfers of LSC funds. #####
+##### § 1610.7 Program integrity of recipient. #####
 
-Link to an amendment published at 82 FR 10283, Feb. 10, 2017.
+(a) A recipient must have objective integrity and independence from any organization that engages in restricted activities. A recipient will be found to have objective integrity and independence from such an organization if:
 
-(a) If a recipient transfers LSC funds to another person or entity, the prohibitions and requirements referred to in this part, except as modified by paragraphs (b) and (c) of this section, will apply both to the LSC funds transferred and to the non-LSC funds of the person or entity to whom those funds are transferred.
+(1) The other organization is a legally separate entity;
 
-(b)(1) In regard to the requirement in § 1610.2(b)(5) on priorities, persons or entities receiving a transfer of LSC funds shall either:
+(2) The other organization receives no LSC funds from the recipient, and LSC funds do not subsidize restricted activities; and
 
-(i) Use the funds transferred consistent with the recipient's priorities; or
+(3) The recipient is physically and financially separate from the other organization. Mere bookkeeping separation of LSC funds from other funds is not sufficient. Whether sufficient physical and financial separation exists will be determined on a case-by-case basis and will be based on the totality of the facts. The presence or absence of any one or more factors will not be determinative. Factors relevant to this determination shall include but will not be limited to:
 
-(ii) Establish their own priorities for the use of the funds transferred consistent with 45 CFR part 1620;
+(i) The existence of separate personnel;
 
-(2) In regard to the requirement in § 1610.2(b)(6) on timekeeping, persons or entities receiving a transfer of LSC funds are required to maintain records of time spent on each case or matter undertaken with the funds transferred.
+(ii) The existence of separate accounting and timekeeping records;
 
-(c) For a transfer of LSC funds to bar associations, *pro bono* programs, private attorneys or law firms, or other entities for the sole purpose of funding private attorney involvement activities (PAI) pursuant to 45 CFR part 1614, the prohibitions or requirements of this part shall apply only to the funds transferred.
+(iii) The degree of separation from facilities in which restricted activities occur, and the extent of such restricted activities; and
+
+(iv) The extent to which signs and other forms of identification which distinguish the recipient from the organization are present.
+
+(b) Each recipient's governing body must certify to the Corporation within 180 days of the effective date of this part that the recipient is in compliance with the requirements of this section. Thereafter, the recipient's governing body must certify such compliance to the Corporation on an annual basis.
+
+[62 FR 27698, May 21, 1997. Redesignated and amended at 82 FR 10283, Feb. 10, 2017]

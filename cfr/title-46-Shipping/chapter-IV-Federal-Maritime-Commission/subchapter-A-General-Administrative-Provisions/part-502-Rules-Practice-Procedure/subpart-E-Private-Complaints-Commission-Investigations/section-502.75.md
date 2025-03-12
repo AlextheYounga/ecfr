@@ -1,0 +1,15 @@
+##### § 502.75 Opportunity for informal settlement. #####
+
+(a) Parties are encouraged to make use of all the procedures of this part that are designed to simplify or avoid formal litigation, and to assist the parties in reaching settlements whenever it appears that a particular procedure would be helpful.
+
+(b) Where time, the nature of the proceeding, and the public interest permit, all interested parties will have the opportunity for the submission and consideration of facts, argument, offers of settlement, or proposal of adjustment, without prejudice to the rights of the parties.
+
+(c) No settlement offer, or proposal will be admissible in evidence over the objection of any party in any hearing on the matter.
+
+(d) As soon as practicable after the commencement of any proceeding, the presiding officer will direct the parties or their representatives to consider the use of alternative dispute resolution, including but not limited to mediation, and may direct the parties or their representatives to consult with the Federal Maritime Commission Alternative Dispute Resolution Specialist about the feasibility of alternative dispute resolution.
+
+(e) Any party may request that a mediator or other neutral be appointed to assist the parties in reaching a settlement. If such a request or suggestion is made and is not opposed, the presiding officer will appoint a mediator or other neutral who is acceptable to all parties, coordinating with the Federal Maritime Commission Alternative Dispute Resolution Specialist. The mediator or other neutral will convene and conduct one or more mediation or other sessions with the parties and will inform the presiding officer, within the time prescribed by the presiding officer, whether the dispute resolution proceeding resulted in a resolution or not, and may make recommendations as to future proceedings. If settlement is reached, it will be submitted to the presiding officer who will issue an appropriate decision or ruling. All such dispute resolution proceedings are subject to the provisions of subpart U of this part.
+
+(f) Any party may request that a settlement judge be appointed to assist the parties in reaching a settlement. If such a request or suggestion is made and is not opposed, the presiding officer will advise the Chief Administrative Law Judge who may appoint a settlement judge who is acceptable to all parties. The settlement judge will convene and preside over conferences and settlement negotiations and will report to the presiding officer within the time prescribed by the Chief Administrative Law Judge, on the results of settlement discussions with appropriate recommendations as to future proceedings. If settlement is reached, it must be submitted to the presiding officer who will issue an appropriate decision or ruling. [Rule 75.]
+
+[81 FR 93836, Dec. 22, 2016]

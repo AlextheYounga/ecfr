@@ -1,8 +1,8 @@
 ##### § 1485.22 Reports. #####
 
-(a)*End-of-Year Contribution Report.* Not later than 6 months after the end of its program year, a MAP Participant shall submit two copies of a report that identifies, by cost category and in U.S. dollar equivalent, contributions made by the Participant, the U.S. industry, and the States during that program year. A suggested format of a contribution report is available from FAS. Foreign third party contributions are not included in the end-of-year contribution report.
+(a) *End-of-Year Contribution Report.* Not later than 6 months after the end of its program year, a MAP Participant shall submit two copies of a report that identifies, by cost category and in U.S. dollar equivalent, contributions made by the Participant, the U.S. industry, and the States during that program year. A suggested format of a contribution report is available from FAS. Foreign third party contributions are not included in the end-of-year contribution report.
 
-(b)*Trip reports.* Not later than 45 days after completion of travel (other than local travel), a MAP Participant shall electronically submit a trip report. The report must include the name(s) of the traveler(s), purpose of travel, itinerary, names and affiliations of contacts, and a brief summary of findings, conclusions, recommendations, and specific accomplishments.
+(b) *Trip reports.* Not later than 45 days after completion of travel (other than local travel), a MAP Participant shall electronically submit a trip report. The report must include the name(s) of the traveler(s), purpose of travel, itinerary, names and affiliations of contacts, and a brief summary of findings, conclusions, recommendations, and specific accomplishments.
 
 (c) *Research reports.* Not later than 6 months after the end of its program year, a MAP Participant shall submit a report on any research conducted pursuant to the approved MAP program.
 

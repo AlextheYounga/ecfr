@@ -1,6 +1,4 @@
-##### § 214.355 Training and qualification in on-track safety for operators of roadway maintenance machines. #####
-
-Link to an amendment published at 81 FR 37890, June 10, 2016.
+##### § 214.355 Training and qualification of each roadway worker in on-track safety for operators of roadway maintenance machines. #####
 
 (a) The training and qualification of roadway workers who operate roadway maintenance machines shall include, as a minimum:
 
@@ -12,4 +10,6 @@ Link to an amendment published at 81 FR 37890, June 10, 2016.
 
 (4) Methods to determine safe operating procedures for each machine that the operator is expected to operate.
 
-(b) Initial and periodic qualification of a roadway worker to operate roadway maintenance machines shall be evidenced by demonstrated proficiency.
+(b) Initial and periodic (as specified by § 243.201 of this chapter) qualification of a roadway worker to operate roadway maintenance machines shall be evidenced by demonstrated proficiency.
+
+[61 FR 65976, Dec. 16, 1996, as amended at 81 FR 37890, June 10, 2016]
