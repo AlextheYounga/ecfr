@@ -1,5 +1,7 @@
 ##### § 275.203(m)-1 Private fund adviser exemption. #####
 
+Link to an amendment published at 83 FR 1302, Jan. 11, 2018.
+
 (a) *United States investment advisers.* For purposes of section 203(m) of the Act (15 U.S.C. 80b-3(m)), an investment adviser with its principal office and place of business in the United States is exempt from the requirement to register under section 203 of the Act if the investment adviser:
 
 (1) Acts solely as an investment adviser to one or more qualifying private funds; and

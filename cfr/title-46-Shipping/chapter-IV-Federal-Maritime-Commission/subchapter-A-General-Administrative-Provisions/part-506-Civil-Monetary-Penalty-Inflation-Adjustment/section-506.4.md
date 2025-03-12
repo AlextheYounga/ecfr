@@ -1,5 +1,7 @@
 ##### § 506.4 Cost of living adjustments of civil monetary penalties. #####
 
+Link to an amendment published at 83 FR 1305, Jan. 11, 2018.
+
 (a) The inflation adjustment under § 506.3 will initially be determined by increasing the maximum civil monetary penalty for each civil monetary penalty by the initial cost-of-living adjustment. The inflation adjustment will subsequently be determined by increasing the maximum civil monetary penalty for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this section shall be rounded to the nearest multiple of $1.
 
 (b) *Inflation adjustment.* For purposes of paragraph (a) of this section, the term `cost-of-living adjustment' means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October preceding the adjustment exceeds the Consumer Price Index for the month of October 1 year before the month of October preceding the adjustment.

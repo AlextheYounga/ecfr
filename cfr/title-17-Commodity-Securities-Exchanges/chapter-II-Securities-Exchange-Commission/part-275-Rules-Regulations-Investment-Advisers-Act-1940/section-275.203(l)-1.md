@@ -1,5 +1,7 @@
 ##### § 275.203(l)-1 Venture capital fund defined. #####
 
+Link to an amendment published at 83 FR 1302, Jan. 11, 2018.
+
 (a) *Venture capital fund defined.* For purposes of section 203(l) of the Act (15 U.S.C. 80b-3(l)), a venture capital fund is any private fund that:
 
 (1) Represents to investors and potential investors that it pursues a venture capital strategy;

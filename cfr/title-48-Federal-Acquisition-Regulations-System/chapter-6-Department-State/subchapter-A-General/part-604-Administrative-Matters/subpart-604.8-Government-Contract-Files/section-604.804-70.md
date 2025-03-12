@@ -1,7 +1,5 @@
 ##### 604.804-70 Contract closeout procedures. #####
 
-Link to an amendment published at 82 FR 58351, Dec. 12, 2017.
-
 (a) This section sets forth procedures for closing out contracts awarded using other than simplified acquisition procedures by contracting activities and requirements offices. It is the Department's policy to close out contracts in the time frames prescribed by FAR Part 4.
 
 (b) Contracting activities are responsible for initiating each contract closeout. Contracting activities and requirements offices are jointly responsible for timely compliance with required contract closeout procedures.
@@ -14,7 +12,7 @@ Link to an amendment published at 82 FR 58351, Dec. 12, 2017.
 
 (2) After receipt of the COR's response, and the contractor's release, the contracting officer shall send a final payment memo to the office responsible for payment of invoices/vouchers.
 
-(3) An audit is required for cost-reimbursement contracts over $550,000, unless available data are considered adequate for a reasonableness determination, in which case the contract file shall be documented with the appropriate rationale. Requests for audits shall be submitted through the Office of the Inspector General. Cost-reimbursement contracts may be closed after receipt of the audit report and resolution of any issues raised. Quick closeout procedures may be followed, as prescribed in FAR 42.708. The contracting officer may request an audit of any contract, if warranted; however, audits should not be requested if the cost of the audit is likely to exceed potential cost recovery, except where fraud or misrepresentation is suspected.
+(3) An audit is required for cost-reimbursement contracts over $550,000, unless available data are considered adequate for a reasonableness determination, in which case the contract file shall be documented with the appropriate rationale. Requests for audits, normally by the Defense Contract Audit Agency (DCAA) in accordance with the agreement DOS has with DCAA to conduct incurred cost audits, shall be submitted through the A/LM/AQM/BOD/QA Audit Team (see 642.101(b)). Cost-reimbursement contracts may be closed after receipt of the audit report and resolution of any issues raised. Quick closeout procedures may be followed, as prescribed in FAR 42.708. The contracting officer may request an audit of any contract, if warranted; however, audits should not be requested if the cost of the audit is likely to exceed potential cost recovery, except where fraud or misrepresentation is suspected.
 
 (4) The contracting officer shall send a letter to the contractor requesting release of claims, using the appropriate format. In addition, a Contractor Assignment Letter is required for certain contracts. To determine which format is applicable, contracting officers shall refer to the Payments clause in the contract.
 
@@ -31,3 +29,5 @@ Link to an amendment published at 82 FR 58351, Dec. 12, 2017.
 (e) Contract files that have been closed out shall be retained in accordance with the schedule in FAR 4.805.
 
 (f) Contract files for contracts using simplified acquisition procedures are considered closed when the contracting officer receives evidence of property/services and final payment. Disposal of such files shall be as prescribed in FAR 4.805.
+
+[80 FR 6915, Feb. 9, 2015, as amended at 82 FR 58351, Dec. 12, 2017]
