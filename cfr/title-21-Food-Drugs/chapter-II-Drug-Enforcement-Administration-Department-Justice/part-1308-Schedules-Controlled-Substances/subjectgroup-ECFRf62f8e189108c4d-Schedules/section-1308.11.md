@@ -235,5 +235,11 @@ signation (for purposes of paragraph (b)(34) only, the term isomer includes the 
 |       (7) N-[1-[2-hydroxy-2-(thiophen-2-yl)ethyl]piperidin-4-yl]-N-phenylpropionamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other names: beta-hydroxythiofentanyl)       |(9836) |
 |                      (8) 3,4-Dichloro-N-[2-(dimethylamino)cyclohexyl]-N-methylbenzamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: U-47700)                       |(9547) |
 |                    (9) N-(1-phenethylpiperidin-4-yl)-N-phenylfuran-2-carboxamide, its isomers, esters, ethers, salts and salts of isomers, esters and ethers (Other name: Furanyl fentanyl)                     |(9834).|
+|      (10) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-ADB; 5F-MDMB-PINACA)       |(7034) |
+|                (11) methyl 2-(1-(5-fluoropentyl)-1H-indazole-3-carboxamido)-3-methylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-AMB).                |(7033) |
+|              (12) N-(adamantan-1-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: 5F-APINACA, 5F-AKB48)               |(7049) |
+|       (13) N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: ADB-FUBINACA)        |(7010) |
+|     (14) methyl 2-(1-(cyclohexylmethyl)-1H-indole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MDMB-CHMICA, MMB-CHMINACA)     |(7042) |
+|           (15) methyl 2-(1-(4-fluorobenzyl)-1H-indazole-3-carboxamido)-3,3-dimethylbutanoate, its optical, positional, and geometric isomers, salts and salts of isomers (Other names: MDMB-FUBINACA)           |(7020) |
 
 [39 FR 22141, June 20, 1974]Editorial Note:For Federal Register citations affecting § 1308.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

@@ -1,5 +1,7 @@
 ##### § 300.25 Eastern Pacific fisheries management. #####
 
+Link to an amendment published at 82 FR 17385, Apr. 11, 2017.
+
 (a) *IATTC recommendations and decisions.* The Secretary of Commerce, in consultation with the Secretary of State and, with respect to enforcement measures, the U.S. Coast Guard, may promulgate such regulations as may be necessary to carry out the U.S. international obligations under the Convention, Antigua Convention, and the Act, including recommendations and other decisions adopted by the IATTC.
 
 (b) *Tuna catch limits in the longline fishery in the Convention Area.* (1) Fishing seasons for all tuna species begin on January 1 and end either on December 31 or when NMFS closes the fishery for a specific species.

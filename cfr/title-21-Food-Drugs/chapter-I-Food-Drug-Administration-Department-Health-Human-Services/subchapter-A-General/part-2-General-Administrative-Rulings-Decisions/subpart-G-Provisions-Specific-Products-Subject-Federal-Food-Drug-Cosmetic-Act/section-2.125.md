@@ -1,7 +1,5 @@
 ##### § 2.125 Use of ozone-depleting substances in foods, drugs, devices, or cosmetics. #####
 
-Link to an amendment published at 81 FR 74302, Oct. 26, 2016.
-
 (a) As used in this section, *ozone-depleting substance* (ODS) means any class I substance as defined in 40 CFR part 82, appendix A to subpart A, or class II substance as defined in 40 CFR part 82, appendix B to subpart A.
 
 (b) Except as provided in paragraph (c) of this section, any food, drug, device, or cosmetic that is, consists in part of, or is contained in an aerosol product or other pressurized dispenser that releases an ODS is not an essential use of the ODS under the Clean Air Act.
@@ -26,13 +24,7 @@ Link to an amendment published at 81 FR 74302, Oct. 26, 2016.
 
 (iii) Anesthetic drugs for topical use on accessible mucous membranes of humans where a cannula is used for application.
 
-(iv)-(v) [Reserved]
-
-(vi) Metered-dose atropine sulfate aerosol human drugs administered by oral inhalation.
-
-(vii)-(viii) [Reserved]
-
-(ix) Sterile aerosol talc administered intrapleurally by thoracoscopy for human use.
+(iv)-(ix) [Reserved]
 
 (f) Any person may file a petition under part 10 of this chapter to request that FDA initiate rulemaking to amend paragraph (e) of this section to add an essential use. FDA may initiate notice-and-comment rulemaking to add an essential use on its own initiative or in response to a petition, if granted.
 
@@ -74,4 +66,4 @@ Link to an amendment published at 81 FR 74302, Oct. 26, 2016.
 
 (ii) The requirements of paragraphs (g)(3)(ii), (g)(3)(iii), and (g)(3)(iv) of this section are met.
 
-[67 FR 48384, July 24, 2002, as amended at 71 FR 70873, Dec. 7, 2006; 70 FR 17192, Apr. 4, 2005; 75 FR 19241, Apr. 14, 2010; 73 FR 69552, Nov. 19, 2008; 75 FR 19241, Apr. 14, 2010]
+[67 FR 48384, July 24, 2002, as amended at 71 FR 70873, Dec. 7, 2006; 70 FR 17192, Apr. 4, 2005; 75 FR 19241, Apr. 14, 2010; 73 FR 69552, Nov. 19, 2008; 75 FR 19241, Apr. 14, 2010; 81 FR 74302, Oct. 26, 2016]
