@@ -1,5 +1,7 @@
 ##### § 51.2954 Tolerances for grade defects. #####
 
+Link to an amendment published at 82 FR 39658, Aug. 22, 2017.
+
 In order to allow for variations incident to proper grading and handling, the following tolerances shall be permitted for nuts which fail to meet the requirements of the respective grades as indicated. Terms in quotation marks refer to color classifications illustrated on the color chart.
 
 Tolerances for Grade Defects

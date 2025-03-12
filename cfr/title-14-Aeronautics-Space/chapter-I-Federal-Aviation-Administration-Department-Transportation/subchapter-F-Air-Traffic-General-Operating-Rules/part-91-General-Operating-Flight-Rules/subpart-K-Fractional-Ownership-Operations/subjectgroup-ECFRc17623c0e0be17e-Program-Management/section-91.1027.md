@@ -1,5 +1,7 @@
 ##### § 91.1027 Recordkeeping. #####
 
+Link to an amendment published at 82 FR 39664, Aug. 22, 2017.
+
 (a) Each program manager must keep at its principal base of operations or at other places approved by the Administrator, and must make available for inspection by the Administrator all of the following:
 
 (1) The program manager's management specifications.

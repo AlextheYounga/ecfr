@@ -1,5 +1,7 @@
 ##### § 64.613 Numbering directory for Internet-based TRS users. #####
 
+Link to an amendment published at 82 FR 39683, August 22, 2017.
+
 (a) *TRS Numbering Directory.*
 
 (1) The TRS Numbering Directory shall contain records mapping the geographically appropriate NANP telephone number of each Registered Internet-based TRS User and hearing point-to-point video user to a unique Uniform Resource Identifier (URI).

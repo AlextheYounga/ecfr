@@ -1,0 +1,3 @@
+##### § 218.52 Permissible methods of taking. #####
+
+Under a LOA issued pursuant to § 216.106 of this chapter and § 218.56, the Holder of the LOA (herein after 86 FWS) may incidentally, but not intentionally, take marine mammals by Level A and Level B harassment associated with LRS WSEP activities within the area described in § 218.50, provided the activities are in compliance with all terms, conditions, and requirements of these regulations in this subpart and the associated LOA.
