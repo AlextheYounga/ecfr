@@ -1,5 +1,7 @@
 ##### § 76.612 Cable television frequency separation standards. #####
 
+Link to an amendment published at 83 FR 7630, Feb. 22, 2018.
+
 All cable television systems which operate in the frequency bands 108-137 and 225-400 MHz shall comply with the following frequency separation standards:
 
 (a) In the aeronautical radiocommunication bands 118-137, 225-328.6 and 335.4-400 MHz, the frequency of all carrier signals or signal components carried at an average power level equal to or greater than 10−4 watts in a 25 kHz bandwidth in any 160 microsecond period must operate at frequencies offset from certain frequencies which may be used by aeronautical radio services operated by Commission licensees or by the United States Government or its Agencies. The aeronautical frequencies from which offsets must be maintained are those frequencies which are within one of the aeronautical bands defined in this subparagraph, and when expressed in MHz and divided by 0.025 yield an integer. The offset must meet one of the following two criteria:

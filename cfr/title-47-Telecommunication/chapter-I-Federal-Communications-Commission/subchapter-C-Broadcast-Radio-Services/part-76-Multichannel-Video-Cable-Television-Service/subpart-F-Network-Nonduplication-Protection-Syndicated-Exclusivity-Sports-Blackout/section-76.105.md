@@ -1,5 +1,7 @@
 ##### § 76.105 Notification. #####
 
+Link to an amendment published at 83 FR 7627, Feb. 22, 2018.
+
 (a) In order to exercise exclusivity rights pursuant to § 76.101, distributors or television stations shall notify each cable television system operator of the exclusivity sought in accordance with the requirements of this section. Syndicated program exclusivity notices shall include the following information:
 
 (1) The name and address of the party requesting exclusivity and the television broadcast station or other party holding the exclusive right;

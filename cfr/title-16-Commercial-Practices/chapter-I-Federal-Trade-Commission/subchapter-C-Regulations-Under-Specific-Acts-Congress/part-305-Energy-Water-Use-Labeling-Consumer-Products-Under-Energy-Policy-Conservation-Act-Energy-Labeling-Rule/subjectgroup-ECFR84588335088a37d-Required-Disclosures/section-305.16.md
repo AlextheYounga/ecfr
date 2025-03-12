@@ -1,5 +1,7 @@
 ##### § 305.16 Labeling and marking for plumbing products. #####
 
+Link to an amendment published at 83 FR 7597, Feb. 22, 2018.
+
 (a) *Showerheads and faucets.* Showerheads and faucets shall be marked and labeled as follows:
 
 (1) Each showerhead and flow restricting or controlling spout end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 325 of the Act, 42 U.S.C. 6295(j). Except where impractical due to the size of the fitting, each flow rate disclosure shall also be given in liters per minute (L/min) or liters per cycle (L/cycle). For purposes of this section, the marking indicating the flow rate will be deemed “legible,” in terms of placement, if it is located in close proximity to the manufacturer's identification marking.

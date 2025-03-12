@@ -1,6 +1,6 @@
 ##### § 76.56 Signal carriage obligations. #####
 
-Link to an amendment published at 83 FR 5028, Feb. 2, 2018.
+Link to an amendment published at 83 FR 5028, Feb. 2, 2018.Link to an amendment published at 83 FR 7626, Feb. 22, 2018.
 
 (a) *Carriage of qualified noncommercial educational stations.* A cable television system shall carry qualified NCE television stations in accordance with the following provisions:
 

@@ -1,5 +1,7 @@
 ##### 852.216-70 Estimated quantities. #####
 
+Link to an amendment published at 83 FR 7405, Feb. 21, 2018.
+
 As prescribed in 816.504(a), insert the following clause:
 
 Estimated Quantities (APR 1984)

@@ -1,5 +1,7 @@
 ##### § 76.605 Technical standards. #####
 
+Link to an amendment published at 83 FR 7627, Feb. 22, 2018.
+
 (a) The following requirements apply to the performance of a cable television system as measured at any subscriber terminal with a matched impedance at the termination point or at the output of the modulating or processing equipment (generally the headend) of the cable television system or otherwise as noted. The requirements are applicable to each NTSC or similar video downstream cable television channel in the system:
 
 (1)(i) The cable television channels delivered to the subscriber's terminal shall be capable of being received and displayed by TV broadcast receivers used for off-the-air reception of TV broadcast signals, as authorized under part 73 of this chapter; and

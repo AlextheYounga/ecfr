@@ -1,5 +1,7 @@
 ##### 828.101-70 Safekeeping and return of bid guarantee. #####
 
+Link to an amendment published at 83 FR 7404, Feb. 21, 2018.
+
 (a) The contracting officer must retain, in a safe, certified checks or other negotiable security provided as bid security for the three lowest acceptable bids. After the contract and contract bonds have been signed and approved, the contracting officer must return the certified checks or other negotiable securities either:
 
 (1) In person to the bidder who provides a proper receipt; or

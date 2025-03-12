@@ -1,5 +1,7 @@
 ##### § 8.13 General pleading requirements. #####
 
+Link to an amendment published at 83 FR 7922, Feb. 22, 2018.
+
 (a) *General pleading requirements.* All written submissions, both substantive and procedural, must conform to the following standards:
 
 (1) A pleading must be clear, concise, and explicit. All matters concerning a claim, defense or requested remedy should be pleaded fully and with specificity.

@@ -1,5 +1,7 @@
 ##### § 8.15 Status conference. #####
 
+Link to an amendment published at 83 FR 7922, Feb. 22, 2018.
+
 (a) In any proceeding subject to the part 8 rules, the Commission may in its discretion direct the attorneys and/or the parties to appear for a conference to consider:
 
 (1) Simplification or narrowing of the issues;

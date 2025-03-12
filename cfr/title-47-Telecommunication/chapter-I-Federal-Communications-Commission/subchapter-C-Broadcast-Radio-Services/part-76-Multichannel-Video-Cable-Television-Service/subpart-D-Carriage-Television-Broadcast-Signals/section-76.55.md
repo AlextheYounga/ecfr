@@ -1,5 +1,7 @@
 ##### § 76.55 Definitions applicable to the must-carry rules. #####
 
+Link to an amendment published at 83 FR 7626, Feb. 22, 2018.
+
 For purposes of the must-carry rules set forth in this subpart, the following definitions apply:
 
 (a) *Qualified noncommercial educational (NCE) television station.* A qualified NCE television station is any television broadcast station which

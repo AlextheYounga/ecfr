@@ -1,5 +1,7 @@
 ##### § 20.7 Mobile services. #####
 
+Link to an amendment published at 83 FR 7401, Feb. 21, 2018.
+
 The following are mobile services within the meaning of sections 3(n) and 332 of the Communications Act, 47 U.S.C. 153(n), 332.
 
 (a) Public mobile services (part 22 of this chapter), including fixed operations that support the mobile systems, but excluding Rural Radio Service and Basic Exchange Telecommunications Radio Service (part 22, subpart H of this chapter);

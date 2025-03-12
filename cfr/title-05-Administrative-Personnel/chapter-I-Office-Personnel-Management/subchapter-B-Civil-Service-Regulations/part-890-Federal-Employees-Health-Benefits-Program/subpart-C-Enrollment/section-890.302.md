@@ -1,8 +1,6 @@
 ##### § 890.302 Coverage of family members. #####
 
-Link to an amendment published at 83 FR 3061, Jan. 23, 2018.
-
-(a)(1) An enrollment for self plus one includes the enrollee and one eligible family member. An enrollment for self and family includes all family members who are eligible to be covered by the enrollment. Except as provided in paragraph (a)(2) of this section, no employee, former employee, annuitant, child, or former spouse may enroll or be covered as a family member if he or she is already covered under another person's self plus one or self and family enrollment in the FEHB Program.
+(a)(1) *Enrollment.* An enrollment for self plus one includes the enrollee and one eligible family member. An enrollment for self and family includes all family members who are eligible to be covered by the enrollment except as provided in § 890.308(h). Proof of family member eligibility may be required, and must be provided upon request, to the carrier, the employing office or OPM. Except as provided in paragraph (a)(2) of this section, no employee, former employee, annuitant, child, or former spouse may enroll or be covered as a family member if he or she is already covered under another person's self plus one or self and family enrollment in the FEHB Program.
 
 (2) *Dual enrollment.* (i) A dual enrollment exists when an individual is covered under more than one FEHB Program enrollment. Dual enrollments are prohibited except when an eligible individual would otherwise not have access to coverage and the dual enrollment has been authorized by the employing office.
 
@@ -76,4 +74,4 @@ Link to an amendment published at 83 FR 3061, Jan. 23, 2018.
 
 (2) Switching a covered family member under a self plus one enrollment will be effective on the first day of the first pay period that begins after the date the employing office receives an appropriate request to switch the covered family member.
 
-[78 FR 64876, Oct. 30, 2013, as amended at 80 FR 55735, Sept. 17, 2015; 81 FR 86906, Dec. 2, 2016]
+[78 FR 64876, Oct. 30, 2013, as amended at 80 FR 55735, Sept. 17, 2015; 81 FR 86906, Dec. 2, 2016; 83 FR 3061, Jan. 23, 2018]

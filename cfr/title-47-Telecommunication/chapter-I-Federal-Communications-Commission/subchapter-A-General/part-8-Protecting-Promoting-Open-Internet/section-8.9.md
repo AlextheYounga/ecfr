@@ -1,5 +1,7 @@
 ##### § 8.9 No paid prioritization. #####
 
+Link to an amendment published at 83 FR 7922, Feb. 22, 2018.
+
 (a) A person engaged in the provision of broadband Internet access service, insofar as such person is so engaged, shall not engage in paid prioritization.
 
 (b) “Paid prioritization” refers to the management of a broadband provider's network to directly or indirectly favor some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, resource reservation, or other forms of preferential traffic management, either;

@@ -1,5 +1,7 @@
 ##### § 76.57 Channel positioning. #####
 
+Link to an amendment published at 83 FR 7626, Feb. 22, 2018.
+
 (a) At the election of the licensee of a local commercial broadcast television station, and for the purpose of this section, a qualified low power television station, carried in fulfillment of the must-carry obligations, a cable operator shall carry such signal on the cable system channel number on which the local commercial television station is broadcast over the air, or on the channel on which it was carried on July 19, 1985, or on the channel on which it was carried on January 1, 1992.
 
 (b) At the election of the licensee of a qualified local NCE broadcast television station carried in fulfillment of the must-carry obligations, a cable operator shall carry such signal on the cable system channel number on which the qualified NCE television station is broadcast over the air, or on the channel on which it was carried on July 19, 1985.

@@ -1,5 +1,7 @@
 ##### § 76.1508 Network non-duplication. #####
 
+Link to an amendment published at 83 FR 7630, Feb. 22, 2018.
+
 (a) Sections 76.92 through 76.97 shall apply to open video systems in accordance with the provisions contained in this section.
 
 (b) Any provision of § 76.92 that refers to a “cable community unit” or “community unit” shall apply to an open video system or that portion of an open video system that operates or will operate within a separate and distinct community or municipal entity (including unincorporated communities within unincorporated areas and including single, discrete unincorporated areas). Any provision of § 76.92 that refers to a “cable television community” shall apply to an open video system community. Any provision of § 76.92 that refers to a “cable television system's mandatory signal carriage obligations” shall apply to an open video system's mandatory signal carriage obligations.

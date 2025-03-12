@@ -1,5 +1,7 @@
 ##### § 305.10 Ranges of comparability on the required labels. #####
 
+Link to an amendment published at 83 FR 7596, Feb. 22, 2018.
+
 (a) *Range of estimated annual energy costs or energy efficiency ratings.* The range of estimated annual operating costs or energy efficiency ratings for each covered product (except fluorescent lamp ballasts, metal halide lamp fixtures, lamps, showerheads, faucets, water closets, urinals, ceiling fans, or televisions) shall be taken from the appropriate appendix to this part in effect at the time the labels are affixed to the product. The Commission shall publish revised ranges in the Federal Register in 2017. When the ranges are revised, all information disseminated after 90 days following the publication of the revision shall conform to the revised ranges. Products that have been labeled prior to the effective date of a modification under this section need not be relabeled.
 
 (b) *Representative average unit energy cost.* The Representative Average Unit Energy Cost figures to be used on labels as required by § 305.11 are listed in appendix K to this part. The Commission shall publish revised Representative Average Unit Energy Cost figures in the Federal Register in 2017. When the cost figures are revised, all information disseminated after 90 days following the publication of the revision shall conform to the new cost figure.

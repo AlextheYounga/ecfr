@@ -1,5 +1,7 @@
 ##### § 76.640 Support for unidirectional digital cable products on digital cable systems. #####
 
+Link to an amendment published at 83 FR 7630, Feb. 22, 2018.
+
 (a) The requirements of this section shall apply to digital cable systems. For purposes of this section, digital cable systems shall be defined as a cable system with one or more channels utilizing QAM modulation for transporting programs and services from its headend to receiving devices. Cable systems that only pass through 8 VSB broadcast signals shall not be considered digital cable systems.
 
 (b) No later than July 1, 2004, cable operators shall support unidirectional digital cable products, as defined in § 15.123 of this chapter, through the provisioning of Point of Deployment modules (PODs) and services, as follows:

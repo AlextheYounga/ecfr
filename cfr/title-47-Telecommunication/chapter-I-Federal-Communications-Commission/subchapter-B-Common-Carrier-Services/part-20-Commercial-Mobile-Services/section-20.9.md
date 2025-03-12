@@ -1,5 +1,7 @@
 ##### § 20.9 Commercial mobile radio service. #####
 
+Link to an amendment published at 83 FR 7401, Feb. 21, 2018.
+
 (a) The following mobile services shall be treated as common carriage services and regulated as commercial mobile radio services (including any such service offered as a hybrid service or offered on an excess capacity basis to the extent it meets the definition of commercial mobile radio service, or offered as an auxiliary or ancillary service), pursuant to Section 332 of the Communications Act, 47 U.S.C. 332:
 
 (1) Private Paging (part 90 of this chapter), excluding not-for-profit paging systems that serve only the licensee's own internal communications needs;

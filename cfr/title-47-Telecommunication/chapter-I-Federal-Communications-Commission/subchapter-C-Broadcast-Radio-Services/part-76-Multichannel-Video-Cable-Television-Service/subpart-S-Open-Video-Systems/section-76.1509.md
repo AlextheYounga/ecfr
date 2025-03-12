@@ -1,5 +1,7 @@
 ##### § 76.1509 Syndicated program exclusivity. #####
 
+Link to an amendment published at 83 FR 7630, Feb. 22, 2018.
+
 (a) Sections 76.151 through 76.163 shall apply to open video systems in accordance with the provisions contained in this section.
 
 (b) Any provision of § 76.151 that refers to a “cable community unit” shall apply to an open video system.

@@ -20,4 +20,6 @@
 
 (2) The General Services Administration's hours of operation are 8 a.m. to 4:30 p.m. Requests for preaward debriefings postmarked or otherwise submitted after 4:30 p.m. will be considered submitted the following business day. Requests for postaward debriefings delivered after 4:30 p.m. will be considered received and filed the following business day.
 
-[75 FR 5242, Feb. 2, 2010]
+(e) GSA has a deviation to revise certain paragraphs of FAR clause 52.212-4. Use clause 552.212-4 Contract Terms and Conditions-Commercial Items (FAR DEVIATION), for acquisitions of commercial items in lieu of FAR 52.212-4 or 52.212-4 Alternate I. The contracting officer may tailor this clause in accordance with FAR 12.302 and GSAM 512.302.
+
+[75 FR 5242, Feb. 2, 2010, as amended at 83 FR 7634, Feb. 22, 2018]

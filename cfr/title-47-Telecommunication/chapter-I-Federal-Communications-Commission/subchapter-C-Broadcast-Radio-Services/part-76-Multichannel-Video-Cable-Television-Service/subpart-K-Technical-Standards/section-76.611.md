@@ -1,5 +1,7 @@
 ##### § 76.611 Cable television basic signal leakage performance criteria. #####
 
+Link to an amendment published at 83 FR 7629, Feb. 22, 2018.
+
 (a) No cable television system shall commence or provide service in the frequency bands 108-137 and 225-400 MHz unless such systems is in compliance with one of the following cable television basic signal leakage performance criteria:
 
 (1) Prior to carriage of signals in the aeronautical radio bands and at least once each calendar year, with no more than 12 months between successive tests thereafter, based on a sampling of at least 75% of the cable strand, and including any portion of the cable system which are known to have or can reasonably be expected to have less leakage integrity than the average of the system, the cable operator demonstrates compliance with a cumulative signal leakage index by showing either that (i) 10 log I3000 is equal to or less than −7 or (ii) 10 log I00 is equal to or less than 64, using one of the following formula:

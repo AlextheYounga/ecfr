@@ -38,4 +38,4 @@
 
 (4) Identification of any rule or rules for which a waiver is requested.
 
-[70 FR 32256, June 2, 2005, as amended at 72 FR 50030, Aug. 29, 2007; 73 FR 70902, Nov. 24, 2008; 74 FR 57099, Nov. 4, 2009; 78 FR 14927, Mar. 8, 2013; 79 FR 8324, Feb. 12, 2014; 81 FR 55341, Aug. 18, 2016]Effective Date Note:At 74 FR 9962, Mar. 9, 2009, § 25.220 paragraph (d), which contains information collection and recordkeeping requirements, became effective with approval by the Office of Management and Budget for a period of 3 years.
+[70 FR 32256, June 2, 2005, as amended at 72 FR 50030, Aug. 29, 2007; 73 FR 70902, Nov. 24, 2008; 74 FR 57099, Nov. 4, 2009; 78 FR 14927, Mar. 8, 2013; 79 FR 8324, Feb. 12, 2014; 81 FR 55341, Aug. 18, 2016]Effective Date Note:At 74 FR 9962, Mar. 9, 2009, § 25.220(d), which contains information collection and recordkeeping requirements, became effective with approval by the Office of Management and Budget for a period of 3 years.

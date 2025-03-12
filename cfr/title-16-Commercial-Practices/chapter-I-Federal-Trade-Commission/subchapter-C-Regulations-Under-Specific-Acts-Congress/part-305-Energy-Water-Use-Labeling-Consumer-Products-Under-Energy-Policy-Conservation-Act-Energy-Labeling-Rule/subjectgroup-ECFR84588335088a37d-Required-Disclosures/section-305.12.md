@@ -1,5 +1,7 @@
 ##### § 305.12 Labeling for central air conditioners, heat pumps, and furnaces. #####
 
+Link to an amendment published at 83 FR 7596, Feb. 22, 2018.
+
 (a) *Layout.* All energy labels for central air conditioners, heat pumps, and furnaces (including boilers) shall use one size, similar colors, and typefaces with consistent positioning of headline, copy, and charts to maintain uniformity for immediate consumer recognition and readability. Trim size dimensions for all labels shall be as follows: width must be between 51/4 inches and 51/2 inches (13.34 cm. and 13.97 cm.); length must be between 73/8 inches (18.78 cm.) and 75/8 (19.34 cm.). Copy is to be set between 27 picas and 29 picas and copy page should be centered (right to left and top to bottom). Depth is variable but should follow closely the prototype labels appearing at the end of this part illustrating the basic layout. All positioning, spacing, type sizes, and line widths should be similar to and consistent with the prototype and sample labels in appendix L.
 
 (b) *Type style and setting.* The Arial series typeface or equivalent shall be used exclusively on the label. Specific sizes and faces to be used are indicated on the prototype labels. No hyphenation should be used in setting headline or copy text. Positioning and spacing should follow the prototypes closely. Generally, text must be set flush left with two points leading except where otherwise indicated. See the prototype labels for specific directions.

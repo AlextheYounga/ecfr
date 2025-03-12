@@ -1,5 +1,7 @@
 ##### § 76.1610 Change of operational information. #####
 
+Link to an amendment published at 83 FR 7631, Feb. 22, 2018.
+
 The Operator shall inform the Commission on FCC Form 324 whenever there is a change of cable television system operator; change of legal name, change of the operator's mailing address or FCC Registration Number (FRN); or change in the operational status of a cable television system. Notification must be done within 30 days from the date the change occurs and must include the following information, as appropriate:
 
 (a) The legal name of the operator and whether the operator is an individual, private association, partnership, corporation, or government entity. See § 76.5(cc). If the operator is a partnership, the legal name of the partner responsible for communications with the Commission shall be supplied;

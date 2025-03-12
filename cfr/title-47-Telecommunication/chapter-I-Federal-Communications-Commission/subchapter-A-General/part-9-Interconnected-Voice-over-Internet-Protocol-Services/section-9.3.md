@@ -1,5 +1,7 @@
 ##### § 9.3 Definitions. #####
 
+Link to an amendment published at 83 FR 7401, Feb. 21, 2018.
+
 *ANI.* Automatic Number Identification, as such term is defined in § 20.3 of this chapter.
 
 *Appropriate local emergency authority.* An emergency answering point that has not been officially designated as a Public Safety Answering Point (PSAP), but has the capability of receiving 911 calls and either dispatching emergency services personnel or, if necessary, relaying the call to another emergency service provider. An appropriate local emergency authority may include, but is not limited to, an existing local law enforcement authority, such as the police, county sheriff, local emergency medical services provider, or fire department.

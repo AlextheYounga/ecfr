@@ -1,5 +1,7 @@
 ##### 816.504 Indefinite-quantity contracts. #####
 
+Link to an amendment published at 83 FR 7404, Feb. 21, 2018.
+
 (a) Except as provided in paragraphs (b), (c), and (d) of this section, when the contracting officer cannot determine definite quantities to be acquired under a solicitation and intends to issue a solicitation for estimated quantities, the contracting officer shall insert the clause at 852.216-70, Estimated quantities.
 
 (b) The contracting officer shall insert the Alternate I clause at 852.216-70 in solicitations for bulk coal.

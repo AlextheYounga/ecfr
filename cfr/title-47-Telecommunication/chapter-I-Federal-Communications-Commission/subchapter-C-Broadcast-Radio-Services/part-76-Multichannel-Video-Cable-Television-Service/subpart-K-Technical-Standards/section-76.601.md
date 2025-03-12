@@ -1,5 +1,7 @@
 ##### § 76.601 Performance tests. #####
 
+Link to an amendment published at 83 FR 7627, Feb. 22, 2018.
+
 (a) The operator of each cable television system shall be responsible for insuring that each such system is designed, installed, and operated in a manner that fully complies with the provisions of this subpart.
 
 (b) The operator of each cable television system shall conduct complete performance tests of that system at least twice each calendar year (at intervals not to exceed seven months), unless otherwise noted below. The performance tests shall be directed at determining the extent to which the system complies with all the technical standards set forth in § 76.605(a) and shall be as follows:

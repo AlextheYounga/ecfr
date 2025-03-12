@@ -1,5 +1,7 @@
 ##### § 4.3 Communications providers covered by the requirements of this part. #####
 
+Link to an amendment published at 83 FR 7401, Feb. 21, 2018.
+
 (a) *Cable communications providers* are cable service providers that also provide circuit-switched telephony. Also included are affiliated and non-affiliated entities that maintain or provide communications networks or services used by the provider in offering telephony.
 
 (b) *Communications provider* is an entity that provides for a fee to one or more unaffiliated entities, by radio, wire, cable, satellite, and/or lightguide: two-way voice and/or data communications, paging service, and/or SS7 communications.
