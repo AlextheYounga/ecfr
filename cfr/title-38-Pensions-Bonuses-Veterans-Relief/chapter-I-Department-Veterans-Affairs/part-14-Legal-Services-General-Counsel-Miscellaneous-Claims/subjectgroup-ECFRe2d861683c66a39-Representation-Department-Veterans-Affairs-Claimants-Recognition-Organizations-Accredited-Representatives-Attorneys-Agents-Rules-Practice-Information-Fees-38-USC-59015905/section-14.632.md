@@ -1,7 +1,5 @@
 ##### § 14.632 Standards of conduct for persons providing representation before the Department #####
 
-Link to an amendment published at 84 FR 174, Jan. 18, 2019.
-
 (a)(1) All persons acting on behalf of a claimant shall faithfully execute their duties as individuals providing representation on a particular claim under § 14.630, representatives, agents, or attorneys.
 
 (2) All individuals providing representation are required to be truthful in their dealings with claimants and VA.
@@ -24,7 +22,7 @@ Link to an amendment published at 84 FR 174, Jan. 18, 2019.
 
 (5) Enter into an agreement for, charge, solicit, or receive a fee that is clearly unreasonable or otherwise prohibited by law or regulation;
 
-(6) Solicit, receive, or enter into agreements for gifts related to representation provided before an agency of original jurisdiction has issued a decision on a claim or claims and a Notice of Disagreement has been filed with respect to that decision;
+(6) Solicit, receive, or enter into agreements for gifts related to services for which a fee could not lawfully be charged;
 
 (7) Delay, without good cause, the processing of a claim at any stage of the administrative process;
 
@@ -38,4 +36,4 @@ Link to an amendment published at 84 FR 174, Jan. 18, 2019.
 
 (d) In addition to complying with standards of conduct for practice before VA in paragraphs (a) through (c) of this section, an attorney shall not, in providing representation to a claimant before VA, engage in behavior or activities prohibited by the rules of professional conduct of any jurisdiction in which the attorney is licensed to practice law.
 
-(Authority: 38 U.S.C. 501(a), 5902, 5904)[73 FR 29873, May 22, 2008]
+(Authority: 38 U.S.C. 501(a), 5902, 5904)[73 FR 29873, May 22, 2008, as amended at 84 FR 174, Jan. 18, 2019]

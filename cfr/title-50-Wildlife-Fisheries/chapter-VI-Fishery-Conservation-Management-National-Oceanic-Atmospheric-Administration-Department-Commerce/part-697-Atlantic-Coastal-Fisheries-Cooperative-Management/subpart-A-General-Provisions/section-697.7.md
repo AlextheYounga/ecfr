@@ -1,5 +1,7 @@
 ##### § 697.7 Prohibitions. #####
 
+Link to an amendment published at 84 FR 4737, Feb. 19, 2019.
+
 (a) *Atlantic Coast weakfish fishery.* In addition to the prohibitions set forth in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (1) Fish for, harvest, or possess any weakfish less than 12 inches (30.5 cm) in total length (measured as a straight line along the bottom of the fish from the tip of the lower jaw with the mouth closed to the end of the lower tip of the tail) from the EEZ.

@@ -1,5 +1,7 @@
 ##### § 622.381 Landing fish intact. #####
 
+Link to an amendment published at 84 FR 4736, Feb. 19, 2019.
+
 (a) Cobia, king mackerel, and Spanish mackerel in or from the Gulf, Mid-Atlantic, or South Atlantic EEZ, except as specified for king mackerel and Spanish mackerel in paragraph (b) of this section, must be maintained with head and fins intact. Such fish may be eviscerated, gilled, and scaled, but must otherwise be maintained in a whole condition. The operator of a vessel that fishes in the EEZ is responsible for ensuring that fish on that vessel in the EEZ are maintained intact and, if taken from the EEZ, are maintained intact through offloading ashore, as specified in this section.
 
 (b) Cut-off (damaged) king or Spanish mackerel that comply with the minimum size limits in § 622.380(b) and (c), respectively, and the trip limits in § 622.385(a) and (b), respectively, may be possessed in the Gulf, Mid-Atlantic, or South Atlantic EEZ on, and offloaded ashore from, a vessel that is operating under the respective trip limits. Such cut-off fish also may be sold. A maximum of five additional cut-off (damaged) king mackerel, not subject to the size limits or trip limits, may be possessed or offloaded ashore but may not be sold or purchased and are not counted against the trip limit.

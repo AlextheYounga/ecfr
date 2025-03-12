@@ -1,14 +1,12 @@
 ##### § 21.192 “Independent living program” status. #####
 
-Link to an amendment published at 84 FR 193, Jan. 18, 2019.
-
 (a) *Purpose.* The *independent living program* status serves to:
 
 (1) Identify veterans who are being furnished a program of independent living services by VA; and
 
 (2) Assure that such veterans receive necessary services from VA in a timely manner.
 
-(b) *Assignment to independent living program* status. A veteran may be assigned or reassigned to *independent living program* status under the provisions of § 21.88, § 21.94, § 21.96, or § 21.98.
+(b) *Assignment to independent living program* status. A veteran may be assigned or reassigned to *independent living program* status under the provisions of § 21.88, § 21.94, or § 21.96.
 
 (Authority: 38 U.S.C. 3107)
 
@@ -43,3 +41,5 @@ Link to an amendment published at 84 FR 193, Jan. 18, 2019.
 (Authority: 38 U.S.C. 3109, 3110)Cross References:
 
 See §§ 21.160 Independent living services, 21.282 Effective date of induction into a rehabilitation program, 21.322 Commencing date, and 21.324 Reduction or termination date.
+
+[49 FR 40814, Oct. 18, 1984, as amended at 84 FR 193, Jan. 18, 2019]

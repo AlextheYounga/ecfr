@@ -1,5 +1,7 @@
 ##### § 32.7500 Interest and related items. #####
 
+Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
+
 (a) This account shall include the current accruals of interest on all classes of funded debt the principal of which is includable in Account 4200, Long term debt and funded debt. It shall also include the interest on funded debt the maturity of which has been extended by specific agreement. This account shall be kept so that the interest on each class of funded debt may be shown separately in the annual reports to this Commission.
 
 (b) These accounts shall not include charges for interest on funded debt issued or assumed by the company and held by or for it, whether pledged as collateral or held in its treasury, in special deposits or in sinking or other funds.

@@ -1,11 +1,9 @@
 ##### § 20.1302 Rule 1302. Death of appellant during pendency of appeal before the Board. #####
 
-Link to an amendment published at 84 FR 191, Jan. 18, 2019.
-
-(a) *General.* An appeal pending before the Board of Veterans' Appeals when the appellant dies will be dismissed without prejudice. A person eligible for substitution under § 3.1010 of this chapter may file with the agency of original jurisdiction a request to substitute for the deceased appellant. If the agency of original jurisdiction grants the request to substitute, the case will assume its original place on the docket pursuant to Rule 900 (§ 20.900(a)(2)). If the agency of original jurisdiction denies the request to substitute and the person requesting to substitute appeals that decision to the Board, the appeal regarding eligibility to substitute will assume the same place on the docket as the original claim pursuant to Rule 900 (§ 20.900(a)(2)).
+(a) *General.* An appeal pending before the Board of Veterans' Appeals when the appellant dies will be dismissed without prejudice. A person eligible for substitution under § 3.1010 of this chapter may file with the agency of original jurisdiction a request to substitute for the deceased appellant. If the agency of original jurisdiction grants the request to substitute, the case will assume its original place on the docket pursuant to Rule 800, paragraph (f) (§ 20.800(f)) or, for legacy appeals, Rule 902, paragraph (a)(2) (§ 20.902(a)(2)). If the agency of original jurisdiction denies the request to substitute and the person requesting to substitute appeals that decision to the Board, the appeal regarding eligibility to substitute will assume the same place on the docket as the original claim pursuant to Rule 800, paragraph (f) (§ 20.800(f)) or, for legacy appeals, Rule 902, paragraph (a)(2) (§ 20.902(a)(2)).
 
 (b) *Exception.* (1) If a hearing request is pending pursuant to Rule 704 (§ 20.704) when the appellant dies, the agency of original jurisdiction may take action on a request to substitute without regard to whether the pending appeal has been dismissed by the Board, if the request is submitted in accordance with § 3.1010 of this chapter.
 
 (2) If the agency of original jurisdiction grants the request to substitute, the Board of Veterans' Appeals can then take the testimony of the substitute at a hearing held pursuant to Rules 700 through 717 (§§ 20.700 through 20.717). If the substitute desires representation at the hearing, he or she must appoint a representative prior to the hearing pursuant to § 14.631(g) of this chapter.
 
-(Authority: 38 U.S.C. 5121A, 7104(a)).[79 FR 52984, Sept. 5, 2014]
+(Authority: 38 U.S.C. 5121A, 7104(a)).[79 FR 52984, Sept. 5, 2014, as amended at 84 FR 191, Jan. 18, 2019]

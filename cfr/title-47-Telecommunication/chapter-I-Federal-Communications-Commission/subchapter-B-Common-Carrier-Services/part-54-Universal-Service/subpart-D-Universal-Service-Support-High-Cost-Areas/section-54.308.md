@@ -1,5 +1,7 @@
 ##### § 54.308 Broadband public interest obligations for recipients of high-cost support. #####
 
+Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
+
 (a) Rate-of-return carrier recipients of high-cost support are required to offer broadband service, at speeds described below, with latency suitable for real-time applications, including Voice over Internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, at rates that are reasonably comparable to rates for comparable offerings in urban areas. For purposes of determining reasonable comparability of rates, recipients are presumed to meet this requirement if they offer rates at or below the applicable benchmark to be announced annually by public notice issued by the Wireline Competition Bureau.
 
 (1) Carriers that elect to receive Connect America Fund-Alternative Connect America Cost Model (CAF-ACAM) support pursuant to § 54.311 are required to offer broadband service at actual speeds of at least 10 Mbps downstream/1 Mbps upstream to a defined number of locations as specified by public notice, with a minimum usage allowance of 150 GB per month, subject to the requirement that usage allowances remain consistent with median usage in the United States over the course of the ten-year term. In addition, such carriers must offer other speeds to subsets of locations, as specified below:

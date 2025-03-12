@@ -1,8 +1,6 @@
 ##### § 3.815 Monetary allowance under 38 U.S.C. chapter 18 for an individual with disability from covered birth defects whose biological mother is or was a Vietnam veteran; identification of covered birth defects. #####
 
-Link to an amendment published at 84 FR 171, Jan. 18, 2019.
-
-(a) *Monthly monetary allowance* - (1) *General.* VA will pay a monthly monetary allowance under subchapter II of 38 U.S.C. chapter 18 to or for an individual whose biological mother is or was a Vietnam veteran and who VA has determined to have disability resulting from one or more covered birth defects. Except as provided in paragraph (a)(3) of this section, the amount of the monetary allowance paid will be based upon the level of such disability suffered by the individual, as determined in accordance with the provisions of paragraph (e) of this section.
+(a) *Monthly monetary allowance*—(1) *General.* VA will pay a monthly monetary allowance under subchapter II of 38 U.S.C. chapter 18 to or for an individual whose biological mother is or was a Vietnam veteran and who VA has determined to have disability resulting from one or more covered birth defects. Except as provided in paragraph (a)(3) of this section, the amount of the monetary allowance paid will be based upon the level of such disability suffered by the individual, as determined in accordance with the provisions of paragraph (e) of this section.
 
 (2) *Affirmative evidence of cause other than mother's service during Vietnam era.* No monetary allowance will be provided under this section based on a particular birth defect of an individual in any case where affirmative evidence establishes that the birth defect results from a cause other than the active military, naval, or air service of the individual's mother during the Vietnam era and, in determining the level of disability for an individual with more than one birth defect, the particular defect resulting from other causes will be excluded from consideration. This will not prevent VA from paying a monetary allowance under this section for other birth defects.
 
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 171, Jan. 18, 2019.
 
 (b) *No effect on other VA benefits.* Receipt of a monetary allowance under 38 U.S.C. chapter 18 will not affect the right of the individual, or the right of any person based on the individual's relationship to that person, to receive any other benefit to which the individual, or that person, may be entitled under any law administered by VA.
 
-(c) *Definitions* - (1) *Vietnam veteran.* For the purposes of this section, the term *Vietnam veteran* means a person who performed active military, naval, or air service in the Republic of Vietnam during the period beginning on February 28, 1961, and ending on May 7, 1975, without regard to the characterization of the person's service. Service in the Republic of Vietnam includes service in the waters offshore and service in other locations if the conditions of service involved duty or visitation in the Republic of Vietnam.
+(c) *Definitions*—(1) *Vietnam veteran.* For the purposes of this section, the term *Vietnam veteran* means a person who performed active military, naval, or air service in the Republic of Vietnam during the period beginning on February 28, 1961, and ending on May 7, 1975, without regard to the characterization of the person's service. Service in the Republic of Vietnam includes service in the waters offshore and service in other locations if the conditions of service involved duty or visitation in the Republic of Vietnam.
 
 (2) *Individual.* For the purposes of this section, the term individual means a person, regardless of age or marital status, whose biological mother is or was a Vietnam veteran and who was conceived after the date on which the veteran first entered the Republic of Vietnam during the period beginning on February 28, 1961, and ending on May 7, 1975. Notwithstanding the provisions of § 3.204(a)(1), VA will require the types of evidence specified in §§ 3.209 and 3.210 sufficient to establish that a person is the biological son or daughter of a Vietnam veteran.
 
@@ -246,7 +244,7 @@ Link to an amendment published at 84 FR 171, Jan. 18, 2019.
 
 (h) *Referrals.* If a regional office is unclear in any case as to whether a condition is a covered birth defect, it may refer the issue to the Director of the Compensation Service for determination.
 
-(i) *Effective dates.* Except as provided in § 3.114(a) or paragraph (i)(1) or (2) of this section, VA will award the monetary allowance under subchapter II of 38 U.S.C. chapter 18, for an individual with disability resulting from one or more covered birth defects, based on an original claim, a claim reopened after final disallowance, or a claim for increase, as of the date VA received the claim (or the date of birth if the claim is received within one year of that date), the date entitlement arose, or December 1, 2001, whichever is latest. Subject to the condition that no benefits may be paid for any period prior to December 1, 2001:
+(i) *Effective dates.* Except as provided in § 3.114(a) or paragraph (i)(1) or (2) of this section, VA will award the monetary allowance under subchapter II of 38 U.S.C. chapter 18, for an individual with disability resulting from one or more covered birth defects, based on an initial claim or supplemental claim, as of the date VA received the claim (or the date of birth if the claim is received within one year of that date), the date entitlement arose, or December 1, 2001, whichever is latest. Subject to the condition that no benefits may be paid for any period prior to December 1, 2001:
 
 (1) VA will increase benefits as of the earliest date the evidence establishes that the level of severity increased, but only if the beneficiary applies for an increase within one year of that date.
 
@@ -258,4 +256,4 @@ Link to an amendment published at 84 FR 171, Jan. 18, 2019.
 
 (2) If benefits were paid erroneously because of administrative error, VA will reduce or discontinue benefits as of the date of last payment.
 
-(Authority: 38 U.S.C. 501, 1811, 1812, 1813, 1814, 1815, 1816, 1831, 1832, 1833, 1834, 5101, 5110, 5111, 5112)[67 FR 49588, July 31, 2002, as amended at 76 FR 4249, Jan. 25, 2011; 79 FR 2100, Jan. 13, 2014]
+(Authority: 38 U.S.C. 501, 1811, 1812, 1813, 1814, 1815, 1816, 1831, 1832, 1833, 1834, 5101, 5110, 5111, 5112)[67 FR 49588, July 31, 2002, as amended at 76 FR 4249, Jan. 25, 2011; 79 FR 2100, Jan. 13, 2014; 84 FR 171, Jan. 18, 2019]

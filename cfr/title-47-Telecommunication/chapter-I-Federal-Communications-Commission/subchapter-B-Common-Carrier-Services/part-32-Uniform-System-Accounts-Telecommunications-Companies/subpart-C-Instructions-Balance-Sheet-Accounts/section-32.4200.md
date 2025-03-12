@@ -1,5 +1,7 @@
 ##### § 32.4200 Long term debt and funded debt. #####
 
+Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
+
 (a) This account shall include:
 
 (1) The total face amount of unmatured debt maturing more than one year from date of issue, issued by the company and not retired, and the total face amount of similar unmatured debt of other companies, the payment of which has been assumed by the company, including funded debt the maturity of which has been extended by specific agreement. This account shall also include such items as mortgage bonds, collateral trust bonds, income bonds, convertible debt, debt securities with detachable warrants and other similar obligations maturing more than one year from date of issue.

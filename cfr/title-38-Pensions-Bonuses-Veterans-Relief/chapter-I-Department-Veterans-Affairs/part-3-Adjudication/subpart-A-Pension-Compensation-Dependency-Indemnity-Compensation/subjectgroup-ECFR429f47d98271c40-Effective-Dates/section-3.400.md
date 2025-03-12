@@ -1,8 +1,6 @@
 ##### § 3.400 General. #####
 
-Link to an amendment published at 84 FR 170, Jan. 18, 2019.
-
-Except as otherwise provided, the effective date of an evaluation and award of pension, compensation or dependency and indemnity compensation based on an original claim, a claim reopened after final disallowance, or a claim for increase will be the date of receipt of the claim or the date entitlement arose, whichever is the later.
+Except as otherwise provided, the effective date of an evaluation and award of pension, compensation, or dependency and indemnity compensation based on an initial claim or supplemental claim will be the date of receipt of the claim or the date entitlement arose, whichever is later. For effective date provisions regarding revision of a decision based on a supplemental claim or higher-level review, see § 3.2500.
 
 (Authority: 38 U.S.C. 5110(a))
 
@@ -54,11 +52,11 @@ Except as otherwise provided, the effective date of an evaluation and award of p
 
 (3) One year prior to date of reopening of disallowed claim.
 
-(h) *Difference of opinion* (§ *3.105*). (1) As to decisions not final prior to receipt of an application for reconsideration or to reopen, or prior to reconsideration on Department of Veterans Affairs initiative, the date from which benefits would have been payable if the former decision had been favorable.
+(h) *Difference of opinion (§ 3.105).* (1) As to decisions not finally adjudicated (see § 3.160(d)) prior to timely receipt of an application for higher-level review, or prior to readjudication on VA initiative, the date from which benefits would have been payable if the former decision had been favorable.
 
-(2) As to decisions which have become final (by appellate decision or failure to timely initiate and perfect an appeal) prior to receipt of an application for reconsideration or to reopen, the date of receipt of such application or the date entitlement arose, whichever is later.
+(2) As to decisions which have been finally adjudicated (see § 3.160(d)), and notwithstanding other provisions of this section, the date entitlement arose, but not earlier than the date of receipt of the supplemental claim.
 
-(3) As to decisions which have become final (by appellate decision or failure to timely initiate and perfect an appeal) and reconsideration is undertaken solely on Department of Veterans Affairs initiative, the date of Central Office approval authorizing a favorable decision or the date of the favorable Board of Veterans Appeals decision.
+(3) As to decisions which have been finally adjudicated (see 3.160(d)) and readjudication is undertaken solely on VA initiative, the date of Central Office approval authorizing a favorable decision or the date of the favorable Board of Veterans' Appeals decision.
 
 (4) Where the initial determination for the purpose of death benefits is favorable, the commencing date will be determined without regard to the fact that the action may reverse, on a difference of opinion, an unfavorable decision for disability purposes by an adjudicative agency other than the Board of Veterans Appeals, which was in effect at the date of the veteran's death.
 
@@ -134,7 +132,7 @@ Award to guardian shall include amounts withheld for possible apportionments as 
 
 (z) *Claims based on service in the Women's Air Forces Service Pilots (WASP), or on service in a similarly situated group (Pub. L. 95-202).* (1) Original claim: Date of receipt of claim or date entitlement arose, whichever is later, or as otherwise provided under this section (e.g., paragraph (b)(1) of this section) except that no benefits shall be awarded for any period prior to November 23, 1977.
 
-(2) Reopened claim: Latest of the following dates:
+(2) Reopened claims received prior to the effective date provided in § 19.2(a) of this chapter: Latest of the following dates:
 
 (i) November 23, 1977.
 
@@ -142,4 +140,10 @@ Award to guardian shall include amounts withheld for possible apportionments as 
 
 (iii) One year prior to date of receipt of reopened claim.
 
-[26 FR 1593, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.400, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(3) Supplemental claims received more than one year after notice of decision: Latest of the following dates:
+
+(i) Date entitlement arose.
+
+(ii) One year prior to date of receipt of a supplemental claim.
+
+[26 FR 1593, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.400, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

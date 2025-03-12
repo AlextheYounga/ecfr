@@ -24,7 +24,7 @@
 
 (e) *Operations performed on substituted merchandise.* In cases in which an operation or operations is or are performed on the substituted merchandise, the performing of any operation or combination of operations, not amounting to manufacture or production under the provisions of the manufacturing drawback law, on the commercially interchangeable substituted merchandise is not a use of that merchandise for purposes of this section.
 
-(f) *Designation by successor; 19 U.S.C. 1313(s)* - (1) *General rule.* Upon compliance with the requirements of this section and under 19 U.S.C. 1313(s), a drawback successor as defined in paragraph (f)(2) of this section may designate either of the following as the basis for drawback on merchandise possessed by the successor after the date of succession:
+(f) *Designation by successor; 19 U.S.C. 1313(s)*—(1) *General rule.* Upon compliance with the requirements of this section and under 19 U.S.C. 1313(s), a drawback successor as defined in paragraph (f)(2) of this section may designate either of the following as the basis for drawback on merchandise possessed by the successor after the date of succession:
 
 (i) Imported merchandise which the predecessor, before the date of succession, imported; or
 
@@ -36,7 +36,7 @@
 
 (ii) The assets and other business interests of a division, plant, or other business unit of such predecessor, provided that the value of the transferred assets and interests (realty, personality, and intangibles, exclusive of the drawback rights) exceeds the value of such drawback rights, whether vested or contingent.
 
-(3) *Certifications and required evidence* - (i) *Records of predecessor.* The predecessor or successor must certify in an attachment to the drawback claim that the successor is in possession of the predecessor's records which are necessary to establish the right to drawback under the law and regulations with respect to the imported and/or commercially interchangeable merchandise.
+(3) *Certifications and required evidence*—(i) *Records of predecessor.* The predecessor or successor must certify in an attachment to the drawback claim that the successor is in possession of the predecessor's records which are necessary to establish the right to drawback under the law and regulations with respect to the imported and/or commercially interchangeable merchandise.
 
 (ii) *Merchandise not otherwise designated.* The predecessor or successor must certify in an attachment to the drawback claim, that the predecessor has not and will not designate, nor enable any other person to designate, the imported and/or commercially interchangeable merchandise as the basis for drawback.
 
@@ -44,4 +44,4 @@
 
 (iv) *Review by Customs.* The written agreement, merger, or corporate resolution, provided for in paragraph (f)(2) of this section, and the records and evidence provided for in paragraph (f)(3)(i) through (iii) of this section, must be retained by the appropriate party(ies) for 3 years from the date of payment of the related claim and are subject to review by Customs upon request.
 
-[T.D. 98-16, 63 FR 11006, Mar. 5, 1998; 63 FR 15288, Mar. 31, 1998, as amended by USCBP-2018-0029, 83 FR 65064, Dec. 18, 2018]Effective Date Note:The effective date for amendments regarding the drawback of excise taxes in (b)(4) is Feb. 19, 2019.
+[T.D. 98-16, 63 FR 11006, Mar. 5, 1998; 63 FR 15288, Mar. 31, 1998, as amended by USCBP-2018-0029, 83 FR 65064, Dec. 18, 2018]

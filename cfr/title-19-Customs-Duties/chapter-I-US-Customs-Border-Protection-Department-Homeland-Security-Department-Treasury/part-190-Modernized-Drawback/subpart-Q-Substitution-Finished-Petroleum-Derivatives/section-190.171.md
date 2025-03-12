@@ -15,5 +15,3 @@
 (2) *Limitations.* The amount of duties, taxes, and fees eligible for drawback is not subject to the limitations set out in 19 U.S.C. 1313(p)(4) for unused merchandise claims (no manufacture) and manufacturing claims (see 190.173(e) and 190.174(f)).
 
 (3) *Federal excise tax.* For purposes of drawback of internal revenue tax imposed under Chapters 32 and 38 (with the exception of Subchapter A of Chapter 38) of the Internal Revenue Code of 1986, as amended (IRC), drawback granted on the export of substituted merchandise will be limited to the amount of taxes paid (and not returned by refund, credit, or drawback) on the substituted merchandise.
-
-Effective Date Note:The effective date for amendments regarding the drawback of excise taxes in (c)(3) is Feb. 19, 2019.

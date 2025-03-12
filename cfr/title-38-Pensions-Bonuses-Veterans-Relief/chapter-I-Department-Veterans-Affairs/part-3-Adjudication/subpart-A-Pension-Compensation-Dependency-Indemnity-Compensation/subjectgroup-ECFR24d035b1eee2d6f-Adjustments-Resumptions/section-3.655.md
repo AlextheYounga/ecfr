@@ -1,10 +1,8 @@
 ##### § 3.655 Failure to report for Department of Veterans Affairs examination. #####
 
-Link to an amendment published at 84 FR 171, Jan. 18, 2019.
-
 (a) *General.* When entitlement or continued entitlement to a benefit cannot be established or confirmed without a current VA examination or reexamination and a claimant, without good cause, fails to report for such examination, or reexamination, action shall be taken in accordance with paragraph (b) or (c) of this section as appropriate. Examples of good cause include, but are not limited to, the illness or hospitalization of the claimant, death of an immediate family member, etc. For purposes of this section, the terms *examination* and *reexamination* include periods of hospital observation when required by VA.
 
-(b) *Original or reopened claim, or claim for increase.* When a claimant fails to report for an examination scheduled in conjunction with an original compensation claim, the claim shall be rated based on the evidence of record. When the examination was scheduled in conjunction with any other original claim, a reopened claim for a benefit which was previously disallowed, or a claim for increase, the claim shall be denied.
+(b) *Original or supplemental claim, or claim for increase.* When a claimant fails to report for an examination scheduled in conjunction with an original compensation claim, the claim shall be rated based on the evidence of record. When the examination was scheduled in conjunction with any other original claim, a supplemental claim for a benefit which was previously disallowed, or a claim for increase, the claim shall be denied.
 
 (c) *Running award.* (1) When a claimant fails to report for a reexamination and the issue is continuing entitlement, VA shall issue a pretermination notice advising the payee that payment for the disability or disabilities for which the reexamination was scheduled will be discontinued or, if a minimum evaluation is established in part 4 of this title or there is an evaluation protected under § 3.951(b) of this part, reduced to the lower evaluation. Such notice shall also include the prospective date of discontinuance or reduction, the reason therefor and a statement of the claimant's procedural and appellate rights. The claimant shall be allowed 60 days to indicate his or her willingness to report for a reexamination or to present evidence that payment for the disability or disabilities for which the reexamination was scheduled should not be discontinued or reduced.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 84 FR 171, Jan. 18, 2019.
 
 Procedural due process and appellate rights: See § 3.103. Examinations: See § 3.326. Reexaminations: See § 3.327. Resumption of rating when veteran subsequently reports for VA examination: See § 3.330.
 
-[55 FR 49521, Nov. 29, 1990; 58 FR 46865, Sept. 3, 1993; 80 FR 18117, Apr. 3, 2015]
+[55 FR 49521, Nov. 29, 1990; 58 FR 46865, Sept. 3, 1993; 80 FR 18117, Apr. 3, 2015; 84 FR 171, Jan. 18, 2019]

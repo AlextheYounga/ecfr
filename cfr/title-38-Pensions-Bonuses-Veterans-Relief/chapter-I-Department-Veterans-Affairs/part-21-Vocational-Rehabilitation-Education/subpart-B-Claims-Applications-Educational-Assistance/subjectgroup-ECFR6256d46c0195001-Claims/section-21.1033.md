@@ -1,7 +1,5 @@
 ##### § 21.1033 Time limits. #####
 
-Link to an amendment published at 84 FR 194, Jan. 18, 2019.
-
 The provisions of this section are applicable to informal claims and formal claims.
 
 (a) *Failure to furnish form, information, or notice of time limit.* VA's failure to give a claimant or potential claimant any form or information concerning the right to file a claim or to furnish notice of the time limit for the filing of a claim will not extend the time periods allowed for these actions.
@@ -38,6 +36,6 @@ The provisions of this section are applicable to informal claims and formal clai
 
 (f) *Computation of time limit.* (1) In computing the time limit for any action required of a claimant or beneficiary, including the filing of claims or evidence requested by VA, VA will exclude the first day of the specified period, and will include the last day. This rule is applicable in cases in which the time limit expires on a workday. When the time limit would expire on a Saturday, Sunday, or holiday, the VA will include the next succeeding day in the computation.
 
-(2) The first day of the specified period referred to in paragraph (f)(1) of this section will be the date of the letter of notification to the claimant or beneficiary for purposes of computing time limits. As to appeals, see §§ 20.302 and 20.305 of this chapter.
+(2) The first day of the specified period referred to in paragraph (f)(1) of this section will be the date of the letter of notification to the claimant or beneficiary for purposes of computing time limits. As to appeals, see §§ 20.203 and 20.110 of this chapter.
 
-(Authority: 38 U.S.C. 501(a))[64 FR 23771, May 4, 1999, as amended at 71 FR 1497, Jan. 10, 2006. Redesignated and amended at 72 FR 16965, 16966, Apr. 5, 2007; 74 FR 14665, Mar. 31, 2009]
+(Authority: 38 U.S.C. 501(a))[64 FR 23771, May 4, 1999, as amended at 71 FR 1497, Jan. 10, 2006. Redesignated and amended at 72 FR 16965, 16966, Apr. 5, 2007; 74 FR 14665, Mar. 31, 2009; 84 FR 194, Jan. 18, 2019]

@@ -1,0 +1,9 @@
+##### § 20.802 Rule 802. Remand for correction of error. #####
+
+(a) *Remand.* Unless the issue or issues can be granted in full, the Board shall remand the appeal to the agency of original jurisdiction for correction of an error on the part of the agency of original jurisdiction to satisfy its duties under 38 U.S.C. 5103A, if the error occurred prior to the date of the agency of original jurisdiction decision on appeal. The Board may remand for correction of any other error by the agency of original jurisdiction in satisfying a regulatory or statutory duty, if correction of the error would have a reasonable possibility of aiding in substantiating the appellant's claim. The remand must specify the action to be taken by the agency of original jurisdiction.
+
+(b) *Advisory Medical Opinion.* If the Board determines that an error as described in paragraph (a) of this section may only be corrected by obtaining an advisory medical opinion from a medical expert who is not an employee of the Department of Veterans Affairs, the Board shall remand the case to the agency of original jurisdiction to obtain such an opinion, specifying the questions to be posed to the independent medical expert providing the advisory medical opinion.
+
+(c) *Action by agency of original jurisdiction after receipt of remand.* After correction of any error identified in the Board's remand, the agency of original jurisdiction must readjudicate the claim and provide notice of the decision under 38 U.S.C. 5104, to include notice under 38 U.S.C. 5104C of a claimant's options for further review of the agency of original jurisdiction's decision. The agency of original jurisdiction must provide for the expeditious treatment of any claim that is remanded by the Board.
+
+(Authority: 38 U.S.C. 5103A, 5109, 5109B, 7102, 7104(a), 7105)[84 FR 188, Jan. 18, 2019]

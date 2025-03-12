@@ -1,7 +1,9 @@
-##### § 20.712 Rule 712. Expenses of appellants, representatives, and witnesses incident to hearings not reimbursable by the Government. #####
+##### § 20.712 Rule 712. Record of hearing. #####
 
-Link to an amendment published at 84 FR 187, Jan. 18, 2019.
+(a) *General.* All Board hearings will be recorded. The Board will prepare a written transcript for each Board hearing conducted. The transcript will be the official record of the hearing and will be incorporated as a part of the record on appeal. The Board will not accept alternate transcript versions prepared by the appellant or representative.
 
-No expenses incurred by an appellant, representative, or witness incident to attendance at a hearing may be paid by the Government.
+(b) *Hearing recording.* The recording of the Board hearing will be retained for a period of 12 months following the date of the Board hearing as a duplicate record of the proceeding.
 
-(Authority: 38 U.S.C. 111)
+(c) *Copy of written transcript.* If the appellant or representative requests a copy of the written transcript in accordance with § 1.577 of this chapter, the Board will furnish one copy to the appellant or representative.
+
+[84 FR 188, Jan. 18, 2019]

@@ -156,4 +156,4 @@ This exclusion will not apply where the net profit is applied to the price of a 
 
 (v) *Statutory exclusions.* Other amounts excluded from income by statute. See § 3.279. VA will exclude from income any amount designated by statute as not countable as income, regardless of whether or not it is listed in this section or in § 3.279.
 
-(Authority: 42 U.S.C. 1395w-141(g)(6))[28 FR 32, Jan. 1, 1963]Editorial Note:For Federal Register citations affecting § 3.262, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(Authority: 42 U.S.C. 1395w-141(g)(6))[28 FR 32, Jan. 1, 1963]Editorial Note:For Federal Register citations affecting § 3.262, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

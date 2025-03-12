@@ -1,0 +1,5 @@
+##### § 20.405 Rule 405. Docketing of simultaneously contested claims at the Board. #####
+
+After expiration of the 30 day period for response in § 20.404, the Board will place all parties of the simultaneously contested claim on the docket for the type of review requested under § 20.202(b). In the event the parties request different types of review, if any party requests a hearing the appeal will be placed on the docket described in § 20.800(a)(iii), and VA will notify the parties that a hearing will be scheduled. If no party requested a hearing, but any party requested the opportunity to submit additional evidence, the appeal will be placed on the docket described in § 20.800(a)(ii), and the parties will be notified of their opportunity to submit additional evidence within 90 days of the date of such notice.
+
+(Authority: 38 U.S.C. 7105A(b)(1))

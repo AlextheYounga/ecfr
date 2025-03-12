@@ -1,7 +1,5 @@
-##### § 20.707 Rule 707. Designation of Member or Members to conduct the hearing. #####
+##### § 20.707 Rule 707. Prehearing conference. #####
 
-Link to an amendment published at 84 FR 187, Jan. 18, 2019.
+An appellant's authorized representative may request a prehearing conference with the presiding Member of a hearing to clarify the issues to be considered at a hearing on appeal, obtain rulings on the admissibility of evidence, develop stipulations of fact, establish the length of argument which will be permitted, or take other steps which will make the hearing itself more efficient and productive. Requests for prehearing conferences in cases involving hearings to be held before the Board at Department of Veterans Affairs field facilities must be addressed to the office of the Department of Veterans Affairs official who signed the letter giving notice of the time and place of the hearing.
 
-The Member or panel to whom a proceeding is assigned under § 19.3 of this part shall conduct any hearing before the Board in connection with that proceeding. Where a proceeding has been assigned to a panel, the Chairman, or the Chairman's designee, shall designate one of the Members as the presiding Member. The Member or Members who conduct the hearing shall participate in making the final determination of the claim, subject to the exception in § 19.11(c) of this part (relating to reconsideration of a decision).
-
-(Authority: 38 U.S.C. 7102, 7107)[61 FR 20451, May 7, 1996]
+(Authority: 38 U.S.C. 7102, 7107)[61 FR 20452, May 7, 1996, as amended at 81 FR 32650, May 24, 2016. Redesignated and amended at 84 FR 187, Jan. 18, 2019]

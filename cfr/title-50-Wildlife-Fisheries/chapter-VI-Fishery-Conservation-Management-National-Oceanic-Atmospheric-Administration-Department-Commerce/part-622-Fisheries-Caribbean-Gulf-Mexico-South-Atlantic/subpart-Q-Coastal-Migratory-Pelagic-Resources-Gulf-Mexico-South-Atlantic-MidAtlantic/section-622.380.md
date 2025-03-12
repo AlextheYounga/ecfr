@@ -1,5 +1,7 @@
 ##### § 622.380 Size limits. #####
 
+Link to an amendment published at 84 FR 4736, Feb. 19, 2019.
+
 All size limits in this section are minimum size limits unless specified otherwise. A fish not in compliance with its size limit, as specified in this section, in or from the Gulf, South Atlantic, or Mid-Atlantic EEZ, as appropriate, may not be possessed, sold, or purchased. A fish not in compliance with its size limit must be released immediately with a minimum of harm. The operator of a vessel that fishes in the EEZ is responsible for ensuring that fish on board are in compliance with the size limits specified in this section.
 
 (a) *Cobia.* (1) In the Gulf - 33 inches (83.8), fork length.

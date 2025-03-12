@@ -1,12 +1,12 @@
-##### § 3.2600 Review of benefit claims decisions. #####
+##### § 3.2600 Legacy review of benefit claims decisions. #####
 
-Link to an amendment published at 84 FR 172, Jan. 18, 2019.Link to a correction published at 84 FR 4336, Feb. 15, 2019.
+This section applies only to legacy claims as defined in § 3.2400 in which a Notice of Disagreement is timely filed on or after June 1, 2001, under regulations applicable at the time of filing.
 
 (a) A claimant who has filed a Notice of Disagreement submitted in accordance with the provisions of § 20.201 of this chapter, and either § 20.302(a) or § 20.501(a) of this chapter, as applicable, with a decision of an agency of original jurisdiction on a benefit claim has a right to a review of that decision under this section. The review will be conducted by a Veterans Service Center Manager, Pension Management Center Manager, or Decision Review Officer, at VA's discretion. An individual who did not participate in the decision being reviewed will conduct this review. Only a decision that has not yet become final (by appellate decision or failure to timely appeal) may be reviewed. Review under this section will encompass only decisions with which the claimant has expressed disagreement in the Notice of Disagreement. The reviewer will consider all evidence of record and applicable law, and will give no deference to the decision being reviewed.
 
 (b) Unless the claimant has requested review under this section with his or her Notice of Disagreement, VA will, upon receipt of the Notice of Disagreement, notify the claimant in writing of his or her right to a review under this section. To obtain such a review, the claimant must request it not later than 60 days after the date VA mails the notice. This 60-day time limit may not be extended. If the claimant fails to request review under this section not later than 60 days after the date VA mails the notice, VA will proceed with the traditional appellate process by issuing a Statement of the Case. A claimant may not have more than one review under this section of the same decision.
 
-(c) The reviewer may conduct whatever development he or she considers necessary to resolve any disagreements in the Notice of Disagreement, consistent with applicable law. This may include an attempt to obtain additional evidence or the holding of an informal conference with the claimant. Upon the request of the claimant, the reviewer will conduct a hearing under § 3.103(c).
+(c) The reviewer may conduct whatever development he or she considers necessary to resolve any disagreements in the Notice of Disagreement, consistent with applicable law. This may include an attempt to obtain additional evidence or the holding of an informal conference with the claimant. Upon the request of the claimant, the reviewer will conduct a hearing under the version of § 3.103(c) of this chapter predating Public Law 115-55.
 
 (d) The reviewer may grant a benefit sought in the claim notwithstanding § 3.105(b), but, except as provided in paragraph (e) of this section, may not revise the decision in a manner that is less advantageous to the claimant than the decision under review. A review decision made under this section will include a summary of the evidence, a citation to pertinent laws, a discussion of how those laws affect the decision, and a summary of the reasons for the decision.
 
@@ -14,6 +14,4 @@ Link to an amendment published at 84 FR 172, Jan. 18, 2019.Link to a correction 
 
 (f) Review under this section does not limit the appeal rights of a claimant. Unless a claimant withdraws his or her Notice of Disagreement as a result of this review process, VA will proceed with the traditional appellate process by issuing a Statement of the Case.
 
-(g) This section applies to all claims in which a Notice of Disagreement is filed on or after June 1, 2001.
-
-(Authority: 38 U.S.C. 5109A and 7105(d))[66 FR 21874, May 2, 2001, as amended at 67 FR 46868, July 17, 2002; 74 FR 26959, June 5, 2009; 79 FR 57697, Sept. 25, 2014]
+(Authority: 38 U.S.C. 5109A and 7105(d))[66 FR 21874, May 2, 2001, as amended at 67 FR 46868, July 17, 2002; 74 FR 26959, June 5, 2009; 79 FR 57697, Sept. 25, 2014; 84 FR 172, Jan. 18, 2019; 84 FR 4336, Feb. 15, 2019]

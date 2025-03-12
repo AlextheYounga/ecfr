@@ -1,5 +1,7 @@
 ##### § 622.375 Authorized and unauthorized gear. #####
 
+Link to an amendment published at 84 FR 4736, Feb. 19, 2019.
+
 (a) *Authorized gear* - (1) *King and Spanish mackerel.* Subject to the prohibitions on gear/methods specified in § 622.9, the following are the only fishing gears that may be used in the Gulf, Mid-Atlantic, and South Atlantic EEZ in directed fisheries for king and Spanish mackerel:
 
 (i) *King mackerel, Atlantic migratory group* - (A) North of 34°37.3′ N. lat., the latitude of Cape Lookout Light, NC - all gear except drift gillnet and long gillnet.

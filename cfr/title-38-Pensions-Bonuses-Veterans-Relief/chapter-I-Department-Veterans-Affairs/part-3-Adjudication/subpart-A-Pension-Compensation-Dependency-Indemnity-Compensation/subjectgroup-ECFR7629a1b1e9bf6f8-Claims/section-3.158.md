@@ -1,8 +1,6 @@
 ##### § 3.158 Abandoned claims. #####
 
-Link to an amendment published at 84 FR 169, Jan. 18, 2019.
-
-(a) *General.* Except as provided in § 3.652 of this part, where evidence requested in connection with an original claim, a claim for increase or to reopen or for the purpose of determining continued entitlement is not furnished within 1 year after the date of request, the claim will be considered abandoned. After the expiration of 1 year, further action will not be taken unless a new claim is received. Should the right to benefits be finally established, pension, compensation, dependency and indemnity compensation, or monetary allowance under the provisions of 38 U.S.C. chapter 18 based on such evidence shall commence not earlier than the date of filing the new claim.
+(a) *General.* Except as provided in § 3.652, where evidence requested in connection with an initial claim or supplemental claim or for the purpose of determining continued entitlement is not furnished within 1 year after the date of request, the claim will be considered abandoned. After the expiration of 1 year, further action will not be taken unless a new claim is received. Should the right to benefits be finally established, pension, compensation, dependency and indemnity compensation, or monetary allowance under the provisions of 38 U.S.C. chapter 18 based on such evidence shall commence not earlier than the date of filing the new claim.
 
 (Authority: 38 U.S.C. 501)
 
@@ -14,4 +12,4 @@ Cross References:
 
 Periodic certification of continued eligibility. See § 3.652. Failure to report for VA examination. See § 3.655. Disappearance of veteran. See § 3.656.
 
-[27 FR 11887, Dec. 1, 1962, as amended at 28 FR 13362, Dec. 10, 1963; 52 FR 43063, Nov. 9, 1987; 62 FR 51278, Sept. 30, 1997; 67 FR 49586, July 31, 2002]
+[27 FR 11887, Dec. 1, 1962, as amended at 28 FR 13362, Dec. 10, 1963; 52 FR 43063, Nov. 9, 1987; 62 FR 51278, Sept. 30, 1997; 67 FR 49586, July 31, 2002; 84 FR 169, Jan. 18, 2019]

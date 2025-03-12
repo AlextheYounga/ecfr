@@ -1,13 +1,17 @@
 ##### § 3.151 Claims for disability benefits. #####
 
-Link to an amendment published at 84 FR 168, Jan. 18, 2019.
-
-(a) *General.* A specific claim in the form prescribed by the Secretary must be filed in order for benefits to be paid to any individual under the laws administered by VA. (38 U.S.C. 5101(a)). A claim by a veteran for compensation may be considered to be a claim for pension; and a claim by a veteran for pension may be considered to be a claim for compensation. The greater benefit will be awarded, unless the claimant specifically elects the lesser benefit.
+(a) *General.* A specific claim in the form prescribed by the Secretary must be filed in order for benefits to be paid to any individual under the laws administered by VA. (38 U.S.C. 5101(a)). A claim by a veteran for compensation may be considered to be a claim for pension; and a claim by a veteran for pension may be considered to be a claim for compensation. The greater benefit will be awarded, unless the claimant specifically elects the lesser benefit. (See scope of claim, § 3.155(d)(2); complete claim, § 3.160(a); supplemental claims, § 3.2501(b)).
 
 (b) *Retroactive disability pension claims.* Where disability pension entitlement is established based on a claim received by VA on or after October 1, 1984, the pension award may not be effective prior to the date of receipt of the pension claim unless the veteran specifically claims entitlement to retroactive benefits. The claim for retroactivity may be filed separately or included in the claim for disability pension, but it must be received by VA within one year from the date on which the veteran became permanently and totally disabled. Additional requirements for entitlement to a retroactive pension award are contained in § 3.400(b) of this part.
+
+(c) *Issues within a claim.* (1) To the extent that a complete claim application encompasses a request for more than one determination of entitlement, each specific entitlement will be adjudicated and is considered a separate issue for purposes of the review options prescribed in § 3.2500. A single decision by an agency of original jurisdiction may adjudicate multiple issues in this respect, whether expressly claimed or determined by VA to be reasonably within the scope of the application as prescribed in § 3.155(d)(2). VA will issue a decision that addresses each such identified issue within a claim. Upon receipt of notice of a decision, a claimant may elect any of the applicable review options prescribed in § 3.2500 for each issue adjudicated.
+
+(2) With respect to service-connected disability compensation, an issue for purposes of paragraph (c)(1) of this section is defined as entitlement to compensation for a particular disability. For example, if a decision adjudicates service-connected disability compensation for both a knee condition and an ankle condition, compensation for each condition is a separate entitlement or issue for which a different review option may be elected. However, different review options may not be selected for specific components of the knee disability claim, such as ancillary benefits, whether a knee injury occurred in service, or whether a current knee condition resulted from a service-connected injury or condition.
+
+(d) *Evidentiary record.* The evidentiary record before the agency of original jurisdiction for an initial or supplemental claim includes all evidence received by VA before VA issues notice of a decision on the claim. Once the agency of original jurisdiction issues notice of a decision on a claim, the evidentiary record closes as described in § 3.103(c)(2) and VA no longer has a duty to assist in gathering evidence under § 3.159. (See § 3.155(b), submission of evidence).
 
 (Authority: 38 U.S.C 5110(b)(3))Cross Reference:
 
 Intent to file a claim. See § 3.155(b).
 
-[50 FR 25981, June 24, 1985, as amended at 79 FR 57695, Sept. 25, 2014]
+[50 FR 25981, June 24, 1985, as amended at 79 FR 57695, Sept. 25, 2014; 84 FR 168, Jan. 18, 2019]

@@ -2,7 +2,7 @@
 
 (a) *General.* Section 313(j)(2) of the Act, as amended (19 U.S.C. 1313(j)(2)), provides for drawback of duties, taxes, and fees paid on imported merchandise based on the export or destruction under CBP supervision of substituted merchandise (as defined in § 190.2, pursuant to 19 U.S.C. 1313(j)(2)), before the close of the 5-year period beginning on the date of importation of the imported merchandise and before the drawback claim is filed, and before such exportation or destruction the substituted merchandise is not used in the United States (*see* paragraph (e) of this section) and is in the possession of the party claiming drawback. The amount of duties, taxes, and fees eligible for drawback is determined by per unit averaging, as defined in 19 CFR 190.2, for any drawback claim based on 19 U.S.C. 1313(j)(2).
 
-(b) *Allowable refund* - (1) *Exportation.* In the case of an article that is exported, subject to paragraph (b)(3) of this section, the total amount of drawback allowable will not exceed 99 percent of the lesser of:
+(b) *Allowable refund*—(1) *Exportation.* In the case of an article that is exported, subject to paragraph (b)(3) of this section, the total amount of drawback allowable will not exceed 99 percent of the lesser of:
 
 (i) The amount of duties, taxes, and fees paid with respect to the imported merchandise; or
 
@@ -18,7 +18,7 @@
 
 (c) *Determination of HTSUS classification for substituted merchandise.* Requests for binding rulings on the classification of imported, substituted, or exported merchandise may be submitted to CBP pursuant to the procedures set forth in part 177.
 
-(d) *Claims for wine* - (1) *Alternative substitution standard.* In addition to the 8-digit HTSUS substitution standard in § 190.2, drawback of duties, taxes, and fees, paid on imported wine as defined in § 190.2 may be allowable under 19 U.S.C. 1313(j)(2) with respect to wine if the imported wine and the exported wine are of the same color and the price variation between the imported wine and the exported wine does not exceed 50 percent.
+(d) *Claims for wine*—(1) *Alternative substitution standard.* In addition to the 8-digit HTSUS substitution standard in § 190.2, drawback of duties, taxes, and fees, paid on imported wine as defined in § 190.2 may be allowable under 19 U.S.C. 1313(j)(2) with respect to wine if the imported wine and the exported wine are of the same color and the price variation between the imported wine and the exported wine does not exceed 50 percent.
 
 (2) *Allowable refund.* For any drawback claim for wine (as defined in § 190.2) based on 19 U.S.C. 1313(j)(2), the total amount of drawback allowable will not exceed 99 percent of the duties, taxes, and fees paid with respect to the imported merchandise, without regard to the limitations in paragraph (b)(1) or (b)(2) of this section.
 
@@ -36,7 +36,7 @@
 
 (e) *Operations performed on substituted merchandise.* The performing of any operation or combination of operations, not amounting to manufacture or production as provided for in 19 U.S.C. 1313(j)(3)(B), on the substituted merchandise is not a use of that merchandise for purposes of this section.
 
-(f) *Designation by successor; 19 U.S.C. 1313(s)* - (1) *General rule.* Upon compliance with the requirements of this section and under 19 U.S.C. 1313(s), a drawback successor as defined in paragraph (f)(2) of this section may designate either of the following as the basis for drawback on merchandise possessed by the successor after the date of succession:
+(f) *Designation by successor; 19 U.S.C. 1313(s)*—(1) *General rule.* Upon compliance with the requirements of this section and under 19 U.S.C. 1313(s), a drawback successor as defined in paragraph (f)(2) of this section may designate either of the following as the basis for drawback on merchandise possessed by the successor after the date of succession:
 
 (i) Imported merchandise which the predecessor, before the date of succession, imported; or
 
@@ -48,12 +48,10 @@
 
 (ii) The assets and other business interests of a division, plant, or other business unit of such predecessor, but only if in such transfer the value of the transferred realty, personalty, and intangibles (other than drawback rights, inchoate or otherwise) exceeds the value of all transferred drawback rights, inchoate or otherwise.
 
-(3) *Certifications and required evidence* - (i) *Records of predecessor.* The predecessor or successor must certify that the successor is in possession of the predecessor's records which are necessary to establish the right to drawback under the law and regulations with respect to the imported and/or substituted merchandise.
+(3) *Certifications and required evidence*—(i) *Records of predecessor.* The predecessor or successor must certify that the successor is in possession of the predecessor's records which are necessary to establish the right to drawback under the law and regulations with respect to the imported and/or substituted merchandise.
 
 (ii) *Merchandise not otherwise designated.* The predecessor or successor must certify that the predecessor has not designated and will not designate, nor enable any other person to designate, the imported and/or substituted merchandise as the basis for drawback.
 
 (iii) *Value of transferred property.* In instances in which assets and other business interests of a division, plant, or other business unit of a predecessor are transferred, the predecessor or successor must specify, and maintain supporting records to establish, the value of the drawback rights and the value of all other transferred property.
 
 (iv) *Review by CBP.* The written agreement, merger, or corporate resolution, provided for in paragraph (f)(2) of this section, and the records and evidence provided for in paragraph (f)(3)(i) through (iii) of this section, must be retained by the appropriate party(s) for 3 years from the date of liquidation of the related claim and are subject to review by CBP upon request.
-
-Effective Date Note:The effective date for amendments regarding the drawback of excise taxes in (b)(3) is Feb. 19, 2019.

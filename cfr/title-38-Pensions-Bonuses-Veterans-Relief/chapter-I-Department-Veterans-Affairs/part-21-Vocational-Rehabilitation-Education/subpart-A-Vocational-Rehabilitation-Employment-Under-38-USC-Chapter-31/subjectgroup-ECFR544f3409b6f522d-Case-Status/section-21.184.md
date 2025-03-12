@@ -1,7 +1,5 @@
 ##### § 21.184 “Evaluation and planning” status. #####
 
-Link to an amendment published at 84 FR 193, Jan. 18, 2019.
-
 (a) *Purpose.* The purpose of *evaluation and planning* status is to identify veterans for whom evaluation and planing services are needed to:
 
 (1) Accomplish an initial evaluation as provided in § 21.50;
@@ -34,6 +32,4 @@ Link to an amendment published at 84 FR 193, Jan. 18, 2019.
 
 (iii) The veteran otherwise fails to cooperate with VA in the evaluation and planning process. If the veteran fails to cooperate, the provisions of § 21.362 are applicable.
 
-(Authority: 38 U.S.C. 3106, 3107)Cross Reference:
-
-See §§ 21.50 through 21.58 Initial and extended evaluation, and §§ 21.80 through 21.98 Individualized written rehabilitation plan.3
+(Authority: 38 U.S.C. 3106, 3107)[49 FR 40814, Oct. 18, 1984, as amended at 84 FR 193, Jan. 18, 2019]

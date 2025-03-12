@@ -1,5 +1,7 @@
 ##### § 32.2681 Capital leases. #####
 
+Link to an amendment published at 84 FR 4729, Feb. 19, 2019.
+
 (a) This account shall include all property acquired under a capital lease. A lease qualifies as a capital lease when one or more of the following criteria is met:
 
 (1) By the end of the lease term, ownership of the leased property is transferred to the leasee.

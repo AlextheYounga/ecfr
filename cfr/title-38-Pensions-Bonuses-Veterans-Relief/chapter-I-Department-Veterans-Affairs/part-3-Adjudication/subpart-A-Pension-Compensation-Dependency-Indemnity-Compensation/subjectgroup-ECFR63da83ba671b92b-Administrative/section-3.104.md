@@ -1,9 +1,9 @@
-##### § 3.104 Finality of decisions. #####
+##### § 3.104 Binding nature of decisions. #####
 
-Link to an amendment published at 84 FR 167, Jan. 18, 2019.
+(a) *Binding decisions.* A decision of a VA rating agency is binding on all VA field offices as to conclusions based on the evidence on file at the time VA issues written notification in accordance with 38 U.S.C. 5104. A binding agency decision is not subject to revision except by the Board of Veterans' Appeals, by Federal court order, or as provided in §§ 3.105, 3.2500, and 3.2600.
 
-(a) A decision of a duly constituted rating agency or other agency of original jurisdiction shall be final and binding on all field offices of the Department of Veterans Affairs as to conclusions based on the evidence on file at the time VA issues written notification in accordance with 38 U.S.C. 5104. A final and binding agency decision shall not be subject to revision on the same factual basis except by duly constituted appellate authorities or except as provided in § 3.105 and § 3.2600 of this part.
+(b) *Binding administrative determinations.* Current determinations of line of duty, character of discharge, relationship, dependency, domestic relations questions, homicide, and findings of fact of death or presumptions of death made in accordance with existing instructions, and by application of the same criteria and based on the same facts, by either an Adjudication activity or an Insurance activity are binding one upon the other in the absence of clear and unmistakable error.
 
-(b) Current determinations of line of duty, character of discharge, relationship, dependency, domestic relations questions, homicide, and findings of fact of death or presumptions of death made in accordance with existing instructions, and by application of the same criteria and based on the same facts, by either an Adjudication activity or an Insurance activity are binding one upon the other in the absence of clear and unmistakable error.
+(c) *Favorable findings.* Any finding favorable to the claimant made by either a VA adjudicator, as described in § 3.103(f)(4), or by the Board of Veterans' Appeals, as described in § 20.801(a) of this chapter, is binding on all subsequent agency of original jurisdiction and Board of Veterans' Appeals adjudicators, unless rebutted by evidence that identifies a clear and unmistakable error in the favorable finding. For purposes of this section, a finding means a conclusion either on a question of fact or on an application of law to facts made by an adjudicator concerning the issue(s) under review.
 
-[29 FR 1462, Jan. 29, 1964, as amended at 29 FR 7547, June 12, 1964; 56 FR 65846, Dec. 19, 1991; 66 FR 21874, May 2, 2001]
+[29 FR 1462, Jan. 29, 1964, as amended at 29 FR 7547, June 12, 1964; 56 FR 65846, Dec. 19, 1991; 66 FR 21874, May 2, 2001; 84 FR 167, Jan. 18, 2019]

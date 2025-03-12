@@ -1,14 +1,12 @@
 ##### § 21.194 “Employment services” status. #####
 
-Link to an amendment published at 84 FR 193, Jan. 18, 2019.
-
 (a) *Purpose.* The status *employment services* serves to:
 
 (1) Identify veterans who are being furnished employment services; and
 
 (2) Assure that these veterans receive necessary services in a timely manner.
 
-(b) *Assignment to employment services* status. A veteran's case may be assigned or reassigned to *employment services* status under the provisions of §§ 21.84, 21.88, 21.94 and 21.98.
+(b) *Assignment to employment services* status. A veteran's case may be assigned or reassigned to *employment services* status under the provisions of §§ 21.84, 21.88, and 21.94.
 
 (c) *Continuation in employment services* status. A case will remain in *employment services* status for the period specified in the IEAP, subject to the limitations specified in paragraph (d) of this section.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 84 FR 193, Jan. 18, 2019.
 
 See §§ 21.47 Eligibility for employment assistance, 21.250 Overview of employment services, and 21.326 Authorization of employment services.
 
-[49 FR 40814, Oct. 18, 1984, as amended at 58 FR 68768, Dec. 29, 1993]
+[49 FR 40814, Oct. 18, 1984, as amended at 58 FR 68768, Dec. 29, 1993; 84 FR 193, Jan. 18, 2019]

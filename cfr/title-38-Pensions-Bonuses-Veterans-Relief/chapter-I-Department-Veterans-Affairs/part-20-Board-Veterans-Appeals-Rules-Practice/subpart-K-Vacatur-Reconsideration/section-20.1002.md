@@ -1,0 +1,13 @@
+##### § 20.1002 Rule 1002. Filing and disposition of motion for reconsideration. #####
+
+(a) *Application requirements.* A motion for Reconsideration must be in writing and must include the name of the veteran; the name of the claimant or appellant if other than the veteran (e.g., a veteran's survivor, a guardian, or a fiduciary appointed to receive VA benefits on an individual's behalf); the applicable Department of Veterans Affairs file number; and the date of the Board of Veterans' Appeals decision, or decisions, to be reconsidered. It must also set forth clearly and specifically the alleged obvious error, or errors, of fact or law in the applicable decision, or decisions, of the Board or other appropriate basis for requesting Reconsideration. If the applicable Board of Veterans' Appeals decision, or decisions, involved more than one issue on appeal, the motion for reconsideration must identify the specific issue, or issues, to which the motion pertains. Issues not so identified will not be considered in the disposition of the motion.
+
+(b) *Filing of motion for reconsideration.* A motion for reconsideration of a prior Board of Veterans' Appeals decision may be filed at any time. Such motions must be filed at the following address: Board of Veterans' Appeals, P.O. Box 27063, Washington, DC 20038.
+
+(c) *Disposition.* The Chairman will review the sufficiency of the allegations set forth in the motion and, depending upon the decision reached, proceed as follows:
+
+(1) *Motion denied.* The appellant and representative or other appropriate party will be notified if the motion is denied. The notification will include reasons why the allegations are found insufficient. This constitutes final disposition of the motion.
+
+(2) *Motion allowed.* If the motion is allowed, the appellant and his or her representative, if any, will be notified. The appellant and the representative will be given a period of 60 days from the date of mailing of the letter of notification to present additional arguments or evidence. The date of mailing of the letter of notification will be presumed to be the same as the date of the letter of notification. The Chairman will assign a Reconsideration panel in accordance with Rule 1004 (§ 20.1004).
+
+(Authority: 38 U.S.C. 7103, 7108)[57 FR 4109, Feb. 3, 1992, as amended at 81 FR 32650, May 24, 2016. Redesignated and amended at 84 FR 190, 191, Jan. 18, 2019]

@@ -1,5 +1,7 @@
 ##### § 32.4130 Other current liabilities. #####
 
+Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
+
 This account shall include:
 
 (a) The amount of advance billing creditable to revenue accounts in future months; also advance payments made by prospective customers prior to the establishment of service. Amounts included in this account shall be credited to the appropriate revenue accounts in the months in which the service is rendered or cleared from this account as refunds are made.

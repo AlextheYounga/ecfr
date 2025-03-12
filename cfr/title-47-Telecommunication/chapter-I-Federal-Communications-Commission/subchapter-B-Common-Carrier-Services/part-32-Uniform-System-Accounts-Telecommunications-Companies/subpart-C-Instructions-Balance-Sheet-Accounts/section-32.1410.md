@@ -1,5 +1,7 @@
 ##### § 32.1410 Other noncurrent assets. #####
 
+Link to an amendment published at 84 FR 4729, Feb. 19, 2019.
+
 (a) This account shall include the acquisition cost of the company's investment in equity or other securities issued or assumed by affiliated companies, including securities held in special funds (sinking funds). The carrying value of the investment (securities) accounted for on the equity method shall be adjusted to recognize the company's share of the earnings or losses and dividends received or receivable of the affiliated company from the date of acquisition. (Note also Account 1170, Receivables, and Account 7300, Nonoperating income and expense.)
 
 (b) This account shall include the acquisition cost of the Company's investment in securities issued or assumed by nonaffiliated companies and individuals, and also its investment advances to such parties and special deposits of cash for more than one year from date of deposit.

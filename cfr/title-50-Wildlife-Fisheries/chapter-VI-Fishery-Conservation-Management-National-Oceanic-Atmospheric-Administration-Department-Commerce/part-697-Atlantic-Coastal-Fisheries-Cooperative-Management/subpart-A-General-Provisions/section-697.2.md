@@ -1,5 +1,7 @@
 ##### § 697.2 Definitions. #####
 
+Link to an amendment published at 84 FR 4737, Feb. 19, 2019.
+
 (a) In addition to the definitions in the Magnuson-Stevens Act and in §§ 600.10 and 648.2 of this chapter, for the purposes of this part, the following terms have the following meanings:
 
 *American lobster* or lobster means *Homarus americanus.*

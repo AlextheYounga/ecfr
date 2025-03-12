@@ -1,3 +1,5 @@
-##### § 3.2502 xxx #####
+##### § 3.2502 Return by higher-level adjudicator or remand by the Board of Veterans' Appeals. #####
 
-Link to an amendment published at 84 FR 172, Jan. 18, 2019.
+Upon receipt of a returned claim from a higher-level adjudicator or remand by the Board of Veterans' Appeals, the agency of original jurisdiction will expeditiously readjudicate the claim in accordance with 38 U.S.C. 5109B. The agency of original jurisdiction retains jurisdiction of the claim. In readjudicating the claim, the agency of original jurisidction will correct all identified duty to assist errors, complete a new decision and issue notice to the claimant and or his or her legal representative in accordance with 3.103(f). The effective date of any evaluation and award of pension, compensation or dependency and indemnity compensation will be determined in accordance with the date of receipt of the initial claim as prescribed under § 3.2500(g).
+
+[84 FR 172, Jan. 18, 2019]

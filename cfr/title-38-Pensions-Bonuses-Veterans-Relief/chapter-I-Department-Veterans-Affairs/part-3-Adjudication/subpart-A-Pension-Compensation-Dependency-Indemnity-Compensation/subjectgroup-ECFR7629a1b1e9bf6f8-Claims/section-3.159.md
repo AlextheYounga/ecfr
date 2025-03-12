@@ -1,20 +1,34 @@
 ##### § 3.159 Department of Veterans Affairs assistance in developing claims. #####
 
-Link to an amendment published at 84 FR 169, Jan. 18, 2019.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Competent medical evidence* means evidence provided by a person who is qualified through education, training, or experience to offer medical diagnoses, statements, or opinions. Competent medical evidence may also mean statements conveying sound medical principles found in medical treatises. It would also include statements contained in authoritative writings such as medical and scientific articles and research reports or analyses.
 
 (2) *Competent lay evidence* means any evidence not requiring that the proponent have specialized education, training, or experience. Lay evidence is competent if it is provided by a person who has knowledge of facts or circumstances and conveys matters that can be observed and described by a lay person.
 
-(3) *Substantially complete application* means an application containing the claimant's name; his or her relationship to the veteran, if applicable; sufficient service information for VA to verify the claimed service, if applicable; the benefit claimed and any medical condition(s) on which it is based; the claimant's signature; and in claims for nonservice-connected disability or death pension and parents' dependency and indemnity compensation, a statement of income.
+(3) *Substantially complete application* means an application containing:
+
+(i) The claimant's name;
+
+(ii) His or her relationship to the veteran, if applicable;
+
+(iii) Sufficient service information for VA to verify the claimed service, if applicable;
+
+(iv) The benefit sought and any medical condition(s) on which it is based;
+
+(v) The claimant's signature; and
+
+(vi) In claims for nonservice-connected disability or death pension and parents' dependency and indemnity compensation, a statement of income;
+
+(vii) In supplemental claims, identification or inclusion of potentially new evidence (see § 3.2501);
+
+(viii) For higher-level reviews, identification of the date of the decision for which review is sought.
 
 (4) For purposes of paragraph (c)(4)(i) of this section, *event* means one or more incidents associated with places, types, and circumstances of service giving rise to disability.
 
 (5) *Information* means non-evidentiary facts, such as the claimant's Social Security number or address; the name and military unit of a person who served with the veteran; or the name and address of a medical care provider who may have evidence pertinent to the claim.
 
-(b) *VA's duty to notify claimants of necessary information or evidence.* (1) When VA receives a complete or substantially complete application for benefits, it will notify the claimant of any information and medical or lay evidence that is necessary to substantiate the claim (hereafter in this paragraph referred to as the “notice”). In the notice, VA will inform the claimant which information and evidence, if any, that the claimant is to provide to VA and which information and evidence, if any, that VA will attempt to obtain on behalf of the claimant. The information and evidence that the claimant is informed that the claimant is to provide must be provided within one year of the date of the notice. If the claimant has not responded to the notice within 30 days, VA may decide the claim prior to the expiration of the one-year period based on all the information and evidence contained in the file, including information and evidence it has obtained on behalf of the claimant and any VA medical examinations or medical opinions. If VA does so, however, and the claimant subsequently provides the information and evidence within one year of the date of the notice, VA must readjudicate the claim.
+(b) *VA's duty to notify claimants of necessary information or evidence.* (1) Except as provided in paragraph (3) of this section, when VA receives a complete or substantially complete initial or supplemental claim, VA will notify the claimant of any information and medical or lay evidence that is necessary to substantiate the claim (hereafter in this paragraph referred to as the “notice”) In the notice, VA will inform the claimant which information and evidence, if any, that the claimant is to provide to VA and which information and evidence, if any, that VA will attempt to obtain on behalf of the claimant. The information and evidence that the claimant is informed that the claimant is to provide must be provided within one year of the date of the notice. If the claimant has not responded to the notice within 30 days, VA may decide the claim prior to the expiration of the one-year period based on all the information and evidence contained in the file, including information and evidence it has obtained on behalf of the claimant and any VA medical examinations or medical opinions. If VA does so, however, and the claimant subsequently provides the information and evidence within one year of the date of the notice in accordance with the requirements of paragraph (b)(4) of this section, VA must readjudicate the claim.
 
 (Authority: 38 U.S.C. 5103)
 
@@ -24,13 +38,19 @@ Link to an amendment published at 84 FR 169, Jan. 18, 2019.
 
 (3) No duty to provide the notice described in paragraph (b)(1) of this section arises:
 
-(i) Upon receipt of a Notice of Disagreement; or
+(i) Upon receipt of a supplemental claim under § 3.2501 within one year of the date VA issues notice of a prior decision;
 
-(ii) When, as a matter of law, entitlement to the benefit claimed cannot be established.
+(ii) Upon receipt of a request for higher-level review under § 3.2601;
+
+(iii) Upon receipt of a Notice of Disagreement under § 20.202 of this chapter; or
+
+(iv) When, as a matter of law, entitlement to the benefit claimed cannot be established.
 
 (Authority: 38 U.S.C. 5103(a), 5103A(a)(2))
 
-(c) *VA's duty to assist claimants in obtaining evidence.* Upon receipt of a substantially complete application for benefits, VA will make reasonable efforts to help a claimant obtain evidence necessary to substantiate the claim. In addition, VA will give the assistance described in paragraphs (c)(1), (c)(2), and (c)(3) to an individual attempting to reopen a finally decided claim. VA will not pay any fees charged by a custodian to provide records requested.
+(4) After VA has issued a notice of decision, submission of information and evidence substantiating a claim must be accomplished through the proper filing of a review option in accordance with § 3.2500 on a form prescribed by the Secretary. New and relevant evidence may be submitted in connection with either the filing of a supplemental claim under § 3.2501 or the filing of a Notice of Disagreement with the Board under 38 CFR 20.202, on forms prescribed by the Secretary, and election of a Board docket that permits the filing of new evidence (see 38 CFR 20.302 and 20.303).
+
+(c) *VA's duty to assist claimants in obtaining evidence.* VA has a duty to assist claimants in obtaining evidence to substantiate all substantially complete initial and supplemental claims, and when a claim is returned for readjudication by a higher-level adjudicator or the Board after identification of a duty to assist error on the part of the agency of original jurisdiction, until the time VA issues notice of a decision on a claim or returned claim. VA will make reasonable efforts to help a claimant obtain evidence necessary to substantiate the claim. VA will not pay any fees charged by a custodian to provide records requested. When a claim is returned for readjudication by a higher-level adjudicator or the Board after identification of a duty to assist error, the agency of original jurisdiction has a duty to correct any other duty to assist errors not identified by the higher-level adjudicator or the Board.
 
 (1) *Obtaining records not in the custody of a Federal department or agency.* VA will make reasonable efforts to obtain relevant records not in the custody of a Federal department or agency, to include records from State or local governments, private medical care providers, current or former employers, and other non-Federal governmental sources. Such reasonable efforts will generally consist of an initial request for the records and, if the records are not received, at least one follow-up request. A follow-up request is not required if a response to the initial request indicates that the records sought do not exist or that a follow-up request for the records would be futile. If VA receives information showing that subsequent requests to this or another custodian could result in obtaining the records sought, then reasonable efforts will include an initial request and, if the records are not received, at least one follow-up request to the new source or an additional request to the original source.
 
@@ -62,11 +82,13 @@ Link to an amendment published at 84 FR 169, Jan. 18, 2019.
 
 (ii) Paragraph (4)(i)(C) could be satisfied by competent evidence showing post-service treatment for a condition, or other possible association with military service.
 
-(iii) Paragraph (c)(4) applies to a claim to reopen a finally adjudicated claim only if new and material evidence is presented or secured.
+(iii) For requests to reopen a finally adjudicated claim received prior to the effective date provided in § 19.2(a) of this chapter, this paragraph (c)(4) applies only if new and material evidence is presented or secured as prescribed in § 3.156.
+
+(iv) This paragraph (c)(4) applies to a supplemental claim only if new and relevant evidence under § 3.2501 is presented or secured.
 
 (Authority: 38 U.S.C. 5103A(d))
 
-(d) *Circumstances where VA will refrain from or discontinue providing assistance.* VA will refrain from providing assistance in obtaining evidence for a claim if the substantially complete application for benefits indicates that there is no reasonable possibility that any assistance VA would provide to the claimant would substantiate the claim. VA will discontinue providing assistance in obtaining evidence for a claim if the evidence obtained indicates that there is no reasonable possibility that further assistance would substantiate the claim. Circumstances in which VA will refrain from or discontinue providing assistance in obtaining evidence include, but are not limited to:
+(d) *Circumstances where VA will refrain from or discontinue providing assistance.* VA will refrain from providing assistance in obtaining evidence for an initial or supplemental claim if the substantially complete application for benefits indicates that there is no reasonable possibility that any assistance VA would provide to the claimant would substantiate the claim. VA will discontinue providing assistance in obtaining evidence for a claim if the evidence obtained indicates that there is no reasonable possibility that further assistance would substantiate the claim. Circumstances in which VA will refrain from or discontinue providing assistance in obtaining evidence include, but are not limited to:
 
 (1) The claimant's ineligibility for the benefit sought because of lack of qualifying service, lack of veteran status, or other lack of legal eligibility;
 
@@ -96,4 +118,4 @@ Link to an amendment published at 84 FR 169, Jan. 18, 2019.
 
 (g) The authority recognized in subsection (g) of 38 U.S.C. 5103A is reserved to the sole discretion of the Secretary and will be implemented, when deemed appropriate by the Secretary, through the promulgation of regulations.
 
-(Authority: 38 U.S.C. 5103A(g))[66 FR 45630, Aug. 29, 2001, as amended at 73 FR 23356, Apr. 30, 2008]
+(Authority: 38 U.S.C. 5103A(g))[66 FR 45630, Aug. 29, 2001, as amended at 73 FR 23356, Apr. 30, 2008; 84 FR 169, Jan. 18, 2019]

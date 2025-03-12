@@ -1,0 +1,13 @@
+##### § 20.602 Rule 602. When a hearing before the Board of Veterans' Appeals may be requested in a legacy appeal; procedure for requesting a change in method of hearing. #####
+
+(a) *How to request a hearing.* An appellant, or an appellant's representative, may request a hearing before the Board when submitting the substantive appeal (VA Form 9) or anytime thereafter, subject to the restrictions in Rule 1305 (§ 20.1305). Requests for such hearings before a substantive appeal has been filed will be rejected.
+
+(b) *Board's determination of method of hearing.* Following the receipt of a request for a hearing, the Board shall determine, for purposes of scheduling the hearing for the earliest practical date, whether a hearing before the Board will be held at its principal location or at a facility of the Department or other appropriate Federal facility located within the area served by a regional office of the Department. The Board shall also determine whether the hearing will occur by means of an electronic hearing or by the appellant personally appearing before a Board member or panel. An electronic hearing will be in lieu of a hearing held by personally appearing before a Member or panel of Members of the Board and shall be conducted in the same manner as, and considered the equivalent of, such a hearing.
+
+(c) *Notification of method of hearing.* The Board will notify the appellant and his or her representative of the method of a hearing before the Board.
+
+(d) *How to request a change in method of hearing.* Upon notification of the method of the hearing requested pursuant to paragraph (c) of this section, an appellant may make one request for a different method of the requested hearing. If the appellant makes such a request, the Board shall grant the request and notify the appellant of the change in method of the hearing.
+
+(e) *Notification of scheduling of hearing.* The Board will notify the appellant and his or her representative of the scheduled time and location for the requested hearing not less than 30 days prior to the hearing date. This time limitation does not apply to hearings which have been rescheduled due to a postponement requested by an appellant, or on his or her behalf, or due to the prior failure of an appellant to appear at a scheduled hearing before the Board with good cause. The right to notice at least 30 days in advance will be deemed to have been waived if an appellant accepts an earlier hearing date due to the cancellation of another previously scheduled hearing.
+
+(Authority: Sec. 102, Pub. L. 114-315; 130 Stat. 1536)[84 FR 186, Jan. 18, 2019]

@@ -1,7 +1,5 @@
 ##### § 383.73 State procedures. #####
 
-Link to an amendment published at 83 FR 65571, Dec. 21, 2018.
-
 (a) *Commercial Learner's Permit.* (1) Prior to July 8, 2015. When issuing a CLP to a person prior to July 8, 2015, a State must meet the requirements in § 383.71(a)(1):
 
 (2) *On or after July 8, 2015.* Prior to issuing a CLP to a person on or after July 8, 2015, a State must:
@@ -10,7 +8,7 @@ Link to an amendment published at 83 FR 65571, Dec. 21, 2018.
 
 (ii) Initiate and complete a check of the applicant's driving record as described in paragraph (b)(3) of this section.
 
-(iii) Make a CLP valid for no more than 180 days from the date of issuance and provide for renewal of a CLP for no more than an additional 180 days without the CLP holder having to retake the general and endorsement knowledge tests;
+(iii) Make the CLP valid for no more than one year from the date of issuance without requiring the CLP holder to retake the general and endorsement knowledge tests. CLPs issued for a period of less than one year may be renewed provided the CLP is not valid for more than one year from the date of initial issuance.
 
 (iv) Allow only a group-specific passenger (P) and school bus (S) endorsement and tank vehicle (N) endorsement on a CLP, provided the applicant has taken and passed the knowledge test for the specified endorsement. All other Federal endorsements are prohibited on a CLP; and
 
@@ -268,4 +266,4 @@ Link to an amendment published at 83 FR 65571, Dec. 21, 2018.
 
 (p) After February 7, 2020, the State must notify FMCSA that a training provider in the State does not meet applicable State requirements for CMV instruction.
 
-[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017; 83 FR 22876, May 17, 2018; 83 FR 28781, June 21, 2018]
+[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017; 83 FR 22876, May 17, 2018; 83 FR 28781, June 21, 2018; 83 FR 65571, Dec. 21, 2018]

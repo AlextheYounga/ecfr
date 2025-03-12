@@ -1,7 +1,5 @@
 ##### § 3.404 Parents. #####
 
-Link to an amendment published at 84 FR 171, Jan. 18, 2019.
+Awards of additional amounts of compensation and dependency and indemnity compensation based on a parent's need for aid and attendance will be effective the date of receipt of claim or date entitlement arose, whichever is later. However, when an award of dependency and indemnity compensation based on an original or supplemental claim is effective for a period prior to date of receipt of claim, any additional dependency and indemnity compensation payable by reason of need for aid and attendance may also be awarded for any part of the award's retroactive period for which entitlement to aid and attendance is established. When the parent is provided hospital, institutional or domiciliary care at Department of Veterans Affairs expense, the effective date will be the date of departure therefrom.
 
-Awards of additional amounts of compensation and dependency and indemnity compensation based on a parent's need for aid and attendance will be effective the date of receipt of claim or date entitlement arose, whichever is later. However, when an award of dependency and indemnity compensation based on an original or reopened claim is effective for a period prior to date of receipt of claim, any additional dependency and indemnity compensation payable by reason of need for aid and attendance may also be awarded for any part of the award's retroactive period for which entitlement to aid and attendance is established. When the parent is provided hospital, institutional or domiciliary care at Department of Veterans Affairs expense, the effective date will be the date of departure therefrom.
-
-(Authority: 38 U.S.C. 501; 5110(d))[45 FR 34887, May 23, 1980]
+(Authority: 38 U.S.C. 501; 5110(d))[45 FR 34887, May 23, 1980, as amended at 84 FR 171, Jan. 18, 2019]

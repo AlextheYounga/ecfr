@@ -1,0 +1,5 @@
+##### § 19.36 Notification of certification of appeal and transfer of appellate record. #####
+
+When an appeal is certified to the Board of Veterans' Appeals for appellate review and the appellate record is transferred to the Board, the appellant and his or her representative, if any, will be notified in writing of the certification and transfer and of the time limit for requesting a change in representation, for requesting a personal hearing, and for submitting additional evidence described in Rule 1305 (§ 20.1305 of this chapter). Provisions in this section for submitting additional evidence and references to § 20.1305 do not apply in proceedings before the General Counsel conducted under part 14 of this chapter to suspend or cancel accreditation or to review fee agreements and expenses for reasonableness.
+
+(Authority: 38 U.S.C. 5902, 5903; 38 U.S.C. 5904, 7105 (2016))[57 FR 4104, Feb. 3, 1992, as amended at 73 FR 29879, May 22, 2008; 84 FR 178, Jan. 18, 2019]

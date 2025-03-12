@@ -1,7 +1,5 @@
 ##### § 3.1 Definitions. #####
 
-Link to an amendment published at 84 FR 166, Jan. 18, 2019.
-
 (a) *Armed Forces* means the United States Army, Navy, Marine Corps, Air Force, and Coast Guard, including their Reserve components.
 
 (b) *Reserve component* means the Army, Naval, Marine Corps, Air Force, and Coast Guard Reserves and the National and Air National Guard of the United States.
@@ -68,7 +66,15 @@ See § 3.1(y)(2)(iii) for applicability of *in line of duty* in determining form
 
 (o) *Political subdivision of the United States* includes the jurisdiction defined as a State in paragraph (i) of this section, and the counties, cities or municipalities of each.
 
-(p) *Claim* means a written communication requesting a determination of entitlement or evidencing a belief in entitlement, to a specific benefit under the laws administered by the Department of Veterans Affairs submitted on an application form prescribed by the Secretary.
+(p) *Claim* means a written or electronic communication requesting a determination of entitlement or evidencing a belief in entitlement, to a specific benefit under the laws administered by the Department of Veterans Affairs submitted on an application form prescribed by the Secretary. (See scope of claim, § 3.155(d)(2); complete claim, § 3.160(a); issues within a claim, § 3.151(c)).
+
+(1) *Initial claim.* An initial claim is any complete claim, other than a supplemental claim, for a benefit on a form prescribed by the Secretary. The first initial claim for one or more benefits received by VA is further defined as an original claim. (See original claim, § 3.160(b)). Initial claims include:
+
+(i) A new claim requesting service connection for a disability or grant of a new benefit, and
+
+(ii) A claim for increase in a disability evaluation rating or rate of a benefit paid based on a change or worsening in condition or circumstance since the last decision issued by VA for the benefit.
+
+(2) *Supplemental claim.* A supplemental claim is any complete claim for a VA benefit on an application form prescribed by the Secretary where an initial or supplemental claim for the same or similar benefit on the same or similar basis was previously decided. (See supplemental claim; § 3.2501.)
 
 (q) *Notice* means written notice sent to a claimant or payee at his or her latest address of record.
 
@@ -132,4 +138,4 @@ See § 3.1(y)(2)(iii) for applicability of *in line of duty* in determining form
 
 Pension. See § 3.3. Compensation. See § 3.4. Dependency and indemnity compensation. See § 3.5. Preservation of disability ratings. See § 3.951. Service-connection. See § 3.957.
 
-[26 FR 1563, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[26 FR 1563, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

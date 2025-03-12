@@ -1,5 +1,7 @@
 ##### § 54.319 Elimination of high-cost support in areas with 100 percent coverage by an unsubsidized competitor. #####
 
+Link to an amendment published at 84 FR 4732, Feb. 19, 2019.
+
 (a) High-cost universal service support provided pursuant to subparts K and M of this part shall be eliminated in an incumbent rate-of-return local exchange carrier study area where an unsubsidized competitor, or combination of unsubsidized competitors, as defined in § 54.5, offer(s) to 100 percent of the residential and business locations in the study area voice and broadband service at speeds of at least 10 Mbps downstream/1 Mbps upstream, with latency suitable for real-time applications, including Voice over Internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, at rates that are reasonably comparable to rates for comparable offerings in urban areas.
 
 (b) After a determination there is a 100 percent overlap, the incumbent local exchange carrier shall receive the following amount of high-cost support:

@@ -1,12 +1,10 @@
 ##### § 3.814 Monetary allowance under 38 U.S.C. chapter 18 for an individual suffering from spina bifida whose biological father or mother is or was a Vietnam veteran or a veteran with covered service in Korea. #####
 
-Link to an amendment published at 84 FR 171, Jan. 18, 2019.
-
 (a) *Monthly monetary allowance.* VA will pay a monthly monetary allowance under subchapter I of 38 U.S.C. chapter 18, based upon the level of disability determined under the provisions of paragraph (d) of this section, to or for a person who VA has determined is an individual suffering from spina bifida whose biological mother or father is or was a Vietnam veteran or a veteran with covered service in Korea. Receipt of this allowance will not affect the right of the individual or any related person to receive any other benefit to which he or she may be entitled under any law administered by VA. An individual suffering from spina bifida is entitled to only one monthly allowance under this section, even if the individual's biological father and mother are or were both Vietnam veterans or veterans with covered service in Korea.
 
 (b) [Reserved]
 
-(c) *Definitions* - (1) *Vietnam veteran.* For the purposes of this section, the term “Vietnam veteran” means a person who performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, without regard to the characterization of the person's service. *Service in the Republic of Vietnam* includes service in the waters offshore and service in other locations if the conditions of service involved duty or visitation in the Republic of Vietnam.
+(c) *Definitions*—(1) *Vietnam veteran.* For the purposes of this section, the term “Vietnam veteran” means a person who performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, without regard to the characterization of the person's service. *Service in the Republic of Vietnam* includes service in the waters offshore and service in other locations if the conditions of service involved duty or visitation in the Republic of Vietnam.
 
 (2) *Covered service in Korea.* For the purposes of this section, the term “veteran with covered service in Korea” means a person who served in the active military, naval, or air service in or near the Korean DMZ between September 1, 1967, and August 31, 1971, and who is determined by VA, in consultation with the Department of Defense, to have been exposed to an herbicide agent during such service. Exposure to an herbicide agent will be conceded if the veteran served between April 1, 1968, and August 31, 1971, in a unit that, as determined by the Department of Defense, operated in or near the Korean DMZ in an area in which herbicides are known to have been applied during that period, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 84 FR 171, Jan. 18, 2019.
 
 (6) VA will reassess the level of payment whenever it receives medical evidence indicating that a change is warranted. For individuals between the ages of one and twenty-one, however, it must reassess the level of payment at least every five years.
 
-(e) *Effective dates.* Except as otherwise provided, VA will award the monetary allowance for an individual suffering from spina bifida based on an original claim, a claim reopened after final disallowance, or a claim for increase as of the date VA received the claim (or the date of birth if the claim is received within 1 year of that date) or the date entitlement arose, whichever is later.
+(e) *Effective dates.* Except as otherwise provided, VA will award the monetary allowance for an individual suffering from spina bifida based on an initial claim or supplemental claim as of the date VA received the claim (or the date of birth if the claim is received within 1 year of that date) or the date entitlement arose, whichever is later.
 
 (1) VA will increase benefits as of the earliest date the evidence establishes that the level of severity increased, but only if the beneficiary applies for an increase within one year of that date.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 84 FR 171, Jan. 18, 2019.
 
 38 CFR 3.307(a)(6)(iv).
 
-[62 FR 51279, Sept. 30, 1997, as amended at 65 FR 35282, June 2, 2000; 66 FR 13436, Mar. 6, 2001; 67 FR 49587, July 31, 2002; 76 FR 4249, Jan. 25, 2011; 79 FR 2100, Jan. 13, 2014]
+[62 FR 51279, Sept. 30, 1997, as amended at 65 FR 35282, June 2, 2000; 66 FR 13436, Mar. 6, 2001; 67 FR 49587, July 31, 2002; 76 FR 4249, Jan. 25, 2011; 79 FR 2100, Jan. 13, 2014; 84 FR 171, Jan. 18, 2019]

@@ -1,5 +1,7 @@
 ##### § 32.3400 Accumulated amortization - tangible. #####
 
+Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
+
 (a) This account shall include:
 
 (1) the accumulated amortization associated with the investment contained in Account 2681, Capital leases.

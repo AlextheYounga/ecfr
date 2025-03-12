@@ -1,5 +1,7 @@
 ##### § 32.3410 Accumulated amortization - capitalized leases. #####
 
+Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
+
 (a) This account shall include the accumulated amortization associated with the investment contained in Account 2681, Capital Leases.
 
 (b) This account shall be credited with amounts for the amortization of capital leases concurrently charged to Account 6563, Amortization expense - tangible. (Note also Account 3300, Accumulated depreciation - nonoperating.)

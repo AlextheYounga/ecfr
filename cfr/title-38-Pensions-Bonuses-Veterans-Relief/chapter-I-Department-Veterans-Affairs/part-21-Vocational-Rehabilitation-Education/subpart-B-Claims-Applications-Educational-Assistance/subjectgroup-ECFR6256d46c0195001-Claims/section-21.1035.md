@@ -1,3 +1,15 @@
-##### § 21.1035 xxx #####
+##### § 21.1035 Legacy review of benefit claims decisions. #####
 
-Link to an amendment published at 84 FR 194, Jan. 18, 2019.
+(a) A claimant who has filed a Notice of Disagreement with a decision described in § 21.1034(a) that does not meet the criteria of § 21.1034(e) of this chapter has a right to a review under this section. The review will be conducted by the Educational Officer of the Regional Processing Officer, at VA's discretion. An individual who did not participate in the decision being reviewed will conduct this review. Only a decision that has not yet become final (by appellate decision or failure to timely appeal) may be reviewed. Review under this section will encompass only decisions with which the claimant has expressed disagreement in the Notice of Disagreement. The reviewer will consider all evidence of record and applicable law, and will give no deference to the decision being reviewed.
+
+(b) Unless the claimant has requested review under this section with his or her Notice of Disagreement, VA will, upon receipt of the Notice of Disagreement, notify the claimant in writing of his or her right to a review under this section. To obtain such a review, the claimant must request it not later than 60 days after the date VA mails the notice. This 60-day time limit may not be extended. If the claimant fails to request review under this section not later than 60 days after the date VA mails the notice, VA will proceed with the legacy appeal process by issuing a Statement of the Case. A claimant may not have more than one review under this section of the same decision.
+
+(c) The reviewer may conduct whatever development he or she considers necessary to resolve any disagreements in the Notice of Disagreement, consistent with applicable law. This may include an attempt to obtain additional evidence or the holding of an informal conference with the claimant. Upon the request of the claimant, the reviewer will conduct a hearing under the version of § 3.103(c) of this chapter predating Public Law 115-55.
+
+(d) A review decision made under this section will include a summary of the evidence, a citation to pertinent laws, a discussion of how those laws affect the decision, and a summary of the reasons for the decision.
+
+(e) The reviewer may grant a benefit sought in the claim, notwithstanding § 3.105(b) of this chapter. The reviewer may not revise the decision in a manner that is less advantageous to the claimant than the decision under review, except that the reviewer may reverse or revise (even if disadvantageous to the claimant) prior decisions of an agency of original jurisdiction (including the decision being reviewed or any prior decision that has become final due to failure to timely appeal) on the grounds of clear and unmistakable error (see § 3.105(a) of this chapter).
+
+(f) Review under this section does not limit the appeal rights of a claimant. Unless a claimant withdraws his or her Notice of Disagreement as a result of this review process, VA will proceed with the legacy appeal process by issuing a Statement of the Case.
+
+(Authority: 38 U.S.C. 5109A and 7105(d))[84 FR 194, Jan. 18, 2019]

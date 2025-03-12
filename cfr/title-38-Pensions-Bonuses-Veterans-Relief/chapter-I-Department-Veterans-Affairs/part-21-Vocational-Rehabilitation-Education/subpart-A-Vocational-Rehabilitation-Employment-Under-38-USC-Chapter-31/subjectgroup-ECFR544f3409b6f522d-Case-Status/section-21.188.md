@@ -1,7 +1,5 @@
 ##### § 21.188 “Extended evaluation” status. #####
 
-Link to an amendment published at 84 FR 193, Jan. 18, 2019.
-
 (a) *Purpose.* The purposes of *extended evaluation* status are to:
 
 (1) Identify a veteran for whom a period of *extended evaluation* is needed; and
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 193, Jan. 18, 2019.
 
 (Authority: 38 U.S.C. 3106)
 
-(b) *Assignment to extended evaluation* status. A veteran's case may be assigned or reassigned to *extended evaluation* status under provisions of § 21.57, § 21.74, § 21.86, § 21.94, § 21.96, or § 21.98.
+(b) *Assignment to extended evaluation* status. A veteran's case may be assigned or reassigned to *extended evaluation* status under provisions of § 21.57, § 21.74, § 21.86, § 21.94, or § 21.96.
 
 (Authority: 38 U.S.C. 3107)
 
@@ -47,3 +45,5 @@ Link to an amendment published at 84 FR 193, Jan. 18, 2019.
 (Authority: 38 U.S.C. 3106)Cross References:
 
 See §§ 21.57 Extended evaluation, 21.322 Commencing dates, 21.324 Reduction or termination.
+
+[49 FR 40814, Oct. 18, 1984, as amended at 84 FR 193, Jan. 18, 2019]

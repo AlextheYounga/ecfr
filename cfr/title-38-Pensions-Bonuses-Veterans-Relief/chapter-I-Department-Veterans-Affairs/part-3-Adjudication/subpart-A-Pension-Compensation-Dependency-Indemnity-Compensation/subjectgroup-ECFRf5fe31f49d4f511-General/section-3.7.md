@@ -142,4 +142,4 @@ is considered to have been on active duty and therefore to have incurred such di
 
 Office of Workers' Compensation Programs. See § 3.708.
 
-[26 FR 1565, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[26 FR 1565, Feb. 24, 1961]Editorial Note:For Federal Register citations affecting § 3.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

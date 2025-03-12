@@ -1,9 +1,9 @@
-##### § 20.102 Rule 102. Delegation of authority - Rules of Practice. #####
+##### § 20.102 Rule 102. Name, business hours, and mailing address of the Board. #####
 
-Link to an amendment published at 84 FR 177, Jan. 18, 2019.
+(a) *Name.* The name of the Board is the Board of Veterans' Appeals.
 
-(a) The authority exercised by the Chairman of the Board of Veterans' Appeals described in Rules 717(d) and 1001(c) (§§ 20.717(d) and 20.1001(c) of this part) may also be exercised by the Vice Chairman of the Board and by Deputy Vice Chairmen of the Board.
+(b) *Business hours.* The Board is open during business hours on all days except Saturday, Sunday and legal holidays. Business hours are from 8 a.m. to 4:30 p.m.
 
-(b) The authority exercised by the Chairman of the Board of Veterans' Appeals described in Rules 2 and 606(d) (§§ 20.2, and 20.606(d) of this part), may also be exercised by the Vice Chairman of the Board; by Deputy Vice Chairmen of the Board; and, in connection with a proceeding or motion assigned to them by the Chairman, by a Member or Members of the Board.
+(c) *Mailing address.* The mailing address of the Board is: Board of Veterans' Appeals, P.O. Box 27063, Washington, DC 20038. Mail to the Board that is not related to an appeal must be addressed to: Board of Veterans' Appeals, 810 Vermont Avenue NW, Washington, DC 20420.
 
-(Authority: 38 U.S.C. 512(a), 7102, 7104)[57 FR 4109, Feb. 3, 1992; 57 FR 20055, May 11, 1992; 57 FR 38443, Aug. 25, 1992; 61 FR 20449, May 7, 1996; 70 FR 8930, Feb. 24, 2005]
+(Authority: 38 U.S.C. 7101(a))[57 FR 4109, Feb. 3, 1992, as amended at 81 FR 32649, May 24, 2016. Redesignated and amended at 84 FR 177, 180, Jan. 18, 2019]

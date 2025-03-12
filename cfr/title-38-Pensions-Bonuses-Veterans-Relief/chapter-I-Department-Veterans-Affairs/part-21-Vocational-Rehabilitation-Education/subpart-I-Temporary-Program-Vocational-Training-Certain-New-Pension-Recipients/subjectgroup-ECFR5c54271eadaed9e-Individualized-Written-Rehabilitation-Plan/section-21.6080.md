@@ -1,8 +1,6 @@
 ##### § 21.6080 Requirement for an individualized written rehabilitation or employment assistance plan. #####
 
-Link to an amendment published at 84 FR 194, Jan. 18, 2019.
-
-(a) *General.* An Individualized Written Rehabilitation Plan (IWRP) and/or Individualized Employment Assistance Plan (IEAP) will be developed for each program participant for services under 38 U.S.C. 1524. These plans shall be developed in the same manner as for chapter 31 purposes. *See §§ 21.80, 21.84, 21.88, 21.90, 21.92, 21.94 (a) through (d), 21.96 and 21.98.*
+(a) *General.* An Individualized Written Rehabilitation Plan (IWRP) and/or Individualized Employment Assistance Plan (IEAP) will be developed for each program participant for services under 38 U.S.C. 1524. These plans shall be developed in the same manner as for chapter 31 purposes. *See §§ 21.80, 21.84, 21.88, 21.90, 21.92, 21.94 (a) through (d), and 21.96.*
 
 (Authority: 38 U.S.C. 1524(b)(2))
 
@@ -26,6 +24,6 @@ Link to an amendment published at 84 FR 194, Jan. 18, 2019.
 
 (2) If the veteran elects to terminate the planned vocational training program, he or she shall be provided assistance, to the extent provided under § 21.80(d) of this part, in identifying other resources through which the training desired may be secured;
 
-(3) If the veteran disagrees with the decision, the veteran's case shall be considered under the provisions of § 21.98 of this part.
+(3) If the veteran disagrees with the decision, the veteran's case shall be considered under the provisions of § 21.416 of this part.
 
-(Authority: 38 U.S.C. 1524(b)(2))[53 FR 4397, Feb. 16, 1988, as amended at 81 FR 26132, May 2, 2016]
+(Authority: 38 U.S.C. 1524(b)(2))[53 FR 4397, Feb. 16, 1988, as amended at 81 FR 26132, May 2, 2016; 84 FR 194, Jan. 18, 2019]
