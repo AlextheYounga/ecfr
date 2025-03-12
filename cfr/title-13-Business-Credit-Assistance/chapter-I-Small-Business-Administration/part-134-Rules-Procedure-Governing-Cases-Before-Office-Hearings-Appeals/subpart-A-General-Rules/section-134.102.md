@@ -1,7 +1,5 @@
 ##### § 134.102 Jurisdiction of OHA. #####
 
-Link to an amendment published at 85 FR 14784, Mar. 16, 2020.
-
 OHA has authority to conduct proceedings in the following cases:
 
 (a) The revocation or suspension of Small Business Investment Company licenses, cease and desist orders, and the removal or suspension of directors and officers of licensees, under the Investment Act and part 107 of this chapter;
@@ -10,7 +8,7 @@ OHA has authority to conduct proceedings in the following cases:
 
 (c) The revocation of the privilege of a person to conduct business with SBA under the Act and part 103 of this chapter;
 
-(d) [Reserved]
+(d) 7(a) Lender appeals from informal enforcement actions and final agency decisions on 7(a) Lender formal enforcement actions, and any other appeal that is specifically authorized by part 120 of this title, but not including appeals of actions against SBA Supervised Lenders under § 120.1600(b) or (c) or under § 120.465;
 
 (e) The suspension or termination of surety bond program participants under 15 U.S.C. 694a *et seq.* and part 115 of this chapter;
 
@@ -50,4 +48,4 @@ OHA has authority to conduct proceedings in the following cases:
 
 (v) Appeals of denials and cancellations of inclusion in the CVE database.
 
-[61 FR 2683, Jan. 29, 1996, as amended at 66 FR 47074, Sept. 11, 2001; 67 FR 47246, July 18, 2002; 69 FR 25271, May 5, 2004; 69 FR 29208, May 21, 2004; 70 FR 17587, Apr. 7, 2005; 72 FR 39730, July 20, 2007; 73 FR 56954, Oct. 1, 2008; 75 FR 47438, Aug. 6, 2010; 75 FR 62292, Oct. 7, 2010; 82 FR 25506, June 2, 2017; 83 FR 13628, Mar. 30, 2018]
+[61 FR 2683, Jan. 29, 1996, as amended at 66 FR 47074, Sept. 11, 2001; 67 FR 47246, July 18, 2002; 69 FR 25271, May 5, 2004; 69 FR 29208, May 21, 2004; 70 FR 17587, Apr. 7, 2005; 72 FR 39730, July 20, 2007; 73 FR 56954, Oct. 1, 2008; 75 FR 47438, Aug. 6, 2010; 75 FR 62292, Oct. 7, 2010; 82 FR 25506, June 2, 2017; 83 FR 13628, Mar. 30, 2018; 85 FR 14784, Mar. 16, 2020]

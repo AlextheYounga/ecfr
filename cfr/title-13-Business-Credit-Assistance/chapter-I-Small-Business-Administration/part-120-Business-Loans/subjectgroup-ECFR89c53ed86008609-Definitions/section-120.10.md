@@ -1,7 +1,5 @@
 ##### § 120.10 Definitions. #####
 
-Link to an amendment published at 85 FR 14780, Mar. 16, 2020.
-
 The following terms have the same meaning wherever they are used in this part. Defined terms are capitalized wherever they appear.
 
 *Acceptable Risk Rating* is an SBA-assigned Risk Rating, currently defined by SBA as “1”, “2” or “3” on a scale of 1 to 5, which represents an acceptable level of risk as determined by SBA, and which may be revised by SBA from time to time as published in the Federal Register through notice and comment.
@@ -40,19 +38,19 @@ The following terms have the same meaning wherever they are used in this part. D
 
 *Eligible Passive Company* is a small entity or trust which does not engage in regular and continuous business activity, which leases real or personal property to an Operating Company for use in the Operating Company's business, and which complies with the conditions set forth in § 120.111.
 
-*Federal Financial Institution Regulator* is the federal banking regulator of a 7(a) Lender and may include the Federal Deposit Insurance Corporation, the Federal Reserve Board, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, the National Credit Union Administration, and the Farm Credit Administration.
+*Federal Financial Institution Regulator* is the Federal banking regulator of a 7(a) Lender and may include the Federal Deposit Insurance Corporation, the Federal Reserve Board, the Office of the Comptroller of the Currency, the National Credit Union Administration, and the Farm Credit Administration.
 
 *Intermediary* is the entity in the Microloan program that receives SBA financial assistance and makes loans to small businesses in amounts up to $50,000.
 
 *Lender or 7(a) Lender* is an institution that has executed a participation agreement with SBA under the guaranteed loan program.
 
-*Lender Oversight Committee* is a committee within SBA, with responsibilities as outlined in Delegations of Authority, as published in the Federal Register.
+*Lender Oversight Committee (LOC)* is a committee established within SBA by legislation, which meets at least quarterly, and which has the membership and duties set forth in section 48 of the Small Business Act as further outlined in Delegations of Authority published in the Federal Register. The LOC's duties include, but are not limited to, reviewing (in an advisory capacity) any lender oversight, portfolio risk management, or program integrity matters brought by the Director of the Office of Credit Risk Management (D/OCRM), and voting on formal enforcement action recommendations.
 
 *Less Than Acceptable Risk Rating* is an SBA-assigned Risk Rating, currently defined by SBA as “4” or “5” on a scale of 1 to 5, which represents a higher level of risk as determined by SBA, and which may be revised by SBA from time to time as published in the Federal Register through notice and comment.
 
 *Loan Instruments* are the Authorization, note, instruments of hypothecation, and all other agreements and documents related to a loan.
 
-*Loan program requirements* are requirements imposed upon Lenders or CDCs by statute, SBA regulations, any agreement the Lender or CDC has executed with SBA, SBA SOPs, official SBA notices and forms applicable to the 7(a) and 504 loan programs, and loan authorizations, as such requirements are issued and revised by SBA from time to time. For CDCs, this term also includes requirements imposed by Debentures, as that term is defined in § 120.802.
+*Loan Program Requirements* or *SBA Loan Program Requirements* are requirements imposed upon Lenders, CDCs, or Intermediaries by statute; SBA and applicable government-wide regulations; any agreement the Lender, CDC, or Intermediary has executed with SBA; SBA Standard Operating Procedures (SOPs); Federal Register notices; official SBA notices and forms applicable to the 7(a) Loan Program, 504 Loan Program or Microloan Program; and loan authorizations, as such requirements are issued and revised by SBA from time to time. For CDCs, this term also includes requirements imposed by Debentures, as that term is defined in § 120.802. For Intermediaries, this term also includes requirements imposed by promissory notes, collateral documents, and grant agreements.
 
 *Management Official* is an officer, director, general partner, manager, employee participating in management, agent or other participant in the management of the affairs of the SBA Supervised Lender's activities under the 7(a) program.
 
@@ -82,4 +80,4 @@ The following terms have the same meaning wherever they are used in this part. D
 
 *SOPs* are SBA Standard Operating Procedures, as issued and revised by SBA from time to time. SOPs are publicly available on SBA's Web site at *http://www.sba.gov* in the online library.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2117, Jan. 13, 1999; 68 FR 57980, Oct. 7, 2003; 72 FR 18360, Apr. 12, 2007; 73 FR 75510, Dec. 11, 2008; 76 FR 63545, Oct. 12, 2011; 85 FR 7647, Feb. 10, 2020]
+[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2117, Jan. 13, 1999; 68 FR 57980, Oct. 7, 2003; 72 FR 18360, Apr. 12, 2007; 73 FR 75510, Dec. 11, 2008; 76 FR 63545, Oct. 12, 2011; 85 FR 7647, Feb. 10, 2020; 85 FR 14780, Mar. 16, 2020]

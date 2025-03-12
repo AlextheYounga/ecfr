@@ -1,7 +1,5 @@
 ##### § 120.1050 Reviews and examinations. #####
 
-Link to an amendment published at 85 FR 14781, Mar. 16, 2020.
-
 (a) *Reviews.* SBA may conduct reviews of the SBA loan operations of SBA Lenders. The review may include, but is not limited to, an evaluation of the following:
 
 (1) Portfolio performance;
@@ -26,8 +24,8 @@ Link to an amendment published at 85 FR 14781, Mar. 16, 2020.
 
 (6) Compliance with Loan Program Requirements.
 
-(c) *Reviews/examinations of Intermediaries and NTAPs.* SBA may perform reviews or examinations of Intermediaries and NTAPs.
+(c) *Reviews/examinations of Intermediaries.* SBA may perform reviews or examinations of Intermediaries.
 
 (d) *Other reviews or examinations.* SBA may perform other reviews/examinations as needed as determined by SBA in its discretion.
 
-[73 FR 75519, Dec. 11, 2008, as amended at 82 FR 39504, Aug. 21, 2017]
+[73 FR 75519, Dec. 11, 2008, as amended at 82 FR 39504, Aug. 21, 2017, as amended at 85 FR 14781, Mar. 16, 2020]

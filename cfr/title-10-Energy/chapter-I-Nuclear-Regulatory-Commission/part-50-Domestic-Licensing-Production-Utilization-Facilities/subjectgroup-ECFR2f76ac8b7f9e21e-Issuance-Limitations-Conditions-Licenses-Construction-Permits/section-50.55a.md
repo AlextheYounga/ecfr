@@ -1,7 +1,5 @@
 ##### § 50.55a Codes and standards. #####
 
-Link to an amendment published at 85 FR 14756, Mar. 16, 2020.
-
 (a) *Documents approved for incorporation by reference.* The standards listed in this paragraph (a) have been approved for incorporation by reference by the Director of the Federal Register pursuant to 5 U.S.C. 552(a) and 1 CFR part 51. The standards are available for inspection, by appointment, at the NRC Technical Library, which is located at Two White Flint North, 11545 Rockville Pike, Rockville, Maryland 20852; telephone: 301-415-7000; email: *Library.Resource@nrc.gov;* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (1) *American Society of Mechanical Engineers* (*ASME),* Three Park Avenue, New York, NY 10016; telephone:
@@ -342,12 +340,10 @@ Link to an amendment published at 85 FR 14756, Mar. 16, 2020.
 (C) *ASME BPV Code Case N-729-4.* ASME BPV Code Case N-729-4, “Alternative Examination Requirements for PWR Reactor Vessel Upper Heads With Nozzles Having Pressure-Retaining Partial-Penetration Welds Section XI, Division 1” (Approval Date: June 22, 2012), with the conditions in paragraph (g)(6)(ii)(D) of this section.
 
 (D) *ASME BPV Code Case N-770-2.* ASME BPV Code Case N-770-2, “Alternative Examination Requirements and Acceptance Standards for Class 1 PWR Piping and Vessel Nozzle Butt Welds Fabricated with UNS N06082 or UNS W86182 Weld Filler Material With or Without Application of Listed Mitigation Activities Section XI, Division 1” (Approval Date: June 9, 2011), with the conditions in paragraph (g)(6)(ii)(F) of this section.
-
-(E) *ASME BPV Code Case N-824.* ASME BPV Code Case N-824, “Ultrasonic Examination of Cast Austenitic Piping Welds From the Outside Surface Section XI, Division 1” (Approval Date: October 16, 2012), with the conditions in paragraphs (b)(2)(xxxvii)(A) through (D) of this section.
+[Reserved]
 
 (F) *ASME BPV Code Case N-852.* ASME BPV Code Case N-852, “Application of the ASME NPT Stamp, Section III, Division 1; Section III, Division 2; Section III, Division 3; Section III, Division 5” (Approval Date: February 9, 2015). ASME BPV Code Case N-852 is referenced in paragraph (b)(1)(ix) of this section.
-
-(G) *ASME OM Code Case OMN-20.* ASME OM Code Case OMN-20, “Inservice Test Frequency,” in the 2012 Edition of the ASME OM Code. OMN-20 is referenced in paragraph (b)(3)(x) of this section.
+[Reserved]
 
 (iv) *ASME Operation and Maintenance Code.* The editions and addenda for the ASME Operation and Maintenance of Nuclear Power Plants (various edition titles referred to herein as ASME OM Code) are listed in this paragraph (a)(1)(iv), but limited by those provisions identified in paragraph (b)(3) of this section.
 
@@ -433,13 +429,13 @@ Link to an amendment published at 85 FR 14756, Mar. 16, 2020.
 
 (iv) *IEEE standard 603-1991, correction sheet.* (IEEE Std 603-1991 correction sheet), “Standard Criteria for Safety Systems for Nuclear Power Generating Stations, Correction Sheet, Issued January 30, 1995,” referenced in paragraphs (h)(2) and (h)(3) of this section. (This correction sheet is available from IEEE at *http://standards.ieee.org/findstds/errata/*).
 
-(3) *U.S. Nuclear Regulatory Commission (NRC) Public Document Room,* 11555 Rockville Pike, Rockville, Maryland 20852; telephone: 1-800-397-4209; email: *pdr.resource@nrc.gov;**http://www.nrc.gov/reading-rm/doc-collections/reg-guides/.*
+(3) *U.S. Nuclear Regulatory Commission (NRC) Public Document Room,* 11555 Rockville Pike, Rockville, Maryland 20852; telephone: 1-800-397-4209; email: *pdr.resource@nrc.gov;* https://www.nrc.gov/reading-rm/doc-collections/reg-guides/. The use of Code Cases listed in the NRC regulatory guides in paragraphs (a)(1)(i) through (iii) of this section is acceptable with the specified conditions in those guides when implementing the editions and addenda of the ASME BPV Code and ASME OM Code incorporated by reference in paragraph (a)(1) of this section.
 
-(i) *NRC Regulatory Guide 1.84, Revision 37.* NRC Regulatory Guide 1.84, Revision 37, “Design, Fabrication, and Materials Code Case Acceptability, ASME Section III,” dated March 2017, with the requirements in paragraph (b)(4) of this section.
+(i) *NRC Regulatory Guide 1.84, Revision 38.* NRC Regulatory Guide 1.84, Revision 38, “Design, Fabrication, and Materials Code Case Acceptability, ASME Section III,” dated March 2017, with the requirements in paragraph (b)(4) of this section.
 
-(ii) *NRC Regulatory Guide 1.147, Revision 18.* NRC Regulatory Guide 1.147, Revision 18, “Inservice Inspection Code Case Acceptability, ASME Section XI, Division 1,” dated March 2017, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(5) of this section.
+(ii) *NRC Regulatory Guide 1.147, Revision 19.* NRC Regulatory Guide 1.147, Revision 19, “Inservice Inspection Code Case Acceptability, ASME Section XI, Division 1,” dated March 2017, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(5) of this section.
 
-(iii) *NRC Regulatory Guide 1.192, Revision 2.* NRC Regulatory Guide 1.192, Revision 2, “Operation and Maintenance Code Case Acceptability, ASME OM Code,” dated March 2017, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(6) of this section.
+(iii) *NRC Regulatory Guide 1.192, Revision 3.* NRC Regulatory Guide 1.192, Revision 3, “Operation and Maintenance Code Case Acceptability, ASME OM Code,” dated March 2017, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(6) of this section.
 
 (b) *Use and conditions on the use of standards.* Systems and components of boiling and pressurized water-cooled nuclear power reactors must meet the requirements of the ASME BPV Code and the ASME OM Code as specified in this paragraph (b). Each combined license for a utilization facility is subject to the following conditions.
 
@@ -754,16 +750,6 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 
 (xxxvi) *Section XI condition: Fracture toughness of irradiated materials.* When using the 2013 Edition of the ASME BPV Code, Section XI, Appendix A paragraph A-4400, the licensee shall obtain NRC approval under paragraph (z) of this section before using irradiated T0 and the associated RTT0 in establishing fracture toughness of irradiated materials.
 
-(xxxvii) *Section XI condition: ASME BPV Code Case N-824.* Licensees may use the provisions of ASME BPV Code Case N-824, “Ultrasonic Examination of Cast Austenitic Piping Welds From the Outside Surface Section XI, Division 1,” subject to the following conditions.
-
-(A) Ultrasonic examinations must be spatially encoded.
-
-(B) Instead of Paragraph 1(c)(1)(-a), licensees shall use dual, transmit-receive, refracted longitudinal wave, multi-element phased array search units.
-
-(C) Instead of Paragraph 1(c)(1)(-c)(-2), licensees shall use a phased array search unit with a center frequency of 500 kHz with a tolerance of ± 20 percent.
-
-(D) Instead of Paragraph 1(c)(1)(-d), the phased array search unit must produce angles including, but not limited to, 30 to 55 degrees with a maximum increment of 5 degrees.
-
 (3) *Conditions on ASME OM Code.* As used in this section, references to the ASME OM Code are to the ASME OM Code, Subsections ISTA, ISTB, ISTC, ISTD, ISTE, and ISTF; Mandatory Appendices I, II, III, and V; and Nonmandatory Appendices A through H and J through M, in the 1995 Edition through the 2012 Edition, as specified in paragraph (a)(1)(iv) of this section. Mandatory appendices must be used if required by the OM Code; nonmandatory appendices are approved for use by the NRC but need not be used. The following conditions are applicable when implementing the ASME OM Code:
 
 (i) *OM condition: Quality assurance.* When applying editions and addenda of the ASME OM Code, the requirements of ASME Standard NQA-1, “Quality Assurance Requirements for Nuclear Facility Applications,” 1994 Edition, 2008 Edition, and 2009-1a Addenda, are acceptable as permitted by either ISTA 1.4 of the 1995 Edition through 1997 Addenda or ISTA-1500 of the 1998 Edition through the latest edition and addenda of the ASME OM Code incorporated by reference in paragraph (a)(1)(iv) of this section, provided the licensee uses its appendix B to this part quality assurance program in conjunction with the ASME OM Code requirements and the commitments contained in the licensee's quality assurance program description. Where NQA-1 and the ASME OM Code do not address the commitments contained in the licensee's appendix B quality assurance program description, the commitments must be applied to ASME OM Code activities.
@@ -821,7 +807,7 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 (ix) *OM condition: Subsection ISTF.* Licensees applying Subsection ISTF, 2012 Edition, shall satisfy the requirements of Mandatory Appendix V, “Pump Periodic Verification Test Program,” of the ASME OM Code, 2012 Edition. Subsection ISTF, 2011 Addenda, is prohibited for use.
 
-(x) *OM condition: ASME OM Code Case OMN-20.* Licensees may implement ASME OM Code Case OMN-20, “Inservice Test Frequency,” which is incorporated by reference in paragraph (a)(1)(iii)(G) of this section, for editions and addenda of the ASME OM Code listed in paragraph (a)(1)(iv) of this section.
+(x) [Reserved]
 
 (xi) *OM condition: Valve Position Indication.* When implementing ASME OM Code, 2012 Edition, Subsection ISTC-3700, “Position Verification Testing,” licensees shall verify that valve operation is accurately indicated by supplementing valve position indicating lights with other indications, such as flow meters or other suitable instrumentation, to provide assurance of proper obturator position.
 
