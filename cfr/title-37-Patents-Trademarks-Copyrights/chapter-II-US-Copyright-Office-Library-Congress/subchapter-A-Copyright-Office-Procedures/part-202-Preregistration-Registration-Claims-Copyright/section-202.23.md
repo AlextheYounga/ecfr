@@ -1,5 +1,7 @@
 ##### § 202.23 Full term retention of copyright deposits. #####
 
+Link to an amendment published at 87 FR 59309, Sept. 30, 2022.
+
 (a) *General.* (1) This section prescribes conditions under which a request for full term retention, under the control of the Copyright Office, of copyright deposits (copies, phonorecords, or identifying material) of published works may be made and granted or denied pursuant to section 704(e) of title 17 of the United States Code. Only copies, phonorecords, or identifying material deposited in connection with registration of a claim to copyright under title 17 of the United States Code are within the provisions of this section. Only the depositor or the copyright owner of record of the work identified by the copyright deposit, or a duly authorized agent of the depositor or copyright owner, may request full term retention. A fee for this service is fixed by this section pursuant to section 708(a) of title 17 of the United States Code.
 
 (2) For purposes of this section, *under the control of the Copyright Office* shall mean within the confines of Copyright Office buildings and under the control of Copyright Office employees, including retention in a Federal records center, but does not include transfer to the Library of Congress collections.

@@ -1,5 +1,7 @@
 ##### § 202.12 Restored copyrights. #####
 
+Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
+
 (a) *General.* This section prescribes rules pertaining to the registration of foreign copyright claims which have been restored to copyright protection under section 104A of 17 U.S.C., as amended by the Uruguay Round Agreements Act, Public Law 103-465.
 
 (b) *Definitions.* (1) For the purposes of this section, *restored work* and *source country*, have the definition given in 17 U.S.C. 104(A)(g)(6) and (8) and § 201.33(b) of this chapter.

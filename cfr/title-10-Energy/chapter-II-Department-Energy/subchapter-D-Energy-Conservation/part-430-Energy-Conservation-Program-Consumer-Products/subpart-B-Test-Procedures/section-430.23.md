@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 87 FR 53641, Aug. 31, 2022.Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
+Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -382,17 +382,7 @@ ETGE = EAGE + ETLPWhere:EAGE is the conventional gas cooking top annual active m
 
 (2) Calculate power factor using appendix Q to this subpart.
 
-(r) *General service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps.* (1) The estimated annual energy consumption for general service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps, expressed in kilowatt-hours per year, shall be the product of the input power in kilowatts as determined in accordance with section 4 of appendix R to this subpart and an average annual use specified by the manufacturer, with the resulting product rounded off to the nearest kilowatt-hour per year. Manufacturers must provide a clear and accurate description of the assumptions used for the estimated annual energy consumption.
-
-(2) The lamp efficacy for general service fluorescent lamps shall be equal to the average lumen output divided by the average lamp wattage as determined in section 4 of appendix R of this subpart, with the resulting quotient rounded off to the nearest tenth of a lumen per watt.
-
-(3) The lamp efficacy for general service incandescent lamps shall be equal to the average lumen output divided by the average lamp wattage as determined in section 4 of appendix R of this subpart, with the resulting quotient rounded off to the nearest tenth of a lumen per watt.
-
-(4) The lamp efficacy for incandescent reflector lamps shall be equal to the average lumen output divided by the average lamp wattage as determined in section 4 of appendix R of this subpart, with the resulting quotient rounded off to the nearest tenth of a lumen per watt.
-
-(5) The color rendering index of a general service fluorescent lamp shall be tested and determined in accordance with section 4.4 of appendix R of this subpart and rounded off to the nearest unit.
-
-(6) The rated lifetime for general service incandescent lamps shall be measured in accordance with test procedures described in section 4.2 of Appendix R of this chapter. A lamp shall be compliant with standards if greater than 50 percent of the sample size specified in § 429.27 meets the minimum rated lifetime as specified by energy conservations standards for general service incandescent lamps.
+(r) *General service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps.* Measure initial lumen output, initial input power, initial lamp efficacy, color rendering index (CRI), correlated color temperature (CCT), and time to failure of GSFLs, IRLs, and GSILs, as applicable, in accordance with appendix R to this subpart.
 
 (s) *Faucets.* The maximum permissible water use allowed for lavatory faucets, lavatory replacement aerators, kitchen faucets, and kitchen replacement aerators, expressed in gallons and liters per minute (gpm and L/min), shall be measured in accordance to section 2(a) of appendix S of this subpart. The maximum permissible water use allowed for metering faucets, expressed in gallons and liters per cycle (gal/cycle and L/cycle), shall be measured in accordance to section 2(a) of appendix S of this subpart.
 

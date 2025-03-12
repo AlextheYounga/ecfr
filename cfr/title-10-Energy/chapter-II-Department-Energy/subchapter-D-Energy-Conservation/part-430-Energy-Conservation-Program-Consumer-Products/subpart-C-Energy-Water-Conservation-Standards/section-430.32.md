@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 87 FR 53643, Aug. 31, 2022.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -504,80 +502,64 @@ av = Total adjusted volume, expressed in Liters.
 
 (4) For the purposes of this paragraph (m), the definitions found in appendix Q of subpart B of this part apply.
 
-(n) *General service fluorescent lamps and incandescent reflector lamps.* (1) Except as provided in paragraphs (n)(2), (n)(3), and (n)(4) of this section, each of the following general service fluorescent lamps manufactured after the effective dates specified in the table shall meet or exceed the following lamp efficacy and CRI standards:
+(n) *General service fluorescent lamps and incandescent reflector lamps.* (1) Each of the following general service fluorescent lamps manufactured after the effective dates specified in the table must meet or exceed the following color rendering index standards:
 
-|     Lamp type     |Nominal  <br/>lamp  <br/>wattage|Minimum  <br/>CRI|Minimum  <br/>average lamp  <br/>efficacy  <br/>lm/W|         Effective date          |
-|-------------------|--------------------------------|-----------------|----------------------------------------------------|---------------------------------|
-|4-foot medium bipin|       \>35 W  <br/>≤35 W       |   69  <br/>45   |                  75.0  <br/>75.0                   |Nov. 1, 1995.  <br/>Nov. 1, 1995.|
-|  2-foot U-shaped  |      \>35 W  <br/>≤ 35 W       |   69  <br/>45   |                  68.0  <br/>64.0                   |Nov. 1, 1995.  <br/>Nov. 1, 1995.|
-|  8-foot slimline  |       \>65 W  <br/>≤65 W       |   69  <br/>45   |                  80.0  <br/>80.0                   | May 1, 1994.  <br/>May 1, 1994. |
-|8-foot high output |      \>100 W  <br/>≤100 W      |   69  <br/>45   |                  80.0  <br/>80.0                   | May 1, 1994.  <br/>May 1, 1994. |
+|       Lamp type       |Nominal lamp watts \*|Minimum color rendering index|         Effective date          |
+|-----------------------|---------------------|-----------------------------|---------------------------------|
+|(i) 4-foot medium bipin| \>35 W  <br/>≤35 W  |         69  <br/>45         |Nov. 1, 1995.  <br/>Nov. 1, 1995.|
+| (ii) 2-foot U-shaped  | \>35 W  <br/>≤35 W  |         69  <br/>45         |Nov. 1, 1995.  <br/>Nov. 1, 1995.|
+| (iii) 8-foot slimline | \>65 W  <br/>≤65 W  |         69  <br/>45         | May 1, 1994.  <br/>May 1, 1994. |
+|(iv) 8-foot high output|\>100 W  <br/>≤100 W |         69  <br/>45         | May 1, 1994.  <br/>May 1, 1994. |
+
+\* Nominal lamp watts means the wattage at which a fluorescent lamp is designed to operate. 42 U.S.C. 6291(29)(H)
 
 (2) The standards described in paragraph (n)(1) of this section do not apply to:
 
 (i) Any 4-foot medium bipin lamp or 2-foot U-shaped lamp with a rated wattage less than 28 watts;
 
-(ii) Any 8-foot high output lamp not defined in ANSI C78.81 (incorporated by reference; see § 430.3) or related supplements, or not 0.800 nominal amperes; or
+(ii) Any 8-foot high output lamp not defined in ANSI C78.81-2010 (incorporated by reference; see § 430.3) or related supplements, or not 0.800 nominal amperes; or
 
 (iii) Any 8-foot slimline lamp not defined in ANSI C78.3 (incorporated by reference; see § 430.3).
 
-(3) Except as provided in paragraph (n)(4) of this section, each of the following general service fluorescent lamps manufactured after July 14, 2012, shall meet or exceed the following lamp efficacy standards shown in the table:
+(3) Each of the following general service fluorescent lamps manufactured on or after January 26, 2018, must meet or exceed the following lamp efficacy standards shown in the table:
 
-|              Lamp type               |Correlated color  <br/>temperature|Minimum  <br/>average lamp  <br/>efficacy  <br/>lm/W|
-|--------------------------------------|----------------------------------|----------------------------------------------------|
-|         4-foot medium bipin          |≤4,500K  <br/>\>4,500K and ≤7,000K|                    89  <br/>88                     |
-|           2-foot U-shaped            |≤4,500K  <br/>\>4,500K and ≤7,000K|                    84  <br/>81                     |
-|           8-foot slimline            |≤4,500K  <br/>\>4,500K and ≤7,000K|                    97  <br/>93                     |
-|          8-foot high output          |≤4,500K  <br/>\>4,500K and ≤7,000K|                    92  <br/>88                     |
-|4-foot miniature bipin standard output|≤4,500K  <br/>\>4,500K and ≤7,000K|                    86  <br/>81                     |
-|  4-foot miniature bipin high output  |≤4,500K  <br/>\>4,500K and ≤7,000K|                    76  <br/>72                     |
+|                                                                                     Lamp type                                                                                     |Correlated color  <br/>temperature|Minimum  <br/>average lamp  <br/>efficacy  <br/>lm/W|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------------------------|
+|                 (i) 4-foot medium bipin lamps (straight-shaped lamp with medium bipin base, nominal overall length of 48 inches, and rated wattage of 25 or more)                 |≤4,500K  <br/>\>4,500K and ≤7,000K|                  92.4  <br/>88.7                   |
+|                (ii) 2-foot U-shaped lamps (U-shaped lamp with medium bipin base, nominal overall length between 22 and 25 inches, and rated wattage of 25 or more)                |≤4,500K  <br/>\>4,500K and ≤7,000K|                  85.0  <br/>83.3                   |
+|                    (iii) 8-foot slimline lamps (instant start lamp with single pin base, nominal overall length of 96 inches, and rated wattage of 49 or more)                    |≤4,500K  <br/>\>4,500K and ≤7,000K|                  97.0  <br/>93.0                   |
+|                              (iv) 8-foot high output lamps (rapid start lamp with recessed double contact base, nominal overall length of 96 inches)                              |≤4,500K  <br/>\>4,500K and ≤7,000K|                  92.0  <br/>88.0                   |
+|(v) 4-foot miniature bipin standard output lamps (straight-shaped lamp with miniature bipin base, nominal overall length between 45 and 48 inches, and rated wattage of 25 or more)|≤4,500K  <br/>\>4,500K and ≤7,000K|                  95.0  <br/>89.3                   |
+| (vi) 4-foot miniature bipin high output lamps (straight-shaped lamp with miniature bipin base, nominal overall length between 45 and 48 inches, and rated wattage of 44 or more)  |≤4,500K  <br/>\>4,500K and ≤7,000K|                  82.7  <br/>76.9                   |
 
-(4) Each of the following general service fluorescent lamps manufactured on or after January 26, 2018, shall meet or exceed the following lamp efficacy standards shown in the table:
+Note 1 to paragraph (n)(3):
 
-|              Lamp type               |Correlated color  <br/>temperature|Minimum  <br/>average lamp  <br/>efficacy  <br/>lm/W|
-|--------------------------------------|----------------------------------|----------------------------------------------------|
-|         4-foot medium bipin          |≤4,500K  <br/>\>4,500K and ≤7,000K|                  92.4  <br/>88.7                   |
-|           2-foot U-shaped            |≤4,500K  <br/>\>4,500K and ≤7,000K|                  85.0  <br/>83.3                   |
-|           8-foot slimline            |≤4,500K  <br/>\>4,500K and ≤7,000K|                  97.0  <br/>93.0                   |
-|          8-foot high output          |≤4,500K  <br/>\>4,500K and ≤7,000K|                  92.0  <br/>88.0                   |
-|4-foot miniature bipin standard output|≤4,500K  <br/>\>4,500K and ≤7,000K|                  95.0  <br/>89.3                   |
-|  4-foot miniature bipin high output  |≤4,500K  <br/>\>4,500K and ≤7,000K|                  82.7  <br/>76.9                   |
+For paragraphs (n)(3)(i) through (vi), rated wattage is defined with respect to fluorescent lamps and general service fluorescent lamps in § 430.2.
 
-(5) Subject to the sales prohibition in paragraph (dd) of this section, and except as provided in paragraph (n)(6) of this section, each of the following incandescent reflector lamps manufactured after November 1, 1995, shall meet or exceed the lamp efficacy standards shown in the table:
+(4) Subject to the sales prohibition in paragraph (dd) of this section, each of the following incandescent reflector lamps manufactured after July 14, 2012, must meet or exceed the lamp efficacy standards shown in the table:
 
-|Nominal lamp wattage|Minimum  <br/>average lamp  <br/>efficacy  <br/>lm/W|
-|--------------------|----------------------------------------------------|
-|       40-50        |                        10.5                        |
-|       51-66        |                        11.0                        |
-|       67-85        |                        12.5                        |
-|       86-115       |                        14.0                        |
-|      116-155       |                        14.5                        |
-|      156-205       |                        15.0                        |
+|Rated wattage|  Lamp spectrum  |Lamp diameter inches|Rated voltage of lamp|Minimum  <br/>average lamp  <br/>efficacy  <br/>lm/W|
+|-------------|-----------------|--------------------|---------------------|----------------------------------------------------|
+| (i) 40-205  |Standard Spectrum|       \>2.5        |≥125 V  <br/>\<125 V | 6.8\*P<sup>0.27</sup>  <br/>5.9\*P<sup>0.27</sup>  |
+|             |                 |        ≤2.5        |≥125 V  <br/>\<125 V | 5.7\*P<sup>0.27</sup>  <br/>5.0\*P<sup>0.27</sup>  |
+| (ii) 40-205 |Modified Spectrum|       \>2.5        |≥125 V  <br/>\<125 V | 5.8\*P<sup>0.27</sup>  <br/>5.0\*P<sup>0.27</sup>  |
+|             |                 |        ≤2.5        |≥125 V  <br/>\<125 V | 4.9\*P<sup>0.27</sup>  <br/>4.2\*P<sup>0.27</sup>  |
 
-(6) Subject to the sales prohibition in paragraph (dd) of this section, each of the following incandescent reflector lamps manufactured after July 14, 2012, shall meet or exceed the lamp efficacy standards shown in the table:
+Note 2 to paragraph (n)(4):
 
-|Rated lamp wattage|  Lamp spectrum  |Lamp diameter  <br/>inches|   Rated voltage    |Minimum  <br/>average lamp  <br/>efficacy  <br/>lm/W|
-|------------------|-----------------|--------------------------|--------------------|----------------------------------------------------|
-|      40-205      |Standard Spectrum|          \>2.5           |≥125 V  <br/>\<125 V| 6.8\*P<sup>0.27</sup>  <br/>5.9\*P<sup>0.27</sup>  |
-|                  |                 |           ≤2.5           |≥125 V  <br/>\<125 V| 5.7\*P<sup>0.27</sup>  <br/>5.0\*P<sup>0.27</sup>  |
-|      40-205      |Modified Spectrum|          \>2.5           |≥125 V  <br/>\<125 V| 5.8\*P<sup>0.27</sup>  <br/>5.0\*P<sup>0.27</sup>  |
-|                  |                 |           ≤2.5           |≥125 V  <br/>\<125 V| 4.9\*P<sup>0.27</sup>  <br/>4.2\*P<sup>0.27</sup>  |
+P is equal to the rated wattage, in watts. Rated wattage is defined with respect to incandescent reflector lamps in § 430.2.
 
-Note 1: P is equal to the rated lamp wattage, in watts.
+Note 3 to paragraph (n)(4):
 
-Note 2: Standard Spectrum means any incandescent reflector lamp that does not meet the definition of modified spectrum in 430.2.
+Standard Spectrum means any incandescent reflector lamp that does not meet the definition of modified spectrum in § 430.2.
 
-(7)(i)(A) Subject to the exclusions in paragraph (n)(7)(ii) of this section, the standards specified in this section shall apply to ER incandescent reflector lamps, BR incandescent reflector lamps, BPAR incandescent reflector lamps, and similar bulb shapes on and after January 1, 2008.
+(5) The standards specified in this section do not apply to the following types of incandescent reflector lamps:
 
-(B) Subject to the exclusions in paragraph (n)(7)(ii) of this section, the standards specified in this section shall apply to incandescent reflector lamps with a diameter of more than 2.25 inches, but not more than 2.75 inches, on and after June 15, 2008.
+(i) Lamps rated at 50 watts or less that are ER30, BR30, BR40, or ER40 lamps;
 
-(ii) The standards specified in this section shall not apply to the following types of incandescent reflector lamps:
+(ii) Lamps rated at 65 watts that are BR30, BR40, or ER40 lamps; or
 
-(A) Lamps rated at 50 watts or less that are ER30, BR30, BR40, or ER40 lamps;
-
-(B) Lamps rated at 65 watts that are BR30, BR40, or ER40 lamps; or
-
-(C) R20 incandescent reflector lamps rated 45 watts or less.
+(iii) R20 incandescent reflector lamps rated 45 watts or less.
 
 (o) *Faucets.* The maximum water use allowed for any of the following faucets manufactured after January 1, 1994, when measured at a flowing water pressure of 60 pounds per square inch (414 kilopascals), shall be as follows:
 
@@ -837,7 +819,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (7) A direct operation, AC-DC external power supply with nameplate output voltage less than 3 volts and nameplate output current greater than or equal to 1,000 milliamps that charges the battery of a product that is fully or primarily motor operated shall not be subject to the standards in paragraph (w)(1)(ii) of this section.
 
-(x) *General service incandescent lamps, intermediate base incandescent lamps and candelabra base incandescent lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, the energy conservation standards in this paragraph apply to general service incandescent lamps:
+(x) *General service incandescent lamps, intermediate base incandescent lamps and candelabra base incandescent lamps.* (1) Subject to the sales prohibition in paragraph (dd) of this section, the energy conservation standards in this paragraph apply to general service incandescent lamps.
 
 (i) Intended for a general service or general illumination application (whether incandescent or not);
 
@@ -845,31 +827,39 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (iii) Is capable of being operated at a voltage at least partially within the range of 110 to 130 volts.
 
-(A) General service incandescent lamps manufactured after the effective dates specified in the tables below, except as described in paragraph (x)(1)(B) of this section, shall have a color rendering index greater than or equal to 80 and shall have rated wattage no greater than and rated lifetime no less than the values shown in the table below:
+(2) Subject to the sales prohibition in paragraph (dd) of this section, general service incandescent lamps manufactured after the effective dates specified in the tables below, except as described in paragraph (x)(3) of this section, must have a color rendering index greater than or equal to 80, a rated wattage no greater than, and a lifetime no less than the values shown in the table below:
 
 General Service Incandescent Lamps
 
-|Rated lumen ranges|Maximum rate wattage|Minimum rate life-time|Effective date|
-|------------------|--------------------|----------------------|--------------|
-|    1490-2600     |         72         |      1,000 hrs       |   1/1/2012   |
-|    1050-1489     |         53         |      1,000 hrs       |   1/1/2013   |
-|     750-1049     |         43         |      1,000 hrs       |   1/1/2014   |
-|     310-749      |         29         |      1,000 hrs       |   1/1/2014   |
+|Lumen ranges \*|Maximum  <br/>rated  <br/>wattage|Minimum  <br/>lifetime \*\*  <br/>(hrs)|Effective  <br/>date|
+|---------------|---------------------------------|---------------------------------------|--------------------|
+| (i) 1490-2600 |               72                |                 1,000                 |      1/1/2012      |
+|(ii) 1050-1489 |               53                |                 1,000                 |      1/1/2013      |
+|(iii) 750-1049 |               43                |                 1,000                 |      1/1/2014      |
+| (iv) 310-749  |               29                |                 1,000                 |      1/1/2014      |
 
-(B) Modified spectrum general service incandescent lamps manufactured after the effective dates specified shall have a color rendering index greater than or equal to 75 and shall have a rated wattage no greater than and rated lifetime no less than the values shown in the table below:
+\* Use measured initial lumen output to determine the applicable lumen range.
+
+\*\* Use lifetime determined in accordance with 10 CFR 429.27 to determine compliance with this standard.
+
+(3) Subject to the sales prohibition in paragraph (dd) of this section, modified spectrum general service incandescent lamps manufactured after the effective dates specified must have a color rendering index greater than or equal to 75, a rated wattage no greater than, and a lifetime no less than, the values shown in the table below:
 
 Modified Spectrum General Service Incandescent Lamps
 
-|Rated lumen ranges|Maximum rate wattage|Minimum rate life-time|Effective date|
-|------------------|--------------------|----------------------|--------------|
-|    1118-1950     |         72         |      1,000 hrs       |   1/1/2012   |
-|     788-1117     |         53         |      1,000 hrs       |   1/1/2013   |
-|     563-787      |         43         |      1,000 hrs       |   1/1/2014   |
-|     232-562      |         29         |      1,000 hrs       |   1/1/2014   |
+|Lumen ranges \*|Maximum  <br/>rated  <br/>wattage|Minimum  <br/>lifetime \*\*  <br/>(hrs)|Effective  <br/>date|
+|---------------|---------------------------------|---------------------------------------|--------------------|
+| (i) 1118-1950 |               72                |                 1,000                 |      1/1/2012      |
+| (ii) 788-1117 |               53                |                 1,000                 |      1/1/2013      |
+| (iii) 563-787 |               43                |                 1,000                 |      1/1/2014      |
+| (iv) 232-562  |               29                |                 1,000                 |      1/1/2014      |
 
-(2) Subject to the sales prohibition in paragraph (dd) of this section, each candelabra base incandescent lamp shall not exceed 60 rated watts.
+\* Use measured initial lumen output to determine the applicable lumen range.
 
-(3) Subject to the sales prohibition in paragraph (dd) of this section, each intermediate base incandescent lamp shall not exceed 40 rated watts.
+\*\* Use lifetime determined in accordance with 10 CFR 429.27 to determine compliance with this standard.
+
+(4) Subject to the sales prohibition in paragraph (dd) of this section, each candelabra base incandescent lamp must not exceed 60 rated watts.
+
+(5) Subject to the sales prohibition in paragraph (dd) of this section, each intermediate base incandescent lamp must not exceed 40 rated watts.
 
 (y) *Residential furnace fans.* Residential furnace fans incorporated in the products listed in Table 1 of this paragraph and manufactured on and after July 3, 2019, shall have a fan energy rating (FER) value that meets or is less than the following values:
 

@@ -150,15 +150,7 @@ Note to paragraph (e):
 
 (o) *Cambodia.* It is the policy of the United States to deny licenses or other approvals for exports and imports of defense articles and defense services destined for or originating in Cambodia, except that a license or other approval may be issued, on a case-by-case basis, for defense articles and defense services in furtherance of conventional weapons destruction or humanitarian mine action activities.
 
-(p)-(q) [Reserved]
-
-(r) *Cyprus.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Cyprus, except that a license or other approval may be issued, on a case-by-case basis, for the United Nations Forces in Cyprus (UNFICYP) or for civilian end-users. This policy of denial does not apply to exports, reexports, retransfers, and temporary imports of non-lethal defense articles and defense services destined for or originating in Cyprus if:
-
-(1) The request is made by or on behalf of the Government of the Republic of Cyprus;
-
-(2) The end-user of such defense articles or defense services is the Government of the Republic of Cyprus; and
-
-(3) There are no credible human rights concerns.
+(p)-(r) [Reserved]
 
 (s) *Zimbabwe.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Zimbabwe, except that a license or other approval may be issued, on a case-by-case basis, for the temporary export of firearms and ammunition for personal use by individuals (not for resale or retransfer, including to the Government of Zimbabwe).
 
@@ -208,4 +200,4 @@ Note to paragraph (e):
 
 (6) Any defense articles and defense services provided in support of implementation of the Comprehensive Peace Agreement, the Agreement on the Resolution of the Conflict in the Republic of South Sudan, or any successor agreement.
 
-[58 FR 39312, July 22, 1993]Editorial Note:For Federal Register citations affecting § 126.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 60699, Sept. 28, 2020, § 126.1 was amended by revising paragraph (r), effective Oct. 1, 2020 until Sept. 30, 2021. At 86 FR 54044, Sept. 30, 2021, the effective date was extended through Sept. 30, 2022.
+[58 FR 39312, July 22, 1993]Editorial Note:For Federal Register citations affecting § 126.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

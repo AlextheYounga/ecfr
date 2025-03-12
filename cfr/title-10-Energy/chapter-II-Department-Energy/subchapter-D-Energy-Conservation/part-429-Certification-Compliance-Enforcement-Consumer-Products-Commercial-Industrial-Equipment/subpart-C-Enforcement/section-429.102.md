@@ -1,10 +1,8 @@
 ##### § 429.102 Prohibited acts subjecting persons to enforcement action. #####
 
-Link to an amendment published at 87 FR 53639, Aug. 31, 2022.
-
 (a) Each of the following actions is prohibited:
 
-(1) Failure of a manufacturer to provide, maintain, permit access to, or copying of records required to be supplied under the Act and this part or failure to make reports or provide other information required to be supplied under the Act and this part, including but not limited to failure to properly certify covered products and covered equipment in accordance with § 429.12 and §§ 429.14 through 429.62;
+(1) Failure of a manufacturer to provide, maintain, permit access to, or copying of records required to be supplied under the Act and this part or failure to make reports or provide other information required to be supplied under the Act and this part, including but not limited to failure to properly certify covered products and covered equipment in accordance with § 429.12 and §§ 429.14 through 429.66;
 
 (2) Failure to test any covered product or covered equipment subject to an applicable energy conservation standard in conformance with the applicable test requirements prescribed in 10 CFR parts 430 or 431;
 
@@ -54,4 +52,4 @@ Link to an amendment published at 87 FR 53639, Aug. 31, 2022.
 
 (iii) An outdoor unit that is part of a certified combination rated less than the standard applicable in the region in which it is installed.
 
-[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 45402, July 14, 2016]
+[76 FR 12451, Mar. 7, 2011, as amended at 81 FR 4145, Jan. 25, 2016; 81 FR 45402, July 14, 2016; 87 FR 53639, Aug. 31, 2022]

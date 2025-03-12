@@ -1,5 +1,7 @@
 ##### § 201.33 Procedures for filing Notices of Intent to Enforce a restored copyright under the Uruguay Round Agreements Act. #####
 
+Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
+
 (a) *General.* This section prescribes the procedures for submission of Notices of Intent to Enforce a Restored Copyright under the Uruguay Round Agreements Act, as required in 17 U.S.C. 104A(a). On or before May 1, 1996, and every four months thereafter, the Copyright Office will publish in the Federal Register a list of works for which Notices of Intent to Enforce have been filed. It will maintain a list of these works. The Office will also make a more complete version of the information contained in the Notice of Intent to Enforce available on its website.
 
 (b) *Definitions.* (1) *NAFTA work* means a work restored to copyright on January 1, 1995, as a result of compliance with procedures contained in the North American Free Trade Agreement Implementation Act of December 8, 1993, Public Law No. 103-182.

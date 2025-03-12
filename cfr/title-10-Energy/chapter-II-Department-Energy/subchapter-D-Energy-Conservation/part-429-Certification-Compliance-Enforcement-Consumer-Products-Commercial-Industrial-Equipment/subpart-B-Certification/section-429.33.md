@@ -1,6 +1,6 @@
 ##### § 429.33 Ceiling fan light kits. #####
 
-Link to an amendment published at 87 FR 53638, Aug. 31, 2022.Note 1 to § 429.33:
+Note 1 to § 429.33:
 
 Prior to February 17, 2023, certification reports must be submitted as required either in this section or 10 CFR 429.33 as it appears in the 10 CFR parts 200 through 499 edition revised as of January 1, 2022. On or after February 17, 2023, certification reports must be submitted as required in this section.
 
@@ -16,7 +16,7 @@ Prior to February 17, 2023, certification reports must be submitted as required 
 
 (iii) For ceiling fan light kits with pin-based sockets that are packaged with fluorescent lamps, determine the represented values of each basic model of lamp packaged with the ceiling fan light kit in accordance with the sampling requirements in § 429.35.
 
-(iv) For ceiling fan light kits with medium screw base sockets that are packaged with incandescent lamps, determine the represented values of each basic model of lamp packaged with the ceiling fan light kit in accordance with § 429.27.
+(iv) For ceiling fan light kits with medium screw base sockets that are packaged with incandescent lamps, determine the represented values of each basic model of lamp packaged with the ceiling fan light kit in accordance with § 429.40, § 429.55 or § 429.66, as applicable.
 
 (v) For ceiling fan light kits with sockets or packaged with lamps other than those described in paragraphs (a)(2)(i), (ii), (iii), or (iv) of this section, each unit must comply with the applicable design standard in § 430.32(s)(5) of this chapter.
 
@@ -28,7 +28,7 @@ Prior to February 17, 2023, certification reports must be submitted as required 
 
 (B) For general service fluorescent lamps, § 429.27;
 
-(C) For incandescent lamps, § 429.27;
+(C) For incandescent lamps, § 429.40, § 429.55 or § 429.66, as applicable;
 
 (D) For integrated LED lamps, § 429.56.
 
@@ -90,4 +90,4 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (5) Round lifetime to the nearest whole hour.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24772, May 2, 2011, as amended at 80 FR 80225, Dec. 24, 2015; 81 FR 632, Jan. 6, 2016; 81 FR 43425, July 1, 2016; 84 FR 8413, Mar. 8, 2019; 87 FR 43978, July 22, 2022; 87 FR 54330, Sept. 6, 2022]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24772, May 2, 2011, as amended at 80 FR 80225, Dec. 24, 2015; 81 FR 632, Jan. 6, 2016; 81 FR 43425, July 1, 2016; 84 FR 8413, Mar. 8, 2019; 87 FR 43978, July 22, 2022; 87 FR 54330, Sept. 6, 2022; 87 FR 53638, Aug. 31, 2022]

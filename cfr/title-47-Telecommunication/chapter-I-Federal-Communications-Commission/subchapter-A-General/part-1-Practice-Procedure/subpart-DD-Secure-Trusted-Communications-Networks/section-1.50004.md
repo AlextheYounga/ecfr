@@ -56,15 +56,13 @@
 
 (f) *Prioritization of Support.* The Wireline Competition Bureau shall issue funding allocations in accordance with this section after the close of a filing window. After a filing window closes, the Wireline Competition Bureau shall calculate the total demand for Reimbursement Program support submitted by all eligible providers during the filing window period. If the total demand received during the filing window exceeds the total funds available, then the Wireline Competition Bureau shall allocate the available funds consistent with the following priority schedule:
 
-Table 1 to Paragraph (f)
-
 |                                                                                                                                                                               Prioritization schedule                                                                                                                                                                               |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                     Priority 1                                                                                                                                                                                      |
+|                                                                                                                                                                                   **Priority 1**                                                                                                                                                                                    |
 |                                                                                                                                                     Advanced communication service providers with 2 million or fewer customers.                                                                                                                                                     |
-|                                                                                                                                                                                     Priority 2                                                                                                                                                                                      |
+|                                                                                                                                                                                   **Priority 2**                                                                                                                                                                                    |
 |Advanced communications service providers that are accredited public or private non-commercial educational institutions providing their own facilities-based educational broadband service, as defined in part 27, subpart M of title 47, Code of Federal Regulations, or any successor regulation and health care providers and libraries providing advanced communications service.|
-|                                                                                                                                                                                     Priority 3                                                                                                                                                                                      |
+|                                                                                                                                                                                   **Priority 3**                                                                                                                                                                                    |
 |                                                                                                                                          Any remaining approved applicants determined to be eligible for reimbursement under the Program.                                                                                                                                           |
 
 (1) *Application of prioritization schedule.* The Wireline Competition Bureau shall issue full funding allocations for all eligible providers in the Priority 1 prioritization category before issuing funding allocations in any subsequent prioritization categories. The Wireline Competition Bureau shall continue to review all funding requests and issue funding allocations by prioritization category until there are no available funds remaining. If there is insufficient funding to fully fund all requests in a particular prioritization category, then the Wireline Competition Bureau will pro-rate the available funding among all eligible providers in that prioritization category. Requests for funds in subsequent prioritization categories will be denied for lack of available funding.
@@ -111,7 +109,7 @@ Table 1 to Paragraph (f)
 
 (j) *Disposal requirements.* Reimbursement Program recipients must dispose of the covered communications equipment or service in a manner to prevent the equipment or service from being used in the networks of other providers of advanced communications service. The disposal must result in the destruction of the covered communications equipment or service, making the covered communications equipment or service inoperable permanently. Reimbursement Program recipients must retain documentation demonstrating compliance with this requirement.
 
-(k) *Status updates.* Reimbursement Program recipients must file a status update with the Commission once every 90 days beginning on the date on which the Wireline Competition Bureau approves the recipient's application for reimbursement and until the recipient has filed the final certification.
+(k) *Status updates.* Reimbursement Program recipients must file a status update with the Commission 90 days after the date on which the Wireline Competition Bureau approves the recipient's application for reimbursement and every 90 days thereafter, until the recipient has filed the final certification.
 
 (1) Status updates must include:
 
@@ -127,7 +125,7 @@ Table 1 to Paragraph (f)
 
 (vi) Whether the recipient has fully complied with (or is in the process of complying with) the timeline submitted by the recipient as required by paragraph (c)(1)(iv) of this section.
 
-(2) The Wireline Competition Bureau will publicly post on the Commission's website the status update filings within 30 days of submission.
+(2) The Wireline Competition Bureau will publicly post on the Commission's website the status update filings no earlier than 30 days after submission.
 
 (3) Within 180 days of completing the funding allocation stage provided for in paragraph (e), the Wireline Competition Bureau shall prepare a report for Congress providing an update on the Commission's implementation efforts and the work by recipients to permanently remove, replace, and dispose of covered communications equipment and service from their networks.
 
@@ -161,4 +159,4 @@ Table 1 to Paragraph (f)
 
 (2) [Reserved]
 
-[86 FR 2941, 2944, Jan. 13, 2021, as amended at 86 FR 55515, Oct. 6, 2021; 86 FR 47021, Aug. 23, 2021]
+[86 FR 2941, 2944, Jan. 13, 2021, as amended at 86 FR 55515, Oct. 6, 2021; 86 FR 47021, Aug. 23, 2021; 87 FR 59329, Sept. 30, 2022]

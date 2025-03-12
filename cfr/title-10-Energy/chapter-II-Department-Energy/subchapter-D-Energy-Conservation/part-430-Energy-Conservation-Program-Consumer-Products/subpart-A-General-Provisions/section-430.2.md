@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 87 FR 53639, Aug. 31, 2022.Link to an amendment published at 87 FR 54346, Sept. 6, 2022.Link to an amendment published at 87 FR 54129, Sept. 2, 2022.
+Link to an amendment published at 87 FR 54346, Sept. 6, 2022.Link to an amendment published at 87 FR 54129, Sept. 2, 2022.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
@@ -68,7 +68,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Basic model* means all units of a given type of covered product (or class thereof) manufactured by one manufacturer; having the same primary energy source; and, which have essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency; and
 
-(1) With respect to general service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps: Lamps that have essentially identical light output and electrical characteristics - including lumens per watt (lm/W) and color rendering index (CRI).
+(1) With respect to general service fluorescent lamps, general service incandescent lamps, and incandescent reflector lamps: Lamps that have essentially identical light output and electrical characteristics - including lamp efficacy and color rendering index (CRI).
 
 (2) With respect to faucets and showerheads: Have the identical flow control mechanism attached to or installed within the fixture fittings, or the identical water-passage design features that use the same path of water in the highest flow mode.
 
@@ -106,19 +106,13 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Blowout bowl* means a non-siphonic water closet bowl with an integral flushing rim, a trap at the rear of the bowl, and a visible or concealed jet that operates with a blowout action.
 
-*BPAR incandescent reflector lamp* means a reflector lamp as shown in figure C78.21-278 on page 32 of ANSI C78.21-2003 (incorporated by reference; *see* § 430.3).
+*BPAR incandescent reflector lamp* means a reflector lamp as shown in figure C78.21-278 of ANSI C78.21-2016 (incorporated by reference; see § 430.3).
 
 *BR30* means a BR incandescent reflector lamp with a diameter of 30/8ths of an inch.
 
 *BR40* means a BR incandescent reflector lamp with a diameter of 40/8ths of an inch.
 
-*BR incandescent reflector lamp* means a reflector lamp that has -
-
-(1) A bulged section below the major diameter of the bulb and above the approximate baseline of the bulb, as shown in figure 1 (RB) on page 7 of ANSI C79.1-1994, (incorporated by reference, see § 430.3); and
-
-(2) A finished size and shape shown in ANSI C78.21-1989 (incorporated by reference; see § 430.3), including the referenced reflective characteristics in part 7 of ANSI C78.21-1989.
-
-*BR incandescent reflector lamp* means a reflector lamp that has a bulged section below the bulb's major diameter and above its approximate base line as shown in Figure 1 (RB) on page 7 of ANSI C79.1-1994. A BR30 lamp has a lamp wattage of 85 or less than 66 and a BR40 lamp has a lamp wattage of 120 or less.
+*BR incandescent reflector lamp* means a reflector lamp that has a bulged section below the bulb's major diameter and above its approximate base line as shown in Figure 1 (RB) of ANSI C78.79-2020. A BR30 lamp has a lamp wattage of 85 or less than 66 and a BR40 lamp has a lamp wattage of 120 or less.
 
 *Btu* means British thermal unit, which is the quantity of heat required to raise the temperature of one pound of water one degree Fahrenheit.
 
@@ -380,11 +374,7 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Energy use of a type of consumer product which is used by households* means the energy consumed by such product within housing units occupied by households (such as energy for space heating and cooling, water heating, the operation of appliances, or other activities of the households), and includes energy consumed on any property that is contiguous with a housing unit and that is used primarily by the household occupying the housing unit (such as energy for exterior lights or heating a pool).
 
-*ER incandescent reflector lamp* means a reflector lamp that has -
-
-(1) An elliptical section below the major diameter of the bulb and above the approximate baseline of the bulb, as shown in figure 1 (RE) on page 7 of ANSI C79.1-1994, (incorporated by reference; see § 430.3); and
-
-(2) A finished size and shape shown in ANSI C78.21-1989, (incorporated by reference; see § 430.3).
+*ER incandescent reflector lamp* means a reflector lamp that has an elliptical section below the major diameter of the bulb and above the approximate base line of the bulb, as shown in Figure 1 (RE) of ANSI C78.79-2020 (incorporated by reference; see § 430.3) and product space drawings shown in ANSI C78.21-2016 (incorporated by reference; see § 430.3).
 
 *ER30* means an ER incandescent reflector lamp with a diameter of 30/8ths of an inch.
 
@@ -676,6 +666,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Left-hand thread lamp* means a lamp with direction of threads on the lamp base oriented in the left-hand direction.
 
+*Lifetime* with respect to an incandescent reflector lamp or general service incandescent lamp means the length of operating time between first use and failure of 50 percent of the sample units (as specified in 10 CFR 429.55 and 429.66), determined in accordance with the test procedures described in appendix R to subpart B of this part.
+
 *Lifetime of a compact fluorescent lamp* means the length of operating time between first use and failure of 50 percent of the sample units (as specified in § 429.35(a)(1) of this chapter), determined in accordance with the test procedures described in section 3.3 of appendix W to subpart B of this part.
 
 *Lifetime of an integrated light-emitting diode lamp* means the length of operating time between first use and failure of 50 percent of the sample units (as required by § 429.56(a)(1) of this chapter), when measured in accordance with the test procedures described in section 4 of appendix BB to subpart B of this part.
@@ -766,6 +758,8 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Packaged terminal heat pump* means a packaged terminal air conditioner that utilizes reverse cycle refrigeration as its prime heat source and should have supplementary heating availability by builder's choice of energy.
 
+*PAR incandescent reflector lamp* means a reflector lamp formed by the sealing together during the lamp-making process of a pressed glass parabolic section and a pressed lens section as shown in Figure 1 (PAR) of ANSI C78.79-2020, (incorporated by reference; see § 430.3). The pressed lens section may be either plain or configured.
+
 *Person* includes any individual, corporation, company, association, firm, partnership, society, trust, joint venture or joint stock company, the government, and any agency of the United States or any State or political subdivision thereof.
 
 *Pin base lamp* means a lamp that uses a base type designated as a single pin base or multiple pin base system.
@@ -794,11 +788,11 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Propane* means a hydrocarbon whose chemical composition is predominantly C3H8, whether recovered from natural gas or crude oil.
 
-*R20 incandescent reflector lamp* means a reflector lamp that has a face diameter of approximately 2.5 inches, as shown in figure 1(R) on page 7 of ANSI C79.1-1994 (incorporated by reference; *see* § 430.3).
+*R incandescent reflector lamp* means a reflector lamp that includes a parabolic or elliptical section below the major diameter as shown in Figure 1 (R) of ANSI C78.79-2020 (incorporated by reference; see § 430.3).
+
+*R20 incandescent reflector lamp* means an R incandescent reflector lamp that has a face diameter of approximately 2.5 inches, as shown in Figure C78.21-254 of ANSI C78.21-2016 (incorporated by reference; see § 430.3).
 
 *R20 short lamp* means a lamp that is an R20 incandescent reflector lamp that has a rated wattage of 100 watts; has a maximum overall length of 3 and 5/8, or 3.625, inches; and is designed, labeled, and marketed specifically for pool and spa applications.
-
-*Rated lifetime for general service incandescent lamps* means the length of operating time of a sample of lamps (as defined in § 429.27(a)(2)(iv) of this chapter) between first use and failure of 50 percent of the sample size in accordance with test procedures described in IESNA LM-49 (incorporated by reference; see § 430.3), as determined in section 4.2 of Appendix R of this subpart. The operating time is based on the middle lamp operating time for an odd number of samples and the average operating time of the two middle lamps for an even number of samples.
 
 *Rated voltage* with respect to incandescent lamps means:
 
@@ -816,9 +810,11 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 (ii) If the lamp is a residential straight-shaped lamp, and not listed in ANSI C78.81 (incorporated by reference; *see* § 430.3), the wattage of a lamp when operated on a reference ballast for which the lamp is designed; or
 
-(iii) If the lamp is neither listed in one of the ANSI standards referenced in (1)(i) of this definition, nor a residential straight-shaped lamp, the electrical power of a lamp when measured according to the test procedures outlined in appendix R to subpart B of this part.
+(iii) If the lamp is neither listed in one of the ANSI standards referenced in paragraph (1)(i) of this definition, nor a residential straight-shaped lamp, a represented value of electrical power for a basic model, determined according to 10 CFR 429.27, and derived from the measured initial input power of a lamp tested according to appendix R to subpart B of this part.
 
-(2) With respect to general service incandescent lamps and incandescent reflector lamps, the electrical power measured according to the test procedures outlined in appendix R to subpart B of this part.
+(2) With respect to general service incandescent lamps, a represented value of electrical power for a basic model, determined according to 10 CFR 429.27, and derived from the measured initial input power of a lamp tested according to appendix R to subpart B of this part.
+
+(3) With respect to incandescent reflector lamps, a represented value of electrical power for a basic model, determined according to 10 CFR 429.55, and derived from the measured initial input power of a lamp tested according to appendix R to subpart B of this part.
 
 *Reflector lamp* means a lamp that has an R, PAR, BPAR, BR, ER, MR, or similar bulb shape as defined in ANSI C78.20-2003 (incorporated by reference; see § 430.3) and ANSI C79.1-2002 (incorporated by reference; see § 430.3) and is used to provide directional light.
 

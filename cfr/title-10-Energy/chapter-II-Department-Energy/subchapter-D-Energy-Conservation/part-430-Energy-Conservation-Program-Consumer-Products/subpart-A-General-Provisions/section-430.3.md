@@ -1,6 +1,6 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 87 FR 53640, Aug. 31, 2022.Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
+Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
 
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
@@ -68,35 +68,35 @@ Link to an amendment published at 87 FR 53640, Aug. 31, 2022.Link to an amendmen
 
 (3) ANSI C78.21-1989, American National Standard for Electric Lamps - PAR and R Shapes, approved March 3, 1989, IBR approved for § 430.2.
 
-(4) ANSI C78.21-2003, Revision of ANSI C78.21-1995 with all supplements, American National Standard for Electric Lamps - PAR and R Shapes, approved October 30, 2003, IBR approved for § 430.2.
+(4) ANSI C78.21-2011 (R2016) (“ANSI C78.21-2016”), *American National Standard for Electric Lamps - PAR and R Shapes,* ANSI-approved August 23, 2016; IBR approved for § 430.2.
 
-(5) ANSI\_\_ANSLG C78.81-2010, (“ANSI C78.81”), American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved January 14, 2010, IBR approved for §§ 430.2 and 430.32 and appendix R to subpart B.
+(5) ANSI C78.79-2014 (R2020) (“ANSI C78.79-2020”), *American National Standard for Electric Lamps - Nomenclature for Envelope Shapes Intended for Use with Electric Lamps,* ANSI-approved January 17, 2020; IBR approved for § 430.2.
 
-(6) ANSI C78.81-2016, (“ANSI C78.81-2016”), American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved June 29, 2016, IBR approved for appendix Q to subpart B.
+(6) ANSI\_\_ANSLG C78.81-2010, (“ANSI C78.81-2010”), American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved January 14, 2010, IBR approved for §§ 430.2 and 430.32 and appendix R to subpart B.
 
-(7) ANSI C78.375-1997, Revision of ANSI C78.375-1991 (“ANSI C78.375”), American National Standard for Fluorescent Lamps - Guide for Electrical Measurements, first edition, approved September 25, 1997; IBR approved for appendix R to subpart B.
+(7) ANSI C78.81-2016, American National Standard for Electric Lamps - Double-Capped Fluorescent Lamps - Dimensional and Electrical Characteristics, approved June 29, 2016, IBR approved for appendices Q and R to subpart B.
 
-(8) ANSI C78.375A-2014, (“ANSI C78.375A”), American National Standard for Electric Lamps - Fluorescent Lamps - Guide for Electrical Measures, approved August 28, 2014, IBR approved for appendix Q to subpart B.
+(8) ANSI C78.375-1997, Revision of ANSI C78.375-1991 (“ANSI C78.375”), American National Standard for Fluorescent Lamps - Guide for Electrical Measurements, first edition, approved September 25, 1997; IBR approved for appendix R to subpart B.
 
-(9) ANSI\_\_IEC C78.901-2005, Revision of ANSI C78.901-2001 (“ANSI C78.901”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, approved March 23, 2005; IBR approved for § 430.2 and appendix R to subpart B.
+(9) ANSI C78.375A-2014 (R2020) (“ANSI C78.375A-2020”) *American National Standard for Electric Lamps - Fluorescent Lamps - Guide for Electrical Measures,* ANSI-approved January 17, 2020; IBR approved for appendix R to subpart B.
 
-(10) ANSI C78.901-2014, American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, ANSI approved July 2, 2014; IBR approved for appendix W to subpart B.
+(10) ANSI\_\_IEC C78.901-2005, (“ANSI C78.901-2005”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, approved March 23, 2005; IBR approved for § 430.2 and appendix R to subpart B.
 
-(11) ANSI/NEMA C78.901-2016 (“ANSI C78.901-2016”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, ANSI approved August 23, 2016, IBR approved for appendix Q to subpart B.
+(11) ANSI C78.901-2014, American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, ANSI approved July 2, 2014; IBR approved for appendix W to subpart B.
 
-(12) ANSI C79.1-1994, American National Standard for Nomenclature for Glass Bulbs - Intended for Use with Electric Lamps, approved March 24, 1994, IBR approved for § 430.2.
+(12) ANSI/NEMA C78.901-2016 (“ANSI C78.901-2016”), American National Standard for Electric Lamps - Single-Based Fluorescent Lamps - Dimensional and Electrical Characteristics, ANSI approved August 23, 2016, IBR approved for appendices Q and R to subpart B.
 
-(13) ANSI C79.1-2002, American National Standard for Electric Lamps - Nomenclature for Glass Bulbs Intended for Use with Electric Lamps, approved September 16, 2002, IBR approved for § 430.2.
+(13) ANSI C79.1-1994, American National Standard for Nomenclature for Glass Bulbs - Intended for Use with Electric Lamps, approved March 24, 1994, IBR approved for § 430.2.
 
-(14) ANSI\_\_ANSLG\_\_ C81.61-2006, Revision of ANSI C81.61-2005, (“ANSI C81.61”), American National Standard for electrical lamp bases - Specifications for Bases (Caps) for Electric Lamps, approved August 25, 2006, IBR approved for § 430.2.
+(14) ANSI C79.1-2002, American National Standard for Electric Lamps - Nomenclature for Glass Bulbs Intended for Use with Electric Lamps, approved September 16, 2002, IBR approved for § 430.2.
 
-(15) ANSI C82.1-2004 (R2008, R2015), (“ANSI C82.1”), American National Standard for Lamp Ballasts - Line Frequency Fluorescent Lamp Ballasts, approved November 20, 2015; IBR approved for appendix Q to subpart B.
+(15) ANSI\_\_ANSLG\_\_ C81.61-2006, Revision of ANSI C81.61-2005, (“ANSI C81.61”), American National Standard for electrical lamp bases - Specifications for Bases (Caps) for Electric Lamps, approved August 25, 2006, IBR approved for §§ 430.2; 430.32.
 
-(16) ANSI C82.2-2002 (R2007, R2016), (“ANSI C82.2”), American National Standard for Lamp Ballasts - Method of Measurement of Fluorescent Lamp Ballasts, approved July 12, 2016, IBR approved for appendix Q to subpart B.
+(16) ANSI C82.1-2004 (R2008, R2015), (“ANSI C82.1”), American National Standard for Lamp Ballasts - Line Frequency Fluorescent Lamp Ballasts, approved November 20, 2015; IBR approved for appendix Q to subpart B.
 
-(17) ANSI C82.3-2002, Revision of ANSI C82.3-1983 (R 1995) (“ANSI C82.3”), American National Standard for Reference Ballasts for Fluorescent Lamps, approved September 4, 2002; IBR approved for appendix R to subpart B.
+(17) ANSI C82.2-2002 (R2007, R2016), (“ANSI C82.2”), American National Standard for Lamp Ballasts - Method of Measurement of Fluorescent Lamp Ballasts, approved July 12, 2016, IBR approved for appendix Q to subpart B.
 
-(18) ANSI C82.3-2016, (“ANSI C82.3”), American National Standard for Reference Ballasts for Fluorescent Lamps, approved April 8, 2016; IBR approved for appendix Q to subpart B.
+(18) ANSI C82.3-2016, (“ANSI C82.3”), American National Standard for Reference Ballasts for Fluorescent Lamps, approved April 8, 2016; IBR approved for appendices Q and R to subpart B.
 
 (19) ANSI/NEMA C82.11-2017, (“ANSI C82.11”), American National Standard for Lamp Ballasts - High-Frequency Fluorescent Lamp Ballasts, approved January 23, 2017; IBR approved for appendix Q to subpart B.
 
@@ -120,7 +120,7 @@ Link to an amendment published at 87 FR 53640, Aug. 31, 2022.Link to an amendmen
 
 Note 1 to paragraph (e):
 
-The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19), and (21) of this section were all published by National Electrical Manufacturers Association (NEMA) and are also available from National Electrical Manufacturers Association, 1300 North 17th Street, Suite 900, Rosslyn, Virginia 22209, *https://www.nema.org/Standards/Pages/default.aspx.*
+The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), (18), (19), and (21) of this section were all published by National Electrical Manufacturers Association (NEMA) and are also available from National Electrical Manufacturers Association, 1300 North 17th Street, Suite 900, Rosslyn, Virginia 22209, *https://www.nema.org/Standards/Pages/default.aspx.*
 
 (f) *AS/NZS.* Australian/New Zealand Standard, GPO Box 476, Sydney NSW 2001, (02) 9237-6000 or (12) 0065-4646, or go to *www.standards.org.au/*Standards New Zealand, Level 10 Radio New Zealand House 144 The Terrace Wellington 6001 (Private Bag 2439 Wellington 6020), (04) 498-5990 or (04) 498-5991, or go to *www.standards.co.nz.*
 
@@ -292,7 +292,9 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (1) CIE 13.3-1995 (“CIE 13.3”), Technical Report: Method of Measuring and Specifying Colour Rendering Properties of Light Sources, 1995, ISBN 3 900 734 57 7; IBR approved for § 430.2 and appendices R and W to subpart B.
 
-(2) CIE 15:2004 (“CIE 15”), Technical Report: Colorimetry, 3rd edition, 2004, ISBN 978 3 901906 33 6; IBR approved for appendices R and W to subpart B.
+(2) CIE 15:2004 (“CIE 15”), Technical Report: Colorimetry, 3rd edition, 2004, ISBN 978 3 901906 33 6; IBR approved for appendix W to subpart B.
+
+(3) CIE 015:2018 (“CIE 15:2018”), *Colorimetry,* 4th edition, copyright 2018; IBR approved for the appendix R to subpart B.
 
 (n) *Environmental Protection Agency (EPA),* ENERGY STAR documents published by the Environmental Protection Agency are available online at *http://www.energystar.gov* or by contacting the Energy Star hotline at 1-888-782-7937.
 
@@ -354,11 +356,11 @@ Note 1 to paragraph (p):
 
 The standards referenced in paragraphs (p)(1) through (9) are also available from ANSI. See paragraph (e) of this section.
 
-(q) *IESNA.* Illuminating Engineering Society of North America, 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *http://www.iesna.org.*
+(q) *IES.* Illuminating Engineering Society (formerly Illuminating Engineering Society of North America - IESNA), 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *www.ies.org.*
 
 (1) *The IESNA Lighting Handbook, Reference & Application,* (“The IESNA Lighting Handbook”), 9th ed., Chapter 6, “Light Sources,” July 2000, IBR approved for § 430.2.
 
-(2) IES LM-9-09, (“IES LM-9”), IES Approved Method for the Electrical and Photometric Measurement of Fluorescent Lamps, approved January 31, 2009; IBR approved for § 430.2 and appendices R, V, and V1 to subpart B.
+(2) IES LM-9-09, (“IES LM-9”), IES Approved Method for the Electrical and Photometric Measurement of Fluorescent Lamps, approved January 31, 2009; IBR approved for § 430.2 and appendices V and V1 to subpart B.
 
 (3) IES LM-9-09 (“IES LM-9-09-DD”), IES Approved Method for the Electrical and Photometric Measurement of Fluorescent Lamps, approved January 31, 2009; IBR approved for appendix DD to subpart B, as follows:
 
@@ -370,9 +372,9 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (iv) Section 7.0 - Photometric Test Procedures: Section 7.5 - Integrating Sphere Measurement.
 
-(4) IESNA LM-16-1993 (“IESNA LM-16”), IESNA Practical Guide to Colorimetry of Light Sources, December 1993, IBR approved for § 430.2.
+(4) ANSI/IES LM-9-20 (“IES LM-9-20”), *Approved Method: Electrical and Photometric Measurements of Fluorescent Lamps,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
 
-(5) IES LM-20-1994, IESNA Approved Method for Photometric Testing of Reflector-Type Lamps, approved December 3, 1994, IBR approved for appendix R to subpart B.
+(5) IESNA LM-16-1993 (“IESNA LM-16”), IESNA Practical Guide to Colorimetry of Light Sources, December 1993, IBR approved for § 430.2.
 
 (6) IES LM-20-13, IES Approved Method for Photometry of Reflector Type Lamps, approved February 4, 2013; IBR approved for appendix DD to subpart B, as follows:
 
@@ -384,7 +386,7 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (iv) Section 8.0 - Total Flux Measurements by Integrating Sphere Method.
 
-(7) IES LM-45-09, (“IES LM-45”), IES Approved Method for the Electrical and Photometric Measurement of General Service Incandescent Filament Lamps, approved December 14, 2009; IBR approved for appendix R to subpart B.
+(7) ANSI/IES LM-20-20 (“IES LM-20-20”), *Approved Method: Photometry of Reflector Type Lamps,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
 
 (8) IES LM-45-15, IES Approved Method for the Electrical and Photometric Measurement of General Service Incandescent Filament Lamps, approved August 8, 2015; IBR approved for appendix DD to subpart B as follows:
 
@@ -396,9 +398,11 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (iv) Section 7.0 - Photometric Test Procedures: Section 7.1 - Total Luminous Flux Measurements with an Integrating Sphere.
 
-(9) IESNA LM-49-01 (“IESNA LM-49”), IESNA Approved Method for Life Testing of Incandescent Filament Lamps, approved December 1, 2001, IBR approved for § 430.2 and appendix R to subpart B.
+(9) IES LM-45-20 (“IES LM-45-20”), *Approved Method: Electrical and Photometric Measurement of General Service Incandescent Filament Lamps,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
 
-(10) IES LM-54-12, IES Guide to Lamp Seasoning, approved October 22, 2012; IBR approved for appendix W to subpart B, as follows:
+(10) ANSI/IES LM-49-20 (“IES LM-49-20”), *Approved Method: Life Testing of Incandescent Filament Lamps,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
+
+(11) IES LM-54-12, IES Guide to Lamp Seasoning, approved October 22, 2012; IBR approved for appendix W to subpart B, as follows:
 
 (i) Section 4 - Physical/Environmental Test Conditions;
 
@@ -408,9 +412,11 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (iv) Section 6 - Test Procedure Requirements, Section 6.2 - Seasoning Test Procedures: Section 6.2.2.1 - Discharge Lamps: Discharge Lamps except T5 fluorescent.
 
-(11) IES LM-58-1994, IESNA Guide to Spectroradiometric Measurements, approved December 3, 1994, IBR approved for appendix R to subpart B.
+(12) ANSI/IES LM-54-20 (“IES LM-54-20”), *Approved Method: IES Guide to Lamp Seasoning,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
 
-(12) IES LM-65-14, IES Approved Method for Life Testing of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix W to subpart B, as follows:
+(13) ANSI/IES LM-58-20 (“IES LM-58-20”), *Approved Method: Spectroradiometric Measurement Methods for Light Sources;* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
+
+(14) IES LM-65-14, IES Approved Method for Life Testing of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix W to subpart B, as follows:
 
 (i) Section 4.0 - Ambient and Physical Conditions;
 
@@ -418,9 +424,9 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (iii) Section 6.0 - Lamp Test Procedures
 
-(13) IES LM-66-14, (“IES LM-66-14”), IES Approved Method for the Electrical and Photometric Measurements of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix V to subpart B.
+(15) IES LM-66-14, (“IES LM-66-14”), IES Approved Method for the Electrical and Photometric Measurements of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix V to subpart B.
 
-(14) IES LM-66-14, (“IES LM-66”), IES Approved Method for the Electrical and Photometric Measurements of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix W to subpart B, as follows:
+(16) IES LM-66-14, (“IES LM-66”), IES Approved Method for the Electrical and Photometric Measurements of Single-Based Fluorescent Lamps, approved December 30, 2014; IBR approved for appendix W to subpart B, as follows:
 
 (i) Section 4.0 - Ambient and Physical Conditions;
 
@@ -428,11 +434,13 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (iii) Section 6.0 - Testing Procedures Requirements.
 
-(15) IESNA LM-78-07, IESNA Approved Method for Total Luminous Flux Measurement of Lamps Using an Integrating Sphere Photometer, approved January 28, 2007; IBR approved for appendix W to subpart B.
+(17) IESNA LM-78-07, IESNA Approved Method for Total Luminous Flux Measurement of Lamps Using an Integrating Sphere Photometer, approved January 28, 2007; IBR approved for appendix W to subpart B.
 
-(16) IES LM-79-08, (“IES LM-79-08”), IES Approved Method for the Electrical and Photometric Measurements of Solid-State Lighting Products, approved December 31, 2007; IBR approved for appendices V1 and BB to subpart B.
+(18) ANSI/IES LM-78-20 (“IES LM-78-20”) *Approved Method: Total Luminous Flux Measurement of Lamps Using an Integrating Sphere Photometer,* ANSI-approved February 7, 2020; IBR approved for appendix R to subpart B.
 
-(17) IES LM-79-08 (“IES LM-79-08-DD”), Approved Method: Electrical and Photometric Measurements of Solid-State Lighting Products, approved December 31, 2007; IBR approved for appendix DD to subpart B as follows:
+(19) IES LM-79-08, (“IES LM-79-08”), IES Approved Method for the Electrical and Photometric Measurements of Solid-State Lighting Products, approved December 31, 2007; IBR approved for appendices V1 and BB to subpart B.
+
+(20) IES LM-79-08 (“IES LM-79-08-DD”), Approved Method: Electrical and Photometric Measurements of Solid-State Lighting Products, approved December 31, 2007; IBR approved for appendix DD to subpart B as follows:
 
 (i) Section 1.0 Introduction: Section 1.3 - Nomenclature and Definitions (except section 1.3f);
 
@@ -448,11 +456,11 @@ The standards referenced in paragraphs (p)(1) through (9) are also available fro
 
 (vii) Section 9.0 - Test Methods for Total Luminous Flux measurement: Section 9.1 Integrating sphere with a spectroradiometer (Sphere-spectroradiometer system); and Section 9.2 - Integrating sphere with a photometer head (Sphere-photometer system).
 
-(18) IES LM-84-14, (“IES LM-84”), Approved Method: Measuring Luminous Flux and Color Maintenance of LED Lamps, Light Engines, and Luminaires, approved March 31, 2014; IBR approved for appendix BB to subpart B.
+(21) IES LM-84-14, (“IES LM-84”), Approved Method: Measuring Luminous Flux and Color Maintenance of LED Lamps, Light Engines, and Luminaires, approved March 31, 2014; IBR approved for appendix BB to subpart B.
 
-(19) ANSI/IES RP-16-10 (“ANSI/IES RP-16”), Nomenclature and Definitions for Illuminating Engineering, approved October 15, 2005; IBR approved for § 430.2.
+(22) ANSI/IES RP-16-10 (“ANSI/IES RP-16”), Nomenclature and Definitions for Illuminating Engineering, approved October 15, 2005; IBR approved for § 430.2.
 
-(20) IES TM-28-14, (“IES TM-28”), Projecting Long-Term Luminous Flux Maintenance of LED Lamps and Luminaires, approved May 20, 2014; IBR approved for appendix BB to subpart B.
+(23) IES TM-28-14, (“IES TM-28”), Projecting Long-Term Luminous Flux Maintenance of LED Lamps and Luminaires, approved May 20, 2014; IBR approved for appendix BB to subpart B.
 
 (r) International Safety Equipment Association, 1901 North Moore Street, Suite 808, Arlington, Virginia 22209, (703) 525-1695, *www.safetyequipment.org.*
 
