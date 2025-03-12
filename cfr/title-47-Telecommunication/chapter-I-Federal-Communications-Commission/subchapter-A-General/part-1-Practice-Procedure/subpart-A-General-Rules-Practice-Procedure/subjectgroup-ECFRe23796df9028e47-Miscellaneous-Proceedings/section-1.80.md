@@ -1,5 +1,7 @@
 ##### § 1.80 Forfeiture proceedings. #####
 
+Link to an amendment published at 86 FR 15797, Mar. 25, 2021.
+
 (a) *Persons against whom and violations for which a forfeiture may be assessed.* A forfeiture penalty may be assessed against any person found to have:
 
 (1) Willfully or repeatedly failed to comply substantially with the terms and conditions of any license, permit, certificate, or other instrument of authorization issued by the Commission;

@@ -1,7 +1,5 @@
 ##### § 660.13 Recordkeeping and reporting. #####
 
-Link to an amendment published at 86 FR 10867, Feb. 23, 2021.
-
 (a) This subpart recognizes that catch and effort data necessary for implementing the PCGFMP are collected by the States of Washington, Oregon, and California under existing state data collection requirements.
 
 (1) *Trawl logbook.* In the absence of a state trawl logbook requirement based on the port of landing, the authorized representative of the commercial trawl fishing vessel registered to a limited entry permit with a trawl gear endorsement participating in the Shorebased IFQ Program groundfish trawl fisheries must keep and submit a complete and accurate record of fishing activities in the trawl logbook form. The following requirements apply:
@@ -66,50 +64,52 @@ Link to an amendment published at 86 FR 10867, Feb. 23, 2021.
 
 (*9*) Limited entry midwater trawl, Pacific whiting mothership sector (catcher vessel), electronic monitoring,
 
-(*10*) Limited entry bottom trawl, shorebased IFQ, not including demersal trawl,
+(*10*) Limited entry bottom trawl, shorebased IFQ, not including demersal trawl or selective flatfish trawl,
 
 (*11*) Limited entry demersal trawl, shorebased IFQ,
 
-(*12*) Non-groundfish trawl gear for pink shrimp,
+(*12*) Limited entry selective flatfish trawl, shorebased IFQ,
 
-(*13*) Non-groundfish trawl gear for ridgeback prawn,
+(*13*) Non-groundfish trawl gear for pink shrimp,
 
-(*14*) Non-groundfish trawl gear for California halibut,
+(*14)* Non-groundfish trawl gear for ridgeback prawn,
 
-(*15*) Non-groundfish trawl gear for sea cucumber,
+(*15*) Non-groundfish trawl gear for California halibut,
 
-(*16*) Open access longline gear for groundfish,
+(*16*) Non-groundfish trawl gear for sea cucumber,
 
-(*17*) Open access Pacific halibut longline gear,
+(*17*) Open access longline gear for groundfish,
 
-(*18*) Open access groundfish trap or pot gear,
+(*18*) Open access Pacific halibut longline gear,
 
-(*19*) Open access Dungeness crab trap or pot gear,
+(*19*) Open access groundfish trap or pot gear,
 
-(*20*) Open access prawn trap or pot gear,
+(*20*) Open access Dungeness crab trap or pot gear,
 
-(*21*) Open access sheephead trap or pot gear,
+(*21*) Open access prawn trap or pot gear,
 
-(*22*) Open access line gear for groundfish,
+(*22*) Open access sheephead trap or pot gear,
 
-(*23*) Open access HMS line gear,
+(*23*) Open access line gear for groundfish,
 
-(*24*) Open access salmon troll gear,
+(*24*) Open access HMS line gear,
 
-(*25*) Open access California Halibut line gear,
+(*25*) Open access salmon troll gear,
 
-(*26*) Open access Coastal Pelagic Species net gear,
+(*26*) Open access California Halibut line gear,
 
-(*27*) Other gear,
+(*27*) Open access Coastal Pelagic Species net gear,
 
-(*28*) Tribal trawl, or
+(*28*) Other gear,
 
-(*29*) Open access California gillnet complex gear.
+(*29*) Tribal trawl,
 
-(*30*) Gear testing.
+(*30*) Open access California gillnet complex gear, or
+
+(*31*) Gear testing.
 
 (B) [Reserved]
 
 (v) Upon receipt of a declaration report, NMFS will provide a confirmation code or receipt to confirm that a valid declaration report was received for the vessel. Vessel owners or operators are responsible for retaining the confirmation code or receipt to verify that a valid declaration report was filed.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 31158, June 28, 2019; 84 FR 32098, July 5, 2019; 85 FR 35600, June 11, 2020]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 31158, June 28, 2019; 84 FR 32098, July 5, 2019; 85 FR 35600, June 11, 2020; 86 FR 10867, Feb. 23, 2021]

@@ -1,7 +1,5 @@
 ##### § 64.604 Mandatory minimum standards. #####
 
-Link to an amendment published at 86 FR 10846, Feb. 23, 2021.
-
 The standards in this section are applicable December 18, 2000, except as stated in paragraphs (c)(2) and (c)(7) of this section.
 
 (a) *Operational standards* - (1) *Communications assistant (CA).* (i) TRS providers are responsible for requiring that all CAs be sufficiently trained to effectively meet the specialized communications needs of individuals with hearing and speech disabilities.
@@ -30,7 +28,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (3) *Types of calls.* (i) Consistent with the obligations of telecommunications carrier operators, CAs are prohibited from refusing single or sequential calls or limiting the length of calls utilizing relay services.
 
-(ii) Relay services shall be capable of handling any type of call normally provided by telecommunications carriers unless the Commission determines that it is not technologically feasible to do so. Relay service providers have the burden of proving the infeasibility of handling any type of call. Providers of Internet-based TRS need not provide the same billing options (*e.g.,* sent-paid long distance, operator-assisted, collect, and third party billing) traditionally offered for wireline voice services if they allow for long distance calls to be placed using calling cards or credit cards or do not assess charges for long distance calling. Providers of Internet-based TRS need not allow for long distance calls to be placed using calling cards or credit cards if they do not assess charges for long distance calling.
+(ii) Relay services shall be capable of handling any type of call normally provided by telecommunications carriers unless the Commission determines that it is not technologically feasible to do so. Relay service providers have the burden of proving the infeasibility of handling any type of call.
 
 (iii) Relay service providers are permitted to decline to complete a call because credit authorization is denied.
 
@@ -90,7 +88,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (iii) *Speed of answer requirements for VRS providers.* VRS providers must answer 80% of all VRS calls within 120 seconds, measured on a monthly basis. VRS providers must meet the speed of answer requirements for VRS providers as measured from the time a VRS call reaches facilities operated by the VRS provider to the time when the call is answered by a CA - *i.e.,* not when the call is put on hold, placed in a queue, or connected to an IVR system. Abandoned calls shall be included in the VRS speed of answer calculation.
 
-(3) *Equal access to interexchange carriers.* TRS users shall have access to their chosen interexchange carrier through the TRS, and to all other operator services to the same extent that such access is provided to voice users. This requirement is inapplicable to providers of Internet-based TRS if they do not assess specific charges for long distance calling.
+(3) [Reserved]
 
 (4) *TRS facilities.* (i) TRS shall operate every day, 24 hours a day. Relay services that are not mandated by this Commission need not be provided every day, 24 hours a day, except VRS.
 
