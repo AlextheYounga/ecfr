@@ -1,6 +1,6 @@
 ##### § 26.08 Exemption procedures. #####
 
-(a) The Commandant has redelegated to the Assistant Commandant forPrevention Policy, U.S. Coast Guard Headquarters, with the reservation that this authority shall not be further redelegated, the authority to grant exemptions from provisions of the Vessel Bridge-to-Bridge Radiotelephone Act and this part.
+(a) The Commandant has redelegated to the Assistant Commandant for Prevention Policy, U.S. Coast Guard Headquarters, with the reservation that this authority shall not be further redelegated, the authority to grant exemptions from provisions of the Vessel Bridge-to-Bridge Radiotelephone Act and this part.
 
 (b) Any person may petition for an exemption from any provision of the Act or this part;
 

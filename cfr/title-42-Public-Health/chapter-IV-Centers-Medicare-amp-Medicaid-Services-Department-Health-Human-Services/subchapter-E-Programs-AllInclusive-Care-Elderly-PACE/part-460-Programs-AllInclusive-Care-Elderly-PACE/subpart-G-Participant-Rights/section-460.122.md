@@ -1,7 +1,5 @@
 ##### § 460.122 PACE organization's appeals process. #####
 
-Link to an amendment published at 84 FR 25675, June 3, 2019.
-
 For purposes of this section, an appeal is a participant's action taken with respect to the PACE organization's noncoverage of, or nonpayment for, a service including denials, reductions, or termination of services.
 
 (a) *PACE organization's written appeals process.* The PACE organization must have a formal written appeals process, with specified timeframes for response, to address noncoverage or nonpayment of a service.
@@ -10,7 +8,7 @@ For purposes of this section, an appeal is a participant's action taken with res
 
 (c) *Minimum requirements.* At a minimum, the PACE organization's appeals process must include written procedures for the following:
 
-(1) Timely preparation and processing of a written denial of coverage or payment as provided in § 460.104(c)(3).
+(1) Timely preparation and processing of a written denial of coverage or payment as provided in § 460.104(d)(2)(iv).
 
 (2) How a participant files an appeal.
 
@@ -58,6 +56,6 @@ For purposes of this section, an appeal is a participant's action taken with res
 
 (3) The participant.
 
-(i) *Analyzing appeals information.* A PACE organization must maintain, aggregate, and analyze information on appeal proceedings and use this information in the organization's internal quality assessment and performance improvement program.
+(i) *Analyzing appeals information.* A PACE organization must maintain, aggregate, and analyze information on appeal proceedings and use this information in the organization's internal quality improvement program.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71336, Dec. 8, 2006]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71336, Dec. 8, 2006; 84 FR 25675, June 3, 2019]

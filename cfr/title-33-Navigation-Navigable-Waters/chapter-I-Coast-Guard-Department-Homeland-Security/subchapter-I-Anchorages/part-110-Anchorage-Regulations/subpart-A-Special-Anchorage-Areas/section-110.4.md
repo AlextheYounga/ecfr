@@ -1,7 +1,5 @@
 ##### § 110.4 Penobscot Bay, Maine. #####
 
-Link to an amendment published at 84 FR 32271, July 8, 2019.
-
 (a) *Rockland Harbor.* Beginning at a point bearing 244°, 1,715 yards, from Rockland Breakwater Light; thence 260°, 490 yards, to a point bearing 248° from Rockland Breakwater Light; thence 350°, 580 yards, to a point bearing 263° from Rockland Breakwater Light; thence 83°, 480 yards, to a point bearing 263° from Rockland Breakwater Light; and thence 169°, 550 yards, to the point of beginning. This area is limited to vessels no greater than 20 meters in length.
 
 Note to paragraph (a):
@@ -26,4 +24,12 @@ Note to § 110.4(c):
 
 An ordinance of the Town of Stonington, Maine requires the approval of the Stonington Harbor Master for the location and type of moorings placed in these special anchorage areas. All anchoring in the areas are under the supervision of the Stonington Harbor Master or other such authority as may be designated by the authorities of the Town of Stonington, Maine. All moorings are to be so placed that no moored vessel will extend beyond the limit of the area.
 
-[CGD01-02-129, 68 FR 44888, July 31, 2003, as amended by CGD01-06-084, 72 FR 466, Jan. 5, 2007; USCG-2007-0198, 73 FR 38923, July 8, 2008]
+(d) *Passagassawakeag River, Belfast Bay, Belfast, Maine* - (1) *Special anchorage area A.* All of the waters enclosed by a line beginning at latitude 44°25′23″ N, longitude 068°58′55″ W; thence to latitude 44°25′30″ N, longitude 068°58′48″ W; thence to latitude 44°25′33″ N, longitude 068°59′15″ W; thence to latitude 44°25′39″ N, longitude 068°59′17″ W; thence to latitude 44°25′48″ N, longitude 068°59′57″ W; thence to latitude 44°25′46″ N, longitude 069°00′08″ W; thence to the point of beginning.
+
+(2) *Special anchorage area B.* All of the waters enclosed by a line beginning at latitude 44°25′17″ N, longitude 068°59′00″ W; thence to latitude 44°24′56″ N, longitude 068°59′23″ W; thence to latitude 44°25′20″ N, longitude 068°59′38″ W; thence to latitude 44°25′44″ N, longitude 069°00′09″ W; thence to the point of beginning.
+
+ Note to § 110.4(d):
+
+All coordinates referenced use datum: NAD 83. All anchoring in the areas is under the supervision of the town of Belfast harbormaster or other such authority as may be designated by the authorities of the Town of Belfast, Maine. Mariners using these special anchorage areas are encouraged to contact local and state authorities, such as the local harbormaster, to ensure compliance with any additional applicable state and local laws.
+
+[CGD01-02-129, 68 FR 44888, July 31, 2003, as amended by CGD01-06-084, 72 FR 466, Jan. 5, 2007; USCG-2007-0198, 73 FR 38923, July 8, 2008; USCG-2016-0989, 84 FR 32271, July 8, 2019]

@@ -1,7 +1,5 @@
 ##### § 423.4 Definitions. #####
 
-Link to an amendment published at 84 FR 25671, June 3, 2019.
-
 The following definitions apply to this part, unless the context indicates otherwise:
 
 *Actuarial equivalence* means a state of equivalent value demonstrated through the use of generally accepted actuarial principles and in accordance with section 1860D-11(c) of the Act and with CMS actuarial guidelines.
@@ -74,7 +72,7 @@ The following definitions apply to this part, unless the context indicates other
 
 (3) A fallback prescription drug plan, the service area described in § 423.859(b);
 
-(4) A PACE plan offering qualified prescription drug coverage, the service area described in § 460.22 of this chapter; and
+(4) A PACE plan offering qualified prescription drug coverage, the service area described in § 460.12(c) of this chapter; and
 
 (5) A cost plan offering qualified prescription drug coverage, the service area defined in § 417.1 of this chapter.
 
@@ -82,4 +80,4 @@ The following definitions apply to this part, unless the context indicates other
 
 *Tiered cost-sharing* means a process of grouping Part D drugs into different cost sharing levels within a Part D sponsor's formulary.
 
-[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68731, Dec. 5, 2007; 76 FR 21570, Apr. 15, 2011]
+[70 FR 4525, Jan. 28, 2005, as amended at 72 FR 68731, Dec. 5, 2007; 76 FR 21570, Apr. 15, 2011; 84 FR 25671, June 3, 2019]

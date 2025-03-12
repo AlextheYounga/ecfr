@@ -12,17 +12,17 @@
 
 (f) *External dose* means the portion of the equivalent dose that is received from radiation sources outside of the body.
 
-(g) *Interactive RadioEpidemiological Program (IREP)* means a computer software program that uses information on the dose-response relationship, and specific factors such as a claimant's radiation exposure, gender, age at diagnosis, and age at exposure to calculate the probability of causation for a given pattern and level of radiation exposure.
+(g) *ICD-10-CM* means the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision, Clinical Modification, *https://www.cdc.gov/nchs/icd/icd10cm.htm.*
 
-(h) *Internal dose* means the portion of the equivalent dose that is received from radioactive materials taken into the body.
+(h) *Interactive RadioEpidemiological Program (IREP)* means a computer software program that uses information on the dose-response relationship, and specific factors such as a claimant's radiation exposure, gender, age at diagnosis, and age at exposure to calculate the probability of causation for a given pattern and level of radiation exposure.
 
-(i) *Inverse dose rate effect* means a phenomenon in which the protraction of an exposure to a potential health hazard leads to greater biological effect per unit of dose than the delivery of the same total amount in a single dose. An inverse dose rate effect implies that the dose and dose rate effectiveness factor (DDREF) is less than one for chronic or low doses.
+(i) *Internal dose* means the portion of the equivalent dose that is received from radioactive materials taken into the body.
 
-(j) *Linear energy transfer (LET)* means the average amount of energy transferred to surrounding body tissues per unit of distance the radiation travels through body tissues (track length). Low LET radiation is typified by gamma and x rays, which have high penetrating capabilities through various tissues, but transfer a relatively small amount of energy to surrounding tissue per unit of track length. High LET radiation includes alpha particles and neutrons, which have weaker penetrating capability but transfer a larger amount of energy per unit of track length.
+(j) *Inverse dose rate effect* means a phenomenon in which the protraction of an exposure to a potential health hazard leads to greater biological effect per unit of dose than the delivery of the same total amount in a single dose. An inverse dose rate effect implies that the dose and dose rate effectiveness factor (DDREF) is less than one for chronic or low doses.
 
-(k) *NIOSH* means the National Institute for Occupational Safety and Health, Centers for Disease Control and Prevention, United States Department of Health and Human Services.
+(k) *Linear energy transfer (LET)* means the average amount of energy transferred to surrounding body tissues per unit of distance the radiation travels through body tissues (track length). Low LET radiation is typified by gamma and x rays, which have high penetrating capabilities through various tissues, but transfer a relatively small amount of energy to surrounding tissue per unit of track length. High LET radiation includes alpha particles and neutrons, which have weaker penetrating capability but transfer a larger amount of energy per unit of track length.
 
-(l) *Non-radiogenic cancer* means a type of cancer that HHS has found not to be caused by radiation, for the purposes of this regulation.
+(l) *NIOSH* means the National Institute for Occupational Safety and Health, Centers for Disease Control and Prevention, United States Department of Health and Human Services.
 
 (m) *Primary cancer* means a cancer defined by the original body site at which the cancer was incurred, prior to any spread (metastasis) to other sites in the body.
 
@@ -36,10 +36,12 @@
 
 (r) *Secondary site* means a body site to which a primary cancer has spread (metastasized).
 
-(s) *Specified cancer* is a term defined in § 7384(l)(17) of EEOICPA and 20 CFR 30.5(dd) that specifies types of cancer that, pursuant to 20 CFR part 30, may qualify a member of the Special Exposure Cohort for compensation. It includes leukemia (other than chronic lymphocytic leukemia), multiple myeloma, non-Hodgkin's lymphoma, renal cancers, and cancers of the lung (other than carcinoma in situ diagnosed at autopsy), thyroid, male breast, female breast, esophagus, stomach, pharynx, small intestine, pancreas, bile ducts, gall bladder, salivary gland, urinary bladder, brain, colon, ovary, liver (not associated with cirrhosis or hepatitis B), and bone.
+(s) *Specified cancer* is a term defined in § 7384(l)(17) of EEOICPA and 20 CFR 30.5(gg) that specifies types of cancer that, pursuant to 20 CFR part 30, may qualify a member of the Special Exposure Cohort for compensation. It includes leukemia (other than chronic lymphocytic leukemia), multiple myeloma, non-Hodgkin's lymphoma, renal cancers, and cancers of the lung (other than carcinoma in situ diagnosed at autopsy), thyroid, male breast, female breast, esophagus, stomach, pharynx, small intestine, pancreas, bile ducts, gall bladder, salivary gland, urinary bladder, brain, colon, ovary, liver (not associated with cirrhosis or hepatitis B), and bone.
 
 (t) *Uncertainty* is a term used in this rule to describe the lack of precision of a given estimate, the extent of which depends upon the amount and quality of the evidence or data available.
 
 (u) *Uncertainty distribution* is a statistical term meaning a range of discrete or continuous values arrayed around a central estimate, where each value is assigned a probability of being correct.
 
 (v) *Upper 99 percent confidence interval* is a term used in EEOICPA to mean credibility limit, the probability of causation estimate determined at the 99th percentile of the range of uncertainty around the central estimate of probability of causation.
+
+[67 FR 22309, May 2, 2002, as amended at 84 FR 37590, Aug. 1, 2019]

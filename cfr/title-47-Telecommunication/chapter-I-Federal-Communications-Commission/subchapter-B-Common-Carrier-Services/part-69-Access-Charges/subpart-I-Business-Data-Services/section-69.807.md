@@ -1,5 +1,7 @@
 ##### § 69.807 Regulatory relief. #####
 
+Link to an amendment published at 84 FR 38579, Aug. 7, 2019.
+
 (a) Price cap local exchange carrier transport and end user channel terminations in markets deemed competitive and in grandfathered markets for a price cap carrier that was granted Phase II pricing flexibility prior to June 2017 are granted the following regulatory relief:
 
 (1) Elimination of the rate structure requirements in subpart B of this part;

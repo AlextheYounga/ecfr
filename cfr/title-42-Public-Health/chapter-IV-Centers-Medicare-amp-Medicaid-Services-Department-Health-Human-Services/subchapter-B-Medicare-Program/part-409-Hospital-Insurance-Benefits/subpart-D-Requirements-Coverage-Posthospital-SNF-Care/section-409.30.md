@@ -1,5 +1,7 @@
 ##### § 409.30 Basic requirements. #####
 
+Link to an amendment published at 84 FR 38832, Aug. 7, 2019.
+
 Posthospital SNF care, including SNF-type care furnished in a hospital or CAH that has a swing-bed approval, is covered only if the beneficiary meets the requirements of this section and only for days when he or she needs and receives care of the level described in § 409.31. A beneficiary in an SNF is also considered to meet the level of care requirements of § 409.31 up to and including the assessment reference date for the 5-day assessment prescribed in § 413.343(b) of this chapter, when correctly assigned one of the case-mix classifiers that CMS designates for this purpose as representing the required level of care. For the purposes of this section, the assessment reference date is defined in accordance with § 483.315(d) of this chapter, and must occur no later than the eighth day of posthospital SNF care.
 
 (a) *Pre-admission requirements.* The beneficiary must -

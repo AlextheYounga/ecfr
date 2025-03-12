@@ -1,10 +1,8 @@
 ##### 252.215-7010 Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data. #####
 
-Link to an amendment published at 84 FR 30950, June 28, 2019.Link to a correction published at 84 FR 33858, July 16, 2019.
-
 *Basic.* As prescribed in 215.408(5)(i) and (5)(i)(A), use the following provision:
 
-Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Basic (JAN 2018)
+Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Basic (JUL 2019)
 
 (a) *Definitions.* As used in this provision -
 
@@ -46,6 +44,8 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (2) As soon as practicable after agreement on price, but before contract award (except for unpriced actions such as letter contracts), the Offeror shall submit a Certificate of Current Cost or Pricing Data, as prescribed by FAR 15.406-2.
 
+(3) The Offeror is responsible for determining whether a subcontractor qualifies for an exception from the requirement for submission of certified cost or pricing data on the basis of adequate price competition, *i.e.,* two or more responsible offerors, competing independently, submit priced offers that satisfy the Government's expressed requirement in accordance with FAR 15.403-1(c)(1)(i).
+
 (d) *Requirements for data other than certified cost or pricing data.* (1) Data other than certified cost or pricing data submitted in accordance with this provision shall include the minimum information necessary to permit a determination that the proposed price is fair and reasonable, to include the requirements in DFARS 215.402(a)(i) and 215.404-1(b).
 
 (2) In cases in which uncertified cost data is required, the information shall be provided in the form in which it is regularly maintained by the Offeror or prospective subcontractor in its business operations.
@@ -72,7 +72,7 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 *Alternate I.* As prescribed in 215.408(5)(i) and (5)(i)(B), use the following provision, which includes a different paragraph (c)(1).
 
-Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Alternate I (JAN 2018)
+Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Alternate I (JUN 2019)
 
 (a) *Definitions.* As used in this provision -
 
@@ -114,6 +114,8 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (2) As soon as practicable after agreement on price, but before contract award (except for unpriced actions such as letter contracts), the Offeror shall submit a Certificate of Current Cost or Pricing Data, as prescribed by FAR 15.406-2.
 
+(3) The Offeror is responsible for determining whether a subcontractor qualifies for an exception from the requirement for submission of certified cost or pricing data on the basis of adequate price competition, *i.e.,* two or more responsible offerors, competing independently, submit priced offers that satisfy the Government's expressed requirement in accordance with FAR 15.403-1(c)(1)(i).
+
 (d) *Requirements for data other than certified cost or pricing data.* (1) Data other than certified cost or pricing data submitted in accordance with this provision shall include all data necessary to permit a determination that the proposed price is fair and reasonable, to include the requirements in DFARS 215.402(a)(i) and 215.404-1(b).
 
 (2) In cases in which uncertified cost data is required, the information shall be provided in the form in which it is regularly maintained by the Offeror or prospective subcontractor in its business operations.
@@ -138,4 +140,4 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (2) Paragraph (d) of this provision for subcontracts exceeding the simplified acquisition threshold defined in FAR part 2.
 
-(End of provision)[83 FR 4445, Jan. 31, 2018, as amended at 83 FR 30825, June 29, 2018; 84 FR 30950, June 28, 2019]
+(End of provision)[83 FR 4445, Jan. 31, 2018, as amended at 83 FR 30825, June 29, 2018; 84 FR 30950, June 28, 2019; 84 FR 33858, July 16, 2019]

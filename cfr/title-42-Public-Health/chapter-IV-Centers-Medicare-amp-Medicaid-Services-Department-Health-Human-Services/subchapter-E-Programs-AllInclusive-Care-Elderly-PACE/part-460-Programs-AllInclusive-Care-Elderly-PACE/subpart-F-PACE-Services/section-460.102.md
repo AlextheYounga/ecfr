@@ -1,16 +1,14 @@
 ##### § 460.102 Interdisciplinary team. #####
 
-Link to an amendment published at 84 FR 25674, June 3, 2019.
-
 (a) *Basic requirement.* A PACE organization must meet the following requirements:
 
-(1) Establish an interdisciplinary team at each Pace center to comprehensively assess and meet the individual needs of each participant.
+(1) Establish an interdisciplinary team, composed of members that fill the roles described in paragraph (b) of this section, at each PACE center to comprehensively assess and meet the individual needs of each participant.
 
 (2) Assign each participant to an interdisciplinary team functioning at the PACE center that the participant attends.
 
-(b) *Composition of interdisciplinary team.* The interdisciplinary team must be composed of at least the following members:
+(b) *Composition of interdisciplinary team.* The interdisciplinary team must be composed of members qualified to fill, at minimum, the following roles, in accordance with CMS guidelines. One individual may fill two separate roles on the interdisciplinary team where the individual meets applicable state licensure requirements and is qualified to fill the two roles and able to provide appropriate care to meet the needs of participants.
 
-(1) Primary care physician.
+(1) Primary care provider.
 
 (2) Registered nurse.
 
@@ -32,9 +30,17 @@ Link to an amendment published at 84 FR 25674, June 3, 2019.
 
 (11) Driver or his or her representative.
 
-(c) *Primary care physician.* (1) Primary medical care must be furnished to a participant by a PACE primary care physician.
+(c) *Primary care provider.* (1) Primary medical care must be furnished to a participant by any of the following:
 
-(2) Each primary care physician is responsible for the following:
+(i) A primary care physician.
+
+(ii) A community-based physician.
+
+(iii) A physician assistant who is licensed in the State and practices within his or her scope of practice as defined by State laws with regard to oversight, practice authority and prescriptive authority.
+
+(iv) A nurse practitioner who is licensed in the State and practices within his or her scope of practice as defined by State laws with regard to oversight, practice authority and prescriptive authority.
+
+(2) Each primary care provider is responsible for the following:
 
 (i) Managing a participant's medical situations.
 
@@ -50,8 +56,8 @@ Link to an amendment published at 84 FR 25674, June 3, 2019.
 
 (iii) Documenting changes of a participant's condition in the participant's medical record consistent with documentation polices established by the medical director.
 
-(3) The members of the interdisciplinary team must serve primarily PACE participants.
+(e) *Team member qualifications.* The PACE organization must ensure that all members of the interdisciplinary team have appropriate licenses or certifications under State law, act within the scope of practice as defined by State laws, and meet the requirements set forth in § 460.71.
 
-(e) *Exchange of information between team members.* The PACE organization must establish, implement, and maintain documented internal procedures governing the exchange of information between team members, contractors, and participants and their caregivers consistent with the requirements for confidentiality in § 460.200(e).
+(f) *Exchange of information between team members.* The PACE organization must establish, implement, and maintain documented internal procedures governing the exchange of information between team members, contractors, and participants and their caregivers consistent with the requirements for confidentiality in § 460.200(e).
 
-[64 FR 66279, Nov. 24, 1999, as amended at 67 FR 61506, Oct. 1, 2002; 71 FR 71334, 71336, Dec. 8, 2006]
+[64 FR 66279, Nov. 24, 1999, as amended at 67 FR 61506, Oct. 1, 2002; 71 FR 71334, 71336, Dec. 8, 2006; 84 FR 25674, June 3, 2019]

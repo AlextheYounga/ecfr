@@ -1,7 +1,5 @@
 ##### § 460.62 Governing body. #####
 
-Link to an amendment published at 84 FR 25673, June 3, 2019.
-
 (a) *Governing body.* A PACE organization must be operating under the control of an identifiable governing body (for example, a board of directors) or a designated person functioning as a governing body with full legal authority and responsibility for the following:
 
 (1) Governance and operation of the organization.
@@ -16,7 +14,7 @@ Link to an amendment published at 84 FR 25673, June 3, 2019.
 
 (6) Development of policies on participant health and safety, including a comprehensive, systemic operational plan to ensure the health and safety of participants.
 
-(7) Quality assessment and performance improvement program.
+(7) A quality improvement program as described in § 460.130.
 
 (b) *Participant advisory committee.* (1) A PACE organization must establish a participant advisory committee to provide advice to the governing body on matters of concern to participants. Participants and representatives of participants must constitute a majority of the membership of this committee.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 84 FR 25673, June 3, 2019.
 
 (3) *Duty of the participant representative.* The participant representative must present issues from the participant advisory committee to the governing body.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71334, Dec. 8, 2006]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71334, Dec. 8, 2006; 84 FR 25673, June 3, 2019]

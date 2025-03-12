@@ -1,7 +1,5 @@
 ##### § 460.200 Maintenance of records and reporting of data. #####
 
-Link to an amendment published at 84 FR 25677, June 3, 2019.
-
 (a) *General rule.* A PACE organization must collect data, maintain records, and submit reports as required by CMS and the State administering agency.
 
 (b) *Access to data and records.* A PACE organization must allow CMS and the State administering agency access to data and records including, but not limited to, the following:
@@ -32,8 +30,10 @@ Link to an amendment published at 84 FR 25677, June 3, 2019.
 
 (i) The period of time specified in State law.
 
-(ii) Six years from the last entry date.
+(ii) Ten years from the last entry date.
 
-(iii) For medical records of disenrolled participants, 6 years after the date of disenrollment.
+(iii) For medical records of disenrolled participants, 10 years after the date of disenrollment.
 
 (2) If litigation, a claim, a financial management review, or an audit arising from the operation of the PACE program is started before the expiration of the retention period, specified in paragraph (f)(1) of this section, the PACE organization must retain the records until the completion of the litigation, or resolution of the claims or audit findings.
+
+[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25677, June 3, 2019]

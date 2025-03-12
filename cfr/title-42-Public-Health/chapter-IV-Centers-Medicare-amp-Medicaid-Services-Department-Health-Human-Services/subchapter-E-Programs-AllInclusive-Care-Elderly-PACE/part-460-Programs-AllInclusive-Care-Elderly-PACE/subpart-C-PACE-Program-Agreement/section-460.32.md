@@ -1,7 +1,5 @@
 ##### § 460.32 Content and terms of PACE program agreement. #####
 
-Link to an amendment published at 84 FR 25672, June 3, 2019.
-
 (a) *Required content.* A PACE program agreement must include the following information:
 
 (1) A designation of the service area of the organization's program. The area may be identified by county, zip code, street boundaries, census tract, block, or tribal jurisdictional area, as applicable. CMS and the State administering agency must approve any change in the designated service area.
@@ -26,13 +24,13 @@ Link to an amendment published at 84 FR 25672, June 3, 2019.
 
 (8) A description of services available to participants.
 
-(9) A description of the organization's quality assessment and performance improvement program.
+(9) A description of the organization's quality improvement program.
 
 (10) A statement of the levels of performance required by CMS on standard quality measures.
 
 (11) A statement of the data and information required by CMS and the State administering agency to be collected on participant care.
 
-(12) The Medicaid capitation rate and the methodology used to calculate the Medicare capitation rate.
+(12) The state's Medicaid capitation rate or Medicaid payment rate methodology, and the methodology used to calculate the Medicare capitation rate.
 
 (13) A description of procedures that the organization will follow if the PACE program agreement is terminated.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 84 FR 25672, June 3, 2019.
 
 (2) An agreement may contain any additional terms and conditions agreed to by the parties if the terms and conditions are consistent with sections 1894 and 1934 of the Act and regulations in this part.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71334, Dec. 8, 2006]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71334, Dec. 8, 2006; 84 FR 25672, June 3, 2019]

@@ -1,5 +1,7 @@
 ##### § 61.201 Detariffing of price cap local exchange carriers. #####
 
+Link to an amendment published at 84 FR 38579, Aug. 7, 2019.
+
 (a) Price cap local exchange carriers shall remove from their interstate tariffs:
 
 (1) Any packet-based business data service;

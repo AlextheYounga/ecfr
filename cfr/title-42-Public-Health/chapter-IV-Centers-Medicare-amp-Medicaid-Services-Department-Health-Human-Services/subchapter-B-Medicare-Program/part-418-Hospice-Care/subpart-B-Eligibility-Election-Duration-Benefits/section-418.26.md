@@ -1,5 +1,7 @@
 ##### § 418.26 Discharge from hospice care. #####
 
+Link to an amendment published at 84 FR 38544, August 6, 2019.
+
 (a) *Reasons for discharge.* A hospice may discharge a patient if -
 
 (1) The patient moves out of the hospice's service area or transfers to another hospice;

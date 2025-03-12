@@ -1,11 +1,9 @@
 ##### § 460.18 CMS evaluation of applications. #####
 
-Link to an amendment published at 84 FR 25671, June 3, 2019.
-
-CMS evaluates an application for approval as a PACE organization on the basis of the following information:
+CMS evaluates an application on the basis of the following information:
 
 (a) Information contained in the application.
 
-(b) Information obtained through onsite visits conducted by CMS or the State administering agency.
+(b) Information obtained by CMS or the State administering agency through on-site visits or any other means.
 
-(c) Information obtained by the State administering agency.
+[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25671, June 3, 2019]

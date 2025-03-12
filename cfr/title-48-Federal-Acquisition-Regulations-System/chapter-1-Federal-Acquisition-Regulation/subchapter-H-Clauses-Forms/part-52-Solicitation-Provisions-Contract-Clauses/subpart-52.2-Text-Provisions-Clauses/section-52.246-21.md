@@ -2,13 +2,13 @@
 
 As prescribed in 46.710(e)(1), the contracting officer may insert a clause substantially as follows in solicitations and contracts when a fixed-price construction contract (see 46.705(c)) is contemplated, and the use of a warranty clause has been approved under agency procedures:
 
-Warranty of Construction (APR 1984)
+Warranty of Construction (MAR 1994)
 
 (a) In addition to any other warranties in this contract, the Contractor warrants, except as provided in paragraph (i) of this clause, that work performed under this contract conforms to the contract requirements and is free of any defect in equipment, material, or design furnished, or workmanship performed by the Contractor or any subcontractor or supplier at any tier.
 
 (b) This warranty shall continue for a period of 1 year from the date of final acceptance of the work. If the Government takes possession of any part of the work before final acceptance, this warranty shall continue for a period of 1 year from the date the Government takes possession.
 
-(c) The Contractor shall remedy at the Contractor's expense any failure to conform, or any defect. In addition, the Contractor shall remedy at the Contractor's expense any damage to Government-owned or controlled real or personal property, when that damage is the result of -
+(c) The Contractor shall remedy at the Contractor's expense any failure to conform, or any defect. In addition, the Contractor shall remedy at the Contractor's expense any damage to Government-owned or controlled real or personal property, when that damage is the result of—
 
 (1) The Contractor's failure to conform to contract requirements; or
 
@@ -20,7 +20,7 @@ Warranty of Construction (APR 1984)
 
 (f) If the Contractor fails to remedy any failure, defect, or damage within a reasonable time after receipt of notice, the Government shall have the right to replace, repair, or otherwise remedy the failure, defect, or damage at the Contractor's expense.
 
-(g) With respect to all warranties, express or implied, from subcontractors, manufacturers, or suppliers for work performed and materials furnished under this contract, the Contractor shall -
+(g) With respect to all warranties, express or implied, from subcontractors, manufacturers, or suppliers for work performed and materials furnished under this contract, the Contractor shall—
 
 (1) Obtain all warranties that would be given in normal commercial practice;
 
@@ -40,4 +40,4 @@ Warranty of Construction (APR 1984)
 
 (k) Defects in design or manufacture of equipment specified by the Government on a *brand name and model* basis, shall not be included in this warranty. In this event, the Contractor shall require any subcontractors, manufacturers, or suppliers thereof to execute their warranties, in writing, directly to the Government.
 
-[48 FR 42478, Sept. 19, 1983, as amended at 59 FR 11388, Mar. 10, 1994]
+[48 FR 42478, Sept. 19, 1983, as amended at 59 FR 11388, Mar. 10, 1994; 84 FR 38839, Aug. 7, 2019]

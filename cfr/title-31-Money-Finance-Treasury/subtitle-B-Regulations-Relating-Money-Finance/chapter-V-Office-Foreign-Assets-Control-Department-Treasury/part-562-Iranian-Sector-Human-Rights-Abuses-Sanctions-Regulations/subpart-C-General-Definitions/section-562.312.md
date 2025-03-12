@@ -1,0 +1,5 @@
+##### § 562.312 Aluminum, aluminum products. #####
+
+The terms *aluminum* and *aluminum products* mean any raw, semi-fabricated, fabricated, or finished form of aluminum or aluminum alloy of all grades, sizes, and thicknesses, including in the following forms: Ores and concentrates (*e.g.,* bauxite and alumina); unwrought aluminum including ingots, slabs, and billets; powders and flakes; wrought aluminum including bars, rods, profiles, plates, sheets, strip, foil, tubes, and pipes; tube or pipe fittings; reservoirs, tanks, vats, and similar containers; wire, stranded wire, ropes, cables, and plaited band; castings, stampings, and forgings; waste and scrap, including slag, and any aluminum and aluminum products produced from the melting or recycling of aluminum scrap.
+
+[84 FR 38549, Aug. 7, 2019]

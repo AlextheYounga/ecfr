@@ -1,0 +1,5 @@
+##### § 562.316 Iron, iron products, steel, steel products. #####
+
+The terms *iron, iron products,**steel,* and *steel products* mean any raw, semi-fabricated, fabricated, or finished form of iron, iron alloy, alloy steel, non-alloy steel, ferroalloys, pig iron, and spiegeleisen of all grades, sizes, and thicknesses, whether or not clad, plated, or coated, including in the following forms: Iron ores and concentrates, including roasted iron pyrites; pigs and blocks; ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps or pellets; granules and powders; ingots, blooms billets, slabs, and beam blanks; flat-rolled products (plates, sheets, strips, and foils) either cut-to-length or in coils; bars and rods; structural profiles (beams, channels, angles, and other shapes); sheet piling; railway or tramway track construction materials; tubes, pipes, and hollow profiles; tube or pipe fittings; reservoirs, tanks, vats, and similar containers; wire, stranded wire, ropes, cables, and plaited band; castings, stampings, and forgings; and ferrous waste and scrap, including slag.
+
+[84 FR 38549, Aug. 7, 2019]

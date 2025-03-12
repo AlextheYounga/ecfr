@@ -1,7 +1,5 @@
 ##### § 460.70 Contracted services. #####
 
-Link to an amendment published at 84 FR 25673, June 3, 2019.
-
 (a) *General rule.* The PACE organization must have a written contract with each outside organization, agency, or individual that furnishes administrative or care-related services not furnished directly by the PACE organization except for emergency services as described in § 460.100.
 
 (b) *Contract requirements.* A contract between a PACE organization and a contractor must meet the following requirements:
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 25673, June 3, 2019.
 
 (ii) A practitioner or supplier must meet Medicare or Medicaid requirements applicable to the services it furnishes.
 
-(iii) A contractor must comply with the requirements of this part with respect to service delivery, participant rights, and quality assessment and performance improvement activities.
+(iii) A contractor must comply with the requirements of this part with respect to service delivery, participant rights, and quality improvement activities.
 
 (2) A contractor must be accessible to participants, located either within or near the PACE organization's service area.
 
@@ -42,16 +40,18 @@ Link to an amendment published at 84 FR 25673, June 3, 2019.
 
 (v) Submit reports required by the PACE organization.
 
-(vi) Agree to perform all the duties related to its position as specified in this part.
+(6) With respect to an individual who is contracting as a program director or medical director or to be part of the interdisciplinary team as set forth at § 460.60(a) and (b) and § 460.102(b), the contract must specify that the individual agrees to:
 
-(vii) Participate in interdisciplinary team meeting as required.
+(i) Perform all the duties related to its position as specified in this part.
 
-(viii) Agree to be accountable to the PACE organization.
+(ii) Participate in interdisciplinary team meetings as required.
 
-(ix) Cooperate with the competency evaluation program and direct participant care requirements specified in § 460.71.
+(iii) Be accountable to the PACE organization.
 
-(e) *Contracting with another entity to furnish PACE Center services.* (1) A PACE organization may only contract for PACE Center services if it is fiscally sound as defined in § 460.80(a) of this part and has demonstrated competence with the PACE model as evidenced by successful monitoring by CMS and the State administering agency.
+(iv) Cooperate with the competency evaluation program and direct participant care requirements specified in § 460.71.
 
-(2) The PACE organization retains responsibility for all participants and may only contract for the PACE Center services identified in § 460.98(d).
+(e) *Contracting with another entity to furnish PACE center services.* (1) A PACE organization may only contract for PACE center services if it is fiscally sound as defined in § 460.80(a) of this part and has demonstrated competence with the PACE model as evidenced by successful monitoring by CMS and the State administering agency.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 67 FR 61505, Oct. 1, 2002; 71 FR 71335, Dec. 8, 2006; 81 FR 80561, Nov. 15, 2016; 83 FR 16756, Apr. 16, 2018]
+(2) The PACE organization retains responsibility for all participants and may only contract for the PACE Center services identified in § 460.98(c).
+
+[64 FR 66279, Nov. 24, 1999, as amended at 67 FR 61505, Oct. 1, 2002; 71 FR 71335, Dec. 8, 2006; 81 FR 80561, Nov. 15, 2016; 83 FR 16756, Apr. 16, 2018; 84 FR 25673, June 3, 2019]

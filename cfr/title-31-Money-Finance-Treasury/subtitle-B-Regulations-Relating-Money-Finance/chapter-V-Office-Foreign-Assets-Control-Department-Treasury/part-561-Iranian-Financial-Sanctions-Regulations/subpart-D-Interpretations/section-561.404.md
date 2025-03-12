@@ -1,6 +1,6 @@
 ##### § 561.404 Significant transaction or transactions; significant financial services; significant financial transaction. #####
 
-In determining, for purposes of paragraph (a)(5) of § 561.201, whether a transaction is significant, whether transactions are significant, or whether financial services are significant, or, for purposes of paragraph (a) of § 561.203 and paragraph (b) of § 561.204, whether a financial transaction is significant, the Secretary of the Treasury may consider the totality of the facts and circumstances. As a general matter, the Secretary may consider some or all of the following factors:
+In determining, for purposes of paragraph (a)(5) of § 561.201, whether a transaction is significant, whether transactions are significant, or whether financial services are significant, or, for purposes of paragraph (a) of § 561.203, paragraph (b) of § 561.204, and paragraph (b) of § 561.205 whether a financial transaction is significant, the Secretary of the Treasury may consider the totality of the facts and circumstances. As a general matter, the Secretary may consider some or all of the following factors:
 
 (a) *Size, number, and frequency.* The size, number, and frequency of transactions, financial services, or financial transactions performed over a period of time, including whether the transactions, financial services, or financial transactions are increasing or decreasing over time and the rate of increase or decrease.
 
@@ -24,4 +24,4 @@ In determining, for purposes of paragraph (a)(5) of § 561.201, whether a transa
 
 (h) *Other relevant factors.* Such other factors that the Secretary deems relevant on a case-by-case basis in determining the significance of a transaction(s), financial services, or financial transaction.
 
-[77 FR 11726, Feb. 27, 2012, as amended at 78 FR 16409, Mar. 15, 2013]
+[77 FR 11726, Feb. 27, 2012, as amended at 78 FR 16409, Mar. 15, 2013; 84 FR 38548, Aug. 7, 2019]

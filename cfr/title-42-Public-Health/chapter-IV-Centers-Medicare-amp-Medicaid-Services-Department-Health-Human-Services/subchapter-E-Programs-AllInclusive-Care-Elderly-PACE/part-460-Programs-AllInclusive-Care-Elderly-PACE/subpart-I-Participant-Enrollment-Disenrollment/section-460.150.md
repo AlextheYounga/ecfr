@@ -1,7 +1,5 @@
 ##### § 460.150 Eligibility to enroll in a PACE program. #####
 
-Link to an amendment published at 84 FR 25676, June 3, 2019.
-
 (a) *General rule.* To enroll in a PACE program, an individual must meet eligibility requirements specified in this section. To continue to be eligible for PACE, an individual must meet the annual recertification requirements specified in § 460.160.
 
 (b) *Basic eligibility requirements.* To be eligible to enroll in PACE, an individual must meet the following requirements:
@@ -16,7 +14,7 @@ Link to an amendment published at 84 FR 25676, June 3, 2019.
 
 (c) *Other eligibility requirements.* (1) At the time of enrollment, an individual must be able to live in a community setting without jeopardizing his or her health or safety.
 
-(2) The criteria used to determine if an individual's health or safety would be jeopardized by living in a community setting must be specified in the program agreement.
+(2) The State administering agency criteria used to determine if an individual's health or safety would be jeopardized by living in a community setting must be specified in the program agreement.
 
 (d) *Eligibility under Medicare and Medicaid.* Eligibility to enroll in a PACE program is not restricted to an individual who is either a Medicare beneficiary or Medicaid beneficiary. A potential PACE enrollee may be, but is not required to be, any or all of the following:
 
@@ -25,3 +23,5 @@ Link to an amendment published at 84 FR 25676, June 3, 2019.
 (2) Enrolled under Medicare Part B.
 
 (3) Eligible for Medicaid.
+
+[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25676, June 3, 2019]

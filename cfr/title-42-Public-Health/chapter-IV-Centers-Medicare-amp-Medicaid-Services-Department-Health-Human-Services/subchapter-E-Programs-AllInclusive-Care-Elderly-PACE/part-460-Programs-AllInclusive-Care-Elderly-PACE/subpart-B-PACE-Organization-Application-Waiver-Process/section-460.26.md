@@ -1,12 +1,16 @@
 ##### § 460.26 Submission and evaluation of waiver requests. #####
 
-Link to an amendment published at 84 FR 25672, June 3, 2019.
+(a) A PACE organization, or an entity submitting an application to become a PACE organization, must submit its waiver request through the State administering agency for initial review.
 
-(a)(1) A PACE organization must submit its waiver request through the State administering agency for initial review. The State administering agency forwards waiver requests to CMS along with any concerns or conditions regarding the waiver.
+(1) The State administering agency forwards a PACE organization's waiver requests to CMS along with any concurrence, concerns or conditions regarding the waiver.
 
-(2) Entities submitting an application to become a PACE organization may submit a waiver request. The entity must submit its waiver request through the State administering agency for initial review. The State administering agency forwards the waiver requests to CMS along with any concerns or conditions regarding the waiver. The waiver request is submitted as a document separate from the application but may be submitted in conjunction with and at the same time as the application.
+(2) Entities submitting an application to become a PACE organization may:
 
-(b) CMS evaluates a waiver request from a PACE organization on the basis of the following information:
+(i) Submit a waiver request as a document separate from the application by submitting it first to the State administering agency which, in turn, will forward the waiver request to CMS indicating the State's concurrence, concerns or conditions regarding the waiver request; or
+
+(ii) Submit a waiver request directly to CMS in conjunction with the application. This request must include a letter from the State administering agency indicating the State's concurrence, concerns or conditions regarding the waiver request.
+
+(b) CMS evaluates a waiver request from a PACE organization or PACE applicant on the basis of the following information:
 
 (1) The adequacy of the description and rationale for the waiver provided by the PACE organization or PACE applicant, including any additional information requested by CMS.
 
@@ -24,4 +28,4 @@ Link to an amendment published at 84 FR 25672, June 3, 2019.
 
 (5) The assumption by the provider of full financial risk.
 
-[67 FR 61505, Oct. 1, 2002; 67 FR 63966, Oct. 16, 2002; 71 FR 71334, Dec. 8, 2006]
+[67 FR 61505, Oct. 1, 2002; 67 FR 63966, Oct. 16, 2002, as amended at 71 FR 71334, Dec. 8, 2006; 84 FR 25672, June 3, 2019]

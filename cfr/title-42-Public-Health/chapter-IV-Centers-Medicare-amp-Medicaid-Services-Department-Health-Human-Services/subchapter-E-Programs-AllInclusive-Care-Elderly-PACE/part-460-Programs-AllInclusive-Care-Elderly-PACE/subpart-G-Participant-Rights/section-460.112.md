@@ -1,7 +1,5 @@
 ##### § 460.112 Specific rights to which a participant is entitled. #####
 
-Link to an amendment published at 84 FR 25675, June 3, 2019.
-
 (a) *Respect and nondiscrimination.* Each participant has the right to considerate, respectful care from all PACE employees and contractors at all times and under all circumstances. Each participant has the right not to be discriminated against in the delivery of required PACE services based on race, ethnicity, national origin, religion, sex, age, sexual orientation, mental or physical disability, or source of payment. Specifically, each participant has the right to the following:
 
 (1) To receive comprehensive health care in a safe and clean environment and in an accessible manner.
@@ -22,15 +20,13 @@ Link to an amendment published at 84 FR 25675, June 3, 2019.
 
 (1) To be fully informed in writing of the services available from the PACE organization, including identification of all services that are delivered through contracts, rather than furnished directly by the PACE organization at the following times:
 
-(i) Before enrollment.
+(i) Prior to and upon enrollment in the PACE organization.
 
-(ii) At enrollment.
-
-(iii) At the time a participant's needs necessitate the disclosure and delivery of such information in order to allow the participant to make an informed choice.
+(ii) At the time a participant's needs necessitate the disclosure and delivery of such information in order to allow the participant to make an informed choice.
 
 (2) To have the enrollment agreement, described in § 460.154, fully explained in a manner understood by the participant.
 
-(3) To examine, or upon reasonable request, to be assisted to examine the results of the most recent review of the PACE organization conducted by CMS or the State administering agency and any plan of correction in effect.
+(3) To examine, or upon reasonable request, to be helped to examine the results of the most recent review of the PACE organization conducted by CMS or the State administering agency and any plan of correction in effect.
 
 (c) *Choice of providers.* Each participant has the right to a choice of health care providers, within the PACE organization's network, that is sufficient to ensure access to appropriate high-quality health care. Specifically, each participant has the right to the following:
 
@@ -38,7 +34,7 @@ Link to an amendment published at 84 FR 25675, June 3, 2019.
 
 (2) To request that a qualified specialist for women's health services furnish routine or preventive women's health services.
 
-(3) To disenroll from the program at any time.
+(3) To disenroll from the program at any time and have such disenrollment be effective the first day of the month following the date the PACE organization receives the participant's notice of voluntary disenrollment as set forth in § 460.162(a).
 
 (d) *Access to emergency services.* Each participant has the right to access emergency health care services when and where the need arises without prior authorization by the PACE interdisciplinary team.
 
@@ -70,4 +66,4 @@ Link to an amendment published at 84 FR 25675, June 3, 2019.
 
 (2) To appeal any treatment decision of the PACE organization, its employees, or contractors through the process described in § 460.122.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71336, Dec. 8, 2006]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71336, Dec. 8, 2006; 84 FR 25675, June 3, 2019]

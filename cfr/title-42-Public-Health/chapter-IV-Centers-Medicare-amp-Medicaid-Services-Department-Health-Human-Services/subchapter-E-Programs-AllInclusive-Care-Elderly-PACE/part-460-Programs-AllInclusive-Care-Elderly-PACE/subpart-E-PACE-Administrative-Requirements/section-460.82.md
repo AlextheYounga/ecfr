@@ -1,7 +1,5 @@
 ##### § 460.82 Marketing. #####
 
-Link to an amendment published at 84 FR 25674, June 3, 2019.
-
 (a) *Information that a PACE organization must include in its marketing materials.* (1) A PACE organization must inform the public about its program and give prospective participants the following written information:
 
 (i) An adequate description of the PACE organization's enrollment and disenrollment policies and requirements.
@@ -28,7 +26,7 @@ Link to an amendment published at 84 FR 25674, June 3, 2019.
 
 (c) *Special language requirements.* A PACE organization must furnish printed marketing materials to prospective and current participants as specified below:
 
-(1) In English and in any other principal languages of the community.
+(1) In English and in any other principal languages of the community, as determined by the State in which the PACE organization is located. In the absence of a State standard, a principal language of the community is any language that is spoken in the home by at least 5 percent of the individuals in the PACE organization's service area.
 
 (2) In Braille, if necessary.
 
@@ -36,16 +34,20 @@ Link to an amendment published at 84 FR 25674, June 3, 2019.
 
 (2) All marketing materials must state clearly that PACE participants may be fully and personally liable for the costs of unauthorized or out-of-PACE program agreement services.
 
-(e) *Prohibited marketing practices.* A PACE organization must ensure that its employees or its agents do not use prohibited marketing practices which includes the following:
+(e) *Prohibited marketing practices.* A PACE organization must not use the following marketing practices, which are prohibited:
 
 (1) Discrimination of any kind, except that marketing may be directed to individuals eligible for PACE by reason of their age.
 
 (2) Activities that could mislead or confuse potential participants, or misrepresent the PACE organization, CMS, or the State administering agency.
 
-(3) Gifts or payments to induce enrollment.
+(3) Gifts or payments to induce enrollment, unless the gifts are of nominal value as defined in CMS guidance, are offered to all potential enrollees without regard to whether they enroll in the PACE program, and are not in the form of cash or other monetary rebates.
 
-(4) Contracting outreach efforts to individuals or organizations whose sole responsibility involves direct contact with the elderly to solicit enrollment.
+(4) Marketing by any individual or entity that is directly or indirectly compensated by the PACE organization based on activities or outcomes unless the individual or entity has been appropriately trained on PACE program requirements, including but not limited to, subparts G and I of this part.
 
-(5) Unsolicited door-to-door marketing.
+(i) PACE organizations are responsible for the activities of contracted individuals or entities who market on their behalf.
 
-(f) *Marketing Plan.* A PACE organization must establish, implement, and maintain a documented marketing plan with measurable enrollment objectives and a system for tracking its effectiveness.
+(ii) PACE organizations that choose to use contracted individuals or entities for marketing purposes must develop a method to document training has been provided.
+
+(5) Unsolicited door-to-door marketing or other unsolicited means of direct contact, including calling or emailing a potential or current participant without the individual initiating the contact.
+
+[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25674, June 3, 2019]

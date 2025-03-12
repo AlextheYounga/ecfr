@@ -1,6 +1,4 @@
-##### § 460.166 Effective date of disenrollment. #####
-
-Link to an amendment published at 84 FR 25677, June 3, 2019.
+##### § 460.166 Disenrollment responsibilities. #####
 
 (a) In disenrolling a participant, the PACE organization must take the following actions:
 
@@ -15,3 +13,5 @@ Link to an amendment published at 84 FR 25677, June 3, 2019.
 (1) PACE participants must continue to use PACE organization services and remain liable for any premiums.
 
 (2) The PACE organization must continue to furnish all needed services.
+
+[64 FR 66279, Nov. 24, 1999, as amended at 84 FR 25677, June 3, 2019]

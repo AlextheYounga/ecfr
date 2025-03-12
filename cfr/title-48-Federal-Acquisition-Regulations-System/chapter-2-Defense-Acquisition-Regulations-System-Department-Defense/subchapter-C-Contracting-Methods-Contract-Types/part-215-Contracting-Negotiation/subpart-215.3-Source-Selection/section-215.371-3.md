@@ -1,15 +1,13 @@
-##### 215.371-3 Fair and reasonable price. #####
+##### 215.371-3 Fair and reasonable price and the requirement for additional cost or pricing data. #####
 
-Link to an amendment published at 84 FR 30949, June 28, 2019.
+For acquisitions that exceed the simplified acquisition threshold, if only one offer is received when competitive procedures were used and it is not necessary to resolicit in accordance with 215.371-2(a), then then the contracting officer shall comply with the following:
 
-(a) If there was “reasonable expectation... that ...two or more offerors, competing independently, would submit priced offers” but only one offer is received, this circumstance does not constitute adequate price competition unless an official at a level above the contracting officer approves the determination that the price is reasonable (see FAR 15.403-1(c)(1)(ii)).
+(a) If no additional cost or pricing data are required to determine through cost or price analysis that the offered price is fair and reasonable, the contracting officer shall require that any cost or pricing data provided in the proposal be certified if the acquisition exceeds the certified cost or pricing data threshold and an exception to the requirement for certified cost or pricing data at FAR 15.403-1(b)(2) through (5) does not apply.
 
-(b) Except as provided in section 215.371-4(a), if only one offer is received when competitive procedures were used and the solicitation allowed at least 30 days for receipt of proposals (unless the 30-day requirement is not applicable in accordance with 215.371-4(a)(3) or has been waived in accordance with section 215.371-5), the contracting officer shall -
+(b) Otherwise, the contracting officer shall obtain additional cost or pricing data to determine a fair and reasonable price. If the acquisition exceeds the certified cost or pricing data threshold and an exception to the requirement for certified cost or pricing data at FAR 15.403-1(b)(2) through (5) does not apply, the cost or pricing data shall be certified.
 
-(1) Determine through cost or price analysis that the offered price is fair and reasonable and that adequate price competition exists (with approval of the determination at a level above the contracting officer) or another exception to the requirement for certified cost or pricing data applies (see FAR 15.403-1(c) and 15.403-4). In these circumstances, no further cost or pricing data is required; or
+(c) If the contracting officer is still unable to determine that the offered price is fair and reasonable, the contracting officer shall enter into negotiations with the offeror to establish a fair and reasonable price. The negotiated price should not exceed the offered price.
 
-(2)(i) Obtain from the offeror cost or pricing data necessary to determine a fair and reasonable price and comply with the requirement for certified cost or pricing data at FAR 15.403-4. For acquisitions that exceed the cost or pricing data threshold, if no exception at FAR 15.403-1(b) applies, the cost or pricing data shall be certified; and
+(d) If the contracting officer is unable to negotiate a fair and reasonable price, see FAR 15.405(d).
 
-(ii) Enter into negotiations with the offeror as necessary to establish a fair and reasonable price. The negotiated price should not exceed the offered price.
-
-[77 FR 39138, June 29, 2012, as amended at 78 FR 65216, Oct. 31, 2013]
+[84 FR 30949, June 28, 2019]

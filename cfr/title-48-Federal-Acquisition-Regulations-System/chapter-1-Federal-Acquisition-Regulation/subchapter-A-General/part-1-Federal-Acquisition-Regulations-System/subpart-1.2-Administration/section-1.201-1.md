@@ -10,7 +10,7 @@
 
 (b) The chairperson of the CAA Council shall be the representative of the Administrator of General Services. The other members of this council shall be one each representative from the -
 
-(1) Departments of Agriculture, Commerce, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, Interior, Justice, Labor, State, Transportation, and Treasury; and
+(1) Departments of Agriculture, Commerce, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, Interior, Justice, Labor, State, Transportation, Treasury, and Veterans Affairs; and
 
 (2) Environmental Protection Agency, National Aeronautics and Space Administration, Social Security Administration, Small Business Administration, and U.S. Agency for International Development.
 
@@ -32,4 +32,4 @@
 
 (6) Submitting any final revision to the FAR Secretariat for publication in the Federal Register and printing for distribution.
 
-[48 FR 42103, Sept. 19, 1983, as amended at 50 FR 2269, Jan. 15, 1985; 50 FR 26903, June 28, 1985; 51 FR 2649, Jan. 17, 1986; 54 FR 29280, July 11, 1989; 62 FR 64940, Dec. 9, 1997; 63 FR 9069, Feb. 23, 1998; 65 FR 16286, Mar. 27, 2000; 68 FR 69258, Dec. 11, 2003; 77 FR 23370, Apr. 18, 2012; 84 FR 19839, May 6, 2019]
+[48 FR 42103, Sept. 19, 1983, as amended at 50 FR 2269, Jan. 15, 1985; 50 FR 26903, June 28, 1985; 51 FR 2649, Jan. 17, 1986; 54 FR 29280, July 11, 1989; 62 FR 64940, Dec. 9, 1997; 63 FR 9069, Feb. 23, 1998; 65 FR 16286, Mar. 27, 2000; 68 FR 69258, Dec. 11, 2003; 77 FR 23370, Apr. 18, 2012; 84 FR 19839, May 6, 2019; 84 FR 38838, Aug. 7, 2019]

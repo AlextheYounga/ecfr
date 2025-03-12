@@ -1,7 +1,5 @@
 ##### § 460.100 Emergency care. #####
 
-Link to an amendment published at 84 FR 25674, June 3, 2019.
-
 (a) *Written plan.* A PACE organization must establish and maintain a written plan to handle emergency care. The plan must ensure that CMS, the State, and PACE participants are held harmless if the PACE organization does not pay for emergency services.
 
 (b) *Emergency care.* Emergency care is appropriate when services are needed immediately because of an injury or sudden illness and the time required to reach the PACE organization or one of its contract providers, would cause risk of permanent damage to the participant's health. Emergency services include inpatient and outpatient services that meet the following requirements:
@@ -32,8 +30,8 @@ Link to an amendment published at 84 FR 25674, June 3, 2019.
 
 (3) *Definitions.* As used in this section, the following definitions apply:
 
-(i) Post stabilization care means services provided subsequent to an emergency that a treating physician views as medically necessary after an emergency medical condition has been stabilized. They are not emergency services, which POs are obligated to cover. Rather, they are non-emergency services that the PO should approve before they are provided outside the service area.
+(i) Post stabilization care means services provided subsequent to an emergency that a treating physician views as medically necessary after an emergency medical condition has been stabilized. They are not emergency services, which PACE organizations are obligated to cover. Rather, they are non-emergency services that the PACE organization should approve before they are provided outside the service area.
 
 (ii) Urgent care means the care provided to a PACE participant who is out of the PACE service area, and who believes their illness or injury is too severe to postpone treatment until they return to the service area, but their life or function is not in severe jeopardy.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71335, Dec. 8, 2006]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71335, Dec. 8, 2006; 84 FR 25674, June 3, 2019]

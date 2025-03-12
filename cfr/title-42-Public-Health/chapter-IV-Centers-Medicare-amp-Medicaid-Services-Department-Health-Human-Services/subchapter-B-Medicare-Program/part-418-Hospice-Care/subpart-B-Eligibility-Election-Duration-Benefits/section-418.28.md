@@ -1,5 +1,7 @@
 ##### § 418.28 Revoking the election of hospice care. #####
 
+Link to an amendment published at 84 FR 38544, August 6, 2019.
+
 (a) An individual or representative may revoke the individual's election of hospice care at any time during an election period.
 
 (b) To revoke the election of hospice care, the individual or representative must file a statement with the hospice that includes the following information:

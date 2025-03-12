@@ -1,7 +1,5 @@
 ##### § 460.154 Enrollment agreement. #####
 
-Link to an amendment published at 84 FR 25676, June 3, 2019.
-
 If the potential participant meets the eligibility requirements and wants to enroll, he or she must sign an enrollment agreement which contains, at a minimum, the following information:
 
 (a) Applicant's name, sex, and date of birth.
@@ -20,7 +18,7 @@ If the potential participant meets the eligibility requirements and wants to enr
 
 (h) Notification that a Medicare participant may not enroll or disenroll at a Social Security office.
 
-(i) Notification that enrollment in PACE results in disenrollment from any other Medicare or Medicaid prepayment plan or optional benefit. Electing enrollment in any other Medicare or Medicaid prepayment plan or optional benefit, including the hospice benefit, after enrolling as a PACE participant is considered a voluntary disenrollment from PACE.
+(i) Notification that enrollment in PACE results in disenrollment from any other Medicare or Medicaid prepayment plan or optional benefit. Electing enrollment in any other Medicare or Medicaid prepayment plan or optional benefit, including the hospice benefit, after enrolling as a PACE participant is considered a voluntary disenrollment from PACE. If a Medicaid-only or private pay participant becomes eligible for Medicare after enrollment in PACE, the participant will be disenrolled from PACE if he or she elects to obtain Medicare coverage other than from the participant's PACE organization.
 
 (j) Information on the consequences of subsequent enrollment in other optional Medicare or Medicaid programs following disenrollment from PACE.
 
@@ -44,4 +42,4 @@ If the potential participant meets the eligibility requirements and wants to enr
 
 (t) The signature of the applicant or his or her designated representative and the date.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71337, Dec. 8, 2006]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71337, Dec. 8, 2006; 84 FR 25676, June 3, 2019]

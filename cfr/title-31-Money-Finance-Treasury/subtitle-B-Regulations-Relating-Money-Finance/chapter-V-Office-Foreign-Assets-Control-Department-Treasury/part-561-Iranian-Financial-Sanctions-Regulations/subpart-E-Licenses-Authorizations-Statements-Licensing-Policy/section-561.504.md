@@ -1,6 +1,6 @@
 ##### § 561.504 Transactions related to closing a correspondent account or payable-through account. #####
 
-(a) During the 10-day period beginning on the effective date of the prohibition in § 561.201(c), § 561.203(c)(2), or § 561.204(c)(2) on the maintaining of a correspondent account or a payable-through account for a foreign financial institution whose name is added to the List of Foreign Financial Institutions Subject to Correspondent Account or Payable-Through Account Sanctions (CAPTA List), which is maintained on the Office of Foreign Assets Control's Web site (*www.treasury.gov/ofac*), U.S. financial institutions that maintain correspondent accounts or payable-through accounts for the foreign financial institution are authorized to:
+(a) During the 10-day period beginning on the effective date of the prohibition in § 561.201(c), § 561.203(c)(2), § 561.204(c)(2), § 561.205(a), or § 561.205(c) on the maintaining of a correspondent account or a payable-through account for a foreign financial institution whose name is added to the List of Foreign Financial Institutions Subject to Correspondent Account or Payable-Through Account Sanctions (CAPTA List), which is maintained on the Office of Foreign Assets Control's website (*www.treasury.gov/ofac*), U.S. financial institutions that maintain correspondent accounts or payable-through accounts for the foreign financial institution are authorized to:
 
 (1) Process only those transactions through the account, or permit the foreign financial institution to execute only those transactions through the account, that are for the purpose of, and necessary for, closing the account; and
 
@@ -16,4 +16,4 @@ Note to § 561.504:
 
 This section does not authorize a U.S. financial institution to unblock property or interests in property, or to engage in any transaction or dealing in property or interests in property, blocked pursuant to any other part of this chapter, in the process of closing a correspondent account or a payable-through account for a foreign financial institution whose name has been added to the CAPTA List, maintained on the Office of Foreign Assets Control's Web site (*www.treasury.gov/ofac*). *See* § 561.101.
 
-[77 FR 11726, Feb. 27, 2012, as amended at 78 FR 16409, Mar. 15, 2013; 84 FR 9457, Mar. 15, 2019]
+[77 FR 11726, Feb. 27, 2012, as amended at 78 FR 16409, Mar. 15, 2013; 84 FR 9457, Mar. 15, 2019; 84 FR 38548, Aug. 7, 2019]

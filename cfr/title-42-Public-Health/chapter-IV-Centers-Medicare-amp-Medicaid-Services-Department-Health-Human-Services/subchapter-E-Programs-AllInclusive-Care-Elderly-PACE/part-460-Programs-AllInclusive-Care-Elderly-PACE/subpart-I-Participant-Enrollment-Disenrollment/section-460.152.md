@@ -1,7 +1,5 @@
 ##### § 460.152 Enrollment process. #####
 
-Link to an amendment published at 84 FR 25676, June 3, 2019.
-
 (a) *Intake process.* Intake is an intensive process during which PACE staff members make one or more visits to a potential participant's place of residence and the potential participant makes one or more visits to the PACE center. At a minimum, the intake process must include the following activities:
 
 (1) The PACE staff must explain to the potential participant and his or her representative or caregiver the following information:
@@ -32,6 +30,6 @@ Link to an amendment published at 84 FR 25676, June 3, 2019.
 
 (3) Maintain supporting documentation of the reason for the denial.
 
-(4) Notify CMS and the State administering agency and make the documentation available for review.
+(4) Notify CMS and the State administering agency in the form and manner specified by CMS and make the documentation available for review.
 
-[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71337, Dec. 8, 2006]
+[64 FR 66279, Nov. 24, 1999, as amended at 71 FR 71337, Dec. 8, 2006; 84 FR 25676, June 3, 2019]
