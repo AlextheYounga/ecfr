@@ -1,5 +1,15 @@
-##### § 2002.5 Records produced upon request when reasonably described. #####
+##### § 2002.5 How to make a request for OIG records; records produced. #####
 
-(a) When a request is made which reasonably describes a record of the Office of Inspector General (see § 2002.3) which has been stored in the National Archives or other record center of the General Services Administration, the record will be requested by the Office of Inspector General if it otherwise would be available under this part.
+(a) Any request for OIG records must be made in writing. The easiest way to make a FOIA request is electronically through our public website at *www.hudoig.gov.* A request may also be made by submitting the written request to The Office of Inspector General; Department of Housing and Urban Development; 451 Seventh Street SW, Suite 8260, Washington, DC 20410. The envelope should indicate it is a FOIA request. A request for OIG records may also be made in person during normal business hours at any office where OIG employees are permanently stationed.
 
-(b) Every effort will be made to make a record in use by the staff of the Office of Inspector General available when requested, and such availability will be deferred only to the extent necessary to avoid serious interference with the business of the Office of Inspector General.
+(b) Each request must reasonably describe the desired record, including the title or name, author, subject matter, and number or date, where possible, so that the record may be identified and located. The more specific the FOIA request for records, the more likely OIG officials will be able to locate the records requested. The request should also include the name, address and telephone number of the requester, the fee category that the requester believes applies to the request, and the form or format in which the requester would like the desired record to be reproduced, if the requester has a preference. In order to enable the OIG to comply with the time limitations set forth in § 2002.15, both the envelope containing a written request and the letter itself should clearly indicate that the subject is a Freedom of Information Act request.
+
+(c) The request must be accompanied by the fee or an offer to pay the fee as determined in § 15.106 of this title and § 2002.13.
+
+(d) The OIG may require information verifying the requester's identity, if the requester requests agency records pertaining to the requester, a minor, or an individual who is legally incompetent. Failure to provide the information when requested will result in the request being found insufficient and closed. It will not prevent the future refiling of the request.
+
+(e) Duplication of available records will be made as promptly as possible. Such duplication can take the form of paper copy, audiovisual materials, or machine-readable documentation (*e.g.,* electronic documents on CD, DVD, flash drive, etc.). Records that are published or available for sale will not be reproduced.
+
+(f) The OIG shall honor a requester's specified preference of form or format of disclosure if the record is readily reproducible with reasonable efforts in the requested form or format by the office responding to the request.
+
+(g) If the requester makes a request for expedited processing, the request must provide a detailed explanation of the basis for the request. The requester should also include a statement certifying the truth of the circumstances supporting the requester's compelling need. Requests for expedited processing that simply recite the statutory language are generally not granted.

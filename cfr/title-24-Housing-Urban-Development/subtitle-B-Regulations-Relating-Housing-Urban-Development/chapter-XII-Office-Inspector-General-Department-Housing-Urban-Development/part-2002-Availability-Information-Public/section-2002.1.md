@@ -1,19 +1,7 @@
-##### § 2002.1 Scope of the part and applicability of other HUD regulations. #####
+##### § 2002.1 Scope of this part and applicability of other HUD regulations. #####
 
-(a) *General.* This part contains the regulations of the Office of Inspector General which implement the Freedom of Information Act (5 U.S.C. 552). It informs the public how to request records and information from the Office of Inspector General and explains the procedure to use if a request is denied. Requests for documents made by subpoena or other order are governed by procedures contained in part 2004 of this chapter. In addition to the regulations in this part, the following provisions of part 15 of this title covering the production or disclosure of material or information apply (except as limited in paragraph (b) of this section) to the production or disclosure of material in the possession of the Office of Inspector General:
+(a) *General.* This part contains the regulations of the Office of Inspector General (OIG) that implement the Freedom of Information Act (FOIA) (5 U.S.C. 552). It informs the public how to request records and information from the OIG and explains the procedure to use if a request is denied. Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, are processed in accordance with 24 CFR part 2003 as well as this part. Requests for documents made by subpoena or other demands of courts or other authorities are governed by procedures contained in part 2004 of this chapter. These rules should be read in conjunction with the text of the FOIA and the Uniform Freedom of Information Fee Schedule and Guidelines published by the Office of Management and Budget. This policy does not create any right enforceable in court.
 
-§ 15.2 - What definitions apply to this part?
+(b) *Applicability of HUD's FOIA regulations.* In addition to the regulations in this part, §§ 15.2 and 15.106 of this title apply to the production or disclosure of information in the possession of the OIG, except as limited in paragraph (c) of this section or otherwise expressly stated in this part.
 
-§ 15.3 - What exemptions are authorized by 5 U.S.C. 552?;
-
-§ 15.108 - What are HUD's policies concerning designating confidential commercial or financial information under Exemption 4 of the FOIA and responding to requests for business information?
-
-§ 15.110 - What fees will HUD charge?
-
-(b) Limited applicability of section 15.110. For purposes of this part, paragraphs (d) through (k) of § 15.110 are not applicable.
-
-(c) Use of the term “HUD”. For purposes of this part, and when the words “HUD” or “Department” are used in this part or §§ 15.2(b), 15.3, 15.108 and 15.110 of this title, the term means the Office of the Inspector General.
-
-(d) Request for declassification and release of classified material. Section 15.107 of this title contains provisions for requesting declassification and release of declassified material.
-
-[67 FR 47216, July 17, 2002]
+(c) *Limited applicability of §§ 15.2 and 15.106 of this title.* The OIG has different people and entities involved in the FOIA process than those defined in § 15.2 and these people and entities are specifically identified in this part. For purposes of this part, when the words “HUD” or “Department” are used in § 15.2 or § 15.106, the term means the OIG. The OIG will follow the fee schedule at § 15.106 except as otherwise provided in this part. Where § 15.106 references § 15.103, the OIG reference in this part is § 2002.15.

@@ -74,13 +74,15 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 *Over-report factor.* The factor that adjusts your indemnity for over-reporting of inventory values. This factor is used to determine indemnities when the basic unit value minus the total of all previous losses is more than 110 percent of FMVA for the same basic unit plus the insured value of plants listed on the verifiable sales records. The over-report factor is calculated by:
 
-(1) The basic unit value reported on the PIVR, including any Peak Inventory Value Report during the coverage term of a Peak Inventory Endorsement, if applicable, minus the total of all previous losses;
+(1) The basic unit value minus the total of all previous losses;
 
-(2) FMVA plus the insured value of plants listed on the verifiable sales records, minus 1.100; and
+(2) FMVA plus the insured value of plants listed on the verifiable sales records;
 
-(3) Dividing the result of paragraph (1) of this definition by the result of paragraph (2) of this definition.
+(3) Dividing the result of paragraph (1) of this definition by the result of paragraph (2) of this definition; and
 
-(4) If the result is greater than 0.000, then the over-report factor applies.
+(4) Subtracting 1.100 from the result of paragraph (3) of this definition.
+
+(5) If the result of paragraph (4) of this definition is greater than 0.000, then the result of paragraph (4) is the over-report factor that is applied.
 
 *PIVR.* The plant inventory value report, your report that declares the value of insurable plants in accordance with section 6.
 
@@ -100,7 +102,7 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 (1) 1.000; or
 
-(2) The basic unit value, including a Peak Inventory Value Report during the coverage term of a Peak Inventory Endorsement, if applicable, minus the total of all previous losses; and dividing that result by FMVA.
+(2) The basic unit value minus the total of all previous losses; and dividing that result by FMVA.
 
 *Wholesale.* To sell nursery plants in large quantities at a price below that offered on low-quantity sales to retailers, commercial users, governmental end-users, or other end-users for business purposes (*e.g.* sales to landscape contractors and commercial fruit producers). This determination will be based on a county-by-county basis.
 
@@ -494,4 +496,4 @@ Step (6): $51,000 × 1.000 share = $51,000 indemnity payment.
 
 Your peak amount of insurance is reduced to zero. Your amount of insurance is reduced by the amount the indemnity exceeds the peak amount of insurance. $64,000 − ($51,000 − $45,000) = $64,000 − $6,000 = $58,000.
 
-[63 FR 50975, Sept. 24, 1998; 63 FR 57046, Oct. 26, 1998, as amended at 70 FR 37241, June 28, 2005; 71 FR 74456, Dec. 12, 2006; 83 FR 4570, Jan. 31, 2018]
+[63 FR 50975, Sept. 24, 1998; 63 FR 57046, Oct. 26, 1998, as amended at 70 FR 37241, June 28, 2005; 71 FR 74456, Dec. 12, 2006; 83 FR 4570, Jan. 31, 2018; 83 FR 12657, Mar. 23, 2018]

@@ -1,6 +1,6 @@
 ##### § 20.3 Definitions. #####
 
-Link to an amendment published at 83 FR 7401, Feb. 21, 2018.Link to an amendment published at 83 FR 7922, Feb. 22, 2018.
+Link to an amendment published at 83 FR 7922, Feb. 22, 2018.
 
 *Appropriate local emergency authority.* An emergency answering point that has not been officially designated as a Public Safety Answering Point (PSAP), but has the capability of receiving 911 calls and either dispatching emergency services personnel or, if necessary, relaying the call to another emergency service provider. An appropriate local emergency authority may include, but is not limited, to an existing local law enforcement authority, such as the police, county sheriff, local emergency medical services provider, or fire department.
 
@@ -24,7 +24,11 @@ Link to an amendment published at 83 FR 7401, Feb. 21, 2018.Link to an amendment
 
 (3) Available to the public, or to such classes of eligible users as to be effectively available to a substantial portion of the public; or
 
-(b) The functional equivalent of such a mobile service described in paragraph (a) of this section, including a mobile broadband Internet access service as defined in § 8.2 of this chapter.
+(b) The functional equivalent of such a mobile service described in paragraph (a) of this definition, including a mobile broadband Internet access service as defined in § 8.2 of this chapter.
+
+(c) A variety of factors may be evaluated to make a determination whether the mobile service in question is the functional equivalent of a commercial mobile radio service, including: Consumer demand for the service to determine whether the service is closely substitutable for a commercial mobile radio service; whether changes in price for the service under examination, or for the comparable commercial mobile radio service, would prompt customers to change from one service to the other; and market research information identifying the targeted market for the service under review.
+
+(d) Unlicensed radio frequency devices under part 15 of this chapter are excluded from this definition of Commercial mobile radio service.
 
 *Consumer Signal Booster:* A bi-directional signal booster that is marketed and sold to the general public for use without modification.
 
@@ -66,7 +70,7 @@ Link to an amendment published at 83 FR 7401, Feb. 21, 2018.Link to an amendment
 
 *Non-individual.* A non-individual is a partnership and each partner is eighteen years of age or older; a corporation; an association; a state, territorial, or local government unit; or a legal entity.
 
-*Private Mobile Radio Service.* A mobile service that is neither a commercial mobile radio service nor the functional equivalent of a service that meets the definition of commercial mobile radio service. Private mobile radio service includes the following:
+*Private Mobile Radio Service.* A mobile service that meets neither the paragraph (a) nor paragraph (b) definitions of commercial mobile radio service set forth in this section. A mobile service that does not meet the paragraph (a) definition of commercial mobile radio service in this section is presumed to be a private mobile radio service. Private mobile radio service includes the following:
 
 (a) Not-for-profit land mobile radio and paging services that serve the licensee's internal communications needs as defined in part 90 of this chapter. Shared-use, cost-sharing, or cooperative arrangements, multiple licensed systems that use third party managers or users combining resources to meet compatible needs for specialized internal communications facilities in compliance with the safeguards of § 90.179 of this chapter are presumptively private mobile radio services;
 
@@ -92,4 +96,4 @@ Link to an amendment published at 83 FR 7401, Feb. 21, 2018.Link to an amendment
 
 *Wideband Consumer Signal Boosters.* Wideband Consumer Signal Boosters may operate on the frequencies and in the market areas of multiple licensees.
 
-[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38402, July 24, 1996; 61 FR 40352, Aug. 2, 1996; 62 FR 18843, Apr. 17, 1997; 63 FR 2637, Jan. 16, 1998; 64 FR 60130, Nov. 4, 1999; 67 FR 1648, Jan. 14, 2002; 72 FR 50073, Aug. 30, 2007; 75 FR 22276, Apr. 28, 2010; 76 FR 26220, May 6, 2011; 78 FR 21559, Apr. 11, 2013; 80 FR 19850, Apr. 13, 2015]
+[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38402, July 24, 1996; 61 FR 40352, Aug. 2, 1996; 62 FR 18843, Apr. 17, 1997; 63 FR 2637, Jan. 16, 1998; 64 FR 60130, Nov. 4, 1999; 67 FR 1648, Jan. 14, 2002; 72 FR 50073, Aug. 30, 2007; 75 FR 22276, Apr. 28, 2010; 76 FR 26220, May 6, 2011; 78 FR 21559, Apr. 11, 2013; 80 FR 19850, Apr. 13, 2015; 83 FR 7401, Feb. 21, 2018]

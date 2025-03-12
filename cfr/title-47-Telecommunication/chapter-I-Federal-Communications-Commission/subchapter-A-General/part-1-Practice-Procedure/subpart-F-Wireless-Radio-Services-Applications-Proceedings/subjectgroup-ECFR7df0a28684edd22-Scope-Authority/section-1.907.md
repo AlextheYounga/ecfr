@@ -1,7 +1,5 @@
 ##### § 1.907 Definitions. #####
 
-Link to an amendment published at 83 FR 7401, Feb. 21, 2018.
-
 *Antenna structure.* The term antenna structure includes the radiating and receiving elements, its supporting structures, towers, and all appurtenances mounted thereon.
 
 *Application.* A request on a standard form for a station license as defined in § 3(b) of the Communications Act, signed in accordance with § 1.917 of this part, or a similar request to amend a pending application or to modify or renew an authorization. The term also encompasses requests to assign rights granted by the authorization or to transfer control of entities holding authorizations.
@@ -52,6 +50,6 @@ Link to an amendment published at 83 FR 7401, Feb. 21, 2018.
 
 *Wireless Radio Services.* All radio services authorized in parts 13, 20, 22, 24, 26, 27, 30, 74, 80, 87, 90, 95, 96, 97 and 101 of this chapter, whether commercial or private in nature.
 
-*Wireless Telecommunications Services.* Wireless Radio Services, whether fixed or mobile, that meet the definition of “telecommunications service” as defined by 47 U.S.C. 153, as amended, and are therefore subject to regulation on a common carrier basis. Wireless Telecommunications Services include all radio services authorized by parts 20, 22, 24, 26, 27, and 30 of this chapter. In addition, Wireless Telecommunications Services include Public Coast Stations authorized by part 80 of this chapter, Commercial Mobile Radio Services authorized by part 90 of this chapter, common carrier fixed microwave services, Local Television Transmission Service (LTTS), Local Multipoint Distribution Service (LMDS), and Digital Electronic Message Service (DEMS), authorized by part 101 of this chapter, and Citizens Broadband Radio Services authorized by part 96 of this chapter.
+*Wireless Telecommunications Services.* Wireless Radio Services, whether fixed or mobile, that meet the definition of “telecommunications service” as defined by 47 U.S.C. 153, as amended, and are therefore subject to regulation on a common carrier basis.
 
-[63 FR 68921, Dec. 14, 1998, as amended at 73 FR 9018, Feb. 19, 2008; 78 FR 41321, July 10, 2013; 80 FR 36218, June 23, 2015; 81 FR 79930, Nov. 14, 2016; 82 FR 41544, Sept. 1, 2017]
+[63 FR 68921, Dec. 14, 1998, as amended at 73 FR 9018, Feb. 19, 2008; 78 FR 41321, July 10, 2013; 80 FR 36218, June 23, 2015; 81 FR 79930, Nov. 14, 2016; 82 FR 41544, Sept. 1, 2017; 83 FR 7401, Feb. 21, 2018]
