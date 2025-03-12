@@ -1,6 +1,6 @@
 ##### § 192.319 Installation of pipe in a ditch. #####
 
-Link to an amendment published at 87 FR 52268, Aug. 24, 2022.
+Link to an amendment published at 87 FR 52268, Aug. 24, 2022.Link to an amendment published at 88 FR 24711, Apr. 24, 2023.
 
 (a) When installed in a ditch, each transmission line that is to be operated at a pressure producing a hoop stress of 20 percent or more of SMYS must be installed so that the pipe fits the ditch so as to minimize stresses and protect the pipe coating from damage.
 

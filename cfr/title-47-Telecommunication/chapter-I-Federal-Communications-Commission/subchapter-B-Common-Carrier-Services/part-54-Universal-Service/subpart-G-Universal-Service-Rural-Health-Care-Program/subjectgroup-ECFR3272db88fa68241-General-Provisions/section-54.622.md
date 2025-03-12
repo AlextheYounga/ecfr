@@ -1,8 +1,6 @@
 ##### § 54.622 Competitive bidding requirements and exemptions. #####
 
-Link to an amendment published at 88 FR 17396, Mar. 23, 2023.
-
-(a) *Competitive bidding requirement.* All applicants are required to engage in a competitive bidding process for supported services, facilities, or equipment, as applicable, consistent with the requirements set forth in this section and any additional applicable state, Tribal, local, or other procurement requirements, unless they qualify for an exemption listed in paragraph (j) in this section. In addition, applicants may engage in competitive bidding even if they qualify for an exemption. Applicants who utilize a competitive bidding exemption may proceed directly to filing a funding request as described in § 54.623.
+(a) *Competitive bidding requirement.* All applicants are required to engage in a competitive bidding process for supported services, facilities, or equipment, as applicable, consistent with the requirements set forth in this section and any additional applicable state, Tribal, local, or other procurement requirements, unless they qualify for an exemption listed in paragraph (i) in this section. In addition, applicants may engage in competitive bidding even if they qualify for an exemption. Applicants who utilize a competitive bidding exemption may proceed directly to filing a funding request as described in § 54.623.
 
 (b) *Fair and open process.* (1) Applicants participating in the Telecommunications Program or Healthcare Connect Fund Program must conduct a fair and open competitive bidding process. The following actions are necessary to satisfy the “fair and open” competitive standard in the Telecommunications Program and the Healthcare Connect Fund Program:
 
@@ -24,7 +22,7 @@ Link to an amendment published at 88 FR 17396, Mar. 23, 2023.
 
 (1) *Request for Services, including certifications.* The applicant must submit a Request for Services and make the following certifications as part of its Request for Services:
 
-(i) The health care provider seeking supported services is a public or nonprofit entity that falls within one of the seven categories set forth in the definition of health care provider, listed in § 54.600;
+(i) The health care provider seeking supported services is a public or nonprofit entity that falls within one of the categories set forth in the definition of health care provider, listed in § 54.600;
 
 (ii) The health care provider seeking supported services is physically located in a rural area as defined in § 54.600, or is a member of a Healthcare Connect Fund Program consortium which satisfies the rural health care provider composition requirements set forth in § 54.607(b);
 
@@ -151,3 +149,5 @@ Link to an amendment published at 88 FR 17396, Mar. 23, 2023.
 (4) *Schools and libraries program master contracts.* Subject to the provisions in § 54.500, § 54.501(c)(1), and § 54.503, an eligible health care provider in a consortium with participants in the schools and libraries universal service support program and a party to the consortium's existing contract is exempt from the competitive bidding requirements if the contract was approved in the schools and libraries universal service support program as a master contract. The health care provider must comply with all Rural Health Care Program rules and procedures except for those applicable to competitive bidding.
 
 (5) *Annual undiscounted cost of $10,000 or less.* An applicant under the Healthcare Connect Fund Program that seeks support for $10,000 or less of total undiscounted eligible expenses for a single year is exempt from the competitive bidding requirements under this section, if the term of the contract is one year or less. This exemption does not apply to applicants under the Telecommunications Program.
+
+[84 FR 54979, Oct. 11, 2019, as amended at 88 FR 17396, Mar. 23, 2023]

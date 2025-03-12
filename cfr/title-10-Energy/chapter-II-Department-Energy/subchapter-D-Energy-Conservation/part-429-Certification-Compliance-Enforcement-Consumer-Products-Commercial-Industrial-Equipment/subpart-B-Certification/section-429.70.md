@@ -1,6 +1,6 @@
 ##### § 429.70 Alternative methods for determining energy efficiency and energy use. #####
 
-Link to an amendment published at 88 FR 17973, Mar. 24, 2023.Link to an amendment published at 88 FR 21837, Apr. 11, 2023.
+Link to an amendment published at 88 FR 21837, Apr. 11, 2023.
 
 (a) *General.* A manufacturer of covered products or covered equipment explicitly authorized to use an AEDM in §§ 429.14 through 429.65 may not distribute any basic model of such product or equipment in commerce unless the manufacturer has determined the energy consumption or energy efficiency of the basic model, either from testing the basic model in conjunction with DOE's certification sampling plans and statistics or from applying an alternative method for determining energy efficiency or energy use (*i.e.,* AEDM) to the basic model, in accordance with the requirements of this section. In instances where a manufacturer has tested a basic model to validate the AEDM, the represented value of energy consumption or efficiency of that basic model must be determined and certified according to results from actual testing in conjunction with 10 CFR part 429, subpart B certification sampling plans and statistics. In addition, a manufacturer may not knowingly use an AEDM to overrate the efficiency of a basic model.
 
@@ -676,4 +676,116 @@ Table 2 to Paragraph (c)(5)(vi)(B)
 
 (*4*) Obtaining DOE authorization to resume use of an AEDM.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022; 87 FR 63894, Oct. 20, 2022; 87 FR 77321, Dec. 16, 2022]
+(m) *Alternative efficiency determination method (AEDM) for general pumps*—(1) *Criteria an AEDM must satisfy.* A manufacturer may not apply an AEDM to a basic model to determine its efficiency pursuant to this section, unless:
+
+(i) The AEDM is derived from a mathematical model that estimates the energy efficiency or energy consumption characteristics of the basic model as measured by the applicable DOE test procedure;
+
+(ii) The AEDM is based on engineering or statistical analysis, computer simulation or modeling, or other analytic evaluation of performance data; and
+
+(iii) The manufacturer has validated the AEDM, in accordance with paragraph (m)(2) of this section.
+
+(2) *Validation of an AEDM.* Before using an AEDM, the manufacturer must validate the AEDM's accuracy and reliability as follows:
+
+(i) *AEDM overview.* The manufacturer must select at least the minimum number of basic models for each validation class specified in paragraph (m)(2)(iv) of this section to which the particular AEDM applies. Using the AEDM, calculate the PEI for each of the selected basic models. Test each basic model and determine the represented value(s) in accordance with § 429.63(a). Compare the results from the testing and the AEDM output according to paragraph (m)(2)(ii) of this section. The manufacturer is responsible for ensuring the accuracy and repeatability of the AEDM.
+
+(ii) *AEDM basic model tolerances.* (A) The predicted representative PEI for each basic model calculated by applying the AEDM may not be more than five percent less than the represented PEI determined from the corresponding test of the model.
+
+(B) The predicted constant or variable load pump energy index for each basic model calculated by applying the AEDM must meet or exceed the applicable federal energy conservation standard.
+
+(iii) *Additional test unit requirements.* (A) Each AEDM must be supported by test data obtained from physical tests of current models; and
+
+(B) Test results used to validate the AEDM must meet or exceed current, applicable Federal standards as specified in part 431 of this chapter; and
+
+(C) Each test must have been performed in accordance with the applicable DOE test procedure with which compliance is required at the time the basic models used for validation are distributed in commerce.
+
+(iv) *Pump validation classes.*
+
+|                                                    Validation class                                                     |Minimum number of distinct basic models that must be tested|
+|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+|          (A) Constant Load End-suction Closed-Coupled Pumps and Constant Load End-suction Frame-Mounted Pumps           |                      2 Basic Models.                      |
+|          (B) Variable Load End-suction Closed-Coupled Pumps and Variable Load End-suction Frame-Mounted Pumps           |                      2 Basic Models.                      |
+|                      (C) Constant Load Inline Pumps and Constant Load Small Vertical Inline Pumps                       |                      2 Basic Models.                      |
+|                      (D) Variable Load Inline Pumps and Variable Load Small Vertical Inline Pumps                       |                      2 Basic Models.                      |
+|(E) Constant Load Radially-Split Multi-Stage Vertical Pumps and Constant Load Radially-Split Multi-Stage Horizonal Pumps |                      2 Basic Models.                      |
+|(F) Variable Load Radially-Split Multi-Stage Vertical Pumps and Variable Load Radially-Split Multi-Stage Horizontal Pumps|                      2 Basic Models.                      |
+|                  (G) Constant Load Submersible Turbine Pumps and Constant Load Vertical Turbine Pumps                   |                      2 Basic Models.                      |
+|                  (H) Variable Load Submersible Turbine Pumps and Variable Load Vertical Turbine Pumps                   |                      2 Basic Models.                      |
+
+(3) *AEDM records retention requirements.* If a manufacturer has used an AEDM to determine representative values pursuant to this section, the manufacturer must have available upon request for inspection by the Department records showing:
+
+(i) The AEDM, including the mathematical model, the engineering or statistical analysis, and/or computer simulation or modeling that is the basis of the AEDM;
+
+(ii) Regarding the units tested that were used to validate the AEDM pursuant to paragraph (m)(2) of this section, equipment information, complete test data, AEDM calculations, and the statistical comparisons; and
+
+(iii) For each basic model to which the AEDM was applied, equipment information and AEDM calculations.
+
+(4) *Additional AEDM requirements.* If requested by the Department, the manufacturer must:
+
+(i) Conduct simulations before representatives of the Department to predict the performance of particular basic models of the equipment to which the AEDM was applied;
+
+(ii) Provide analyses of previous simulations conducted by the manufacturer; and/or
+
+(iii) Conduct certification testing of basic models selected by the Department.
+
+(5) *AEDM verification testing.* DOE may use the test data for a given individual model generated pursuant to § 429.104 to verify the certified rating determined by an AEDM as long as the following process is followed:
+
+(i) *Selection of units.* DOE will obtain units for test from retail, where available. If units cannot be obtained from retail, DOE will request that a unit be provided by the manufacturer.
+
+(ii) *Lab requirements.* DOE will conduct testing at an independent, third-party testing facility of its choosing. In cases where no third-party laboratory is capable of testing the equipment, it may be tested at a manufacturer's facility upon DOE's request.
+
+(iii) *Manufacturer participation.* Testing will be performed without manufacturer representatives on-site.
+
+(iv) *Testing.* All verification testing will be conducted in accordance with the applicable DOE test procedure, as well as each of the following to the extent that they apply:
+
+(A) Any active test procedure waivers that have been granted for the basic model;
+
+(B) Any test procedure guidance that has been issued by DOE;
+
+(C) If during test set-up or testing, the lab indicates to DOE that it needs additional information regarding a given basic model in order to test in accordance with the applicable DOE test procedure, DOE may organize a meeting between DOE, the manufacturer and the lab to provide such information.
+
+(D) At no time during the process may the lab communicate directly with the manufacturer without DOE present.
+
+(v) *Failure to meet certified rating.* If a model's test results are worse than its certified rating by an amount exceeding the tolerance prescribed in paragraph (f)(5)(vi) of this section, DOE will notify the manufacturer. DOE will provide the manufacturer with all documentation related to the test set up, test conditions, and test results for the unit. Within the timeframe allotted by DOE, the manufacturer may then present all claims regarding testing validity.
+
+(vi) *Tolerances.* For consumption metrics, the result from a DOE verification test must be less than or equal to the certified rating × (1 + the applicable tolerance).
+
+Table 7 to Paragraph (m)(5)(vi)
+
+|  Equipment  |                  Metric                   |Applicable  <br/>tolerance  <br/>(%)|
+|-------------|-------------------------------------------|------------------------------------|
+|General Pumps|Constant or Variable Load Pump Energy Index|                 5                  |
+
+(vii) *Invalid rating.* If, following discussions with the manufacturer and a retest where applicable, DOE determines that the testing was conducted appropriately in accordance with the DOE test procedure, the rating for the model will be considered invalid. The manufacturer must conduct additional testing and re-rate and re-certify the basic models that were rated using the AEDM based on all test data collected, including DOE's test data.
+
+(viii) *AEDM use.* This paragraph (m)(5)(viii) specifies when a manufacturer's use of an AEDM may be restricted due to prior invalid represented values.
+
+(A) If DOE has determined that a manufacturer made invalid ratings on two or more models rated using the same AEDM within a 24-month period, the manufacturer must take the action listed in the table corresponding to the number of invalid certified ratings. The twenty-four month period begins with a DOE determination that a rating is invalid through the process outlined previously. Additional invalid ratings apply for the purposes of determining the appropriate consequences if the subsequent determination(s) is based on selection of a unit for testing within the twenty-four-month period (*i.e.,* subsequent determinations need not be made within 24 months).
+
+Table 8 to Paragraph (m)(5)(viii)(A)
+
+|Number of invalid certified ratings from the same AEDM<sup>1</sup> within a  <br/>rolling 24-month period<sup>2</sup>|                                                                                                                             Required manufacturer actions                                                                                                                              |
+|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                          2                                                          |                                                     Submit different test data and reports from testing to validate that AEDM within the validation classes to which it is applied.<sup>3</sup> Adjust the ratings as appropriate.                                                     |
+|                                                          4                                                          |Conduct double the minimum number of validation tests for the validation classes to which the AEDM is applied. Note, the tests required under this paragraph (m)(5)(viii) must be performed on different models than the original tests required under paragraph (m)(2) of this section.|
+|                                                          6                                                          |                                                                       Conduct the minimum number of validation tests for the validation classes to which the AEDM is applied at a third-party test facility; And                                                                       |
+|                                                                                                                     |                Conduct additional testing, which is equal to1/2 the minimum number of validation tests for the validation classes to which the AEDM is applied, at either the manufacturer's facility or a third-party test facility, at the manufacturer's discretion.                |
+|                                                                                                                     |                                                       Note, the tests required under this paragraph (m)(5)(viii) must be performed on different models than the original tests performed under paragraph (m)(2) of this section.                                                       |
+|                                                       \> = 8                                                        |                Manufacturer has lost privilege to use AEDM. All ratings for models within the validation classes to which the AEDM applied should be rated via testing. Distribution cannot continue until certification(s) are corrected to reflect actual test data.                 |
+
+<sup>1</sup> The “same AEDM” means a computer simulation or mathematical model that is identified by the manufacturer at the time of certification as having been used to rate a model or group of models.
+
+<sup>2</sup> The twenty-four month period begins with a DOE determination that a rating is invalid through the process outlined above. Additional invalid ratings apply for the purposes of determining the appropriate consequences if the subsequent determination(s) is based on testing of a unit that was selected for testing within the twenty-four month period (i.e., subsequent determinations need not be made within 24 months).
+
+<sup>3</sup> A manufacturer may discuss with DOE's Office of Enforcement whether existing test data on different basic models within the validation classes to which that specific AEDM was applied may be used to meet this requirement.
+
+(B) If, as a result of eight or more invalid ratings, a manufacturer has lost the privilege of using an AEDM for rating, the manufacturer may regain the ability to use an AEDM by:
+
+(*1*) Investigating and identifying cause(s) for failures;
+
+(*2*) Taking corrective action to address cause(s);
+
+(*3*) Performing six new tests per validation class, a minimum of two of which must be performed by an independent, third-party laboratory to validate the AEDM; and
+
+(*4*) Obtaining DOE authorization to resume use of the AEDM.
+
+[76 FR 12451, Mar. 7, 2011; 76 FR 24780, May 2, 2011, as amended at 78 FR 79595, Dec. 31, 2013; 79 FR 25505, May 5, 2014; 79 FR 27410, May 13, 2014; 80 FR 152, Jan. 5, 2015; 79 FR 40565, July 11, 2014; 81 FR 4145, Jan. 25, 2016; 81 FR 37054, June 8, 2016; 81 FR 89304, Dec. 9, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 1475, Jan. 5, 2017; 87 FR 43979, July 22, 2022; 87 FR 45195, July 27, 2022; 87 FR 63649, Oct. 19, 2022; 87 FR 63894, Oct. 20, 2022; 87 FR 77321, Dec. 16, 2022; 88 FR 17973, Mar. 24, 2023]

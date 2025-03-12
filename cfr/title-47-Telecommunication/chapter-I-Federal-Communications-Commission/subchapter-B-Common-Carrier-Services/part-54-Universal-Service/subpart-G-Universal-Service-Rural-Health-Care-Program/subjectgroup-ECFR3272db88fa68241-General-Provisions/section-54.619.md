@@ -1,8 +1,6 @@
 ##### § 54.619 Cap. #####
 
-Link to an amendment published at 88 FR 17396, Mar. 23, 2023.
-
-(a) *Amount of the annual cap.* The aggregate annual cap on federal universal service support for health care providers shall be $571 million per funding year, of which up to $150 million per funding year will be available to support upfront payments and multi-year commitments under the Healthcare Connect Fund Program.
+(a) *Amount of the annual cap.* The aggregate annual cap on Federal universal service support for health care providers shall be $571 million per funding year. When total demand during a filing window period exceeds the total remaining support available for the funding year, an internal cap of $150 million per funding year for upfront payments and multi-year commitments under the Healthcare Connect Fund Program shall apply.
 
 (1) *Inflation increase.* In funding year 2018 and subsequent funding years, the $571 million cap on federal universal support in the Rural Health Care Program shall be increased annually to take into account increases in the rate of inflation as calculated in paragraph (a)(2) in this section. In funding year 2020 and subsequent funding years, the $150 million cap on multi-year commitments and upfront payments in the Healthcare Connect Fund Program shall also be increased annually to take into account increases in the rate of inflation as calculated in paragraph (a)(2) in this section.
 
@@ -15,3 +13,5 @@ Link to an amendment published at 88 FR 17396, Mar. 23, 2023.
 (5) *Application of unused funds.* On an annual basis, in the second quarter of each calendar year, all unused collected funds from prior years shall be available for use in the next full funding year of the Rural Health Care Program notwithstanding the annual cap as described in paragraph (a) in this section. The Wireline Competition Bureau, in consultation with the Office of the Managing Director, shall determine the proportion of unused funding for use in the Rural Health Care Program in accordance with the public interest to either satisfy demand notwithstanding the annual cap, reduce collections for the Rural Health Care Program, or to hold in reserve to address contingencies for subsequent funding years. The Wireline Competition Bureau shall direct the Administrator to carry out the necessary actions for the use of available funds consistent with the direction specified in this section.
 
 (b) [Reserved]
+
+[84 FR 54979, Oct. 11, 2019, as amended at 88 FR 17396, Mar. 23, 2023]

@@ -1,7 +1,5 @@
 ##### § 139.303 Personnel. #####
 
-Link to an amendment published at 88 FR 11672, Feb. 23, 2023.
-
 In a manner authorized by the Administrator, each certificate holder must—
 
 (a) Provide sufficient and qualified personnel to comply with the requirements of its Airport Certification Manual and the requirements of this part.
@@ -32,9 +30,11 @@ In a manner authorized by the Administrator, each certificate holder must—
 
 (4) § 139.329, Pedestrians and Ground Vehicles;
 
-(5) § 139.337, Wildlife hazard management; and
+(5) § 139.337, Wildlife hazard management;
 
-(6) § 139.339, Airport condition reporting.
+(6) § 139.339, Airport condition reporting; and
+
+(7) § 139.402, Components of airport safety management system.
 
 (f) Use an independent organization, or designee, to comply with the requirements of its Airport Certification Manual and the requirements of this part only if—
 
@@ -44,4 +44,4 @@ In a manner authorized by the Administrator, each certificate holder must—
 
 (3) The independent organization or designee prepares records required under this part in sufficient detail to assure the certificate holder and the Administrator of adequate compliance with the Airport Certification Manual and the requirements of this part.
 
-[Doc. No. FAA-2000-7479, 69 FR 6424, Feb. 10, 2004; Amdt. 139-26, 69 FR 31522, June 4, 2004, as amended by Amdt. 139-27, 78 FR 3316, Jan. 16, 2013]
+[Doc. No. FAA-2000-7479, 69 FR 6424, Feb. 10, 2004; Amdt. 139-26, 69 FR 31522, June 4, 2004, as amended by Amdt. 139-27, 78 FR 3316, Jan. 16, 2013; Docket No. FAA-2010-0997;Amdt. No. 139-28, 88 FR 11672, Feb. 23, 2023]

@@ -1,7 +1,5 @@
 ##### § 401.14 Standard patent rights clauses. #####
 
-Link to an amendment published at 88 FR 17738, Mar. 24, 2023.
-
 The following is the standard patent rights clause to be used as specified in § 401.3(a):
 
 Standard Patent Rights(a) Definitions
@@ -18,9 +16,9 @@ Standard Patent Rights(a) Definitions
 
 (6) *Nonprofit Organization* means a university or other institution of higher education or an organization of the type described in section 501(c)(3) of the Internal Revenue Code of 1954 (26 U.S.C. 501(c) and exempt from taxation under section 501(a) of the Internal Revenue Code (25 U.S.C. 501(a)) or any nonprofit scientific or educational organization qualified under a state nonprofit organization statute.
 
-(7) The term *statutory period* means the one-year period before the effective filing date of a claimed invention during which exceptions to prior art exist per 35 U.S.C. 102(b) as amended by the Leahy-Smith America Invents Act, Public Law 112-29.
+(7) *Statutory period* means the one-year period before the effective filing date of a claimed invention in a patent application during which exceptions to prior art exist per 35 U.S.C. 102(b) as amended by the Leahy-Smith America Invents Act, Public Law 112-29.
 
-(8) The term *contractor* means any person, small business firm or nonprofit organization, or, as set forth in section 1, paragraph (b)(4) of Executive Order 12591, as amended, any business firm regardless of size, which is a party to a funding agreement.
+(8) *Contractor* means any person, small business firm, or nonprofit organization, or, as set forth in section 1, paragraph (b)(4) of Executive Order 12591, as amended, any business firm regardless of size, which is a party to a funding agreement.
 
 (b) Allocation of Principal Rights
 
@@ -28,29 +26,39 @@ The *Contractor* may retain the entire right, title, and interest throughout the
 
 (c) Invention Disclosure, Election of Title and Filing of Patent Application by *Contractor*
 
-(1) The *contractor* will disclose each subject invention to the *Federal Agency* within two months after the inventor discloses it in writing to *contractor* personnel responsible for patent matters. The disclosure to the agency shall be in the form of a written report and shall identify the *contract* under which the invention was made and the inventor(s). It shall be sufficiently complete in technical detail to convey a clear understanding to the extent known at the time of the disclosure, of the nature, purpose, operation, and the physical, chemical, biological or electrical characteristics of the invention. The disclosure shall also identify any publication, on sale or public use of the invention and whether a manuscript describing the invention has been submitted for publication and, if so, whether it has been accepted for publication at the time of disclosure. In addition, after disclosure to the *agency,* the *Contractor* will promptly notify the *agency* of the acceptance of any manuscript describing the invention for publication or of any on sale or public use planned by the *contractor.*
+(1) The *contractor* will disclose each subject invention to the *Federal agency* within two months after the inventor discloses it in writing to *contractor* personnel responsible for patent matters. The disclosure to the agency shall be in the form of a written report and shall identify the *contract* under which the invention was made and the inventor(s). It shall be sufficiently complete in technical detail to convey a clear understanding to the extent known at the time of the disclosure, of the nature, purpose, operation, and the physical, chemical, biological or electrical characteristics of the invention. The disclosure shall also identify any publication, on sale or public use of the invention, and whether a manuscript describing the invention has been submitted for publication and, if so, whether it has been accepted for publication at the time of disclosure. In addition, after disclosure to the *agency,* the *contractor* will promptly notify the *agency* of the acceptance of any manuscript describing the invention for publication or of any on sale or public use planned by the *contractor.* If required by the *Federal agency,* the *contractor* will provide periodic (but no more frequently than annual) listings of all subject inventions which were disclosed to the agency during the period covered by the report, and will provide a report prior to the close-out of a funding agreement listing all subject inventions or stating that there were none.
 
 (2) The *contractor* will elect in writing whether or not to retain title to any such invention by notifying the *Federal agency* within two years of disclosure to the *Federal agency*. However, in any case where a patent, a printed publication, public use, sale, or other availability to the public has initiated the one year statutory period wherein valid patent protection can still be obtained in the United States, the period for election of title may be shortened by the *agency* to a date that is no more than 60 days prior to the end of the statutory period.
 
-(3) The *contractor* will file its initial patent application on a subject invention to which it elects to retain title within one year after election of title or, if earlier, prior to the end of any statutory period wherein valid patent protection can be obtained in the United States after a publication, on sale, or public use. If the *contractor* files a provisional application as its initial patent application, it shall file a non-provisional application within 10 months of the filing of the provisional application. The *contractor* will file patent applications in additional countries or international patent offices within either ten months of the first filed patent application or six months from the date permission is granted by the Commissioner of Patents to file foreign patent applications where such filing has been prohibited by a Secrecy Order.
+(3)(i) The *contractor* will file its initial patent application on a subject invention to which it elects to retain title within one year after election of title or, if earlier, prior to the end of any statutory period wherein valid patent protection can be obtained in the United States after a publication, on sale, or public use.
+
+(ii) If the *contractor* files a provisional application as its initial patent application, it shall file a nonprovisional application within 10 months of the filing of the provisional application. So long as there is a pending patent application for the subject invention and the statutory period wherein valid patent protection can be obtained in the United States has not expired, additional provisional applications may be filed within the initial 10 months or any extension period granted under paragraph (c)(5) of this clause. If an extension(s) is granted under paragraph (c)(5) of this clause, the *contractor* shall file a nonprovisional patent application prior to the expiration of the extension(s) or notify the agency of any decision not to file a nonprovisional application prior to the expiration of the extension(s), or if earlier, 60 days prior to the end of any statutory period wherein valid patent protection can be obtained in the United States.
+
+(iii) The *contractor* will file patent applications in additional countries or international patent offices within either ten months of the first filed patent application or six months from the date permission is granted by the Commissioner of Patents to file foreign patent applications where such filing has been prohibited by a Secrecy Order.
+
+(iv) If required by the *Federal agency,* the *contractor* will provide the filing date, patent application number and title; a copy of the patent application; and patent number and issue date for any subject invention in any country in which the *contractor* has applied for a patent.
 
 (4) For any subject invention with *Federal agency* and *contractor* co-inventors, where the *Federal agency* employing such co-inventor determines that it would be in the interest of the government, pursuant to 35 U.S.C. 207(a)(3), to file an initial patent application on the subject invention, the *Federal agency* employing such co-inventor, at its discretion and in consultation with the *contractor,* may file such application at its own expense, provided that the *contractor* retains the ability to elect title pursuant to 35 U.S.C. 202(a).
 
 (5) Requests for extension of the time for disclosure, election, and filing under paragraphs (1), (2), and (3) of this clause may, at the discretion of the *Federal agency,* be granted. When a *contractor* has requested an extension for filing a non-provisional application after filing a provisional application, a one-year extension will be granted unless the *Federal agency* notifies the *contractor* within 60 days of receiving the request.
 
+(6) In the event a subject invention is made under funding agreements of more than one agency, at the request of the *contractor* or on their own initiative the agencies shall designate one agency as responsible for administration of the rights of the government in the invention.
+
 (d) Conditions When the Government May Obtain Title
 
-The *contractor* will convey to the *Federal agency,* upon written request, title to any subject invention—
+(1) A *Federal agency* may require the *contractor* to convey title to the *Federal agency* of any subject invention—
 
-(1) If the *contractor* fails to disclose or elect title to the subject invention within the times specified in paragraph (c) of this clause, or elects not to retain title.
+(i) If the *contractor* fails to disclose or elect title to the subject invention within the times specified in paragraph (c) of this clause, or elects not to retain title.
 
-(2) In those countries in which the *contractor* fails to file patent applications within the times specified in paragraph (c) of this clause; provided, however, that if the *contractor* has filed a patent application in a country after the times specified in paragraph (c) of this clause, but prior to its receipt of the written request of the *Federal agency,* the *contractor* shall continue to retain title in that country.
+(ii) In those countries in which the *contractor* fails to file patent applications within the times specified in paragraph (c) of this clause; provided, however, that if the *contractor* has filed a patent application in a country after the times specified in paragraph (c) of this clause, but prior to its receipt of the written request of the *Federal agency,* the *contractor* shall continue to retain title in that country.
 
-(3) In any country in which the *contractor* decides not to continue the prosecution of any non-provisional patent application for, to pay a maintenance, annuity or renewal fee on, or to defend in a reexamination or opposition proceeding on, a patent on a subject invention.
+(iii) In any country in which the *contractor* decides not to continue the prosecution of any nonprovisional patent application for, to pay a maintenance, annuity or renewal fee on, or to defend in a reexamination or opposition proceeding on, a patent on a subject invention.
+
+(2) A *Federal agency,* at its discretion, may waive the requirement for the *contractor* to convey title to any subject invention.
 
 (e) Minimum Rights to *Contractor* and Protection of the *Contractor* Right to File
 
-(1) The *contractor* will retain a nonexclusive royalty-free license throughout the world in each subject invention to which the Government obtains title, except if the *contractor* fails to disclose the invention within the times specified in (c), above. The *contractor's* license extends to its domestic subsidiary and affiliates, if any, within the corporate structure of which the *contractor* is a party and includes the right to grant sublicenses of the same scope to the extent the *contractor* was legally obligated to do so at the time the *contract* was awarded. The license is transferable only with the approval of the *Federal agency* except when transferred to the sucessor of that party of the *contractor's* business to which the invention pertains.
+(1) The *contractor* will retain a nonexclusive royalty-free license throughout the world in each subject invention to which the Government obtains title, except if the *contractor* fails to disclose the invention within the times specified in (c), above. The *contractor's* license extends to its domestic subsidiary and affiliates, if any, within the corporate structure of which the *contractor* is a party and includes the right to grant sublicenses of the same scope to the extent the *contractor* was legally obligated to do so at the time the *contract* was awarded. The license is transferable only with the approval of the *Federal agency* except when transferred to the successor of that party of the *contractor's* business to which the invention pertains.
 
 (2) The *contractor's* domestic license may be revoked or modified by the *funding Federal agency* to the extent necessary to achieve expeditious practical application of the subject invention pursuant to an application for an exclusive license submitted in accordance with applicable provisions at 37 CFR part 404 and *agency* licensing regulations (if any). This license will not be revoked in that field of use or the geographical areas in which the *contractor* has achieved practical application and continues to make the benefits of the invention reasonably accessible to the public. The license in any foreign country may be revoked or modified at the discretion of the *funding Federal agency* to the extent the *contractor,* its licensees, or the domestic subsidiaries or affiliates have failed to achieve practical application in that foreign country.
 
@@ -102,12 +110,28 @@ If the *contractor* is a nonprofit organization, it agrees that:
 
 (2) The *contractor* will share royalties collected on a subject invention with the inventor, including Federal employee co-inventors (when the agency deems it appropriate) when the subject invention is assigned in accordance with 35 U.S.C. 202(e) and 37 CFR 401.10;
 
-(3) The balance of any royalties or income earned by the *contractor* with respect to subject inventions, after payment of expenses (including payments to inventors) incidential to the administration of subject inventions, will be utilized for the support of scientific research or education; and
+(3) The balance of any royalties or income earned by the *contractor* with respect to subject inventions, after payment of expenses (including payments to inventors) incidental to the administration of subject inventions, will be utilized for the support of scientific research or education; and
 
-(4) It will make efforts that are reasonable under the circumstances to attract licensees of subject inventions that are small business firms and that it will give a preference to a small business firm when licensing a subject invention if the *contractor* determines that the small business firm has a plan or proposal for marketing the invention which, if executed, is equally as likely to bring the invention to practical application as any plans or proposals from applicants that are not small business firms; provided, that the *contractor* is also satisfied that the small business firm has the capability and resources to carry out its plan or proposal. The decision whether to give a preference in any specific case will be at the discretion of the contractor. However, the *contractor* agrees that the *Federal agency* may review the *contractor's* licensing program and decisions regarding small business applicants, and the *contractor* will negotiate changes to its licensing policies, procedures, or practices with the *Federal agency* when the *Federal agency's* review discloses that the *contractor* could take reasonable steps to implement more effectively the requirements of this paragraph (k)(4). In accordance with 37 CFR 401.7, the *Federal agency* or the *contractor* may request that the Secretary review the *contractor's* licensing program and decisions regarding small business applicants.
+(4) It will make efforts that are reasonable under the circumstances to attract licensees of subject inventions that are small business firms and that, when appropriate, it will give a preference to a small business firm when licensing a subject invention;
+
+(5) The *Federal agency* may review the *contractor's* licensing program and decisions regarding small business applicants, and the *contractor* will negotiate changes to its licensing policies, procedures, or practices with the *Federal agency* when the *Federal agency's* review discloses that the *contractor* could take reasonable steps to more effectively implement the requirements of paragraph (k)(4) of this clause; and
+
+(6) The *Federal agency* may take into consideration concerns presented by small businesses in making such determinations in paragraph (k)(5) of this clause.
 
 (l) Communication
 
 [Complete according to instructions at § 401.5(b)]
 
-[52 FR 8554, Mar. 18, 1987, as amended at 69 FR 17301, Apr. 2, 2004; 83 FR 15961, Apr. 13, 2018]
+(m) Electronic Filing
+
+(1) Unless otherwise requested or directed by the *Federal agency*—
+
+(i) The written disclosure required in (c)(1) of this clause shall be electronically filed;
+
+(ii) The written election required in (c)(2) of this clause shall be electronically filed; and
+
+(iii) If required by the agency to be submitted, the close-out report in paragraph (c)(1) of this clause and the patent information and periodic reporting identified in paragraph (c)(3) of this clause shall be electronically filed.
+
+(2) Other written notices required in this clause may be electronically delivered to the agency or the *contractor* through an electronic database used for reporting subject inventions, patents, and utilization reports to the funding agency.
+
+[52 FR 8554, Mar. 18, 1987, as amended at 69 FR 17301, Apr. 2, 2004; 83 FR 15961, Apr. 13, 2018; 88 FR 17738, Mar. 24, 2023]

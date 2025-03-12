@@ -1,8 +1,6 @@
 ##### § 185.515 Passenger safety bill. #####
 
-Link to an amendment published at 86 FR 73173, Dec. 27, 2021.Link to an amendment published at 88 FR 17741, Mar. 24, 2023.
-
-(a) [Reserved]
+(a) On vessels described by 46 CFR 175.110(d) of this chapter, a passenger safety bill must be posted by the master in each cabin or stateroom, and in passenger accommodation spaces.
 
 (b) Each passenger safety bill required by this section must list:
 
@@ -14,4 +12,4 @@ Link to an amendment published at 86 FR 73173, Dec. 27, 2021.Link to an amendmen
 
 (4) If immersion suits are provided for passengers, the location of the suits and illustrated instructions on the method of donning the suits.
 
-[USCG-2021-0306, 86 FR 73173, Dec. 27, 2021]
+[USCG-2021-0306, 86 FR 73173, Dec. 27, 2021, as amended by USCG-2021-0306, 88 FR 17741, Mar. 24, 2023]

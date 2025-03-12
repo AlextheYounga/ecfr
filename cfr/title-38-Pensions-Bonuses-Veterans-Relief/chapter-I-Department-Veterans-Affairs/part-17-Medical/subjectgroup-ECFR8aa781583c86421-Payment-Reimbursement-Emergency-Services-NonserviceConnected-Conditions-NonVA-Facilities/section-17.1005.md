@@ -1,5 +1,3 @@
-​
-
 ##### § 17.1005 Payment limitations. #####
 
 (a) Payment or reimbursement for emergency treatment (including emergency transportation) under 38 U.S.C. 1725 will be calculated as follows:

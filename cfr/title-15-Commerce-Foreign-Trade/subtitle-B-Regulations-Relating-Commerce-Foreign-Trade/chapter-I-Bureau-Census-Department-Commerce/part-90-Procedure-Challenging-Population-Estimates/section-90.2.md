@@ -1,3 +1,3 @@
 ##### § 90.2 Policy of the Census Bureau. #####
 
-It is the policy of the Census Bureau to provide the most accurate population estimates possible given the constraints of time, money, and available statistical techniques. It is also the policy of the Census Bureau to provide governmental units the opportunity to seek a review and provide additional data to these estimates and to present evidence relating to the accuracy of the estimates.
+It is the policy of the Census Bureau to provide the most accurate population estimates possible given the constraints of resources and available statistical techniques. It is also the policy of the Census Bureau, to the extent feasible, to provide governmental units the opportunity to seek a review of and provide additional data for these estimates and to present evidence relating to the accuracy of the estimates.

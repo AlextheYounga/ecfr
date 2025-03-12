@@ -1,7 +1,5 @@
 ##### § 404.5 Restrictions and conditions on all licenses granted under this part. #####
 
-Link to an amendment published at 88 FR 17739, Mar. 24, 2023.
-
 (a)(1) A license may be granted only if the applicant has supplied the Federal agency with a satisfactory plan for development or marketing of the invention, or both, and with information about the applicant's capability to fulfill the plan. The plan for a non-exclusive research license may be limited to describing the research phase of development.
 
 (2) A license granting rights to use or sell under a Government owned invention in the United States shall normally be granted only to a licensee who agrees that any products embodying the invention or produced through the use of the invention will be manufactured substantially in the United States. However, this condition may be waived or modified if reasonable but unsuccessful efforts have been made to grant licenses to potential licensees that would be likely to manufacture substantially in the United States or if domestic manufacture is not commercially feasible.
@@ -30,7 +28,7 @@ Link to an amendment published at 88 FR 17739, Mar. 24, 2023.
 
 (iii) The licensee has willfully made a false statement of or willfully omitted a material fact in the license application or in any report required by the license agreement;
 
-(iv) The licensee commits a substantial breach of a covenant or provision contained in the license agreement, including the requirement in § 404.5(a)(2); or
+(iv) The licensee commits a substantial breach of a covenant or provision contained in the license agreement, including the requirement in § 35 U.S.C. 209(b); or
 
 (v) The licensee has been found by a court of competent jurisdiction to have violated the Federal antitrust laws in connection with its performance under the license agreement.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 88 FR 17739, Mar. 24, 2023.
 
 (11) Nothing relating to the grant of a license, nor the grant itself, shall be construed to confer upon any person any immunity from or defenses under the antitrust laws or from a charge of patent misuse, and the acquisition and use of rights pursuant to this part shall not be immunized from the operation of state or Federal law by reason of the source of the grant.
 
-[50 FR 9802, Mar. 12, 1985, as amended at 71 FR 11512, Mar. 8, 2006]
+[50 FR 9802, Mar. 12, 1985, as amended at 71 FR 11512, Mar. 8, 2006; 88 FR 17739, Mar. 24, 2023]

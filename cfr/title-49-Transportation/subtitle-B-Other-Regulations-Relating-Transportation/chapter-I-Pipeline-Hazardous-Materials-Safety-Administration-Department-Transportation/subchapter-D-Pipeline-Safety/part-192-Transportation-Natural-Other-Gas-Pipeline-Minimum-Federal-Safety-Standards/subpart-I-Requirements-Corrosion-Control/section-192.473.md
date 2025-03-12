@@ -1,6 +1,6 @@
 ##### § 192.473 External corrosion control: Interference currents. #####
 
-Link to an amendment published at 87 FR 52269, Aug. 24, 2022.
+Link to an amendment published at 87 FR 52269, Aug. 24, 2022.Link to an amendment published at 88 FR 24711, Apr. 24, 2023.
 
 (a) Each operator whose pipeline system is subjected to stray currents shall have in effect a continuing program to minimize the detrimental effects of such currents.
 

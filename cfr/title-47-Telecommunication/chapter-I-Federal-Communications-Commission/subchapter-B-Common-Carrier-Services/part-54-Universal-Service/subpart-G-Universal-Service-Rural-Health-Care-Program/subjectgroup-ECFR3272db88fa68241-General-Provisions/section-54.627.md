@@ -10,11 +10,9 @@ Link to an amendment published at 88 FR 17397, Mar. 23, 2023.
 
 (b) *Invoice deadline extension.* Service providers or billed entities may request a one-time extension of the invoicing deadline by no later than the deadline calculated pursuant to paragraph (a) in this section. The Administrator shall grant a 120-day extension of the invoice filing deadline, if it is timely requested.
 
-(c) *Telecommunications Program.* (1) The applicant must submit documentation to the Administrator confirming the service start date, the service end or disconnect date, or whether the service was never turned on.
+(c) *Telecommunications Program.*
 
-(2) Upon receipt of the invoice(s) and supporting documentation, the Administrator shall generate a Health Care Provider Support Schedule (HSS), which the service provider shall use to determine how much credit the applicant will receive for the services.
-
-(3) *Certifications.* Before the Administrator may process and pay an invoice, both the health care provider and the service provider must make the following certifications.
+(1) *Certifications.* Before the Administrator may process and pay an invoice, both the health care provider and the service provider must make the following certifications.
 
 (i) The health care provider must certify that:
 
@@ -52,6 +50,8 @@ Link to an amendment published at 88 FR 17397, Mar. 23, 2023.
 
 (J) As a condition of receiving support, it will provide to the health care providers, on a timely basis, all documents regarding supported equipment or services that are necessary for the health care provider to submit required forms or respond to Commission or Administrator inquiries.
 
+(2) [Reserved]
+
 (d) *Healthcare Connect Fund Program.* (1) *Certifications.* Before the Administrator may process and pay an invoice, the Consortium Leader (or health care provider, if participating individually) and the service provider must make the following certifications:
 
 (i) The Consortium Leader or health care provider must certify that:
@@ -81,3 +81,5 @@ Link to an amendment published at 88 FR 17397, Mar. 23, 2023.
 (G) The consultants or third parties it has hired do not have an ownership interest, sales commission arrangement, or other financial stake in the service provider chosen to provide the requested services, and that they have otherwise complied with Rural Health Care Program rules, including the Commission's rules requiring fair and open competitive bidding; and
 
 (H) As a condition of receiving support, it will provide to the health care providers, on a timely basis, all documents regarding supported equipment, facilities, or services that are necessary for the health care provider to submit required forms or respond to Commission or Administrator inquiries.
+
+[84 FR 54979, Oct. 11, 2019, as amended at 88 FR 17397, Mar. 23, 2023]

@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 88 FR 17975, Mar. 24, 2023.Link to an amendment published at 88 FR 21838, Apr. 11, 2023.
+Link to an amendment published at 88 FR 21838, Apr. 11, 2023.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -164,7 +164,7 @@ Link to an amendment published at 88 FR 17975, Mar. 24, 2023.Link to an amendmen
 
 (B) If the representative value of volume rate of flow (flow rate) at BEP and nominal speed of rotation is found to be invalid, the mean of all the measured volume rate of flow (flow rate) at BEP and nominal speed of rotation values determined from the tested unit(s) will serve as the new expected BEP flow rate and the unit(s) will be retested until such time as the measured rate of flow (flow rate) at BEP and nominal speed of rotation is within 5 percent of the expected BEP flow rate.
 
-(ii) DOE will test each pump unit according to the test method specified by the manufacturer in the certification report submitted pursuant to § 429.59(b).
+(ii) DOE will test each pump unit according to the test method specified by the manufacturer in the certification report submitted pursuant to § 429.59(b); if the model of pump unit was rated using an AEDM, DOE may use either a testing approach or calculation approach.
 
 (2) *Dedicated-purpose pool pumps.* (i) The rated hydraulic horsepower of each tested unit of the basic model of dedicated-purpose pool pump will be measured pursuant to the test requirements of § 431.464(b) of this chapter and the result of the measurement(s) will be compared to the value of rated hydraulic horsepower certified by the manufacturer. The certified rated hydraulic horsepower will be considered valid only if the measurement(s) (either the measured rated hydraulic horsepower for a single unit sample or the average of the measured rated hydraulic horsepower values for a multiple unit sample) is within 5 percent of the certified rated hydraulic horsepower.
 
@@ -431,4 +431,4 @@ The outdoor ventilation airflow rate shall be determined at 0 in. H2O external s
 
 (2) [Reserved]
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77324, Dec. 16, 2022; 88 FR 3276, Jan. 18, 2023; 88 FR 15537, Mar. 13, 2023]
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022; 87 FR 55122, Sept. 8, 2022; 87 FR 57298, Sept. 19, 2022; 87 FR 63895, Oct. 20, 2022; 87 FR 65667, 65899, Nov. 1, 2022; 87 FR 75167, Dec. 7, 2022; 87 FR 77324, Dec. 16, 2022; 88 FR 3276, Jan. 18, 2023; 88 FR 15537, Mar. 13, 2023; 88 FR 17975, Mar. 24, 2023]

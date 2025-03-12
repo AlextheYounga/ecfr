@@ -1,7 +1,5 @@
 ##### § 199.30 Definitions. #####
 
-Link to an amendment published at 87 FR 68308, Nov. 14, 2022.
-
 The following definitions apply to this part:
 
 *Accommodation* means a cabin, or other covered or enclosed place, intended to be occupied by persons. Each place in which passengers and special personnel is carried is considered an accommodation, whether or not it is covered or enclosed. Accommodations include, but are not limited to halls, dining rooms, mess rooms, lounges, corridors, lavatories, cabins, offices, hospitals, cinemas, game and hobby rooms, and other similar places open to persons on board.
@@ -158,10 +156,10 @@ The following definitions apply to this part:
 
 (c) Transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States.
 
-*Toxic vapor or gas* means a product for which emergency escape respiratory protection is required under Subchapter 17 of the International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk (IBC Code) and under Subchapter 19 of the International Code for the Construction and Equipment of Ships carrying Liquefied Gases in Bulk (IGC Code).
+*Toxic vapor or gas* means a product for which emergency escape respiratory protection is required under Subchapter 17 of the International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk (IBC Code; incorporated by reference, see § 199.05) and under Subchapter 19 of the International Code for the Construction and Equipment of Ships carrying Liquefied Gases in Bulk (IGC Code; incorporated by reference, see § 199.05).
 
 *Vessel constructed* means a vessel, the keel of which is laid or which is at a similar stage of construction.
 
 *Warm water* means water where the monthly mean low water temperature is normally more than 15 °C (59 °F).
 
-[CGD 84-069, 61 FR 25313, May 20, 1996, as amended by USCG-1999-6216, 64 FR 53229, Oct. 1, 1999; USCG-1999-5040, 67 FR 34807, May 15, 2002; USCG-2004-18884, 69 FR 58352, Sept. 30, 2004; USCG-2006-24371, 74 FR 11267, Mar. 16, 2009; USCG-2009-0702, 74 FR 49241, Sept. 25, 2009]
+[CGD 84-069, 61 FR 25313, May 20, 1996, as amended by USCG-1999-6216, 64 FR 53229, Oct. 1, 1999; USCG-1999-5040, 67 FR 34807, May 15, 2002; USCG-2004-18884, 69 FR 58352, Sept. 30, 2004; USCG-2006-24371, 74 FR 11267, Mar. 16, 2009; USCG-2009-0702, 74 FR 49241, Sept. 25, 2009; USCG-2020-0107, 87 FR 68308, Nov. 14, 2022]

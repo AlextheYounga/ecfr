@@ -1,10 +1,10 @@
 ##### § 429.59 Pumps. #####
 
-Link to an amendment published at 88 FR 17973, Mar. 24, 2023.Link to a correction published at 88 FR 24471, Apr. 21, 2023.Note 1 to § 429.59:
+Note 1 to § 429.59:
 
 Prior to February 17, 2023, certification reports must be submitted as required either in this section or 10 CFR 429.59 as it appears in the 10 CFR parts 200 through 499 edition revised as of January 1, 2022. On or after February 17, 2023, certification reports must be submitted as required in this section.
 
-(a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model by testing (which includes the calculation-based methods in the test procedure), in conjunction with the following sampling provisions. Manufacturers must update represented values to account for any change in the applicable motor standards in § 431.25 of this chapter and certify amended values as of the next annual certification.
+(a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model of general purpose pump either by testing (which includes the calculation-based methods in the test procedure), in conjunction with the following sampling provisions, or by application of an AEDM that meets the requirements of § 429.70 and the provisions of this section. Manufacturers must determine the represented value, which includes the certified rating, for each basic model of dedicated-purpose pool pump by testing, in conjunction with the following sampling provisions. Manufacturers must update represented values to account for any change in the applicable motor standards in subpart B of part 431 of this chapter and certify amended values as of the next annual certification.
 
 (1) Units to be tested. The requirements of § 429.11 are applicable to pumps; and for each basic model, a sample of sufficient size shall be randomly selected and tested to ensure that—
 
@@ -40,13 +40,21 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (iii) *True power factor (PF*i*).* The representative value of true power factor at each load point i of a basic model of dedicated-purpose pool pump must be the mean of the true power factors at that load point for each tested unit of dedicated-purpose pool pump.
 
-(iv) *Input power.* The representative value(s) of input power of a basic model of circulator pump at a load point(s) used in the calculation of CEI must be determined based on the mean of the input power at measured data point(s) for each tested unit.
+(iv) *General pumps.* The representative values for pump total head in feet at BEP and nominal speed, volume per unit time in gallons per minute at BEP and nominal speed, and calculated driver power input at each load point must be the arithmetic mean of the value determined for each tested unit of general pump.
 
-(v) *Flow at BEP and maximum speed.* The representative value of flow at BEP and maximum speed of a basic model of circulator pump must be determined based on the mean of the flow at BEP and maximum speed for each tested unit.
+(v) *Input power.* The representative value(s) of input power of a basic model of circulator pump at a load point(s) used in the calculation of CEI must be determined based on the mean of the input power at measured data point(s) for each tested unit.
 
-(vi) *Head at BEP and maximum speed.* The representative value of head at BEP and maximum speed of a basic model of circulator pump must be determined based on the mean of the head at BEP and maximum speed for each tested unit.
+(vi) *Flow at BEP and maximum speed.* The representative value of flow at BEP and maximum speed of a basic model of circulator pump must be determined based on the mean of the flow at BEP and maximum speed for each tested unit.
 
-(vii) *Other reported values.* The representative value of any other reported value of a basic model of circulator pump must be determined based on the mean of that value for each tested unit.
+(vii) *Head at BEP and maximum speed.* The representative value of head at BEP and maximum speed of a basic model of circulator pump must be determined based on the mean of the head at BEP and maximum speed for each tested unit.
+
+(viii) *Other reported values.* The representative value of any other reported value of a basic model of circulator pump must be determined based on the mean of that value for each tested unit.
+
+(3) *Alternative efficiency determination methods.* In lieu of testing, a represented value of efficiency or consumption for a basic model of pump must be determined through the application of an AEDM pursuant to the requirements of § 429.70 and the provisions of this section, where:
+
+(i) Any represented value of energy consumption or other measure of energy use of a basic model for which consumers would favor lower values shall be greater than or equal to the output of the AEDM and less than or equal to the Federal standard for that basic model; and
+
+(ii) Any represented value of energy efficiency or other measure of energy consumption of a basic model for which consumers would favor higher values shall be less than or equal to the output of the AEDM and greater than or equal to the Federal standard for that basic model.
 
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to pumps; and
 
@@ -91,4 +99,4 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (2) Or must otherwise provide sufficient information to identify the specific driver model and/or controls model(s) with which a bare pump is distributed.
 
-[81 FR 4144, Jan. 25, 2016, as amended at 81 FR 4430, Jan. 26, 2016; 82 FR 36918, Aug. 7, 2017; 87 FR 43979, July 22, 2022; 87 FR 57297, Sept. 19, 2022]
+[81 FR 4144, Jan. 25, 2016, as amended at 81 FR 4430, Jan. 26, 2016; 82 FR 36918, Aug. 7, 2017; 87 FR 43979, July 22, 2022; 87 FR 57297, Sept. 19, 2022; 88 FR 17973, Mar. 24, 2023; 88 FR 24471, Apr. 21, 2023]

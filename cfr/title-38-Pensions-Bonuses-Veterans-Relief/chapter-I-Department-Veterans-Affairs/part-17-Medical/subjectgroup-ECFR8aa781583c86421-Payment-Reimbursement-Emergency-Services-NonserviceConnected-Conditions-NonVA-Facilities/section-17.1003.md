@@ -1,5 +1,3 @@
-​
-
 ##### § 17.1003 Emergency transportation. #####
 
 Notwithstanding the provisions of § 17.1002, payment or reimbursement under 38 U.S.C. 1725 for ambulance services, including air ambulance services, may be made for transporting a veteran to a facility only if the following conditions are met:

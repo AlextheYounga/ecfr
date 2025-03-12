@@ -12,6 +12,6 @@ As used in this part (except where the context clearly indicates otherwise) the 
 
 (e) A *governmental unit* means the government of a county, municipality, township, incorporated place, or other minor civil division, which is a unit of general-purpose government below the State.
 
-(f) A *non-functioning county or statistical equivalent* means a sub-state entity that does not function as an active general-purpose governmental unit. This situation exists in Connecticut, Rhode Island, for selected counties in Massachusetts, and for the Census Areas in Alaska.
+(f) A *non-functioning county or statistical equivalent* means a sub-State entity that does not function as an active general-purpose governmental unit. This situation exists in Connecticut, Rhode Island, for selected counties in Massachusetts, and for the Census Areas in Alaska.
 
 (g) For the purposes of this program, an *eligible governmental unit* also includes the District of Columbia and non-functioning counties or statistical equivalents represented by a FSCPE member agency.

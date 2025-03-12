@@ -1,30 +1,30 @@
 ##### § 431.462 Definitions. #####
 
-Link to an amendment published at 88 FR 17975, Mar. 24, 2023.
-
-The following definitions are applicable to this subpart, including appendices A and B. In cases where there is a conflict, the language of the definitions adopted in this section takes precedence over any descriptions or definitions found in the 2014 version of ANSI/HI Standard 1.1-1.2, “Rotodynamic (Centrifugal) Pumps For Nomenclature And Definitions” (ANSI/HI 1.1-1.2-2014; incorporated by reference, see § 431.463), or the 2014 version of ANSI/HI Standard 2.1-2.2, “Rotodynamic (Vertical) Pumps For Nomenclature And Definitions” (ANSI/HI 2.1-2.2-2014; incorporated by reference, see § 431.463). In cases where definitions reference design intent, DOE will consider marketing materials, labels and certifications, and equipment design to determine design intent.
+The following definitions are applicable to this subpart, including appendices A, B, and C. In cases where definitions reference design intent, DOE will consider marketing materials, labels and certifications, and equipment design to determine design intent.
 
 *Adaptive pressure control* means a pressure control that senses the head requirements in the system in which it is installed and adjusts the pump control curve accordingly.
 
 *Bare pump* means a pump excluding mechanical equipment, driver, and controls.
 
-*Basic model* means all units of a given class of pump manufactured by one manufacturer, having the same primary energy source, and having essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency; and, in addition, for pumps that are subject to the standards specified in § 431.465(b), the following provisions also apply:
+*Basic model* means all units of a given class of pump manufactured by one manufacturer, having the same primary energy source, and having essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency; and, in addition, for pumps that are subject to the test procedures specified in § 431.464(a), the following provisions also apply:
 
 (1) All variations in numbers of stages of bare RSV and ST pumps must be considered a single basic model;
 
-(2) Pump models for which the bare pump differs in impeller diameter, or impeller trim, may be considered a single basic model; and
+(2) Pump models for which the bare pump differs in impeller diameter and/or impeller trim, may be considered a single basic model; and
 
-(3) Pump models for which the bare pump differs in number of stages or impeller diameter and which are sold with motors (or motors and controls) of varying horsepower may only be considered a single basic model if:
+(3) Pump models for which the bare pump differs in number of stages and/or impeller diameter and which are sold with motors (or motors and controls) of varying horsepower may only be considered a single basic model if:
 
-(i) For ESCC, ESFM, IL, and RSV pumps, each motor offered in the basic model has a nominal full load motor efficiency rated at the Federal minimum (see the current table for NEMA Design B motors at § 431.25) or the same number of bands above the Federal minimum for each respective motor horsepower (see Table 3 of appendix A to subpart Y of this part); or
+(i) For ESCC, ESFM, IL, and RSV pumps, each motor offered in the basic model has a nominal full load motor efficiency rated at the Federal minimum (see the applicable table at § 431.25) or the same number of bands above the Federal minimum for each respective motor horsepower (*see* table 3 of appendix A to this subpart); or for pumps sold with inverter-only synchronous electric motors, any number of bands above the Federal minimum for each respective motor horsepower provided that the rating is based on the lowest number of bands; or
 
-(ii) For ST pumps, each motor offered in the basic model has a full load motor efficiency at the default nominal full load submersible motor efficiency shown in Table 2 of appendix A to subpart Y of this part or the same number of bands above the default nominal full load submersible motor efficiency for each respective motor horsepower (see Table 3 of appendix A to subpart Y of this part).
+(ii) For ST pumps, each motor offered in the basic model has a full load motor efficiency at the default nominal full load submersible motor efficiency shown in table 2 of appendix A to subpart Y of this part or the same number of bands above the default nominal full load submersible motor efficiency for each respective motor horsepower (*see* table 3 of appendix A to this subpart) or for inverter-only synchronous electric motors, any number of bands above the default nominal full load submersible motor efficiency provided the rating is based on the lowest number of bands.
 
 *Basket strainer* means a perforated or otherwise porous receptacle, mounted within a housing on the suction side of a pump, that prevents solid debris from entering a pump. The basket strainer receptacle is capable of passing spherical solids of 1 mm in diameter, and can be removed by hand or using only simple tools (*e.g.,* screwdriver, pliers, open-ended wrench).
 
 *Best efficiency point (BEP)* means the pump hydraulic power operating point (consisting of both flow and head conditions) that results in the maximum efficiency.
 
-*Bowl diameter* means the maximum dimension of an imaginary straight line passing through and in the plane of the circular shape of the intermediate bowl of the bare pump that is perpendicular to the pump shaft and that intersects the outermost circular shape of the intermediate bowl of the bare pump at both of its ends, where the intermediate bowl is as defined in ANSI/HI 2.1-2.2-2014.
+*Bowl* means a casing in which the impeller rotates, and that directs flow axially to the next stage or the discharge column.
+
+*Bowl diameter* means the maximum dimension of an imaginary straight line passing through and in the plane of the circular shape of the bowl of the bare pump that is perpendicular to the pump shaft and that intersects the outermost circular shape of the bowl of the bare pump at both of its ends.
 
 *Circulator-less-volute* means a circulator pump distributed in commerce without a volute and for which a paired volute is also distributed in commerce. Whether a paired volute is distributed in commerce will be determined based on published data, marketing literature, and other publicly available information.
 
@@ -32,7 +32,7 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Clean water pump* means a pump that is designed for use in pumping water with a maximum non-absorbent free solid content of 0.016 pounds per cubic foot, and with a maximum dissolved solid content of 3.1 pounds per cubic foot, provided that the total gas content of the water does not exceed the saturation volume, and disregarding any additives necessary to prevent the water from freezing at a minimum of 14 °F.
 
-*Close-coupled pump* means a pump in which the motor shaft also serves as the impeller shaft for the bare pump.
+*Close-coupled pump* means a pump in which the driver's bearings are designed to absorb the pump's axial load.
 
 *Continuous control* means a control that adjusts the speed of the pump driver continuously over the driver operating speed range in response to incremental changes in the required pump flow, head, or power output.
 
@@ -74,11 +74,11 @@ The following definitions are applicable to this subpart, including appendices A
 
 (2) Examples include, but are not limited to, pumps generally referred to in industry as CP2.
 
-*End suction close-coupled (ESCC) pump* means a close-coupled, dry rotor, end suction pump that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and that is not a dedicated-purpose pool pump. Examples include, but are not limited to, pumps within the specified horsepower range that comply with ANSI/HI nomenclature OH7, as described in ANSI/HI 1.1-1.2-2014.
+*End-suction close-coupled (ESCC) pump* means a close-coupled, dry rotor, end-suction pump that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and that is not a dedicated-purpose pool pump.
 
-*End suction frame mounted/own bearings (ESFM) pump* means a mechanically-coupled, dry rotor, end suction pump that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and that is not a dedicated-purpose pool pump. Examples include, but are not limited to, pumps within the specified horsepower range that comply with ANSI/HI nomenclature OH0 and OH1, as described in ANSI/HI 1.1-1.2-2014.
+*End-suction frame mounted/own bearings (ESFM) pump* means a mechanically-coupled, dry rotor, end-suction pump that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and that is not a dedicated-purpose pool pump.
 
-*End suction pump* means a single-stage, rotodynamic pump in which the liquid enters the bare pump in a direction parallel to the impeller shaft and on the side opposite the bare pump's driver-end. The liquid is discharged through a volute in a plane perpendicular to the shaft.
+*End-suction pump* means a single-stage, rotodynamic pump in which the liquid enters the bare pump in a direction parallel to the impeller shaft and on the side opposite the bare pump's driver-end. The liquid is discharged in a plane perpendicular to the shaft.
 
 *External input signal control* means a variable speed drive that adjusts the speed of the driver in response to an input signal from an external logic and/or user interface.
 
@@ -96,7 +96,7 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Horizontal motor* means a motor, for which the motor shaft position when functioning under operating conditions specified in manufacturer literature, includes a horizontal position.
 
-*In-line (IL) pump* means a pump that is either a twin-head pump or a single-stage, single-axis flow, dry rotor, rotodynamic pump that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter, in which liquid is discharged through a volute in a plane perpendicular to the shaft. Such pumps do not include pumps that are mechanically coupled or close-coupled, have a pump power output that is less than or equal to 5 hp at BEP at full impeller diameter, and are distributed in commerce with a horizontal motor. Examples of in-line pumps include, but are not limited to, pumps within the specified horsepower range that comply with ANSI/HI nomenclature OH3, OH4, or OH5, as described in ANSI/HI 1.1-1.2-2014.
+*In-line (IL) pump* means a pump that is either a twin head pump or a single-stage, single-axis flow, dry rotor, rotodynamic pump that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter, in which liquid is discharged in a plane perpendicular to the shaft. Such pumps do not include circulator pumps.
 
 *Integral* means a part of the device that cannot be removed without compromising the device's function or destroying the physical integrity of the unit.
 
@@ -110,7 +110,7 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Mechanical equipment* means any component of a pump that transfers energy from the driver to the bare pump.
 
-*Mechanically-coupled pump* means a pump in which the bare pump has its own impeller shaft and bearings and so does not rely on the motor shaft to serve as the impeller shaft.
+*Mechanically-coupled pump* means a pump in which bearings external to the driver are designed to absorb the pump's axial load.
 
 *Multi-speed dedicated-purpose pool pump* means a dedicated-purpose pool pump that is capable of operating at more than two discrete, pre-determined operating speeds separated by speed increments greater than 100 rpm, where the lowest speed is less than or equal to half of the maximum operating speed and greater than zero, and must be distributed in commerce with an on-board pool pump control (*i.e.,* variable speed drive and user interface or programmable switch) that changes the speed in response to pre-programmed user preferences and allows the user to select the duration of each speed and/or the on/off times.
 
@@ -152,17 +152,29 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Pump* means equipment designed to move liquids (which may include entrained gases, free solids, and totally dissolved solids) by physical or mechanical action and includes a bare pump and, if included by the manufacturer at the time of sale, mechanical equipment, driver, and controls.
 
-*Radially split, multi-stage, vertical, in-line diffuser casing (RSV) pump* means a vertically suspended, multi-stage, single axis flow, dry rotor, rotodynamic pump:
+*Radially-split, multi-stage, horizontal, diffuser casing (RSH) pump* means a horizontal, multi-stage, dry rotor, rotodynamic pump:
 
-(1) That has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and at the number of stages required for testing and
+(1) That has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and at the number of stages required for testing;
 
-(2) In which liquid is discharged in a place perpendicular to the impeller shaft; and
+(2) In which liquid is discharged in a plane perpendicular to the impeller shaft;
 
-(3) For which each stage (or bowl) consists of an impeller and diffuser;
+(3) For which each stage (or bowl) consists of an impeller and diffuser; and
 
-(4) For which no external part of such a pump is designed to be submerged in the pumped liquid; and
+(4) For which no external part of such a pump is designed to be submerged in the pumped liquid.
 
-(5) Examples include, but are not limited to, pumps complying with ANSI/HI nomenclature VS8, as described in ANSI/HI 2.1-2.2-2014.
+*Radially-split, multi-stage, horizontal, end-suction diffuser casing (RSHES) pump* means a RSH pump in which the liquid enters the bare pump in a direction parallel to the impeller shaft and on the side opposite the bare pump's driver-end.
+
+*Radially-split, multi-stage, horizontal, in-line diffuser casing (RSHIL) pump* means a single-axis flow RSH pump in which the liquid enters the pump in a plane perpendicular to the impeller shaft.
+
+*Radially-split, multi-stage, vertical, diffuser casing (RSV) pump* means a vertically suspended, multi-stage, single-axis flow, dry rotor, rotodynamic pump:
+
+(1) That has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and at the number of stages required for testing;
+
+(2) In which liquid is discharged in a plane perpendicular to the impeller shaft;
+
+(3) For which each stage (or bowl) consists of an impeller and diffuser; and
+
+(4) For which no external part of such a pump is designed to be submerged in the pumped liquid.
 
 *Removable cartridge filter* means a filter component with fixed dimensions that captures and removes suspended particles from water flowing through the unit. The removable cartridge filter is not capable of passing spherical solids of 1 mm in diameter or greater, and can be removed from the filter housing by hand or using only simple tools (*e.g.,* screwdrivers, pliers, open-ended wrench).
 
@@ -192,6 +204,26 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Single-speed dedicated-purpose pool pump* means a dedicated-purpose pool pump that is capable of operating at only one speed.
 
+*Small vertical in-line (SVIL) pump* means a small vertical twin-head pump or a single stage, single-axis flow, dry rotor, rotodynamic pump that:
+
+(1) Has a shaft input power less than 1 horsepower at its BEP at full impeller diameter; and
+
+(2) In which liquid is discharged in a plane perpendicular to the shaft; and
+
+(3) Is not a circulator pump.
+
+*Small vertical twin-head pump* means a dry rotor, single-axis flow, rotodynamic pump that contains two equivalent impeller assemblies, each of which:
+
+(1) Contains an impeller, impeller shaft (or motor shaft in the case of close-coupled pumps), shaft seal or packing, driver (if present), and mechanical equipment (if present); and
+
+(2) Has a shaft input power that is less than or equal to 1 hp at BEP and full impeller diameter; and
+
+(3) Has the same primary energy source (if sold with a driver) and the same electrical, physical, and functional characteristics that affect energy consumption or energy efficiency; and
+
+(4) Is mounted in its own volute; and
+
+(5) Discharges liquid through its volute and the common discharge in a plane perpendicular to the impeller shaft.
+
 *Storable electric spa pump* means a pump that is distributed in commerce with one or more of the following:
 
 (1) An integral heater; and
@@ -200,7 +232,7 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Submersible pump* means a pump that is designed to be operated with the motor and bare pump fully submerged in the pumped liquid.
 
-*Submersible turbine (ST) pump* means a single-stage or multi-stage, dry rotor, rotodynamic pump that is designed to be operated with the motor and stage(s) fully submerged in the pumped liquid; that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and at the number of stages required for testing; and in which each stage of this pump consists of an impeller and diffuser, and liquid enters and exits each stage of the bare pump in a direction parallel to the impeller shaft. Examples include, but are not limited to, pumps within the specified horsepower range that comply with ANSI/HI nomenclature VS0, as described in ANSI/HI 2.1-2.2-2014.
+*Submersible turbine (ST) pump* means a single-stage or multi-stage, dry rotor, rotodynamic pump that is designed to be operated with the motor and stage(s) fully submerged in the pumped liquid; that has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and at the number of stages required for testing; and in which each stage of this pump consists of an impeller and diffuser, and liquid enters and exits each stage of the bare pump in a direction parallel to the impeller shaft.
 
 *Temperature control* means a control (variable speed drive and integrated logic) that automatically adjusts the speed of the driver continuously over the driver operating speed range in response to temperature.
 
@@ -230,8 +262,18 @@ The following definitions are applicable to this subpart, including appendices A
 
 *Variable speed drive* means equipment capable of varying the speed of the motor.
 
+*Vertical turbine (VT) pump* means a vertically suspended, single-stage or multi-stage, dry rotor, single inlet, rotodynamic pump:
+
+(1) That has a shaft input power greater than or equal to 1 hp and less than or equal to 200 hp at BEP and full impeller diameter and at the number of stages required for testing;
+
+(2) For which the pump driver is not designed to be submerged in the pumped liquid;
+
+(3) That has a single pressure containing boundary (*i.e.,* is single casing), which may consist of, but is not limited, to bowls, columns, and discharge heads; and
+
+(4) That discharges liquid through the same casing in which the impeller shaft is contained.
+
 *Waterfall pump* means a pool filter pump with a certified maximum head less than or equal to 30.0 feet, and a maximum speed less than or equal to 1,800 rpm.
 
 *Wet rotor circulator pump* means a single stage, rotodynamic, close-coupled, wet rotor pump. Examples include, but are not limited to, pumps generally referred to in industry as CP1.
 
-[81 FR 4145, Jan. 25, 2016, as amended at 82 FR 5742, Jan. 18, 2017; 82 FR 36920, Aug. 7, 2017; 87 FR 57298, Sept. 19, 2022]
+[81 FR 4145, Jan. 25, 2016, as amended at 82 FR 5742, Jan. 18, 2017; 82 FR 36920, Aug. 7, 2017; 87 FR 57298, Sept. 19, 2022; 88 FR 17975, Mar. 24, 2023]

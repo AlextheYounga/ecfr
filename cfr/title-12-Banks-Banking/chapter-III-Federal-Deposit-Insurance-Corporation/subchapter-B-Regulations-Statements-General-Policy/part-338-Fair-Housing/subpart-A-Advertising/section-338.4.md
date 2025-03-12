@@ -1,5 +1,7 @@
 ##### § 338.4 Fair housing poster. #####
 
+Link to an amendment published at 88 FR 24677, Apr. 24, 2023.
+
 (a) Each FDIC-supervised institution engaged in extending loans for the purpose of purchasing, constructing, improving, repairing, or maintaining a dwelling or any loan secured by a dwelling shall conspicuously display either the Equal Housing Lender poster set forth in paragraph (b) of this section or the Equal Housing Opportunity poster prescribed by 24 CFR 110.25(a) of the United States Department of Housing and Urban Development's regulations, in a central location within the FDIC-supervised institution where deposits are received or where such loans are made, in a manner clearly visible to the general public entering the area, where the poster is displayed.
 
 (b) The Equal Housing Lender Poster shall be at least 11 by 14 inches in size and have the following text:

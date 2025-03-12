@@ -1,5 +1,3 @@
-​
-
 ##### § 17.1004 Filing claims. #####
 
 (a) A claimant for payment or reimbursement under 38 U.S.C. 1725 must be the entity that furnished the treatment, the veteran who paid for the treatment, or the person or organization that paid for such treatment on behalf of the veteran.

@@ -1,8 +1,6 @@
 ##### § 401.2 Definitions. #####
 
-Link to an amendment published at 88 FR 17735, Mar. 24, 2023.
-
-As used in this part—
+In addition to the definitions in 35 U.S.C. 201, as used in this part—
 
 (a) The term *funding agreement* means any contract, grant, or cooperative agreement entered into between any Federal agency, other than the Tennessee Valley Authority, and any contractor for the performance of experimental, developmental, or research work funded in whole or in part by the Federal government. This term also includes any assignment, substitution of parties, or subcontract of any type entered into for the performance of experimental, developmental, or research work under a funding agreement as defined in the first sentence of this paragraph.
 
@@ -24,14 +22,30 @@ As used in this part—
 
 (j) The term *Secretary* means the Director of the National Institute of Standards and Technology.
 
-(k) The term *electronically filed* means any submission of information transmitted by an electronic or optical-electronic system.
+(k) The term *electronically filed* means any submission of information transmitted by an electronic system.
 
-(l) The term *electronic or optical-electronic system* means a software-based system approved by the agency for the transmission of information.
+(l) The term *electronic system* means a software-based system approved by the agency for the transmission of information.
 
-(m) The term *patent application* or “application for patent” includes a provisional or nonprovisional U.S. national application for patent as defined in 37 CFR 1.9 (a)(2) and (a)(3), respectively, or an application for patent in a foreign country or in an international patent office.
+(m) The term *patent application* or “application for patent” may be the following:
 
-(n) The term *initial patent application* means, as to a given subject invention, the first provisional or non-provisional U.S. national application for patent as defined in 37 CFR 1.9(a)(2) and (3), respectively, the first international application filed under the Patent Cooperation Treaty as defined in 37 CFR 1.9(b) which designates the United States, or the first application for a Plant Variety Protection certificate, as applicable.
+(1) A United States provisional application as defined in 37 CFR 1.9(a)(2) and filed under 35 U.S.C. 111(b); or
 
-(o) The term *statutory period* means the one-year period before the effective filing date of a claimed invention during which exceptions to prior art exist per 35 U.S.C. 102(b) as amended by the Leahy-Smith America Invents Act, Public Law 112-29.
+(2) A United States nonprovisional application as defined in 37 CFR 1.9(a)(3) and filed under 35 U.S.C. 111(a); or
 
-[52 FR 8554, Mar. 18, 1987, as amended at 60 FR 41812, Aug. 14, 1995; 78 FR 4766, Jan. 23, 2013; 83 FR 15958, Apr. 13, 2018]
+(3) A patent application filed in a foreign country or an international patent office; or
+
+(4) An application for a Plant Variety Protection certificate.
+
+(n) The term *initial patent application* means, as to a given subject invention:
+
+(1) The first United States provisional application as defined in 37 CFR 1.9(a)(2) and filed under 35 U.S.C. 111(b); or
+
+(2) The first United States nonprovisional application as defined in 37 CFR 1.9(a)(3) and filed under 35 U.S.C. 111(a); or
+
+(3) The first patent application filed under the Patent Cooperation Treaty as defined in 37 CFR 1.9(b); or
+
+(4) The first application for a Plant Variety Protection certificate.
+
+(o) The term *statutory period* means the one-year period before the effective filing date of a claimed invention in a patent application during which exceptions to prior art exist per 35 U.S.C. 102(b) as amended by the Leahy-Smith America Invents Act, Public Law 112-29.
+
+[52 FR 8554, Mar. 18, 1987, as amended at 60 FR 41812, Aug. 14, 1995; 78 FR 4766, Jan. 23, 2013; 83 FR 15958, Apr. 13, 2018; 88 FR 17735, Mar. 24, 2023]

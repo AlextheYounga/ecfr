@@ -1,6 +1,6 @@
 ##### § 192.933 What actions must be taken to address integrity issues? #####
 
-Link to an amendment published at 87 FR 52277, Aug. 24, 2022.
+Link to an amendment published at 87 FR 52277, Aug. 24, 2022.Link to an amendment published at 88 FR 24712, Apr. 24, 2023.
 
 (a) *General requirements.* An operator must take prompt action to address all anomalous conditions the operator discovers through the integrity assessment. In addressing all conditions, an operator must evaluate all anomalous conditions and remediate those that could reduce a pipeline's integrity. An operator must be able to demonstrate that the remediation of the condition will ensure the condition is unlikely to pose a threat to the integrity of the pipeline until the next reassessment of the covered segment.
 

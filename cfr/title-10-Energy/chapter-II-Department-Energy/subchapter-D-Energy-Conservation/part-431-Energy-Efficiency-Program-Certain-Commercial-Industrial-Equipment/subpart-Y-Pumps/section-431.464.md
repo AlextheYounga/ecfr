@@ -1,10 +1,8 @@
 ##### § 431.464 Test procedure for the measurement of energy efficiency, energy consumption, and other performance factors of pumps. #####
 
-Link to an amendment published at 88 FR 17978, Mar. 24, 2023.
-
 (a) *General pumps*—(1) *Scope.* This paragraph (a) provides the test procedures for determining the constant and variable load pump energy index for:
 
-(i) The following categories of clean water pumps:
+(i) The following categories of clean water pumps that have the characteristics listed in paragraph (a)(1)(iii) of this section.
 
 (A) End suction close-coupled (ESCC);
 
@@ -16,37 +14,33 @@ Link to an amendment published at 88 FR 17978, Mar. 24, 2023.
 
 (E) Submersible turbine (ST) pumps.
 
-(ii) With the following characteristics:
+(ii) The additional following categories of clean water pumps that have the characteristics listed in paragraph (a)(1)(iii) of this section:
+
+(A) Radially-split, multi-stage, horizontal, end-suction diffuser casing (RSHES);
+
+(B) Radially-split, multi-stage, horizontal, in-line diffuser casing (RSHIL);
+
+(C) Small vertical in-line (SVIL); and
+
+(D) Vertical Turbine (VT).
+
+(iii) Pump characteristics:
 
 (A) Flow rate of 25 gpm or greater at BEP and full impeller diameter;
 
-(B) Maximum head of 459 feet at BEP and full impeller diameter and the number of stages required for testing (see section 1.2.2 of appendix A of this subpart);
+(B) Maximum head of 459 feet at BEP and full impeller diameter and the number of stages required for testing (*see* section 1.2.2 of appendix A of this subpart);
 
-(C) Design temperature range from 14 to 248 °F;
+(C) Design temperature range wholly or partially in the range of 15 to 250 °F;
 
 (D) Designed to operate with either:
 
-(*1*) A 2- or 4-pole induction motor; or
+(*1*) A 2- or 4- or 6-pole induction motor, or
 
-(*2*) A non-induction motor with a speed of rotation operating range that includes speeds of rotation between 2,880 and 4,320 revolutions per minute (rpm) and/or 1,440 and 2,160 rpm, and in either case, the driver and impeller must rotate at the same speed;
+(*2*) A non-induction motor with a speed of rotation operating range that includes speeds of rotation between 2,880 and 4,320 revolutions per minute (rpm) and/or 1,440 and 2,160 rpm and/or 960 and 1,439 revolutions per minute, and in each case, the driver and impeller must rotate at the same speed;
 
-(E) For ST pumps, a 6-inch or smaller bowl diameter; and
+(E) For ST, and VT pumps, a 6-inch or smaller bowl diameter; and
 
-(F) For ESCC and ESFM pumps, a specific speed less than or equal to 5,000 when calculated using U.S. customary units.
-
-(iii) Except for the following pumps:
-
-(A) Fire pumps;
-
-(B) Self-priming pumps;
-
-(C) Prime-assist pumps;
-
-(D) Magnet driven pumps;
-
-(E) Pumps designed to be used in a nuclear facility subject to 10 CFR part 50, “Domestic Licensing of Production and Utilization Facilities”; and
-
-(F) Pumps meeting the design and construction requirements set forth in Military Specifications: MIL-P-17639F, “Pumps, Centrifugal, Miscellaneous Service, Naval Shipboard Use” (as amended); MIL-P-17881D, “Pumps, Centrifugal, Boiler Feed, (Multi-Stage)” (as amended); MIL-P-17840C, “Pumps, Centrifugal, Close-Coupled, Navy Standard (For Surface Ship Application)” (as amended); MIL-P-18682D, “Pump, Centrifugal, Main Condenser Circulating, Naval Shipboard” (as amended); and MIL-P-18472G, “Pumps, Centrifugal, Condensate, Feed Booster, Waste Heat Boiler, And Distilling Plant” (as amended). Military specifications and standards are available for review at *http://everyspec.com/MIL-SPECS*.
+(F) For ESCC, and ESFM pumps, a specific speed less than or equal to 5,000 when calculated using U.S. customary units.
 
 (2) *Testing and calculations.* Determine the applicable constant load pump energy index (PEICL) or variable load pump energy index (PEIVL) using the test procedure set forth in appendix A of this subpart.
 
@@ -76,4 +70,4 @@ Link to an amendment published at 88 FR 17978, Mar. 24, 2023.
 
 (2) *Testing and calculations.* Determine the circulator energy index (CEI) using the test procedure set forth in appendix D of this subpart Y.
 
-[82 FR 36923, Aug. 7, 2017, as amended at 87 FR 57299, Sept. 19, 2022]
+[82 FR 36923, Aug. 7, 2017, as amended at 87 FR 57299, Sept. 19, 2022; 88 FR 17978, Mar. 24, 2023]

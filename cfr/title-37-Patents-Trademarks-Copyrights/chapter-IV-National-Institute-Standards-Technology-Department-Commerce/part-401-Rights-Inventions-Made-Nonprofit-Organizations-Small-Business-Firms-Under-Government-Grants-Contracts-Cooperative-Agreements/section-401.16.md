@@ -1,15 +1,21 @@
-##### § 401.16 Electronic filing. #####
+##### § 401.16 Federal agency reporting requirements. #####
 
-Link to an amendment published at 88 FR 17739, Mar. 24, 2023.
+Federal agencies will report annually to the Secretary on data pertaining to reported subject inventions under a funding agreement, including—
 
-Unless otherwise requested or directed by the agency,
+(a) Number of subject inventions reported to the Federal agency;
 
-(a) The written report required in (c)(1) of the standard clause in § 401.14 shall be electronically filed;
+(b) Patent applications filed on subject inventions;
 
-(b) The written election required in (c)(2) of the standard clause in § 401.14 shall be electronically filed; and
+(c) Issued patents on subject inventions;
 
-(c) The close-out report in paragraph (f)(1) and the information identified in paragraphs (f)(2) and (3) of § 401.5 shall be electronically filed.
+(d) Number of requests and number of requests granted for extension of the time for disclosures, election, and filing per 37 CFR 401.14(c)(5);
 
-(d) Other written notices required in the clause in § 401.14 may be electronically delivered to the agency or the contractor through an electronic database used for reporting subject inventions, patents, and utilization reports to the funding agency.
+(e) Number of subject inventions conveyed to the Government in accordance with 37 CFR 401.14(d);
 
-[60 FR 41812, Aug. 14, 1995, as amended at 83 FR 15963, Apr. 13, 2018]
+(f) Number of waivers requested and waivers granted per 37 CFR 401.14(i);
+
+(g) Number of requests for assignment of invention rights; and
+
+(h) Summary of utilization information provided by contractors. Such information will be received by the Secretary no later than the last day of October of each year.
+
+[88 FR 17739, Mar. 24, 2023]

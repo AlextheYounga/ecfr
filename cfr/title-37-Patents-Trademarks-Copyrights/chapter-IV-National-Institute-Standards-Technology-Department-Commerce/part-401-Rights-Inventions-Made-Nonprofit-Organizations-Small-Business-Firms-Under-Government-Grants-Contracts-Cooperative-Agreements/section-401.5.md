@@ -1,10 +1,8 @@
 ##### § 401.5 Modification and tailoring of clauses. #####
 
-Link to an amendment published at 88 FR 17736, Mar. 24, 2023.
+(a) Agencies should complete the blank in paragraph (g)(2) of the clauses at § 401.14 in accordance with their own or applicable government-wide regulations such as the Federal Acquisition Regulation. If the funding agreement is a grant or cooperative agreement, paragraph (g)(3) of the clause may be deleted.
 
-(a) Agencies should complete the blank in paragraph (g)(2) of the clauses at § 401.14 in accordance with their own or applicable government-wide regulations such as the Federal Acquisition Regulation. In funding agreements, agencies wishing to apply the same clause to all subcontractors as is applied to the contractor may delete paragraph (g)(2) of the clause in § 401.14 and delete the words “to be performed by a small business firm or domestic nonprofit organization” from paragraph (g)(1). Also, if the funding agreement is a grant or cooperative agreement, paragraph (g)(3) of the clause may be deleted. When either paragraph (g)(2) of the clause in § 401.14 or paragraphs (g)(2) and (3) of the clause in § 401.14 are deleted, the remaining paragraph or paragraphs should be renumbered appropriately.
-
-(b) Agencies should complete paragraph (l), “Communications”, at the end of the clauses at § 401.14 by designating a central point of contact for communications on matters relating to the clause. Additional instructions on communications may also be included in paragraph (l) of the clause in § 401.14.
+(b) Agencies should complete paragraph (l) of the clause in § 401.14, “Communication,” by designating a central point of contact for communications on matters relating to the clause. Agencies may also include additional information on communications in paragraph (l) of the clause in § 401.14.
 
 (c) Agencies may replace the italicized words and phrases in the clause at § 401.14 with those appropriate to the particular funding agreement. For example, “contractor” could be replaced by “grantee.” Depending on its use, “agency” or “Federal agency” can be replaced either by the identification of the agency or by the specification of the particular office or official within the agency.
 
@@ -18,18 +16,10 @@ This license will include the right of the government to sublicense foreign gove
 
 The *agency* reserves the right to unilaterally amend this *funding agreement* to identify specific treaties or international agreements entered into or to be entered into by the government after the effective date of this *funding agreement* and effectuate those license or other rights which are necessary for the government to meet its obligations to foreign governments, and international organizations under such treaties or international agreements with respect to subject inventions made after the date of the amendment.
 
-(f) Agencies may add additional paragraphs to paragraph (f) of the clauses at § 401.14 to require the contractor to do one or more of the following:
-
-(1) Provide a report prior to the close-out of a funding agreement listing all subject inventions or stating that there were none.
-
-(2) Provide, upon request, the filing date, patent application number and title; a copy of the patent application; and patent number and issue date for any subject invention in any country in which the contractor has applied for a patent.
-
-(3) Provide periodic (but no more frequently than annual) listings of all subject inventions which were disclosed to the agency during the period covered by the report.
-
-(g) If the contract is with a nonprofit organization and is for the operation of a government-owned, contractor-operated facility, the following will be substituted for the text of paragraph (k)(3) of the clause at § 401.14:
+(f) If the contract is with a nonprofit organization and is for the operation of a government-owned, contractor-operated facility, the following will be substituted for the text of paragraph (k)(3) of the clause at § 401.14:
 
 After payment of patenting costs, licensing costs, payments to inventors, and other expenses incidental to the administration of subject inventions, the balance of any royalties or income earned and retained by the contractor during any fiscal year on subject inventions under this or any successor contract containing the same requirement, up to any amount equal to five percent of the budget of the facility for that fiscal year, shall be used by the contractor for scientific research, development, and education consistent with the research and development mission and objectives of the facility, including activities that increase the licensing potential of other inventions of the facility. If the balance exceeds five percent, 15 percent of the excess above five percent shall be paid by the contractor to the Treasury of the United States and the remaining 85 percent shall be used by the contractor only for the same purposes as described in the preceding sentence. To the extent it provides the most effective technology transfer, the licensing of subject inventions shall be administered by contractor employees on location at the facility.
 
-(h) If the contract is for the operation of a government-owned facility, agencies may add paragraph (f)(5) to the clause at § 401.14 with the following text:
+(g) If the contract is for the operation of a government-owned facility, agencies may add paragraph (f)(5) to the clause at § 401.14 with the following text:
 
-The contractor shall establish and maintain active and effective procedures to ensure that subject inventions are promptly identified and timely disclosed and shall submit a description of the procedures to the *contracting officer* so that the *contracting officer* may evaluate and determine their effectiveness.[83 FR 15960, Apr. 13, 2018]
+The contractor shall establish and maintain active and effective procedures to ensure that subject inventions are promptly identified and timely disclosed and shall submit a description of the procedures to the *contracting officer* so that the *contracting officer* may evaluate and determine their effectiveness.[83 FR 15960, Apr. 13, 2018, as amended at 88 FR 17736, Mar. 24, 2023]
