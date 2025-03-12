@@ -1,0 +1,3 @@
+##### § 536.69 Retention of file. #####
+
+After final action has been taken, the settlement authority will retain the file until at least one month after either the period of filing suit or the appeal has expired and until all data has been entered into the database. A paid claim file will be retained until final action has been taken on all other claims arising out of the same incident. If any single claim arising out of the same incident must be forwarded to higher authority for final action, all claims files for that incident will be forwarded at the same time. For further discussion see DA Pam 27-162, paragraph 2-79.

@@ -1,0 +1,9 @@
+##### § 356.17 Annual requirements for vessel owners. #####
+
+(a) An owner of a Fishing Industry Vessel must submit a certification in the form of an Affidavit of United States Citizenship to the Citizenship Approval Officer on an annual basis as provided in paragraph (b) of this section. The vessel owner does not have to submit duplicate copies of documents that have already been submitted and that have not changed, provided a copy is still retained by us. This annual certification requirement does not excuse the owner from the requirements of § 356.5 to notify the Citizenship Approval Officer throughout the year when changes in the citizenship information occur.
+
+(b) The annual certification required by paragraph (a) of this section must be filed at least 45 days prior to the renewal date for the vessel's documentation and fishery endorsement. Where multiple Fishing Industry Vessels are owned by the same entity or by entities that ultimately have common ownership, an Affidavit of U.S. Citizenship and supporting documentation may be filed for all of the vessels in conjunction with the first vessel documentation renewal during each calendar year. Any information or supporting documentation unique to a particular vessel that would normally be required to be submitted under § 356.13 or any other provision of this part 356 such as charters, management agreements, loans or financing agreements, sales, purchase or marketing agreements, or exemptions claimed under this part must be submitted with the annual filing for that vessel if the documents are not already on file with the Citizenship Approval Officer.
+
+(c) Failure to file the annual certification in a timely manner may result in the expiration of the vessel's fishery endorsement, which will prohibit the vessel from operating in the fisheries of the United States.
+
+[65 FR 44877, July 19, 2000, as amended at 68 FR 5579, Feb. 4, 2003]

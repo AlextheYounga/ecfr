@@ -1,0 +1,9 @@
+##### § 1511.5 Structural integrity tests. #####
+
+(a) *Nipple.* Hold the pacifier by the shield or guard, grasp the nipple end of the pacifier and gradually apply a tensile force to the pacifier nipple in any possible direction. The force shall be applied gradually, attaining but not exceeding 10.0 pounds (44.5 newtons) within a period of 5 seconds and maintained at 10.0 pounds for an additional 10 seconds.
+
+(b) *Handle or ring.* Hold the pacifier by the shield or guard or base of the nipple, and push or pull on the handle or ring in any possible direction. The force shall be applied gradually attaining but not exceeding 10.0 pounds (44.5 newtons) within a period of 5 seconds and maintained at 10.0 pounds for an additional 10 seconds.
+
+(c) *Heat cycle deterioration.* After the testing prescribed in paragraphs (a) and (b) of this section, all pacifiers shall be subject to the following: submerge the pacifier in boiling water for 5 minutes and then remove the pacifier and allow it to cool for 5 minutes in room temperature air, 60° to 80 °F. (16° to 27 °C). After the cooling period, resubmerge the pacifier in the boiling water for 5 minutes. The process shall be repeated for a total of 6 boiling/cooling cycles. After the sixth cycle, the pacifier shall again be subjected to the structural tests in paragraphs (a) and (b) of this section and section 1511.3.
+
+(d) *Small parts.* Any components or fragments which are released as a result of the tests specified in paragraphs (a), (b) and (c) of this section shall be placed in the truncated cylinder shown in Figure 2, such that the component or fragment is in the lowest position in the cylinder. If the uppermost edge of the component or fragment is below the plane of the top of the cylinder, the pacifier shall fail the test in this section.

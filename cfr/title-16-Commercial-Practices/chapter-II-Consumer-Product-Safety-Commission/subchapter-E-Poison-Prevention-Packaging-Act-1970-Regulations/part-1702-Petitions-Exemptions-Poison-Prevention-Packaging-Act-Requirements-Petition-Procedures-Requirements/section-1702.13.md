@@ -1,0 +1,3 @@
+##### § 1702.13 Labeling and packaging samples. #####
+
+Each petition for an exemption under this part shall include a sample of the label and complete packaging for each size in which each form of the product for which an exemption is sought is packaged. This shall include the immediate container labeling, any package inserts, and other carton or wrapping labeling in which the product is offered to the consumer. In the case of drugs, each petition shall be accompanied by labeling on the outer carton or wrapping in which the product is offered to the retailer, as well as samples of the promotional and advertising information for the product.

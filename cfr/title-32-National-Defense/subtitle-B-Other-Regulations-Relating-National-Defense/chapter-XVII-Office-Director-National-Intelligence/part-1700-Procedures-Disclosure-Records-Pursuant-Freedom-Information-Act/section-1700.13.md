@@ -1,0 +1,7 @@
+##### § 1700.13 Right to appeal and appeal procedures. #####
+
+(a) *Right to appeal.* Individuals who disagree with a decision not to produce a document or parts of a document, to deny a fee category request, to deny a request for a fee waiver or fee reduction, to deny expedited processing, or a decision regarding a fee estimate or a determination that no records exist, should submit a written request for review to the Chief FOIA Officer c/o Director, Information Management Office, Office of the Director of National Intelligence, Washington, DC 20511. The words “FOIA APPEAL” should be written on the letter and the envelope. The appeal must be signed by the individual or his legal counsel.
+
+(b) *Requirements as to time and form.* Appeals of adverse decisions must be received within 45 days of the date of the ODNI's initial decision. Requesters should include a statement of the reasons supporting the request for reversal of the initial decision.
+
+(c) *Exceptions.* No appeal shall be accepted if the requester has outstanding fees for information services at this or another federal agency. In addition, no appeal shall be accepted if the information in question has been the subject of an administrative review within the previous two years or is the subject of pending litigation in the Federal courts.

@@ -1,0 +1,3 @@
+##### § 552.32 Authority to acquire real estate and interests therein. #####
+
+While the Federal Government has the inherent power to acquire land for its constitutional purposes, this power can be exercised only at the discretion of Congress (Van Brocklin v. Tennessee, 117 U.S. 151; 29 L. Ed. 845; 6 S. Ct. 670). No land shall be purchased on account of the United States, except under a law authorizing such purchase (R. S. 3736; 41 U.S.C. 14). No real estate not in Federal ownership shall be acquired by a military department, except as such acquisition is or shall be expressly authorized by law (section 501(b), Act July 27, 1954; Pub. L. 534, 83d Congress; 68 Stat. 560).

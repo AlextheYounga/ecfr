@@ -1,0 +1,5 @@
+##### § 31.15-10 Towing vessels may carry persons in addition to crew—B/LBR. #####
+
+(a) Towing vessels engaged in towing tank barges on the Great Lakes, inland waters, or rivers, may be authorized by the Coast Guard District Commander of the district to carry on board such number of persons in addition to its crew as shall be deemed necessary to carry on the legitimate business of such towing vessel or barge, not exceeding, however, one person to every net ton of the towing vessel.
+
+(b) A Coast Guard District Commander granting a license to a vessel engaged in towing to carry persons in addition to its crew shall notify the Officer in Charge, Marine Inspection, in whose jurisdiction the vessel receiving the permit is engaged, and the Officer in Charge, Marine Inspection, shall keep a record of the same.

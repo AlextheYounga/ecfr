@@ -1,0 +1,3 @@
+##### § 228.3 Restrictions on admission to protected property. #####
+
+Access to protected property shall be restricted to ensure the orderly and secure conduct of Agency business. Admission to protected property will be restricted to employees and other persons with proper authorization who shall, when requested, display government or other identifying credentials to the Security Protective Officers or other duly authorized personnel when entering, leaving, or while on the property.

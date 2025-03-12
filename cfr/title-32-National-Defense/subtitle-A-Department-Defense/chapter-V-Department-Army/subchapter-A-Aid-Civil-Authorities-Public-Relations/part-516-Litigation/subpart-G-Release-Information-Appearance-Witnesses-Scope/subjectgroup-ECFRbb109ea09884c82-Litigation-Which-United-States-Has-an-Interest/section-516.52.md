@@ -1,0 +1,3 @@
+##### § 516.52 Expert witnesses. #####
+
+Requests for present or former DA personnel as expert or opinion witnesses from DOJ or other attorneys representing the United States will be referred to Litigation Division unless the request involves a matter that has been delegated by Litigation Division to an SJA or legal adviser. In no event, may present or former DA personnel furnish expert or opinion testimony in a case in which the United States has an interest for a party whose interests are adverse to the interests of the United States.

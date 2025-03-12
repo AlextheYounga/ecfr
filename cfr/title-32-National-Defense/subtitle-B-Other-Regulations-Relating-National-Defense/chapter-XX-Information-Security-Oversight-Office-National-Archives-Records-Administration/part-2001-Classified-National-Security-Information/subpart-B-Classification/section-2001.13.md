@@ -1,0 +1,25 @@
+##### § 2001.13 Classification prohibitions and limitations. #####
+
+(a) *Declassification without proper authority.* Classified information that has been declassified without proper authority, as determined by an original classification authority with jurisdiction over the information, remains classified and administrative action shall be taken to restore markings and controls, as appropriate. All such determinations shall be reported to the senior agency official who shall promptly provide a written report to the Director of ISOO.
+
+(1) If the information at issue is in records in the physical and legal custody of the National Archives and Records Administration (NARA) and has been made available to the public, the original classification authority with jurisdiction over the information shall, as part of determining whether the restoration of markings and controls is appropriate, consider whether the removal of the information from public purview will significantly mitigate the harm to national security or otherwise draw undue attention to the information at issue. Written notification, classified when appropriate under the Order, shall be made to the Archivist, which shall include a description of the record(s) at issue, the elements of information that are classified, the duration of classification, and the specific authority for continued classification. If the information at issue is more than 25 years of age and the Archivist does not agree with the decision, the information shall nonetheless be temporarily withdrawn from public access and shall be referred to the Director of ISOO for resolution in collaboration with affected parties.
+
+(b) *Reclassification after declassification and release to the public under proper authority.* In making the decision to reclassify information that has been declassified and released to the public under proper authority, the agency head must approve, in writing, a determination on a document-by-document basis that the reclassification is required to prevent significant and demonstrable damage to the national security. As part of making such a determination, the following shall apply:
+
+(1) The information must be reasonably recoverable without bringing undue attention to the information which means that:
+
+(i) Most individual recipients or holders are known and can be contacted and all instances of the information to be reclassified will not be more widely disseminated;
+
+(ii) If the information has been made available to the public via a means such as Government archives or reading room, consideration is given to length of time the record has been available to the public, the extent to which the record has been accessed for research, and the extent to which the record and/or classified information at issue has been copied, referenced, or publicized; and
+
+(iii) If the information has been made available to the public via electronic means such as the internet, consideration is given as to the number of times the information was accessed, the form of access, and whether the information at issue has been copied, referenced, or publicized.
+
+(2) If the reclassification concerns a record in the physical custody of NARA and has been available for public use, reclassification requires notification to the Archivist and approval by the Director of ISOO.
+
+(3) Any recipients or holders of the reclassified information who have current security clearances shall be appropriately briefed about their continuing legal obligations and responsibilities to protect this information from unauthorized disclosure. The recipients or holders who do not have security clearances shall, to the extent practicable, be appropriately briefed about the reclassification of the information that they have had access to, their obligation not to disclose the information, and be requested to sign an acknowledgement of this briefing.
+
+(4) The reclassified information must be appropriately marked in accordance with section 2001.24(l) and safeguarded. The markings should include the authority for and the date of the reclassification action.
+
+(5) Once the reclassification action has occurred, it must be reported to the National Security Advisor and to the Director of ISOO by the agency head or senior agency official within 30 days. The notification must include details concerning paragraphs (b)(1) and (3) of this section.
+
+(c) *Classification by compilation.* A determination that information is classified through the compilation of unclassified information is a derivative classification action based upon existing original classification guidance. If the compilation of unclassified information reveals a new aspect of information that meets the criteria for classification, it shall be referred to an original classification authority with jurisdiction over the information to make an original classification decision.

@@ -1,0 +1,3 @@
+##### § 644.466 Release and record of physical restoration. #####
+
+The responsible DE, upon completion of restoration, will make every effort to obtain a release of further claims for damages. A complete record of all items of restoration and the cost will be kept for use at the final hearing in condemnation or in any collateral proceedings, in the event a release is not obtained. Where litigation is anticipated, photographic evidence of work peformed will be obtained.

@@ -1,0 +1,5 @@
+##### § 175.200 Gross tonnage as criterion for requirements. #####
+
+(a) The regulations in this subchapter take into account a vessel's length, passenger capacity, construction, equipment, intended service, and operating area. The criterion for application of this subchapter is the gross tonnage of the vessel. When the Commandant determines that the gross tonnage of a particular vessel, which is attained by exemptions, reductions, or other devices in the basic gross tonnage formulation, will circumvent or be incompatible with the application of specific regulations for a vessel of such physical size, the Commandant will prescribe the regulations to be made applicable to the vessel.
+
+(b) When the Commandant determines that the gross tonnage is not a valid criterion for the use of certain regulations based on the relative size of the vessel, the owner will be informed of the determination and of the regulations applicable to the vessel. The vessel must be brought into compliance with all additional requirements before a Certificate of Inspection is issued.

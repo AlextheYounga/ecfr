@@ -1,0 +1,3 @@
+##### § 309.14 Recordkeeping. #####
+
+You must keep for one year any delivery tickets, letters of certification, or other paper on which you based your fuel rating certifications for non-liquid alternative vehicle fuels (other than electricity) and for electric vehicle fuel dispensing systems. You also must keep for one year records of any fuel rating determinations you made according to § 309.10. If you rely for your certification on a permanent marking or permanent label attached to the electric vehicle fuel dispensing system by the manufacturer, you must not remove or deface the permanent marking or label. The records must be available for inspection by Federal Trade Commission staff members, or by persons authorized by FTC.

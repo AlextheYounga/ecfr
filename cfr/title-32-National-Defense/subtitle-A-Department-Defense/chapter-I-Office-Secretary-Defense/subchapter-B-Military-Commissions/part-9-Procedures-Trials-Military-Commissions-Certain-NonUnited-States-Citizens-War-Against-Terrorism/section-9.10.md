@@ -1,0 +1,5 @@
+##### § 9.10 Other. #####
+
+This part is not intended to and does not create any right, benefit, or privilege, substantive or procedural, enforceable by any party, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person. No provision in this part shall be construed to be a requirement of the United States Constitution. Section and subsection captions in this document are for convenience only and shall not be used in construing the requirements of this part. Failure to meet a time period specified in this part, or supplementary regulations or instructions issued under § 9.7(a), shall not create a right to relief for the Accused or any other person. DoD Directive 5025.12 shall not apply to this part or any supplementary regulations or instructions issued under § 9.7(a).
+
+2 Available from *www.ditc.mil/whs/directives.*

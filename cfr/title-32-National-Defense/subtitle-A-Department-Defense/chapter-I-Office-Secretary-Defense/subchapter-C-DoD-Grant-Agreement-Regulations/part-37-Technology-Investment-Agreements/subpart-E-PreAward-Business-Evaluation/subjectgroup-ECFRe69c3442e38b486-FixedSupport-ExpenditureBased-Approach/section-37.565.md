@@ -1,0 +1,3 @@
+##### § 37.565 May I use a hybrid instrument that provides fixed support for only a portion of a project? #####
+
+Yes, for a research project that is to be carried out by a number of participants, you may award a TIA that provides for some participants to perform under fixed-support arrangements and others to perform under expenditure-based arrangements. This approach may be useful, for example, if a commercial firm that is a participant will not accept an agreement with all of the post-award requirements of an expenditure-based award. Before using a fixed-support arrangement for that firm's portion of the project, you must judge that it meets the criteria in § 37.305.

@@ -1,0 +1,5 @@
+##### § 201.73 Joinder of proceedings. #####
+
+(a) Two or more matters which have been set for hearing by the Administration, and which involve similar issues, may be consolidated for the purpose of hearing. Such consolidation may, at the discretion of the Administration, or Presiding Officer after hearing has been ordered, be ordered upon petition of any party to said hearing or upon the initiative of the Administration.
+
+(b) A petition to consolidate shall be filed not later than the first prehearing conference in the proceeding with which consolidation is requested, and shall relate only to then pending applications. If made at such conference, the petition may be oral. A petition which is not timely filed shall be dismissed unless the petitioner shall clearly show good cause for the failure to file said petition on time. A petition which does not relate to an application pending at the time of or before a prehearing conference in a proceeding with which consolidation is requested, shall likewise be dismissed unless the petitioner shall clearly show good cause for a failure to file the application within the prescribed period.

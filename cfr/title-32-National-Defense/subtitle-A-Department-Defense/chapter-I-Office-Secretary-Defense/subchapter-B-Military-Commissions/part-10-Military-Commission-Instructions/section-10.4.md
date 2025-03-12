@@ -1,0 +1,7 @@
+##### § 10.4 Policies and procedures. #####
+
+(a) *Promulgation.* Military Commission Instructions will be issued by the General Counsel of the Department of Defense (hereinafter General Counsel). Each Instruction will issue over the signature of the General Counsel and, unless otherwise specified therein, shall take effect upon the signature of the General Counsel. Instructions will be numbered in sequence.
+
+(b) *Professional responsibility.* Compliance with these Instructions shall be deemed a professional responsibility obligation for the practice of law within the Department of Defense.
+
+(c) *Compliance breaches.* Failure to adhere to these Instructions or any other failure to comply with any rule, regulation, or Instruction applicable to trials by military commission convened pursuant to 32 CFR part 9, and Military Order of November 13, 2001, “Detention, Treatment, and Trial of Certain Non-Citizens in the War Against Terrorism,” may be subject to appropriate action by the Appointing Authority, the General Counsel of the Department of Defense, or the Presiding Officer of a military commission. Such action may include permanently barring an individual from participating in any military commission proceeding convened pursuant to 32 CFR part 9, and Military Order of November 13, 2001, “Detention, Treatment, and Trial of Certain Non-Citizens in the War Against Terrorism,” punitive measures imposed under 10 U.S.C. 898, and any other lawful sanction.

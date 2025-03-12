@@ -1,0 +1,5 @@
+##### § 502.1 Scope of rules in this part. #####
+
+The rules in this part govern procedure before the Federal Maritime Commission, hereinafter referred to as the “Commission,” under the Merchant Marine Act, 1920, Merchant Marine Act, 1936, Shipping Act of 1984, as amended by the Ocean Shipping Reform Act of 1998, Administrative Procedure Act, and related acts, except that subpart R of this part does not apply to proceedings subject to sections 7 and 8 of the Administrative Procedure Act, which are to be governed only by subparts A to Q inclusive, of this part. They shall be construed to secure the just, speedy, and inexpensive determination of every proceeding. To this end, all persons involved in proceedings conducted under the rules of this part shall be required to consider at an early stage of the proceeding whether resort to alternative dispute resolution techniques would be appropriate or useful. [Rule 1.]
+
+[49 FR 44369, Nov. 6, 1984, as amended at 58 FR 38649, July 19, 1993; 64 FR 7807, Feb. 17, 1999]

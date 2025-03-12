@@ -1,0 +1,3 @@
+##### § 114.550 Special consideration. #####
+
+In applying the provisions of this subchapter, the OCMI may give special consideration to authorizing departures from the specific requirements when unusual circumstances or arrangements warrant such departures and an equivalent level of safety is provided. The OCMI of each marine inspection zone in which a vessel operates must approve any special consideration granted to the vessel.

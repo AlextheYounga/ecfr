@@ -1,0 +1,7 @@
+##### § 536.136 Scope for claims arising under the Foreign Claims Act. #####
+
+(a) *Application.* This subpart, which is applicable outside the United States, its commonwealths, territories and possessions, including areas under the jurisdiction of the United States, implements the FCA and prescribes the substantive basis and special procedural requirements for settlement of claims of inhabitants of a foreign country, or of a foreign country or a political subdivision thereof, against the United States for personal injury, death, or property damage caused by service members or civilian employees, or claims that arise incident to noncombat activities of the armed forces.
+
+(b) *Effect of Military Claims Act (MCA).* Claims arising in foreign countries will be settled under the MCA if the injured party is an inhabitant of the U.S., for example, a member of the U.S. armed forces, a U.S. civilian employee, or a family member of either category. In a wrongful death case, if the decedent is an inhabitant of a foreign country, even though his survivors are U.S. inhabitants, the FCA will apply. See § 536.74(c). For claims arising outside the U.S. involving foreign-born spouces, see DA Pam 27-20, paragraph 2-20a.
+
+(c) *Effect of Army Maritime Claims Settlement Act (AMCSA) (10 U.S.C. 4801, 4802 and 4808).* A maritime claim may be settled under the FCA.

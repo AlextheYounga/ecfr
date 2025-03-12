@@ -1,0 +1,3 @@
+##### § 100.3 Policy. #####
+
+Persons who are enlisted or appointed in, or transferred to a Reserve component of the Armed Forces of the United States, under the provisions of 10 U.S.C. 510, 511, 593, 597, or 651 and 32 U.S.C. 302 are expected to participate and perform satisfactorily as members of the Ready Reserve to fulfill their obligation or service agreement. This policy is also in accordance with the standards prescribed by 32 CFR parts 102 and 101 and the Military Departments concerned.

@@ -1,0 +1,7 @@
+##### § 327.20 Admiralty Jurisdiction Extension Claims: Required claims. #####
+
+(a) Pursuant to 46 U.S.C. 30101(c) of the Admiralty Extension Act (AEA), administrative claims involving the extension of admiralty jurisdiction to cases of damage or injury on land caused by a Maritime Administration vessel on navigable waters must be presented in writing to the Maritime Administration in accordance with §§ 327.20 through 327.34 prior to institution of a court action thereon.
+
+(b) A civil action against the United States for injury or damage done or consummated on land by a vessel on navigable waters may not be brought until the earlier occurrence of either the denial of the claim by the Maritime Administration or the presumptive denial of the claim which arises 6 months after the claim has been presented in writing to the Maritime Administration. 46 U.S.C. 30101(c)(2). Note that the 6 month period of review will not begin until a valid claim is filed pursuant to § 327.25.
+
+(c) Proceedings against the United States pursuant to the requirements of the AEA and these regulations is the exclusive remedy available against the United States of America, acting by and through the Maritime Administration, with respect to such injuries and damages.

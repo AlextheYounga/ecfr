@@ -1,0 +1,3 @@
+##### § 1636.2 The claim of conscientious objection. #####
+
+A claim to classification in Class 1-A-0 or Class 1-0, must be made by the registrant in writing. Claims and documents in support of claims may only be submitted after the registrant has received an order to report for induction or after the Director has made a specific request for submission of such documents. All claims or documents in support of claims received prior to a registrant being ordered to report for induction or prior to the Director's specific request for such documentation will be returned to the registrant and no file or record of such submission will be established.

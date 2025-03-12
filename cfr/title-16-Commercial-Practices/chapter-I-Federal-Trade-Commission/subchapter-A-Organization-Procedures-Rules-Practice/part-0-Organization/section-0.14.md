@@ -1,0 +1,5 @@
+##### § 0.14 Office of Administrative Law Judges. #####
+
+Administrative law judges are officials to whom the Commission, in accordance with law, delegates the initial performance of statutory fact-finding functions and initial rulings on conclusions of law, to be exercised in conformity with Commission decisions and policy directives and with its Rules of Practice. The administrative law judges also serve as presiding officers assigned to conduct rulemaking proceedings under section 18(a)(1)(B) of the Federal Trade Commission Act as amended and other rulemaking proceedings as directed. The Chief Administrative Law Judge also serves as the Chief Presiding Officer. Administrative law judges are appointed under the authority and subject to the prior approval of the Office of Personnel Management.
+
+[54 FR 19885, May 9, 1989, as amended at 65 FR 78409, Dec. 15, 2000]

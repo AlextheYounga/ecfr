@@ -1,0 +1,5 @@
+##### § 634.39 Testing at the request of the apprehended person. #####
+
+(a) A person subject to tests under § 634.8 may request that an additional test be done privately. The person may choose a doctor, qualified technician, chemist, registered nurse, or other qualified person to do the test. The person must pay the cost of the test. The test must be a chemical test approved by the State or host nation in an overseas command. All tests will be completed as soon as possible, with any delay being noted on the results.
+
+(b) If the person requests this test, the suspect is responsible for making all arrangements. If the suspect fails to or cannot obtain any additional test, the results of the tests that were done at the direction of a law enforcement official are not invalid and may still be used to support actions under separate Service regulations, UCMJ, and the U.S. Magistrate Court.

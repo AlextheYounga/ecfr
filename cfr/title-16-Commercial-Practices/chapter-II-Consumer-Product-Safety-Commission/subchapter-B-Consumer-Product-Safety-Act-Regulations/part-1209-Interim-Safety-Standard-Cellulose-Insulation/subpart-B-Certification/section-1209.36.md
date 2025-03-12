@@ -1,0 +1,7 @@
+##### § 1209.36 Production testing. #####
+
+(a) *General.* Manufacturers, private labelers, and importers shall test the cellulose insulation periodically as it is manufactured to demonstrate that the product being manufactured is substantially similar to the product which passed the qualification testing and to demonstrate that the product being manufactured meets the requirements of the standard.
+
+(b) *Types and frequency of testing.* Manufacturers, private labelers, and importers shall determine the types of tests for production testing. Each production test shall be conducted at a production interval short enough to ensure that if the samples selected for testing meet the standard or a portion of the standard, the insulation produced during the interval will also meet the standard or the appropriate portion of the standard.
+
+(c) *Test failure.* If any test yields failing results, production must cease and the faulty manufacturing process must be corrected (see § 1209.37). In addition, the material from which the samples were taken may not be distributed in commerce unless the material can be corrected (see § 1209.37) so as to yield passing results and meet the standard. Cellulose insulation that does not comply with the standard cannot be sold or offered for sale.

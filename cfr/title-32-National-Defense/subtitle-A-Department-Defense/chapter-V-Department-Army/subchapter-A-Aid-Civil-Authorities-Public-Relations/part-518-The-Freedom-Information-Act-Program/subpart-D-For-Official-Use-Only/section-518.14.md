@@ -1,0 +1,3 @@
+##### § 518.14 General. #####
+
+Information that has not been given a security classification pursuant to the criteria of an Executive Order, but which may be withheld from the public because disclosure would cause harm to an interest protected by one or more FOIA exemptions 2 through 9 (see Subpart C of this part) shall be considered as being for official use only (FOUO). No other material shall be considered FOUO and FOUO is not authorized as an additional form of classification to protect national security interests. Additional information on FOUO and other controlled, unclassified information may be found in DoD 5200.1-R, “Information Security Program” or by contacting the DA FOIA/PA Office.

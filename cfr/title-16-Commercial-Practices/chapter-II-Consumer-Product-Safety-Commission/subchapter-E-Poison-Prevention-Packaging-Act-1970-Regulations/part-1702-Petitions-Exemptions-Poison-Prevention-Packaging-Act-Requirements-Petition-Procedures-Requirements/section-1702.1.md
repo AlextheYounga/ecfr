@@ -1,0 +1,5 @@
+##### § 1702.1 Purpose and policy. #####
+
+(a) Section 1700.14(a) of part 1700 lists household substances the Consumer Product Safety Commission requires, under section 3(a)(1) of the Poison Prevention Packaging Act of 1970, 15 U.S.C. 1472, to be contained in special packaging to protect children from serious personal injury or serious illness resulting from handling, using, or ingesting such substances. There may be occasions, however, when the Commission determines that a particular substance should be exempt from special packaging requirements.
+
+(b) The Commission may, either on its own initiative or upon the petition of any interested person, amend the regulation at § 1700.14(a) by exempting a substance or category of substances from special packaging requirements. The purpose of these rules is to provide procedures and requirements for submitting petitions for exemption from special packaging requirements.

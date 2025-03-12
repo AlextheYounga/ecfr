@@ -1,0 +1,3 @@
+##### § 460.3 Who is covered. #####
+
+You are covered by this regulation if you are a member of the home insulation industry. This includes individuals, firms, partnerships, and corporations. It includes manufacturers, distributors, franchisors, installers, retailers, utility companies, and trade associations. Advertisers and advertising agencies are also covered. So are labs doing tests for industry members. If you sell new homes to consumers, you are covered.

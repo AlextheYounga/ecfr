@@ -1,0 +1,3 @@
+##### § 644.131 General. #####
+
+Sections 644.131 through 644.142 outline the procedures of the Corps of Engineers for the leasing of real estate and interests therein for military and civil works purposes. They are applicable to all division and District Engineers having real estate responsibilities. To the extent practicable, these procedures will be followed by overseas commanders, in conjuction with the provisions of AR 405-10, Chapter 3. In general, these procedures also apply to the leasing of land and improvements for other Government agencies which authorize the Corps to acquire leasehold interests.

@@ -1,0 +1,3 @@
+##### § 349.1 Purpose. #####
+
+This part prescribes regulations implementing section 302, Merchant Marine Act, 1936 (Act), as amended (46 App. U.S.C. 1132), added by section 10 of Pub. L. 104-239, the Maritime Security Act of 1996. These regulations provide the procedures by which the Maritime Administration (MARAD), under authority delegated by the Secretary of Transportation to the Maritime Administrator, certifies, upon application, that certain merchant seamen are entitled to reemployment rights and other benefits after completion of their service on vessels used by the United States for a war, armed conflict, national emergency or maritime mobilization need. It also describes the form of administrative assistance MARAD will provide to the seamen certified.

@@ -1,0 +1,5 @@
+##### § 1027.10 Statute of limitations. #####
+
+(a) If a debt has been outstanding for more than 10 years after CPSC's right to collect the debt first accrued, the agency may not collect by salary offset unless facts material to the Government's right to collect were not known and could not reasonably have been known by the official or officials who were charged with the responsibility for discovery and collection of such debts.
+
+(b) [Reserved]

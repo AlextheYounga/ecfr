@@ -1,0 +1,3 @@
+##### § 1803.3 Contact for general information and requests. #####
+
+For general information on this part or to request a declassification review, please direct your communication to the Information and Privacy Coordinator, National Counterintelligence Center, 3W01 NHB, Washington, DC 20505. Such inquiries will also be accepted by facsimile at (703) 874-5844. For general or status information only, the telephone number is (703) 874-4121. Collect calls cannot be accepted.

@@ -1,0 +1,3 @@
+##### § 37.1115 What are my responsibilities related to participants' single audits? #####
+
+For audits of for-profit participant's systems, under §§ 37.640 through 37.660, you are the focal point within the Department of Defense for ensuring that participants submit audit reports and for resolving any findings in those reports. Nonprofit participants send their single audit reports to a Governmentwide clearinghouse. For those participants, the Office of the Assistant Inspector General (Auditing) should receive any DoD-specific findings from the clearinghouse and refer them to you for resolution, if you are the appropriate official to do so.

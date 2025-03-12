@@ -1,0 +1,19 @@
+##### § 720.13 Request for delivery of members serving sentence of a State court. #####
+
+(a) *General.* Ordinarily, members serving protracted sentences resulting from a State criminal conviction will be processed for administrative discharge by reason of misconduct. It may, however, be in the best interest of the Naval Service to retain a member charged with a serious offense, subject to military jurisdiction, to try the member by court-martial. The Navy may obtain temporary custody of incarcerated members for prosecution with a request to the State under the Interstate Agreement on Detainers Act. 18 U.S.C. app. 9. The Department of the Navy may use the Act in the same manner in which State authorities may request members purusant to § 720.12.
+
+(b) *Interstate Agreement on Detainers Act.* Military authorities may use the Act to obtain temporary custody of a member incarcerated in a State institution, pursuant to conviction by a State court, to resolve criminal charges against the member before a court-martial.
+
+(1) *Detainer.* If a command requests temporary custody under the Act, the commanding officer of the cognizant naval legal service office or the Marine Corps staff judge advocate, shall file a detainer with the warden, commissioner of corrections, or other State official having custody of the member. The detainer shall identify the member with particularity, enumerate the military charges pending, and request the command be notified in advance of any intention to release the member from confinement.
+
+(2) *Request for delivery.* As soon as practical after filing the detainer, the commanding officer of the cognizant naval legal service office or the Marine Corps staff judge advocate, shall prepare a written request for temporary custody of the member addressed to the State official charged with administration of the State penal system. The request shall designate the person(s) to whom the member is to be delivered and shall be transmitted via the military judge to whom the member's case has been assigned. If the request is properly prepared, the military judge shall approve, record, and transmit the request to the addressee official. The Act provides the State with a 30-day period after receipt of the request before the request is to be honored. Within that period of time, the governor of the State may disapprove the request, either unilaterally or upon the prisoner's request. If the governor disapproves the request, the command should coordinate any further action with the Judge Advocate General.
+
+(3) *Responsibilities.* The cognizant command shall ensure that the responsibilities of a receiving jurisdiction, delineated in section 2, Article IV of the Act, are discharged. In particular, the Act requires that the receiving jurisdiction:
+
+(i) Commence the prisoner's trial within 120 days of the prisoner's arrival, unless the court, for good cause shown during an Article 39(a), UCMJ, session, grants a continuance necessary or reasonable to promote the ends of justice;
+
+(ii) Hold the prisoner in a suitable jail or other facility regularly used for persons awaiting prosecution, except for periods during which the prisoner attends court or travels to or from any place at which his presence may be required;
+
+(iii) Return the prisoner to the sending jurisdiction at the earliest practical time, but not before the charges that underlie the request have been resolved (prematurely returning the prisoner will result in dismissal of the charges); and
+
+(iv) Pay all costs of transporting, caring for, keeping, and returning the prisoner to the sending jurisdiction, unless the command and the State agree on some other allocation of the costs or responsibilities.

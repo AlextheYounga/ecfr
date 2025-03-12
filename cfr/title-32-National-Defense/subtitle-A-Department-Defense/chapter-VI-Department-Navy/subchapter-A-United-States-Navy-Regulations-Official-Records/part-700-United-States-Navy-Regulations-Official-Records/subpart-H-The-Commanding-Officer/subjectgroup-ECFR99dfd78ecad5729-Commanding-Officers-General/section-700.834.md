@@ -1,0 +1,3 @@
+##### § 700.834 Care of ships, aircraft, vehicles and their equipment. #####
+
+The commanding officer shall cause such inspections and tests to be made and procedures carried out as are prescribed by competent authority, together with such others as he or she deems necessary, to ensure the proper preservation, repair, maintenance and operation of any ship, aircraft, vehicle, and their equipment assigned to his or her command.

@@ -1,0 +1,3 @@
+##### § 806b.8 Obtaining law enforcement records. #####
+
+The Commander, Air Force Office of Special Investigation; the Commander, Air Force Security Forces Center; Major Command, Field Operating Agency, and base chiefs of security forces; Air Force Office of Special Investigations detachment commanders; and designees of those offices may ask another agency for records for law enforcement under 5 U.S.C. 552a(b)(7). The requesting office must indicate in writing the specific part of the record desired and identify the law enforcement activity asking for the record.

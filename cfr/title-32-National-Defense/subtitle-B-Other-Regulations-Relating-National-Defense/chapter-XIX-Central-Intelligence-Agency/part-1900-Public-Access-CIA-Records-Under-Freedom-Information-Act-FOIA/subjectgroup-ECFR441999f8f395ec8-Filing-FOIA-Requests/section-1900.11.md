@@ -1,0 +1,3 @@
+##### § 1900.11 Preliminary Information. #####
+
+Members of the public shall address all communications to the CIA Coordinator as specified at 32 CFR 1900.03 and clearly delineate the communication as a request under the Freedom of Information Act and this regulation. CIA employees receiving a communication in the nature of a FOIA request shall expeditiously forward same to the Coordinator. Requests and appeals on requests, referrals, or coordinations received from members of the public who owe outstanding fees for information services at this or other federal agencies will not be accepted and action on all pending requests shall be terminated in such circumstances.

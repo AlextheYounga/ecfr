@@ -1,0 +1,3 @@
+##### § 239.11 Appeals. #####
+
+Applicant appeals will be processed at the district level and forwarded through HQUSACE for review. The HQUSACE may approve an appeal but must forward any recommendation for denial to the DASA(I&H) for review and consideration. DASA(I&H) may approve an appeal but must forward recommendations for denial to the DUSD(I&E) for decision. The DUSD(I&E) is the senior appeals authority for appeals submitted by applicants.

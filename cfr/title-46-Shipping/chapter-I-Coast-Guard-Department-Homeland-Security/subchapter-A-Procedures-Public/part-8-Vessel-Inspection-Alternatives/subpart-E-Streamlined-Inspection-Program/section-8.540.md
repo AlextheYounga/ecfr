@@ -1,0 +1,3 @@
+##### § 8.540 Enrollment in SIP. #####
+
+Upon successful completion of the training and evaluation phase, the Coast Guard SIP Advisor will recommend to the OCMI that the company or vessel be enrolled in the SIP. If the OCMI concurs with the recommendation, he or she will issue an enrollment letter and endorse the vessel's COI. Subsequent inspections covered under this subpart will be conducted in accordance with the approved VAP.

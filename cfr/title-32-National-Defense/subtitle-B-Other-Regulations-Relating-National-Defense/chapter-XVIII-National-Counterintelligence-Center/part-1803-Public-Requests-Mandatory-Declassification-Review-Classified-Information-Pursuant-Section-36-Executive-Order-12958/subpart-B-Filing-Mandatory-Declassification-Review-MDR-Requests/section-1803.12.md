@@ -1,0 +1,3 @@
+##### § 1803.12 Requirements as to form. #####
+
+The request shall identify the document(s) or material(s) with sufficient specificity (e.g., National Archives and Records Administration (NARA) Document Accession Number or other applicable, unique document identifying number) to enable NACIC to locate it with reasonable effort. Broad or topical requests for records on a particular subject may not be accepted under this provision. A request for documents contained in the various Presidential libraries shall be effected through the staff of such institutions who shall forward the document(s) in question for NACIC review. The requester shall also provide sufficient personal identifying information when required by NACIC to satisfy requirements of this part.

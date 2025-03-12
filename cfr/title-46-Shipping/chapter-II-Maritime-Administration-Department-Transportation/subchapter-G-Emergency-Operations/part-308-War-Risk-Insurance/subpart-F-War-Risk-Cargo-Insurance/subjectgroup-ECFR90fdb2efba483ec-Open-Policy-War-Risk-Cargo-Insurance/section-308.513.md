@@ -1,0 +1,3 @@
+##### § 308.513 Payment of premiums and fees. #####
+
+The assured shall pay the premium, when his closing report is filed, for all shipments shown on his closing report for the preceding month, at the rates prescribed by the Maritime Administrator and in effect on the date of the ocean bill of lading, or if an ocean bill of lading was not issued, on the date of the equivalent shipping document, or if no ocean bill of lading or equivalent shipping document was issued, or if such documents were undated, on the date the goods were laden on the overseas vessel, as required by Clause 19. All payments of premium or fees must be made by check or money order payable to the order of ”Maritime Administration, Department of Transportation.”

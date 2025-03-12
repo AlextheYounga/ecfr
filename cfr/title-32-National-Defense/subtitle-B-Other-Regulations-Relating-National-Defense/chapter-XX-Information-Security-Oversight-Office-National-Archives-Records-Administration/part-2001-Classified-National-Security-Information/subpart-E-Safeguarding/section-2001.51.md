@@ -1,0 +1,3 @@
+##### § 2001.51 Technical security. #####
+
+Based upon the risk management factors referenced in § 2001.40 of this directive, agency heads shall determine the requirement for technical countermeasures such as Technical Surveillance Countermeasures and TEMPEST necessary to detect or deter exploitation of classified information through technical collection methods and may apply countermeasures in accordance with NSTISSI 7000, *TEMPEST Countermeasures for Facilities,* and SPB Issuance 6-97, *National Policy on Technical Surveillance Countermeasures.*

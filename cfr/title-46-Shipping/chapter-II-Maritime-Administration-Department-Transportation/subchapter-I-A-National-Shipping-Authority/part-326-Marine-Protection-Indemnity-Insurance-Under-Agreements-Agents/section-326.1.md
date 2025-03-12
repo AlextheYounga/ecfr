@@ -1,0 +1,3 @@
+##### § 326.1 Purpose. #####
+
+This part states that the Maritime Administration (MARAD) shall be responsible for providing or obtaining marine protection and indemnity (P&I) insurance for any vessel that has been placed in the National Defense Reserve Fleet (NDRF), which includes the Ready Reserve Force component, which vessel is assigned under a General Agency Agreement. These various forms of Agreements are entered into by the United States, acting by and through the National Shipping Authority, MARAD, and a private company (Agent). An agreement also contains procedures for the Agent to report accidents and occurrences of a P&I nature to MARAD and to report and settle P&I claims.

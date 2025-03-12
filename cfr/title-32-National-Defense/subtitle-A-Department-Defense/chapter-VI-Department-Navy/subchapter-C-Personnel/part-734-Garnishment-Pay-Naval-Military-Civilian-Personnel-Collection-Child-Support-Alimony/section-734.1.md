@@ -1,0 +1,3 @@
+##### § 734.1 Purpose. #####
+
+This part prescribes responsibilities and procedures applicable in the Department of the Navy when processing and honoring legal process brought for the enforcement of legal obligations to provide child support or make alimony payments under 42 U.S.C. 659 (Social Security Act, section 459 added by Pub. L. 93-647, part B, sec. 101(a), 88 Stat. 2357, as amended by the Tax Reform and Simplification Act of 1977, Pub. L. 95-30, title V, sec. 502, 91 Stat. 157).

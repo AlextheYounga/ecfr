@@ -1,0 +1,3 @@
+##### § 201.141 Stipulations. #####
+
+The parties may, by stipulation in writing filed at the prehearing conference, or by written or oral stipulation presented at the hearing or by written stipulation subsequent to the hearing, agree upon any facts involved in the proceeding and include them in the record with the consent of the presiding officer. Proposed written stipulations shall be subscribed by the sponsors and served upon all parties of record. Only upon acceptance by all parties to the proceeding may a stipulation be noted for the record or received as evidence.

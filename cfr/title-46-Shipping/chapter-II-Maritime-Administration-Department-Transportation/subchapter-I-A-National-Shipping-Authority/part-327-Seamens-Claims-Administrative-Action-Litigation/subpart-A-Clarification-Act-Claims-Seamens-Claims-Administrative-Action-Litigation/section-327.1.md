@@ -1,0 +1,3 @@
+##### § 327.1 Purpose. #####
+
+This part prescribes rules and regulations pertaining to the filing of claims designated in § 327.3 and the administrative allowance, or disallowance (actual and presumed), of such claims, in whole or in part, filed by officers and members of crews (hereafter referred to as “seamen”) employed on vessels as employees of the United States through the National Shipping Authority (NSA), Maritime Administration (MarAd), or successor.

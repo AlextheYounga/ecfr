@@ -1,0 +1,7 @@
+##### § 644.458 Documenting lease terminations and restoration settlements. #####
+
+In the case of leases in which there is no obligation to restore, and in all cases of leases where terminal survey discloses no damage to the premises for which the Government is liable, an effort will be made to obtain an unqualified release from the lessor as of the date the premises are vacated and Government improvements removed. Releases will also be obtained as indicated in § 644.462.
+
+(a) *Form to be used.* Releases will be executed, in triplicate, on ENG Form 232-R, Release (Corporation), or ENG Form 231, Release (Partnership), according to whether the lessor is a corporation or partnership. If signed by an attorney or agent, evidence of authority should be attached to the release. If the lessor is an individual, a letter incorporating a Notice of Termination and a Release Clause will be sent. The letter will substantially follow the form shown in Figure 11-16 in ER 405-1-12. Distribution of releases will be accomplished in the same manner as set forth in § 644.460.
+
+(b) *Qualified release.* In case the lessor declines to sign an unqualified release, he should be requested to execute an appropriate release subject to exceptions. The exceptions may be enumerated on the reverse side of the form.

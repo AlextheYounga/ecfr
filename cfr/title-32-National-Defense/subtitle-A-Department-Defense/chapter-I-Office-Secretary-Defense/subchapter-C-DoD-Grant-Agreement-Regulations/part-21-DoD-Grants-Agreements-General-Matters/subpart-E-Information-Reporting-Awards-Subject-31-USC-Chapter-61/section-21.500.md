@@ -1,0 +1,3 @@
+##### § 21.500 What is the purpose of this subpart? #####
+
+This subpart prescribes policies and procedures for compiling and reporting data related to DoD awards and programs that are subject to information reporting requirements of 31 U.S.C. chapter 61. That chapter of the U.S. Code requires the Office of Management and Budget to maintain a Governmentwide information system to collect data on Federal agencies' domestic assistance awards and programs.

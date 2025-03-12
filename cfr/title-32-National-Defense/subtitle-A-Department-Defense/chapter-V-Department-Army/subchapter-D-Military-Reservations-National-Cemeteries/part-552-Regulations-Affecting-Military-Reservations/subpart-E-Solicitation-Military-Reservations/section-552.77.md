@@ -1,0 +1,3 @@
+##### § 552.77 Suspension approval. #####
+
+The installation commander will personally approve all cases in which solicitation privileges have been denied or suspended for cause. This includes agents, companies, or other commercial enterprises. Authority to temporarily suspend solicitation privileges for 30 days or less while an investigation is conducted may be delegated by the commander to the installation solicitation officer or other designee. Exception to this time frame must be approved by The Adjutant General (DAAG-PSI) or by the overseas commander. The commander will make the final determination.

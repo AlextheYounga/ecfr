@@ -1,0 +1,3 @@
+##### § 32.50-1 Cargo pumps for tank vessels constructed on or after November 10, 1936—TB/ALL. #####
+
+On all tank vessels, the construction or conversion of which is started on or after November 10, 1936, the cargo pumps shall be designed and installed to minimize the danger of sparking. Special care shall be exercised in the design of packing spaces in order to secure ample depth and accessibility of glands. Where cargo pump shafts pierce gastight bulkheads, stuffing boxes with readily accessible gastight glands shall be provided.

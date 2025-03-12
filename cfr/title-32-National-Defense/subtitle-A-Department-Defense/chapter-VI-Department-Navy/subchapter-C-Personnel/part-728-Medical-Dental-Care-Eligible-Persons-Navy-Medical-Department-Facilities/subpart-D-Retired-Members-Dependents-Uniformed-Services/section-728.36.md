@@ -1,0 +1,3 @@
+##### § 728.36 Pay patients. #####
+
+Care is provided on a reimbursable basis to retired Coast Guard officers and enlisted personnel, retired Public Health Service Commissioned Corps officers, retired Commissioned Corps officers of the National Oceanic and Atmospheric Administration, and to the dependents of such personnel. Accordingly, patient administration personnel will follow the provisions of subpart J to initiate the collection action process when inpatient or outpatient care is provided to these categories of beneficiaries.

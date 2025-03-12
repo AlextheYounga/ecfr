@@ -1,0 +1,3 @@
+##### § 240.1 Purpose of the Guides. #####
+
+The purpose of these Guides is to provide assistance to businesses seeking to comply with sections 2(d) and (e) of the Robinson-Patman Act (the “Act”). The guides are based on the language of the statute, the legislative history, administrative and court decisions, and the purposes of the Act. Although the Guides are consistent with the case law, the Commission has sought to provide guidance in some areas where no definitive guidance is provided by the case law. The Guides are what their name implies—guidelines for compliance with the law. They do not have the force of law. They do not confer any rights on any person and do not operate to bind the FTC or the public.

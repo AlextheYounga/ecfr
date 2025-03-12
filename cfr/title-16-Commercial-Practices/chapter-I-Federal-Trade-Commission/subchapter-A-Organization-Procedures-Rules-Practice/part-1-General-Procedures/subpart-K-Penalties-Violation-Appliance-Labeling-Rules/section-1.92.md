@@ -1,0 +1,3 @@
+##### § 1.92 Scope. #####
+
+The rules in this subpart apply to and govern proceedings for the assessment of civil penalties for the violation of section 332 of the Energy Policy and Conservation Act, 42 U.S.C. 6302, and the Commission's Rules on Labeling and Advertising of Consumer Appliances, 16 CFR part 305, promulgated under sections 324 and 326 of the Energy Policy and Conservation Act, 42 U.S.C. 6294 and 6296.

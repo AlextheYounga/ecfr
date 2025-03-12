@@ -1,0 +1,7 @@
+##### § 115.42 Use of assessment information. #####
+
+(a) The facility shall use the information from the risk assessment under § 115.41 of this part to inform assignment of detainees to housing, recreation and other activities, and voluntary work. The agency shall make individualized determinations about how to ensure the safety of each detainee.
+
+(b) When making assessment and housing decisions for a transgender or intersex detainee, the facility shall consider the detainee's gender self-identification and an assessment of the effects of placement on the detainee's health and safety. The facility shall consult a medical or mental health professional as soon as practicable on this assessment. The facility should not base placement decisions of transgender or intersex detainees solely on the identity documents or physical anatomy of the detainee; a detainee's self-identification of his/her gender and self-assessment of safety needs shall always be taken into consideration as well. The facility's placement of a transgender or intersex detainee shall be consistent with the safety and security considerations of the facility, and placement and programming assignments for each transgender or intersex detainee shall be reassessed at least twice each year to review any threats to safety experienced by the detainee.
+
+(c) When operationally feasible, transgender and intersex detainees shall be given the opportunity to shower separately from other detainees.

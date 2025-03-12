@@ -1,0 +1,3 @@
+##### § 2103.3 Applicability. #####
+
+This regulation governs the National Security Council Staff Information Security Program. In consonance with the authorities listed in § 2103.1, it establishes the policy and procedures for the security classification, downgrading, declassification, and safeguarding of information that is owned by, is produced for or by, or is under the control of the National Security Council Staff.

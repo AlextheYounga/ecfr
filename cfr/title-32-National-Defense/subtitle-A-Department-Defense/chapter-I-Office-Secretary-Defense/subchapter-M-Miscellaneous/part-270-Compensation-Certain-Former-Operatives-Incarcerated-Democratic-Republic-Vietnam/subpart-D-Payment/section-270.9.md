@@ -1,0 +1,3 @@
+##### § 270.9 Amount of payment. #####
+
+The amount payable to, or with respect to, an eligible person under this part is $40,000. If an eligible person can demonstrate to the satisfaction of the Commission that confinement or incarceration exceeded 20 years, the Commission may authorize payment of an additional $2,000 for each full year in excess of 20 (and a proportionate amount for a partial year), but the total amount paid to, or with respect to, an eligible person under this part may not exceed $50,000.

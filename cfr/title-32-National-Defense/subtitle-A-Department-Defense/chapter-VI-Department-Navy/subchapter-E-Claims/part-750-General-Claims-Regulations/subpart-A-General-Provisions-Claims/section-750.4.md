@@ -1,0 +1,9 @@
+##### § 750.4 Claims: In general. #####
+
+(a) *Claims against the United States.* Claims against the United States shall receive prompt and professional disposition. Every effort will be made to ensure an investigation is thoroughly and accurately completed, the claimant's allegations evaluated promptly, and where liability is established, a check issued as quickly as possible to prevent further harm to a meritorious claimant. Similarly, claims not payble will be processed promptly and the claimant advised of the reasons for the denial.
+
+(b) *Claims in favor of the United States.* Potential claims in favor of the United States will be critically evaluated and, where appropriate, promptly asserted and aggressively pursued.
+
+(c) *Assistance to claimants.* Claimants or potential claimants who inquire about their rights or the procedures to be followed in the resolution of their claims should be referred to the Tort Claims Unit Norfolk. The Tort Claims Unit Norfolk will provide claims forms, advise where the forms should be filed, and inform the requester of the type of substantiating information required. Claims officers may provide advice on the claims process but shall not provide advice or opinions about the merits or the wisdom of filing a particular claim. While claims officers have a responsibility to provide general information about claims, they must consider 18 U.S.C. 205, which makes it a crime for an officer or employee of the United States to act as an agent or an attorney in the prosecution of any claim against the United States.
+
+[57 FR 4722, Feb. 7, 1992, as amended at 72 FR 53418, Sept. 19, 2007]

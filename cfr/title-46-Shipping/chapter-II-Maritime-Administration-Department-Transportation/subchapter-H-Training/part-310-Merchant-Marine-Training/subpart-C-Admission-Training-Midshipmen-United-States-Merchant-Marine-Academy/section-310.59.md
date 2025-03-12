@@ -1,0 +1,5 @@
+##### § 310.59 Courses of instruction. #####
+
+(a) *At Academy.* Three major curriculums are offered: Nautical Science, for the preparation of deck officers; Marine Engineering, for the preparation of engineering officers; and the Dual License Program, a combined course which leads to licenses in both specialties. All midshipmen who are citizens shall take naval science courses prescribed by the Department of the Navy. All curriculums include general education courses and electives.
+
+(b) *Sea year.* Midshipmen spend one-half of their sophomore (third class) year and one-half of their junior (second class) year training at sea aboard one or more merchant vessels. In addition to practical shipboard assignments, midshipmen are required to complete written study assignments incorporating material from the major segments of the Academy curriculums.

@@ -1,0 +1,3 @@
+##### § 174.16 Real property containing explosive or chemical agent hazards. #####
+
+The DoD Component controlling real property known to contain or suspected of containing explosive or chemical agent hazards from past DoD military munitions-related or chemical warfare-related activities shall, prior to transfer of the property out of Department of Defense control, obtain the DoD Explosives Safety Board's approval of measures planned to ensure protectiveness from such hazards, in accordance with DoD Directive 6055.9E, *Explosives Safety Management and the DoD Explosives Safety Board.*

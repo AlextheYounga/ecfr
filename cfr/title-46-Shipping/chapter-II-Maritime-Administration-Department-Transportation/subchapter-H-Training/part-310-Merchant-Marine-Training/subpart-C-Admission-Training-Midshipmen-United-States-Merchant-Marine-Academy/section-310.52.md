@@ -1,0 +1,5 @@
+##### § 310.52 General. #####
+
+(a) Midshipmen are appointed to the Academy for training to prepare them to become officers in the U.S. merchant marine. The Academy, located at Kings Point, New York, is maintained by the Government as a part of the Administration. After successful completion of the 4-year course of study, a graduate of the Academy shall receive a Bachelor of Science degree and a merchant marine license as either a third officer or third assistant engineer (or both licenses upon completion of a special curriculum and passing the respective license examinations) issued by the U.S. Coast Guard. If qualified, a graduate may be commissioned as an officer in a reserve component of an armed force of the United States.
+
+(b) Midshipmen entering the Academy after April 1, 1982, are required by the Act to sign an agreement committing them to service obligations following the date of graduation. The terms of the service obligation contract are set forth in § 310.58 of this subpart.

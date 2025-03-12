@@ -1,0 +1,3 @@
+##### § 115.814 Steering systems. #####
+
+At each initial and subsequent inspection for certification the owner or managing operator shall be prepared to test the steering systems of the vessel and make them available for inspection to the extent necessary to determine that they are in suitable condition and fit for the service intended. Servo-type power systems, such as orbitrol systems, must be tested and capable of smooth operation by a single person in the manual mode, with hydraulic pumps secured.

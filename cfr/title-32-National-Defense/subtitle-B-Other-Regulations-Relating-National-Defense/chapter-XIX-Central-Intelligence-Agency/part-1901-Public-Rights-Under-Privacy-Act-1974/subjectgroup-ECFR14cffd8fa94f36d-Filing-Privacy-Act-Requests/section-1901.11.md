@@ -1,0 +1,3 @@
+##### § 1901.11 Preliminary information. #####
+
+Members of the public shall address all communications to the contact specified at § 1901.03 and clearly delineate the communication as a request under the Privacy Act and this regulation. Requests and administrative appeals on requests, referrals, and coordinations received from members of the public who owe outstanding fees for information services at this or other federal agencies will not be accepted and action on existing requests and appeals will be terminated in such circumstances.

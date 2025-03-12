@@ -1,0 +1,3 @@
+##### § 148.435 Electrical circuits in cargo holds. #####
+
+During transport of a material that Table 148.10 of this part associates with a reference to this section, each electrical circuit terminating in a cargo hold containing the material must be electrically disconnected from the power source at a point outside of the cargo hold. The point of disconnection must be marked to prevent the circuit from being reenergized while the material is on board.

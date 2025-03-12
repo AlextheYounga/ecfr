@@ -1,0 +1,5 @@
+##### § 516.51 Response to subpoenas, orders, or requests for witnesses. #####
+
+(a) *Referral to a deciding official.* Requests, subpoenas, or orders for official information, interviews or testimony of present or former DA personnel in litigation or potential litigation in which the United States has an interest, including requests from DOJ, will be resolved by the SJA or legal adviser pursuant to the principles of this subpart. Litigation Division will be consulted on issues that cannot be resolved by the SJA or legal adviser.
+
+(b) *Reassignment of witnesses.* When requested by the U.S. Attorney, the SJA or legal adviser will ensure that no witnesses are reassigned from the judicial district without advising the DOJ attorney. If a witness is vital to the government's case and trial is imminent, the SJA or legal adviser should make informal arrangements to retain the witness in the command until trial. If this is not feasible, or if a satisfactory arrangement cannot be reached with the DOJ attorney, the SJA or legal adviser should notify Litigation Division.

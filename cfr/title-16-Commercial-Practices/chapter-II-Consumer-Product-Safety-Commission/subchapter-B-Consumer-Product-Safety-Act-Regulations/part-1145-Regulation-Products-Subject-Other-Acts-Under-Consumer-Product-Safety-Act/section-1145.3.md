@@ -1,0 +1,7 @@
+##### § 1145.3 Extremely flammable contact adhesives; risk of burns from explosive vapor ignition and flashback fire. #####
+
+(a) The Commission finds that it is in the public interest to regulate the risk of burns from explosive vapor ignition and flashback fire associated with certain extremely flammable contact adhesives under the Consumer Product Safety Act rather than under the Federal Hazardous Substances Act because of the desirability of avoiding possibly lengthy, resource consuming, and inefficient rulemaking proceedings under the Federal Hazardous Substances Act and because of the availability of civil penalties under the CPSA. The Commission also believes that the complexity and formality of the rulemaking proceedings under the FHSA, in contrast to rulemaking proceedings under the CPSA may make it difficult for interested persons to participate.
+
+(b) Extremely flammable contact adhesives and other similar liquid or semi-liquid products in containers over one-half pint that present a risk of burns from explosive vapor ignition and flashback fire shall therefore be regulated under the Consumer Product Safety Act. Such regulation shall include all directly related pending and future rulemaking, as well as all directly related future action on petitions. However, such action shall not include labeling that may be required under the Federal Hazardous Substances Act to address flammability hazards associated with other adhesives not subject to the ban.
+
+[42 FR 63731, Dec. 19, 1977]

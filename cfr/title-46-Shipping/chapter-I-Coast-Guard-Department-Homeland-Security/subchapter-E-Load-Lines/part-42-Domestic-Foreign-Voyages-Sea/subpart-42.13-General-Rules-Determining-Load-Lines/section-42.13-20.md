@@ -1,0 +1,5 @@
+##### § 42.13-20 Deck line. #####
+
+(a) The deck line is a horizontal line 12 inches in length and 1 inch in breadth. It shall be marked amidships on each side of the vessel, and its upper edge shall normally pass through the point where the continuation outwards of the upper surface of the freeboard deck intersects the outer surface of the shell (as illustrated in Figure 42.13-20(a)), provided that the deck line may be placed with reference to another fixed point on the vessel on condition that the freeboard is correspondingly corrected. The location of the reference point and the identification of the freeboard deck shall in all cases be indicated on the International Load Line Certificate (1966), and, as applicable, on all other load line certificates issued pursuant to this part 42.
+
+![](/graphics/ec01fe91.000.gif)Figure 42.13-20(a)—Deck Line[CGFR 68-60, 33 FR 10059, July 12, 1968, as amended by CGFR 68-126, 34 FR 9014, June 5, 1969]

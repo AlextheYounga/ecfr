@@ -1,0 +1,3 @@
+##### § 308.6 Access to information. #####
+
+Any common carrier that provides telecommunication services to any provider of pay-per-call services shall make available to the Commission, upon written request, any records and financial information maintained by such carrier relating to the arrangements (other than for the provision of local exchange service) between such carrier and any provider of pay-per-call services.

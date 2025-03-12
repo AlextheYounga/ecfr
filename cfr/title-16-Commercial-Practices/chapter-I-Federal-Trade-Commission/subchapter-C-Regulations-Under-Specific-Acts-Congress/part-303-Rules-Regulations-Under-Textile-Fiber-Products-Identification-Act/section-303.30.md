@@ -1,0 +1,3 @@
+##### § 303.30 Textile fiber products in form for consumer. #####
+
+A textile fiber product shall be considered to be in the form intended for sale or delivery to, or for use by, the ultimate consumer when the manufacturing or processing of the textile fiber product is substantially complete. The fact that minor or insignificant details of the manufacturing or processing have not been completed shall not excuse the labeling of such products as to the required information. For example, a garment must be labeled even though such matters as the finishing of a hem or cuff or the affixing of buttons thereto remain to be completed.

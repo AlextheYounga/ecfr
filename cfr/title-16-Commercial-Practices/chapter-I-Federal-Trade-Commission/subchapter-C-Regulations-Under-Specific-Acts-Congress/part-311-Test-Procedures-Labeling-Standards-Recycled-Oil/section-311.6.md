@@ -1,0 +1,5 @@
+##### § 311.6 Prohibited acts. #####
+
+It is unlawful for any manufacturer or other seller to represent, on a label on a container of processed used oil, that such oil is substantially equivalent to new oil for use as engine oil unless the manufacturer or other seller has based such representation on the manufacturer's determination that the processed used oil is substantially equivalent to new oil for use as engine oil in accordance with the NIST test procedures prescribed under § 311.4 of this part. Violations will be subject to enforcement through civil penalties (as adjusted for inflation pursuant to § 1.98 of this chapter), imprisonment, and/or injunctive relief in accordance with the enforcement provisions of Section 525 of the Energy Policy and Conservation Act (42 U.S.C. 6395).
+
+[60 FR 55421, Oct. 31, 1995, as amended at 65 FR 69666, Nov. 20, 2000]

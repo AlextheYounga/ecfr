@@ -1,0 +1,7 @@
+##### § 884.15 Procedures involving a request by Federal or state authorities for custody of an overseas civilian employee or a command-sponsored family member. #####
+
+(a) The procedures of this section apply to civilian employees, including nonappropriated fund instrumentality (NAFI) employees, who are assigned outside the United States, and to command-sponsored family members residing outside the United States.
+
+(b) This section applies only when Air Force authorities receive a request for assistance from Federal, state, or local authorities involving noncompliance with a court order and when noncompliance is the subject of any of the following: An arrest warrant; indictment, information, or other document used in the jurisdiction to prefer charges; or a contempt citation involving the unlawful or contemptuous removal of a child from the jurisdiction of the court or the lawful custody of a parent or third party.
+
+(c) To the maximum extent possible, consistent with provisions of international agreements and foreign court orders, DoD and military department investigations, and judicial proceedings, commanders comply with requests for assistance. After exhausting all reasonable efforts to resolve the matter without the employee or family member returning to the United States, the commander shall strongly encourage the individual to comply. The commander shall consider imposing disciplinary action (including removal) against the employee or withdrawing command sponsorship of the family member, as appropriate, for failure to comply.

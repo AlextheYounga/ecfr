@@ -1,0 +1,9 @@
+##### § 311.4 Policy. #####
+
+It is DoD policy, in accordance with 32 CFR part 310, that:
+
+(a) Personal information contained in any system of records maintained by any DoD organization shall be safeguarded. To the extent authorized by section 552a of title 5, United States Code, commonly known and hereafter referred to as the “Privacy Act” and Appendix I of Office of Management and Budget Circular No. A-130 (available at *http://www.whitehouse.gov/omb/assets/omb/circulars/a130/a130trans4.pdf*), an individual shall be permitted to know what existing records pertain to him or her consistent with 32 CFR part 310.
+
+(b) Each office maintaining records and information about individuals shall ensure that this data is protected from unauthorized collection, use, dissemination and/or disclosure of personal information. These offices shall permit individuals to have access to and have a copy made of all or any portion of records about them, except as provided in 32 CFR 310.17 and 310.18. The individuals will also have an opportunity to request that such records be amended as provided by 32 CFR 310.19 . Individuals requesting access to their records shall receive concurrent consideration under section 552 of title 5, United States Code (commonly known and hereafter referred to as the “Freedom of Information Act”).
+
+(c) Necessary records of a personal nature that are individually identifiable will be maintained in a manner that complies with the law and DoD policy. Any information collected by WHS-Serviced Components must be as accurate, relevant, timely, and complete as is reasonable to ensure fairness to the individual. Adequate safeguards must be provided to prevent misuse or unauthorized release of such information, consistent with the Privacy Act.

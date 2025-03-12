@@ -1,0 +1,7 @@
+##### § 115.67 Agency protection against retaliation. #####
+
+(a) Staff, contractors, and volunteers, and immigration detention facility detainees, shall not retaliate against any person, including a detainee, who reports, complains about, or participates in an investigation into an allegation of sexual abuse, or for participating in sexual activity as a result of force, coercion, threats, or fear of force.
+
+(b) The agency shall employ multiple protection measures, such as housing changes, removal of alleged staff or detainee abusers from contact with victims, and emotional support services for detainees or staff who fear retaliation for reporting sexual abuse or for cooperating with investigations.
+
+(c) For at least 90 days following a report of sexual abuse, the agency and facility shall monitor to see if there are facts that may suggest possible retaliation by detainees or staff, and shall act promptly to remedy any such retaliation. Items the agency should monitor include any detainee disciplinary reports, housing or program changes, or negative performance reviews or reassignments of staff. DHS shall continue such monitoring beyond 90 days if the initial monitoring indicates a continuing need.

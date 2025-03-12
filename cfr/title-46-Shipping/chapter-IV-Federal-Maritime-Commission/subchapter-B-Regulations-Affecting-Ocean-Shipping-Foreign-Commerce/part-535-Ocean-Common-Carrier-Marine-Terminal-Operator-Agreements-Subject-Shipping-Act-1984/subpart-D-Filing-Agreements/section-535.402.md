@@ -1,0 +1,3 @@
+##### § 535.402 Complete and definite agreements. #####
+
+An agreement filed under the Act must be clear and definite in its terms, must embody the complete, present understanding of the parties, and must set forth the specific authorities and conditions under which the parties to the agreement will conduct their operations and regulate the relationships among the agreement members, unless those details are matters specifically enumerated as exempt from the filing requirements of this part.

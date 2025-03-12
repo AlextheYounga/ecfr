@@ -1,0 +1,3 @@
+##### § 643.83 Consideration. #####
+
+Although the statutes authorizing grants of rights of way or easements do not make it mandatory that compensation be paid to the United States, such grants will reserve consideration in an amount equal to the fair market value as established by recognized appraisal practices. As an exception to this rule, grants to States, counties, municipalities, or political subdivisions thereof, will not require fair market value when the purpose of the easement is to serve the public interest or is to benefit the Federal Government.

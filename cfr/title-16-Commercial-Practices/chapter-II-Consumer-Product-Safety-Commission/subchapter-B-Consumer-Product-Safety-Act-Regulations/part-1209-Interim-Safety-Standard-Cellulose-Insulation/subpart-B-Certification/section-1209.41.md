@@ -1,0 +1,3 @@
+##### § 1209.41 Effective date. #####
+
+The requirements of this subpart B of part 1209 shall become effective on October 16, 1979. Any cellulose insulation manufactured after October 15, 1979 must be certified as complying with the standard. Cellulose insulation which is sold in bags or other containers is “manufactured” when the insulation is packaged in the bag or other container in which it will be sold. Insulation which is not sold in bags or containers is “manufactured” when the insulation leaves the manufacturing site to be sold.

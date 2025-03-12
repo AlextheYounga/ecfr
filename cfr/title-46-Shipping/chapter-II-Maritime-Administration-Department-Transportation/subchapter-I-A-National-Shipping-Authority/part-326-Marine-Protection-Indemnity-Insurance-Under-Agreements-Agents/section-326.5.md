@@ -1,0 +1,3 @@
+##### § 326.5 Report of claims. #####
+
+The Agent also shall submit a quarterly report of all claims of a P&I insurance nature to the Director, Office of Trade Analysis and Insurance. The report shall contain all relevant information, e.g., the names of the vessels and of the claimant, the date of the injury or occurrence, the amount claimed, the basis for any payments already disbursed in behalf of the United States, estimated future costs and an evaluation of the claim of the merits.

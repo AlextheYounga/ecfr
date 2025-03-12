@@ -1,0 +1,17 @@
+##### § 356.21 General approval of standard loan or mortgage agreements. #####
+
+(a) A lender that is engaged in the business of financing Fishing Industry Vessels and that is not a Commercial Lender or Lender Syndicate using a Mortgage Trustee to hold a Preferred Mortgage for its benefit or an entity that is otherwise qualified to hold a Preferred Mortgage on Fishing Industry Vessels pursuant to § 356.19(a)(2) through (a)(5), may apply to the Citizenship Approval Officer for general approval of its standard loan and mortgage agreements for such vessels. In order to obtain general approval for its standard loan and mortgage agreements, a lender using an approved Mortgage Trustee must submit to the Citizenship Approval Officer:
+
+(1) A copy of its standard loan or mortgage agreement for Fishing Industry Vessel, including all covenants that may be included in the loan or mortgage agreement; and,
+
+(2) A certification that it will not use covenants or restrictions in the loan or mortgage agreement outside of those approved by the Citizenship Approval Officer without obtaining the prior approval of the Citizenship Approval Officer.
+
+(b) A lender that receives general approval may enter into loans and mortgages on Fishing Industry Vessel without prior approval from us of each individual loan or mortgage; *provided,* that the loan or mortgage conforms to the standard agreement approved by the Citizenship Approval Officer and does not include any other covenants that have not been approved by the Citizenship Approval Officer.
+
+(c) The lender must provide an annual certification to the Citizenship Approval Officer certifying that all loans and mortgages on Fishing Industry Vessel entered into under this general approval conform to the standard agreement approved by us and do not contain deviations from the standard agreement or covenants that were not reviewed and approved by the Citizenship Approval Officer. The certification must be submitted at least 30 calendar days prior to the annual anniversary date of the previous approval.
+
+(d) If the lender wishes to use covenants that were not approved pursuant to this section, it must submit the new covenants to the Citizenship Approval Officer for approval.
+
+(e) A lender that has received general approval for its lending program and that uses covenants in a loan or mortgage on a Fishing Industry Vessel that have not been approved by the Citizenship Approval Officer will be subject to loss of its general approval and the Citizenship Approval Officer may review and approve all of the lender's mortgage and loan covenants on a case-by-case basis. The Citizenship Approval Officer may also determine that the arrangement results in an impermissible transfer of control to a Non-Citizen and therefore does not meet the requirements to qualify as a Preferred Mortgage. If the lender knowingly files a false certification with the Citizenship Approval Officer or has used covenants in a loan or mortgage on a Fishing Industry Vessel that are materially different from the approved covenants, it may also be subject to civil and criminal penalties pursuant to 18 U.S.C. 1001.
+
+[65 FR 44877, July 19, 2000, as amended at 68 FR 5581, Feb. 4, 2003]

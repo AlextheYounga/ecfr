@@ -1,0 +1,3 @@
+##### § 503.70 Policy. #####
+
+It is the policy of the Federal Maritime Commission, under the Provisions of the “Government in the Sunshine Act” (5 U.S.C. 552b, Sept. 13, 1976) to entitle the public to the fullest practicable information regarding the decisional processes of the Commission. The provisions of this subpart set forth the procedural requirements designed to provide the public with such information while continuing to protect the rights of individuals and to maintain the capabilities of the Commission in carrying out its responsibilities under the shipping statutes administered by this Commission.

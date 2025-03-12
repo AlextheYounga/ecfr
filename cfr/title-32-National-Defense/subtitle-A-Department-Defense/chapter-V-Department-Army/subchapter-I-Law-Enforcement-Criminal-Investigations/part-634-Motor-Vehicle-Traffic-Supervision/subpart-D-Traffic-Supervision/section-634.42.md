@@ -1,0 +1,5 @@
+##### § 634.42 Civil-military cooperative programs. #####
+
+(a) *State-Armed Forces Traffic Workshop Program.* This program is an organized effort to coordinate military and civil traffic safety activities throughout a State or area. Installation commanders will cooperate with State and local officials in this program and provide proper support and participation.
+
+(b) *Community-Installation Traffic Workshop Program.* Installation commanders should establish a local workshop program to coordinate the installation traffic efforts with those of local communities. Sound and practical traffic planning depends on a balanced program of traffic enforcement, engineering, and education. Civilian and military legal and law enforcement officers, traffic engineers, safety officials, and public affairs officers should take part.

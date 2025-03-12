@@ -1,0 +1,3 @@
+##### § 32.70-25 Cargo tanks—TB/ALL. #####
+
+Cargo tanks shall comply with the conditions specified in §§ 32.65-30 and 32.65-35, and shall pass the tests required in § 32.65-40: *Provided, however,* That less than 15 inches around such tanks may be accepted if in the judgment of the Officer in Charge, Marine Inspection, making the inspection, a satisfactory inspection of the cargo tanks and hull structure can be made.

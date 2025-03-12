@@ -1,0 +1,3 @@
+##### § 201.65 Effective date of rules. #####
+
+The publication or service of any substantive rule shall be made not less than 30 days prior to its effective date except: (a) As otherwise provided by the Administration for good cause found and published in the Federal Register or (b) in the case of rules granting or recognizing exemption or relieving restriction, interpretative rules, and statements of policy.

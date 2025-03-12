@@ -1,0 +1,3 @@
+##### § 1906.102 Application. #####
+
+This part applies to all programs or activities conducted by the Agency except for programs or activities conducted outside the United States that do not involve handicapped persons in the United States. This regulation will apply to the Agency only to the extent consistent with the National Security Act of 1947 (50 U.S.C. 402 *et seq.*), as amended; the Central Intelligence Agency Act of 1949 (50 U.S.C. 403a *et seq.*), as amended; and other applicable law.

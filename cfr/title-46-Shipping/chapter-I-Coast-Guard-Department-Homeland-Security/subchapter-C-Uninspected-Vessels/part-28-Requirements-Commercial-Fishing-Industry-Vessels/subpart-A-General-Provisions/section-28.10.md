@@ -1,0 +1,5 @@
+##### § 28.10 Authority. #####
+
+The regulations in this part are prescribed by the Commandant of the Coast Guard, pursuant to a delegation of authority by the Secretary of Homeland Security set forth in Department of Homeland Security Delegation No. 0170.1, to carry out the intent and purpose of 46 U.S.C. 3316 which authorizes the Secretary to rely on reports, documents, and certificates issued by the American Bureau of Shipping (ABS) or a similar United States classification society, or an agent of the ABS or similar society; sections 4502 and 4506 which require safety equipment and operational stability for certain vessels in the commercial fishing industry; section 6104 which requires the Secretary of Transportation to compile statistics concerning marine casualties compiled from vessel insurers and to delegate that authority to compile statistics from insurers to a qualified person; and section 10603 which requires seamen on commercial fishing industry vessels to give notice of illness, injury, or disability to their employer.
+
+[CGD 88-079, 56 FR 40393, Aug. 14, 1991, as amended by USCG-2010-0759, 75 FR 60002, Sept. 29, 2010]

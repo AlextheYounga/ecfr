@@ -1,0 +1,9 @@
+##### § 1025.44 Expert witnesses. #####
+
+(a) *Definition.* An expert witness is one who, by reason of education, training, experience, or profession, has peculiar knowledge concerning the subject matter to which his/her testimony relates and from which he/she may draw inferences based upon hypothetically stated facts or offer opinions from facts involving scientific or technical knowledge.
+
+(b) *Method of presenting testimony of expert witness.* Except as may otherwise be ordered by the Presiding Officer, the direct testimony of an expert witness shall be in writing and shall be filed on the record and exchanged between the parties no later than ten (10) days preceding the commencement of the hearing. The written testimony of an expert witness shall be incorporated into the record and shall constitute the direct testimony of that witness. Upon a showing of good cause, the party sponsoring the expert witness may be permitted to amplify the written direct testimony during the hearing.
+
+(c) *Cross-examination and redirect examination of expert witness.* Cross-examination, redirect examination, and re-cross-examination of an expert witness shall proceed in due course based upon the written testimony and any amplifying oral testimony.
+
+(d) *Failure to file or exchange written testimony.* Failure to file or exchange written testimony of expert witnesses as provided in this section shall deprive the sponsoring party of the use of the expert witness and of the conclusions which that witness would have presented, unless the opposing parties consent or the Presiding Officer otherwise orders in unusual circumstances.

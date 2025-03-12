@@ -1,0 +1,3 @@
+##### § 750.29 Investigation and examination. #####
+
+Subpart A of this part requires an investigation for every incident that may result in a claim against or in favor of the United States. Where a previously unanticipated claim is filed against the Government and an investigation has not already been conducted, the appropriate claims officer shall immediately request an investigation. See subpart A of this part for specific action required by an adjudicating authority.

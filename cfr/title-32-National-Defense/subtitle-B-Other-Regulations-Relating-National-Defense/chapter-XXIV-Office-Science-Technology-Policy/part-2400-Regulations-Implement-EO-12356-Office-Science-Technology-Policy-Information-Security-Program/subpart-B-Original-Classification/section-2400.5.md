@@ -1,0 +1,3 @@
+##### § 2400.5 Basic policy. #####
+
+Except as provided in the Atomic Energy Act of 1954, as amended, Executive Order 12356, as implemented by Directive No. 1 and this Regulation, provides the only basis for classifying information. The policy of the Office of Science and Technology Policy is to make available to the public as much information concerning its activities as is possible, consistent with its responsibility to protect the national security. Information may not be classified unless its disclosure reasonably could be expected to cause damage to the national security.

@@ -1,0 +1,17 @@
+##### § 767.15 Application to foreign sunken military craft and U.S. sunken military craft not under the jurisdiction of the Navy. #####
+
+(a) Sunken military craft are generally entitled to sovereign immunity regardless of where they are located or when they sank. Foreign governments may request, via the Department of State, that the Secretary of the Navy administer a permitting program for a specific or a group of its sunken military craft in U.S. waters. The request must include the following:
+
+(1) The foreign government must assert the sovereign immunity of or ownership over a specified sunken military craft or group of sunken military craft;
+
+(2) The foreign government must request assistance from the United States government;
+
+(3) The foreign government must acknowledge that subparts B and C of this part will apply to the specified sunken military craft or group of sunken military craft for which the request is submitted.
+
+(b) Upon receipt and favorable review of a request from a foreign government, the Secretary of the Navy, or his or her designee, in consultation with the Department of State, will proceed to accept the specified sunken military craft or group of sunken military craft into the present permitting program. The Secretary of the Navy, or his or her designee, in consultation with the Department of State, reserves the right to decline a request by the foreign government. Should there be a need to formalize an understanding with the foreign government in response to a submitted request stipulating conditions such as responsibilities, requirements, procedures, and length of effect, the Secretary of State, or his or her designee, in consultation with the Secretary of Defense, or his or her designee, will proceed to formalize an understanding with the foreign government. Any views on such a foreign government request or understanding expressed by applicable federal, tribal, and state agencies will be taken into account.
+
+(c) Persons may seek a permit to disturb foreign sunken military craft located in U.S. waters that have been accepted into the present permitting program or are covered under a formalized understanding as per paragraph (b) of this section, by submitting a permit application or special use permit application, as appropriate, for consideration by the NHHC in accordance with subparts B and C of this part.
+
+(d) In the case where there is reasonable dispute over the sovereign immunity or ownership status of a foreign sunken military craft, the Secretary of the Navy, or his or her designee, maintains the right to postpone action on §§ 767.6 and 767.12, as well as requests under paragraph (a) of this section, until the dispute over the sovereign immunity or ownership status is resolved.
+
+(e) The Secretary of any military department, or in the case of the Coast Guard the Secretary of the Department in which the Coast Guard is operating, may request that the Secretary of the Navy administer the DON permitting program with regard to sunken military craft under the cognizance of the Secretary concerned. Upon the agreement of the Secretary of the Navy, or his or her designee, subparts A, B, and C of this part shall apply to those agreed upon craft.

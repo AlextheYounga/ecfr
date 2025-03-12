@@ -1,0 +1,5 @@
+##### § 2004.11 Agency Implementing Regulations, Internal Rules, or Guidelines [102(b)(3)]. #####
+
+(a) *Reviews and Updates.* All implementing regulations, internal rules, or guidelines that pertain to the NISP shall be reviewed and updated by the originating agency, as circumstances require. If a change in national policy necessitates a change in agency implementing regulations, internal rules, or guidelines that pertain to the NISP, the agency shall promptly issue revisions.
+
+(b) *Reviews by ISOO.* The Director, ISOO, shall review agency implementing regulations, internal rules, or guidelines, as necessary, to ensure consistency with NISP policies and procedures. Such reviews should normally occur during routine oversight visits, when there is indication of a problem that comes to the attention of the Director, ISOO, or after a change in national policy that impacts such regulations, rules, or guidelines. The Director, ISOO, shall provide findings from such reviews to the responsible department or agency.

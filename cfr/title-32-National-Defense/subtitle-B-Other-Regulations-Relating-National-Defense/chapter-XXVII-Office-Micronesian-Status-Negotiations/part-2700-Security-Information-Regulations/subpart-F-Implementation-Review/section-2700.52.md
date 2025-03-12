@@ -1,0 +1,3 @@
+##### § 2700.52 Classified Review Committee. #####
+
+The OMSN Classification Review Committee shall be chaired by the President's Personal Representative for Micronesian Status Negotiations. The Committee shall decide appeals from denials of declassification requests submitted pursuant to section 3-5 of E.O. 12065. The Committee shall consist of the President's Personal Representative, Department of Defense/Legal Advisor and Political/Economic Advisor.

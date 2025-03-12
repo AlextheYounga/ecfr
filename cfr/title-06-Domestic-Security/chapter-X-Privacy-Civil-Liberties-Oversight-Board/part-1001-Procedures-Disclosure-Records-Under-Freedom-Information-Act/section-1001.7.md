@@ -1,0 +1,9 @@
+##### § 1001.7 Administrative appeals. #####
+
+(a) You may appeal an adverse determination related to your FOIA request, or the Board's failure to respond to your FOIA request within the prescribed time limits, to the Chief FOIA Officer, Privacy and Civil Liberties Oversight Board, 2100 K Street NW., Suite 500, Washington, DC 20427.
+
+(b) Your appeal must be in writing and received by the Chief FOIA Officer within 60 days of the date of the letter denying your request, in whole or in part. In case of the Board's failure to respond within the statutory time frame, you may submit an administrative appeal at any time until an agency response has been provided. For the most expeditious handling, your appeal letter and envelope should be marked “Freedom of Information Act appeal.”
+
+(c) Your appeal letter should state facts and may cite legal or other authorities in support of your request.
+
+(d) The Chief FOIA Officer shall respond to all administrative appeals in writing and within the time frame stated in § 1001.8(d). If the decision affirms, in whole or in part, the FOIA Officer's determination, the letter shall contain a statement of the reasons for the affirmance, including any FOIA exemption(s) applied, and will inform you of the FOIA's provisions for court review. If the Chief FOIA Officer reverses or modifies the FOIA Officer's determination, in whole or in part, you will be notified in writing and your request will be reprocessed in accordance with that decision. The Board may work with Office of Government Information Services (OGIS) to resolve disputes between FOIA requestors and the Board. A requester may also contact OGIS in the following ways: Via mail to OGIS, National Archives and Records Administration, 8601 Adelphi Road - OGIS, College Park, MD 20740 (ogis.archives.gov), via email at *ogis@nara.gov,* or via the telephone at 202-741-5770 or 877-684-6448. Facsimile is also available at 202-741-5769.

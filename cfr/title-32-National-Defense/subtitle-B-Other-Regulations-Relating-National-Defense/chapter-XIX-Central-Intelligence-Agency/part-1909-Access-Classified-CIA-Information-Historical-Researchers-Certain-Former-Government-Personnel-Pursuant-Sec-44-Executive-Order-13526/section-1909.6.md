@@ -1,0 +1,5 @@
+##### § 1909.6 Designation of authority to waive need-to-know and grant historical access requests. #####
+
+(a) *The Agency Release Panel (ARP)* is designated to review requests and shall issue a recommendation to the Senior Agency Official who shall issue the final CIA decision whether or not to waive the need-to-know and grant requests for access by historical researchers, by former Presidential and Vice Presidential appointees and designees, or by former Presidents and Vice Presidents under Executive Order 13526 (or successor Orders) and these regulations.
+
+(b) *ARP Membership.* The ARP is chaired by the Director, Information Management Services and composed of the Chief, Information Review and Release Group, the Chief, Classification Management Program Office, the Information Review Officers from the various Directorates and the DCIA area, as well as the representatives of the various release programs and offices within CIA. The Information and Privacy Coordinator also serves as Executive Secretary of the ARP.

@@ -1,0 +1,3 @@
+##### § 165.1 Purpose. #####
+
+This part updates policy, responsibilities, and procedures to conform with 22 U.S.C. 2761(e)(1)(B), 2761 (e)(2), and 2767(b) (also known as “sections 21(e)(1)(B), 21(e)(2), and 27(b) of the Arms Export Control Act, as amended”) for calculating and assessing NC recoupment charges on sales of items developed for or by the Department of Defense to non-U.S. Government customers.

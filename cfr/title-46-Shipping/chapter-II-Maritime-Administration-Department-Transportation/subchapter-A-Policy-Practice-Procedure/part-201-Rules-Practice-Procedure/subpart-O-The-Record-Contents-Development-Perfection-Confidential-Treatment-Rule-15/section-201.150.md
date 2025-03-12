@@ -1,0 +1,3 @@
+##### § 201.150 Record for decision. #####
+
+The transcript of testimony and exhibits, together with all papers and requests (except the correspondence section of the docket), including rulings and any recommended or initial decisions filed in the proceeding shall constitute the exclusive record for decision. Final decisions will be predicated on the same record, including the initial decision of the presiding officer.

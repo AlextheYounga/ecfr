@@ -1,0 +1,3 @@
+##### § 270.13 No right to judicial review or legal cause of action. #####
+
+Subject to subpart E of this part, all determinations by the Commission pursuant to this part are final and conclusive, notwithstanding any other regulation. Applicants under this part have no right to judicial review, and such review is specifically precluded. This part does not create or acknowledge any legal right or obligation whatsoever.

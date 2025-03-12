@@ -1,0 +1,9 @@
+##### § 164.012-5 Scope. #####
+
+(a) The purpose of this specification is to set forth the fire protection standards for “Interior Finishes” applied to “Bulkhead Panels” or “Incombustible Materials” approved under subpart 164.008 or 164.009 of this subchapter. The term “Interior Finish” means any coating, overlay, or veneer except standard paint which is applied for decorative or other purpose. It includes not only the visible finish, but all material used in its composition and in its application to the approved “Bulkhead Panel” or “Incombustible Material.” When finishes are applied to both sides of a panel, each must comply with this specification.
+
+(b) “Interior Finishes” of not more than 0.075″ thickness qualifying under § 164.012-10 and those materials which are described in paragraph (c) of this section, may be used without restriction on all merchant vessels, including those locations where combustible veneers, trim, moldings, and decorations are specifically prohibited by subpart 72.05 of subchapter H (Rules and Regulations for Passenger Vessels) of this chapter.
+
+(c) With the exception of nitrocellulose or other highly inflammable or noxious fume-producing paints or lacquers (which are prohibited), a limited number of coats of any standard paint, or any “Incombustible Material” approved under subpart 164.009 of this subchapter in any thickness, or a combination thereof, are considered as automatically satisfying the intent of this specification and no test or proof of compliance will be required. Paint may be applied to one or both sides of “Bulkhead Panels” or “Incombustible Materials,” but it shall never be applied as an internal layer in sandwich or laminar construction.
+
+[CGFR 61-15, 26 FR 9303, Sept. 30, 1961]

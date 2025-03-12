@@ -1,0 +1,3 @@
+##### § 1702.10 Human experimental data involving the testing of human subjects. #####
+
+Any human experimental data submitted with a petition requesting an exemption under this part shall include a statement establishing that adequate measures have been taken to ensure against psychological or physical injury to the subject of the human studies. The Commission considers its regulations concerning the protection of human subjects (16 CFR part 1028) to be an example of measures that are adequate to ensure against psychological or physical injury to human subjects.

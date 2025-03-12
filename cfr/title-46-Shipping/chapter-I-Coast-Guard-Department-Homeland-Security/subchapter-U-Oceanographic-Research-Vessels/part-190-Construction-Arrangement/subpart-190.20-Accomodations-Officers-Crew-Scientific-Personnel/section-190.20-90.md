@@ -1,0 +1,3 @@
+##### § 190.20-90 Vessels contracted for prior to March 1, 1968. #####
+
+Existing structures, arrangements, materials, and facilities previously approved will be considered satisfactory so long as they are maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection. Minor repairs and alterations may be made to the same standards as the original construction, provided that in no case will a greater departure from the standards of §§ 190.20-5 through 190.20-55 be permitted than presently exists.

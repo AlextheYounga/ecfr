@@ -1,0 +1,7 @@
+##### § 80.6 Procedures. #####
+
+(a) Procedures for the provision of early intervention services for infants and toddlers with disabilities and their families are in appendix A to this part. Provision of early intervention services includes establishing a system of coordinated, comprehensive, multidisciplinary, intercomponent services providing appropriate early intervention services to all eligible infants and toddlers with disabilities and their families.
+
+(b) Procedures for special educational programs (including related services) for preschool children and children with disabilities (3-21 years inclusive) are in appendix B to this part.
+
+(c) Procedures for adjudicative requirements required by Pub. L. 101-476, as amended, and Pub. L. 102-119 are in appendix C to this part. These procedures establish adjudicative requirements whereby the parents of an infant, toddler, preschool child or child with a disability and the military department concerned or Section 6 School System are afforded an impartial due process hearing on early intervention services or on the identification, evaluation, and educational placement of, and the free appropriate public education provided to, such infant, toddler, preschool child or child, as the case may be.

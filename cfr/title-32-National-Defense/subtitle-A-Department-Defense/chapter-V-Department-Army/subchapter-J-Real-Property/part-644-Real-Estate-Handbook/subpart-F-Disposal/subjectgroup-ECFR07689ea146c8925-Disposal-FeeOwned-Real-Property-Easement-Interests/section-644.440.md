@@ -1,0 +1,3 @@
+##### § 644.440 Application of antitrust laws. #####
+
+Section 207 of the Federal Property Act provides that real property and related personal property with an aggregate total cost of $1,000,000 or more, or patents, processes, techniques, or inventions, regardless of costs, shall not be disposed of until the advice of the Attorney General has been received as to whether the proposed disposal would tend to create or maintain a situation inconsistent with the antitrust laws. Prior to obligating the Government on any such disposal, the District Engineer will furnish DAEN-REM information on the probable terms or conditions. DAEN-REM will use this information as the basis for a request to the Attorney General for advice (FPMR 101-47.301-2).

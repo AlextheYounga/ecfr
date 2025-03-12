@@ -1,0 +1,3 @@
+##### § 22.325 Historically Black colleges and universities (HBCUs) and other minority institutions (MIs). #####
+
+Increasing the ability of HBCUs and MIs to participate in federally funded, university programs is an objective of Executive Order 12876 (3 CFR, 1993 Comp., p. 671) and 10 U.S.C. 2323. Grants officers shall include appropriate provisions in Broad Agency Announcements (BAAs) or other announcements for programs in which awards to institutions of higher education are anticipated, in order to promote participation of HBCUs and MIs in such programs. Also, whenever practicable, grants officers shall reserve appropriate programmatic areas for exclusive competition among HBCUs and MIs when preparing announcements for such programs.

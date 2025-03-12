@@ -1,0 +1,3 @@
+##### § 385.9 Exceptions, deviations, or waivers. #####
+
+Requests for exceptions, deviations, or waivers from the requirements of this part, unless exceptions are required by program legislation or program regulations, shall be submitted to the Grants Officer. Exceptions may be approved by the Grants Officer on matters within the scope of his authority, or obtained by said Grants Officer from higher authority within the Department of Transportation or from the Office of Management and Budget when required by law or other applicable Federal requirement.

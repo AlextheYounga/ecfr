@@ -1,0 +1,3 @@
+##### § 32.75-10 Cargo tanks—TB/ALL. #####
+
+Cargo tanks shall be independent of the wood hull, shall be made of steel or iron, and shall pass the tests required in § 32.65-40 (a), (b). Where cargo tanks in wood hulls are not arranged to provide working space around them they shall be so constructed as to allow inspection of the hull, tanks, and bilges, and they shall be so installed that they can be moved to allow repairs to the hull structure and to themselves.

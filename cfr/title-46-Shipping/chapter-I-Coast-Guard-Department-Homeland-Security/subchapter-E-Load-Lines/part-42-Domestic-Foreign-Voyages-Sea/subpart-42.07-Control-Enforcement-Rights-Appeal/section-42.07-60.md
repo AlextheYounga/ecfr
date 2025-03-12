@@ -1,0 +1,27 @@
+##### § 42.07-60 Control. #####
+
+(a) The Director, Field Operations (DFO) or the Coast Guard District Commander may detain a vessel for survey if there is reason to believe that the vessel is proceeding on her journey in excess of the draft allowed by the regulations in this subchapter as indicated by the vessel's load line certificate, or otherwise. The Coast Guard District Commander may detain a vessel if it is so loaded as to be manifestly unsafe to proceed to sea.
+
+(b) If the Director, Field Operations (DFO) orders a vessel detained, he shall immediately inform the Coast Guard District Commander thereof, who shall thereupon advise the Director, Field Operations (DFO) whether or not he deems that the vessel may proceed to sea with safety. If the Coast Guard District Commander orders a vessel detained, such officer will furnish the Director, Field Operations (DFO) immediate notification of such detention. The clearance shall be refused to any vessel which shall have been ordered detained, which shall be in effect until it is shown that the vessel is not in violation of the applicable law and the regulations in this subchapter.
+
+(1) Where a vessel is detained for noncompliance with “material alteration” and “effective maintenance” requirements of paragraph (f)(1) of this section, the detention shall only be exercised insofar as may be necessary to ensure that the vessel can proceed to sea without danger to passengers or crew.
+
+(c) The detention of a vessel will be by written order of either the Coast Guard District Commander or the Director, Field Operations (DFO), depending on who orders the detention. The Coast Guard District Commander will immediately arrange for a survey in the manner prescribed by 46 U.S.C. 5113. Unless the owner or agent waives in writing and stipulates to accept the Coast Guard's survey, the Coast Guard District Commander shall appoint three disinterested surveyors and, where practicable, one of them shall be from the Surveying Staff of the American Bureau of Shipping. Such surveyors shall conduct a survey to ascertain whether or not the vessel is loaded in violation of the applicable provisions in the load line acts, and the regulations in this subchapter. If the survey confirms the allegation that the vessel is in violation of either law or the applicable regulations in this subchapter, “the owner and agent shall bear the costs of the survey in addition to any penalty or fine imposed”, as provided in these laws.
+
+(d) Whenever a vessel is detained, the master or owner may, within 5 days, appeal to the Commandant who may, if he desires, order a further survey, and may affirm, set aside, or modify the order of the detaining officer.
+
+(e) Where a foreign vessel is detained or intervention action of any other kind is taken against a foreign vessel, the officer carrying out the action shall immediately inform in writing the Consul or the diplomatic representative of the State whose flag the vessel is flying, of the decision involved together with all pertinent circumstances under which intervention was deemed necessary.
+
+(f) Under 46 U.S.C. 5109 a vessel of a foreign country which has ratified the 1966 Convention, or which holds a recognized and valid 1930 Convention certificate, or which holds a valid Great Lakes Certificate, shall be exempt from the provisions of the regulations in this subchapter insofar as the marking of the load lines and the certificating thereof are concerned, so long as such country similarly recognizes the load lines established by this subchapter for the purpose of a voyage by sea subject to the proviso in paragraph (f)(1) of this section or the alternative proviso in paragraph (f)(2) of this section.
+
+(1) If the foreign vessel is marked with load lines and has on board a valid International or Great Lakes Load Line Certificate certifying to the correctness of the marks, the control provisions in this part which are in accord with Article 21 of the 1966 Convention shall be observed. In this connection, the vessel shall not be loaded beyond the limits allowed by the certificate. The position of the load lines on the vessel shall correspond with the certificate. The vessel shall not have been so materially altered as to make the vessel manifestly unfit to proceed to sea without danger to human life, in regard to:
+
+(i) The hull or superstructure (if necessitating assignment of an increased freeboard); and/or,
+
+(ii) The appliances and fittings for protection of openings, guardrails, freeing ports, and means of access to crew's quarters (if necessitating replacement or other effective maintenance).
+
+(2) (Alternatively provided) If the foreign vessel has on board an International Load Line Exemption Certificate in lieu of an International Load Line Certificate, 1966, in such case, verify that it is valid and any conditions stipulated therein are met.
+
+(g) A foreign vessel of a nation for which the 1966 Convention has not come into force does not qualify for an International Load Line Certificate, 1966. In lieu thereof, such a vessel shall be required to have on board a valid Form *B* load line certificate or a recognized 1930 Convention certificate.
+
+[CGFR 68-60, 33 FR 10055, July 12, 1968, as amended by CGFR 68-126, 34 FR 9012, June 5, 1969; USCG-1998-4442, 63 FR 52190, Sept. 30, 1998; USCG-2012-0832, 77 FR 59777, Oct. 1, 2012]

@@ -1,0 +1,3 @@
+##### § 536.47 Statute of limitations. #####
+
+To be payable, a claim against the United States under any subpart, except §§ 536.114 through 536.116 (Claims arising overseas), must be filed no later than two years from the date of accrual as determined by federal law. The accrual date is the date on which the claimant is aware of the injury and its cause. The claimant is not required to know of the negligent or wrongful nature of the act or omission giving rise to the claim. The date of filing is the date of receipt by the appropriate federal agency, not the date of mailing. See also § 536.26(a) and parallel discussion at DA Pam 27-162, paragraph 2-44.

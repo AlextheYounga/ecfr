@@ -1,0 +1,3 @@
+##### § 164.007-5 Test requirements. #####
+
+The insulation value of the specimens for the full scale test shall be such that the average temperature of the thermocouples on the unexposed surface described in § 164.007-4(f)(2) will not rise more than 139 °C. (250 °F.) above the initial temperature, nor will the temperature at any one point on the surface, including any through metallic connection, rise more than 181 °C. (325 °F.) above the original temperature at the end of 60 minutes. The results obtained on the small scale test 2′ × 2′ (60 cm. × 60 cm.) shall be recorded.

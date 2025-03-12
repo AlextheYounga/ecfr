@@ -1,0 +1,3 @@
+##### § 1061.6 Contents of applications for exemption. #####
+
+Applications for exemption shall include the information specified in §§ 1061.7 through 1061.10. More generally, a State or local government seeking an exemption should provide the Commission with the most complete information possible in support of the findings the Commission is required to make in issuing an exemption regulation. If any of the specified information is omitted because it is unavailable or not relevent, such omission should be explained in the application.

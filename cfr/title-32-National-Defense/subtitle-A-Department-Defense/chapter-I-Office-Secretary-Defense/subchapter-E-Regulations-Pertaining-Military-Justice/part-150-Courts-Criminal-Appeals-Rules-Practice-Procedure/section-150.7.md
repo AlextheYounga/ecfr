@@ -1,0 +1,3 @@
+##### § 150.7 Computation of time. #####
+
+In computing any period of time prescribed or allowed by this part, by order of the Court, or by any applicable statute, the day of the act, event or default after which the designated period of time begins to run is not to be included. The last day of the period so computed is to be included, unless it is a Saturday, Sunday, or legal holiday, or, when the act to be done is the filing of a paper in court, a day on which the office of the Clerk of the Court is closed due to weather or other conditions or by order of the Chief Judge, in which event the period runs until the end of the next day which is neither a Saturday, Sunday, nor a holiday.

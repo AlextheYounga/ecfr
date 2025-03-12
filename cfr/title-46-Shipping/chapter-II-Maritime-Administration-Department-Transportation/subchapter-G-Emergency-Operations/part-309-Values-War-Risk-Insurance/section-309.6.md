@@ -1,0 +1,7 @@
+##### § 309.6 Adjustments for condition, equipment, and other considerations. #####
+
+(a) *Adjustment for a vessel in substandard condition.* If the Maritime Administration determines that a vessel is in substandard condition from that assumed by the Committee as provided in § 309.5, there shall be subtracted from the stated valuation of such vessel an amount estimated by the Maritime Administration as the cost of putting the vessel in the condition assumed by the Committee when determining its stated valuation.
+
+(b) *Special equipment.* If the depreciated reproduction cost less construction subsidy, if any, of any special equipment of material utility in the handling of cargo or utilization of a vessel, not otherwise taken into account in determining the stated valuation of such vessel, is in excess of $50,000, an amount estimated by the Maritime Administration as the fair and reasonable value of such equipment shall be added to the stated valuation of such vessel.
+
+(c) *Government installations.* A stated valuation determined pursuant to this part shall not include any allowance for any special installations or equipment to the extent that their cost was borne by the United States.

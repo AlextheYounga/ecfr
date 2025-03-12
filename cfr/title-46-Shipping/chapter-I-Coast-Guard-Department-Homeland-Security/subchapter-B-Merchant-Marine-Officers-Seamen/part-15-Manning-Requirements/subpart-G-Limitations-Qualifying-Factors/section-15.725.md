@@ -1,0 +1,5 @@
+##### § 15.725 Sailing short. #####
+
+Whenever a vessel is deprived of the service of a member of its complement, and the master or person in charge is unable to find appropriate credentialed personnel to man the vessel, the master or person in charge may proceed on the voyage, having determined the vessel is sufficiently manned for the voyage. A report of sailing short must be filed with the OCMI having cognizance for inspection in the area in which the vessel is operating, or the OCMI within whose jurisdiction the voyage is completed. The report must explain the cause of each deficiency and be submitted within 12 hours after arrival at the next port. The actions of the master or person in charge in such instances are subject to review and it must be shown the vacancy was not due to the consent, fault or collusion of the master or other individuals specified in 46 U.S.C. 8101(e). A civil penalty may be assessed against the master or person in charge for failure to submit the report.
+
+[CGD 81-059, 52 FR 38652, Oct. 16, 1987, as amended by USCG-2006-24371, 74 FR 11262, Mar. 16, 2009; USCG-2004-17914, 78 FR 78005, Dec. 24, 2013]

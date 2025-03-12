@@ -1,0 +1,3 @@
+##### § 241.11 Numerical limitation. #####
+
+The ITEP Pilot is an opportunity for the exchange of knowledge, experience and skills between DoD and the private sector. The DoD has the flexibility to send their employees to the private sector or receive private sector employees, or participate in a one-for-one exchange. In no event may more than 10 employees participate in assignments under this section at any given time.

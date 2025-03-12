@@ -1,0 +1,3 @@
+##### § 10.6 Non-creation of right. #####
+
+Neither this part nor any Military Commission Instruction issued hereafter, is intended to and does not create any right, benefit, privilege, substantive or procedural, enforceable by any party, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person. Alleged noncompliance with an Instruction does not, of itself, constitute error, give rise to judicial review, or establish a right to relief for the Accused or any other person.

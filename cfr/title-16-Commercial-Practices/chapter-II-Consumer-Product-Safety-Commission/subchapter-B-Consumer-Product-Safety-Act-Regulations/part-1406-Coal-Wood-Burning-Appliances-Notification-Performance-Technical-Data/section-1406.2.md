@@ -1,0 +1,9 @@
+##### § 1406.2 Background. #####
+
+(a) Fire data analyzed by the Consumer Product Safety Commission disclose a number of incidents involving coal and wood burning appliances. Many of these cases involve improper installation of the appliances, especially where they are installed with insufficient clearances to adjacent combustibles such as walls, ceilings, floors, draperies, carpets, or furnishings. Another common installation problem involves the use of improper types of chimneys or chimney connectors and insufficient clearances between these devices and combustibles. Other incidents involve improper operation of the appliance, such as by overfiring it or using flammable liquids to start the fire. Still other incidents occur when appliances are improperly maintained and develop mechanical defects or excessive deposits of flammable creosote.
+
+(b) After considering the available data on the causes of fires in these appliances, the Commission concludes that there is an unreasonable risk of injury associated with appliances that are sold without notifying consumers of the information they need to prevent many of these occurrences. Accordingly, the Commission has determined that disclosure of the information required by § 1406.4 is necessary to help the Commission in carrying out the purposes of the Consumer Product Safety Act of (1) helping to protect the public against unreasonable risks of injury associated with consumer products and (2) assisting consumers in evaluating the comparative safety of consumer products.
+
+(c) The Commission has also determined that in carrying out these purposes of the act, it is necessary for manufacturers to provide to the Commission a copy of the information provided to consumers and a statement of the reasons why some of the information was selected, in accordance with § 1406.5.
+
+[48 FR 21914, May 16, 1983, as amended at 48 FR 50706, Nov. 3, 1983]

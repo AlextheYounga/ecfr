@@ -1,0 +1,5 @@
+##### § 1051.10 Granting petitions. #####
+
+(a) The Commission shall either grant or deny a petition within a reasonable time after it is filed, taking into account the resources available for processing the petition. The Commission may also grant a petition in part or deny it in part. If the Commission grants a petition, it shall begin proceedings to issue, amend or revoke the rule under the appropriate provisions of the statutes under its administration. Beginning a proceeding means taking the first step in the rulemaking process (issuance of an advance notice of proposed rulemaking or a notice of proposed rulemaking, whichever is applicable).
+
+(b) Granting a petition and beginning a proceeding does not necessarily mean that the Commission will issue, amend or revoke the rule as requested in the petition. The Commission must make a final decision as to the issuance, amendment, or revocation of a rule on the basis of all available relevant information developed in the course of the rulemaking proceeding. Should later information indicate that the action is unwarranted or not necessary, the Commission may terminate the proceeding.

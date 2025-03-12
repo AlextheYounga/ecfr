@@ -1,0 +1,3 @@
+##### § 48.101 Purpose. #####
+
+The purpose of the Retired Serviceman's Family Protection Plan is to permit each member of the uniformed services to elect to receive a reduced amount of any retired pay which may be awarded him as a result of service in his uniformed service in order to provide an annuity payable after his death (while entitled to retired pay) to his widow, child, or children, subject to certain limitations specified in the law and elaborated in the regulations in this part.

@@ -1,0 +1,3 @@
+##### § 651.52 Aids to information gathering. #####
+
+The proponent may use or develop graphic or other innovative methods to aid information gathering, presentation, and transfer during the three scoping phases. These include methods for presenting preliminary information to scoping participants, obtaining and consolidating input from participants, and organizing determinations on scope for use during preparation of the DEIS. The use of the World Wide Web (WWW) for these purposes is encouraged. Suggested uses include the implementation of a continuous scoping process, facilitating “virtual” public participation, as well as the dissemination of analyses and information as they evolve.

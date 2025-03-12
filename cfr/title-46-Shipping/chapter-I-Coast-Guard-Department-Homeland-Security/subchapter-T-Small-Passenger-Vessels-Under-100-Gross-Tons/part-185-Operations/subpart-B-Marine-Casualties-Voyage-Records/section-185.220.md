@@ -1,0 +1,5 @@
+##### § 185.220 Records of a voyage resulting in a marine casualty. #####
+
+The owner, agent, master, or person in charge of any vessel involved in a marine casualty for which a report is required under § 185.202 of this part shall retain all voyage records maintained by the vessel, including rough and smooth deck and engine room logs, bell books, navigation charts, navigation work books, compass deviation cards, gyrocompass records, stowage plans, records of draft, aids to mariners, night order books, radiograms sent and received, radio logs, crew and passenger lists and counts, articles of shipment, official logs, and other material that might be of assistance in investigating and determining the cause of the casualty. The owner, agent, master, other officer, or person responsible for the custody thereof, shall make these records available upon request, to a duly authorized investigating officer, administrative law judge, officer or employee of the Coast Guard.
+
+[CGD 85-080, 61 FR 1005, Jan. 10, 1996, as amended by CGD 97-057, 62 FR 51050, Sept. 30, 1997]

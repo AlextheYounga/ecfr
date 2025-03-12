@@ -1,0 +1,3 @@
+##### § 701.34 Public interest. #####
+
+The interest in obtaining official information that sheds light on a DON activity's performance of its statutory duties because the information falls within the statutory purpose of the FOIA to inform citizens what their government is doing. That statutory purpose, however, is not fostered by disclosure of information about private citizens accumulated in various governmental files that reveals nothing about an agency's or official's own conduct.

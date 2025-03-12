@@ -1,0 +1,3 @@
+##### § 1605.22 Composition and appointment of district appeal boards. #####
+
+The Director of Selective Service will prescribe the number of members for the district appeal boards. The President shall appoint members of district appeal boards from among citizens of the United States who are residents of the area for which the respective boards have jurisdiction. The Director of Selective Service shall furnish necessary personnel, suitable office space, facilities and services to support each district appeal board.

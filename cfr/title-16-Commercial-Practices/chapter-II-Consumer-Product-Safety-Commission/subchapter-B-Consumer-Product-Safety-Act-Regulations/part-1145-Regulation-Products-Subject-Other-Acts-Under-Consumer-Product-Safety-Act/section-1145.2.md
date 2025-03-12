@@ -1,0 +1,7 @@
+##### § 1145.2 Paint (and other similar surface-coating materials) containing lead; toys, children's articles, and articles of furniture bearing such paint (or similar surface-coating materials); risk of lead poisoning. #####
+
+(a) The Commission finds that it is in the public interest to reduce the risk of lead poisoning to young children from the ingestion of paint and other similar surface-coating materials by action under the Consumer Product Safety Act rather than under the Federal Hazardous Substances Act because of the desirability of consolidating the public procedures related to such regulation with the proceeding to determine a safe level of lead under the Lead-Based Paint Poisoning Prevention Act (42 U.S.C. 4801-4846), as amended by the National Consumer Health Information and Health Promotion Act of 1976 (Pub. L. 94-317; 90 Stat. 705-706). Consolidation of these proceedings facilitates greater public participation and a more expeditious resolution of the issues.
+
+(b) Paint and other similar surface-coating materials containing lead and toys, children's articles, and articles of furniture bearing such paint or other similar surface-coating materials that present a risk of lead poisoning to young children by ingestion shall therefore be regulated under the Consumer Product Safety Act. Such regulation shall include all directly related pending and future rulemaking, as well as all directly related pending and future action on petitions.
+
+[42 FR 44192, Sept. 1, 1977]

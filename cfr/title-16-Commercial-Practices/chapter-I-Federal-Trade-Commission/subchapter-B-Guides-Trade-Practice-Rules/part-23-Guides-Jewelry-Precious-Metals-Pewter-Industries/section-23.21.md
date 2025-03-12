@@ -1,0 +1,3 @@
+##### § 23.21 Misrepresentation as to cultured pearls. #####
+
+It is unfair or deceptive to misrepresent the manner in which cultured pearls are produced, the size of the nucleus artificially inserted in the mollusk and included in cultured pearls, the length of time that such products remained in the mollusk, the thickness of the nacre coating, the value and quality of cultured pearls as compared with the value and quality of pearls and imitation pearls, or any other material matter relating to the formation, structure, properties, characteristics, and qualities of cultured pearls.

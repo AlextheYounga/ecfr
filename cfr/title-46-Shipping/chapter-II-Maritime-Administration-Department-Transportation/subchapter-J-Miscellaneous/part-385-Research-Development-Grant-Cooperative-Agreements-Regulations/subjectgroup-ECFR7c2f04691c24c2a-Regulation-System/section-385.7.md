@@ -1,0 +1,3 @@
+##### § 385.7 Issuance. #####
+
+The MarAd assistance regulations are issued in the Code of Federal Regulations as Part 385, Chapter II, of Title 46, Shipping, after publication in the Federal Register. Copies of the MarAd assistance regulations in the Federal Register and Code of Federal Regulations may be purchased from the Superintendent of Documents, Government Printing Office, Washington, DC 20402.

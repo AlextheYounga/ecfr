@@ -1,0 +1,3 @@
+##### § 21.430 What are the responsibilities of the head of the awarding or administering activity? #####
+
+When designated by the Head of the DoD Component or his or her designee (see 32 CFR 21.425), the head of the awarding or administering activity (*i.e.,* the HCA) is responsible for the awards made by or assigned to that activity. He or she must supervise and establish internal policies and procedures for that activity's awards.

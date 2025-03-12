@@ -1,0 +1,3 @@
+##### § 1102.30 Publication of manufacturer comments. #####
+
+*Timing.* Subject to §§ 1102.12, 1102.24, and 1102.26, the Commission will publish in the Database manufacturer comments submitted in response to a report of harm that meet the minimum requirements set forth in § 1102.12(c). This publication will occur at the same time as the report of harm is published or as soon thereafter as practicable. An example of a circumstance that may make it impracticable to publish a manufacturer comment at the same time as a report of harm includes when the Commission did not receive the comment until on or after the publication date of the report of harm.

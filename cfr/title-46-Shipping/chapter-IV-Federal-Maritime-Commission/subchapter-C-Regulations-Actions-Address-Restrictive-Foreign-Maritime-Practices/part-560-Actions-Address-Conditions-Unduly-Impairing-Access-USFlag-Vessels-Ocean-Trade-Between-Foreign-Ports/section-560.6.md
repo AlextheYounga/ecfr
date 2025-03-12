@@ -1,0 +1,3 @@
+##### § 560.6 Notification to Secretary of State. #####
+
+When there are indications that conditions unduly impairing the access of a U.S. flag vessel to trade between foreign ports may exist, the Commission shall so notify the Secretary of State and may request that the Secretary of State seek resolution of the matter through diplomatic channels. If request is made, the Commission will give every assistance in such efforts, and the Commission may request the Secretary to report the results of such efforts within a specified time period.

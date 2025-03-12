@@ -1,0 +1,11 @@
+##### § 32.1 Purpose. #####
+
+(a) *General.* This part implements OMB Circular A-1101 and establishes uniform administrative requirements for awards and subawards to institutions of higher education, hospitals, and other non-governmental, non-profit organizations.
+
+1 For copies of the Circular, contact the Office of Management and Budget, EOP Publications, 725 17th St. NW, New Executive Office Building, Washington, DC 20503.
+
+(b) *Relationship to other parts.* This part is an integral part of the DoD Grant and Agreement Regulations (DoDGARs), which comprise this subchapter of the Code of Federal Regulations. This part includes references to other parts of the DoDGARs that implement Governmentwide guidance and provide uniform internal policies and procedures for DoD Components that make or administer awards. Although parts 21 and 22 of this subchapter do not impose any direct requirements on recipients, and recipients therefore are not required to be familiar with those parts, the information in those parts concerning internal policies and procedures should be helpful to recipients of DoD awards.
+
+(c) *Prime awards.* DoD Components shall apply the provisions of this part to awards to recipients that are institutions of higher education, hospitals, and other non-profit organizations. DoD Components shall not impose additional or inconsistent requirements, except as provided in §§ 32.4 and 32.14, or unless specifically required by Federal statute or executive order.
+
+(d) *Subawards.* Any legal entity that receives an award from a DoD Component shall apply the provisions of this part to subawards with institutions of higher education, hospitals, and other non-profit organizations. Thus, a governmental or for-profit organization, whose prime award from a DoD Component is subject to 32 CFR part 33 or part 34, respectively, applies this part to subawards with institutions of higher education, hospitals, or other non-profit organizations. It should be noted that subawards are for the performance of substantive work under awards, and are distinct from contracts for procuring goods and services. It should be further noted that non-profit organizations that implement Federal programs for the States are also subject to State requirements.

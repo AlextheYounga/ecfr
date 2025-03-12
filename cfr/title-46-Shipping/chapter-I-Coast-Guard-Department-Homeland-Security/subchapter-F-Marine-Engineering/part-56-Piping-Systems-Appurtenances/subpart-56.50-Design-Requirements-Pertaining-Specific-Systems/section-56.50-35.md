@@ -1,0 +1,3 @@
+##### § 56.50-35 Condensate pumps. #####
+
+Two means shall be provided for discharging the condensate from the main condenser, one of which shall be mechanically independent of the main propelling machinery. If one of the independent feed pumps is fitted with a direct suction from the condenser and a discharge to the feed tank, it may be accepted as an independent condensate pump. On vessels operating on lakes (including Great Lakes), bays, sounds, or rivers, where provision is made to operate noncondensing, only one condensate unit will be required.

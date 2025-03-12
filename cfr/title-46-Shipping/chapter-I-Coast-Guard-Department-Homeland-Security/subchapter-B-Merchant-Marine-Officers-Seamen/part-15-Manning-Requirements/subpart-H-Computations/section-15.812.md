@@ -1,0 +1,98 @@
+##### § 15.812 Pilots. #####
+
+(a) Except as specified in paragraph (f) of this section, the following vessels, not sailing on register, when underway on the navigable waters of the United States, must be under the direction and control of an individual qualified to serve as pilot under paragraph (b) or (c) of this section, as appropriate:
+
+(1) Coastwise seagoing vessels propelled by machinery and subject to inspection under 46 U.S.C. Chapter 33, and coastwise seagoing tank barges subject to inspection under 46 U.S.C. Chapter 37.
+
+(2) Vessels that are not authorized by their COI to proceed beyond the Boundary Line established in part 7 of this chapter, are in excess of 1,600 GRT propelled by machinery, and are subject to inspection under 46 U.S.C. Chapter 33.
+
+(3) Vessels operating on the Great Lakes, that are propelled by machinery and subject to inspection under 46 U.S.C. Chapter 33, or are tank barges subject to inspection under 46 U.S.C. Chapter 37.
+
+(b) The following individuals may serve as a pilot on a vessel subject to paragraph (a) of this section, when underway on the navigable waters of the United States that are designated areas:
+
+(1) An individual holding a valid first-class pilot's license or MMC officer endorsement as first-class pilot, operating within the restrictions of his or her credential, may serve as pilot on any vessel to which this section applies.
+
+(2) An individual holding a valid license or MMC officer endorsement as master or mate, employed aboard a vessel within the restrictions of his or her credential, may serve as pilot on a vessel of not more than 1,600 GRT propelled by machinery, described in paragraphs (a)(1) and (a)(3) of this section, provided he or she -
+
+(i) Is at least 21 years old;
+
+(ii) Is able to show current knowledge of the waters to be navigated, as required in § 11.713 of this subchapter; and
+
+(iii) Provides evidence of completing a minimum of four roundtrips over the route to be traversed while in the wheelhouse as watchstander or observer. At least one of the roundtrips must be made during the hours of darkness if the route is to be traversed during darkness.
+
+(3) An individual holding a valid license or MMC officer endorsement as master, mate, or operator employed aboard a vessel within the restrictions of his or her credential, may serve as pilot on a tank barge or tank barges totaling not more than 10,000 GRT/GT, described in paragraphs (a)(1) and (a)(3) of this section, provided he or she -
+
+(i) Is at least 21 years old
+
+(ii) Is able to show current knowledge of the waters to be navigated, as required in § 11.713 of this subchapter
+
+(iii) Has a current physical examination in accordance with the provisions of § 11.709 of this subchapter
+
+(iv) Has at least 6 months of service in the deck department on towing vessels engaged in towing operations; an
+
+(v) Provides evidence of completing a minimum of 12 roundtrips over the route to be traversed, as an observer or under instruction in the wheelhouse. At least three of the roundtrips must be made during the hours of darkness if the route is to be traversed during darkness
+
+(c) An individual holding a valid license or MMC officer endorsement as master, mate, or operator, employed aboard a vessel within the restrictions of his or her credential, may serve as a pilot for a vessel subject to paragraphs (a)(1) and (a)(2) of this section, when underway on the navigable waters of the United States that are not designated areas of pilotage waters, provided he or she -
+
+(1) Is at least 21 years old
+
+(2) Is able to show current knowledge of the waters to be navigated, as required in § 11.713 of this subchapter; an
+
+(3) Has a current physical examination in accordance with the provisions of § 11.709 of this subchapter
+
+(d) In any instance in which the qualifications of a person satisfying the requirements for pilotage through the provisions of this subpart are questioned by the Coast Guard, the individual must, within a reasonable time, provide the Coast Guard with documentation proving compliance with the applicable portions of paragraphs (b) and (c) of this section
+
+(e) Federal pilotage requirements contained in paragraphs (a) through (d) of this section are summarized in the following two quick reference tables
+
+(1) Table 1 to § 15.812(e)(1) provides a guide to the pilotage requirements for inspected, self-propelled vessels.
+
+Table 1 to § 15.812(e)(1) - Quick Reference Table for Federal Pilotage Requirements for U.S.-Inspected, Self-Propelled Vessels, Not Sailing on Register
+
+|                                                                                                                                                                                                 |                                                              Designated areas of pilotage waters (routes for which First-Class Pilot's licenses or MMC officer endorsements are issued)                                                              |                                               Non-designated areas of pilotage waters (between the 3-mile line and the start of traditional pilotage routes)                                                |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      Inspected self-propelled vessels greater than 1,600 GRT, authorized by their COI to proceed beyond the Boundary Line, or operating on the Great Lakes                      |                                                                                                                  First-Class Pilot                                                                                                                   |Master or Mate may serve as pilot if he or she -  <br/>1. Is at least 21 years old;  <br/>2. Has an annual physical exam; and  <br/>3. Maintains current knowledge of the waters to be navigated.<sup>1</sup>|
+|                     Inspected self-propelled vessels not more than 1,600 GRT, authorized by their COI to proceed beyond the Boundary Line, or operating on the Great Lakes                      |First-Class Pilot, or Master or Mate may serve as pilot if he or she -  <br/>1. Is at least 21 years old;  <br/>2. Maintains current knowledge of the waters to be navigated; and<sup>1</sup>  <br/>3. Has four roundtrips over the route.<sup>2</sup>|Master or Mate may serve as pilot if he or she -  <br/>1. Is at least 21 years old;  <br/>2. Has an annual physical exam; and  <br/>3. Maintains current knowledge of the waters to be navigated.<sup>1</sup>|
+|Inspected self-propelled vessels greater than 1,600 GRT, not authorized by their COI to proceed beyond the Boundary Line (inland route vessels); other than vessels operating on the Great Lakes |                                                                                                                  First-Class Pilot                                                                                                                   |Master or Mate may serve as pilot if he or she -  <br/>1. Is at least 21 years old;  <br/>2. Has an annual physical exam; and  <br/>3. Maintains current knowledge of the waters to be navigated.<sup>1</sup>|
+|Inspected self-propelled vessels not more than 1,600 GRT, not authorized by their COI to proceed beyond the Boundary Line (inland route vessels); other than vessels operating on the Great Lakes|                                                                                                               No pilotage requirement                                                                                                                |                                                                                          No pilotage requirement.                                                                                           |
+
+<sup>1</sup> One roundtrip within the past 60 months.
+
+<sup>2</sup> If the route is to be traversed during darkness, one of the four roundtrips must be made during darkness.
+
+(2) Table 1 to § 15.812(e)(2) provides a guide to the pilotage requirements for tank barges.
+
+Table 1 to § 15.812(e)(2) - Quick Reference Table for Federal Pilotage Requirements for U.S.-Inspected Tank Barges, Not Sailing on Register
+
+|                                                                                                                                            |                                                                                                                                                                 Designated areas of pilotage waters (routes for which First-Class Pilot's licenses or MMC officer endorsements are issued)                                                                                                                                                                  |                                                                                                                                Non-designated areas of pilotage waters (between the 3-mile line and the start of traditional pilotage routes)                                                                                                                                 |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    Tank Barges greater than 10,000 GRT/GT, authorized by their COI to proceed beyond the Boundary Line, or operating on the Great Lakes    |                                      First-Class Pilot  <br/>Master, Mate, or Master, Mate (Pilot) of towing vessels may serve as pilot if he or she:  <br/>1. Is at least 21 years old;  <br/>2. Has an annual physical exam;  <br/>3. Maintains current knowledge of the waters to be navigated;<sup>1</sup> and  <br/>4. Has at least 6 months' service in the deck department on towing vessels engaged in towing                                       |Master, Mate, or Master, Mate (Pilot) of towing vessels may serve as pilot if he or she:  <br/>1. Is at least 21 years old;  <br/>2. Has an annual physical exam;<sup>2</sup>  <br/>3. Maintains current knowledge of the waters to be navigated;<sup>1</sup> and  <br/>4. Has at least 6 months' service in the deck department on towing vessels engaged in towing operations|
+|      Tank Barges 10,000 GRT/GT or less, authorized by their COI to proceed beyond the Boundary Line, or operating on the Great Lakes       |First-Class Pilot, or Master, Mate, or Master, Mate (Pilot) of towing vessels may serve as pilot if he or she:  <br/>1. Is at least 21 years old;  <br/>2. Has an annual physical exam;<sup>2</sup>  <br/>3. Maintains current knowledge of the waters to be navigated;<sup>1</sup>  <br/>4. Has at least 6 months' service in the deck department on towing vessels engaged in towing operations; and  <br/>5. Has 12 roundtrips over the route.<sup>3</sup>|                                                                                                                                                                                                                                                                                                                                                                               |
+|Tank Barges authorized by their COI for inland routes only (lakes, bays, and sounds/rivers); other than vessels operating on the Great Lakes|                                                                                                                                                                                                                   No pilotage requirement                                                                                                                                                                                                                   |                                                                                                                                                                           No pilotage requirement.                                                                                                                                                                            |
+
+<sup>1</sup> One roundtrip within the past 60 months.
+
+<sup>2</sup> Annual physical exam does not apply to an individual who will serve as a pilot of a tank barge of less than 1,600 GRT.
+
+<sup>3</sup> If the route is to be traversed during darkness, three of the 12 roundtrips must be made during darkness.
+
+(f) In Prince William Sound, Alaska, coastwise seagoing vessels over 1,600 GRT and propelled by machinery and subject to inspection under 46 U.S.C. Chapter 37 must -
+
+(1) When operating from 60°49′ north latitude to the Port of Valdez, be under the direction and control of an individual holding a valid license or MMC endorsed as pilot who -
+
+(i) Is operating under the authority of a license or MMC
+
+(ii) Holds a license issued by the State of Alaska; an
+
+(iii) Is not a crewmember of the vessel; an
+
+(2) Navigate with either two credentialed deck officers on the bridge or an individual holding a valid license or MMC endorsed as pilot, when operating south of 60°49′ north latitude and in the approaches through Hinchinbrook Entrance and in the area bounded -
+
+(i) On the West by a line 1 mile west of the western boundary of the Traffic Separation Scheme
+
+(ii) On the East by 146°00′ West longitude;
+
+(iii) On the North by 60°49′ North latitude; and
+
+(iv) On the South by that area of Hinchinbrook Entrance within the territorial sea bounded by 60°07′ North latitude and 146°31.5′ West longitude
+
+[USCG-2004-17914, 78 FR 78005, Dec. 24, 2013]

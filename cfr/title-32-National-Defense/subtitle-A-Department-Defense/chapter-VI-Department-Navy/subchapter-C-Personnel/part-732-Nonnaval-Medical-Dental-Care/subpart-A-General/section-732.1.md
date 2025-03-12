@@ -1,0 +1,3 @@
+##### § 732.1 Background. #####
+
+When a U.S. Navy or Marine Corps member or a Canadian Navy or Marine Corps member receives authorized care from other than a Navy treatment facility, care is under the cognizance of the uniformed service medical treatment facility (USMTF) providing care, the USMTF referring the member to another treatment source, or under the provisions of this part. If such a member is not receiving care at or under the auspices of a Federal source, responsibility for health and welfare, and the adjudication of claims in connection with their care, remains within the Navy Medical Department. Part 728 of this chapter and NAVMEDCOMINST 6320.18 contain guidelines concerning care for other eligible beneficiaries, not authorized care by this part.

@@ -1,0 +1,3 @@
+##### § 1240.1 Scope, purpose, and effective date. #####
+
+This part 1240, a consumer product safety standard, prescribes requirements for magnet sets, as defined in § 1240.2, and for individual magnets that are marketed or intended for use with or as magnet sets. These requirements are intended to reduce or eliminate an unreasonable risk of injury to consumers who ingest magnets that are part of magnet sets. This standard takes effect on April 1, 2015 and applies to all magnet sets and individual magnets, as defined in § 1240.2, that are manufactured or imported on or after that date.

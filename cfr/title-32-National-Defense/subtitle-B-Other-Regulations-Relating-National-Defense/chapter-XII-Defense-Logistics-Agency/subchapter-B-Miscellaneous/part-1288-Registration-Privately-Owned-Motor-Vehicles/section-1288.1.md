@@ -1,0 +1,3 @@
+##### § 1288.1 Purpose and scope. #####
+
+To prescribe policy and procedures for the registration, inspection, and marking of privately owned vehicles (POV) on Defense Logistics Agency (DLA) activities. This regulation is applicable to individuals serving in or employed by the Defense Logistics Agency, and to all other individuals subject to motor vehicle registration requirements set forth in this part 1288 and DLAR 5720.1/AR 190-5/OPNAVINST 11200.5B/AFR 125-14/MCO 5110.1B, Military Police Motor Vehicle Traffic Supervision.

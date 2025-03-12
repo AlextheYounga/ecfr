@@ -1,0 +1,3 @@
+##### § 1510.2 Definition. #####
+
+For the purposes of this part 1510, a rattle is an infant's toy, intended to be hand held, usually containing pellets or other small objects and which produces sounds when shaken. Examples of products which may have similar noisemaking characteristics but which are excluded from the scope of this definition are: dolls, stuffed animals, crib exercisers, crib mobiles, pull toys, shoe lace holders, bells which are not part of the noisemaking component of a rattle, plastic keys or other figures on loops or chains which produce sound by striking together, games, puzzles and musical instruments such as tambourines, castanets, and maracas.

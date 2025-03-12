@@ -1,0 +1,3 @@
+##### § 240.14 Meeting competition. #####
+
+A seller charged with discrimination in violation of sections 2(d) and (e) may defend its actions by showing that particular payments were made or services furnished in good faith to meet equally high payments or equivalent services offered or supplied by a competing seller. This defense is available with respect to payments or services offered on an area-wide basis, to those offered to new as well as old customers, and regardless of whether the discrimination has been caused by a decrease or an increase in the payments or services offered. A seller must reasonably believe that its offers are necessary to meet a competitor's offer.

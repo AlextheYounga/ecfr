@@ -1,0 +1,5 @@
+##### § 1513.1 Scope, application, and effective date. #####
+
+(a) *Scope, basis, and purpose.* This part 1513 prescribes requirements for bunk beds to reduce or eliminate the risk that children will die or be injured from being trapped between the upper bunk and the wall or in openings below guardrails or in other structures in the bed. Bunk beds meeting these requirements are exempted from 16 CFR 1500.18(a)(18).
+
+(b) *Application and effective date.* This part applies to all bunk beds, except those manufactured only for institutional use, that are manufactured in the United States, or imported, on or after June 19, 2000. (Facilities intended for use by children under age 6 are not considered to be institutions.) Bunk beds, as described in this section, that are not intended for use by children are subject to the requirements in 16 CFR part 1213, and not to 16 CFR 1500.18(a)(18). However, the provisions of 16 CFR 1213 are substantively identical to the requirements in this part 1513.

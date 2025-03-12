@@ -1,0 +1,3 @@
+##### § 536.57 Who should negotiate. #####
+
+An AAO or, when delegated additional authority, an ACO or a CPO, has authority to settle claims in an amount exceeding the monetary authority delegated by regulation. It is DA policy to delegate USARCS authority, on a case-by-case basis, to an ACO or a CPO possessing the appropriate ability and experience. Only an attorney should negotiate with a claimant's attorney. Negotiations with unrepresented claimants may be conducted by a non-attorney, under the supervision of an attorney. For further discussion see DA Pam 27-162, paragraph 2-65.

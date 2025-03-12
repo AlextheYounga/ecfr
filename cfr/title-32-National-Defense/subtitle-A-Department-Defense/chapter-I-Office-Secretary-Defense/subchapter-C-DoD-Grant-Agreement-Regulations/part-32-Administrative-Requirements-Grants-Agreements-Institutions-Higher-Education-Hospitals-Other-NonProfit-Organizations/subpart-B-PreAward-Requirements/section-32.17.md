@@ -1,0 +1,5 @@
+##### § 32.17 Certifications and representations. #####
+
+(a) OMB Circular A-110 authorizes and encourages each Federal agency, unless prohibited by statute or codified regulation, to allow recipients to submit certifications and representations required by statute, executive order, or regulation on an annual basis, if the recipients have ongoing and continuing relationships with the agency. The Circular further states that annual certifications and representations, when used, shall be signed by responsible officials with the authority to ensure recipients' compliance with the pertinent requirements.
+
+(b) DoD grants officers shall comply with the provisions concerning certifications and representations at 32 CFR 22.510. Those provisions ease burdens on recipients to the extent possible, given current statutory and regulatory impediments to obtaining all certifications on an annual basis. The provisions thereby also comply with the intent of OMB Circular A-110, to use less burdensome methods for obtaining certifications and representations, as such methods become feasible.

@@ -1,0 +1,29 @@
+##### § 231.11 Guidelines. #####
+
+(a) The following guidelines govern the application of DoD Directive 5400.1115 to those financial institutions that operate under this part:
+
+15 See footnote 1 to § 231.1(a).
+
+(1) Financial institutions and their branches and facilities operating on DoD military installations do not fall within the purview of 5 U.S.C. 552 *et seq.*
+
+(i) These financial institutions do not fit the definition of “agency” to which the Privacy Act applies, that is, any executive department, Military Department, government corporation, government-controlled corporation, or other establishment in the executive branch of the government (including the Executive Office of the President), or an independent regulatory agency (5 U.S.C. 552(e) and 552a(a)(1)).
+
+(ii) These financial institutions are not “government contractors” within the meaning of 5 U.S.C. 552a(o), as they do not operate a system of records on behalf of an agency to accomplish an agency function. According to the Office of Management and Budget Privacy Act Guidelines, the provision relating to government contractors applies only to systems of records actually taking the place of a federal system which, but for the contract, would have been performed by an agency and covered by the Privacy Act. Clearly, the subject institutions do not meet these criteria.
+
+(iii) Since the Act does not apply to them, these financial institutions are not required to comply with 5 U.S.C. 552a(e)(3) in obtaining and making use of personal information in their relationships with personnel authorized to use such institutions. Thus, these institutions are not required to inform individuals from whom information is requested of the authority for its solicitation, the principal purpose for which it is intended to be used, the routine uses that may be made of it, or the effects of not providing the information. There also is no requirement to post information of this nature within on-base banking and credit union offices.
+
+(2) The financial institutions concerned hold the same position and relationship to their account holders, members, and to the government as they did before enactment of OMB Circular A-130. Within their usual business relationships, they still are responsible for safeguarding the information provided by their account holders or members and for obtaining only such information as is reasonable and necessary to conduct business. This includes credit information and proper identification, which may include social security number, as a precondition for the cashing of checks.
+
+(3) Financial institutions may incorporate the following conditions of disclosure of personal identification in all contracts, including loan agreements, account signature cards, certificates of deposit agreements, and any other agreements signed by their account holders or members:
+
+I hereby authorize the Department of Defense and its various Components to verify my social security number or other identifier and disclose my home address to authorized (name of financial institution) officials so that they may contact me in connection with my business with (name of financial institution). All information furnished will be used solely in connection with my financial relationship with (name of financial institution).
+
+(ii) When the financial institution presents such signed authorizations, the receiving military command or installation shall provide the appropriate information.
+
+(4) Even though an agreement described in paragraph (a)(3) of this section has not been obtained, the Department of Defense may provide these financial institutions with salary information and, when pertinent, the length or type of civilian or military appointment, consistent with DoD Directives 5400.11 and 5400.7.16 Some examples of personal information pertaining to DoD personnel that normally can be released without creating an unwarranted invasion of personal privacy are name, rank, date of rank, salary, present and past duty assignments, future assignments that have been finalized, office phone number, source of commission, and promotion sequence number.
+
+16 See footnote 1 to 231.1(a).
+
+(5) When DoD personnel with financial obligations are reassigned and fail to inform the financial institution of their whereabouts, they should be located by contacting the individual's last known commander or supervisor at the official position or duty station within that particular DoD Component. That commander or supervisor either shall furnish the individual's new official duty location address to the financial institution, or shall forward, through official channels, any correspondence received pertaining thereto to the individual's new commander or supervisor for appropriate assistance and response. Correspondence addressed to the individual concerned at his or her last official place of business or duty station shall be forwarded as provided by postal regulations to the new location. Once an individual's affiliation with the Department of Defense is terminated through separation or retirement, however, the Department's ability to render locator assistance (i.e., disclose a home address) is severely curtailed unless the public interest dictates disclosure of the last known home address. The Department may, at its discretion, forward correspondence to the individual's last known home address. The Department may not act as an intermediary for private matters concerning former DoD personnel who are no longer affiliated with the Department.
+
+(b) Questions concerning this guidance should be forwarded through channels to the Deputy Chief Financial Officer, Office of the Under Secretary of Defense (Comptroller), The Pentagon, Washington, DC 20301-1100.

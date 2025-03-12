@@ -1,0 +1,5 @@
+##### § 131.513 Verification of compliance with applicable stability requirements. #####
+
+(a) After loading but before departure, and at other times necessary to assure the safety of the vessel, the master shall verify that the vessel complies with requirements in its trim-and-stability book, stability letter, Certificate of Inspection, and Loadline Certificate, whichever apply, and then enter a statement of the verification in the log book. The vessel may not leave port until it is in compliance with these requirements.
+
+(b) When determining compliance with applicable stability requirements, the master shall ascertain the vessel's draft, trim, and stability as necessary; and any stability calculations made in support of the determination must remain aboard the vessel for the duration of the voyage.

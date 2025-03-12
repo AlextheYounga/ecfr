@@ -1,0 +1,3 @@
+##### § 308.515 Payment in event of loss. #####
+
+All claims for losses shall be filed by the assured with the Underwriting Agent who issued the policy. Such claims must be supported by the customary documents required in connection with war risk insurance claims, together with appropriate declarations as required by Clause 9, and such further data as may now or hereafter be required by the Maritime Administrator.

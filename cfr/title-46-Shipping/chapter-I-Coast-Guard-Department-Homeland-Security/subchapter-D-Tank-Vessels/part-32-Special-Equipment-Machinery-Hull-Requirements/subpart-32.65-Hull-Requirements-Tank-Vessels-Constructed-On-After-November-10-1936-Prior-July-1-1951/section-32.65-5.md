@@ -1,0 +1,3 @@
+##### § 32.65-5 Scantlings, material, and workmanship—TB/ALL. #####
+
+The hull and deck houses shall be of steel or iron construction except that the pilothouse and decks over quarters may be constructed of wood. Scantlings, material, and workmanship, subdivision of cargo spaces, fitting of cofferdams, and testing of tanks shall be at least equivalent to the requirements of the American Bureau of Shipping or other recognized classification society.

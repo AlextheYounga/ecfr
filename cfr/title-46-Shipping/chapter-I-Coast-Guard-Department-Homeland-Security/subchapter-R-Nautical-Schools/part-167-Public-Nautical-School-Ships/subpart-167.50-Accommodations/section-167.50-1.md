@@ -1,0 +1,3 @@
+##### § 167.50-1 Hospital accommodations. #####
+
+Each nautical school ship, which makes voyages of more than 3 days' duration between ports and carries 12 or more persons, shall be equipped with a compartment suitably separated from other spaces for hospital purposes, and such compartment shall have at least 1 bunk for every 12 persons allowed to be carried: *Provided,* That not more than 6 bunks shall be required in any case.

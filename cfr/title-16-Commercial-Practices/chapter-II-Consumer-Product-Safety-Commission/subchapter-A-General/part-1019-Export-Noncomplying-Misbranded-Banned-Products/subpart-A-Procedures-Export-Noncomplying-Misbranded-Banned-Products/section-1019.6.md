@@ -1,0 +1,3 @@
+##### § 1019.6 Changes to notification. #####
+
+If the exporter causes any change to any of the information required by § 1019.4, or learns of any change to any of that information, at any time before the noncomplying goods reach the country of destination, the exporter must notify the Assistant Executive Director for Compliance within two working days after causing or learning of such change, and must state the reason for any such change. The Assistant Executive Director will promptly inform the exporter whether the 30-day advance notification period will be discontinued, and whether the exporter must take any other steps to comply with the advance notification requirement.

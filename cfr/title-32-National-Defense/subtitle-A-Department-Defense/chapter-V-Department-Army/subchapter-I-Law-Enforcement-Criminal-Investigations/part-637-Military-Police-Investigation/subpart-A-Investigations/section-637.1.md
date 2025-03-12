@@ -1,0 +1,9 @@
+##### § 637.1 General. #####
+
+(a) Military Police Investigators (MPI) and Department of the Army Civilian (DAC) detectives/investigators fulfill a special need for an investigative element within the military police to investigate many incidents, complaints, and matters not within U.S. Army Criminal Investigation Command (USACIDC) jurisdiction, but which cannot be resolved immediately through routine military police operations. Investigative personnel are assets of the installation or activity commander, under the supervision of the local provost marshal. USACIDC elements will provide investigative assistance in the form of professional expertise, laboratory examinations, polygraph examinations, or any other assistance requested which does not distract from the USACIDC mission of investigating serious crimes. A spirit of cooperation and close working relationship is essential between USACIDC and the provost marshal office in order to accomplish the mission and project a professional police image.
+
+(b) Creation of a formalized investigation program does not constitute the establishment of a dual “detective” force. The separation of investigative responsibilities is very distinct. The MPI Program is neither a career program nor a separate Military Occupational Specialty (MOS). Individuals in the MPI Program are specially selected, trained, and experienced military or civilian men and women performing traditional military police functions. Military personnel are identified by their additional skill identifiers (ASI V5) and may be employed in any assignment appropriate to their grade and MOS.
+
+(c) The provost marshal may authorize wearing of civilian clothing for the MPI investigative mission.
+
+(d) MPI and DAC detective/investigator personnel must be familiar with and meet the requirements of Army Regulation (AR) 190-14 (Carrying of Firearms and Use of Force for Law Enforcement and Security Duties).

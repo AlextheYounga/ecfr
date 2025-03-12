@@ -1,0 +1,3 @@
+##### § 845.1 Purpose. #####
+
+This part establishes criteria and assigns responsibility for the provision of counsel, for the provision of bail, and for the payment of court costs and other necessary and reasonable expenses incident to representation in civil and criminal proceedings, including appellate proceedings, before foreign courts and foreign administrative agencies, which involve members of the Armed Forces, civilian personnel and dependents. Payment of fines is not authorized hereunder.

@@ -1,0 +1,11 @@
+##### § 356.25 Operation of Fishing Industry Vessel Mortgagees. #####
+
+(a) A Mortgagee that has demonstrated to MARAD that it qualifies as a Citizen of the United States and is eligible to own a vessel with a fishery endorsement may operate a Fishing Industry Vessel.
+
+(b) A Mortgagee not eligible to own a Fishing Industry Vessel cannot operate or cause operation of, the vessel in the fisheries of the United States. Except as provided in paragraph (c) of this section, the vessel may not be operated for any purpose without the prior written approval of the Citizenship Approval Officer.
+
+(c) A Mortgagee not eligible to own a Fishing Industry Vessel may operate the vessel for a non-commercial purpose to the extent necessary for the immediate safety of the vessel or for repairs, drydocking or berthing changes; provided, that the vessel is operated under the command of a Citizen of the United States and for no longer than 15 calendar days.
+
+(d) A Mortgagee that is holding a Preferred Mortgage on a Fishing Industry Vessel but that is not eligible to own a Fishing Industry Vessel may take possession of the vessel in the event of default by the mortgagor other than by foreclosure pursuant to 46 U.S.C. 31329, if provided for in the mortgage or a related financing document. However, the vessel may not be operated, or caused to be operated in commerce, except as provided in paragraph (c) of this section or with the approval of the Citizenship Approval Officer.
+
+(e) A Non-Citizen Lender that has brought a civil action in rem for enforcement of a Preferred Mortgage lien on a Citizen-owned Fishing Industry Vessel pursuant to 46 U.S.C. 31325(b)(1) may petition the court pursuant to 46 U.S.C. 31325(e)(1) for appointment of a receiver, and, if the receiver is a Person eligible to own a Fishing Industry Vessel , to authorize the receiver to operate the mortgaged vessel pursuant to terms and conditions consistent with this part 356. If the receiver is not a Citizen of the United States that meets the requirements of section 2(c) of the 1916 Act, 46 App. U.S.C. 802(c), and 46 U.S.C. 12102(c), the vessel may not be operated in the fisheries of the United States.

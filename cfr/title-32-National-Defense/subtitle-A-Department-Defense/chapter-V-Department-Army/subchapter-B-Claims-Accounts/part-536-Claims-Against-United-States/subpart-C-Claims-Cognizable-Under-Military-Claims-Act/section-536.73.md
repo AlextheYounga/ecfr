@@ -1,0 +1,3 @@
+##### § 536.73 Statutory authority for the Military Claims Act. #####
+
+The statutory authority for this subpart is contained in the Act of August 10, 1956 (70A Stat. 153, 10 U.S.C. 2733), commonly referred to as the Military Claims Act (MCA), as amended by 90-521, September 1968 (82 Stat. 874); Public Law 90-522, September 1968 (82 Stat. 875); Public Law 90-525, September 1968 (82 Stat. 877); Public Law 93-336, July 8, 1974 (88 Stat. 291); Public Law 98-564, October 1984, (98 Stat. 2918); and Public Law 103-337, October 1994 (108 Stat. 2664).

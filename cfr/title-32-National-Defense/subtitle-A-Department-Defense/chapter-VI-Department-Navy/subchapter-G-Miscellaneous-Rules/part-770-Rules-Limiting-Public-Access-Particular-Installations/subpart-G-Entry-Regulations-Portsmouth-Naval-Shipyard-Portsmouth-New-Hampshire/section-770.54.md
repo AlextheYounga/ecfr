@@ -1,0 +1,7 @@
+##### § 770.54 Background. #####
+
+(a) Portsmouth Naval Shipyard maintains and operates facilities “to provide logistic support for assigned ships and service craft; to perform authorized work in connection with construction, conversion, overhaul, repair, alteration, drydocking, and outfitting of ships and craft, as assigned; to perform manufacturing, research, development, and test work, as assigned; and to provide services and material to other activities and units, as directed by competent authority.”
+
+(b) Portsmouth Naval Shipyard is a major naval ship repair facility, with operational requirements to complete repairs and overhaul of conventionally powered and nuclear-powered naval vessels. It is vital to national defense that the operation and use of the shipyard be continued without undue or unnecessary interruptions. Additionally, most of Portsmouth Naval Shipyard is dedicated to heavy industrial activity where potentially hazardous conditions exist.
+
+(c) For prevention of interruption of the stated use of the base by the presence of any unauthorized person within the boundaries of Portsmouth Naval Shipyard, and prevention of injury to any such unsupervised person as a consequence of the dangerous conditions which exist, as well as for other reasons, it is essential to restrict entry upon Portsmouth Naval Shipyard to authorized persons only.

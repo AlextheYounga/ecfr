@@ -1,0 +1,3 @@
+##### § 1624.2 Issuance of induction orders. #####
+
+The Director of Selective Service, upon receipt of a call from the Secretary of Defense for persons to be inducted into the Armed Forces in accord with § 1624.4, shall issue orders to report for induction to registrants whose registration records are in the master computer file at the beginning of any day on which orders are issued. Orders shall be issued in such numbers and at such times as will assure that such call or requisition is filled. The names contained in the Selective Service System data base on a given day will constitute the valid list of registrants from which induction orders can be issued on that day.

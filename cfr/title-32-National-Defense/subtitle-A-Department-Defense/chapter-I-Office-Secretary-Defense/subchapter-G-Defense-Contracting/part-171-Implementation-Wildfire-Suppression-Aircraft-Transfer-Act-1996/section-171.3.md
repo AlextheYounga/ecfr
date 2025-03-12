@@ -1,0 +1,3 @@
+##### § 171.3 Restrictions. #####
+
+Aircraft and aircraft parts sold under the Act shall be used only for wildfire suppression purposes and shall not be flown or removed from the U.S. unless dispatched by the National Interagency Fire Center in support of an international agreement to assist in wildfire suppression, or for other purposes jointly approved in advance, in writing, by the Secretary of Defense and the Secretary of Agriculture.

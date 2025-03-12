@@ -1,0 +1,3 @@
+##### § 728.32 Application for care. #####
+
+Possession of an ID card alone (DD 2 (Retired), PHS-1866-3 (Retired), or DD 1173 (Uniformed Services Identification and Privilege Card)) does not constitute sufficient proof of eligibility. Accordingly, a DEERS check will be instituted per § 728.4 (cc) before medical and dental care may be rendered except in emergencies. When required inpatient or outpatient care is beyond the capabilities of the naval MTF, the provisions of § 728.34 apply. When required inpatient care cannot be rendered and a decision is made to disengage a CHAMPUS-eligible beneficiary, the provisions of § 728.33 apply.

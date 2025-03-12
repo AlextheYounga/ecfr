@@ -1,0 +1,3 @@
+##### § 46.05-15 Coastwise voyages. #####
+
+(a) A coastwise voyage by sea, for the purpose of marking passenger vessels with subdivision load lines, is a voyage in which a vessel in the usual course of her employment proceeds from one port or place in the United States to another port or place in the United States or from a port or place in a possession to another port or place in the same possession, and passes outside the line dividing inland waters from the high seas (a voyage exclusively on the Great Lakes excepted), as well as a voyage in which a vessel proceeds from a port or place in the United States or her possessions and passes outside the line dividing inland waters from the high seas and navigates on the high seas, and then returns to the same port or place.

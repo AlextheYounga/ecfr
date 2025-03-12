@@ -1,0 +1,3 @@
+##### § 263.2 Applicability. #####
+
+The provisions of this regulation apply to all areas in the Brookmont site and to all persons on or within the site. They supplement those penal provisions of Title 18, U.S. Code, relating to crimes and criminal procedures, which apply without regard to the place of the offense and those provisions of state law which are made federal criminal offenses by virtue of the Assimilative Crimes Act, 18 U.S.C. 13.

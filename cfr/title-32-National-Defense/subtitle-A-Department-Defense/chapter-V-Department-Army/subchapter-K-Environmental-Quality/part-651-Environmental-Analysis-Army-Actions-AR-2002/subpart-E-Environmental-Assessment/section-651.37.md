@@ -1,0 +1,3 @@
+##### § 651.37 Public availability. #####
+
+Documents incorporated into the EA or FNSI by reference will be available for public review. Where possible, use of public libraries and a list of POCs for supportive documents is encouraged. A depository should be chosen which is open beyond normal business hours. To the extent possible, the WWW should also be used to increase public availability of documents.

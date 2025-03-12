@@ -1,0 +1,5 @@
+##### § 167.30-5 Proceeding to another port for repairs. #####
+
+(a) The Officer in Charge, Marine Inspection, may issue a permit to proceed to another port for repairs, if in his judgment it can be done with safety. In the issuance of such a permit the Officer in Charge, Marine Inspection, will state upon its face, the conditions upon which it is granted.
+
+(b) When a nautical school ship obtains a permit from the Officer in Charge, Marine Inspection, to go to another port for repairs, the Officer in Charge, Marine Inspection, shall so notify the Coast Guard District Commander, and state the repairs to be made. The Coast Guard District Commander shall notify the Coast Guard District Commander of the district where such repairs are to be made, furnishing him a copy of the report indicating the repairs ordered.

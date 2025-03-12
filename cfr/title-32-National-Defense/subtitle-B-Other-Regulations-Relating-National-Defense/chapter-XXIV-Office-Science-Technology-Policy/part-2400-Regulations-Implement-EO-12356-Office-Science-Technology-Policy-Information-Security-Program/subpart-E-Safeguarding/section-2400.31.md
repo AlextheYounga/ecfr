@@ -1,0 +1,5 @@
+##### § 2400.31 Destruction of classified information. #####
+
+(a) Classified information no longer needed in current working files or for reference or record purposes shall be processed for appropriate disposition in accordance with the provisions of chapters 21 and 33 of title 44, U.S.C., which governs disposition of classified records. Classified information approved for destruction shall be destroyed in accordance with procedures and methods prescribed by the Director, OSTP, as implemented by the Security Officer. These procedures and methods must provide adequate protection to prevent access by unauthorized persons and must preclude recognition or reconstruction of the classified information or material.
+
+(b) All classified information to be destroyed will be provided to the ATSCO for disposition. Controlled documents will be provided whole so that accountability records may be corrected prior to destruction by the ATSCO.

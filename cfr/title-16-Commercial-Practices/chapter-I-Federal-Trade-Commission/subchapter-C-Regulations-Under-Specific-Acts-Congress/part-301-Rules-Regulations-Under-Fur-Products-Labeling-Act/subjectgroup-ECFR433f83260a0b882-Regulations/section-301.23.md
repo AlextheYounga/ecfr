@@ -1,0 +1,3 @@
+##### § 301.23 Second-hand fur products. #####
+
+When a fur product has been used or worn by an ultimate consumer and is subsequently marketed in its original, reconditioned, or rebuilt form with or without the addition of any furs or used furs, the requirements of the act and regulations in respect to labeling, invoicing and advertising of such product shall be applicable thereto, subject, however, to the provisions of § 301.14 of this part as to country of origin requirement, and in addition, as a part of the required information such product shall be designated “Second-hand”, “Reconditioned-Second-hand”, or “Rebuilt-Second-hand”, as the case may be.

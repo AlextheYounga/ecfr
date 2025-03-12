@@ -1,0 +1,3 @@
+##### § 575.6 Catalogue, United States Military Academy. #####
+
+The latest edition of the catalogue, United States Military Academy, contains additional information regarding the Academy and requirements for admission. This publication may be obtained free of charge from the Registrar, United States Military Academy, West Point, NY 10996, or from the United States Army Military Personnel Center, HQDA (DAPC-OPP-PM), 200 Stovall Street, Alexandria, VA 22332.

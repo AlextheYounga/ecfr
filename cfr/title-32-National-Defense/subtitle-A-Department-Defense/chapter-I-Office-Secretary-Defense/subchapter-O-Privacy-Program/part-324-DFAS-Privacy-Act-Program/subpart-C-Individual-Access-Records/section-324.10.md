@@ -1,0 +1,3 @@
+##### § 324.10 Individual requests for access. #####
+
+Individuals shall address requests for access to records to the appropriate Privacy Act Officer by mail or in person. Requests for access should be acknowledged within 10 working days after receipt and provided access within 30 working days. Every effort will be made to provide access rapidly; however, records cannot usually be made available for review on the day of request. Requests must provide information needed to locate and identify the record, such as individual identifiers required by a particular system, to include the requester's full name and social security number.

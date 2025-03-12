@@ -1,0 +1,3 @@
+##### § 243.1 Purpose. #####
+
+The Secretary of Defense (Secretary) is required to determine a fair and reasonable rate of payment for airlift services provided to the Department of Defense (DoD) by civil air carriers and operators (hereinafter collectively referred to as “air carriers”) who are participants in the Civil Reserve Air Fleet program (CRAF). This regulation provides the authority and methodology for such ratemaking and designates the United Stated Transportation Command (USTRANSCOM) as the rate setter for negotiated uniform rates for DoD airlift service contracts in support of the CRAF. This methodology supports a viable CRAF mobilization base that ensures sufficient capacity in time of war, contingency and humanitarian relief efforts.

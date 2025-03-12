@@ -1,0 +1,3 @@
+##### § 228.9 Prohibition on narcotics and illegal substances. #####
+
+Entering or being on protected property under the influence of, or while using or possessing, any narcotic drug, hallucinogen, marijuana, barbiturate or amphetamine is prohibited. Operation of a motor vehicle entering or while on protected property by a person under the influence of narcotic drugs, hallucinogens, marijuana, barbiturates or amphetamines is also prohibited. These prohibitions shall not apply in cases where the drug is being used as prescribed for a patient by a licensed physician.

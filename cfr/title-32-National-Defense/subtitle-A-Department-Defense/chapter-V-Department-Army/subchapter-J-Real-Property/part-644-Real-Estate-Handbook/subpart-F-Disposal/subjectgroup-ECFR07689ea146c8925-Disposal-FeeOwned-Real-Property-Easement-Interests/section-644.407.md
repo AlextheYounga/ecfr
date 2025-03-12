@@ -1,0 +1,3 @@
+##### § 644.407 Transfers to District of Columbia. #####
+
+40 U.S.C. 122 authorizes Federal and District authorities administering properties within the District of Columbia, owned by the United States or by the District, to transfer jurisdiction over parts or all of such property among or between themselves for purposes of administration and maintenance under such conditions as may be mutually agreed upon, provided that, prior to the consummation of any such transfer, the proposed transfer shall be recommended by the National Capital Planning Commission. All such transfers and agreements shall be reported to Congress by the District authorities concerned.

@@ -1,0 +1,5 @@
+##### § 460.14 How retailers must handle fact sheets. #####
+
+If you sell insulation to do-it-yourself customers, you must have fact sheets for the insulation products you sell. You must make the fact sheets available to your customers. You can decide how to do this, as long as your insulation customers are likely to notice them. For example, you can put them in a display, and let customers take copies of them. You can keep them in a binder at a counter or service desk, and have a sign telling customers where the fact sheets are. You need not make the fact sheets available to customers if you display insulation packages on the sales floor where your insulation customers are likely to notice them and each individual insulation package offered for sale contains all package label and fact sheet disclosures required by §§ 460.12 and 460.13.
+
+[70 FR 31276, May 31, 2005]

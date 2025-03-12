@@ -1,0 +1,3 @@
+##### § 201.160 Decision based on official notice. #####
+
+Official notice may be taken of such matters as might be judicially noticed by the courts, or of technical or scientific facts within the general or specialized knowledge of the Administration as an expert body or of a document required to be filed with or published by a duly constituted governmental body: *Provided,* That where a decision or part thereof rests on the official notice of a material fact not appearing in the evidence of the record, the fact of official notice shall be so stated in the decision, and any party, on timely request, shall be afforded an opportunity to show the contrary.

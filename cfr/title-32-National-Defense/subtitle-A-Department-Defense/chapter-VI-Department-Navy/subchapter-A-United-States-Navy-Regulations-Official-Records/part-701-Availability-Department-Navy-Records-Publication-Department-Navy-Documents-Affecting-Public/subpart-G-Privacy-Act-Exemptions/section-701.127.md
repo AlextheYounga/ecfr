@@ -1,0 +1,3 @@
+##### § 701.127 Exemption for classified records. #####
+
+All systems of records maintained by the DON shall be exempt from the requirements of the access provision of the Privacy Act (5 U.S.C. 552a(d)) under the (k)(1) exemption, to the extent that the system contains information properly classified under E.O. 12,958 and that is required by that E.O. to be kept secret in the interest of national defense or foreign policy. This exemption is applicable to parts of all systems of records including those not otherwise specifically designated for exemptions herein that contain isolated items of properly classified information.

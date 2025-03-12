@@ -1,0 +1,3 @@
+##### § 1900.03 Contact for general information and requests. #####
+
+For general information on this part, to inquire about the FOIA program at CIA, or to file a FOIA request (or expression of interest), please direct your communication in writing to the Information and Privacy Coordinator, Central Intelligence Agency, Washington, DC 20505. Such inquiries will also be accepted by facsimile at (703) 613-3007. For general information or status information on pending cases only, the telephone number is (703) 613-1287. Collect calls cannot be accepted.

@@ -1,0 +1,3 @@
+##### § 154.66 Responsibilities. #####
+
+DoD authorities responsible for administering the DoD personnel security program and all DoD personnel authorized access to personnel security reports and records shall ensure that the use of such information is limited to that authorized by this part and that such reports and records are safeguarded as prescribed herein. The heads of DoD Components and the Deputy Under Secretary of Defense for Policy for the Office of the Secretary of Defense shall establish internal controls to ensure adequate safeguarding and limit access to and use of personnel security reports and records as required by §§ 154.67 and 154.68.

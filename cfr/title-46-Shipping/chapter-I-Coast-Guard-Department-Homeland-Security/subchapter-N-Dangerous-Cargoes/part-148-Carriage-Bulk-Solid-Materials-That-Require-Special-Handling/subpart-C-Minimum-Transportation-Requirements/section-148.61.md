@@ -1,0 +1,3 @@
+##### § 148.61 Emergency response information. #####
+
+The shipper of a material listed in Table 148.10 of this part must provide the master or his representative with appropriate emergency response information. This information may be included on the shipping papers or in a separate document such as a material safety data sheet (MSDS). The information must include preliminary first aid measures and emergency procedures to be carried out in the event of an incident or fire involving the cargo.

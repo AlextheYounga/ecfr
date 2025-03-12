@@ -1,0 +1,153 @@
+##### § 322.5 Procedures. #####
+
+(a) The Director of Policy, or the Deputy Director of Policy, if so designated, shall provide guidance to Privacy Act Coordinators for processing requests and releasing NSA/CSS information within the confines of the NSA/CSS. If any organization or element believes a request to review a PA record should be denied, it shall advise the requester of the procedures for requesting a review of the circumstances of the case by the Director of Policy.
+
+(b) Persons Authorized Access to NSA/CSS Facilities: (1) Requests from NSA/CSS affiliates with authorized access to NSA/CSS facilities to review and/or obtain a copy of PA records in a Systems of Records for use within NSA/CSS spaces or for the inspection of an accounting of disclosures of the record shall be in writing, using the Privacy Act Information Request form. Requests shall normally be submitted directly to the Privacy Act Coordinator in the office holding the record. In the case of requests for access to records maintained in the individual's own organization, the Privacy Act Coordinator for that organization shall direct the requester to the person or office holding the record. A Privacy Act Information Request form shall be submitted to the holder of each record desired. The Privacy Act Coordinator shall assist supervisors and record handlers in processing the request and shall maintain an accounting for reporting purposes. Individuals shall not be permitted to review or obtain an internal copy of IG, OGC and/or certain security records. The Personnel File, which was available upon request prior to the implementation of the Privacy Act, shall continue to be available for review without citing the Privacy Act or using the Privacy Act Information Request form.
+
+(2) Requests to obtain a copy of PA records for use outside of NSA/CSS shall be forwarded to the Director of Policy, FOIA/PA Services (DC321) using the Privacy Act Information Request form or in any written format and must contain the individual's full name, signature, social security number, description of the records sought and a work or home phone number. Requests shall be processed pursuant to the Privacy Act and the FOIA.
+
+(c) Persons Not Authorized Access to NSA/CSS Facilities: (1) Requests from individuals who do not have authorized access to NSA/CSS facilities must be in writing, contain the individual's full name, current address, signature, social security number and a description of the records sought. The mailing address for the FOIA/PA office is: National Security Agency, ATTN: FOIA/PA Services (DC321), 9800 Savage Road, Suite 6248, Ft. George G. Meade, MD 20755-6248.
+
+(2) FOIA/PA Services may, at its discretion, require an unsworn declaration or a notarized statement of identity. In accordance with 28 U.S.C. 1746, the language for an unsworn declaration is as follows:
+
+(i) If executed without the United States: ‘I declare (or certify, verify, or state) under penalty of perjury under the laws of the United States of America that the foregoing is true and correct. Executed on (date). (Signature)’.
+
+(ii) If executed within the United States, its territories, possessions, or commonwealths: ‘I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on (date). (Signature)’.
+
+(d) General provisions regarding access and processing procedures: (1) The requester need not state a reason or otherwise justify the request. If the requester wishes to be accompanied by another person, the individual may be required to furnish a statement authorizing discussion or disclosure of the records in the presence of the other individual. If the requester wishes another person to obtain the records on his/her behalf, the requester shall provide a written statement appointing that person as his/her representative, authorizing that individual access to the records and affirming that such access shall not constitute an invasion of the requester's privacy or a violation of his/her rights under the Privacy Act. In addition, requests from parents or legal guardians for records on a minor may be accepted providing the individual is acting on behalf of the minor and evidence is provided to support his or her parentage (birth certificate showing requester as a parent) or guardianship (a court order establishing guardianship).
+
+(2) The Director of Policy and FOIA/PA Services (DC321) shall endeavor to respond to a direct request to the NSA/CSS within 20 working days of receipt. In the event the FOIA/PA Services cannot respond within 20 working days due to unusual circumstances, the requester shall be advised of the reason for the delay and negotiate a completion date with the requester. Direct requests to NSA/CSS shall be processed in the order in which they are received. Requests referred to NSA/CSS by other government agencies shall be placed in the processing queue according to the date the requester's letter was received by the referring agency, if that date is known. If it is not known, it shall be placed in the appropriate processing queue according to the date of the requester's letter.
+
+(3) FOIA/PA requests for copies of records shall be worked in chronological order within six queues (“super easy,” “sensitive/personal easy,” “non-personal easy,” “sensitive/personal voluminous,” “non-personal complex,” and “expedite”). The processing queues are defined as follows:
+
+(i) *Super Easy Queue* - The super easy queue is for requests for which no responsive records are located or for material that requires minimal specialized review.
+
+(ii) *Sensitive/Personal Easy Queue* - The sensitive/personal easy queue contains FOIA and PA records that contain sensitive personal information, typically relating to the requester or requester's relatives, and that do not require a lengthy review. DC321 staff members who specialize in handling sensitive personal information process these requests.
+
+(iii) *Non-Personal Easy Queue* - The non-personal easy queue contains all other types of NSA records not relating to the requester, that often contain classified information that may require coordinated review among NSA components, and that do not require a lengthy review. DC321 staff members who specialize in complex classification issues process these requests.
+
+(iv) *Sensitive/Personal Voluminous Queue* - The sensitive/personal voluminous queue contains FOIA and PA records that contain sensitive personal information, typically relating to the requester or requester's relatives, and that require a lengthy review because of the high volume of responsive records. These records may also contain classified information that may require coordinated review in several NSA components. DC321 staff members who specialize in handling sensitive personal information process these requests.
+
+(v) *Non-Personal Complex Queue* - The non-personal complex queue contains FOIA records not relating to the requester that require a lengthy review because of the high volume and/or complexity of responsive records. These records contain classified, often technical information that requires coordinated review among many specialized NSA components, as well as consultation with other government agencies. DC321 staff members who specialize in complex classification issues process these requests.
+
+(vi) *Expedite Queue* - Cases meeting the criteria for expeditious processing as defined in this section will be processed in turn within that queue by the appropriate processing team.
+
+(4) Requesters shall be informed immediately if no responsive records are located. Following a search for and retrieval of responsive material, the initial processing team shall determine which queue in which to place the material, based on the criteria above, and shall so advise the requester. If the material requires minimal specialized review (super easy), the initial processing team shall review, redact if required, and provide the non-exempt responsive material to the requester immediately. The appropriate specialized processing team on a first in, first out basis within its queue shall process all other material. These procedures are followed so that a requester will not be required to wait a long period of time to learn that the Agency has no records responsive to his request or to obtain records that require minimal review.
+
+(5) Requests for expeditious processing must include justification and a statement certifying that the information is true and correct to the best of the requester's knowledge. Expedited processing shall be granted if the requester demonstrates a compelling need for the information. Compelling need is defined as the failure to obtain the records on an expedited basis could reasonably be expected to pose an imminent threat to the life or physical safety of an individual or there would be an imminent loss of substantial due process rights.
+
+(6) A request for expedited handling shall be responded to within 10 calendar days of receipt. The requester shall be notified whether his/her request meets the criteria for expedited processing within that time frame. If a request for expedited processing has been granted, a substantive response shall be provided within 20 working days of the date of the expedited decision. If a substantive response cannot be provided within 20 working days, a response shall be provided as soon as practicable and the chief of FOIA/PA Services shall attempt to negotiate an acceptable completion date with the requester, taking into account the number of cases preceding it in the expedite queue and the volume or complexity of the responsive material.
+
+(7) Upon receipt of a request, FOIA/PA Services (DC321) shall review the request and direct the appropriate PA coordinator to search for responsive records. If the search locates the requested records, the PA coordinator shall furnish copies of the responsive documents to the FOIA/PA office that in turn shall make a determination as to the releasability of the records. All releasable records, or portions thereof, shall be provided to the requester. However, if information is exempt pursuant to the FOIA and PA, the requester shall be advised of the statutory basis for the denial of the information and the procedure for filing an appeal. In the instance where no responsive records are located, the requester shall be advised of the negative results and his/her right to appeal what could be considered an adverse determination. NSA does not have the authority to release another agency's information; therefore, information originated by another government agency shall be referred to the originating agency for its direct response to the requester or for review and return to NSA for response to the requester. The requester shall be advised that a referral has been made, except when notification would reveal exempt information.
+
+(8) The requester shall not be charged a fee for the making of a comprehensible copy to satisfy the request for a copy of the documents. The requester may be charged for duplicate copies of the documents. However, if the direct cost of the duplicate copy is less than $25.00, the fee shall be waived. Duplicating fees shall be assessed according to the following schedule: Office Copy $.15 per page, Microfiche $.25 per page, and Printed Material $.02 per page. All payments shall be made by certified check or money order made payable to the Treasurer of the United States.
+
+(9) A medical/psychological record shall normally be disclosed to the individual to whom it pertains. However, and consistent with 5 U.S.C. 552a(f)(3) of the Privacy Act, if in the judgment of an authorized Agency physician, the release of such information could have an adverse effect on the individual, the individual shall be advised that it is in his best interest to receive the records through a physician of the requester's choice or, in the case of psychological records, through a licensed Psychiatrist or licensed Clinical Psychologist of the requester's choice. NSA/CSS may require certification that the individual is licensed to practice the appropriate specialty. Although the requester shall pay any fees charged by the physician or psychologist, NSA/CSS encourages individuals to take advantage of receiving their records through this means. If, however, the individual wishes to waive receiving the records through this means, the records shall be sent directly to the individual.
+
+(10) Recipients of requests from NSA/CSS employees and affiliates for access to records within the confines of the NSA/CSS campus shall acknowledge the request within 10 working days of receipt, and access should be provided within 20 working days. If, for good cause, access cannot be provided within that time, the requester shall be advised in writing as to the reason and shall be given a date by which it is expected that access can be provided. If an office denies a request for access to a record, or any portion thereof, it shall notify the requester of its refusal and the reasons for it and shall advise the individual of the procedures for requesting a review of the circumstances by the Director of Policy. If the Director of Policy denies a request for access to a record or any portion thereof, the requester shall be notified of the refusal and the reasons the information was denied. The Director of Policy shall also advise the requester of the procedure for appealing to the NSA/CSS Privacy Act Appeal Authority. (*See* paragraph (e) of this section).
+
+(11) Although classified portions of NSA/CSS records are exempt from disclosure pursuant to exemption (k)(1) of the Privacy Act and exemption (b)(1) of the FOIA, NSA, in its sole discretion, may choose to provide an NSA affiliate access to the classified portions of records about the affiliate if the affiliate possesses the requisite security clearance, special access approvals, and appropriate need-to-know for the classified information at issue. Classified records may only be accessed by fully cleared personnel in NSA/CSS spaces. Disclosure of classified records under this provision shall not operate as a waiver of PA exemption (k)(1), FOIA exemption (b)(1), or of any other exemption or privilege that would otherwise authorize the Agency to withhold the classified records from disclosure. NSA's determination regarding an affiliate's need-to-know is not subject to appeal under this or any other authority. All copies of classified records made available to an NSA affiliate under the procedures of this Part shall carry the following statement: “This classified material is provided to you under the provisions of the Privacy Act of 1974. Furnishing you this material does not relieve you of your obligations under the laws of the United States (*See,* e.g., section 798 of Title 18, U.S. Code) to protect classified information. You may retain this material under proper protection as specified in the NSA/CSS Classification Manual; you may not remove it from NSA/CSS facilities.”
+
+(12) The procedures described in this part do not entitle an individual to have access to any information compiled in reasonable anticipation of a civil action or proceeding, nor do they require that a record be created.
+
+(13) Requesting or obtaining access to records under false pretenses is a violation of the Privacy Act and is subject to criminal penalties.
+
+(e) Appeal of Denial of an Adverse Determination: (1) Any individual advised of an adverse determination shall be notified of the right to appeal the initial decision within 60 calendar days of the date of the response letter and that the appeal must be addressed to the NSA/CSS FOIA/PA Appeal Authority, National Security Agency, 9800 Savage Road, Suite 6248, Fort George G. Meade, MD 20755-6248. The following actions are considered adverse determinations:
+
+(i) Denial of records or portions of records.
+
+(ii) Inability of NSA/CSS to locate responsive records.
+
+(iii) Denial of a request for expeditious treatment.
+
+(iv) Non-agreement regarding completion date of request.
+
+(v) The appeal shall reference the initial denial of access and shall contain, in sufficient detail and particularity, the grounds upon which the requester believes the appeal should be granted.
+
+(2) The GC or his/her designee shall process appeals and make a recommendation to the Appeal Authority:
+
+(i) Upon receipt of an appeal regarding the denial of information or the inability of the Agency to locate records on an individual, the GC or his/her designee shall provide a legal review of the denial and/or the adequacy of the search for responsive material, and make other recommendations as appropriate.
+
+(ii) If the Appeal Authority determines that additional information may be released, the information shall be made available to the requester within 20 working days from receipt of the appeal. The conditions for responding to an appeal for which expedited treatment is sought by the requester are the same as those for expedited treatment on the initial processing of a request.
+
+(iii) If the Appeal Authority determines that the denial was proper, the requester must be advised 20 days after receipt of the appeal that the appeal is denied. The requester likewise shall be advised of the basis for the denial and the provisions for judicial review of the Agency's appellate determination.
+
+(iv) If a new search for records is conducted and produces additional records, the additional material shall be forwarded to the Director of Policy, as the initial denial authority (IDA), for review. Following review, the Director of Policy shall return the material to the GC with its recommendation for release or withholding. The GC will provide a legal review of the material, and the Appeal Authority shall make the release determination. Upon denial or release of additional information, the Appeal Authority shall advise the requester that more material was located and that the IDA and the Appeal Authority each conducted an independent review of the documents. In the case of denial, the requester shall be advised of the basis of the denial and the right to seek judicial review of the Agency's action.
+
+(v) When a requester appeals the absence of a response to a request within the statutory time limits, the GC shall process the absence of a response as it would denial of access to records. The Appeal authority shall advise the requester of the right to seek judicial review.
+
+(vi) Appeals shall be processed using the same multi-track system as initial requests. If an appeal cannot be responded to within 20 days, the requirement to obtain an extension from the requester is the same as with initial requests. The time to respond to an appeal, however, may be extended by the number of working days (not to exceed 10) that were not used as additional time for responding to the initial request. That is, if the initial request is processed within 20 days so that the extra 10 days of processing which an agency can negotiate with the requester are not used, the response to the appeal may be delayed for that 10 days (or any unused portion of the 10 days).
+
+(f) Amendment of Records:
+
+(1) Minor factual errors may be corrected without resort to the Privacy Act or the provisions of this part, provided the requester and record holder agree to that procedure. Whenever possible, a copy of the corrected record should be provided to the requester.
+
+(2) Requests for substantive changes to include deletions, removal of records, and amendment of significant factual information, because the information is incorrect or incomplete, shall be processed under the Privacy Act and the provisions of this part. The PA amendment process is limited to correcting records that are not accurate (factually correct), relevant, timely or complete.
+
+(3) The amendment process is not intended to replace other existing NSA/CSS Agency procedures such as those for registering grievances or appealing performance appraisal ratings. Also, since the amendment process is limited to correcting factual information, it may not be used to challenge official judgments, such as performance ratings, promotion potential, and performance appraisals as well as subjective judgments made by supervisors, which reflect his/her observations and evaluations.
+
+(4) Requests for amendments must be in writing, include the individual's name, signature, a copy of the record under dispute or sufficient identifying particulars to permit timely retrieval of the affected record, a description of the information under dispute and evidence to support the amendment request. The mailing address for the FOIA/PA office is National Security Agency, ATTN: FOIA/PA Services (DC321), 9800 Savage Road, Suite 6248, Fort George G. Meade, MD 20755-6248. Individuals who have access to NSA/CSS spaces may send their request through the internal mail system to DC321.
+
+(5) FOIA/PA Services (DC321) shall acknowledge the amendment request within 10 working days of receipt and respond within 30 working days. The organization/individual who originated the information under dispute shall be given 10 working days to comment. On receipt of a response, FOIA/PA Services (DC321) shall review all documentation and determine if the amendment request shall be granted. If FOIA/PA Services (DC321) agrees with the request, it shall notify the requester and the office holding the record. The latter shall promptly amend the record and notify all holders and recipients of the records of the correction. If the amendment request is denied, the requester shall be advised of the reasons for the denial and the procedures for filing an appeal.
+
+(g) Appeal of Refusals To Amend Records -
+
+(1) If the Director of Policy, as the Initial Denial Authority, refuses to amend any part of a record it shall notify the requester of its refusal, the reasons for the denial and the procedures for requesting a review of the decision by the NSA/CSS Appeal Authority. The Appeal Authority shall render a final decision within 30 working days, except when circumstances necessitate an extension. If an extension is necessary, the requester shall be informed, in writing, of the reasons for the delay and of the approximate date on which the review is expected to be completed. If the NSA/CSS Appeal Authority determines that the record should be amended, the requester, FOIA/PA Services, and the office holding the record will be advised. The latter shall promptly amend the record and notify all recipients.
+
+(2) If the NSA/CSS Privacy Act Appeal Authority denies any part of the request for amendment, the requester shall be advised of the reasons for denial, his or her right to file a concise statement of reasons for disputing the information contained in the record, and his or her right to seek judicial review of the Agency's refusal to amend the record. Statements of disagreement and related notifications and summaries of the Agency's reasons for refusing to amend the record shall be processed in the manner prescribed by 32 CFR part 310.
+
+(h) Disclosures and Accounting of Disclosures.
+
+(1) No record contained in a System of Records maintained within the Department of Defense shall be disclosed by any means of communication to any person, or to any agency outside the Department of Defense, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains, unless disclosure of the record will be:
+
+(i) To those officials and employees of the Agency who have a need for the record in the performance of their duties and the use is compatible with the purpose for which the record is maintained.
+
+(ii) Required to be disclosed under the Freedom of Information Act, as amended.
+
+(iii) For a routine use as described in NSA/CSS systems of records notices. The DoD “Blanket Routine Uses” may also apply to NSA/CSS systems of records. (*See* Appendix C to 32 CFR part 310).
+
+(iv) To the Bureau of the Census for the purpose of planning or carrying out a census or survey or related activity authorized by law.
+
+(v) To a recipient who has provided the Department of Defense or the Agency with advance, adequate written assurance that:
+
+(A) The record will be used solely as a statistical research or reporting record;
+
+(B) The record is to be transferred in a form that is not individually identifiable (*i.e.,* the identity of the individual cannot be determined by combining various statistical records); and
+
+(C) The record will not be used to make any decisions about the rights, benefits, or entitlements of an individual.
+
+(vi) To the National Archives and Records Administration as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, or for evaluation by the Archivist of the United States or the designee of the Archivist to determine whether the record has such value. A record transferred to a Federal records center for safekeeping or storage does not fall within this category since Federal records center personnel act on behalf of the Department of Defense in this instance and the records remain under the control of the NSA/CSS. No disclosure accounting record of the transfer of records to Federal records center need be maintained.
+
+(vii) To another agency or to an instrumentality of any governmental jurisdiction within or under the control of the United States for a civil or criminal law enforcement activity if the activity is authorized by law, and if the head of the agency or instrumentality has made a written request to the NSA/CSS specifying the particular portion and the law enforcement activity for which the record is sought. Blanket requests for all records pertaining to an individual will not be accepted. A record may also be disclosed to a law enforcement agency at the initiative of the NSA/CSS when criminal conduct is suspected, provided that such disclosure has been established in advance as a “routine use.”
+
+(viii) To a person pursuant to a showing of compelling circumstances affecting the health or safety of an individual if upon such disclosure notification is transmitted to the last known address of the individual to whom the record pertains.
+
+(ix) To Congress, or, to the extent of matter within its jurisdiction, any committee or subcommittee thereof, or any joint committee of Congress or subcommittee of any such joint committee. This does not authorize the disclosure of any record subject to this part to members of Congress acting in their individual capacities or on behalf of their constituents, unless the individual consents.
+
+(x) To the Comptroller General, or any of his authorized representatives, in the course of the performance of the duties of the General Accounting Office.
+
+(xi) Pursuant to an order of a court of competent jurisdiction.
+
+(A) When a record is disclosed under compulsory legal process and when the issuance of that order or subpoena is made public by the court that issued it, efforts shall be made to notify the individual to whom the record pertains. This may be accomplished by notifying the individual by mail at his most recent address as contained in the Component's records.
+
+(B) Upon being served with an order to disclose a record, the General Counsel shall endeavor to determine whether the issuance of the order is a matter of public record and, if it is not, seek to be advised when it becomes public. An accounting of the disclosure shall be made at the time the NSA/CSS complies with the order or subpoena.
+
+(xii) To a consumer reporting agency in accordance with section 3711(f) of Title 31.
+
+(2) Except for disclosures made in accordance with paragraphs (h)(1)(i) and (ii) of this section, an accurate accounting of disclosures shall be kept by the record holder in consultation with the Privacy Act Coordinator.
+
+(i) The accounting shall include the date, nature, and purpose of each disclosure of a record to any person or to another agency; and the name and address of the person or agency to whom the disclosure is made. There need not be a notation on a single document of every disclosure of a particular record, provided the record holder can construct from its System the required accounting information:
+
+(A) When required by the individual;
+
+(B) When necessary to inform previous recipients of any amended records, or
+
+(C) When providing a cross reference to the justification or basis upon which the disclosure was made (including any written documentation as required in the case of the release of records for statistical or law enforcement purposes).
+
+(ii) The accounting shall be retained for at least five years after the last disclosure, or for the life of the record, whichever is longer. No record of the disclosure of this accounting need be maintained.
+
+(iii) Except for disclosures made under paragraph (h)(1)(vii) of this section, the accounting of disclosures shall be made available to the individual to whom the record pertains. The individual shall submit a Privacy Act Information Request form to the Privacy Act Coordinator in the office keeping the accounting of disclosures.
+
+(3) Disclosures made under circumstances not delineated in paragraphs (h)(1)(i) through (xii) of this section shall only be made after written permission of the individual involved has been obtained. Written permission shall be recorded on or appended to the document transmitting the personal information to the other agency, in which case no separate accounting of the disclosure need be made. Written permission is required in each separate case; *i.e.,* once obtained, written permission for one case does not constitute blanket permission for other disclosures.
+
+(4) An individual's name and address may not be sold or rented unless such action is specifically authorized by law. This provision shall not be construed to require withholding of names and addresses otherwise permitted to be made public. Lists or compilations of names and home addresses, or single home addresses will not be disclosed, without the consent of the individual involved, to the public, including, but not limited to individual Congressmen, creditors, and commercial and financial institutions. Requests for home addresses may be referred to the last known address of the individual for reply at his discretion and the requester will be notified accordingly.

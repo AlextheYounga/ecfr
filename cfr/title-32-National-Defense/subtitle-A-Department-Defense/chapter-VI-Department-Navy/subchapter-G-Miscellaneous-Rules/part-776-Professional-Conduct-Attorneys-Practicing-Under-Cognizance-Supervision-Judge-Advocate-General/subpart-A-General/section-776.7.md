@@ -1,0 +1,3 @@
+##### § 776.7 Reporting requirements. #####
+
+Covered USG attorneys shall report promptly to the Rules Counsel (see § 776.9 of this part) any disciplinary or administrative action, including initiation of investigation, by any licensing authority or Federal, State, or local bar, possessing the power to revoke, suspend, or in any way limit the authority to practice law in that jurisdiction, upon himself, herself, or another covered attorney. Failure to report such discipline or administrative action may subject the covered USG attorney to discipline administered per this part. See § 776.71 of this part.

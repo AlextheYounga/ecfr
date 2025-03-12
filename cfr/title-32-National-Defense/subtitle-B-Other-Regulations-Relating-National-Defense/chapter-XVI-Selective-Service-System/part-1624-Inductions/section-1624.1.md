@@ -1,0 +1,5 @@
+##### § 1624.1 Random selection procedures for induction. #####
+
+(a) The Director of Selective Service shall from time to time establish a random selection sequence for induction by a drawing to be conducted in the place and on a date the Director shall fix. The random selection method shall use 365 days, or when appropriate, 366 days to represent the birthdays (month and day only) of all registrants who, during the specified calendar year(s) attain their 18th year of birth. The drawing, commencing with the first day selected, and continuing until all 365 days or, when appropriate 366 days are drawn, shall be accomplished impartially. The random sequence number thus determined for any registrant shall apply to him so long as he remains subject to induction for military training and service by random selection.
+
+(b) The date of birth of the registrant that appears on his Selective Service Registration Record on the day before the lottery is conducted to establish his random selection sequence will be conclusive as to his date of birth in all matters pertaining to his relations with the Selective Service System.

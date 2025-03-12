@@ -1,0 +1,3 @@
+##### § 724.115 Next of kin. #####
+
+The person or persons in the highest category of priority as determined by the following list (categories appear in descending order of priority): Surviving legal spouse; children (whether by current or prior marriage) age 18 years or older in descending precedence by age; father or mother, unless by court order custody has been vested in another (adoptive parent takes precedence over natural parent); siblings (whole or half) age 18 years or older in descending precedence by age; grandfather or grandmother; any other relative (precedence to be determined in accordance with the civil law of descent of the deceased former member's state of domicile at time of death).

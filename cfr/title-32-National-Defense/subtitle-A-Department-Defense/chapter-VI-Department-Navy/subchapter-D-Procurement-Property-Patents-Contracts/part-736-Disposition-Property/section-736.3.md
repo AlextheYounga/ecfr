@@ -1,0 +1,11 @@
+##### § 736.3 Sale of personal property. #####
+
+(a) The sale of personal property determined to be surplus or foreign excess or for exchange purposes is authorized by the Federal Property Act and regulations of the Administrator of General Services (see § 736.1(a)). Certain vessels stricken from the Naval Vessel Register may be sold under the act of August 19, 1956, (70A Stat. 451, 10 U.S.C. 7305).
+
+(b) Sales are by sealed bid, auction, spot bid or, under limited conditions prescribed by law, negotiated method. A deposit, generally 20 percent of the amount bid, is normally required of each bidder. Awards are usually made to the highest acceptable bidder. Normally property may not be removed from Government control until full payment is made. Arrangements must be made by the successful bidder to remove the property within the time limit prescribed in the invitation to bid or sales contract. The Government reserves the right to withdraw any property from sale when in the best interest of the Government.
+
+(1) The Department of Defense has a contact point for any person interested in purchasing surplus Department of Defense personal property within the United States. The contact point is the Defense Surplus Bidders Control Office, Defense Reutilization and Marketing Office, Federal Center Building, Battle Creek, Michigan. This office maintains a single bidders list for all military departments. The list is arranged to show each person's buying interests, both geographically and with respect to categories of property. The categories of property (together with an application blank) are listed in a pamphlet “How to Buy Surplus Personal Property From The Department of Defense,” prepared by the Defense Reutilization and Marketing Office, Defense Logistics Agency, Battle Creek, Michigan.
+
+(2) Retail sales at fixed prices based on the current market value are conducted by certain Defense property disposal offices.
+
+[39 FR 18442, May 28, 1974, as amended at 65 FR 53590, Sept. 5, 2000]

@@ -1,0 +1,3 @@
+##### § 1105.14 Audit and examination. #####
+
+The Commission and the Comptroller General of the United States, or their duly authorized representatives, shall have access for the purpose of audit and examination to any pertinent books, documents, papers and records of a participant receiving compensation under this section. The Commission may establish additional guidelines for accounting, recordkeeping, and other administrative procedures with which participants must comply as a condition of receiving a contribution.

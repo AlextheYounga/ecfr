@@ -1,0 +1,3 @@
+##### § 751.4 Construction. #####
+
+The provisions of this section and the Personnel Claims Act provide limited compensation to service members and civilian employees of the DON for loss and damage to personal property incurred incident to service. This limited compensation is not a substitute for private insurance. Although not every loss may be compensated under the Personnel Claims Act, its provisions shall be broadly construed to provide reasonable compensation on meritorious claims. Adjudications must be based on common sense and the reasoned judgment of the claims examiner giving the benefit of realistic doubt to the claimant.

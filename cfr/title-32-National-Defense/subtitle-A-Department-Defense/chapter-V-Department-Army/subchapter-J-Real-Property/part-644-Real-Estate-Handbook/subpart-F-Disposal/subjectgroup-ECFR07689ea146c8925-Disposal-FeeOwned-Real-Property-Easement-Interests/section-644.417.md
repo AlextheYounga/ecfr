@@ -1,0 +1,3 @@
+##### § 644.417 For MCA family housing. #####
+
+The Act of 1 September 1954, Pub. L. 765, 83rd Congress (68 Stat. 1119), as amended by section 415 of Pub. L. 968, 84th Congress, Act of 3 August 1956 (70 Stat. 1018) authorizes the acquisition of real estate by donation, purchase, exchange of Government-owned lands, or otherwise, for “Military Construction-Army Family Housing at Military Installations and Facilities.”

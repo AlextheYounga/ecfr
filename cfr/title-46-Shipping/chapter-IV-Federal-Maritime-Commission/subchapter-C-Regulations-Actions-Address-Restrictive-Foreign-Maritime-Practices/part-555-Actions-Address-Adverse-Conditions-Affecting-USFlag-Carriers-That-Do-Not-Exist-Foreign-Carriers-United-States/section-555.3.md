@@ -1,0 +1,3 @@
+##### § 555.3 Scope. #####
+
+The Commission shall take such action under this part as it considers necessary and appropriate when it determines that any laws, rules, regulations, policies, or practices of foreign governments, or any practices of foreign carriers or other persons providing maritime or maritime-related services in a foreign country, result in conditions that adversely affect the operations of United States carriers in United States oceanborne trade, and do not exist for foreign carriers of that country in the United States under the laws of the United States or as a result of acts of United States carriers or other persons providing maritime or maritime-related services in the United States.

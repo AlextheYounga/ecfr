@@ -1,0 +1,3 @@
+##### § 502.282 Initiation of investigations. #####
+
+Commission inquiries and nonadjudicatory investigations are originated by the Commission upon its own motion when in its discretion the Commission determines that information is required for the purposes of rulemaking or is necessary or helpful in the determination of its policies or the carrying out of its duties, including whether to institute formal proceedings directed toward determining whether any of the laws which the Commission administers have been violated. [Rule 282.]

@@ -1,0 +1,3 @@
+##### § 194.15-19 Electrical. #####
+
+(a) All electrical equipment located within 18 inches of the deck of the chemical laboratory shall be in accordance with the applicable requirements of Subchapter J (Electrical Engineering) of this chapter for Class I, Division 2, hazardous locations. Electrical equipment located 18 inches or more above the deck may be of a type suitable for wet or dry locations in accordance with Subchapter J.

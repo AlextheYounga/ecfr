@@ -1,0 +1,3 @@
+##### § 148.2 Classified programs. #####
+
+Once a facility is authorized, approved, certified, or accredited, all U.S. Government organizations desiring to conduct classified programs at the facility at the same security level shall accept the authorization, approval, certification, or accreditation without change, enhancements, or upgrades. Executive Order, Safeguarding Directives, National Industrial Security Program Operating Manual (NISPOM), the NISPOM Supplement, the Director of Central Intelligence Directives, interagency agreements, successor documents, or other mutually agreed upon methods shall be the basis for such acceptance.

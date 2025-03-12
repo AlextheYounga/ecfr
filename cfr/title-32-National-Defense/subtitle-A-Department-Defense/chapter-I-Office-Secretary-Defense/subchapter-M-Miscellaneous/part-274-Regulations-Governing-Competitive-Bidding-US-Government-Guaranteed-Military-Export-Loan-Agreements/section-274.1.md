@@ -1,0 +1,3 @@
+##### § 274.1 Purpose. #####
+
+The purpose of this memorandum is to prescribe regulations under which the Secretary of Defense or his designee may, from time to time, by public notice, offer financial institutions the opportunity to bid on the interest rates for the subject agreements. The bids made will be subject to the terms, conditions, and procedures herein set forth, except as they may be supplemented in the public notice or notices issued by the Secretary of Defense or his designee in connection with particular offerings.

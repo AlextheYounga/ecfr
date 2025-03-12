@@ -1,0 +1,5 @@
+##### § 1021.12 Environmental assessment. #####
+
+(a) An environmental assessment shall first briefly describe the proposed action and realistic alternative actions. Next, it shall identify all effects on the environment that can be expected to result from the proposed and alternative actions. After each anticipated effect is identified, it shall be described as fully as can be done with available data in order to show its magnitude and significance. Sources of information for assessment include CPSC staff studies and research reports, information gathered at hearings or meetings held to obtain the views of the public on the proposed action, and other information received from members of the public and from governmental entities.
+
+(b) The assessment shall identify and describe any methods or approaches which would avoid or minimize adverse effects on the environment.

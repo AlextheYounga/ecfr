@@ -1,0 +1,13 @@
+##### § 634.19 Registration policy. #####
+
+(a) Motor vehicles will be registered according to guidance in this part and in policies of each Service and DLA. A person who lives or works on an Army, DLA, Air Force, Navy, or Marine Corps installation, or Army National Guard of the U.S. (ARNGUS) facility, or often uses the facilities is required to register his or her vehicle. Also, individuals who access the installation for regular activities such as use of medical facilities and regular recurring activities on the installation should register their vehicles according to a standard operating procedure established by the installation commander. The person need not own the vehicle to register it, but must have a lease agreement, power of attorney, or notarized statement from the owner of the vehicle specifying the inclusive dates for which permission to use the vehicle has been granted.
+
+(b) Vehicles intended for construction and material handling, or used solely off the road, are usually not registered as motor vehicles. Installation commanders may require registration of off-road vehicles and bicycles under a separate local system.
+
+(c) Commanders can grant limited temporary registration for up to 30 days, pending permanent registration, or in other circumstances for longer terms.
+
+(d) Except for reasons of security, all installations and activities of the Services and DLA within the United States and its territories with a vehicle registration system will use and honor the DD Form 2220, (Department of Defense Registration Decal). Registration in overseas commands may be modified in accordance with international agreements or military necessity.
+
+(e) Army Installation commanders will establish local visitor identification for individuals who will be on installation for less than 30 days. The local policy will provide for use of temporary passes that establish a start and end date for which the pass is valid. Army installation commanders must refer to AR 190-16 Chapter 2 for guidance concerning installation access control. (Air Force, see AFI 31-204). Other Armed Services and DLA may develop and issue visitor passes locally.
+
+(f) The conditions in § 634.20 must be met to operate a POV on an Army and DLA Installation. Other Armed Services that do not require registration will enforce § 634.20 through traffic enforcement actions. Additionally, failure to comply with § 634.20 may result in administrative suspension or revocation of driving privileges.

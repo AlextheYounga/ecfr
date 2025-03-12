@@ -1,0 +1,5 @@
+##### § 1662.4 Consideration of requests for information. #####
+
+(a) Upon receipt of any request for information or records, the records manager will determine within 10 days (excepting Saturdays, Sundays, and legal federal holidays) whether it is appropriate to grant the request and will immediately provide written notification to the person making the request. If the request is denied, the written notification to the person making the request will include the reasons therefor and a notice that an appeal may be lodged with the Director of Selective Service.
+
+(b) Appeals shall be in writing and addressed to the Director of Selective Service at the address specified in § 1662.2 of this part. The appeal shall include a statement explaining the basis for the appeal. Determinations of appeals will be in writing and signed by the Director, or his designee, within 20 days (excepting Saturdays, Sundays, and legal federal holidays). If, on appeal, the denial is in whole or in part upheld, the written determination will include the reasons therefor and also contain a notification of the provisions for judicial review.

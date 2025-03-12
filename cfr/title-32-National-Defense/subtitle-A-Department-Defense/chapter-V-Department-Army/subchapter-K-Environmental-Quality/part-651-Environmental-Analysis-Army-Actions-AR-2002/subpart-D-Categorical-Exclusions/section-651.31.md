@@ -1,0 +1,3 @@
+##### § 651.31 Modification of the CX list. #####
+
+The Army list of CXs is subject to continual review and modification, in consultation with CEQ. Additional modifications can be implemented through submission, through channels, to ASA (I&E) for consideration and consultation. Subordinate Army headquarters may not modify the CX list through supplements to this part. Upon approval, proposed modifications to the list of CXs will be published in the Federal Register, providing an opportunity for public review and comment.

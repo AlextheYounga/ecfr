@@ -1,0 +1,5 @@
+##### § 901.17 Foreign students category. #####
+
+(a) The Academy is authorized to provide instruction to as many as 40 foreign persons at any one time. Foreign citizens must apply to the government of their own country. Coordination with the U.S. Embassy is necessary to ensure all admission and appointment requirements are met. HQ USAF/DPPA effects necessary consultation before nomination invitations are forwarded to each country.
+
+(b) The application must contain complete particulars about the applicant's background and must be submitted as early as possible. Nominations from this category must be received by the Academy by December 31 before their desired summer admission. Applicants in these categories must meet the eligibility and admissions requirements established for all Academy candidates, except the requirement to be a U.S. citizen, and they must be able to read, write, and speak English proficiently.

@@ -1,0 +1,7 @@
+##### § 67.13 Incorporation by reference. #####
+
+(a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in paragraph (b) of this section, the Coast Guard must publish notice of change in the Federal Register and the material must be available to the public. All approved material may be inspected at the U.S. Coast Guard, National Vessel Documentation Center, 792 T.J. Jackson Drive, Falling Waters, WV 25419 and is available from the source indicated in paragraph (b) of this section or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(b) The material approved for incorporation by reference in this part and the section affected is as follows:
+
+U.S. Department of Commerce, National Technical Information Service, Springfield, VA 22181Federal Information Processing Standards Publication 55DC, Guideline: Codes For Named Populated Places, Primary County Divisions, And Other Locational Entities of the United States and Outlying Areas (1987) - 67.119[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993, as amended by CGD 95-070, 60 FR 40241, Aug. 7, 1995; USCG-2004-18884, 69 FR 58346, Sept. 30, 2004]

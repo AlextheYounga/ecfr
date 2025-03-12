@@ -1,0 +1,3 @@
+##### § 644.495 Donation to a public body. #####
+
+A public body, as defined by GSA for this purpose, means any State, territory or possession of the United States, any political subdivision thereof, the District of Columbia, any agency or instrumentality of any of the foregoing, or any agency of the Federal Government. Property as to which findings of fact have been made, may be donated to a public body.

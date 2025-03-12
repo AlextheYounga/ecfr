@@ -1,0 +1,5 @@
+##### § 701.2 Navy FOIA website/FOIA handbook. #####
+
+(a) The Navy FOIA website (*http://www.ogc.secnav.hq.navy.mil/foia/index.html*) is an excellent resource for requesters and FOIA coordinators. It provides connectivity to the Navy's official website, to other FOIA and non/FOIA websites, and to the Navy's electronic reading rooms.
+
+(b) FOIA requesters are encouraged to visit the Navy FOIA website prior to filing a request. It features a FOIA Handbook which provides: guidance on how and where to submit requests; what's releasable/what's not; addresses for frequently requested information; time limits and addresses for filing appeals, etc. FOIA requesters may also use the electronic FOIA request form on the website to seek access to records originated by the Secretary of the Navy (SECNAV) or the Chief of Naval Operations (CNO).

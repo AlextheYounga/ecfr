@@ -1,0 +1,3 @@
+##### § 48.503 Claims for annuity payments. #####
+
+Upon official notification of the death of a retired member who has elected under the Plan, the department concerned shall forward to the eligible surviving beneficiaries the necessary information and forms (DD Form 768. Application for Annuity Under Retired Serviceman's Family Protection Plan) for making application for annuity payments. Such information shall include the place to which the application should be forwarded and to which questions regarding annuity payments should be addressed.

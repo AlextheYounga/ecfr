@@ -1,0 +1,3 @@
+##### § 116.340 Alternate design considerations. #####
+
+The Commanding Officer, Marine Safety Center, may approve the structure of a vessel of novel design, unusual form, or special materials, which does not meet the requirements of § 116.300, if it is shown by systematic analysis based on engineering principles that the vessel structure provides adequate safety and strength. An owner seeking approval of an alternate design shall submit detailed plans, material component specifications, and design criteria, including the expected operating environment, resulting loads on the vessel, and design limitations for such a vessel, to the Marine Safety Center.

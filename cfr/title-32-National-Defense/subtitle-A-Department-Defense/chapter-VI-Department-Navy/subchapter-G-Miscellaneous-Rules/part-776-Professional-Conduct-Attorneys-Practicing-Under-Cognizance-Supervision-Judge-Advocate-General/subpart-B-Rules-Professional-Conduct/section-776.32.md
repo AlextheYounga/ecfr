@@ -1,0 +1,23 @@
+##### § 776.32 Department of the Navy as client. #####
+
+(a) Except when representing an individual client pursuant to paragraph (f) of this section, a covered USG attorney represents the DoN (or the Executive agency to which assigned) acting through its authorized officials. These officials include the heads of organizational elements within the naval service, such as the commanders of fleets, divisions, ships and other heads of activities. When a covered USG attorney is assigned to such an organizational element and designated to provide legal services to the head of the organization, an attorney-client relationship exists between the covered attorney and the DoN as represented by the head of the organization as to matters within the scope of the official business of the organization. The head of the organization may not invoke the attorney-client privilege or the rule of confidentiality for the head of the organization's own benefit but may invoke either for the benefit of the DoN. In invoking either the attorney-client privilege or attorney-client confidentiality on behalf of the DoN, the head of the organization is subject to being overruled by higher authority.
+
+(b) If a covered USG attorney knows that an officer, employee, or other member associated with the organizational client is engaged in action, intends to act or refuses to act in a matter related to the representation that is either adverse to the legal interests or obligations of the DoN or a violation of law that reasonably might be imputed to the DoN, the covered USG attorney shall proceed as is reasonably necessary in the best interest of the naval service. In determining how to proceed, the covered USG attorney shall give due consideration to the seriousness of the violation and its consequences, the scope and nature of the covered USG attorney's representation, the responsibility in the naval service and the apparent motivation of the person involved, the policies of the naval service concerning such matters, and any other relevant considerations. Any measures taken shall be designed to minimize prejudice to the interests of the naval service and the risk of revealing information relating to the representation to persons outside the service. Such measures shall include:
+
+(1) Asking for reconsideration of the matter by the acting official;
+
+(2) Advising that a separate legal opinion on the matter be sought for presentation to appropriate authority in the naval service;
+
+(3) Referring the matter to, or seeking guidance from, higher authority in the chain of command including, if warranted by the seriousness of the matter, referral to the supervisory attorney assigned to the staff of the acting official's next superior in the chain of command; or
+
+(4) Advising the acting official that his or her personal legal interests are at risk and that he or she should consult counsel as there may exist a conflict of interest for the covered USG attorney, and the covered USG attorney's responsibility is to the organization.
+
+(c) If, despite the covered USG attorney's efforts per paragraph (b) of this section, the highest authority that can act concerning the matter insists upon action or refuses to act, in clear violation of law, the covered USG attorney shall terminate representation with respect to the matter in question. In no event shall the attorney participate or assist in the illegal activity. In this case, a covered USG attorney shall report such termination of representation to the attorney's supervisory attorney or attorney representing the next superior in the chain of command.
+
+(d) In dealing with the officers, employees, or members of the naval service a covered USG attorney shall explain the identity of the client when it is apparent that the naval service's interests are adverse to those of the officer, employee, or member.
+
+(e) A covered USG attorney representing the naval service may also represent any of its officers, employees, or members, subject to the provisions of § 776.26 of this part and other applicable authority. If the DoN's consent to dual representation is required by § 776.26 of this part, the consent shall be given by an appropriate official of the DoN other than the individual who is to be represented.
+
+(f) A covered USG attorney who has been duly assigned to represent an individual who is subject to criminal or disciplinary action or administrative proceedings, or to provide legal assistance to an individual, has, for those purposes, an attorney-client relationship with that individual.
+
+(g) [Reserved]

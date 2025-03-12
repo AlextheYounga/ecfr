@@ -1,0 +1,3 @@
+##### § 700.330 The Staff Assistants. #####
+
+The Staff Assistants, as identified in § 700.310, assist the Secretary of the Navy, or one or more of the Civilian Executive Assistants, in the administration of the Navy. They supervise all functions and activities internal to their offices and assigned field activities, if any, and are responsible to the Secretary or to one of the Civilian Executive Assistants for the utilization of resources by, and the operating efficiency of, all activities under their supervision or command. Their duties are as provided by law or as assigned by the Secretary.

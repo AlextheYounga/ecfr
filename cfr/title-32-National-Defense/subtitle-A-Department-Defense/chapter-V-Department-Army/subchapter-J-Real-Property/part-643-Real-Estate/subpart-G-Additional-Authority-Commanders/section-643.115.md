@@ -1,0 +1,3 @@
+##### § 643.115 Contractors - Permission to erect structures. #####
+
+Installation commanders are authorized to permit the erection of temporary structures for use solely in connection with a Government contract for construction and related work for the period of the contract and with provision for removal and restoration of the premises upon expiration of the contract; *Provided,* That, in the interest of the United States, any structure suitable for military use may, in lieu of removal, be relinquished to and become the property of the United States. If the structure is to be used for any purpose other than the fulfillment of the contract, application will be made to the DE for such use in order that a proper real estate instrument may be processed.

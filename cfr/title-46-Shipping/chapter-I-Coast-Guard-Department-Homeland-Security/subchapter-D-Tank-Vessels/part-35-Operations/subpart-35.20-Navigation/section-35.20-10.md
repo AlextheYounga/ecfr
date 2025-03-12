@@ -1,0 +1,3 @@
+##### § 35.20-10 Steering gear test—T/ALL. #####
+
+On all tankships making voyages of more than 48 hours' duration, the entire steering gear, the whistle, the means of communication, and the signaling appliances between the bridge or pilothouse and engineroom shall be examined and tested by a licensed officer of the vessel within a period of not more than 12 hours before leaving port. All such vessels making voyages of less than 48 hours' duration or operating on lakes, bays, sounds, and rivers shall be so examined and tested at least once in every week. The fact and time of such examination and test shall be recorded in the ship's logbook.

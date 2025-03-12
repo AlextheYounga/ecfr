@@ -1,0 +1,3 @@
+##### § 116.530 Fire control plan. #####
+
+A fire control plan must be posted on the vessel in a location that is accessible and visible to all passengers. The plan must show escape routes, areas of refuge, embarkation stations, the location of fire protection/emergency equipment, compartment titles and hazard classification of accommodation and service spaces, and structural fire protection boundaries.

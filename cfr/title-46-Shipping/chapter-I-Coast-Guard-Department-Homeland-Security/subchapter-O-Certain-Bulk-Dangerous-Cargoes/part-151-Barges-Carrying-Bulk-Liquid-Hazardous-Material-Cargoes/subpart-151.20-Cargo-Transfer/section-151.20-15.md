@@ -1,0 +1,7 @@
+##### § 151.20-15 Cargo hose if carried on the barge. #####
+
+(a) Liquid and vapor line hose used for cargo transfer shall be of suitable material resistant to the action of the cargo. Hose shall be suitable for the temperatures to which it may be subjected and shall be acceptable to the Commandant.
+
+(b) Hose subject to tank pressure, or the discharge pressure of pumps or vapor compressors, shall be designed for a bursting pressure of not less than 5 times the maximum safety relief valve setting of the tank, pump, or compressor, whichever determines the maximum pressure to which the hose may be subjected in service.
+
+(c) Each new type of cargo hose, complete with end fittings, shall be prototype tested to a pressure not less than five times its specified maximum working pressure. The hose temperature during this prototype test shall duplicate the intended extreme service temperature. Thereafter, each new length of cargo hose produced shall be hydrostatically tested at ambient temperature to a pressure not less than twice its maximum working pressure nor more than two-fifths its bursting pressure. The hose shall be marked with its maximum working pressure, and if used in other than ambient temperature service, its maximum or minimum temperature.

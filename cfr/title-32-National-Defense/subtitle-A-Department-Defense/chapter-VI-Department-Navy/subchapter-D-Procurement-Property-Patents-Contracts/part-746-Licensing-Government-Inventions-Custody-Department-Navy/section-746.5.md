@@ -1,0 +1,3 @@
+##### § 746.5 Government inventions available for licensing. #####
+
+Government inventions normally will be made available for the granting of express nonexclusive or limited exclusive licenses to responsible applicants according to the factors and conditions set forth in §§ 746.6 and 746.7, subject to the applicable procedures of § 746.11. The Chief of Naval Research may remove a prior designation of availability for licensing of any patent(s) or patent application(s), provided that no outstanding licenses to that invention are in effect.

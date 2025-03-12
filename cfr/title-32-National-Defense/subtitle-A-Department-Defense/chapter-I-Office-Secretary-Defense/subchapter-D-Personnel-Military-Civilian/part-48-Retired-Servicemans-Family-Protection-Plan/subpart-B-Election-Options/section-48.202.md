@@ -1,0 +1,3 @@
+##### § 48.202 Limitation on number of annuities. #####
+
+When a member desires to provide both the annuity provided by Option 1 and Option 2, he may elect amounts that, in total, meet the limitations specified in § 48.201. The cost of each annuity, and the amount of each annuity shall be determined separately. A member may not elect the combination of Options 1 and 3 or Options 2 and 3 in any case. The combined amount of the annuities may not be more than 50 per centum nor less than 121/2 per centum of his retired pay. In no case may less than a $25 per month combined annuity be provided.

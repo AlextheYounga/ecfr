@@ -1,0 +1,3 @@
+##### § 119.715 Piping subject to more than 1,034 kPa (150 psig) in non-vital systems. #####
+
+Piping subject to more than 1034 kPa (150 psig) in a non-vital system must be designed, fabricated, and inspected in accordance with the principles of American National Standards Institute (ANSI) B 31.1 “American National Standard Code for Pressure Piping, Power Piping,” or other standard specified by the Commandant.

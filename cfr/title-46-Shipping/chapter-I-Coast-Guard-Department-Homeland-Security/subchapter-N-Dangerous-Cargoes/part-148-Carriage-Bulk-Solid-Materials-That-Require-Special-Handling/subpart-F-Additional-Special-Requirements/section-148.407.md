@@ -1,0 +1,3 @@
+##### § 148.407 Smoking. #####
+
+When Table 148.10 of this part associates a material with a reference to this section, and that material is being loaded or unloaded, smoking is prohibited anywhere on the weatherdeck of the vessel. While such a material is on board the vessel, smoking is prohibited in spaces adjacent to the cargo hold and on the vessel's deck in the vicinity of cargo hatches, ventilator outlets, and other accesses to the hold containing the material. “NO SMOKING” signs must be displayed in conspicuous locations in the areas where smoking is prohibited.

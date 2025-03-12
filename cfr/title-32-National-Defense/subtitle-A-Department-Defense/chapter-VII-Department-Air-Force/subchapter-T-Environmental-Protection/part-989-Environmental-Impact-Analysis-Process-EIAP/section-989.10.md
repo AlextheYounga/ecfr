@@ -1,0 +1,3 @@
+##### § 989.10 Tiering. #####
+
+The Air Force should use tiered (40 CFR 1502.20) environmental documents, and environmental documents prepared by other agencies, to eliminate repetitive discussions of the same issues and to focus on the issues relating to specific actions. If the Air Force adopts another Federal agency's environmental document, subsequent Air Force environmental documents may also be tiered.

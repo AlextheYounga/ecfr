@@ -1,0 +1,3 @@
+##### § 537.17 Scope for civil works claims of maritime nature. #####
+
+Under the River and Harbors Act (33 U.S.C. 408), the United States has the right to recover fines, penalties, forfeitures and other special remedies in addition to compensation for damage to civil works structures such as a lock or dam. However, claims arising under 10 U.S.C. 4804 are limited to recovery of actual damage to Corps of Engineers (COE) civil works structures.

@@ -1,0 +1,3 @@
+##### § 240.11 Wholesaler or third party performance of seller's obligations. #####
+
+A seller may contract with intermediaries, such as wholesalers, distributors, or other third parties, to perform all or part of the seller's obligations under sections 2(d) and (e). The use of intermediaries does not relieve a seller of its responsibility to comply with the law. Therefore, in contracting with an intermediary, a seller should ensure that its obligations under the law are in fact fulfilled.

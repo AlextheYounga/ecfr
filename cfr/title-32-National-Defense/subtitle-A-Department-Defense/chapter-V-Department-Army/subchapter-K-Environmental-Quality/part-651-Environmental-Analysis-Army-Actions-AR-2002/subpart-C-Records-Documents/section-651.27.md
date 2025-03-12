@@ -1,0 +1,3 @@
+##### § 651.27 Programmatic NEPA analyses. #####
+
+These analyses, in the form of an EA or EIS, are useful to examine impacts of actions that are similar in nature or broad in scope. These documents allow the “tiering” of future NEPA documentation in cases where future decisions or unknown future conditions preclude complete NEPA analyses in one step. These documents are discussed further in § 651.14(c).

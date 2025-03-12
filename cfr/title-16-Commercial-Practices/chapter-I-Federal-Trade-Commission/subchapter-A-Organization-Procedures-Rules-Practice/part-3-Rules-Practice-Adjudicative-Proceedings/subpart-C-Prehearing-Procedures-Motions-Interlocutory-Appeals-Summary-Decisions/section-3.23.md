@@ -1,0 +1,21 @@
+##### § 3.23 Interlocutory appeals. #####
+
+(a) *Appeals without a determination by the Administrative Law Judge.* (1) The Commission may, in its discretion, entertain interlocutory appeals where a ruling of the Administrative Law Judge:
+
+(i) Requires the disclosure of records of the Commission or another governmental agency or the appearance of an official or employee of the Commission or another governmental agency pursuant to § 3.36, if such appeal is based solely on a claim of privilege: *Provided*, that the Administrative Law Judge shall stay until further order of the Commission the effectiveness of any ruling, whether or not appeal is sought, that requires the disclosure of nonpublic Commission minutes, Commissioner circulations, or similar documents prepared by the Commission, an individual Commissioner, or the Office of the General Counsel;
+
+(ii) Suspends an attorney from participation in a particular proceeding pursuant to § 3.42(d); or
+
+(iii) Grants or denies an application for intervention pursuant to the provisions of § 3.14.
+
+(2) Appeal from such rulings may be sought by filing with the Commission an application for review within 3 days after notice of the Administrative Law Judge's ruling. An answer may be filed within 3 days after the application for review is filed. The Commission upon its own motion may enter an order staying compliance with a discovery demand authorized by the Administrative Law Judge pursuant to § 3.36 or placing the matter on the Commission's docket for review. Any order placing the matter on the Commission's docket for review will set forth the scope of the review and the issues which will be considered and will make provision for the filing of memoranda of law if deemed appropriate by the Commission.
+
+(b) *Other interlocutory appeals.* A party may request the Administrative Law Judge to determine that a ruling involves a controlling question of law or policy as to which there is substantial ground for difference of opinion and that an immediate appeal from the ruling may materially advance the ultimate termination of the litigation or subsequent review will be an inadequate remedy. An answer may be filed within 3 days after the request for determination is filed. The Administrative Law Judge shall issue a ruling on the request for determination within 3 days of the deadline for filing an answer. The party may file an application for review with the Commission within 1 day after notice that the Administrative Law Judge has issued the requested determination or 1 day after the deadline has passed for the Administrative Law Judge to issue a ruling on the request for determination and the Administrative Law Judge has not issued his or her ruling. An answer may be filed within 3 days after the application for review is filed.
+
+(c) The application for review shall attach the ruling from which appeal is being taken and any other portions of the record on which the moving party relies. Neither the application for review nor the answer shall exceed 2,500 words. This word count limitation includes headings, footnotes, and quotations, but does not include the cover, table of contents, table of citations or authorities, glossaries, statements with respect to oral argument, any addendums containing statutes, rules or regulations, any certificates of counsel, proposed form of order, and any attachment required by § 3.45(e). The Commission may order additional briefing on the application.
+
+(d) *Ruling on application for review.* Within 3 days after the deadline for filing an answer, the Commission will determine whether to grant the application for review. The denial of an application shall not constitute a ruling on the merits of the ruling that is the subject of the application.
+
+(e) *Proceedings not stayed.* An application for review and appeal hereunder shall not stay proceedings before the Administrative Law Judge unless the Judge or the Commission shall so order.
+
+[74 FR 1822, Jan. 13, 2009, as amended at 80 FR 15160, Mar. 23, 2015]

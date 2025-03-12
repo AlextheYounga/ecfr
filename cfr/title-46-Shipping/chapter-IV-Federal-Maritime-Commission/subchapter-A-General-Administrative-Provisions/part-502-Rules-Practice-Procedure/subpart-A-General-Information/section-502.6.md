@@ -1,0 +1,15 @@
+##### § 502.6 Verification of documents. #####
+
+Link to an amendment published at 81 FR 93835, Dec. 22, 2016.
+
+(a) If a party is represented by an attorney or other person qualified to practice before the Commission under the rules in this part, each pleading, document or other paper of such party filed with the Commission shall be signed by at least one person of record admitted to practice before the Commission in his or her individual name, whose address shall be stated. Except when otherwise specifically provided by rule or statute, such pleading, document or paper need not be verified or accompanied by affidavit. The signature of a person admitted or qualified to practice before the Commission constitutes a certificate by the signer that the signer has read the pleading, document or paper; that the signer is authorized to file it; that to the best of the signer's knowledge, information, and belief formed after reasonable inquiry, the filing is well grounded in fact and is warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law; and that it is not interposed for any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation. For a willful violation of this section, a person admitted or qualified to practice before the Commission may be subjected to appropriate disciplinary action.
+
+(b) If a party is not represented by a person admitted or qualified to practice before the Commission, each pleading, document or other paper of such party filed with the Commission shall be signed and verified under oath by the party or by a duly authorized officer or agent of the party, whose address and title shall be stated.
+
+(c) Wherever, under any rules of this part, any matter is required or permitted to be supported, evidenced, established, or proved by the sworn declaration, verification, certificate, statement, oath, or affidavit, in writing of the person making the same (other than a deposition under § 502.203 or § 502.204), such matter may, with like force and effect, be supported, evidenced, established, or proved by the unsworn declaration, certificate, verification, or statement, in writing of such person which is subscribed by such person, as true under penalty of perjury, in substantially the following form:
+
+(1) If executed without the United States: “I declare (or certify, verify, or state) under penalty of perjury under the laws of the United States of America that the foregoing is true and correct.”
+
+(2) If executed within the United States, its territories, possessions, or commonwealths: “I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct.” [Rule 6.]
+
+[76 FR 10261, Feb. 24, 2011]

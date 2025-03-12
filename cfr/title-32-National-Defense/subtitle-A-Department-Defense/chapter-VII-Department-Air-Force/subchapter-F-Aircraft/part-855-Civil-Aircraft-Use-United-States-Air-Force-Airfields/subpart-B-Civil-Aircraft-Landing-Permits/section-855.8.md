@@ -1,0 +1,3 @@
+##### § 855.8 Application procedures. #####
+
+To allow time for processing, the application (DD Forms 2400, 2401, and 2402) and a self-addressed, stamped envelope should be submitted at least 30 days before the date of the first intended landing. The verification required for each purpose of use must be included with the application. The name of the user must be the same on all forms. Original, hand scribed signatures, not facsimile elements, are required on all forms. Landing Permit Application Instructions are at attachment 3 to this part. The user is responsible for reviewing this part and accurately completing the forms before submitting them to the approving authority.

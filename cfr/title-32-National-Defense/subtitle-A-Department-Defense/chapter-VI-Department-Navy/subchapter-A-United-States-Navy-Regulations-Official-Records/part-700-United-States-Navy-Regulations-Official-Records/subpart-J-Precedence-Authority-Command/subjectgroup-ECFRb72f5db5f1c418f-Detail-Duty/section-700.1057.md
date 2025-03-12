@@ -1,0 +1,11 @@
+##### § 700.1057 Command of an air activity. #####
+
+(a) The officer detailed to command a naval aviation school, a naval air station, or a naval air unit organized for flight tactical purposes shall be an officer of the line in the navy, designated as a naval aviator or naval flight officer, eligible for command at sea.
+
+(b) For the purposes of Title 10 U.S.C. § 5942, a naval air training squadron is not considered to be a naval aviation school or a naval air unit organized for flight tactical purposes. The officer detailed to command a naval air training squadron or an air unit organized for administrative purposes shall be a line officer of the naval service, designated as a naval aviator or naval flight officer, eligible for command. If a naval air training squadron has been designated a multi-service training squadron, the officer detailed to command that squadron may be a line officer from any armed service designated as the equivalent of a naval aviator naval flight officer and otherwise eligible to command an aviation squadron or unit under that officer's pertinent service regulations.
+
+(c) The officer detailed to command a naval air activity of a technical nature on shore may be an officer of the line in the navy not eligible for command at sea, but designated as a naval aviator or a naval flight officer or designated for aeronautical engineering duty.
+
+(d) The officer detailed to command a Marine Corps air unit organized for flight tactical purpose shall be an officer of the Marine Corps, designated as a naval aviator or naval flight officer.
+
+(e) Other than an air training squadron, an officer of the Navy shall not normally be detailed to command an aviation unit of the Marine Corps nor shall an officer of the Marine Corps normally be detailed to command an aviation unit of the Navy. Aircraft units of the Marine Corps may, however, be assigned to ships or to naval air activities in the same manner as aircraft units of the navy and, conversely, aircraft units of the navy may be so assigned to Marine Corps air activities. A group composed of aircraft units of the Navy and aircraft units of the Marine Corps may be commanded either by an officer of the Navy or an officer of the Marine Corps.

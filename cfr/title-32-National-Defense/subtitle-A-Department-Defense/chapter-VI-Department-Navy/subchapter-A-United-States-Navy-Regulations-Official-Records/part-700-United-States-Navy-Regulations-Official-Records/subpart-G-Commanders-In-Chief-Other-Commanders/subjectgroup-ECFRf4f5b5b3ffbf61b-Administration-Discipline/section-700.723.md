@@ -1,0 +1,3 @@
+##### § 700.723 Administration and discipline: Separate and detached command. #####
+
+Any flag or general officer in command, any officer authorized to convene general courts-martial, or the senior officer present may designate organizations which are separate or detached commands. Such officer shall state in writing that it is a separate or detached command and shall inform the Judge Advocate General of the action taken. If authority to convene courts-martial is desired for the commanding officer or officer in charge of such separate or detached command, the officer designating the organization as separate or detached shall request the Judge Advocate general to obtain authorization from the Secretary of the Navy.

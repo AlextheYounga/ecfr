@@ -1,0 +1,3 @@
+##### § 37.410 Should my announcement or solicitation state that TIAs may be awarded? #####
+
+Yes, once you consider the factors described in subpart B of this part and decide that TIAs are among the types of instruments that you may award pursuant to a solicitation, it is important for you to state that fact in the solicitation. You also should state that TIAs are more flexible than traditional Government funding instruments and that provisions are negotiable in areas such as audits and intellectual property rights that may cause concern for commercial firms. Doing so should increase the likelihood that commercial firms will be willing to submit proposals.

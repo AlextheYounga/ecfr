@@ -1,0 +1,3 @@
+##### § 643.12 Preparation and signing of instruments. #####
+
+Instuments granting temporary use of real estate will be prepared as provided in this regulation. Except where authority has been otherwise granted, the COE or designee will approve, execute, and distribute instruments to the extent authorized by the SA; otherwise they will be prepared and submitted for execution by direction of the appropriate Assistant Secretary of the Army.

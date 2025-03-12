@@ -1,0 +1,5 @@
+##### § 1051.6 Documents not considered petitions. #####
+
+(a) A document filed with the Commission which addresses a topic or involves a product outside the jurisdiction of the Commission will not be considered to be a petition. After consultation with the Office of the General Counsel, the Office of the Secretary, if appropriate, will forward to the appropriate agency documents which address products or topics within the jurisdiction of other agencies. The Office of the Secretary shall notify the sender of the document that it has been forwarded to the appropriate agency.
+
+(b) Any other documents filed with the Office of the Secretary that are determined by the Office of the General Counsel not to be petitions shall be evaluated for possible staff action. The Office of the General Counsel shall notify the writer of the manner in which the Commission staff is treating the document. If the writer has indicated an intention to petition the Commission, the Office of the General Counsel shall inform the writer of the procedure to be followed for petitioning.

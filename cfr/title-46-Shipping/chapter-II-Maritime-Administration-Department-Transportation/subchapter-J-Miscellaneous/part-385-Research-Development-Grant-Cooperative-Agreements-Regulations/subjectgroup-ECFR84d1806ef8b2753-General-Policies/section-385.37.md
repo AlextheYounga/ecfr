@@ -1,0 +1,9 @@
+##### § 385.37 Requirement for unrestricted solicitations for discretionary assistance awards. #####
+
+(a) *Policy.* It is MarAd policy to maximize the opportunity for prospective recipients to be considered for assistance awards where eligibility is not prescribed by law. Therefore, when eligibility is not prescribed by law or a final program regulation, and when discretionary assistance awards are selected to accomplish a program objective, applications or proposals will be obtained, wherever practicable, by issuance of a written solicitation. When MarAd initiates the solicitation of applications or proposals, eligibility to be considered for discretionary awards will not be restricted by MarAd to one category of recipients or to a single recipient without adequate basis.
+
+(b) *Justification of restricted eligibility.* Where program legislation explicitly restricts eligibility, e.g., to state governments, no justification is required. When program regulations restrict eligibility beyond the restrictions required by the program legislation, the basis for the restriction shall be set forth in the program rulemaking.
+
+41 CFR 9-3.805-51 shall be used as a guide in preparing the “justification for restricting eligibility.” The reasons offered will be evaluated for consistency with the policy in paragraph (a) of this section, MarAd's overall mission, and the objective of maintaining an open and fair system of making assistance awards.
+
+(c) *Approvals.* Justifications of restricted eligibility will be signed by the Grants Officer and will be reviewed by Office of General Counsel for legal sufficiency prior to issuance of the restricted solicitation. The signed justification will be filed in official award file.

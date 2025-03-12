@@ -1,0 +1,19 @@
+##### § 326.6 Policies for processing requests for records. #####
+
+(a) An individual's written request for access to records about himself which does not specify the Act under which the request is made will be processed under both the Freedom of Information Act (FOIA) and the Privacy Act and the applicable regulations. Such requests will be processed under both Acts regardless of whether the requester cites one Act, both, or neither in the request in order to ensure the maximum possible disclosure to the requester. Individuals may not be denied access to a record pertaining to themselves merely because those records are exempt from disclosure under the FOIA.
+
+(b) A Privacy Act request that neither specifies the system(s) of records to be searched nor identifies the substantive nature of the information sought will be processed by searching the systems of records categorized as Environmental Health, Safety and Fitness, FOIA/Privacy, General, and Security.
+
+(c) A Privacy Act request that does not designate the system(s) of records to be searched but does identify the substantive nature of the information sought will be processed by searching those systems of records likely to have information similar to that sought by the requester.
+
+(d) The NRO will not disclose any record to any person or government agency except by written request or prior written consent of the subject of the record unless the disclosure is required by law or is within the exceptions of the Privacy Act. If a requester authorizes another individual to obtain the requested records on his behalf, the requester shall provide a written, signed, notarized statement appointing that individual as his representative and certifying that the individual appointed may have access to the requester's records and that such access shall not constitute an invasion of his privacy nor a violation of his rights under the Privacy Act. In lieu of a notarized statement, the NRO will accept a declaration in accordance with 28 U.S.C. 1746.
+
+(e) Upon receipt of a written request, the Privacy Act Coordinator (PA Coordinator) will release to the requester those records which are releasable and applicable to the individual making the request. Records about individuals include data stored electronically or in electronic media. Documentary material qualifies as a record if the record is maintained in a system of records.
+
+(f) Initial availability, potential for release, and cost determination will usually be made within ten working days of the date on which a written request for any identifiable record is received by the NRO (and acknowledgement is sent to the individual). If additional time is needed due to unusual circumstances, a written notification of the delay will be forwarded to the requester within the ten working day period. This notification will briefly explain the circumstances for the delay and indicate the anticipated date for a substantive response.
+
+(g) All requests will be handled in the order received on a ‘first-in, first-out’ basis. Requests will be considered for expedited processing only if the NRO determines that there is a genuine health, humanitarian, or due process reason involving possible deprivation of life or liberty which creates an exceptional and urgent need, that there is no alternative forum for the records sought, and that substantive records relevant to the stated needs may exist and be releasable.
+
+(h) Records provided or originated by another agency or containing other agency information will not be released prior to coordination with the other agency involved.
+
+(i) Requesting or obtaining access to records under false pretenses is a violation of the Privacy Act and is subject to criminal penalties.

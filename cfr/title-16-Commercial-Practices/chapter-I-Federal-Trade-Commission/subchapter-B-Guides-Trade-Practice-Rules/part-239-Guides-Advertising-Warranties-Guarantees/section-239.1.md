@@ -1,0 +1,7 @@
+##### § 239.1 Purpose and scope of the guides. #####
+
+The Guides for the Advertising of Warranties and Guarantees are intended to help advertisers avoid unfair or deceptive practices in the advertising of warranties or guarantees. The Guides are based upon Commission cases, and reflect changes in circumstances brought about by the Magnuson-Moss Warranty Act (15 U.S.C. 2301 *et seq.*) and the FTC Rules promulgated pursuant to the Act (16 CFR parts 701 and 702). The Guides do not purport to anticipate all possible unfair or deceptive acts or practices in the advertising of warranties or guarantees and the Guides should not be interpreted to limit the Commission's authority to proceed against such acts or practices under section 5 of the Federal Trade Commission Act. The Commission may bring an action under section 5 against any advertiser who misrepresents the product or service offered, who misrepresents the terms or conditions of the warranty offered, or who employs other deceptive or unfair means.
+
+Section 239.2 of the Guides applies only to advertisements for written warranties on consumer products, as “written warranty” and “consumer product” are defined in the Magnuson-Moss Warranty Act, 15 U.S.C. 2301, that are covered by the Rule on Pre-Sale Availability or Written Warranty Terms, 16 CFR part 702. The other sections of the Guides apply to the advertising of any warranty or guarantee.
+
+[50 FR 18470, May 1, 1985; 50 FR 20899, May 21, 1985]

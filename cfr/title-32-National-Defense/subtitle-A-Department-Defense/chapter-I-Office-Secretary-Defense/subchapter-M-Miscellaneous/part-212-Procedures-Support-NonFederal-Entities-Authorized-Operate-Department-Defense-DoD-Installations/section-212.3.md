@@ -1,0 +1,7 @@
+##### § 212.3 Definitions. #####
+
+*DoD installation:* As used in this instruction, a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility or, in the case of an activity in a foreign country, under the operational control of the Department of Defense. This term does not include any facility used primarily for civil works, rivers and harbor projects, or flood control projects.
+
+*Non-Federal entities.* A self-sustaining organization, incorporated or unincorporated, that is not an agency or instrumentality of the Federal government. This part addresses only those entities that operate on DoD installations with the express consent of the installation commander or higher authority. Membership of these organizations consists of individuals acting exclusively outside the scope of any official capacity as officers, employees, or agents of the Federal Government. Non-Federal entities include a State, interstate, Indian tribal, or local government, as well as private organizations.
+
+*United States.* As used in this part, the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the U.S. Virgin Islands, Guam, American Samoa, Johnston Atoll, Kingman Reef, Midway Island, Nassau Island, Palmyra Island, Wake Island, and any other territory or possession of the United States, and associated navigable waters, including the territorial seas.

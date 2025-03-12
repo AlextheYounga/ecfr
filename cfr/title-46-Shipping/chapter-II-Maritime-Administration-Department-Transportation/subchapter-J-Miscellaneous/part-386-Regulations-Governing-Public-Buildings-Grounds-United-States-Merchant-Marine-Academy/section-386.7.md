@@ -1,0 +1,3 @@
+##### § 386.7 Disturbances. #####
+
+Any loitering, disorderly conduct or other conduct on Academy property which creates loud or unusual noise or a nuisance which unreasonably obstructs the use of any area, including entrances, foyers, lobbies, corridors, offices, elevators, stairways, or parking lots; or impedes or disrupts the performance of official duties by Government employees or Midshipmen activities is prohibited.

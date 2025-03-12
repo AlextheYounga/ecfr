@@ -1,0 +1,3 @@
+##### § 1905.1 Scope and purpose. #####
+
+This part sets forth the policy and procedures with respect to the production or disclosure of (a) material contained in the files of CIA, (b) information relating to or based upon material contained in the files of CIA, and (c) information acquired by any person while such person was an employee of CIA as part of the performance of that person's official duties or because of that person's association with CIA.

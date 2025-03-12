@@ -1,0 +1,11 @@
+##### Sec. 21 Delegations of authority. #####
+
+(a) The term *authorized representative of the Authority* appears in several of the contract provisions of the NSA-LUMPSUMREP Contract. The respective representatives of the authority are the “authorized representative of the Authority” for the respective contract provisions as set out in this section:
+
+(b) Articles 1 and 2—Chief, Division of Ship Repair and Maintenance, Coast Directors, Chiefs of District Ship Repair and Maintenance offices, Chiefs of Local Ship Repair and Maintenance offices, and General Agents (within the General Agents' contract limitations); Article 3—Maritime Administration Marine Surveyors, Chief, Division of Ship Repair and Maintenance, Coast Directors, Chiefs of District Ship Repair and Maintenance offices, Chiefs of Local Ship Repair and Maintenance offices; and General Agents (within the General Agents' contract limitations); Article 4—Coast Directors, Chief, Division of Ship Repair and Maintenance, Chiefs of District Ship Repair and Maintenance offices, Chiefs of Local Ship Repair and Maintenance offices, and General Agents; Article 5—Maritime Administration Marine Surveyors and General Agents; Article 6—Coast Directors, Chief, Division of Ship Repair and Maintenance, Chiefs of District Ship Repair and Maintenance offices, Chiefs of Local Ship Repair and Maintenance offices, and General Agents (within the General Agent's contract limitations); Article 7—Chiefs of District Ship Repair and Maintenance Offices, Chiefs of Local Ship Repair and Maintenance Offices, and Maritime Administration Marine Surveyors; Article 18 (d)—Coast Directors; Chief, Division of Ship Repair and Maintenance, Chiefs of District Ship Repair and Maintenance offices, Chiefs of Local Ship Repair and Maintenance offices, and General Agents in connection with work awarded by General Agents; Article 27—Coast Directors, Chiefs of District Ship Repair and Maintenance offices and Chiefs of Local Ship Repair and Maintenance offices.
+
+Note:
+
+Records and supporting documents referred to in the above order, shall be retained until the completion of the audit by the General Accounting Office, at which time the Maritime Administration will take custody of the records.
+
+[SRM-5, Rev., 18 FR 5035, Aug. 22, 1953, as amended at 21 FR 8106, Oct. 23, 1956. Redesignated at 45 FR 44587, July 1, 1980]

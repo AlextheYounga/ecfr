@@ -1,0 +1,9 @@
+##### § 502.157 Written evidence. #####
+
+Link to an amendment published at 81 FR 93837, Dec. 22, 2016.
+
+(a) The use of written statements in lieu of oral testimony shall be resorted to where the presiding officer in his or her discretion rules that such procedure is appropriate. The statements shall be numbered in paragraphs, and each party in its rebuttal shall be required to list the paragraphs to which it objects, giving an indication of its reasons for objecting. Statistical exhibits shall contain a short commentary explaining the conclusions which the offeror draws from the data. Any portion of such testimony which is argumentative shall be excluded. Where written statements are used, copies of the statement and any rebuttal statement shall be furnished to all parties, as shall copies of exhibits. The presiding officer shall fix respective dates for the exchange of such written rebuttal statements and exhibits in advance of the hearing to enable study by the parties of such testimony. Thereafter, the parties shall endeavor to stipulate as many of the facts set forth in the written testimony as they may be able to agree upon. Oral examination of witnesses shall thereafter be confined to facts which remain in controversy, and a reading of the written statements at the hearing will be dispensed with unless the presiding officer otherwise directs.
+
+(b) Where a formal hearing is held in a rulemaking proceeding, interested persons will be afforded an opportunity to participate through submission of relevant, material, reliable and probative written evidence properly verified, except that such evidence submitted by persons not present at the hearing will not be made a part of the record if objected to by any party on the ground that the person who submits the evidence is not present for cross-examination. [Rule 157.]
+
+[49 FR 44369, Nov. 6, 1984; 49 FR 47394, Dec. 4, 1984]

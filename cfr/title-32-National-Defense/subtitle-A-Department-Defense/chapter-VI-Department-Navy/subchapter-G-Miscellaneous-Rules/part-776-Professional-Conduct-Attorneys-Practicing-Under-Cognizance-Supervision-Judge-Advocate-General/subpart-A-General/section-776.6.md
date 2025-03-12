@@ -1,0 +1,5 @@
+##### § 776.6 Conflict. #####
+
+(a) To the extent that a conflict exists between this part and the rules of other jurisdictions that regulate the professional conduct of attorneys, this part will govern the conduct of covered attorneys engaged in legal functions under JAG cognizance and supervision. Specific and significant instances of conflict between the rules contained in subpart B of this part and the rules of other jurisdictions shall be reported promptly to the Rules Counsel (see § 776.9 of this part), via the supervisory attorney. See § 776.53 of this part.
+
+(b) In the case of Navy and Marine Corps personnel engaged in legal functions under Department of Defense (DoD) vice JAG cognizance and supervision (e.g., DoD Office of Military Commissions), this part and the applicable DoD professional responsibility rules apply. In such a case, to the extent that a conflict exists between Subpart B of this part and applicable DoD professional responsibility rules, the DoD rules shall take precedence.

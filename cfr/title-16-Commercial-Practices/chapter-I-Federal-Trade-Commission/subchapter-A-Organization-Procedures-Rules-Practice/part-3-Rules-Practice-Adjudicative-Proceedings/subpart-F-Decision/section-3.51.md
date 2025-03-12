@@ -1,0 +1,19 @@
+##### § 3.51 Initial decision. #####
+
+(a) *When filed and when effective.* The Administrative Law Judge shall file an initial decision within 70 days after the filing of the last filed initial or reply proposed findings of fact, conclusions of law and order pursuant to § 3.46, within 85 days of the closing the hearing record pursuant to § 3.44(c) where the parties have waived the filing of proposed findings, or within 14 days after the granting of a motion for summary decision following a referral of such motion from the Commission. The Administrative Law Judge may extend any of these time periods by up to 30 days for good cause. The Commission may further extend any of these time periods for good cause. Except in cases subject to § 3.52(a), once issued, the initial decision shall become the decision of the Commission 30 days after service thereof upon the parties or 30 days after the filing of a timely notice of appeal, whichever shall be later, unless a party filing such a notice shall have perfected an appeal by the timely filing of an appeal brief or the Commission shall have issued an order placing the case on its own docket for review or staying the effective date of the decision.
+
+(b) *Exhaustion of administrative remedies.* An initial decision shall not be considered final agency action subject to judicial review under 5 U.S.C. 704. Any objection to a ruling by the Administrative Law Judge, or to a finding, conclusion or a provision of the order in the initial decision, which is not made a part of an appeal to the Commission shall be deemed to have been waived.
+
+(c) *Content, format for filing.* (1) An initial decision shall be based on a consideration of the whole record relevant to the issues decided, and shall be supported by reliable and probative evidence. The initial decision shall include a statement of findings of fact (with specific page references to principal supporting items of evidence in the record) and conclusions of law, as well as the reasons or basis therefor, upon all the material issues of fact, law, or discretion presented on the record (or those designated under paragraph (c)(2) of this section) and an appropriate rule or order. Rulings containing information granted *in camera* status pursuant to § 3.45 shall be filed in accordance with § 3.45(f).
+
+(2) The initial decision shall be prepared in a common word processing format, such as WordPerfect or Microsoft Word, and shall be filed by the Administrative Law Judge with the Office of the Secretary in both electronic and paper versions.
+
+(3) When more than one claim for relief is presented in an action, or when multiple parties are involved, the Administrative Law Judge may direct the entry of an initial decision as to one or more but fewer than all of the claims or parties only upon an express determination that there is no just reason for delay and upon an express direction for the entry of initial decision.
+
+(d) *By whom made.* The initial decision shall be made and filed by the Administrative Law Judge who presided over the hearings, except when he or she shall have become unavailable to the Commission.
+
+(e) *Reopening of proceeding by Administrative Law Judge; termination of jurisdiction.* (1) At any time from the close of the hearing record pursuant to § 3.44(c) until the filing of his or her initial decision, an Administrative Law Judge may reopen the proceeding for the reception of further evidence for good cause shown.
+
+(2) Except for the correction of clerical errors or pursuant to an order of remand from the Commission, the jurisdiction of the Administrative Law Judge is terminated upon the filing of his or her initial decision with respect to those issues decided pursuant to paragraph (c)(1) of this section.
+
+[74 FR 1834, Jan. 13, 2009]

@@ -1,0 +1,3 @@
+##### § 143.600 Alternative standards for vessels that move tank barges carrying oil or hazardous material in bulk. #####
+
+In lieu of meeting §§ 143.585 through 143.595, a towing vessel may comply with Sections 7-5 (class ABCU) and 3-5 (class R2) of Part 4 of the ABS Rules for Building and Classing Steel Vessels Under 90 Meters (295 Feet) in Length (incorporated by reference, see § 136.112 of this subchapter), except that a vessel that operates exclusively on rivers or intracoastal waterways does not need to comply with 4-7-4/3.9 and the automatic day tank fill pump requirement of 4-7-4/25.3.

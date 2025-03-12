@@ -1,0 +1,3 @@
+##### § 350.7 Special certificate of recognition. #####
+
+The Maritime Administration is authorized to issue a special certificate of recognition of service to an individual, or the personal representative of an individual, whose service in the U.S. Merchant Marine has been determined to be active duty under an earlier Act of Congress (Pub. L. 95-202). The issuance of this certificate to any individual does not entitle that individual to any rights, privileges or benefits under any law of the United States.

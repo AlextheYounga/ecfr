@@ -1,0 +1,3 @@
+##### § 201.185 Effective date and applicability of rules. #####
+
+The regulations in this part shall become effective October 23, 1964, and shall apply only to cases which are designated for hearing on or after October 23, 1964: *Provided, however,* That the regulations in this part shall be applicable to cases designated for hearing prior to October 23, 1964, if consolidated with a case designated for hearing on or after that date. All other cases designated for hearing prior to October 23, 1964, shall be governed by the rules in effect immediately prior to such date.

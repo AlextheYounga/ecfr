@@ -1,0 +1,3 @@
+##### § 1907.11 Prerequisites. #####
+
+The Central Intelligence Agency has established liaison and procedures with many agencies for declassification issues. Prior to reliance on this Part, authorized holders are required to first exhaust such established administrative procedures for the review of classified information. Further information on these procedures is available from the point of contact, see 32 CFR 1907.03.

@@ -1,0 +1,3 @@
+##### § 324.13 Access to medical and psychological records. #####
+
+Individual access to medical and psychological records should be provided, even if the individual is a minor, unless it is determined that access could have an adverse effect on the mental or physical health of the individual. In this instance, the individual will be asked to provide the name of a personal physician, and the record will be provided to that physician in accordance with guidance in Department of Defense 5400.11-R, ‘Department of Defense Privacy Program’ (see 32 CFR part 310).

@@ -1,0 +1,3 @@
+##### § 701.50 Effect of the Debt Collection Act of 1982. #####
+
+The Debt Collection Act of 1982 (Pub. L. 97-365) provides for a minimum annual rate of interest to be charged on overdue debts owed the Federal Government. DON activities may levy this interest penalty for any fees that remain outstanding 30 calendar days from the date of billing (the first demand notice) to the requester of the amount owed. The interest rate shall be as prescribed in 31 U.S.C. 3717. DON activities should verify the current interest rate with respective finance and accounting offices. After one demand letter has been sent and 30 calendar days have lapsed with no payment, DON activities may submit the debt to respective finance and accounting offices for collection.

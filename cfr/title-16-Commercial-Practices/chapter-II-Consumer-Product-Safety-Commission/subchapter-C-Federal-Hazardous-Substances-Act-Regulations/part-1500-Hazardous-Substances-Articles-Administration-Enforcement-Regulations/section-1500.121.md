@@ -1,0 +1,104 @@
+##### § 1500.121 Labeling requirements; prominence, placement, and conspicuousness. #####
+
+(a)(1) *Background and scope.* Section 2(p)(1) of the Federal Hazardous Substances Act (FHSA) or “the Act”), 15 U.S.C. 1261(p)(1), requires that hazardous substances bear certain cautionary statements on their labels. These statements include: signal words; affirmative statements of the principal hazard(s) associated with a hazardous substance; the common or usual name, or chemical name, of the hazardous substance; the name and place of business of the manufacturer, packer, distributor, or seller; statements of precautionary measures to follow; instructions, when appropriate, for special handling and storage; the statement “Keep Out of the Reach of Children” or its practical equivalent; and, when appropriate, first-aid instructions. Section 2(p)(2) of the Act specifies that all such statements shall be located prominently on the label of such a substance and shall appear in conspicuous and legible type in contrast by typography, layout, or color with other printed matter on the label. This regulation contains the Commission's interpretations and policies for the type size and placement of cautionary material on the labels of hazardous substances and contains other criteria for such cautionary statements that are acceptable to the Commission as satisfying section 2(p)(2) of the Act. Labels that do not comply with this regulation may be considered misbranded.
+
+(2) *Definitions.* For the purposes of this section:
+
+(i) *Container* means the immediate package from which a hazardous substance may be dispensed and also any article, package or wrapping, such as a tube or cone used for a firework or a wet cell battery casing containing sulfuric acid, which is necessary for the substance to function during actual use.
+
+(ii) *Cautionary material, cautionary labeling,* and *cautionary labeling required by the Act* mean all items of labeling information required by sections 2(p)(1) of the FHSA (repeated in 16 CFR 1500.3(b)(14)(i) or by the regulations which require additional labeling under section 3(b) of the Act.
+
+(iii) *Display panel* means any surface of the immediate container, and of any outer container or wrapping, which bears labeling.
+
+(iv) *Principal display panel* means the portion(s) of the surface of the immediate container, and of any outer container or wrapping, which bear(s) the labeling designed to be most prominently displayed, shown, presented, or examined under conditions of retail sale. (See paragraph (c)(1) of this section.)
+
+(v) *Type size* means the actual height of the printed image of each upper case or capital letter as it appears on the label of a hazardous substance. (See paragraph (c)(2) of this section.)
+
+(vi) *Signal word* means the appropriate word “DANGER,” “WARNING,” or “CAUTION,” as required by sections 2(p)(1) (C) or (D) of the Act.
+
+(vii) *Statement of principal hazard(s)* means that wording descriptive of the principal or primary hazard(s) associated with a hazardous substance required by section 2(p)(1)(E) of the Act. Some examples of such statements are “HARMFUL OR FATAL IF SWALLOWED,” “VAPOR HARMFUL,” “FLAMMABLE,” and “SKIN AND EYE IRRITANT.”
+
+(viii) *Other cautionary material* means all labeling statements, other than “signal words” or “statement(s) of principal hazard(s),” required by the Act or by regulations issued under the Act.
+
+(b) *Prominent label placement.* To satisfy the requirement of the Act that cautionary labeling statements shall appear “prominently” on the label of a hazardous substance, all such statements shall be placed on the label as follows:
+
+(1) *Horizontal placement of labeling statements.* Except for the name and place of business of the manufacturer, packer, distributor, or seller, all cautionary material required by the Act shall appear in lines that are generally parallel to any base on which the package rests as it is designed to be displayed for sale or, on display panels other than the principal display panel, in lines generally parallel to all other labeling on that panel. This requirement does not apply to labeling on collapsible tubes, cylindrical containers with a narrow diameter, or F-type containers where both the “front” and “back” of the container are principal display panels. (See paragraph (e) of this section.)
+
+(2) *Principal display panel labeling.* (i) All items of cautionary labeling required by the Act may appear on the principal display panel on the immediate container and, if appropriate, on any other container or wrapper. See paragraph (b)(4) of this section for requirements and exceptions for labeling outer containers and wrappings.
+
+(ii) The signal word, the statement of principal hazard(s), and, if appropriate, instructions to read carefully any cautionary material that may be placed elsewhere on the label shall be blocked together within a square or rectangular area, with or without a border, on the principal display panel on the immediate container and, where required by paragraph (b)(4) of this section, on any outer container or wrapping. All cautionary statements placed on the principal display panel shall be separated on all sides from other printed or graphic matter, with the exception of the declaration of net contents required under the Fair Packaging and Labeling Act, 15 U.S.C. 1453(a) (2) and (3), by a border line or by a space no smaller than the minimum allowable height of the type size for cautionary material required by the Act (exclusive of signal words and statements of hazard) on the principal display panel.
+
+(iii) Depending on the design of the package or the configuration of the label, or both, a package may have more than one principal display panel. If so, each principal display panel must bear, at a minimum, the signal word, statement of principal hazard or hazards, and, if appropriate, instructions to read carefully any cautionary material that may be placed elsewhere on the label.
+
+(A) Where the principal display panel of the immediate container consists of a lid, cap, or other item which may be separated from the immediate container and discarded, the container shall be deemed to have a second principal display panel elsewhere on the immediate container which must bear, at a minimum, the signal word, statement of principal hazard(s), and instructions, if appropriate, to read any cautionary material which may be placed elsewhere on the label.
+
+(3) *Prominent label placement - other display panel labeling.* All items of cautionary labeling required by the Act which do not appear on the principal display panel shall be placed together on a display panel elsewhere on the container. The name and place of business of the manufacturer, packer, distributor, or seller may appear separately on any display panel. Where cautionary material appears on a display panel other than the principal display panel, the principal display panel shall bear the statement “Read carefully other cautions on the \_\_\_ panel,” or its practical equivalent. [A description of the location of the other panel is to be inserted in the blank space.]
+
+(4) *Outer container or wrappings.* All cautionary labeling appearing on the immediate container of a hazardous substance shall also appear on any outer container or wrapping used in the retail display of the substance, in the same manner as required for the immediate container. Those cautionary labeling statements appearing on the immediate container which are clearly legible through any outer container or wrapper used in retail display need not appear on the outer container or wrapping itself. (See section 2(n)(1) of the Act.)
+
+(5) *Placement of the word “Poison” and the skull and crossbones symbol.* The word “poison” and, when appropriate, the skull and crossbones symbol shall appear on the label of a hazardous substance as follows:
+
+(i) If a hazardous substance is “highly toxic,” as defined in § 1500.3(c)(i) and section 2(h)(1) of the FHSA, the label must bear the word “poison” in accordance with section 2(p)(1)(H) of the Act, in addition to the signal word “DANGER,” and must also bear the skull and crossbones symbol. Some products, under § 1500.14(b) of the regulations, may, in addition to any required signal word, be required to bear the word “poison” and the skull and crossbones symbol because of the special hazard associated with their ingredients. In both instances, the word “poison” and the skull and crossbones symbol need not appear on the principal display panel on the container, unless all other cautionary labeling required by the Act appears on the principal display panel. The word “poison” and the skull and crossbones symbol, when required, must appear either together with other cautionary labeling on a display panel other than the principal display panel or together with the signal word and statement(s) of principal hazard on the principal display panel.
+
+(ii) Where, pursuant to a regulation issued under section 3(b) of the Act, the label of a hazardous substance requires the word “poison” instead of a signal word, the word, “POISON” shall appear in capital letters on the principal display panel, together with the statement(s) of the principal hazard. Certain substances for which the word “poison” is required instead of any signal word are listed in § 1500.129.
+
+(c) *Conspicuousness - type size and style.* To satisfy the requirement that cautionary labeling statements under the Act be conspicuous and legible, such statements shall conform to the following requirements:
+
+(1) *Area of principal display panel.* The area of the principal display panel is the area of the side or surface of the immediate container, or of the side or surface of any outer container or wrapping, that bears the labeling designed to be most prominently displayed, shown, presented, or examined under conditions of retail sale. This area is not limited to the portion of the surface covered with labeling; rather, it includes the entire surface. Flanges at the tops and bottoms of cans, conical shoulders of cans, handles, and shoulders and necks of bottles and jars are excluded in measuring the area. For the purposes of determining the proper type size for cautionary labeling, the area of the principal display panel (or other panel bearing cautionary labeling, under paragraph (c)(2)(ii) of this section) is to be computed as follows:
+
+(i) In the case of a rectangular package, where one entire side is the principal display panel, the product of the height times the width of that side shall be the area of the principal display panel.
+
+(ii) In the case of a cylindrical or nearly cylindrical container or tube on which the principal display panel appears on the side, the area of the principal display panel shall be 40 percent of the product of the height of the container times its circumference.
+
+(iii) In the case of any other shape of container, the area of the principal display panel shall be 40 percent of the total surface of the container, excluding those areas, such as flanges at tops and bottoms, specified in paragraph (c)(1) above. However, if such a container presents an obvious principal display panel (such as an oval or hour-glass shaped area on the side of a container for dishwashing detergent), the area to be measured shall be the entire area of the obvious principal display panel.
+
+(2) *Type-size requirements.* (i) The term *type size* refers to the height of the actual printed image of each upper case or capital letter as it appears on the label. The size of cautionary labeling shall be reasonably related to the type size of any other printing appearing on the same panel, but in any case must meet the minimum size requirements in table 1.
+
+(ii) When an item of labeling is required to be in a specified type size, all upper case, or capital, letters must be at least equal in height to the required type size, and all other letters must be the same style as the upper case or capital letters. Unless otherwise specified in the regulations (examples appear at §§ 1500.14(b)(6), 1512.19, 1508.9, and part 1505), the type size of all cautionary statements appearing on any display panel shall comply with the specifications in table 1 when the area of the display panel is measured by the method in paragraph (c)(1) above:
+
+Table I
+
+|Area of principal display panel in square inches|0-2 |\>2-5|\>5-10|\>10-15|\>15-30|\>30|
+|:-----------------------------------------------|---:|----:|-----:|------:|------:|---:|
+|             Type size in inches \*             |    |     |      |       |       |    |
+|                Signal word \*\*                |3/64|1/16 | 3/32 | 7/64  |  1/8  |5/32|
+|              Statement of hazard               |3/64|3/64 | 1/16 | 3/32  | 3/32  |7/64|
+|        Other cautionary material \*\*\*        |1/32|3/64 | 1/16 | 1/16  | 5/64  |3/32|
+
+\> means “greater than.”
+
+\* minimum height of printed image of capital or upper case letters.
+
+\*\* including the word “poison” when required instead of a signal word by Section 3(b) of the Act (§ 1500.129).
+
+\*\*\* size of lettering for other cautionary material is based on the area of the display panel on which such cautionary material appears.
+
+(iii) If all of the required cautionary labeling does not appear on the principal display panel, the statement to “Read carefully other cautions on the \_\_\_ panel,” or its practical equivalent, must appear in, as a minimum, the same type size as that required in table 1 for the other cautionary material which appears elsewhere on the label of a hazardous substance. The size of the cautionary labeling that does not appear on the principal display panel is determined by the area of the panel on which it does appear.
+
+(3) *Type style - proportion.* The ratio of the height of a capital or uppercase letter to its width shall be such that the height of the letter is no more than 3 times its width.
+
+(4) *Signal word and statements of hazard - capital letters.* The signal word, the word “poison” if required instead of a signal word (see § 1500.129), and the statement of principal hazard or hazards shall be in capital letters.
+
+(5) *Multiple statement of hazard - type size and style.* All statements of principal hazard or hazards on a label shall appear in the same size and style of type, and shall appear in the same color or have the same degree of boldness.
+
+(6) *Accompanying literature containing directions for use.* Where literature accompanying the package of a hazardous substance has directions for use, written or otherwise, section 2(n) of the Act requires the literature to bear cautionary labeling.
+
+(i) All such cautionary labeling shall be in reasonable proximity to any direction for use and shall be placed together within the same general area.
+
+(ii) The type size of such cautionary labeling shall be reasonably related to the type size of any other printed matter in the accompanying literature and must be in conspicuous and legible type by typography, layout, or color with other printed matter on the label. The signal word and statement of principal hazard or hazards shall appear in capital letters.
+
+(d) *Conspicuousness - contrast.* To satisfy the requirement that cautionary labeling statements appear in conspicuous and legible type which is in contrast by typography, layout, or color with the other printed matter on the label, such statements shall conform to the following requirements:
+
+(1) *Color.* Where color is the primary method used to achieve appropriate contrast, the color of any cautionary labeling statement shall be in sharp contrast with the color of the background upon which such a statement appears. Examples of combinations of colors which may not satisfy the requirement for sharp contrast are: black letters on a dark blue or dark green background, dark red letters on a light red background, light red letters on a reflective silver background, and white letters on a light gray or tan background.
+
+(2) *Interference with conspicuousness - labeling design, vignettes, or other printed material.* For cautionary information appearing on panels other than the principal display panel, the label design, the use of vignettes, or the proximity of other labeling or lettering shall not be such that any cautionary labeling statement is obscured or rendered inconspicuous.
+
+(e) *Collapsible metal tubes.* Collapsible metal tubes containing hazardous substances shall be labeled so that all cautionary labeling required by the Act appears as close to the dispensing end of the container as possible. The placement and conspicuousness of these statements shall conform to the provisions of paragraphs (b), (c), and (d) of this section.
+
+(f) *Unpackaged hazardous substances.* Where practicable, unpackaged hazardous substances intended, or distributed in a form suitable, for use in or around a household or by children shall be labeled so that all items of information required by the Act appear upon the article itself. In instances where this is impracticable (for example, because of the size or nature of the article), the required cautionary labeling must be displayed by means of a tag or other suitable material that is no less than five square inches in area and is securely affixed to the article so that the labeling will remain attached throughout conditions of merchandising and distribution to the ultimate consumer. The placement and conspicuousness of all cautionary labeling appearing on such a tag or material, or on an unpackaged article, shall conform to the provisions of paragraphs (b), (c), and (d) of this section. For the purposes of determining the proper type size to use on a tag or other material, the area of one side of the tag or other material shall be the area of the principal display panel.
+
+(g) *Exemptions.* All requirements of the Act are satisfied by compliance with this § 1500.121. However, exemptions can be granted under section 3(c) of the Act and § 1500.83, or under the provisions of another statute should this section be incorporated in regulations under another statute. Section 1500.82 contains the requirements for exemption requests under the Federal Hazardous Substances Act.
+
+(h) *Effective date.* The provisions of this rule apply to hazardous substances bearing labels printed after December 30, 1985. Labels printed prior to the effective date of this rule may be applied until not later than December 28, 1987. This rule applies to all hazardous substances to which labels are applied after December 28, 1987.
+
+[49 FR 50383, Dec. 28, 1984]

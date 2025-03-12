@@ -1,0 +1,7 @@
+##### § 380.12 Application requirements. #####
+
+(a) *Submission.* An application for designation of one or more vessels as an American Great Lakes vessel shall be filed with the Secretary, Maritime Administration, Department of Transportation, 400 Seventh St. SW., Room 7300, Washington, DC 20590, at least 60 days prior to the date when the owner wishes to commence operation of one or more vessels with such designation. The application shall state with specificity that the vessel complies with the requirements of § 380.11.
+
+(b) *Fee.* Each application shall be accompanied by a fee of $50 per vessel. Payment shall be made by cashier's check, certified check, or money order, payable to “Maritime Administration.”
+
+(c) *Unavailability of suitable vessels.* Where the owner requests that the Secretary make a determination that would allow the designation of one or more vessels that would be over 6 years of age, but less than 11 years of age, on the effective date of designation, the owner shall include with the application all relevant and material information from which the Secretary may determine that suitable vessels will not be available for the type of service in which the vessel(s) will be used after designation.

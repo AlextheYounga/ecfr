@@ -1,0 +1,3 @@
+##### § 234.2 Applicability. #####
+
+The provisions of this part apply to all areas, lands, and waters on or adjoining the Pentagon Reservation and under the jurisdiction of the United States, and to all persons entering in or on the property. They supplement those penal provisions of Title 18, United States Code, relating to crimes and criminal procedure and those provisions of State law that are federal criminal offenses by virtue of the Assimilative Crimes Act, 18 U.S.C. 13.

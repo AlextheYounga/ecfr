@@ -1,0 +1,5 @@
+##### § 191.7 Civilian EEO program staff. #####
+
+(a) EEO Managers, including SEP Managers and other staff who are responsible for EEO and affirmative action programs, shall function at a level that is sufficiently responsible with the assigned organization to enable them to communicate effectively the goals and objectives of the program and to enable them to obtain the understanding, support, and commitment of managers and other officials at all levels within the organization.
+
+(b) It shall be the responsibility of EEO Managers, SEP Managers, and other program staff to develop, coordinate, implement, and recommend to managers, other officials, and covered groups the policy, guidance, information, and activities necessary to attain the goals of the SEPs and the overall DoD Civilian EEO Program.

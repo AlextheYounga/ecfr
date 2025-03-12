@@ -1,0 +1,3 @@
+##### § 707.12 Amphibious operations lights. #####
+
+Naval vessels engaged in night amphibious operations may display various arrangements of light systems containing combinations of different colored lights as a means of assisting in the launch and recovery of assault craft and enhancing the safety of the amphibious operation. These light systems will be located at various points on the vessel, depending on the vessel type and the nature of the amphibious operations being conducted.

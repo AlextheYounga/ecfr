@@ -1,0 +1,3 @@
+##### § 1018.1 Purpose. #####
+
+This part contains the Consumer Product Safety Commission's regulations governing the establishment, operations and administration of advisory committees under its jurisdiction. These regulations are issued pursuant to section 8(a) of the Federal Advisory Committee Act (Pub. L. 92-463, 5 U.S.C. App. I), and supplement Executive Order No. 11769 (39 FR 7125 (1974)) and Office of Management and Budget Circular No. A-63 (Rev.) (39 FR 12369 (1974)).

@@ -1,0 +1,3 @@
+##### § 386.15 Distribution of handbills. #####
+
+The distribution of materials such as pamphlets, handbills and flyers, and the displaying of placards or posting of materials on bulletin boards or elsewhere in or on Academy property shall be coordinated with the Head, Department of Public Safety and Security, of the Academy so as not to impede Academy employees in the performance of their duties or Midshipmen activities.

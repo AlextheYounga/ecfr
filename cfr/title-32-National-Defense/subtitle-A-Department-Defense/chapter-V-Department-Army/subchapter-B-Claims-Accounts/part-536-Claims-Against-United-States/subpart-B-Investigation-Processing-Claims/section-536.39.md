@@ -1,0 +1,11 @@
+##### § 536.39 Use of experts, consultants and appraisers. #####
+
+(a) ACOs or CPOs will budget operation and maintenance (O&M) funds for the costs of hiring property appraisers, accident reconstructionists, expert consultants to furnish opinions, and medical specialists to conduct independent medical examinations (IMEs). Other expenses to be provided for from O&M funds include the purchase of documents, such as medical records, and the hiring of mediators. See § 536.53(b). Where the cost exceeds $750 or local funds are exhausted, a request for funding should be directed to the Commander USARCS, with appropriate justification. The USARCS AAO must be notified as soon as possible when an accident reconstruction is indicated.
+
+(b) Where the claim arises from treatment at an Army MTF, the MEDDAC commander should be requested to fund the cost of an independent consultant's opinion or an IME.
+
+(c) The use of outside consultants and appraisers should be limited to claims in which liability or damages cannot be determined otherwise and in which the use of such sources is economically feasible, for instance, where property damage is high in amount and not determinable by a government appraiser or where the extent of personal injury is serious and a government IME is neither available nor acceptable to a claimant. Prior to such an examination at an MTF, ensure that the necessary specialists are available and a prompt written report may be obtained.
+
+(d) Either an IME or an expert opinion is procured by means of a personal services contract under the Federal Acquisition Regulation (FAR), part 37, 48 CFR 37.000 *et seq.,* through the local contracting office. The contract must be in effect prior to commencement of the records review. Payment is authorized only upon receipt of a written report responsive to the questions asked by the CJA or claims attorney.
+
+(e) Whenever a source other than claims personnel is used to assist in the evaluation of a claim in which medical information protected by HIPAA is involved, the source must sign an agreement designed to protect the patient's privacy rights.

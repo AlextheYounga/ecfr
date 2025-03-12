@@ -1,0 +1,3 @@
+##### § 188.10-6 Captain of the Port. #####
+
+This term means an officer of the Coast Guard designated as such by the Commandant and who, under the superintendence and direction of the Coast Guard District Commander, gives immediate direction to Coast Guard law enforcement activities within his assigned area. In addition, the District Commander shall be the Captain of the Port with respect to remaining areas in his district not assigned to officers designated by the Commandant as Captain of the Port.

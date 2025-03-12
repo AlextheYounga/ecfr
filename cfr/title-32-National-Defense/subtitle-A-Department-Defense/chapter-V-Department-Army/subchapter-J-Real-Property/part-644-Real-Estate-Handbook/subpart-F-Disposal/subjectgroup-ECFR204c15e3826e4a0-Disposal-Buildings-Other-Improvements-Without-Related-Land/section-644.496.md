@@ -1,0 +1,3 @@
+##### § 644.496 Abandonment. #####
+
+Abandonment, as used herein, has reference to cases where the lessor or a permittor Government agency is unwilling to accept transfer of buildings or improvements in lieu of restoration, but is willing to permit the Department to leave buildings or improvements having no net salvage value on their premises. It is desirable to transfer title of or accountability for improvements having no net salvage value to lessors or permittors instead of obtaining their consent to abandon such improvements. Abandonment as authorized herein will not be a means for dropping accountability or responsibility for maintenance of improvements on non-excess land.

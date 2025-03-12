@@ -1,0 +1,3 @@
+##### § 644.430 Shrines, memorials, or religious purposes. #####
+
+Pursuant to the provisions of FPMR 101-47.308-5, when the Department, acting as a disposal agency, determines that a chapel may properly be used in place, a suitable area of land may be sold with the chapel for use as a shrine, memorial, or for religious purposes. The sale price of land for this purpose will be its fair market value based on its highest and best use as established by an appraisal. Deeds conveying lands for such purposes will contain no restriction on the use of the land. Sale of the chapel building will be subject to the procedure and terms and conditions provided in §§ 644.472 through 644.500.

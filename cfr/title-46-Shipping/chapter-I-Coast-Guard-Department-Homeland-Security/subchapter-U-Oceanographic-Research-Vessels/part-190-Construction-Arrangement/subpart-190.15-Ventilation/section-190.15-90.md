@@ -1,0 +1,3 @@
+##### § 190.15-90 Vessels contracted for prior to March 1, 1968. #####
+
+(a) Existing arrangements previously approved will be considered satisfactory so long as they are maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection. Minor repairs and alterations may be made to the same standards as the original design: *Provided,* That in no case will a greater departure from the standards of §§ 190.15-5 through 190.15-15 be permitted than presently exists.

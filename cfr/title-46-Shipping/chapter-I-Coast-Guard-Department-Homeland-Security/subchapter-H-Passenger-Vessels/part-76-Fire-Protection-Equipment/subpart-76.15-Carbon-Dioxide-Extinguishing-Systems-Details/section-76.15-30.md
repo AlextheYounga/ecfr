@@ -1,0 +1,5 @@
+##### § 76.15-30 Alarms. #####
+
+(a) Spaces which are protected by a carbon dioxide extinguishing system and are normally accessible to persons on board while the vessel is being navigated, other than paint and lamp lockers and similar small spaces, shall be fitted with an approved audible alarm in such spaces which will be automatically sounded when the carbon dioxide is admitted to the space. The alarm shall be conspicuously and centrally located and shall be marked as required by § 78.47-9 of this subchapter. For systems installed on or after July 1, 1957, alarms will be mandatory only for systems required to be fitted with a delayed discharge. Such alarms shall be so arranged as to sound during the 20 second delay period prior to the discharge of carbon dioxide into the space, and the alarm shall depend on no source of power other than the carbon dioxide.
+
+(b) [Reserved]

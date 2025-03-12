@@ -1,0 +1,3 @@
+##### § 131.893 Watertight doors and watertight hatches. #####
+
+Each watertight door in a bulkhead that must be watertight in compliance with the requirements in part 174 of this chapter, and each watertight hatch, must be marked on both sides in letters at least 50 millimeters (2 inches) high that state the following: “WATERTIGHT DOOR—KEEP CLOSED EXCEPT FOR PASSAGE” or “WATERTIGHT HATCH—KEEP CLOSED WHEN NOT IN USE”.

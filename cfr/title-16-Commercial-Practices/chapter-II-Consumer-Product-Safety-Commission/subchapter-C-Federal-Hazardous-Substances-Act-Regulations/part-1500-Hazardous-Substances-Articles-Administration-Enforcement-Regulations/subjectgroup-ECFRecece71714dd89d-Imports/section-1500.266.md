@@ -1,0 +1,3 @@
+##### § 1500.266 Notice of sampling. #####
+
+When a sample of a hazardous substance offered for import has been requested by the director of the area office, the collector of customs having jurisdiction over the hazardous substance shall give to the owner or consignee prompt notice of delivery of, or intention to deliver, such sample. Upon receipt of the notice, the owner or consignee shall hold such hazardous substance and not distribute it until further notice from the area office director or the collector of customs of the results of examination of the sample.

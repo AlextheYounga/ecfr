@@ -1,0 +1,5 @@
+##### § 1211.20 Purpose, scope, and application. #####
+
+(a) *Purpose.* Section 14(a) of the Consumer Product Safety Act, 15 U.S.C. 2063(a), requires every manufacturer (including importers) and private labeler of a product which is subject to a consumer product safety standard to issue a certificate that the product conforms to the applicable standard, and to base that certificate either on a test of each product or on a “reasonable testing program.” The purpose of this subpart is to establish requirements that manufacturers and importers of automatic residential garage door operators subject to the Safety Standard for Automatic Residential Garage Door Operators (16 CFR part 1211, subpart A), shall issue certificates of compliance in the form specified.
+
+(b) *Scope and application.* The provisions of this subpart apply to all residential garage door operators which are subject to the requirements of the Safety Standard for Automatic Residential Garage Door Operators that take effect on January 1, 1993 or later.

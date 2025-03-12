@@ -1,0 +1,3 @@
+##### § 724.116 Counsel/Representative. #####
+
+An individual or agency designated by the applicant who agrees to represent the applicant in a case before the NDRB. It includes, but is not limited to: a lawyer who is a member of the bar of a Federal Court or of the highest court of a State; an accredited representative designated by an organization recognized by the Administrator of Veterans Affairs; a representative from a State agency concerned with veterans affairs; or a representative from private organizations or local Government agencies.

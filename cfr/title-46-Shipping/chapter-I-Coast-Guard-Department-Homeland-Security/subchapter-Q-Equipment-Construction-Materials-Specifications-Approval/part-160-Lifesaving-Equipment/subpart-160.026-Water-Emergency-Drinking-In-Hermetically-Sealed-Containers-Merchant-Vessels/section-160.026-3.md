@@ -1,0 +1,9 @@
+##### § 160.026-3 Container. #####
+
+(a) *General.* The emergency drinking water container shall be a sanitary type can, approximately 211/16 in diameter by 47/8″ in height. The top and bottom of the can shall be double-seamed and compound-lined. The side seam shall be of a locked type, soldered on the outside. The can shall be made of 1.25-pound coating coke tin-plate throughout, with not less than 100-pound plate for the body and 85-pound plate for the ends.
+
+(b) *Interior and exterior coatings.* The interior of the container shall be uncoated, except for the tin-plating required by paragraph (a) of this section. In addition to the tin-plating, the exterior surfaces of the container, including the ends, but excluding the side seam, shall be lithographed a gray enamel conforming to Type I or II, Class 2 of Specification MIL-E-15090, with the marking as provided by § 160.026-5 lithographed in black print. After filling, sealing, autoclaving, and marking, the container shall be dip-coated with one coat of clear base lacquer conforming to Specification MIL-L-7178.
+
+(c) *Plant sanitation, sterilizing and filling.* The plant and equipment in which the water is canned shall be maintained in a clean and sanitary condition at all times, and standard aseptic procedures shall be followed throughout in filling the cans. The container shall be free from all foreign materials, and shall be filled with approximately 102/3 oz. of water meeting the requirements of § 160.026-4. After filling, it shall be hermetically sealed under vacuum, and after sealing, it shall be autoclaved at a temperature of not less than 250 °F. for not less than 15 minutes.
+
+[CGFR 53-25, 18 FR 7865, Dec. 5, 1953]

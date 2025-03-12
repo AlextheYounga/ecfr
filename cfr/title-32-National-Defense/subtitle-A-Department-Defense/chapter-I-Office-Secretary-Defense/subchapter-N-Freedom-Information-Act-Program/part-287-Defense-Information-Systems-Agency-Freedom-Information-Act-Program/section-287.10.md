@@ -1,0 +1,3 @@
+##### § 287.10 Questions. #####
+
+Questions on both the substance and procedures of the FOIA and the DISA implementation thereof should be addressed to the FOIA Officer by the most expeditious means possible, including telephone calls, faxes, and electronic mail. FOIA requests should be addressed as follows: Defense Information Systems Agency, 701 S. Courthouse Road, Arlington, VA 22204-2199, Attn: RGC. Calls should be made to (703) 607-6515. Faxed requests should be addressed to the FOIA Officer at (703) 607-4344. Electronic mail requests should be addressed to *bergerr@ncr.disa.mil.*

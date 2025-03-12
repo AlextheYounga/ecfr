@@ -1,0 +1,3 @@
+##### § 167.20-15 Scupper, sanitary and similar discharges. #####
+
+(a) All scupper, sanitary, and other similar discharges which lead through the ship's hull shall be fitted with efficient means for preventing the ingress of water in the event of a fracture of such pipes. The requirements do not apply to the discharges in the machinery space connected with the main and auxiliary engines, pumps, etc.

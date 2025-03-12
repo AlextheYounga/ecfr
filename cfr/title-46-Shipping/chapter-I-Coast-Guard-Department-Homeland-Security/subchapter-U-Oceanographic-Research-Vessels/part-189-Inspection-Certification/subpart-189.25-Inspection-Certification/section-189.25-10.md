@@ -1,0 +1,9 @@
+##### § 189.25-10 Scope of inspection. #####
+
+(a) The inspection for certification shall include an inspection of the structure, boilers, and other pressure vessels, machinery, and equipment. The inspection shall be such as to insure that the vessel, as regards the structure, boilers, and other pressure vessels and their appurtenances, piping, main and auxiliary machinery, electrical installations, life-saving appliances, fire detecting and extinguishing equipment, pilot boarding equipment, pollution prevention equipment, and other equipment, is in satisfactory condition and fit for the service for which it is intended, and that it complies with the applicable regulations for such vessel, and determine that the vessel is in possession of a valid certificate issued by the Federal Communications Commission, if required. The lights, means of making sound signals, and distress signals carried by the vessel shall also be subject to the above-mentioned inspection for the purpose of ensuring that they comply with the requirements of the applicable statutes and regulations.
+
+(b) When equipment other than scientific equipment is installed which is not required by the applicable regulations in this subchapter, that equipment shall be inspected and tested as may be required for such equipment by the Officer in Charge, Marine Inspection, to assure safety.
+
+(1) Scientific equipment and their electrical or pressure connection to the ship's supply and laboratories may be checked to ascertain that they are maintained free of hazards.
+
+[CGFR 67-83, 33 FR 1118, Jan. 27, 1968, as amended by CGFR 68-82, 33 FR 18911, Dec. 18, 1968; CGD 71-161R, 37 FR 28263, Dec. 21, 1972; CGD 82-036, 48 FR 655, Jan. 6, 1983; CGD 79-032, 49 FR 25455, June 21, 1984; CGD 95-012, 60 FR 48052, Sept. 18, 1995; 60 FR 50120, Sept. 28, 1995; USCG-2014-0688, 79 FR 58288, Sept. 29, 2014]

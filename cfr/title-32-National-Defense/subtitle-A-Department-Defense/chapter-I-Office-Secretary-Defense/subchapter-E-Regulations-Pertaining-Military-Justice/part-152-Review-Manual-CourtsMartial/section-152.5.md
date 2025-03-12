@@ -1,0 +1,3 @@
+##### § 152.5 Implementation. #####
+
+The foregoing policies and procedures providing guidelines for implementation of this part, as well as those contained in the appendix, are intended exclusively for the guidance of military personnel and civilian employees of the Department of Defense, and the United States Coast Guard by agreement of the Department of Homeland Security. These guidelines are intended to improve the internal management of the Federal Government and are not intended to create any right, privilege, or benefit, substantive of procedural, to any person or enforceable at law by any party against the United States, its agencies, its officers, or any person.

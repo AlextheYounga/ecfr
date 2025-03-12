@@ -1,0 +1,11 @@
+##### § 1101.23 Providing less than 15 days notice before disclosing information. #####
+
+There are two circumstances in which the Commission may disclose to the public information subject to section 6(b)(1) in a time less than 15 days after providing notice to the manufacturer or private labeler.
+
+(a) *Firm agrees to lesser period or does not object to disclosure.* The Commission may disclose to the public information subject to section 6(b)(1) before the 15-day period expires when, after receiving the Commission's notice and opportunity to comment, the firm involved agrees to the earlier disclosure; notifies the Commission that it has no comment; or notifies the Commission that it does not object to disclosure.
+
+(b) *Commission finding a lesser period is required.* Section 6(b)(1) provides that the Commission may publish a finding that the public health and safety requires a lesser period of notice than the 15 days advance notice that section 6(b)(1) generally requires. The Commission may find that the public health and safety requires less than 15 days advance notice, for example, to warn the public quickly because individuals may be in danger from a product hazard or a potential hazard, or to correct product safety information released by third persons, which mischaracterizes statements made by the Commission about the product or which attributes to the Commission statements about the product which the Commission did not make.
+
+(c) *Notice of finding.* The Commission will inform a manufacturer or private labeler of a product which is the subject of a public health and safety finding that the public health and safety requires less than 15 days advance notice either orally or in writing, depending on the immediacy of the need for quick action. Where applicable, before releasing information, the Commission will comply with the requirements of section 6(b) (1) and (2) by giving the firm the opportunity to comment on the information, either orally or in writing depending on the immediacy of the need for quick action, and by giving the firm advance notice before disclosing information claimed by a manufacturer or private labeler to be inaccurate (see § 1101.25).
+
+[48 FR 57430, Dec. 29, 1983, as amended at 73 FR 72335, Nov. 28, 2008]

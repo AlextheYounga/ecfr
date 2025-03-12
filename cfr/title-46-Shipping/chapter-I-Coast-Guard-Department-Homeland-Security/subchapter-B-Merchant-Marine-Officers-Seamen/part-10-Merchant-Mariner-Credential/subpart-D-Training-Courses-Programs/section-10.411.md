@@ -1,0 +1,3 @@
+##### § 10.411 Simulator performance standards. #####
+
+Simulators used in assessment of competence must meet the appropriate performance standards set out in Section A-I/12 of the STCW Code (incorporated by reference, see § 10.103 of this part). However, a simulator installed or brought into use before February 1, 2002, need not meet those standards if it fulfills the objectives of the assessment of competence or demonstration of proficiency.

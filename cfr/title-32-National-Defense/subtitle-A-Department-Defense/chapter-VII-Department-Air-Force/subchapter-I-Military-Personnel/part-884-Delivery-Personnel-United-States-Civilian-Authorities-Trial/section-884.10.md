@@ -1,0 +1,3 @@
+##### § 884.10 Returning members, employees, and family members from overseas. #####
+
+The Air Force expects persons overseas wanted by Federal or state authorities to make themselves available to those authorities for disposition. If they do not, DoD Directive 5525.9, Compliance of DoD Members, Employees, and Family Members Outside the United States With Court Orders, 10 U.S.C. 814, and Pub. L. 100-456, section 721(a), authorize and require commanders to respond promptly to requests from civilian authorities for assistance in returning members, civilian employees, and family members from overseas.

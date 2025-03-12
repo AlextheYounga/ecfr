@@ -1,0 +1,3 @@
+##### § 935.104 Sentence after a plea of guilty. #####
+
+If the Court accepts a plea of guilty to any charge or charges, it shall make a finding of guilty on that charge. Before imposing sentence, the Court shall hear such statements for the prosecution and defense, if any, as it requires to enable it to determine the sentence to be imposed. The accused or his counsel may make any reasonable statement he wishes in mitigation or of previous good character. The prosecution may introduce evidence in aggravation, or of bad character if the accused has introduced evidence of good character. The Court shall then impose any lawful sentence that it considers proper.

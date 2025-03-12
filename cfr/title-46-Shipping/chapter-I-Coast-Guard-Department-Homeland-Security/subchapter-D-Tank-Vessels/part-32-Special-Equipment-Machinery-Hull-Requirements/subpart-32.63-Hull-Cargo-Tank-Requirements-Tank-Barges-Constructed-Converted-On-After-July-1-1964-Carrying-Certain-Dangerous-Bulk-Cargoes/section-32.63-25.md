@@ -1,0 +1,13 @@
+##### § 32.63-25 Cargo tanks and supports—B/ALL. #####
+
+(a) *General.* Saddles and hold-down securing straps for independent cargo tanks shall be designed to prevent tank failure due to loads induced in the saddles or straps by barge deflection.
+
+(b) *Collision protection.* (1) All independent cargo tanks installed on Type I and Type II barge hulls shall be protected with suitable collision chocks or collision straps to withstand a longitudinal collision load of one and one-half times the weight of the tank and cargo. All other independent cargo tanks shall be provided with suitable collision chocks or collision straps to withstand a longitudinal collision load equal to the weight of the tank and cargo.
+
+(2) All cargo tanks shall be so located as to reduce the likelihood of their being damaged in the event of collision. This protection shall be obtained by locating the cargo tanks not less than 4 feet from the side shell and box-end for Type I hulls and 3 feet for Type II barge hulls, and not less than 25 feet from the headlog at the bow for both types.
+
+(c) *Cargo tank design*—(1) *Types I and II barge hulls.* (i) In addition to requirements provided for in applicable regulations for a specific commodity, cargoes subject to the provisions of this subpart shall be transported in cargo tanks meeting the requirements of this paragraph. Pressure vessel-type cargo tanks shall have sufficient additional strength so as to limit the maximum combined tank stress, including saddle horn and bending stresses, to 1.5 times the maximum allowable hoop stress in still water, and to the yield strength of the tank material or 70 percent of the minimum ultimate tensile strength of the tank material, if less, in the grounded condition as required by § 32.63-20(b).
+
+(ii) Gravity type cargo tanks shall have sufficient additional strength to limit the maximum combined tank stress, including saddle horn and bending stresses, to the yield strength of the tank material or 70 percent of the minimum ultimate tensile strength of the tank material, if less, in the grounded condition as required by § 32.63-20(b).
+
+(2) *Type III barge hulls.* In addition to the requirements of this paragraph, pressure vessel-type cargo tanks shall have sufficient additional strength so as to limit the maximum combined stress, including saddle horn and bending stresses, to 1.5 times the maximum allowable hoop stress.

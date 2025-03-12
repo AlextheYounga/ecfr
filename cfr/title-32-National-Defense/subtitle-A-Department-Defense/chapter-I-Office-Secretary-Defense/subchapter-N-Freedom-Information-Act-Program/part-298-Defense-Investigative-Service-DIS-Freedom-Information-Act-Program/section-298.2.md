@@ -1,0 +1,5 @@
+##### § 298.2 Organization. #####
+
+(a) The DIS organization includes a Headquarters located in Alexandria, Virginia; four Regions and one operational area with subordinate operating locations throughout the Continental United States (CONUS), Alaska, Hawaii, and Puerto Rico; the Defense Industrial Security Clearance Office (DISCO), Columbus, Ohio; the Personnel Investigations Center (PIC) and National Computer Center (NCC) in Baltimore, Maryland; Office of Industrial Security International Europe (OISI-E), located in Brussels, Belgium with a subordinate office in Mannheim, Germany; Office of Industrial Security International Far East (OISI-FE) located at Camp Zama, Japan; and the Department of Defense Security Institute, located in Richmond, Virginia.
+
+(b) A copy of the DIS Directory showing the addresses of all offices, is available to the public upon request and may be obtained by following the procedures outlined in § 298.4. The names and duty addresses of DIS personnel serving overseas are not released.

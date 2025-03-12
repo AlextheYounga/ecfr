@@ -1,0 +1,13 @@
+##### § 401.230 Certificates of Registration. #####
+
+(a) A Certificate of Registration shall describe the part or parts of the Great Lakes within which the pilot is authorized to perform pilotage services and such description shall not be inconsistent with the terms of the pilotage authorization in his or her master's, mate's, or pilot's endorsement issued under the authority of Title 52 of the Revised Statutes.
+
+(b) A Certificate of Registration shall not authorize the holder to board any vessel, or to serve as a pilot of any vessel, without the permission of the owner or master. A Certificate of Registration shall be in the possession of a pilot at all times when he or she is in the service of a vessel, and shall be displayed upon demand of the owner or master, any United States Coast Guard officer or inspector, or a representative of the Director.
+
+(c) A Certificate of Registration evidencing registration of the holder is the property of the U.S. Coast Guard and it shall not be pledged, deposited, or surrendered to any person except as authorized by this part. A Certificate of Registration may not be photostated or copied. A Certificate which has expired without renewal, or renewal of which has been denied under the provisions of this section, shall be surrendered to the Director upon demand.
+
+(d) An application for a replacement of a lost, damaged, or defaced Certificate of Registration shall be made in writing to the Director together with two full-face photographs, 11/2 inches by 2 inches, signed on the face. A replacement fee of five dollars ($5) by check or money order, drawn to the order of the U.S. Coast Guard, shall accompany any such application. A Certificate issued as a replacement for a lost, damaged, or defaced Certificate shall be marked so as to indicate that it is a replacement. Upon receipt of a Certificate issued as a replacement, the damaged or defaced Certificate shall be surrendered to the Director.
+
+(e) A Certificate of Registration may be voluntarily surrendered to the Director by a Registered Pilot at any time such pilot no longer desires to perform pilotage services; however, in the event such Registered Pilot has been served with a notice of hearing pursuant to § 401.250, a voluntary surrender of the Certificate of Registration shall be at the option of the Director.
+
+[29 FR 10465, July 28, 1964, as amended at 31 FR 9065, July 1, 1966; 32 FR 14221, Oct. 13, 1967; CGD 78-144a, 44 FR 19363, Apr. 2, 1979; 61 FR 5721, Feb. 14, 1996. Redesignated and amended at 61 FR 32655, June 25, 1996, and further redesignated and amended by USCG-1998-3976, 63 FR 35139, 35140, June 29, 1998; USCG-2002-13058, 67 FR 61279, Sept. 30, 2002; USCG-2006-24371, 74 FR 11267, Mar. 16, 2009]

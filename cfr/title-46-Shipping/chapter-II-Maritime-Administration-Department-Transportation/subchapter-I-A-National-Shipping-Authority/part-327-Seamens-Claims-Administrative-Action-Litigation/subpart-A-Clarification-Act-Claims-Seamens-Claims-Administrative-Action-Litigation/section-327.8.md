@@ -1,0 +1,5 @@
+##### § 327.8 Court action. #####
+
+(a) No seamen, having a claim specified in subsections (2) and (3) of section 1(a) of 50 U.S.C. App. 1291(a), their surviving dependents and beneficiaries, or their legal representatives shall institute a court action for the enforcement of such claim unless such claim shall have been prepared and filed in accordance with §§ 327.4 and 327.5 and shall have been administratively disallowed in accordance with § 327.6 or 327.7.
+
+(b) This part prescribes rules and regulations pertaining to the filing of claims designated in § 327.3 and the administrative allowance, or disallowance (actual and presumed), of such claims, in whole or in part, filed by officers and members of crews (hereafter referred to as “seamen”) employed on vessels through the National Shipping Authority (NSA), Maritime Administration (MarAd), or successor organization.

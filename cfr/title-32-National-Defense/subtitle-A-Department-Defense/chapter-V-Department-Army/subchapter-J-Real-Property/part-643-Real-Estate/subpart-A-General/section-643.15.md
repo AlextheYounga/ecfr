@@ -1,0 +1,3 @@
+##### § 643.15 Unauthorized use. #####
+
+Whenever it is observed that real estate under the control of the DA is being used and/or occupied by private parties without proper authority, corrective action will be taken to cause such unauthorized use to be discontinued or to formalize such use and occupancy by an appropriate grant in accordance with this regulation. In either event, compensation will be obtained for the unauthorized use of such property.

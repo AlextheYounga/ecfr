@@ -1,0 +1,3 @@
+##### § 201.6 Documents in foreign languages. #####
+
+Every document, exhibit, or other paper written in a language other than English and filed with the Administration or offered in evidence in any proceeding before the Administration under the regulations in this part or in response to any rule or order of the Administration pursuant to the regulations in this part, shall be filed or offered in the language in which it is written and shall be accompanied by an English translation thereof duly subscribed.

@@ -1,0 +1,47 @@
+##### § 536.132 Procedure for processing UCMJ claims. #####
+
+(a) *Time limitations on submission of a claim.* A claim must be submitted within 90 days of the incident that gave rise to it, unless the SPCMCA acting on the claim determines there is good cause for delay. Lack of knowledge of the existence of Article 139, or lack of knowledge of the identity of the offender, are examples of good cause for delay.
+
+(b) *Form and presentment of a claim.* The claimant or authorized agent may present a claim orally or in writing. If presented orally, the claim must be reduced to writing, signed, and seek a definite sum in U.S. dollars within 10 days after oral presentment.
+
+(c) *Action upon receipt of a claim.* Any officer receiving a claim will forward it within two working days to the SPCMCA exercising jurisdiction over the soldier or soldiers against whom the claim is made. If the claim is made against soldiers under the jurisdiction of two or more convening SPCMCAs who are under the same GCMCA, forward the claim to that GCMCA. That GCMCA will designate one SPCMCA to investigate and act on the claim as to all soldiers involved. If the claim is made against soldiers under the jurisdiction of more than one SPCMCA at different locations and not under the same GCMCA, forward the claim to the SPCMCA whose headquarters is located nearest the situs of the alleged incident. That SPCMCA will investigate and act on the claim as to all soldiers involved. If a claim is brought against a member of one of the other military services, forward the claim to the commander of the nearest major command of that service equivalent to a major Army command (MACOM).
+
+(d) *Action by the special court-martial convening authority.* (1) If the claim appears to be cognizable, the SPCMCA will appoint an investigating officer within four working days of receipt of a claim. The investigating officer will follow the procedures of this subpart supplemented by DA Pam 27-162, chapter 9, and AR 15-6, chapter 4, which applies to informal investigations. The SPCMCA may appoint the claims officer of a command (if the claims officer is a commissioned officer) as the investigating officer. In cases where the special court-martial convening authority is an inactive duty soldier of the United States Army Reserve, the appointment of an investigating officer will be made within 30 calendar days.
+
+(2) If the claim is not brought against a person who is a member of the Armed Forces of the United States at the time the claim is received, or if the claim does not appear otherwise cognizable under Article 139, UCMJ, the SPCMCA may refer it for legal review (see paragraph (g) of this section) within four working days of receipt. If after legal review the SPCMCA determines that the claim is not cognizable, final action may be taken disapproving the claim (see paragraph (h) of this section) without appointing an investigating officer. In claims where the special court-martial convening authority is an inactive duty soldier of the United State Army Reserve, the request for a legal review will be made within 30 calendar days.
+
+(e) *Expediting payment through Personnel Claims Act and Foreign Claims Act procedures.* When assessment action on a particular claim will be unduly delayed, the claims office supporting the SPCMA may consider the claim under the Personnel Claims Act, 31 U.S.C. 3721, and chapter 11 of AR 27-20, or under the Foreign Claims Act, 10 U.S.C. 2734, and subpart J of this part, as long as it is otherwise cognizable under that authority. If the Article 139 claim is later successful, the claims office will inform the claimant of the obligation to repay to the government any overpayment received under these statutes.
+
+(f) *Action by the investigating officer.* The investigating officer will notify the soldier against whom the claim is made.
+
+(1) If the soldier wishes to make voluntary restitution, the investigating officer may, with the SPCMCA's concurrence, delay proceedings until the end of the next pay period to permit restitution. If the soldier makes payment to the claimant's full satisfaction, the SPCMCA will dismiss the claim.
+
+(2) In the absence of full restitution, the investigating officer will determine whether the claim is cognizable and meritorious under the provisions of Article 139, UCMJ, and this subpart, and the amount to be assessed against each offender. This amount will be reduced by any restitution the claimant accepts from an offender in partial satisfaction. Within 10 working days, or such time as the SPCMCA may determine, the IO will submit written findings and recommendations to the SPCMCA.
+
+(3) If the soldier is absent without leave and cannot be notified, a claims office may process the Article 139 claim in the soldier's absence. If an assessment is approved, forward a copy of the claim and the memorandum authorizing pay assessment by transmittal letter to the servicing Defense Accounting Office (DAO) for offset against the soldier's pay. If the soldier is dropped from the rolls, the servicing DAO will forward the assessment documents to: Commander, Defense Finance and Accounting Service (DFAS), ATTN: Military Pay Operations, 8899 E. 56th Street, Indianapolis, IN 46249.
+
+(g) *Legal review.* The SPCMCA will refer the claim for legal review to its servicing legal office upon either completion of the investigating officer's report or the SPCMCA's determination that the claim is not cognizable (see paragraph (d)(2) of this section).
+
+(1) Within five working days or such time as the SPCMCA determines, that office will furnish a written opinion as to:
+
+(i) Whether the claim is cognizable under the provisions of Article 139, UCMJ, and this subpart.
+
+(ii) Whether the findings and recommendations are supported by a preponderance of the evidence.
+
+(iii) Whether the investigation substantially complies with the procedural requirements of Article 139, UCMJ; this subpart; DA Pam 27-162, chapter 9; and AR 15-6, chapter 4.
+
+(iv) Whether the claim is clearly not cognizable (see paragraph (d)(2) of this section) and final denial action can be taken without appointing an investigating officer.
+
+(2) If the investigating officer's recommended assessment does not exceed $5,000, the claims judge advocate (CJA) or claims attorney will, upon legal review, forward the claim to the SPCMCA for final action.
+
+(3) If the investigating officer's recommended assessment is more than $5,000, the CJA or claims attorney will, upon legal review, forward the claim file to the head of the ACO, who will also conduct a legal review within five working days.
+
+(i) If the recommended assessment does not exceed $10,000, the head of the ACO will forward the claim file to the GCMCA for final action.
+
+(ii) If the recommended assessment exceeds $10,000, the head of the ACO will forward the claim file to the GCMCA for approval of an assessment up to $10,000 and for a recommendation of an additional assessment. The head of the ACO will then forward the claims file and the GCMCA's recommendation to the Commander USARCS for approval.
+
+(h) *Final action.* After consulting with the legal advisor, the approval authority will disapprove or approve the claim in an amount equal to, or less than, the amount of the assessment limitation. The approval authority is not bound by the findings or recommendations of the IO; AR 15-6, paragraph 2-3a. The approval authority will notify the claimant, and any soldier subject to that officer's jurisdiction, of the determination and the right of any party to request reconsideration (see § 536.133). A copy of the investigating officer's findings and recommendation will be enclosed with the notice. The approval authority will then suspend action on the claim for 10 working days pending receipt of a request for reconsideration, unless the approval authority determines that this delay will result in substantial injustice. If after this period the approval authority determines that an assessment is still warranted, the approval authority will direct the appropriate DAO to withhold such amount from the soldier's pay account (see § 536.131(a)). For any soldier not subject to the approval authority's jurisdiction, the approval authority will forward the claim to the commander who exercises SPCMCA jurisdiction over the soldier for assessment. The receiving SPCMCA is bound by the determination of the approval authority.
+
+(i) *Assessment.* Subject to any limitations set forth in appropriate regulations, the servicing DAO will withhold the amount directed by the approval authority and pay it to the claimant. The assessment is not subject to appeal and is binding on any finance officer. If the servicing DAO cannot withhold the required amount because it does not have custody of the soldier's pay record, the record is missing, or the soldier is in a no pay due status, that office will promptly notify the approval authority of this fact in writing.
+
+(j) *Remission of indebtedness.* 10 U.S.C. 4837, which authorizes the remission and cancellation of indebtedness of an enlisted person to the United States or its instrumentalities, is not applicable and may not be used to remit and cancel indebtedness determined as a result of action under Article 139, UCMJ.

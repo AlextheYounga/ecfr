@@ -1,0 +1,3 @@
+##### § 536.96 Statutory authority for the National Guard Claims Act. #####
+
+The statutory authority for this subpart is contained in the Act of September 1960 (32 U.S.C. 715, 74 Stat. 878), commonly referred to as the “National Guard Claims Act” (NGCA), as amended by Public Law 87-212, (75 Stat. 488), September 1961; Public Law 90-486, (82 Stat. 756), August 1968; Public Law 90-521, (82 Stat. 874), September 1968; Public Law 90-525, (82 Stat. 877), September 1968; Public Law 91-312, (84 Stat. 412), July 1970; Public Law 93-336, (88 Stat. 291), July 1974; and Public Law 98-564, (98 Stat. 2918), October 1984.

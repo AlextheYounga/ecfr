@@ -1,0 +1,3 @@
+##### § 865.117 Final disposition of the record of proceedings. #####
+
+The original record of proceedings and all appendices thereto shall in all cases be incorporated in the military record of the applicant and returned to the custody of the National Personnel Records Center (NPRC), St. Louis, Missouri. If a portion of the original record cannot be stored with the service record, the service record shall contain a notation as to the place where the record is stored.

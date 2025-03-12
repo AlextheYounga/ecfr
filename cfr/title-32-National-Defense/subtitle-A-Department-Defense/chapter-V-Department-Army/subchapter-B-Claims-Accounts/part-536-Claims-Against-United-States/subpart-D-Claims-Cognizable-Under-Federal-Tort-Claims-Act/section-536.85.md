@@ -1,0 +1,5 @@
+##### § 536.85 Claims payable under the Federal Tort Claims Act. #####
+
+(a) Unless otherwise prescribed, claims for death, personal injury, or damage to, or loss of, property (real or personal) are payable under this subpart when the injury or damage is caused by negligent or wrongful acts or omissions of military personnel or civilian employees of the Department of the Army or Department of Defense while acting within the scope of their employment under circumstances in which the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred. The FTCA is a limited waiver of sovereign immunity without which the United States may not be sued in tort. Similarly, neither the Fifth Amendment nor any other provision of the U.S. Constitution creates or permits a federal cause of action allowing recovery in tort. Immunity must be expressly waived, as the FTCA waives it.
+
+(b) To be payable, a claim must arise from the acts or omissions of an “employee of the government” under 28 U.S.C. 2671. Categories of such employees are listed in § 536.23(b) of this part.

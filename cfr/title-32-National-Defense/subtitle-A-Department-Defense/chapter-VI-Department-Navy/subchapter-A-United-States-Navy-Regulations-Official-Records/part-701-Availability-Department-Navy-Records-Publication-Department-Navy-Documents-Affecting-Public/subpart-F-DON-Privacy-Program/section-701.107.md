@@ -1,0 +1,61 @@
+##### § 701.107 Record access. #####
+
+The access provisions of this subpart and subpart G of this part are intended for use by individuals about whom records are maintained in systems of records. Accordingly, only individuals seeking first party access to records retrieved by their name and/or personal identifier from a system of records have access under the provisions of 5 U.S.C. 552a, this subpart and subpart G of this part, unless they provide written authorization for their representative to act on their behalf. (See § 701.107(e) regarding access by custodial parents and legal guardians.)
+
+(a) *How to request records.* Individuals shall address requests for access to records retrieved by their name and/or personal identifier to the PA systems manager or to the office designated in the paragraph entitled, “Record Access Procedures.”
+
+(1) DON activities may not require an individual to state a reason or justify the need to gain access under 5 U.S.C. 552a, this subpart and subpart G of this part.
+
+(2) However, an individual must comply with the requirements of the PA and this instruction in order to seek access to records under the provisions of 5 U.S.C. 552a, this subpart and subpart G of this part. Specifically, individuals seeking access to records about themselves that are maintained in a PA system of records must sign their request and provide specific identifying data to enable a search for the requested record. Failure to sign the request or to provide sufficient identifying data to locate the record will result in the request being returned for non-compliance with the “Record Access Procedures” cited in the PA system of records notice.
+
+(b) *Authorized access.* (1) Individuals may authorize the release of all or part of their records to anyone they choose provided they submit a signed authorization to that DON activity. Such authorization must specifically state the records to which the individual may have access.
+
+(2) Individuals may be accompanied by anyone they choose when seeking to review their records. In such instance, DON activities shall require the individual to provide a written authorization to allow the record to be discussed in front of the other person.
+
+(c) *Failure to comply.* First party requesters will be granted access to their records under the provisions of the PA, unless:
+
+(1) They did not properly identify the records being sought; did not sign their request; and/or failed to provide sufficient identifying data to locate the requested record(s);
+
+(2) They are seeking access to information in a system of records that is exempt from disclosure in whole or in part under the provisions of 5 U.S.C. 552a;
+
+(3) They are seeking access to information that was compiled in anticipation of a civil action or proceeding (*i.e.*, 5 U.S.C. 552a(d)(5) applies). The term “civil action or proceeding” includes quasi-judicial and pre-trial judicial proceedings, as well as formal litigation. However, this does not prohibit access to records compiled or used for purposes other than litigation or to records frequently subject to litigation. The information must have been compiled for the primary purpose of litigation to be withheld under 5 U.S.C. 552a(d)(5); or
+
+(4) They are seeking access to information contained in the system that is currently and properly classified (see 5 U.S.C. 552a(k)(1)).
+
+(d) *Blanket requests.* Many DON activities are unable to respond to “blanket” requests from individuals for access or copies of “all records pertaining to them,” because they do not have a centralized index that would allow them to query by name and personal identifier to identify “all files.” Accordingly, it is the requester's responsibility to identify the specific PA system of records notice for which they seek information. To assist the requester in identifying such systems, DON activities shall apprise the requester that a listing of all DON PA systems of records can be downloaded from *http://www.privacy.navy.mil* and that they should identify the specific records they are seeking and write directly to the PA systems manager listed in the notice, following the guidance set forth under the section entitled “Record Access Procedures” of the notice.
+
+(e) *Access by custodial parents and legal guardians.* The custodial parent of any minor, or the legal guardian of any individual declared by a court of competent jurisdiction to be incompetent due to physical or mental incapacity or age, may obtain access to the record of the minor or incompetent individual under the provisions of the PA, if they are acting on behalf of/in the best interest of/for the benefit of the minor or incompetent. If the systems manager determines that they are not acting on behalf of/in the best interest of/for the benefit of the minor or incompetent, access will not be granted under the PA and the request will be processed under FOIA (5 U.S.C. 552). See 701.122 regarding access to medical records.
+
+(f) *Access by a minor or incompetent.* The right of access of the parent or legal guardian is in addition to that of the minor or incompetent. Although a minor or incompetent has the same right of access as any other individual under this subpart and subpart G of this part, DON activities may wish to ascertain whether or not the individual is being coerced to obtain records for the benefit of another. If so, the activity may refuse to process the request under the provisions of PA.
+
+(g) *Requests from members of Congress.* Requests received from a Member of Congress on behalf of a constituent shall be processed under the provisions of the PA and this subpart and subpart G of this part if the requester is seeking access to records about the constituent contained in a non-exempt PA system of records (*i.e.*, first party request). Otherwise, the request will be processed under the provisions of the FOIA (see 5 U.S.C. 552) since the request is received from a third party (*i.e.*, not the record subject).
+
+(1) The DOD “Blanket Routine Uses” enables DON activities to process requests from Members of Congress on behalf of their constituents without submitting a written authorization from the constituent granting authorization to act on their behalf.
+
+(2) In those instances where the DON activity wishes to verify that a constituent is seeking assistance from a Member of Congress, an oral or written statement by a Congressional staff member is sufficient to confirm that the request was received from the individual to whom the record pertains.
+
+(3) If the constituent inquiry is made on behalf of an individual other than the record subject (*i.e.*, a third party requester), advise the Member of Congress that a written consent from the record subject is required before information may be disclosed. Do not contact the record subject to obtain consent for the disclosure to the Member of Congress, unless specifically requested by the Member of Congress.
+
+(4) Depending on the sensitivity of the information being requested, a DON activity may choose to provide the record directly to the constituent and notify the congressional office that this has been done without providing the record to the congressional member.
+
+(h) *Release of PPI.* Release of PPI to individuals under the PA and/or this subpart or subpart G is not considered to be a public release of information.
+
+(i) *Verification of identity.* (1) An individual shall provide reasonable verification of identity before obtaining access to records. In the case of seeking to review a record in person, identification of the individual can be verified by documents they normally carry (e.g., identification card, driver's license, or other license, permit/pass). DON activities shall not, however, deny access to an individual who is the subject of the record solely for refusing to divulge his/her SSN, unless it is the only means of retrieving the record or verifying identity.
+
+(2) DON activities may not insist that a requester submit a notarized signature to request records. Instead, the requester shall be offered the alternative of submitting an unsworn declaration that states “I declare under perjury or penalty under the laws of the United States of America that the foregoing is true and correct.”
+
+(j) *Telephonic requests.* DON activities shall not honor telephonic requests nor unsigned E-Mail/FAX/letter requests for first party access to a PA system of records.
+
+(k) *Denials.* (1) An individual may be denied access to a record pertaining to him/her only if the record was compiled in reasonable anticipation of civil action; is in a system of records that has been exempted from the access provisions of this subpart and subpart G of this part under one of the permitted exemptions; contains classified information that has been exempted from the access provision of this instruction under the blanket exemption for such material claimed for all DOD PA systems of records; is contained in a system of records for which access may be denied based on some other federal statute.
+
+(2) Only deny the individual access to those portions of the records for which the denial of access serves some legitimate governmental purpose.
+
+(3) Only a designated denial authority may deny access to information contained in an exempt PA system of records. The denial must be in writing and at a minimum include the name, title or position and signature of the designated denial authority; the date of the denial; the specific reason for the denial, including specific citation to the appropriate sections of the PA or other statutes, this instruction, or CFR authorizing the denial; notice to the individual of his/her right to appeal the denial through the component appeal procedure within 60 calendar days; and, the title or position and address of the PA appeals official for the DON.
+
+(l) *Illegible or incomplete records.* DON activities may not deny an individual access to a record solely because the physical condition or format of the record does not make it readily available (*i.e.,* when the record is in a deteriorated state or on magnetic tape). DON activities may either prepare an extract or recopy the document and mark it “Best Copy Available.”
+
+(m) *Personal notes.* (1) Certain documents under the physical control of a DON employee and used to assist him/her in performing official functions are not considered “agency records” within the meaning of this instruction. Un-circulated personal notes and records that are not disseminated or circulated to any person or organization (e.g., personal telephone lists or memory aids) that are retained or discarded at the author's discretion and over which the DON activity does not exercise direct control, are not considered “agency records.” However, if personnel are officially directed or encouraged, either in writing or orally, to maintain such records, they may become “agency records,” and may be subject this subpart and subpart G of this part.
+
+(2) The personal uncirculated handwritten notes of unit leaders, office supervisors, or military supervisory personnel concerning subordinates are not systems of records within the meaning of this instruction. Such notes are an extension of the individual's memory. These notes, however, must be maintained and discarded at the discretion of the individual supervisor and not circulated to others. Any established requirement to maintain such notes (such as, written or oral directives, regulations, or command policy) make these notes “agency records” and they then must be made a part of a system of records. If the notes are circulated, they must be made a part of a system of records. Any action that gives personal notes the appearance of official agency records is prohibited, unless the notes have been incorporated into a system of records.
+
+(n) *Compiled in anticipation of litigation.* An individual is not entitled to access information compiled in reasonable anticipation of a civil action or proceeding. Accordingly, deny access under 5 U.S.C. 552a(d)(5) and then process under FOIA (SECNAVINST 5740.42F) to determine releasibility.

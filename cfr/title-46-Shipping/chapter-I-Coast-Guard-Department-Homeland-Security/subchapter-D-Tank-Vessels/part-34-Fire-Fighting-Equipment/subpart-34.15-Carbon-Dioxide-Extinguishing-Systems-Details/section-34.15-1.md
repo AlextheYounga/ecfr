@@ -1,0 +1,5 @@
+##### § 34.15-1 Application—T/ALL. #####
+
+(a) Where a carbon dioxide extinguishing system is installed, the provisions of this subpart, with the exception of § 34.15-90, shall apply to all installations contracted for on or after January 1, 1962. Installations contracted for prior to January 1, 1962, shall meet the requirements of § 34.15-90.
+
+(b) The requirements of this subpart are based on a “high pressure system,” i.e., one in which the carbon dioxide is stored in liquid form at atmospheric temperature. Details for “low pressure systems,” i.e., those in which the carbon dioxide is stored in liquid form at a continuously controlled low temperature, may be specifically approved by the Commandant where it is demonstrated that a comparable degree of safety and fire extinguishing ability is achieved.

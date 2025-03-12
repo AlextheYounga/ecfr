@@ -1,0 +1,5 @@
+##### § 1653.2 Procedures for taking an appeal to the President. #####
+
+(a) When the Director of Selective Service appeals to the President he shall place in the registrant's file a written statement of his reasons for taking such appeal. When an appeal is taken by the Director the registrant will be notified that the appeal has been taken, the reasons therefor, and that the registrant may appear in person before the National Board in accord with § 1653.1(b).
+
+(b) An appeal to the President by the registrant shall be taken by filing a written notice of appeal with the local board that classified him. He may at the same time file a written request to appear before the National Selective Service Appeal Board. Such notice need not be in any particular form but must state the name of the registrant and the fact that he wishes the President to review the determination.

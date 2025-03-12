@@ -1,0 +1,3 @@
+##### § 775.8 Scoping. #####
+
+As soon as practicable after the decision to prepare an EIS is made, an early and open process called “scoping” shall be used to determine the scope of issues to be addressed and to identify the significant issues to be analyzed in depth related to the proposed action (40 CFR 1501.7). This process also serves to deemphasize insignificant issues, narrowing the scope of the EIS process accordingly (40 CFR 1500.4(g)). Scoping results in the identification by the proponent of the range of actions, alternatives, and impacts to be considered in the EIS (40 CFR 1508.25). For any action, this scope may depend on the relationship of the proposed action to other existing environmental documentation.

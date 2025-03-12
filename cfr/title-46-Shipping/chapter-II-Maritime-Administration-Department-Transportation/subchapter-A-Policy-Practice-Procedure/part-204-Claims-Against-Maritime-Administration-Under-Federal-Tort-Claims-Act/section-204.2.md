@@ -1,0 +1,3 @@
+##### § 204.2 Claims payable. #####
+
+Claims for death, personal injury, or damage to or loss of real or personal property are payable when the death, injury or damage is caused by a negligent or wrongful act or omission of an employee of the Maritime Administration, while acting within the scope of employment and under circumstances in which the United States, if a private person, would be liable to the claimant under the law of the place where the act or omission occurred.

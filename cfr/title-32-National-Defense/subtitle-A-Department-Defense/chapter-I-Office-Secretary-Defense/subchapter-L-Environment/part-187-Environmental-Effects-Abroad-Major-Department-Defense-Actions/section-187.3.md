@@ -1,0 +1,13 @@
+##### § 187.3 Definitions. #####
+
+(a) *Environment* means the natural and physical environment, and it excludes social, economic, and other environments. Social and economic effects do not give rise to any requirements under this part.
+
+(b) *Federal Action* means an action that is implemented or funded directly by the United States Government. It does not include actions in which the United States participates in an advisory, information-gathering, representational, or diplomatic capacity but does not implement or fund the action; actions taken by a foreign government or in a foreign country in which the United States is a beneficiary of the action, but does not implement or fund the action; or actions in which foreign governments use funds derived indirectly from United States funding.
+
+(c) *Foreign Nation* means any geographic area (land, water, and airspace) that is under the jurisdiction of one or more foreign governments; any area under military occupation by the United States alone or jointly with any other foreign government; and any area that is the responsibility of an international organization of governments. “Foreign nation” includes contiguous zones and fisheries zones of foreign nations. “Foreign government” in this context includes governments regardless of whether recognized by the United States, political factions, and organizations that exercise governmental power outside the United States.
+
+(d) *Global Commons* are geographical areas that are outside the jurisdiction of any nation, and include the oceans outside territorial limits and Antarctica. Global commons do not include contiguous zones and fisheries zones of foreign nations.
+
+(e) *Major Action* means an action of considerable importance involving substantial expenditures of time, money, and resources, that affects the environment on a large geographic scale or has substantial environmental effects on a more limited geographical area, and that is substantially different or a significant departure from other actions, previously analyzed with respect to environmental considerations and approved, with which the action under consideration may be associated. Deployment of ships, aircraft, or other mobile military equipment is not a major action for purposes of this part.
+
+(f) *United States* means all States, territories, and possessions of the United States; and all waters and airspace subject to the territorial jurisdiction of the United States. The territories and possessions of the United States include the Virgin Islands, American Samoa, Wake Island, Midway Island, Guam, Palmyra Island, Johnston Atoll, Navassa Island, and Kingman Reef.

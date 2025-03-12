@@ -1,0 +1,9 @@
+##### § 644.66 Payment for title services. #####
+
+(a) *Approval.* The Contracting Officer will approve payment for all title evidence obtained in connection with the acquisition of land from funds available to the Division or District Engineer for that purpose, whether the land is acquired by purchase or condemnation.
+
+(b) *Review.* When abstracts are furnished on a per-item or per-page basis, the contents must be carefully reviewed by a qualified representative of the Division or District Engineer, to insure that bills are not excessive and that abstracts do not include superfluous material. Where erroneous or superfluous material is included in abstract, the bills involved will be corrected so that payment for such material is not made. All title evidence will be examined to determine that there has been full compliance with the specifications.
+
+(c) *Payment for title evidence.* Payments for title evidence will be made by the Contracting Officer from available funds for the project to which the title evidence pertains, upon receipt of certified and approved vouchers.
+
+(d) *Preparation of Invoices for Title Services.* The abstractor or title company will submit a certified invoice for services rendered, to the office to which the title evidence was delivered for review. The invoice must specify the particular type of title evidence furnished, the tract number, name of owner, name of project, and contract number. Invoices found to be correct will be certified as to receipt of the services by the receiving office and will be transmitted to the Division or District Engineer for further action and payment.

@@ -1,0 +1,3 @@
+##### § 151.45-3 Manning. #####
+
+Except as provided for in this section, barges need not be manned unless in the judgment of the Officer in Charge, Marine Inspection, such manning is necessary for the protection of life and property and for safe operation of the vessel. Vessels requiring manning for safe operation shall be subject to additional requirements as determined by the Commandant. Towing vessels, while towing barges which are not required to be manned, shall be provided with and have on board the information card required by § 151.45-2(e)(3). This card shall be in the possession of the master or person in charge.

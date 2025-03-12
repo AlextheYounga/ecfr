@@ -1,0 +1,3 @@
+##### § 516.27 Scope. #####
+
+This subpart guidance when DA personnel, as a result of the performance of their official duties, are either sued in their personal capacity, or are charged in a criminal proceeding. Examples of civil actions alleging individual liability include the following: a medical malpractice lawsuit against health care providers; suits resulting from motor vehicle accidents; constitutional torts; or, common law torts such as assault, libel, or intentional infliction of emotional distress. Likewise, state or Federal criminal charges can arise from the performance of official duties, including environmental crimes or motor vehicle accidents.

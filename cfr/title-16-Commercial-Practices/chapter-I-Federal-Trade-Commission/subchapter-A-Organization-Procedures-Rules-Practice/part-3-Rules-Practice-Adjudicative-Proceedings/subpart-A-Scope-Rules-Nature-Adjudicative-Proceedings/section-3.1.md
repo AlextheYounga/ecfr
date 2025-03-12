@@ -1,0 +1,5 @@
+##### § 3.1 Scope of the rules in this part; expedition of proceedings. #####
+
+The rules in this part govern procedure in formal adjudicative proceedings. To the extent practicable and consistent with requirements of law, the Commission's policy is to conduct such proceedings expeditiously. In the conduct of such proceedings the Administrative Law Judge and counsel for all parties shall make every effort at each stage of a proceeding to avoid delay. In the event of a scheduling conflict between a proceeding in which the Commission also has sought or is seeking relief under Section 13(b) of the FTC Act, 15 U.S.C. 53(b), and another proceeding, the proceeding in which the Commission also has sought or is seeking relief under Section 13(b) shall take precedence. The Commission, at any time, or the Administrative Law Judge at any time prior to the filing of his or her initial decision, may, with the consent of the parties, shorten any time limit prescribed by these Rules of Practice.
+
+[74 FR 20208, May 1, 2009]

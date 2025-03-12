@@ -1,0 +1,3 @@
+##### § 643.6 Responsibilities of overseas commanders. #####
+
+Overseas commanders are charged with responsibility for the granting of use of real estate in overseas areas (Puerto Rico, Guam, the American Virgin Islands, American Samoa, TTPI, and the Canal Zone), and in foreign countries, for non-Army use under the policy and guidance expressed in this regulation, provided such use is consistent with the Status of Forces Agreements, Treaties, or the Agreements under which the Army controls such real estate.

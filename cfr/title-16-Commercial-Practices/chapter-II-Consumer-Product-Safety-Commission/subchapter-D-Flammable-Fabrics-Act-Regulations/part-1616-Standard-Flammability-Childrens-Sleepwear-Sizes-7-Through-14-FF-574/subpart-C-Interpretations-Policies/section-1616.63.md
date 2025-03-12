@@ -1,0 +1,3 @@
+##### § 1616.63 Policy regarding garment production unit identification. #####
+
+No provision of 16 CFR 1616.31(b)(7) prohibits placement of a garment production unit identification on a label containing other information. Provided, however, that when the garment production unit identification appears on a label containing other information, provisions of § 1616.31(b)(6) require that the garment production unit identification must be set forth separately from any other information appearing on the same label, and that information not required by the applicable enforcement regulation (§ 1616.31), but placed on the same label with the garment production unit identification, shall not interfere with the garment production unit identification.

@@ -1,0 +1,5 @@
+##### § 98.25-30 Lagging. #####
+
+(a) Lagged tanks shall be covered with an incombustible insulation material of a thickness to provide a thermal conductance of not more than 0.075 B.t.u. per square foot per degree F. differential in temperature per hour. The insulating material shall be of an approved type complying with the requirements of subpart 164.009 of subchapter Q (Specifications) of this chapter, and shall be given a vapor proof coating with fire retardant material acceptable to the Commandant. Tanks exposed to the weather shall have the insulation and vapor proof coating covered with a removable sheet metal jacket of not less than 0.083 inch thickness and flashed around all openings so as to be weather tight. Materials other than sheet metal may be used to cover the insulation and vapor proof coating when specifically authorized by the Commandant.
+
+(b) Where unlagged tanks are installed in insulated holds or insulated 'tween deck spaces, such tanks shall be considered lagged provided the thermal conductance of the insulation is not less than that required by paragraph (a) of this section.

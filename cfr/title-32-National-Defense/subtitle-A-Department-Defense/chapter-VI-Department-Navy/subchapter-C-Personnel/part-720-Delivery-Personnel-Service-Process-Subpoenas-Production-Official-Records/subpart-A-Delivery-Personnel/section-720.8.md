@@ -1,0 +1,5 @@
+##### § 720.8 Delivery of persons to foreign authorities. #####
+
+Except when provided by agreement between the United States and the foreign government concerned, commanding officers are not authorized to deliver members or civilian employees of the Department of the Navy, or their dependents residing at or located on a naval or Marine Corps installation, to foreign authorities. When a request for delivery of these persons is received in a country with which the United States has no agreement or when the commanding officer is in doubt, advice should be sought from the Judge Advocate General. Detailed information concerning the delivery of members, civilian employees, and dependents to foreign authorities when a status of forces agreement is in effect is contained in DoD Directive 5525.1 of 9 April 1985 and SECNAVINST 5820.4F.2
+
+2 See footnote 1 of § 720.5(b).

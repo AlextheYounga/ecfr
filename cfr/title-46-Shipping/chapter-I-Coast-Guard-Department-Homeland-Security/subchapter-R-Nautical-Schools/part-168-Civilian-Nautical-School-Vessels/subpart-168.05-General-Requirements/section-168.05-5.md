@@ -1,0 +1,5 @@
+##### § 168.05-5 Application of passenger vessel inspection regulations. #####
+
+Where the requirements are not covered specifically in this part, all the regulations applying to passenger vessels in subchapters E (Load Lines), F (Marine Engineering), H (Passenger Vessels), J (Electrical Engineering), K (Small Passenger Vessels Carrying More Than 150 Passengers Or With Overnight Accommodations For More Than 49 Passengers), P (Manning), Q (Specifications), T (Small Passenger Vessels), and W (Lifesaving Appliances and Arrangements) of this chapter are hereby made applicable to all vessels or other floating equipment used by or in connection with any civilian nautical school, whether such vessels or other floating equipment are being navigated or not, except vessels of the Navy or Coast Guard.
+
+[CGD 84-069, 61 FR 25312, May 20, 1996, as amended at 63 FR 52816, Oct. 1, 1998]

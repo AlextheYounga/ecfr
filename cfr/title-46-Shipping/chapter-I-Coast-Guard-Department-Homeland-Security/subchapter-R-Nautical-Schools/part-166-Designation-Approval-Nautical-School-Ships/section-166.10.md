@@ -1,0 +1,3 @@
+##### § 166.10 Course of study for engineering students. #####
+
+The course of study for engineering students shall include (a) all the instruction necessary to fully equip the student with the theoretical knowledge required for the proper discharge of the duties developing upon qualified members of the engine department; (b) a thorough practical training in the mechanics of all operations incident to the sailing and management of a vessel insofar as such operations form a part of the duties of qualified members of the engine department.

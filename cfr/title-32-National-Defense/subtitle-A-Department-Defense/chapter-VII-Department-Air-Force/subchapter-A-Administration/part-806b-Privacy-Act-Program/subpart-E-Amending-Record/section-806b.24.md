@@ -1,0 +1,3 @@
+##### § 806b.24 Seeking review of unfavorable Agency determinations. #####
+
+Requesters should pursue record corrections of subjective matters and opinions through proper channels to the Civilian Personnel Office using grievance procedures or the Air Force Board for Correction of Military Records. Record correction requests denied by the Air Force Board for Correction of Military Records are not subject to further consideration under this part. Military personnel, other than U.S. Air Force personnel, should pursue service-unique record corrections through their component chain of command.

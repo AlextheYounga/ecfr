@@ -1,0 +1,5 @@
+##### § 20.3 Misrepresentation of the terms “rebuilt,” “factory rebuilt,” “remanufactured,” etc. #####
+
+(a) It is unfair or deceptive to use the word “Rebuilt,” or any word of similar import, to describe an industry product which, since it was last subjected to any use, has not been dismantled and reconstructed as necessary, all of its internal and external parts cleaned and made rust and corrosion free, all impaired, defective or substantially worn parts restored to a sound condition or replaced with new, rebuilt (in accord with the provisions of this paragraph) or unimpaired used parts, all missing parts replaced with new, rebuilt or unimpaired used parts, and such rewinding or machining and other operations performed as are necessary to put the industry product in sound working condition.
+
+(b) It is unfair or deceptive to represent an industry product as “Remanufactured” or “Factory Rebuilt” unless the product was rebuilt as described in paragraph (a) of this section at a factory generally engaged in the rebuilding of such products.

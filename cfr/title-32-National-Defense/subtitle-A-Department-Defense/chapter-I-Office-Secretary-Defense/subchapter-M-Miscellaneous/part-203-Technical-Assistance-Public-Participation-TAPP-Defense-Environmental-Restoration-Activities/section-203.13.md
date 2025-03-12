@@ -1,0 +1,3 @@
+##### § 203.13 Procurement. #####
+
+Procurements will be conducted as purchase orders in accordance with the FAR (48 CFR part 13). Under these procedures, procurements not exceeding $100,000 are reserved exclusively for small businesses, and will be conducted as competitive procurements. Procurements below a value of $2,500 are considered “micro-purchases.” These procurements do not require the solicitation of bids and may be conducted at the discretion of the contracting officer.

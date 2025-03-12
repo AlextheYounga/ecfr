@@ -1,0 +1,3 @@
+##### § 312.14 Referral of records. #####
+
+An OIG system of records may contain records other DoD Components or Federal agencies originated, and who may have claimed exemptions for them under the Privacy Act of 1974. When any action is initiated on a portion of any several records from another agency which may be exempt, consultation with the originating agency or component will be affected. Documents located within OIG system of records coming under the cognizance of another agency will be referred to that agency for review and direct response to the requester.

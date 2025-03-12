@@ -1,0 +1,7 @@
+##### § 249.9 American market participation. #####
+
+(a) Owners of vessels receiving ODS or Title XI vessel obligation guarantees, or their brokers, shall offer to the American marine insurance market the opportunity to compete for the placement of marine hull insurance on each vessel. Consistent with sound business judgment, owners will be expected to place their insurance with the American market to the maximum extent possible when the rates, terms and conditions offered by American underwriters are competitive with those offered by foreign underwriters. MARAD will make available a list of approved American underwriters and their capacities.
+
+(b) In the event that less than 50 percent of the placement is made with the American marine insurance market, the owners, or their brokers, shall file an affidavit confirming that the risk has been offered to a substantial portion of the American market. The affidavit shall list the American underwriters to which the risk was offered, and such underwriters shall account for at least 50 percent of the approved American market capacity, or 75 percent in the event that more than 75 percent of the risk was placed in foreign markets.
+
+(c) Failure to comply with (a) or (b), above, may result in MARAD requiring that the risk be reoffered and that the existing placement be modified, as deemed appropriate.

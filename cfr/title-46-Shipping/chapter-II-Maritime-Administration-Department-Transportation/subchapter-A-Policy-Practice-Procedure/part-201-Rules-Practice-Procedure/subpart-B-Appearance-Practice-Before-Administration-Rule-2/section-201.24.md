@@ -1,0 +1,3 @@
+##### § 201.24 Suspension or disbarment. #####
+
+The Administration may, in its discretion, deny admission to, suspend, or disbar any person from practice before the Administration who it finds does not possess the requisite qualifications to represent others or is lacking in character, integrity, or to have engaged in unethical or improper professional conduct. Disrespectful, disorderly, or contumacious language or contemptuous conduct at any hearing before the Administration or a presiding officer shall constitute grounds for immediate exclusion from said hearing by the Presiding Officer. Any person who has been admitted to practice before the Administration may be disbarred from such practice only after he has been afforded an opportunity to be heard.

@@ -1,0 +1,3 @@
+##### § 327.6 Notice of allowance or disallowance. #####
+
+MarAd shall give prompt notice in writing of the allowance or disallowance of each claim, in whole or in part, by mail to the last known address of, or by personal delivery to, the claimant or the claimant's legal representative. In the case of administrative disallowance, in whole or in part, such notice shall contain a brief statement of the reason for such disallowance.

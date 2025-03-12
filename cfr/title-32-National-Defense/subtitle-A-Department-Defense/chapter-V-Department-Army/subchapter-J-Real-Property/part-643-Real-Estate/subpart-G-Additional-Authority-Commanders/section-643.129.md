@@ -1,0 +1,5 @@
+##### § 643.129 Youth groups. #####
+
+(a) Installation commanders may grant revocable-at-will licenses for one-time use, or for intermittent or continuing use of available meeting room facilities, without monetary consideration, to on-post youth groups such as the Boy Scouts, Girl Scouts, and Little League.
+
+(b) Installation commanders may grant revocable-at-will licenses for one-time use, or for intermittent or continuing use, to off-post youth groups such as the Boy Scouts, Girl Scouts, and the Little League for nonexclusive use of recreational areas or unimproved land areas within military reservations for recreational or camping purposes. Licenses will be granted for up to a period of 1 year without monetary consideration and will provide for a hold-harmless clause with respect to any and all claims against the Government and will require the repair of any damage or destruction resulting from such use.

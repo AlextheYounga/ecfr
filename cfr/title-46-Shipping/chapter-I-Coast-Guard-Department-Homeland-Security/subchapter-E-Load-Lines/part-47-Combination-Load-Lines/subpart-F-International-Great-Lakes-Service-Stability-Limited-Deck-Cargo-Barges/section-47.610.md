@@ -1,0 +1,3 @@
+##### § 47.610 Conditions of assignment. #####
+
+Owners or operators of deck cargo barges which are draft limited by the intact stability requirements of 46 CFR 174.015 (a)(1) and (a)(2) may elect to be assigned load lines under this subpart in order to load to a draft corresponding to the intact stability requirement of 10 foot-degrees (46 CFR 174.015(a)(2)) while engaging in Great Lakes service during the summer season.

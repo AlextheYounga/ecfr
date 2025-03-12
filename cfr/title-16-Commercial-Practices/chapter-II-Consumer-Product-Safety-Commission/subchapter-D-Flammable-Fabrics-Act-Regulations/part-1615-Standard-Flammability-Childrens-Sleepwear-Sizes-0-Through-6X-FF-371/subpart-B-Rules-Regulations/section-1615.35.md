@@ -1,0 +1,17 @@
+##### § 1615.35 Use of alternate apparatus, procedures, or criteria for testing under the standard. #####
+
+(a) The Standard for the Flammability of Children's Sleepwear: Sizes 0 through 6X (the Standard) requires every manufacturer, importer, and other person (such as a converter) initially introducing items subject to the Standard into commerce to group items into production units, and to test samples from each production unit. See 16 CFR 1615.4 (b), (c) and (d). The Standard prescribes an apparatus and procedure for performing tests of fabric and garments subject to its provisions. See 16 CFR 1615.4 (a), (f), and (g). The Standard prescribes pass/fail criteria at 16 CFR 1615.3(b).
+
+(b)(1) By issuance of this § 1615.35, the Commission gives its approval to any person or firm desiring to use test apparatus or procedures other than those prescribed by the Standard for purposes of compliance with the Standard, if that person or firm has data or other information to demonstrate that a test utilizing such alternate apparatus or procedures is as stringent as, or more stringent than, a test utilizing the apparatus and procedures specified in the Standard. The Commission considers a test utilizing alternate apparatus or procedures to be “as stringent as, or more stringent than” a test utilizing the apparatus and procedures specified in the standard if, when testing identical specimens, a test utilizing alternate apparatus or procedures yields failing results as often as, or more often than, a test utilizing the apparatus and procedures specified in the Standard.
+
+(2) The data or information required by this paragraph (b) of this section as a condition to the Commission's approval of the use of alternate test apparatus or procedures must be in the possession of the person or firm desiring to use such alternate apparatus or procedures before the alternate apparatus or procedures may be used for purposes of compliance with the Standard.
+
+(3) The information required by this paragraph (b) of this section must be retained by the person or firm using the alternate test apparatus or procedure for as long as that apparatus or procedure is used for purposes of compliance with the Standard, and for a period of one year thereafter.
+
+(c) Written application to the Commission is not required for approval of alternate test apparatus or procedure, and the Commission will not act on any individual written application for approval of alternate test apparatus or procedure.
+
+(d) Use of any alternate test apparatus or procedure without the data or information required by paragraph (b), of this section, may result in violation of the Standard and section 3 of the Flammable Fabrics Act (15 U.S.C. 1192).
+
+(e) The Commission will test fabrics and garments subject to the Standard for compliance with the requirements of the Standard using the apparatus and procedures set forth in the Standard. The Commission will consider any failing results from compliance testing as evidence of a violation of the Standard and section 3 of the Flammable Fabrics Act (15 U.S.C 1192).
+
+(Reporting requirements contained in paragraph (d) were approved by the Office of Management and Budget under control number 3041-0027)[48 FR 21315, May 12, 1983]

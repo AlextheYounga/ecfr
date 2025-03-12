@@ -1,0 +1,3 @@
+##### § 101.1 Reissuance and purpose. #####
+
+This part establishes: (a) The criteria and training requirements for satisfactory participation by members of the Reserve components of the U.S. Armed Forces who are subject to the provisions of 10 U.S.C. and 32 U.S.C., and (b) uniform DoD policy for training members of such Reserve components who may be temporarily residing in sovereign foreign nations.

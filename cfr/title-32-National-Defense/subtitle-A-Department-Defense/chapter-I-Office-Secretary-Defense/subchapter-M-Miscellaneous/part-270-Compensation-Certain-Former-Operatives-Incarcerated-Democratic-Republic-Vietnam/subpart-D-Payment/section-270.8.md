@@ -1,0 +1,5 @@
+##### § 270.8 Authorization of payment. #####
+
+Subject to the availability of appropriated funds, upon determination by the Commission of the eligibility of a person for payment, the Commission will authorize the Defense Finance and Accounting Service (DFAS) to make payments out of the funds appropriated for this purpose. Any payment authorized to a person under a legal disability, may, in the discretion of the Commission, be paid for the use of the person, to the natural or legal guardian, committee, conservator, or curator, or, if there is no such natural or legal guardian, committee, conservator, or curator, to any other person, including the spouse, children, parents, or siblings of such person, who the Commission determines is charged with the care of the person. The Commission will notify eligible persons of the process for disbursements.
+
+[63 FR 3472, Jan. 23, 1998, as amended at 63 FR 68195, Dec. 10, 1998]

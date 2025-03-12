@@ -1,0 +1,7 @@
+##### § 635.21 Suspicious Activity Reporting (SAR). #####
+
+(a) The Army will use eGuardian to report, share and analyze unclassified suspicious activity information regarding potential threats or suspicious activities affecting DoD personnel, facilities, or forces in transit in both CONUS and OCONUS. USACIDC is the Army's eGuardian program manager.
+
+(b) eGuardian is the Federal Bureau of Investigation's (FBI) sensitive-but-unclassified web-based platform for reporting, and in some instances, sharing, suspicious activity and threat related information with other federal, state, tribal, and territorial law enforcement and force protection entities. Information entered into eGuardian by the Army may be either shared with all eGuardian participants or reported directly to the FBI. All information entered into eGuardian by the Army will comply with the policy framework for the system and any existing agency agreements, which incorporate privacy protections. Analysis of SARs will assist CRIMINTEL analysts and commanders in mitigating potential threats and vulnerabilities, and developing annual threat assessments.
+
+(c) Any concerned soldier or citizen can submit a SAR to the nearest installation PMO/DES, CI or CID office. The receiving office will then be responsible for reviewing the information and determining whether it is appropriate for submission into eGuardian.

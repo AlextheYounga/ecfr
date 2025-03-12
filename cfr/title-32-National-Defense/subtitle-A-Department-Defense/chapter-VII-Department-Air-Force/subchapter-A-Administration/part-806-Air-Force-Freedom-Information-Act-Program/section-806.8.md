@@ -1,0 +1,3 @@
+##### § 806.8 Description of requested record. #####
+
+Air Force elements must make reasonable efforts to find the records described in FOIA requests. Reasonable efforts means searching all activities and locations most likely to have the records, and includes staged or retired records, as well as complete and thorough searches of relevant electronic records, such as databases, word processing, and electronic mail files.

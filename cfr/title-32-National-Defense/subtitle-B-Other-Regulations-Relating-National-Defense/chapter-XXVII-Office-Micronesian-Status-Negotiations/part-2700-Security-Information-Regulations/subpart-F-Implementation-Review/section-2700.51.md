@@ -1,0 +1,3 @@
+##### § 2700.51 Information Security Oversight Committee. #####
+
+The OMSN Information Security Oversight Committee shall be chaired by the Security Officer, OMSN. The Committee shall be responsible for acting on all suggestions and complaints concerning the administration of the OMSN information security program. The chairperson shall also be responsible for conducting an active oversight program to ensure effective implementation of E.O. 12065.

@@ -1,0 +1,3 @@
+##### § 109.525 Cranes: Working loads. #####
+
+The master or person in charge shall ensure that tables indicating the maximum safe working loads for the various working angles of the boom, where the boom is rated at varying capacities depending on the radius, and the maximum and minimum radius at which the boom may be safely used, are conspicuously posted near the controls and are visible to the operator when working the crane.

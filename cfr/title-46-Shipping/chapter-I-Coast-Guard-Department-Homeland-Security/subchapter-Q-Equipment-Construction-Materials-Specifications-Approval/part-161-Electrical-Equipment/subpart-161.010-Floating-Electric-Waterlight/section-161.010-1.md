@@ -1,0 +1,7 @@
+##### § 161.010-1 Incorporation by reference. #####
+
+(a) Certain materials are incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a). To enforce any edition other than the one listed in paragraph (b) of this section, notice of change must be published in the Federal Register and the material made available to the public. All approved material is on file or at the National Archives and Records Administration (NARA), and at the Marine Safety Center, U.S. Coast Guard, 4200 Wilson Boulevard Suite 400, Arlington, VA 22203, and is available from the sources indicated in paragraph (b) of this section. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(b) The material approved for incorporation by reference in this part, and the sections affected are:
+
+Underwriters Laboratories, Inc.*12 Laboratory Drive, Research Triangle Park, NC 27709-3995*ANSI/UL 1196, Standard for Floating Waterlights, Second Edition March 23, 1987. 161.010-2; 161.010-4[CGD 85-208, 54 FR 27020, June 27, 1989, as amended by CGD 95-072, 60 FR 50467, Sept. 29, 1995; CGD 96-041, 61 FR 50733, Sept. 27, 1996; CGD 97-057, 62 FR 51049, Sept. 30, 1997; USCG-2001-10224, 66 FR 48620, Sept. 21, 2001; 69 FR 18803, Apr. 9, 2004; USCG-2007-29018, 72 FR 53967, Sept. 21, 2007; USCG-2013-0671, 78 FR 60160, Sept. 30, 2013]

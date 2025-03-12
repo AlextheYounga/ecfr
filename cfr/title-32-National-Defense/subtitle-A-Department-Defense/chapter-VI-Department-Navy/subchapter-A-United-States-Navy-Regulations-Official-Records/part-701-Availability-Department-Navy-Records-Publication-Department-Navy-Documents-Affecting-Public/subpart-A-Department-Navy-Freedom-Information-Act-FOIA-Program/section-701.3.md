@@ -1,0 +1,9 @@
+##### § 701.3 Applicability. #####
+
+(a) Subparts A, B, C, and D of this part apply throughout the Department of the Navy (DON) and take precedence over other DON instructions, which may serve to supplement it [*i.e.*, Public Affairs Regulations, Security Classification Regulations, Navy Regulations, Marine Corps Orders, etc.]. Further, issuance of supplementary instructions by DON activities, deemed essential to the accommodation of perceived requirements peculiar to those activities, may not conflict.
+
+(b) The FOIA applies to “records” maintained by “agencies” within the Executive Branch of the Federal government, including the Executive Office of the President and independent regulatory agencies. It states that “any person” (U.S. citizen; foreigner, whether living inside or outside the United States; partnerships; corporations; associations; and foreign and domestic governments) has the right enforceable by law, to access Federal agency records, except to the extent that such records (or portions thereof) are protected from disclosure by one or more of the nine FOIA exemptions or one of three special law enforcement exclusions.
+
+(c) Neither Federal agencies nor fugitives from justice may use the FOIA to access agency records.
+
+(d) The Department of Defense (DoD) FOIA directive states that the FOIA programs of the U.S. Atlantic Command and the U.S. Pacific Command fall under the jurisdiction of the Department of Defense and not the Department of the Navy. This policy represents an exception to the policies directed under DoD Directive 5100.3, “Support of the Headquarters of Unified, Specified, and Subordinate Commands.”

@@ -1,0 +1,5 @@
+##### § 2700.13 Duration of original classification. #####
+
+(a) Information or material which is classified after December 1, 1978, shall be marked at the time of classification with the date or event for declassification or a date for review for declassification. This date or event shall be as early as national security permits and shall be no more than six years after original classification except as provided in paragraph (b) of this section.
+
+(b) Only the President's Personal Representative for Micronesian Status Negotiations may authorize a classification period exceeding six years. Originally classified information that is so designated shall be identified with the authority and reason for extension. This authority shall be used sparingly. In those cases where extension of classification is warranted, a declassification date or event, or a date for review shall be set. This date or event shall be early as national security permits and shall be no more than twenty years after original classification except that for foreign information the date or event may be up to thirty years after original classification.

@@ -1,0 +1,3 @@
+##### § 147.1 Introduction. #####
+
+The following adjudicative guidelines are established for all United States Government civilian and military personnel, consultants, contractors, employees of contractors, licensees, certificate holders or grantees and their employees and other individuals who require access to classified information. They apply to persons being considered for initial or continued eligibility for access to classified information, to include sensitive compartmented information and special access programs and are to be used by government departments and agencies in all final clearance determinations.

@@ -1,0 +1,3 @@
+##### § 755.9 Effect of court-martial proceedings. #####
+
+Administrative action under these regulations is separate and distinct from and is not affected by any disciplinary action against the offender. The two proceedings are independent. Acquittal or conviction of the alleged offender by court-martial is evidence for the administrative action, but is not determinative on the issue of responsibility for damages under these regulations.

@@ -1,0 +1,5 @@
+##### § 510.1 Private ministrations, sacraments, and ordinances. #####
+
+Chaplains will conduct or arrange for appropriate burial services at the interment of members of the military service, active and retired, and for members of their families upon request. A chaplain may perform the marriage rite, provided he complies with the civil law of the place where the marriage is to be solemnized and provided all parties concerned have complied with the requirements of the denomination the chaplain represents and with any directives which may have been issued by the military command or higher headquarters. The scope of the chaplains' work will include such ministrations as are held by some denominations or religious bodies as sacraments and by others as rites or ordinances. Chaplains will administer or arrange for rites and sacraments for military personnel and civilians under military jurisdiction according to the respective beliefs and conscientious practices of all concerned.
+
+[16 FR 12931, Dec. 27, 1951]

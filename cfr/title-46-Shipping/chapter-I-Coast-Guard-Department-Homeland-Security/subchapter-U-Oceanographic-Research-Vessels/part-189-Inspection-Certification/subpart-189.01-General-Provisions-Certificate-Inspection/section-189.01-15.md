@@ -1,0 +1,3 @@
+##### § 189.01-15 Temporary certificate. #####
+
+(a) If necessary to prevent delay of the vessel, a temporary certificate of inspection, Form CG-854, shall be issued pending the issuance and delivery of the regular certificate of inspection. Such temporary certificate shall be carried in the same manner as the regular certificate and shall in all ways be considered the same as the regular certificate of inspection which it represents.

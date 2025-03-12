@@ -1,0 +1,3 @@
+##### Sec. 15 Subcontracts. #####
+
+Under Article 29 of the NSA-LUMPSUMREP Contract, the Contractor is authorized to subcontract portions of the work. However, the Contractor must obtain prior approval from the representative of the Authority, awarding the work, for each subcontract in an amount exceeding 10 percent of the contract price for the work covered by a job order or supplemental job order.

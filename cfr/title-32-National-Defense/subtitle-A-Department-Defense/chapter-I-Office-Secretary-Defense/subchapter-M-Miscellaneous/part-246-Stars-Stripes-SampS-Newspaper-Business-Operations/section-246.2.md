@@ -1,0 +1,3 @@
+##### § 246.2 Applicability. #####
+
+This part applies to the Office of the Secretary of Defense, the Military Departments (including their National Guard and Reserve components), the Chairman of the Joint Chiefs of Staff and the Joint Staff, the Unified and Specified Commands, the Inspector General of the Department of Defense, the Defense Agencies, and the DoD Field Activities (hereafter referred to collectively as “the DoD Components”). The term “the Military Services,” as used herein, refers to the Army, the Navy, the Air Force, and the Marine Corps.

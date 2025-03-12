@@ -1,0 +1,3 @@
+##### § 644.420 Disposal of property in which the military departments have a continuing interest under special acts of Congress. #####
+
+*General.* Because of the continuing interest of the departments in the following properties and in view of the determinations under the Acts on which the disposals are premised, properties that can be conveyed under authorities discussed in §§ 644.421 through 644.424 are not considered surplus or excess within the meaning of these terms as defined in the Federal Property Act.

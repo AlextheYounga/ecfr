@@ -1,0 +1,3 @@
+##### § 201.89 Disqualification of presiding officer. #####
+
+Any presiding officer may at any time withdraw if he deems himself disqualified, in which case another presiding officer will be designated. If a party to a proceeding, or his representative, files in good faith a timely and sufficient affidavit of personal bias or disqualification of a presiding officer, the Administration will determine the matter as a part of the record and decision in the case.

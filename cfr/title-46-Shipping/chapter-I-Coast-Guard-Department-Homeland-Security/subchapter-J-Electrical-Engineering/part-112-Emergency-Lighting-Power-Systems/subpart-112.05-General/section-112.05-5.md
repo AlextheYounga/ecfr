@@ -1,0 +1,40 @@
+##### § 112.05-5 Emergency power source. #####
+
+(a) The emergency power source must meet table 112.05-5(a) and have the capacity to supply all loads that are simultaneously connected to it, except a load on a bus-tie to the main switchboard or non-required loads that are connected in accordance with § 112.05-1(c).
+
+Table 112.05-5(a)
+
+|                                                                              Size of vessel and service                                                                               |                                                                                 Type of emergency power source or lighting                                                                                 |  Period of operation and minimum capacity of emergency power   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+|                                                                                  Passenger vessels:                                                                                   |                                                                                                                                                                                                            |                                                                |
+|                                                            Ocean, Great Lakes, or coastwise; or on an international voyage                                                            |                             Temporary emergency power source; and final emergency power source (automatically connected storage battery or an automatically started generator)                             |                    36 hours.<sup>1 2</sup>                     |
+|                                                    Other than Ocean, Great Lakes, or coastwise and not on an international voyage                                                     |                                                Final emergency power source (automatically connected storage battery or an automatically started generator)                                                |8 hours or twice the time of run, whichever is less.<sup>2</sup>|
+|Cargo vessels; miscellaneous self-propelled vessels; tankships; barges with sleeping accommodations for more than 6 persons; mobile offshore drilling units; and oceanographic vessels:|                                                                                                                                                                                                            |                                                                |
+|                         Ocean, Great Lakes, or coastwise and 500 GT or more; on an international voyage and 500 GT or more; or all waters and 1600 GT or more                         |                                                Final emergency power source (automatically connected storage battery or an automatically started generator)                                                |                    18 hours.<sup>1 2</sup>                     |
+|   Ocean, Great Lakes, or coastwise and less than 500 GT; or other than ocean, Great Lakes, or coastwise, 300 GT or more but less than 1600 GT, and not on an international voyage.    |Emergency lighting provided by an automatically connected or manually controlled storage battery; automatically or manually started generator; or relay-controlled, battery-operated lanterns.<sup>3 4</sup>|      6 hours or twice the time of run, whichever is less.      |
+
+<sup>1</sup> A 12-hour power supply may be especially considered for vessels engaged regularly in voyages of short duration.
+
+<sup>2</sup> The capacity for the operation of the steering gear, as required by § 111.93, is for a period of 30 minutes continuous operation.
+
+<sup>3</sup> The emergency lighting requirements of § 112.15-1 (b), (c), (f), and (g) must be met.
+
+<sup>4</sup> Requirements of Subpart 112.39 must be met by the relay-controlled, battery-operated lanterns.
+
+(b) The emergency power source must be independent of the ship's service lighting and powerplant and propulsion plant, except for the compressed air starting means allowed in § 112.50-7(c)(3)(i). A stop control for an emergency generator must be only in the space that has the emergency generator, except a remote mechanical reach rod is permitted for the fuel oil shut-off valve to an independent fuel oil tank located in the space.
+
+(c) The complete emergency installation must function at full rated power when the vessel is upright or inclined to the maximum angle of heel that results from the assumed damage defined in 33 CFR part 155 or in subchapter S of this chapter for the specific vessel type or 22.5 degrees, whichever is greater; when the trim of the ship is 10 degrees, either in the fore or aft direction, or is in any combination of angles within those limits.
+
+(d) The emergency power source, its associated transforming equipment, and the emergency switchboard must be located aft of the collision bulkhead, outside of the machinery casing, and above the uppermost continuous deck. Each compartment containing this equipment must be readily accessible from the open deck and must not contain machinery not associated with, or equipment not in support of, the normal operation of the emergency power source. Equipment in support of the normal operation of the emergency power source includes, but is not limited to, ventilation fans, CO2 bottles, space heaters, and internal communication devices, such as sound powered phones.
+
+(e) No compartment that has an emergency power source or its vital components may adjoin a Category A machinery space or those spaces containing the main source of electrical power and its vital components.
+
+(f) Except for a cable for connecting equipment in the engineroom or boilerroom, no cable supplied from the emergency switchboard may penetrate the boundaries of the engineroom, boilerroom, uptakes, or casings of these spaces. These cables must be kept clear of the bulkheads and decks forming these boundaries. No emergency circuit in an engineroom or a boilerroom may supply equipment in any other space.
+
+(g) The emergency switchboard must be as near as practicable to the emergency power source but not in the same space as a battery emergency power source.
+
+(h) If the emergency power source is a generator, the emergency switchboard must be in the same space as the emergency power source.
+
+(i) The prime mover of an emergency generator must be either a diesel engine or a gas turbine.
+
+[CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 28286, June 4, 1996; 62 FR 23910, May 1, 1997]

@@ -1,0 +1,5 @@
+##### § 770.49 Background. #####
+
+(a) Puget Sound Naval Shipyard is a major naval ship repair facility, with operational requirements to complete repairs and overhaul of conventionally powered and nuclear powered naval vessels. It is vital to national defense that the operation and use of the shipyard be continued without interruption. Additionally, most of Puget Sound Naval Shipyard is dedicated to heavy industrial activity where potentially hazardous conditions exist.
+
+(b) For prevention of the interruption of the stated use of Puget Sound Naval Shipyard and prevention of injury to any unsupervised or unauthorized person as a consequence of the hazardous conditions that exist, as well as for other reasons, it is essential to restrict entry upon Puget Sound Naval Shipyard to authorized persons only.

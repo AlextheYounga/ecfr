@@ -1,0 +1,3 @@
+##### § 300.1 Purpose. #####
+
+This part provides policies and procedures for the Defense Logistics Agency (DLA) implementation of the Freedom of Information Act (FOIA) (5 U.S.C. 552). This part supplements and implements the Department of Defense (DoD) FOIA Program Directive (32 CFR part 285) and DoD FOIA Program Regulation (32 CFR part 286). This part applies to DLA Components and takes precedence over all DLA regulations that supplement the FOIA program.

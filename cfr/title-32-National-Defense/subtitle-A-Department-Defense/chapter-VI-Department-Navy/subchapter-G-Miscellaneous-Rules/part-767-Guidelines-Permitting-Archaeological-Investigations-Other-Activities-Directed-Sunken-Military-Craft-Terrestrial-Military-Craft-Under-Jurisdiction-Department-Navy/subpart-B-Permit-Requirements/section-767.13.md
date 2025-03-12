@@ -1,0 +1,3 @@
+##### § 767.13 Monitoring of performance. #####
+
+Permitted activities will be monitored to ensure compliance with the conditions of the permit. In addition to remotely monitoring operations, NHHC personnel, or other designated authorities, may periodically assess work in progress through on-site monitoring at the location of the permitted activity. The discovery of any potential irregularities in performance under the permit by NHHC on-site personnel, other designated authorities, or the permit holder, must be promptly reported to the NHHC for appropriate action. Adverse action may ensue in accordance with § 767.14. Findings of unauthorized activities will be taken into consideration when evaluating future permit applications.

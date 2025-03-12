@@ -1,0 +1,3 @@
+##### § 460.4 When the rules apply. #####
+
+You must follow these rules each time you import, manufacture, distribute, sell, install, promote, or label home insulation. You must follow them each time you prepare, approve, place, or pay for home insulation labels, fact sheets, ads, or other promotional materials for consumer use. You must also follow them each time you supply anyone covered by this regulation with written information that is to be used in labels, fact sheets, ads, or other promotional materials for consumer use. Testing labs must follow the rules unless the industry members tells them, in writing, that labels, fact sheets, ads, or other promotional materials for home insulation will not be based on the test results.

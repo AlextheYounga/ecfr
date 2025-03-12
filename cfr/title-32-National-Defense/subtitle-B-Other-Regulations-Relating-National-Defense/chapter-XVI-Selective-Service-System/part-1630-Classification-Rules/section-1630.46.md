@@ -1,0 +1,3 @@
+##### § 1630.46 Class 4-T: Treaty alien. #####
+
+In Class 4-T shall be placed any registrant who is an alien who established that he is exempt from military service under the terms of a treaty or international agreement between the United States and the country of which he is a national, and who has made application to be exempted from liability for training and service in the Armed Forces of the United States.

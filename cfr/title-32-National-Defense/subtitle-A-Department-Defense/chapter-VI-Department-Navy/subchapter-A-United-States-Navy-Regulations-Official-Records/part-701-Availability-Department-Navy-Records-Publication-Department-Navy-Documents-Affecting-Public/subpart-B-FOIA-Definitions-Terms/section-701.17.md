@@ -1,0 +1,3 @@
+##### § 701.17 Affirmative information disclosure. #####
+
+This is where a DON activity makes records available to the public on its own initiative. In such instance, the DON activity has determined in advance that a certain type of records or information is likely to be of such interest to members of the public, and that it can be disclosed without concern for any FOIA exemption sensitivity. Affirmative disclosures can be of mutual benefit to both the DON and the members of the public who are interested in obtaining access to such information.

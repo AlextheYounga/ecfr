@@ -1,0 +1,3 @@
+##### § 809a.6 Authority. #####
+
+The authority to intervene during civil disturbances and to provide disaster assistance is bound by directives issued by competent authorities. States must request federal military intervention or aid directly from the President of the United States by the state's legislature or executive. Installation commanders must immediately report these requests in accordance with AFI 10-802, *Military Support to Civil Authorities* (Available from National Technical Information Service, 5285 Port Royal Road, Springfield, VA 22161.).

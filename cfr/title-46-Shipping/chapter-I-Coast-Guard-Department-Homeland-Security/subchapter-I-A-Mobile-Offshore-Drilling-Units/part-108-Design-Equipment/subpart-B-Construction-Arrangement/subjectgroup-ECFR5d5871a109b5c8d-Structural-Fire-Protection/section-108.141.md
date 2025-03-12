@@ -1,0 +1,3 @@
+##### § 108.141 Boundary bulkheads and decks between the emergency power source and service generators. #####
+
+Each boundary bulkhead and deck of a space containing an emergency electric power source or components of an emergency electric power source that adjoins a space containing a ship's service generator, the components of a ship's service generator, or a classified space must be an A-60 bulkhead and A-60 deck.

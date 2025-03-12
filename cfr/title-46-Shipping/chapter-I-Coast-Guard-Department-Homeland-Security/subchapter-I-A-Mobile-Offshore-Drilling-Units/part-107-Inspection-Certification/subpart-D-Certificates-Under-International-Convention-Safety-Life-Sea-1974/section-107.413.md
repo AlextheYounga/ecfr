@@ -1,0 +1,19 @@
+##### § 107.413 Exemption certificate. #####
+
+(a) An owner or operator of a unit may request an exemption from the requirements of the International Convention for Safety of Life at Sea, 1974 (SOLAS 74) by writing to the appropriate OCMI.
+
+(b) The Commandant (CG-CVC) may exempt a self-propelled unit of at least 500 gross tons on an international voyage from any of the requirements in the International Convention for Safety of Life at Sea, 1974 (SOLAS 74) if the unit meets the conditions of Regulation 4 of Part A, Chapter I, of SOLAS 74 which states the following:
+
+a. A ship which is not normally engaged on international voyages but which, in exceptional circumstances, is required to undertake a single international voyage may be exempted by the Administration from any of the requirements of the present Regulations provided that it complies with safety requirements which are adequate in the opinion of the Administration for the voyage which is to be undertaken by the ship.
+
+b. The Administration may exempt any ship which embodies features of a novel kind from any of the provisions of Chapters II-1, II-2, III and IV of these Regulations the application of which might seriously impede research into the development of such features and their incorporation in ships engaged on international voyages. Any such ship shall, however, comply with safety requirements which, in the opinion of that Administration, are adequate for the service for which it is intended and are such as to ensure the overall safety of the ship and which are acceptable to the Governments of the States to be visited by the ship. The Administration which allows any such exemption shall communicate to the Organization particulars of same and the reasons therefor which the Organization shall circulate to the Contracting Governments for their information.
+
+(c) The Commandant (CG-CVC) may exempt a self-propelled unit of at least 500 gross tons on an international voyage from the requirements of Chapter III (Lifesaving Appliances, &C.) of SOLAS 74 if the unit meets the conditions of Regulation 2 of chapter III which states in part:
+
+The Administration may, if it considers that the sheltered nature and conditions of the voyage are such as to render the application of any specific requirements of this chapter unreasonable or unnecessary, exempt from those requirements individual ships or classes of ships which, in the course of their voyage, do not proceed more than 20 miles from the nearest land.
+
+(d) The Commandant (CG-CVC) may exempt a unit from the requirements of Chapters II-1 (Construction—Subdivision and stability, machinery and electrical installations) or II-2 (Construction—Fire protection, fire detection and fire extinction) of SOLAS 74 if the unit meets the conditions of Regulation 1-4 of Part A Chapter II-1 or Regulation 1-4.1 of Part A Chapter II-2, respectively, of SOLAS 74 which state the following: The Administration of a State may, if it considers that the sheltered nature and conditions of the voyage are such as to render the application of any specific requirements of this chapter unreasonable or unnecessary, exempt from those requirements individual ships or classes of ships entitled to fly the flag of the State which, in the course of their voyage, do not proceed more than 20 miles from the nearest land.
+
+(e) An Exemption Certificate is in force for the period of validity of the certificate to which it refers.
+
+[CGD 73-251, 43 FR 56802, Dec. 4, 1978, as amended by CGD 90-008, 55 FR 30662, July 26, 1990; CGD 95-072, 60 FR 50464, Sept. 29, 1995; CGD 96-041, 61 FR 50730, Sept. 27, 1996; USCG-2009-0702, 74 FR 49233, Sept. 25, 2009]

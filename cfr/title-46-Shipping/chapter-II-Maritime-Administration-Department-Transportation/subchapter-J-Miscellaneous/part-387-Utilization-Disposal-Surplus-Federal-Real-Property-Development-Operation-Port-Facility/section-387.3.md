@@ -1,0 +1,3 @@
+##### § 387.3 Notice of availability of surplus property. #####
+
+The Disposal Agency shall publish notices of availability of excess and surplus Federal real and personal property. The Secretary will advise eligible public port agencies, in an appropriate manner, of the availability of Surplus Property that is deemed to have port facility potential. Potential Applicants shall notify the Secretary, in writing, of a desire to acquire surplus Federal property before the expiration of the notice period specified in the Notice of Surplus Property—Government Property.

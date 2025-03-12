@@ -1,0 +1,7 @@
+##### § 239.3 “Satisfaction Guarantees” and similar representations in advertising; disclosure in advertising that mentions “satisfaction guarantees” or similar representations. #####
+
+(a) A seller or manufacturer should use the terms “Satisfaction Guarantee,” “Money Back Guarantee,” “Free Trial Offer,” or similar representations in advertising only if the seller or manufacturer, as the case may be, refunds the full purchase price of the advertised product at the purchaser's request.
+
+(b) An advertisement that mentions a “Satisfaction Guarantee” or a similar representation should disclose, with such clarity and prominence as will be noticed and understood by prospective purchasers, any material limitations or conditions that apply to the “Satisfaction Guarantee” or similar representation.
+
+Examples:These examples are for both print and broadcast advertising. These examples are illustrative, not exhaustive.Example A:(In an advertisement mentioning a satisfaction guarantee that is conditioned upon return of the unused portion within 30 days) “We guarantee your satisfaction. If not completely satisfied with Acme Spot Remover, return the unused portion within 30 days for a full refund.”Example B:(In an advertisement mentioning a money back guarantee that is conditioned upon return of the product in its original packaging) “Money Back Guarantee! Just return the ABC watch in its original package and ABC will fully refund your money.”

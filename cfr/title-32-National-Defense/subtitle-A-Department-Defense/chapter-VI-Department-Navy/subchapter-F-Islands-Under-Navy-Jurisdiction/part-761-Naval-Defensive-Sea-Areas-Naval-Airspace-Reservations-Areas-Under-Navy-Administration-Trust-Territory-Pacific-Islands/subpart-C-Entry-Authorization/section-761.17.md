@@ -1,0 +1,3 @@
+##### § 761.17 Revocation. #####
+
+Entry authorizations will be revoked only by an Entry Control Commander upon being advised of the discovery of information which would have been ground for denial of the initial request. Such a revocation will be confirmed in writing to the holder of an entry authorization. No reason for revocation of the entry authorization will be given. When an entry authorization is revoked, a one-way permit will be issued as appropriate, to permit the ship, aircraft, or person to transit the defense area in order to depart from a contiguous area.

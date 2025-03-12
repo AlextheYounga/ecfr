@@ -1,0 +1,3 @@
+##### § 536.107 Scope for international agreements claims arising in the United States. #####
+
+This section sets forth procedures and responsibilities for the investigation, processing, and settlement of claims arising out of any acts or omissions of members of a foreign military force or civilian component present in the United States or a territory, commonwealth, or possession thereof under the provisions of cost sharing reciprocal international agreements which contain claims settlement provisions applicable to claims arising in the United States. Article VIII of the NATO SOFA has reciprocal provisions applying to all NATO member countries; the Partnership for Peace (PFP) Agreement has similiar provisions, as do the Singapore and Australian SOFAs.

@@ -1,0 +1,7 @@
+##### § 242.9 Academic, intellectual, and personal requirements for admission to advanced standing. #####
+
+(a) Selection of students to advanced standing will be competitive, based on both cognitive and noncognitive factors. Demonstrated aptitude and motivation for a career in medicine in the Uniformed Services will be prime considerations in making admissions decisions. Only the most promising of candidates will be accepted, as judged by scholastic records, letters of recommendation, interviews, and such other credentials and/or appraisal techniques as may be deemed appropriate to use by the School of Medicine.
+
+(b) To be eligible academically for admission to advanced-standing, applicants must have successfully completed the year of medical studies preceding the year in which they desire advanced placement. Only students from fully accredited medical schools will be eligible for transfer.
+
+(c) Individuals who have received the D.D.S., D.M.D., Ph.D., D.O., or D.V.M. degrees, or candidates for these degrees will not be eligible for advanced placement in the School of Medicine at this time. They will only be considered for admission to the Freshman class. Advanced standing applicants are required to have taken the Medical College Admission Test.

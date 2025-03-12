@@ -1,0 +1,3 @@
+##### § 750.24 Statutory/regulatory authority. #####
+
+The statutory provisions of the Federal Tort Claims Act (FTCA) are at 28 U.S.C. 1346(b), 2671-2672, and 2674-2680. The Attorney General of the United States has issued regulations on administrative claims filed under the FTCA at 28 CFR part 14. If the provisions of this section and the Attorney General's regulations conflict, the Attorney General's regulations prevail.

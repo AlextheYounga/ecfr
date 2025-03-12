@@ -1,0 +1,7 @@
+##### § 1502.35 Interlocutory appeal from ruling of presiding officer. #####
+
+(a) Except as provided in paragraph (b) of this section and in §§ 1502.13(b), 1502.16(e), 1502.31(f), and 1502.37(d) authorizing interlocutory appeals, rulings of the presiding officer may not be appealed to the Commission before the Commission's consideration of the entire record of the hearing.
+
+(b) A ruling of the presiding officer is subject to interlocutory appeal to the Commission if the presiding officer certifies on the record or in writing that immediate review is necessary to prevent exceptional delay, expense, or prejudice to any participant or substantial harm to the public interest.
+
+(c) When an interlocutory appeal is made to the Commission, a participant may file a brief with the Commission only if such is specifically authorized by the presiding officer or the Commission, and, if such authorization is granted, within the period the Commission directs. If a participant is authorized to file a brief, any other participant may file a brief in opposition, within the period the Commission directs. If no briefs are authorized, the appeal will be presented as an oral argument to the Commission. The oral argument will be transcribed. If briefs are authorized, oral argument will be heard only at the discretion of the Commission.

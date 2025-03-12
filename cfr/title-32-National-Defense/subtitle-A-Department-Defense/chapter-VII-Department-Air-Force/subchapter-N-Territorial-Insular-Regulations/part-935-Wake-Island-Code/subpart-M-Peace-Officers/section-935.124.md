@@ -1,0 +1,3 @@
+##### § 935.124 Release from custody. #####
+
+The Chief Judge may authorize the Clerk to issue pro forma orders of the Court discharging any person from custody, with or without bail, pending trial, whenever further restraint is not required for protection of persons or property on Wake Island. Persons not so discharged shall be brought before a Judge or U.S. Magistrate as soon as a Judge or Magistrate is available. Judges may discharge defendants from custody, with or without bail or upon recognizance, or continue custody pending trial as the interests of justice and public safety require.

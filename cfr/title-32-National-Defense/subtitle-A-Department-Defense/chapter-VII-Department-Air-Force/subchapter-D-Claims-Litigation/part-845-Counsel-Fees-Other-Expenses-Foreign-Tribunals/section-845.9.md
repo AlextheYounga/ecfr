@@ -1,0 +1,3 @@
+##### § 845.9 Appropriated funds chargeable. #####
+
+Authorized expenses incurred incident to implementation of the policies set forth in this part, including transportation and per diem expenses of trial observers, interpreters, and local counsel employees, shall be paid from appropriated funds of the service to which the defendant belongs. Payments shall be made from the appropriation current at time of payment, unless obligations for authorized costs have previously been established. Refunds shall be processed as appropriation refund. Such funds are chargeable to the base for operation and maintenance purposes (O&M or R&D, as applicable).

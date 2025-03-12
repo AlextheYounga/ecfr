@@ -1,0 +1,3 @@
+##### § 536.36 Related remedies. #####
+
+An ACO or a CPO routinely receives claims or inquiries about claims that clearly are not cognizable under this part. It is the DA's policy that every effort be made to discover another remedy and inform the inquirer as to its nature. Claims personnel will familiarize themselves with the remedies set forth in DA Pam 27-162, paragraph 2-17, to carry out this policy. If no appropriate remedy can be discovered, forward the file to the Commander USARCS, with recommendations.

@@ -1,0 +1,3 @@
+##### § 176.702 Installation tests and inspections. #####
+
+Whenever a launching appliance, survival craft, rescue boat, fixed gas fire extinguishing system, machinery, fuel tank, or pressure vessel is installed aboard a vessel after completion of the initial inspection for certification of the vessel, as replacement equipment or as a new installation, the owner or managing operator shall conduct the tests and make the vessel ready for the inspections required by § 176.402(d) to the satisfaction of the cognizant OCMI.

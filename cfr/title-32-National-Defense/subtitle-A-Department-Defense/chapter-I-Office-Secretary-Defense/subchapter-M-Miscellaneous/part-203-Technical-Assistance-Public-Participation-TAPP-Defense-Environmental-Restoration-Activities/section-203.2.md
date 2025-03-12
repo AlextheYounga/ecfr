@@ -1,0 +1,5 @@
+##### § 203.2 Purpose and availability of referenced material. #####
+
+(a) This part establishes the Technical Assistance for Public Participation (TAPP) program for the Department of Defense. It sets forth policies and procedures for providing technical assistance to community members of TRCs and RABs established at DoD installations in the United States and its territories. This part sets forth the procedures for the Department of Defense to accept and evaluate TAPP applications, to procure the assistance desired by community members of RABs and TRCs, and to manage the TAPP program. These provisions are applicable to all applicants/recipients of technical assistance as discussed in § 203.4 of this part.
+
+(b) Any reference to documents made in this part necessary to apply for TAPP (e.g., the Office of Management and Budget (OMB) Circulars or DoD forms) are available through the DoD installations, the military department headquarters, or from the Department of Defense, Office of the Deputy Under Secretary of Defense for Environmental Security (DUSD(ES)), 3400 Defense Pentagon, Washington, DC 20301-3400.

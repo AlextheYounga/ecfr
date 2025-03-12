@@ -1,0 +1,3 @@
+##### § 112.40-1 General requirements. #####
+
+Installations requiring alternating current for the operation of communication equipment or other apparatus essential under temporary emergency conditions must be provided with the necessary conversion equipment. If the conversion equipment operates both under normal conditions and under temporary emergency conditions, the conversion equipment must be provided in duplicate.

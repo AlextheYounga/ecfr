@@ -1,0 +1,7 @@
+##### § 756.3 Notification. #####
+
+(a) Some NAFI's, such as flying clubs, carry private commercial insurance to protect them from claims for property damage and personal injury attributable to their operations. The Commandant of the Marine Corps, the Chief of Naval Personnel, and the Commander, Naval Supply Systems Command determine whether NAFI's within their cognizance shall carry liability insurance or become self-insurers, in whole or in part.
+
+(b) The Marine Corps requires mandatory participation in the Morale, Welfare and Recreation (MWR) Composite Insurance Program by the following operations: MWR operations and retail services, food and hospitality, recreation; and special NAFI activities including flying clubs, rod and gun clubs, Interservice Rifle Fund, Marine Corps Marathon and Dependent Cafeteria Fund. The following organizations may also participate in the MWR Composite Insurance Program, if desired: Child welfare centers, billeting funds, chapel funds, and civilian welfare funds.
+
+(c) When the operations of NAFI's result in property damage or personal injury, the insurance carrier, if any, should be given immediate written notification. Notification should not be postponed until a claim is filed. When the activity is self-insured, the self-insurance fund shall be notified of the potential liability by the activity.

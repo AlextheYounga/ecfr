@@ -1,0 +1,5 @@
+##### § 776.90 Definition. #####
+
+(a) Outside practice of law is defined as any provision of legal advice, counsel, assistance or representation, with or without compensation, that is not performed pursuant or incident to duties as a covered USG attorney (including while on terminal leave). Occasional uncompensated assistance rendered to relatives or friends is excluded from this definition (unless otherwise limited by statute or regulation). Teaching a law course as part of a program of education or training offered by an institution of higher education is not practicing law for purposes of this rule.
+
+(b) The requirement to seek permission prior to engaging in the outside practice of law does not apply to non-USG attorneys, or to Reserve or Retired judge advocates unless serving on active duty for more than 30 consecutive days.

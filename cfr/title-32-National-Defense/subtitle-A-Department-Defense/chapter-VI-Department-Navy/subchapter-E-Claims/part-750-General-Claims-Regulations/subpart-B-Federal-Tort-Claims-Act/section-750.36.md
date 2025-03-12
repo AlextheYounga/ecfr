@@ -1,0 +1,7 @@
+##### § 750.36 Time limitations. #####
+
+(a) *Administrative claim.* Every claim filed against the United States under the FTCA must be presented in writing within 2 years after the claim accrues. 28 U.S.C. 2401(b). Federal law determines the date of accrual. A claim accrues when the claimant discovers or reasonably should have discovered the existence of the act giving rise to the claim. In computing the statutory time period, the day of the incident is excluded and the day the claim was presented included.
+
+(b) *Amendments.* Upon timely filing of an amendment to a pending claim, the DON shall have 6 months to make a final disposition of the claim as amended, and the claimant's option to file suit under 28 U.S.C. 2675(a) shall not accrue until 6 months after the presentment of an amendment. 28 CFR 14.2(c).
+
+(c) *Suits.* A civil action is barred unless suit is filed against the United States not later than 6 months after the date of mailing of notice of final denial of the claim. 28 U.S.C. 2401(b). The failure of the DON to make final disposition of a claim within 6 months after it is presented shall, at the option of the claimant any time thereafter, be deemed a final denial of the claim. 28 U.S.C. 2675(a).

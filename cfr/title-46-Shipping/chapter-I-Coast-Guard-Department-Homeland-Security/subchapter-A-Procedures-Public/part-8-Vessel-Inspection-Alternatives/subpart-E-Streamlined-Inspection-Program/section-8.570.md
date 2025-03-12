@@ -1,0 +1,5 @@
+##### § 8.570 Interim approval of prototype SIP company or vessel plans. #####
+
+(a) A company operating under an approved prototype SIP company or vessel plan must apply in writing by November 1, 1998, to the cognizant OCMI for approval to continue operating under the plans while revisions are developed to bring the prototype SIP company or vessel plan into conformance with this subpart. The OCMI may approve the request for a period of up to 3 years.
+
+(b) A company that does not request approval as required by paragraph (a) of this section or does not obtain approval to continue operating under a prototype SIP company or vessel plan by February 1, 1999, may no longer operate under the plans and will be inspected in accordance with the requirements of 46 CFR part 2, subpart 2.01 of this chapter.

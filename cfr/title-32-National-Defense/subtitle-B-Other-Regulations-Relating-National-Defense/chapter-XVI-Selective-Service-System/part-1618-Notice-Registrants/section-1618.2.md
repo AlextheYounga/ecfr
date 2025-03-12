@@ -1,0 +1,3 @@
+##### § 1618.2 Filing of documents. #####
+
+A document other than a registration card received by an element of the Selective Service System will be considered to have been filed on the date that it is received: *Provided,* That a document that is received which was transmitted by the United States Postal Service (USPS) and was enclosed in a cover that bears a legible USPS postmark date will be deemed to have been received on that date.

@@ -1,0 +1,3 @@
+##### § 31.01-20 Application for inspection of a new tank vessel or conversion of a vessel to a tank vessel—TB/ALL. #####
+
+Prior to the commencement of the construction of any new tank vessel, or prior to the commencement of the conversion of any vessel to a tank vessel, application for the approval of contract plans and specifications and for a certificate of inspection shall be made in writing to the Coast Guard and no such construction or conversion shall be proceeded with until such approval is granted. (See § 31.10-1.)

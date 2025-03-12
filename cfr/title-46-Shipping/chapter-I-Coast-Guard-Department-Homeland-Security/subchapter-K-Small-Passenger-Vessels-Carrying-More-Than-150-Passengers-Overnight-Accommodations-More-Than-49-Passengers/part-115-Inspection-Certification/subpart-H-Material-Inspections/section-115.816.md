@@ -1,0 +1,3 @@
+##### § 115.816 Miscellaneous systems and equipment. #####
+
+At each initial and subsequent inspection for certification the owner or managing operator shall be prepared to test and make available for inspection all items in the ship's outfit, such as ground tackle, navigation lights and equipment, markings, and placards, which are required to be carried by the regulations in this subchapter, as necessary to determine that they are fit for the service intended.

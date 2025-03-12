@@ -1,0 +1,3 @@
+##### § 761.16 Notice of action. #####
+
+All applicants will be kept advised of action being taken relative to the processing of applications. Individuals whose applications cannot be processed promptly (usually within ten working days) or whose applications must be forwarded to another office for processing will be notified of the anticipated delay and advised of the approximate time when action may be expected to be taken. Under no circumstances will a notice of disapproval include a statement of the reason therefor. Copies of all notices will be distributed to commands and Entry Control Commanders concerned. Copies of all notices of disapproval will be mailed to the Chief of Naval Operations concurrently with the mailing to the applicant.

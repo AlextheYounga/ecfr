@@ -1,0 +1,3 @@
+##### § 901.9 Vice-Presidential category. #####
+
+The Vice President of the United States nominates from the United States at large, and is authorized a quota of five cadets attending the Academy at any one time. For each vacancy occurring in the quota, ten individuals may be nominated to fill the vacancy. Requests for a nomination are submitted directly to the Vice President no later than October 31. Any individual who meets the basic eligibility requirements of § 901.4 may apply to the Vice President for a nomination. The Vice President forwards nominations on DD Form 1870 for each Air Force Academy nominee through HQ USAF/DPPA, Washington, DC 20330-5060, to USAFA/RRS, USAF Academy, Colorado Springs, CO 80840-5651.

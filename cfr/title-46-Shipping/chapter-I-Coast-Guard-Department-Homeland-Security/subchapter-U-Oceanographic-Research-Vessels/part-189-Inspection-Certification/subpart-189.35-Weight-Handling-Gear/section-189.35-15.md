@@ -1,0 +1,3 @@
+##### § 189.35-15 Major installations. #####
+
+(a) Where the installation of weight handling gear requires modifications to the vessel's structure or affects the stability in a manner which cannot be assessed by the information contained in the approved trim and stability information, appropriate plans and information shall be submitted for approval. The installation shall then be inspected by the Officer in Charge, Marine Inspection for conformance with the approved installation plans and information.

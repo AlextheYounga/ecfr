@@ -1,0 +1,3 @@
+##### § 243.11 Appeals of USTRANSCOM Contracting Officer Decisions regarding rates. #####
+
+If resolution of ratemaking issues cannot be made by the USTRANSCOM contracting officer, concerned parties shall contact the USTRANSCOM Ombudsman appointed to hear and facilitate the resolution of such concerns. In the event a ratemaking issue is not resolved through the ombudsman process, the carrier may request a final agency decision from the Director of Acquisition, USTRANSCOM.

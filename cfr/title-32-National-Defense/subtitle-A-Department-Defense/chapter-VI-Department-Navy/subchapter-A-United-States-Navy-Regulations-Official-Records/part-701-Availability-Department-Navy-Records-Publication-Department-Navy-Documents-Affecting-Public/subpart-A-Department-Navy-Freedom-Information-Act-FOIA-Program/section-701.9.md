@@ -1,0 +1,25 @@
+##### § 701.9 Referrals. #####
+
+(a) The DoD/DON FOIA referral policy is based upon the concept of the originator of a record making a release determination on its information. If a DON activity receives a request for records originated by another DoD/DON activity, it should contact the activity to determine if it also received the request, and if not, obtain concurrence to refer the request. In either situation, the requester shall be advised of the action taken, unless exempt information would be revealed.
+
+(b) While referrals to originators of information result in obtaining the best possible decision on release of the information, the policy does not relieve DON activities from the responsibility of making a release decision on a record should the requester object to referral of the request and the record. Should this situation occur, DON activities should coordinate with the originator of the information prior to making a release determination.
+
+(c) A request received by a DON activity having no records responsive to a request shall be referred routinely to another DoD/DON activity, if the other activity has reason to believe it has the requested record. Prior to notifying a requester of a referral to another DoD/DON activity, the DON activity receiving the initial request shall consult with the other DoD/DON activity to determine if that activity's association with the material is exempt. If the association is exempt, the activity receiving the initial request will protect the association and any exempt information without revealing the identity of the protected activity. The protected activity shall be responsible for submitting the justifications required in any litigation.
+
+(d) Any DON activity receiving a request that has been misaddressed shall refer the request to the proper address and advise the requester. DON activities making referrals of requests or records shall include with the referral, a point of contact by name, a telephone number (commercial and DSN), and an e-mail address (if available).
+
+(e) A DON activity shall refer a FOIA request for a record that it holds but was originated by another Executive Branch agency, to them for a release determination and direct response to the requester. The requester shall be informed of the referral, unless it has been determined that notification would reveal exempt information. Referred records shall only be identified to the extent consistent with security requirements.
+
+(f) A DON activity may refer a request for a record that it originated to another activity or agency when the activity or agency has a valid interest in the record, or the record was created for the use of the other agency or activity. In such situations, provide the record and a release recommendation on the record with the referral action. DON activities should include a point of contact and telephone number in the referral letter. If that organization is to respond directly to the requester, apprise the requester of the referral.
+
+(g) Within the DON/DoD, a DON activity shall ordinarily refer a FOIA request and a copy of the record it holds, but that was originated by another DON/DoD activity or that contains substantial information obtained from that activity, to that activity for direct response, after direct coordination and obtaining concurrence from the activity. The requester shall be notified of such referral. In any case, DON activities shall not release or deny such records without prior consultation with the activity, except as provided in paragraph (c) of this section.
+
+(h) Activities receiving a referred request shall place it in the appropriate processing queue based on the date it was initially received by the referring activity/agency.
+
+(i) *Agencies outside the DON that are subject to the FOIA.* (1) A DON activity may refer a FOIA request for any record that originated in an agency outside the DON or that is based on information obtained from an outside agency to the agency for direct response to the requester after coordination with the outside agency, if that agency is subject to FOIA. Otherwise, the DON activity must respond to the request.
+
+Note:
+
+DON activities shall not refer documents originated by entities outside the Executive Branch of Government (e.g., Congress, State and local government agencies, police departments, private citizen correspondence, etc.), to them for action and direct response to the requester, since they are not subject to the FOIA.
+
+(2) A DON activity shall refer to the agency that provided the record any FOIA request for investigative, intelligence, or any other type of records that are on loan to the DON for a specific purpose, if the records are restricted from further release and so marked. However, if for investigative or intelligence purposes, the outside agency desires anonymity, a DON activity may only respond directly to the requester after coordination with the outside agency.

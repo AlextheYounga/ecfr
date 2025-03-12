@@ -1,0 +1,9 @@
+##### § 232.2 Applicability; examples. #####
+
+(a)(1) *Applicability.* This part applies to consumer credit extended by a creditor to a covered borrower, as those terms are defined in this part. Nothing in this part applies to a credit transaction or account relating to a consumer who is not a covered borrower at the time he or she becomes obligated on a credit transaction or establishes an account for credit. Nothing in this part applies to a credit transaction or account relating to a consumer (which otherwise would be consumer credit) when the consumer no longer is a covered borrower.
+
+(2) *Examples*—(i) *Covered borrower.* Consumer A is a member of the armed forces but not serving on active duty, and holds an account for closed-end credit with a financial institution. After establishing the closed-end credit account, Consumer A is ordered to serve on active duty, thereby becoming a covered borrower, and soon thereafter separately establishes an open-end line of credit for personal purposes (which is not subject to any exception or temporary exemption) with the financial institution. This part applies to the open-end line of credit, but not to the closed-end credit account.
+
+(ii) *Not a covered borrower.* Same facts as described in paragraph (a)(2)(i) of this section. One year after establishing the open-end line of credit, Consumer A ceases to serve on active duty. This part never did apply to the closed-end credit account, and because Consumer A no longer is a covered borrower, this part no longer applies to the open-end line of credit.
+
+(b) *Examples.* The examples in this part are not exclusive. To the extent that an example in this part implicates a term or provision of Regulation Z (12 CFR part 1026), issued by the Consumer Financial Protection Bureau to implement the Truth in Lending Act, Regulation Z shall control the meaning of that term or provision.

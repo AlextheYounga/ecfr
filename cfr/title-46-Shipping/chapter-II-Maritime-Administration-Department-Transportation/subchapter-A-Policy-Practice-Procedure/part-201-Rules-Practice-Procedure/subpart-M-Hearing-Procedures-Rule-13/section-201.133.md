@@ -1,0 +1,3 @@
+##### § 201.133 Appeal from ruling of presiding officer. #####
+
+Rulings of presiding officers may not be appealed prior to, or during the course of, the hearing except where the presiding officer has granted a Motion for Summary Disposition under subpart I of this part, or in extraordinary circumstances where prompt decision by the Administration is necessary to prevent unusual delay, expense, or detriment to the public interest, in which instances the matter shall be referred forthwith by the presiding officer to the Administration. Any such appeal shall be filed within fifteen (15) days from the date of the ruling by the presiding officer.

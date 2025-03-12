@@ -1,0 +1,3 @@
+##### § 637.14 Use of National Crime Information Center (NCIC). #####
+
+Provost marshals will make maximum use of NCIC terminals available to them, and will establish liaison with the U.S. Army Deserter Information Point (USADIP) as necessary to ensure timely exchange of information on matters concerning deserters. The USADIP will ensure replies to inquiries from provost marshals on subjects of MP investigations are transmitted by the most expeditious means. Use of NCIC will be in accordance with AR 190-27.

@@ -1,0 +1,3 @@
+##### § 228.13 Disturbances on protected property. #####
+
+Any conduct which impedes or threatens the security of protected property, or any buildings or persons thereon, or which disrupts the performance of official duties by Agency employees, or which interferes with ingress to or egress from protected property is prohibited. Also prohibited is any disorderly conduct, any failure to obey an order to depart the premises, any unwarranted loitering, any behavior which creates loud or unusual noise or nuisance, or any conduct which obstructs the usual use of entrances, foyers, lobbies, corridors, offices, elevators, stairways or parking lots.

@@ -1,0 +1,5 @@
+##### § 1501.5 Enforcement procedure. #####
+
+The Commission will enforce this regulation, unless it determines that an emergency situation exists, only in accordance with Chapter 2, Guide 2.05—Letter of Advice/Notices of Noncompliance of the CPSC Enforcement Policy and Procedural Guides, issued in January 1990 and available from the Office of the Secretary, Consumer Product Safety Commission, Washington, DC 20207. Under the procedure described in this chapter, firms must be informed by letter that they or their products may be the subject of enforcement action and must be provided ten days within which to submit evidence and arguments that the products are not violative or are not covered by the regulation, prior to the initiation of enforcement action by the Commission or by its delegated staff member. The function of approving such enforcement actions is currently delegated by the Commission to the Assistant Executive Director for Compliance and Enforcement (copies of the existing delegation documents are also available from the CPSC's Office of the Secretary).
+
+[56 FR 46986, Sept. 17, 1991]

@@ -1,0 +1,3 @@
+##### § 1800.3 Contact for general information and requests. #####
+
+For general information on this part, to inquire about the FOIA program at NACIC, or to file a FOIA request (or expression of interest), please direct your communication in writing to the Information and Privacy Coordinator, Executive Secretariat Office, National Counterintelligence Center, 3W01 NHB, Washington, DC 20505. Such inquiries will also be accepted by facsimile at (703)874-5844. For general information or status information on pending cases only, the telephone number is (703)874-4121. Collect calls cannot be accepted.

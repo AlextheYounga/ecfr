@@ -1,0 +1,3 @@
+##### § 117.51 Purpose. #####
+
+This part sets forth industrial security procedures and practices related to Foreign Ownership, Control or Influence (FOCI) for the Department of Defense (DoD) Components, as defined in this part and non-DoD Components, as defined in this part, to ensure maximum uniformity and effectiveness in DoD implementation of the National Industrial Security Program (NISP) established by Executive Order (E.O.) 12829 “National Industrial Security Program,” (available at *http://www.archives.gov/isoo/policy-documents/eo-12829.html*).

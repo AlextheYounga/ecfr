@@ -1,0 +1,5 @@
+##### § 44.05-15 Existing vessels. #####
+
+(a) In assigning load lines to an existing vessel the provisions of the regulations in this part shall be complied with in principle and detail insofar as is reasonable and practicable, having regard to the proven efficacy of existing arrangements for a special service voyage, and having particular regard to the provision of sufficient means for the protection and safety of the crew.
+
+(b) Where it is neither reasonable nor practicable to comply with this part in its entirety, the assigning authority will, in each case, report to the Commandant, U.S. Coast Guard, the specific matters in which the vessel is deficient with such recommendations as may seem desirable. Upon the receipt of this report the Commandant, U.S. Coast Guard, shall determine such addition to the freeboard as will, in the judgment of the Commandant, U.S. Coast Guard, make the vessel as safe as if it had fully complied with this part.

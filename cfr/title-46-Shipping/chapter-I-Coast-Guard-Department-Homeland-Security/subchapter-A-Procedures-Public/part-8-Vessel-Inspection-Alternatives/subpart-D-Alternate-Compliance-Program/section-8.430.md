@@ -1,0 +1,3 @@
+##### § 8.430 U.S. supplement to class rules. #####
+
+Prior to receiving authorization to participate in the ACP, a recognized classification society must prepare, and receive Commandant (CG-ENG) approval of, a U.S. supplement to the recognized classification society's class rules. This supplement must include all regulations applicable for issuance of a Certificate of Inspection (COI) which are not, in the opinion of the Commandant, adequately established by either the class rules of that classification society or applicable international regulations.

@@ -1,0 +1,3 @@
+##### § 701.63 Policy. #####
+
+In accordance with the spirit and intent of 5 U.S.C. 552, the public has the right to maximum information concerning the organization and functions of the Department of the Navy. This includes information on the policies and the substantive and procedural rules used by the Department of the Navy in its dealings with the public. In accordance with Department of Defense policy described in 32 CFR part 336, 40 FR 4911, moreover, the public is encouraged to participate in Department of the Navy rulemaking when the proposed rule would substantially and directly affect the public.

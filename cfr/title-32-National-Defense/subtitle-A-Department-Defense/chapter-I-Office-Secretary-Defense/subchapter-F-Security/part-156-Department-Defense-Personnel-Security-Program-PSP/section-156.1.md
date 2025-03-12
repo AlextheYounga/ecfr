@@ -1,0 +1,3 @@
+##### § 156.1 Purpose. #####
+
+This part updates policies and responsibilities for the DoD Personnel Security Program (PSP) consistent with E.O. 12968, as amended; E.O. 10450, as amended; E.O. 10865, as amended; E.O. 13526; E.O. 12829, as amended; E.O. 13467; E.O. 13488; E.O. 12333, as amended; 5 U.S.C. 301 and 7532; section 1072 of Public Law 110-181, as amended; 15 U.S.C. 278g-3; 40 U.S.C. 11331; 10 U.S.C. 1564; 32 CFR parts 147, 154 through 156; 50 U.S.C. 3343; 5 CFR parts 731, 731.101, 732 and 736; and HSPD-12.

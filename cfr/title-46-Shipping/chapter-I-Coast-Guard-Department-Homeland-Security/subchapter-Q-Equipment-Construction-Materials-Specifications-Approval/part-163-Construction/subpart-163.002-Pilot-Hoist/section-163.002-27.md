@@ -1,0 +1,3 @@
+##### § 163.002-27 Production tests and examination. #####
+
+Each pilot hoist manufactured under Coast Guard approval must be tested as prescribed in § 163.002-21(c)(9) and subpart 159.007 of this chapter. The tests must be conducted by an independent laboratory. If the hoist fails the tests its defects must be corrected and retested until it passes. The laboratory must also conduct the visual examination described in § 163.002-21(b). The hoist may not be sold as Coast Guard approved unless it passes testing and unless each defect discovered in the visual examination is corrected

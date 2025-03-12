@@ -1,0 +1,33 @@
+##### § 701.5 Policy. #####
+
+(a) *Compliance with the FOIA.* DON policy is to comply with the FOIA as set forth in the Department of Defense's FOIA Directives 5400.7 and 5400.7-R, and this instruction in this part in both letter and spirit; conduct its activities in an open manner consistent with the need for security and adherence to other requirements of law and regulation; and provide the public with the maximum amount of accurate and timely information concerning its activities.
+
+(b) *Prompt action.* DON activities shall act promptly on requests when a member of the public complies with the procedures established in the instruction in this part (*i.e.*, files a “perfected request”) and the request is received by the official designated to respond. See § 701.11 for minimum requirements of the FOIA.
+
+(c) *Provide assistance.* DON activities shall assist requesters in understanding and complying with the procedures established by the instruction in this part, ensuring that procedural matters do not unnecessarily impede a requester from obtaining DON records promptly.
+
+(d) *Grant access.* (1) DON activities shall grant access to agency records when a member of the public complies with the provisions of the instruction in this part and there is no FOIA exemption available to withhold the requested information (see subpart D of this part).
+
+(2) In those instances where the requester has not cited FOIA, but the records are determined to be releasable in their entirety, the request shall be honored without requiring the requester to invoke FOIA.
+
+(e) *Create a record.* (1) A record must exist and be in the possession and control of the DON at the time of the request to be considered subject to the instruction in this part and the FOIA. Accordingly, DON activities need not process requests for records which are not in existence at the time the request is received. In other words, requesters may not have a “standing FOIA request” for release of future records.
+
+(2) There is no obligation to create, compile, or obtain a record to satisfy a FOIA request. However, this is not to be confused with honoring form or format requests (see § 701.8). A DON activity, however, may compile a new record when so doing would result in a more useful response to the requester, or be less burdensome to the agency than providing existing records, and the requester does not object. Cost of creating or compiling such a record may not be charged to the requester unless the fee for creating the record is equal to or less than the fee which would be charged for providing the existing record. Fee assessments shall be in accordance with subpart C of this part.
+
+(3) With respect to electronic data, the issue of whether records are actually created or merely extracted from an existing database is not always readily apparent. Consequently, when responding to FOIA requests for electronic data where creation of a record, programming, or particular format are questionable, DON activities should apply a standard of reasonableness. In other words, if the capability exists to respond to the request, and the effort would be a business as usual approach, then the request should be processed. However, the request need not be processed when the capability to respond does not exist without a significant expenditure of resources, thus not being a normal business as usual approach. As used in this sense, a significant interference with the operation of the DON activity's automated information system would not be a business as usual approach.
+
+(f) *Disclosures* - (1) *Discretionary Disclosures.* DON activities shall make discretionary disclosures whenever disclosure would not foreseeably harm an interest protected by a FOIA exemption. A discretionary disclosure is normally not appropriate for records clearly exempt under exemptions (b)(1), (b)(3), (b)(4), (b)(6), (b)(7)(C) and (b)(7)(F). Exemptions (b)(2), (b)(5), and (b)(7)(A), (b)(7)(B), (b)(7)(D) and (b)(7)(E) are discretionary in nature and DON activities are encouraged to exercise discretion whenever possible. Exemptions (b)(4), (b)(6), and (b)(7)(C) cannot be claimed when the requester is the “submitter” of the information. While discretionary disclosures to FOIA requesters constitute a waiver of the FOIA exemption that may otherwise apply, this policy does not create any legally enforceable right.
+
+(2) *Public domain.* Non-exempt records released under FOIA to a member of the public are considered to be in the public domain. Accordingly, such records may also be made available in reading rooms, in paper form, as well as electronically to facilitate public access.
+
+(3) *Limited disclosures.* Disclosure of records to a properly constituted advisory committee, to Congress, or to other Federal agencies does not waive a FOIA exemption.
+
+(4) *Unauthorized disclosures.* Exempt records disclosed without authorization by the appropriate DON official do not lose their exempt status.
+
+(5) *Official versus personal disclosures.* While authority may exist to disclose records to individuals in their official capacity, the provisions of the instruction in this part apply if the same individual seeks the records in a private or personal capacity.
+
+(6) *Distributing information.* DON activities are encouraged to enhance access to information by distributing information on their own initiative through the use of electronic information systems, such as the Government Information Locator Service (GILS).
+
+(g) *Honor form or format requests.* DON activities shall provide the record in any form or format requested by the requester, if the record is readily reproducible in that form or format. DON activities shall make reasonable efforts to maintain their records in forms or formats that are reproducible. In responding to requests for records, DON activities shall make reasonable efforts to search for records in electronic form or format, except when such efforts would significantly interfere with the operation of the DON activities' automated information system. Such determinations shall be made on a case-by-case basis.
+
+(h) *Authenticate documents.* Records provided under the instruction in this part shall be authenticated with an appropriate seal, whenever necessary, to fulfill an official Government or other legal function. This service, however, is in addition to that required under the FOIA and is not included in the FOIA fee schedule. DON activities may charge for the service at a rate of $5.20 for each authentication.

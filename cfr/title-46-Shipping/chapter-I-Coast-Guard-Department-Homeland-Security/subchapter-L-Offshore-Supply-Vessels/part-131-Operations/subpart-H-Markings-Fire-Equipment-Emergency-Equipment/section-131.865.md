@@ -1,0 +1,3 @@
+##### § 131.865 Inflatable liferafts and inflatable buoyant apparatus. #####
+
+The number of the inflatable liferaft or inflatable buoyant apparatus and the number of persons it is approved for must be marked or painted, in a conspicuous place in the immediate vicinity of each raft and each apparatus, in letters and numbers at least 38 millimeters (1-1/2 inches) high and in a color contrasting to that of the raft or apparatus. Each raft or apparatus stowed on the side of a vessel must be numbered like a liferaft in compliance with § 199.178 (c) and (d) of this chapter. No letters or numbers may go on the liferaft or on the container of the apparatus.

@@ -1,0 +1,3 @@
+##### § 552.150 Purpose. #####
+
+This part is punitive in nature and applies to all persons assigned to, attached to, or present on the installation of Fort Jackson, South Carolina. A violation of, attempted violation of, or solicitation or conspiracy to violate any provision of this part provides the basis for criminal prosecution under the Uniform Code of Military Justice, applicable Federal Law, other regulations, and/or adverse administrative action. Civilian visitors may be barred from the installation of Fort Jackson and prosecuted under appropriate Federal laws. The enumeration of prohibited activities in this part is not intended to preclude prosecution under other provisions of law or regulation.

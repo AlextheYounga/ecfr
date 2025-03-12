@@ -1,0 +1,3 @@
+##### § 196.34-10 Use. #####
+
+(a) Approved buoyant work vests are considered to be items of safety apparel and may be carried aboard vessels to be worn by crew members when working near or over the water under favorable working conditions. They shall be used under the supervision and control of designated ship's officers. When carried, such vests shall not be accepted in lieu of any portion of the required number of approved life preservers and shall not be substituted for the approved life preservers required to be worn during drills and emergencies.

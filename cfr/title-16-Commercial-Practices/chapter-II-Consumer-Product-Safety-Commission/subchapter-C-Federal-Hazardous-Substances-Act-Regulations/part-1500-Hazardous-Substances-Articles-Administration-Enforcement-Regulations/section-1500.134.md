@@ -1,0 +1,11 @@
+##### § 1500.134 Policy on first aid labeling for saline emesis. #####
+
+(a) This section states the Consumer Product Safety Commission's policy concerning first aid instructions for the use of a salt solution to induce vomiting (saline emesis) in the event of ingestion of hazardous substances.
+
+(b) In many cases where hazardous substances are ingested, the recommended first aid instructions for inducing vomiting have contained a statement that this should be accomplished by drinking a solution of salt (sodium chloride) in warm water. At one time, this direction was considered medically acceptable. However, the Commission has obtained information showing that the instruction to perform saline emesis is no longer appropriate. This is because the use of salt to induce vomiting can cause severe hypernatremia (salt poisoning) with potentially toxic effects, particularly in children 5 years old or younger, the age group most often involved in accidental poisonings. In view of the availability of safer and more effective emetics such as ipecac syrup, the Commission no longer recommends a direction to perform saline emesis as a first aid direction for inducing vomiting.
+
+(c) The Commission believes that, for products for which directions for saline emesis have been given in the past, ipecac syrup, U.S.P., is the most appropriate emetic, unless a particular contraindication exists in connection with any particular hazardous substance.
+
+(d) The Commission wishes to emphasize that this policy does not require that any specific first aid instruction or wording be used. Where appropriate, the label may include directions (1) that the victim immediately contact a doctor or poison control center and/or (2) that vomiting be induced using methods other than salt. It is, of course, the manufacturer's responsibility to insure that the label provides enough information in addition to first aid instructions to fulfill all other labeling required by statute or regulation.
+
+(Sec. 30(a), 86 Stat. 1231 (15 U.S.C. 2079(a)))[43 FR 33704, Aug. 1, 1978]

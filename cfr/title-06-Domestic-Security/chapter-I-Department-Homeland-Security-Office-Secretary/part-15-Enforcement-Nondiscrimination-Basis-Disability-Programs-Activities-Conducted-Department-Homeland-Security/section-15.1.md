@@ -1,0 +1,3 @@
+##### § 15.1 Purpose. #####
+
+The purpose of this part is to effectuate section 504 of the Rehabilitation Act of 1973 (“Section 504”), as amended by section 119 of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, which prohibits discrimination on the basis of disability in programs or activities conducted by Executive agencies. The provisions established by this part shall be effective for all components of the Department, including all Department components that are transferred to the Department, except to the extent that a Department component already has existing section 504 regulations.

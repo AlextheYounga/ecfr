@@ -1,0 +1,5 @@
+##### § 1015.19 Decisions on requests for exemption from disclosure under 5 U.S.C. 552(b)(4). #####
+
+(a) The Commission generally will not decide whether material received with a request for exemption from disclosure under 5 U.S.C. 552(b)(4) is entitled to be withheld until a request for production or disclosure is made for that information. The determination will be based on the most authoritative judicial interpretations available at the time a request for disclosure or production is considered. Any reasonably segregable portion of a record will be disclosed to any person requesting such record after deletion of any portions determined to be exempt under 5 U.S.C. 552(b)(4). The requester will be given a brief description of any information found to be exempt.
+
+(b) If material received with a request for exemption from disclosure under 5 U.S.C. 552(b)(4) is found to be disclosable, in whole or in part, the person submitting the material will be notified in writing and given 10 calendar days from the receipt of the letter to seek judicial relief. In no event, however, will the material be returned to the person submitting it.

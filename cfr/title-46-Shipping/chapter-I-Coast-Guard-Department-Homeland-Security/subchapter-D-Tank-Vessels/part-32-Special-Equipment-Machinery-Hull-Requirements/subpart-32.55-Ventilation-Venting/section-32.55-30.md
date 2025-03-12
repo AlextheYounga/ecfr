@@ -1,0 +1,11 @@
+##### § 32.55-30 Venting of cargo tanks of tank vessels constructed between November 10, 1936, and July 1, 1951—TB/ALL. #####
+
+(a) *Venting required.* On all tank vessels, the construction or alteration of which is started on or after November 10, 1936, and prior to July 1, 1951, each cargo tank shall be equipped with a vent. The details of the venting system shall meet the requirements of this section, or alternatively, the requirements of either § 32.55-20 or § 32.55-25, as applicable, shall be met.
+
+(b) *Grade A liquids.* (1) Cargo tanks in which Grade A liquids are to be transported shall be fitted with a venting system consisting of branch vent line from each cargo tank connected to a vent header which shall extend to a reasonable height above the weather deck and be fitted with a flame arrester or pressure-vacuum relief valve. Each branch vent line may be provided with a manually operated control valve, provided it is bypassed with a pressure-vacuum relief valve or each cargo tank to which such a branch vent line is connected is fitted with an independent pressure-vacuum relief valve. The vent header system shall be provided with suitable connections for flushing and draining.
+
+(2) In barges with independent tanks carrying Grade A liquids, separate discharge pipes may be fitted to each pressure-vacuum relief valve, or the pressure-vacuum relief valve may be elevated, so that in either case the discharge from such valve will not be less than 7 feet above the deck where practicable.
+
+(c) *Grade B or C liquids.* Cargo tanks in which Grade B or C liquids are to be transported shall be fitted with individual pressure-vacuum relief valves or shall be fitted with a venting system consisting of branch vent lines connected to a vent header which shall extend to a reasonable height above the weather deck and be fitted with a flame arrester or a pressure-vacuum relief valve.
+
+(d) *Grade D or E liquids.* Cargo tanks in which Grade D or E liquids only are to be transported shall be fitted with gooseneck vents and flame screens unless such tanks are vented by pressure-vacuum relief valves or a venting system of branch vent lines and a vent header.

@@ -1,0 +1,3 @@
+##### § 644.487 Procedure for disposal of surplus chapels. #####
+
+By direction of the President and pursuant to GSA and Army regulations, special procedures have been established for disposal of chapels. Surplus chapels must be segregated from other buildings for sale intact, separate and apart from the land, for use as shrines, memorials, or for religious purposes. Where the chapel is located on surplus land and it is determined the chapel may properly be used in place, a suitable area of land may be set aside for such purposes and sold with the chapel (§ 644.430).

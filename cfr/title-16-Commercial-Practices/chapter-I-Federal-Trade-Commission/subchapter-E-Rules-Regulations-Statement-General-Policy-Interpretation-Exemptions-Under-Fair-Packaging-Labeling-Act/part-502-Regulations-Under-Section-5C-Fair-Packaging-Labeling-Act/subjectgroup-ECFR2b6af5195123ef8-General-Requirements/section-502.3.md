@@ -1,0 +1,5 @@
+##### § 502.3 Prohibited acts. #####
+
+(a) No person engaged in the packaging or labeling of any consumer commodity for distribution in commerce, and no person (other than a common carrier for hire, a contract carrier for hire, or a freight forwarder for hire) engaged in the distribution in commerce of any packaged or labeled consumer commodity, shall distribute or cause to be distributed in commerce any such commodity if such commodity is contained in a package, or if there is affixed to that commodity a label, which does not conform to the provisions of the Act and of the regulations in this part.
+
+(b) Persons engaged in business as wholesale or retail distributors of consumer commodities shall be subject to the Act and the regulations in this part to the extent that such persons are engaged in the packaging or labeling of consumer commodities, or prescribe or specify by any means the manner in which such consumer commodities are packaged or labeled.

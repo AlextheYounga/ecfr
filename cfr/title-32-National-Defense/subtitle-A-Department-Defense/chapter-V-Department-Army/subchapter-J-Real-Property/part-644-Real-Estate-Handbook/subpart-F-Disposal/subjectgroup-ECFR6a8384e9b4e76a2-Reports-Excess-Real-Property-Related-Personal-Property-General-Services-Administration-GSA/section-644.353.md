@@ -1,0 +1,3 @@
+##### § 644.353 Determination of values for reporting. #####
+
+Where more than one parcel or item of excess property is involved at the same project or installation, the total value of all such parcels or items will be included in determining whether the property has an estimated value of $1,000 or more for the purpose of making reports of excess. Estimates of value should be made by qualified real estate employees, but not necessarily by a professional appraiser.

@@ -1,0 +1,9 @@
+##### § 803.4 Foreign persons refusing to file notification. #####
+
+(a) In an acquisition to which § 801.30 does not apply, and in which no assets (other than investment assets) located in the United States and no voting securities of a United States issuer will be acquired directly or indirectly, if a foreign acquired person refuses to file notification, then any other person which is a party to the acquisition may file notification on behalf of the foreign person. Such notification shall constitute the notification required of the foreign person by the act and these rules.
+
+(b) Any person filing on behalf of the foreign person pursuant to this section must state in the affidavit required by § 803.5(b) that such foreign person has refused to file notification and must explain all efforts made by the person filing on behalf of the foreign person to obtain compliance with the act and these rules by such foreign person.
+
+(c) Any notification filed on behalf of a foreign person pursuant to this section must contain all information and documentary material reasonably available to the person filing on behalf of the foreign person which such foreign person would be required to provide. Whenever information or documentary material is not reasonably available, the person filing on behalf of the foreign person shall so indicate on the Notification and Report Form, and need not supply the statement of reasons for noncompliance required by § 803.3.
+
+(d) Any foreign person on whose behalf notification has been filed by another person pursuant to this section shall be a “person filing notification” for purposes of the act and these rules. Nothing in this section shall exempt a foreign person from the requirements of the act or these rules with respect to a request for additional information or an extension of the waiting period pursuant to section 7A(e) and these rules.

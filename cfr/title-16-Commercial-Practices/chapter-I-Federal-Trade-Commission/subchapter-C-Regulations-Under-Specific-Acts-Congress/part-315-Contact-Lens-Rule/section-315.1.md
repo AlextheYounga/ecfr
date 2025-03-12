@@ -1,0 +1,3 @@
+##### § 315.1 Scope of regulations in this part. #####
+
+This part, which shall be called the “Contact Lens Rule,” implements the Fairness to Contact Lens Consumers Act, codified at 15 U.S.C. 7601-7610, which requires that rules be issued to address the release, verification, and sale of contact lens prescriptions. This part specifically governs contact lens prescriptions and related issues. Part 456 of Title 16 governs the availability of eyeglass prescriptions and related issues (the Ophthalmic Practice Rules (Eyeglass Rule)).

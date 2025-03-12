@@ -1,0 +1,3 @@
+##### § 643.5 Responsibilities of major commands (MACOMS) and special staff agencies. #####
+
+Except as otherwise provided herein, determinations of availability will be approved by the COE or higher authority. MACOMS and special staff agencies are responsible for determining the real estate which can be made available for non-Army use, specifying the authorized uses of the property which will not be incompatible with military requirements for the property, the length of the term and any restrictions to be imposed on the grantee's use. Upon approval of the determination of availability, the real estate grant will be issued by the DE or as otherwise provided in this regulation.

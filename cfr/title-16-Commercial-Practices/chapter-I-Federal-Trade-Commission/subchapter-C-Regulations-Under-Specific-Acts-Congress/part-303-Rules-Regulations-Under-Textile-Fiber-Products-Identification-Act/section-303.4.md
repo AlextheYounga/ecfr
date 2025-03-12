@@ -1,0 +1,3 @@
+##### § 303.4 English language requirement. #####
+
+All required information shall be set out in the English language. If the required information appears in a language other than English, it also shall appear in the English language. The provisions of this section shall not apply to advertisements in foreign language newspapers or periodicals, but such advertising shall in all other respects comply with the Act and regulations.

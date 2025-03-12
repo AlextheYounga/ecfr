@@ -1,0 +1,3 @@
+##### § 32.40 Purpose of procurement standards. #####
+
+Sections 32.41 through 32.48 set forth standards for use by recipients in establishing procedures for the procurement of supplies and other expendable property, equipment, real property and other services with Federal funds. These standards are furnished to ensure that such materials and services are obtained in an effective manner and in compliance with the provisions of applicable Federal statutes and executive orders.

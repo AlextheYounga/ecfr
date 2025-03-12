@@ -1,0 +1,3 @@
+##### § 126.340 Scope. #####
+
+The initial inspection normally consists of a series of inspections conducted during the construction of the vessel. This inspection determines whether the vessel was built to comply with developed plans and in compliance with applicable law. Items normally included in this inspection are all the items listed in § 126.430 and in addition the marine inspector verifies that the arrangement of the vessel conforms to the approved plans, that acceptable material is used in the construction of the vessel, and that the workmanship meets required standards for marine construction. The owner or builder shall make the vessel available for inspection at each stage of construction specified by the cognizant OCMI.

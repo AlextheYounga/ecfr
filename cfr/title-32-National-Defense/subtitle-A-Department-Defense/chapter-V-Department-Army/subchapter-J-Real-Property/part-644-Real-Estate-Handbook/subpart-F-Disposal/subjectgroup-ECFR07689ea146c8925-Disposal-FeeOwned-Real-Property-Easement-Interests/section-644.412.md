@@ -1,0 +1,3 @@
+##### § 644.412 Transfer of custody and accountability. #####
+
+The DE will transfer custody and accountability or will coordinate the transfer, as appropriate. The DE will collect any reimbursement and obtain any releases required. Where a leasehold is involved, the DE will furnish the transferee a copy of the lease and advice of the last rental paid and when the next rent is due. Upon completion of the transfer, proper notice will be given to the General Accounting Office, the lessor, and the Finance Officer as to the responsibility of the transferee for future rental payments. This action will be initiated or completed promptly upon receipt of a copy of the executed instrument, and a conformed copy thereof will be furnished to HQDA (DAEN-REP) WASH DC 20314.

@@ -1,0 +1,3 @@
+##### § 724.204 Eligibility for naval discharge review. #####
+
+Any former member of the Naval Service, eligible for review under reference (a) or surviving spouse, next of kin or legal representative, shall upon submission of an application be afforded a review of the member's discharge from the Naval Service as provided in §§ 724.205 and 724.206. Discharge review may also be initiated on the motion of the NDRB (See § 724.220).

@@ -1,0 +1,3 @@
+##### § 154.20 Authority to waive investigative requirements. #####
+
+*Authorized officials.* Only an official designated in paragraph G, appendix E, is empowered to waive the investigative requirements for appointment to a sensitive position, assignment to sensitive duties or access to classified information pending completion of the investigation required by this section. Such waiver shall be based upon certification in writing by the designated official that such action is necessary to the accomplishment of a DoD mission. A minor investigative element that has not been met should not preclude favorable.

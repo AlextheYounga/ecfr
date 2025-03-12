@@ -1,0 +1,7 @@
+##### § 515.1 Scope. #####
+
+(a) This part sets forth regulations providing for the licensing as ocean transportation intermediaries of persons who wish to carry on the business of providing intermediary services, including the grounds and procedures for revocation and suspension of licenses. This part also prescribes the financial responsibility requirements and the duties and responsibilities of ocean transportation intermediaries, and regulations concerning practices of ocean transportation intermediaries with respect to common carriers.
+
+(b) Information obtained under this part is used to determine the qualifications of ocean transportation intermediaries and their compliance with shipping statutes and regulations. Failure to follow the provisions of this part may result in denial, revocation or suspension of an ocean transportation intermediary license or registration. Persons operating without the proper license or registration may be subject to civil penalties not to exceed $9,000 for each such violation, unless the violation is willfully and knowingly committed, in which case the amount of the civil penalty may not exceed $45,000 for each violation; for other violations of the provisions of this part, the civil penalties range from $9,000 to $45,000 for each violation (46 U.S.C. 41107-41109). Each day of a continuing violation shall constitute a separate violation.
+
+[64 FR 11171, Mar. 8, 1999, as amended at 74 FR 50719, Oct. 1, 2009; 80 FR 68730, Nov. 5, 2015]

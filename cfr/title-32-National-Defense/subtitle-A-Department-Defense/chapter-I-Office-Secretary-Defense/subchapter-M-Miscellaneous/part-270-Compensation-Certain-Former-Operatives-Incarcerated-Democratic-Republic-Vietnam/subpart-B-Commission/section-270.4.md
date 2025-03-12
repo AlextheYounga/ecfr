@@ -1,0 +1,3 @@
+##### § 270.4 Membership. #####
+
+The Secretary shall establish within OSD a Commission that is composed of the following voting members: one representative from the Office of the Under Secretary of Defense for Personnel and Readiness, who shall be the chairman of the Commission, one representative from the Office of the Under Secretary of Defense for Policy, and one representative from each of the military departments. Members of the Commission may be either military or civilian and all members must possess, at a minimum, a Secret clearance.

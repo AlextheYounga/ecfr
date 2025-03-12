@@ -1,0 +1,3 @@
+##### § 37.885 May I require updated program plans? #####
+
+In addition to reports on progress to date, your TIA may include a provision requiring the recipient to annually prepare updated technical plans for the future conduct of the research effort. If your TIA does include a requirement for annual program plans, you also must require the recipient to submit the annual program plans to the agreements officer responsible for administering the TIA.

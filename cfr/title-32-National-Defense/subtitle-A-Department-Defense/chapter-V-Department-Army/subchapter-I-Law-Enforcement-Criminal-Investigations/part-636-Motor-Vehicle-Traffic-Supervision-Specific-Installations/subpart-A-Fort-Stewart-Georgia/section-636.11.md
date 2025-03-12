@@ -1,0 +1,3 @@
+##### § 636.11 Installation traffic codes. #####
+
+In addition to the requirements in § 634.25(d) of this subchapter, on-post violations offenders will be cited under the appropriate Georgia Traffic Code as assimilated by 18 U.S.C. 13 (for civilians) and Art 134c, Uniform Code of Military Justice (UCMJ) (for military). If no Georgia Code is appropriate for a specific offense, civilians will be cited under 40 U.S.C. 318a and military personnel will be cited under Art 92, UCMJ. The Fort Stewart/Hunter Army Airfield installation traffic code conforms to the State of Georgia Traffic Law.

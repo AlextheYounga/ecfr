@@ -1,0 +1,11 @@
+##### § 287.9 Valuation of securities in fund. #####
+
+(a) *Equipment values.* In cases where securities are deposited in the fund in lieu of cash, or are purchased with cash on deposit in the fund, or are substituted for securities in the fund, the value of such securities must not be less than the amount of cash in lieu of which they are so deposited or with which they are so purchased, or the value at the time of deposit of the securities for which they were so substituted. If the securities on deposit in the fund are replaced by cash from the general funds of the taxpayer, the amount of cash to be deposited in the fund in lieu thereof shall be not less than the amount at which such securities were valued at the time of their deposit in the fund.
+
+(b) *Determination of value.* (1) For the purpose of determining the amount in the fund, the value of securities shall be their “market value” (which shall be the basis for determining value, unless otherwise agreed to by the administration) and shall be determined in the following manner:
+
+(i) In instances where no actual purchase is involved, such as the initial deposit of securities in the fund in lieu of cash, the last sales price thereof on the principal exchange on the day the deposit was made shall be deemed to be the “market value” thereof, or, if no such sales were made, the “market value” thereof will be determined by the Administration on such basis as it may deem to be fair and reasonable in each case.
+
+(ii) In instances where the purchase of securities with cash on deposit in the fund is involved, “market value” shall be the gross price paid (adjusted for accrued interest); *Provided,* That if such securities are purchased otherwise than upon a registered exchange the price shall be within the range of transactions on the exchange on the date of such purchase, or, if there were no such transactions, then the “market value” thereof will be determined by the Administration on such basis as it may deem to be fair and reasonable in each case.
+
+(2) Purchase-money obligations secured by mortgages on vessels sold or irrevocable commitments to finance the construction or acquisition of new vessels which are deposited in the construction reserve fund as provided in § 287.13 ordinarily will be considered as equivalent to their face value.

@@ -1,0 +1,3 @@
+##### § 540.25 Evidence of financial responsibility. #####
+
+Where satisfactory proof of financial responsibility has been established, a Certificate (Casualty) covering specified vessels shall be issued evidencing the Commission's finding of adequate financial responsibility to meet any liability which may be incurred for death or injury to passengers or other persons on voyages. The period covered by the certificate shall be indeterminate unless a termination date has been specified therein.

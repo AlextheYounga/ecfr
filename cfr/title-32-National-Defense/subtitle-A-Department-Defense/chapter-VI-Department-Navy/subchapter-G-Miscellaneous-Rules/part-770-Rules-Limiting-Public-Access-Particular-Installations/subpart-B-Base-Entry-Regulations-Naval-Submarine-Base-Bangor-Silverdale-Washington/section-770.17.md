@@ -1,0 +1,5 @@
+##### § 770.17 Background. #####
+
+(a) SUBASE Bangor has been designated as the West Coast home port of the Trident Submarine. Facilities for the repair or overhaul of naval vessels are located at SUBASE Bangor. It is vital to national defense that the operation and use of SUBASE Bangor be continued without undue and unnecessary interruption. Many areas of SUBASE Bangor are of an industrial nature, including construction sites, where inherently dangerous conditions exist.
+
+(b) For prevention of the interruption of the stated use of the base by the presence of any unauthorized person within the boundaries of SUBASE Bangor, and prevention of injury to any such person as a consequence of the dangerous conditions which exist, as well as for other reasons, it is essential to restrict entry upon SUBASE Bangor to authorized persons only.

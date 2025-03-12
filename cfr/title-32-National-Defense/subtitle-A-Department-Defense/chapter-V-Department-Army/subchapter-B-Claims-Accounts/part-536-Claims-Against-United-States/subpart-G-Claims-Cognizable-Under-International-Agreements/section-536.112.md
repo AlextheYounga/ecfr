@@ -1,0 +1,3 @@
+##### § 536.112 Settlement authority for claims arising under international agreements (for those claims arising in the United States). #####
+
+Settlement authority is delegated to the Commander USARCS, except for settlement amounts exceeding the Commander's authority as set forth in subparts C, D, or H of this part, or in those cases where settlement is reserved to a higher authority. Pursuant to the applicable SOFA, the Commander USARCS will report the proposed settlement to the sending State office for concurrence or objection. See, for example, NATO SOFA, Article VIII.

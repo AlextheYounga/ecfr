@@ -1,0 +1,3 @@
+##### § 845.2 Statutory authority. #####
+
+10 U.S.C. 1037 provides authority for employment of counsel, and payment of counsel fees, court costs, bail, and other expenses incident to representation of persons subject to the Uniform Code of Military Justice before foreign tribunals. For personnel not subject to the Uniform Code of Military Justice, funds for similar expenses may be made available in cases of exceptional interest to the service concerned, upon prior application through the Judge Advocate General of the service concerned, to the appropriate service secretary.

@@ -1,0 +1,3 @@
+##### § 502.281 Investigational policy. #####
+
+The Commission has extensive regulatory duties under the various acts it is charged with administering. The conduct of investigations is essential to the proper exercise of the Commission's regulatory duties. It is the purpose of this subpart to establish procedures for the conduct of such investigations which will insure protection of the public interest in the proper and effective administration of the law. The Commission encourages voluntary cooperation in its investigations where such can be effected without delay or without prejudice to the public interest. The Commission may, in any matter under investigation, invoke any or all of the compulsory processes authorized by law. [Rule 281.]

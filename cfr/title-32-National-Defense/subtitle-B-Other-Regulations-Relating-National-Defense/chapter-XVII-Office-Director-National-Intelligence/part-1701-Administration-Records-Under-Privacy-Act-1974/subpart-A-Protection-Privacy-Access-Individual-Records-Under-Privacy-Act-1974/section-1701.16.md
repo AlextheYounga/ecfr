@@ -1,0 +1,5 @@
+##### § 1701.16 Contractors. #####
+
+(a) Any approved contract for the operation of a Privacy Act system of records to accomplish a function of the ODNI will contain the Privacy Act provisions prescribed by the Federal Acquisition Regulations (FAR) at 48 CFR part 24, requiring the contractor to comply with the Privacy Act and this subpart. The contracting component will be responsible for ensuring that the contractor complies with these contract requirements. This section does not apply to systems of records maintained by a contractor as a function of management discretion, e.g., the contractor's personnel records.
+
+(b) Where the contract contains a provision requiring the contractor to comply with the Privacy Act and this subpart, the contractor and any employee of the contractor will be considered employees of the ODNI for purposes of the criminal penalties of the Act, 5 U.S.C. 552a(i).

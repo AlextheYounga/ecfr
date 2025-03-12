@@ -1,0 +1,3 @@
+##### § 1500.267 Payment for samples. #####
+
+The Consumer Product Safety Commission will pay for all import samples that are found to be in compliance with the requirements of the act. Billing for reimbursement should be made by the owner or consignee to the Commission area office headquarters in the territory of which the shipment was offered for import. Payment for samples will not be made if the hazardous substance is found to be in violation of the act, even though subsequently brought into compliance under the terms of an authorization to bring the article into compliance.

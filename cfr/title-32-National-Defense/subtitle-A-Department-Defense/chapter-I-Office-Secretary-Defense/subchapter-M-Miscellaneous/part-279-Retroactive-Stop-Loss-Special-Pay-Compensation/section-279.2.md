@@ -1,0 +1,7 @@
+##### § 279.2 Eligibility. #####
+
+(a) The Secretaries concerned shall employ the Retroactive Stop Loss Special Pay authority and appropriated funding to compensate Service members, including members of the Reserve components, former and retired members under the jurisdiction of the Secretary who, at any time during the period beginning on September 11, 2001, and ending on September 30, 2009, served on active duty while the Service members' enlistment or period of obligated service was extended, or whose eligibility for retirement was suspended pursuant to any provision of law authorizing the President to extend any period of obligated service, or suspend eligibility for retirement, of a Service member in time of war or of national emergency declared by Congress or the President (commonly referred to as a “stop loss authority”).
+
+(b) Service members described in paragraph (a) of this section, who voluntarily reenlisted or extended their service or suspended their retirement and received a bonus for such reenlistment or extension of service are not eligible to receive the Retroactive Stop Loss Special Pay.
+
+(c) Service members who were discharged or released from the Armed Forces under other than honorable conditions are not permitted to receive Retroactive Stop Loss Special Pay under section 310 of Public Law 111-32.

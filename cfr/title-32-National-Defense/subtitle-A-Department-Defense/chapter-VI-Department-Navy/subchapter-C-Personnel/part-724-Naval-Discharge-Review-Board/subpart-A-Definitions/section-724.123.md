@@ -1,0 +1,3 @@
+##### § 724.123 Complainant. #####
+
+A former member of the Armed Forces (or the former member's counsel) who submits a complaint under 32 CFR part 70 with respect to the decisional document issued in the former member's own case; or a former member of the Armed Forces (or the former member's counsel) who submits a complaint under reference (b) stating that correction of the decisional document will assist the former member in preparing for an administrative or judicial proceeding in which the former member's own discharge will be at issue.

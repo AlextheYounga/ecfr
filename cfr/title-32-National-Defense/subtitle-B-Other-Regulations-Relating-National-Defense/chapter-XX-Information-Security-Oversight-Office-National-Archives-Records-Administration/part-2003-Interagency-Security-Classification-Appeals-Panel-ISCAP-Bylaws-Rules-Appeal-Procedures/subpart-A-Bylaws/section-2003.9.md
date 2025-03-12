@@ -1,0 +1,3 @@
+##### § 2003.9 Reports to the President (Article IX). #####
+
+ISOO includes pertinent information and data about the activities of the Panel in ISOO's reports to the President of the United States. The Panel also includes such information in any reports it may make to the President. The Chair, in coordination with the other members of the ISCAP and the Executive Secretary, determines what information and data to include in each report.

@@ -1,0 +1,7 @@
+##### § 321.1 Purpose and applicability. #####
+
+(a) This part establishes rules, policies and procedures for the disclosure of personal records in the custody of the Defense Security Service (DSS) to the individual subjects, the handling of requests for amendment or correction of such records, appeal and review of DSS decisions on these matters, and the application of general and specific exemptions, under the provisions of the Privacy Act of 1974. It also prescribes other policies and procedures to effect compliance with the Privacy Act of 1974 and DoD Directive 5400.111.
+
+1 Copies may be obtained via internet at *http://web7.whs.osd.mil/corres.htm.*
+
+(b) The procedures set forth in this part do not apply to DSS personnel seeking access to records pertaining to themselves which previously have been available. DSS personnel will continue to be granted ready access to their personnel, security, and other records by making arrangements directly with the maintaining office. DSS personnel should contact the Office of Freedom of Information and Privacy, DSSHQ, for access to investigatory records pertaining to themselves or any assistance in obtaining access to other records pertaining to themselves, and may follow the procedures outlined in these rules in any case.

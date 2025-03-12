@@ -1,0 +1,3 @@
+##### § 151.40-10 Operational requirements. #####
+
+Control systems, required by Table 151.05 shall be provided with an audible or visual high cargo temperature or high cargo pressure alarm which is discernible at the towboat. The alarm shall operate when either the pressure or the temperature exceeds the operating limits of the system. The alarm may monitor either pressure or temperature, but must be independent of the control system.

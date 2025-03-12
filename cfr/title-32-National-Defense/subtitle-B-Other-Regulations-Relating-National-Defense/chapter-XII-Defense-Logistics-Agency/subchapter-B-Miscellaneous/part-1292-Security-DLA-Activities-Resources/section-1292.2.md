@@ -1,0 +1,9 @@
+##### § 1292.2 Policy. #####
+
+(a) Military Heads of DLA field activities are authorized to issue or approve necessary security regulations and orders for the protection of property and places under their jurisdiction/administration. Regulations and orders for the protection of property and personnel of subordinate activities headed by civilians shall be promulgated by the military commander in the chain of command immediately above such subordinate activity.
+
+(b) Regulations and orders for the protection of property and personnel of primary level field activities (PLFAs) headed by civilians, and subordinate activities of such PLFAs which likewise are headed by civilians, shall be promulgated by the Director, DLA/Deputy Director/Deputy Director, CAS.
+
+(c) Heads of DLA field activities that are tenants on a military reservation, post, camp, station, installation, base, or Government-owned or leased facility administered by another command or agency are responsible for protection of property and places under their command and may issue security regulations and orders in fulfillment of their responsibility to protect property and places under their jurisdiction and administration. However, separate security regulations and orders should not be issued when the host has issued security regulations and orders that afford protection to the DLA activity.
+
+(d) Detailed physical security and emergency plans developed in conjunction with these security regulations and orders will be as prescribed by DLAM 5710.1, Physical Security Manual, and DLA War and Emergency Support Plan (WESP), part II, Annex A.

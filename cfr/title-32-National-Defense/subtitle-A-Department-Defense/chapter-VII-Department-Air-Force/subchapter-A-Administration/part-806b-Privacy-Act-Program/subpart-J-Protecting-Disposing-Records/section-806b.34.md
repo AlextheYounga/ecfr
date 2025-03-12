@@ -1,0 +1,3 @@
+##### § 806b.34 Protecting records. #####
+
+Maintaining information privacy is the responsibility of every federal employee, military member, and contractor who comes into contact with information in identifiable form. Protect information according to its sensitivity level. Consider the personal sensitivity of the information and the risk of disclosure, loss or alteration. Most information in systems of records is FOUO. Refer to DoD 5400.7-R/Air Force Supp, DoD Freedom of Information Act Program, for protection methods.

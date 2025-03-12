@@ -1,0 +1,23 @@
+##### § 1500.87 Children's products containing lead: inaccessible component parts. #####
+
+(a) The Consumer Product Safety Improvement Act (CPSIA) provides for specific lead limits in children's products. Section 101(a) of the CPSIA provides that by February 10, 2009, products designed or intended primarily for children 12 and younger may not contain more than 600 ppm of lead. After August 14, 2009, products designed or intended primarily for children 12 and younger cannot contain more than 300 ppm of lead. On August 14, 2011, the limit may be further reduced to 100 ppm after three years, unless the Commission determines that it is not technologically feasible to have this lower limit.
+
+(b) Section 101 (b)(2) of the CPSIA provides that the lead limits do not apply to component parts of a product that are not accessible to a child. This section specifies that a component part is not accessible if it is not physically exposed by reason of a sealed covering or casing and does not become physically exposed through reasonably foreseeable use and abuse of the product including swallowing, mouthing, breaking, or other children's activities, and the aging of the product, as determined by the Commission. Paint, coatings, or electroplating may not be considered to be a barrier that would render lead in the substrate to be inaccessible to a child.
+
+(c) Section 101(b)(2)(B) of the CPSIA directs the Commission to promulgate by August 14, 2009, this interpretative rule to provide guidance with respect to what product components or classes of components will be considered to be inaccessible.
+
+(d) The accessibility probes specified for sharp points or edges under the Commissions' regulations at 16 CFR 1500.48-1500.49 will be used to assess the accessibility of lead-component parts of a children's product. A lead-containing component part would be considered accessible if it can be contacted by any portion of the specified segment of the accessibility probe. A lead-containing component part would be considered inaccessible if it cannot be contacted by any portion of the specified segment of the accessibility probe.
+
+(e) For products intended for children that are 18 months of age or less, the use and abuse tests set forth under the Commission's regulations at 16 CFR 1500.50 and 16 CFR 1500.51 (excluding the bite test of § 1500.51(c)), will be used to evaluate accessibility of lead-containing component parts of a children's product as a result of normal and reasonably foreseeable use and abuse of the product.
+
+(f) For products intended for children that are over 18 months but not over 36 months of age, the use and abuse tests set forth under the Commission's regulations at 16 CFR 1500.50 and 16 CFR 1500.52 (excluding the bite test of § 1500.52(c)), will be used to evaluate accessibility of lead-containing component parts of a children's product as a result of normal and reasonably foreseeable use and abuse of the product.
+
+(g) For products intended for children that are over 36 months but not over 96 months of age, the use and abuse tests set forth under the Commission's regulations at 16 CFR 1500.50 and 16 CFR 1500.53 (excluding the bite test of § 1500.53(c)), will be used to evaluate accessibility of lead-containing component parts of a children's product as a result of normal and reasonably foreseeable use and abuse of the product.
+
+(h) For products intended for children over 96 months through 12 years of age, the use and abuse tests set forth under the Commission's regulations at 16 CFR 1500.50 and 16 CFR 1500.53 (excluding the bite test of § 1500.53(c)) intended for children aged 37-96 months will be used to evaluate accessibility of lead-containing component parts of a children's product as a result of normal and reasonably foreseeable use and abuse of the product.
+
+(i) A children's product that is or contains a lead-containing part which is enclosed, encased, or covered by fabric and passes the appropriate use and abuse tests on such covers, is inaccessible to a child unless the product or part of the product in one dimension is smaller than 5 centimeters.
+
+(j) The intentional disassembly or destruction of products by children older than age 8 years by means or knowledge not generally available to younger children, including use of tools, will not be considered in evaluating products for accessibility of lead-containing components.
+
+[74 FR 39540, Aug. 7, 2009]

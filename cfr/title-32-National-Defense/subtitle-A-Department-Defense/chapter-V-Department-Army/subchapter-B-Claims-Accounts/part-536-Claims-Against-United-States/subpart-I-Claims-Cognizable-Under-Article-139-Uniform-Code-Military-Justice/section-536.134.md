@@ -1,0 +1,3 @@
+##### § 536.134 Additional claims judge advocate and claims attorney responsibilities (for UCMJ claims). #####
+
+In addition to the duties set forth in this subpart, the CJA or claims attorney is responsible for forwarding copies of completed Article 139 actions to USARCS, maintaining a log, monitoring the time requirements of pending Article 139 actions, and publicizing the Article 139 program to commanders, soldiers, and the community.

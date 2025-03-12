@@ -1,0 +1,3 @@
+##### § 301.7 Describing furs by certain breed names prohibited. #####
+
+If the fur of an animal is described in any manner by its breed, species, strain or coloring, irrespective of former usage, such descriptive matter shall not contain the name of another animal either in the adjective form or otherwise nor shall such description (subject to any exception contained in this part or animal names appearing in the Fur Products Name Guide) contain a name in an adjective form or otherwise which connotes a false geographic origin of the animal. For example, such designations as “Sable Mink,” “Chinchilla Rabbit,” and “Aleutian Mink” shall not be used.

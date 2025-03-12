@@ -1,0 +1,3 @@
+##### § 300.9 Appeals. #####
+
+When an IDA makes an adverse determination (see § 300.3(b)) the requester may appeal that decision in writing to the designated appellate authority (see § 300.3(a)). An appeal must be made in writing to DLA's Appellate Authority and must be postmarked within the appeal time limits of the DoD FOIA Program Regulation at 32 CFR 286.24. The appeal should be accompanied by copies of the initial request and the denial letter.

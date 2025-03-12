@@ -1,0 +1,3 @@
+##### § 1052.2 Notice of opportunity for oral presentation. #####
+
+The Commission will publish in the Federal Register notice of opportunity for an oral presentation in each instance. The notice shall be sufficiently in advance of the oral presentation to allow interested persons to participate. If the oral presentation involves a proposed rule, the notice of opportunity may be in the notice proposing the rule or in a later, separate Federal Register notice.

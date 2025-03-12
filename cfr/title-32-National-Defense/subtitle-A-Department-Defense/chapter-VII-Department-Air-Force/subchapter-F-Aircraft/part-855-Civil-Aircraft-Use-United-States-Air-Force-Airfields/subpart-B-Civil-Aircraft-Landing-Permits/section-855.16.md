@@ -1,0 +1,3 @@
+##### § 855.16 Parking and storage. #####
+
+The time that an aircraft spends on an installation is at the discretion of the installation commander or a designated representative but should be linked to the purpose of use authorized. Parking and storage may be permitted on a nonexclusive, temporary, or intermittent basis, when compatible with military requirements. At those locations where there are Air Force aero clubs, parking and storage privileges may be permitted in the area designated for aero club use without regard for the purpose of use authorized, if consistent with aero club policies. Any such permission may be revoked upon notice, based on military needs and the installation commander's discretion.

@@ -1,0 +1,3 @@
+##### § 48.502 Effective date of annuity. #####
+
+All annuities payable under this Plan except those payable to beneficiaries described in § 48.102(e)(5) shall accrue from the first day of the month in which the retired member dies and shall be due and payable not later than the 15th day of each month following that month and in equal monthly installments thereafter, except that no annuity shall accrue or be paid for the month in which entitlement to that annuity terminates.

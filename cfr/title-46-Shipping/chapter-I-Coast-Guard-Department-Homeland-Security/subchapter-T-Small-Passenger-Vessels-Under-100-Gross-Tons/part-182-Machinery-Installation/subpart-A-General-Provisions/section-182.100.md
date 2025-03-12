@@ -1,0 +1,3 @@
+##### § 182.100 Intent. #####
+
+This part contains requirements for the design, construction, installation, and operation of propulsion and auxiliary machinery, piping and pressure systems, steering apparatus, and associated safety systems. Machinery and equipment installed on each vessel must be suitable for the vessel and its operation and for the purpose intended. All machinery and equipment must be installed and maintained in such a manner as to afford adequate protection from causing fire, explosion, machinery failure, and personnel injury.

@@ -1,0 +1,5 @@
+##### § 989.32 Noise. #####
+
+Aircraft noise data files used for analysis during EIAP will be submitted to HQ AFCEE for review and validation prior to public release, and upon completion of the EIAP for database entry. Utilize the current NOISEMAP computer program for air installations and the Assessment System for Aircraft Noise for military training routes and military operating areas. Guidance on standardized Air Force noise data development and analysis procedures is available from HQ AFCEE/TDB. Develop EIAP land use analysis relating to aircraft noise impacts originating from air installations following procedures in AFI 32-7063, Air Installation Compatible Use Zone (AICUZ) Program. Draft EIAP aircraft noise/land use analysis associated with air installations will be coordinated with the MAJCOM AICUZ program manager.
+
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001; 72 FR 37106, July 9, 2007]

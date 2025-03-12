@@ -1,0 +1,3 @@
+##### § 2400.3 Applicability. #####
+
+This Regulation governs the Office of Science and Technology Policy Information Security Program. In accordance with the provisions of Executive Order 12356 and Directive No. 1 it establishes, for uniform application throughout the Office of Science and Technology Policy, the policies and procedures for the security classification, downgrading, declassification and safeguarding of information that is owned by, produced for or by, or under the control of the office of Science and Technology Policy.

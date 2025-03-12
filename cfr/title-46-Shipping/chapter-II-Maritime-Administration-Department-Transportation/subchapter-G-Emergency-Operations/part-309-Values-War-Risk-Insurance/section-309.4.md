@@ -1,0 +1,3 @@
+##### § 309.4 Maximum amount insured. #####
+
+A stated valuation is the maximum amount for which the Maritime Administration will provide war risk hull insurance for damage to or actual or constructive total loss of the vessel to which such valuation applies and for which claims for damage to or actual or constructive total loss of such insured vessel may be adjusted, compromised, settled, adjudged, or paid by the Maritime Administration with respect to insurance attaching during the effective period of such valuation under the standard forms of war risk hull insurance interim binder or policy prescribed by §§ 308.106 and 308.107 of this chapter.

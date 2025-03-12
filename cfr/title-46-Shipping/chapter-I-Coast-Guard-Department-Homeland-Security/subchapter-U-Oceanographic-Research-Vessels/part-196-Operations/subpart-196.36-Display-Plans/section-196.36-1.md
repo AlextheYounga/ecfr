@@ -1,0 +1,3 @@
+##### § 196.36-1 When required. #####
+
+(a) All manned vessels shall have permanently exhibited for the guidance of the officer in charge of the vessel, general arrangement plans showing for each deck the various fire retardant bulkheads together with particulars of the fire-detecting, manual alarm and fire extinguishing systems, fire doors, means of ingress to the different compartments, the ventilating systems including the positions of the dampers, the location of the remote means of stopping the fans, and the identification of the fans serving each section.

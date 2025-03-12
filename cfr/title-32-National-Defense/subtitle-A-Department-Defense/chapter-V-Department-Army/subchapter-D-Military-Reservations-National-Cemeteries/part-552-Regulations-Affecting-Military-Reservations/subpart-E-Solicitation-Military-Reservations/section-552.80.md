@@ -1,0 +1,3 @@
+##### § 552.80 Suspension period. #####
+
+All solicitation privileges suspended by installation commanders will be for a specific time. Normally, it will not exceed 2 years. When the suspension period expires, the agent may reapply for permission to solicit at the installation authorizing the denial or suspension. Requests for suspension periods in excess of 2 years will be sent with the complete case to HQDA (DAAG-PSI) WASH DC 20314, for approval. Lesser suspension may be imposed pending decision.

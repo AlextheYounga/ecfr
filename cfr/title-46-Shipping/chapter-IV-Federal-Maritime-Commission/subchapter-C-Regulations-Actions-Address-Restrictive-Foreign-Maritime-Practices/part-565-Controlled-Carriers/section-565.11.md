@@ -1,0 +1,3 @@
+##### § 565.11 Presidential review. #####
+
+The Commission shall transmit all orders of suspension or final orders of prohibition to the President of the United States concurrently with the submission of such orders to the Federal Register pursuant to § 565.9(d) or § 565.10(c)(3). The President may, within 10 days of either the receipt or effective date of the order, request in writing that the Commission stay the effect of the order for reasons of national defense or foreign policy.

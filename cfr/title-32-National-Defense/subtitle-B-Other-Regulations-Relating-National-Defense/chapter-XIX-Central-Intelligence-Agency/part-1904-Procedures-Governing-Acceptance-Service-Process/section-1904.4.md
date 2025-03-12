@@ -1,0 +1,3 @@
+##### § 1904.4 Notification to CIA Office of General Counsel. #####
+
+A CIA employee who receives or has reason to expect service of process in an individual, official, or combined individual and official capacity, in a matter that may involve testimony or the furnishing of documents and that could reasonably be expected to involve Agency interests, shall promptly notify the Litigation Division, Office of General Counsel (703-874-3118). Such notification should be given prior to providing the requestor, counsel or other representative any Agency information, and prior to accepting service of process.

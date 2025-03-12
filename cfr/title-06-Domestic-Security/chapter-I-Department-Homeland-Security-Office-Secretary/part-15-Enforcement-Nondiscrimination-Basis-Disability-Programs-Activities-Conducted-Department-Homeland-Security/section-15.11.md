@@ -1,0 +1,3 @@
+##### § 15.11 Notice. #####
+
+The Department shall make available to all Department employees and interested persons information regarding the provisions of this part and its applicability to the programs or activities conducted by the Department, and make such information available to them in such a manner as is necessary to apprise them of the protections against discrimination assured them by section 504 and this part.

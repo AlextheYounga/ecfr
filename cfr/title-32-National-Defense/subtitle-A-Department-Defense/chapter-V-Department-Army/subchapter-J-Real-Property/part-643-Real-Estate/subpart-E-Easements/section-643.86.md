@@ -1,0 +1,3 @@
+##### § 643.86 Easements for various purposes with relinquishment of legislative jurisdiction. #####
+
+Title 40 U.S.C. 319, and delegation of authority thereunder from the Secretary of Defense authorizes the SA to grant easements and concurrently to relinquish to the State in which the affected land is located such legislative jurisdiction as is deemed necessary or desirable. Ordinarily, 40 U.S.C. 319 will not be used for easement grants which may be accomplished pursuant to authorities set forth in preceding paragraphs except where retrocession of legislative jurisdiction is intended.

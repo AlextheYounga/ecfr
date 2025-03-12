@@ -1,0 +1,3 @@
+##### § 701.39 Vaughn index. #####
+
+Itemized index, correlating each withheld document (or portion) with a specific FOIA exemption(s) and the relevant part of the agency's nondisclosure justification. The index may contain such information as: date of document; originator; subject/title of document; total number of pages reviewed; number of pages of reasonably segregable information released; number of pages denied; exemption(s) claimed; justification for withholding; etc. FOIA requesters are not entitled to a Vaughn index during the administrative process.

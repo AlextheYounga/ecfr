@@ -1,0 +1,5 @@
+##### § 552.82 Exercise of “off limits” authority. #####
+
+(a) In appropriate cases, installation commanders may have the Armed Forces Disciplinary Control Board investigate reports that cash or consumer credit transactions offered military personnel by a business establishment off post are usurious, fraudulent, misleading, or deceptive. If it is found that the commercial establishment engages in such practices; that it has not taken corrective action on being duly notified; and that the health, morale, and welfare of military personnel would be served, the Armed Forces Disciplinary Control Board may recommend that the offending business establishment be declared “off limits” to all military personnel. The procedures for making these determinations are in Army Regulation 190.24.
+
+(b) On finding that a company transacting cash or consumer credit with members of the Armed Forces, nationwide or internationally, is engaged in widespread usurious, fraudulent, or deceptive practices, the Secretary of the Army may direct Armed Forces Disciplinary Control Boards in all geographical areas where this occurred to investigate the charges and take appropriate action.

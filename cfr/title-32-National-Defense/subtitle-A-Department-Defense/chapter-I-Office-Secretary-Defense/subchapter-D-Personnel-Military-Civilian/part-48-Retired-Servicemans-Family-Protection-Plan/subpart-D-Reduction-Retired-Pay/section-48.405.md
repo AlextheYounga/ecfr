@@ -1,0 +1,7 @@
+##### § 48.405 Action upon removal from temporary disability retired list. #####
+
+(a) Any member on the temporary disability retired list established pursuant to title 10, United States Code, chapter 61, who has elected to receive reduced retired pay in order to provide one or more of the annuities specified in the Plan, and who is subsequently removed from the list due to any reason other than permanent retirement, shall have refunded to him a sum which represents the difference between the amount by which his retired pay has been reduced and the cost of an amount of term insurance which is equal to the protection provided his dependents during the period he was on the temporary disability retired list.
+
+(b) If the member concerned is returned to active duty, his election as previously made will continue or he may change or revoke the election as provided in § 48.204.
+
+(c) Time creditable for the purpose of the two year interval required to make a change, revocation or new election valid includes service before, during, and after temporary disability retirement. (See §§ 48.203 and 48.204 and Comptroller Decision B-144158, Dec. 23, 1960.) Active duty after removal from a temporary disability retired list is a necessity in such a case.

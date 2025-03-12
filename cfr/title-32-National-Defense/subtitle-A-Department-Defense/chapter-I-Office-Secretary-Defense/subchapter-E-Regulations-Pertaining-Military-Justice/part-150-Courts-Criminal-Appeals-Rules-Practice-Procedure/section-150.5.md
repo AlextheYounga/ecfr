@@ -1,0 +1,3 @@
+##### § 150.5 Place for filing papers. #####
+
+When the filing of a notice of appearance, brief, or other paper in the office of a Judge Advocate General is required by this part, such papers shall be filed in the office of the Judge Advocate General of the appropriate armed force or in such other place as the Judge Advocate General or rule promulgated pursuant to § 150.26 may designate. If transmitted by mail or other means, they are not filed until received in such office.

@@ -1,0 +1,3 @@
+##### § 1031.14 Observation criteria. #####
+
+A Commission official or employee may, on occasion, attend voluntary standards meetings for the sole purpose of observation, with the advance approval of his or her supervisor and any other person designated by agency management procedures. Commission officials and employees shall notify the Voluntary Standard Coordinator, for information purposes, prior to observing a voluntary standards meeting.

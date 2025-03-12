@@ -1,0 +1,5 @@
+##### § 1112.23 May a CSPC-accepted third party conformity assessment body subcontract work conducted for purposes of section 14 of the CPSA? #####
+
+(a) A CPSC-accepted third party conformity assessment body (which, for purposes of this section, also will be referred to as the prime contractor) may only subcontract work conducted for purposes of section 14 of the CPSA to other third party conformity assessment bodies whose accreditation has been accepted by the CPSC for the scope necessary for the subcontracted work. Violation of this provision constitutes compromising the integrity of the testing process and may be grounds for withdrawal of the CPSC's acceptance of the accreditation of the prime and/or subcontracting third party conformity assessment body.
+
+(b) The provisions of this part apply to all CPSC-accepted third party conformity assessment bodies, even if they are a prime contractor and/or a subcontractor.

@@ -1,0 +1,3 @@
+##### § 644.436 Appraisal. #####
+
+Under the usual circumstances prompt action will be taken to appraise surplus property concurrently with its classification. Appraisals will not be undertaken for property which has been or is likely to be classified for disposal for any of the following purposes: airport; wildlife conservation; public highways, streets and alleys; disposal to the District of Columbia; and property assigned to HEW for disposal. Property that is to be disposed of for other than the above listed purposes will be appraised.

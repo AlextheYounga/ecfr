@@ -1,0 +1,5 @@
+##### § 727.11 Supervision. #####
+
+The Judge Advocate General will exercise supervision over all legal assistance activities in the Department of the Navy. Subject to the supervision of the Judge Advocate General, officers in charge of Naval Legal Service Offices, and all Marine Corps commanders exercising general court-martial authority, acting through their judge advocates, shall exercise supervision over all legal assistance activities within their respective areas of responsibility and shall ensure that legal assistance services are made available to all eligible personnel within their areas. The Judge Advocate General will collaborate with the American Bar Association, the Federal Bar Association, and other civilian bar organizations as he may deem necessary or advisable in the accomplishment of the objectives and purposes of the legal assistance program.
+
+[42 FR 35957, July 13, 1977]

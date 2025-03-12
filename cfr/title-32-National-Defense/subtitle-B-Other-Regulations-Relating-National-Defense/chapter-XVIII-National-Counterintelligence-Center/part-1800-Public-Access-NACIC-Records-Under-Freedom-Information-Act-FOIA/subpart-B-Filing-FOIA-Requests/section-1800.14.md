@@ -1,0 +1,3 @@
+##### § 1800.14 Fee estimates (pre-request option). #####
+
+In order to avoid unanticipated or potentially large fees, a requester may submit a request for a fee estimate. Pursuant to the Electronic Freedom of Information Act Amendments of 1996, NACIC will endeavor within twenty (20) days to provide an accurate estimate, and, if a request is thereafter submitted, NACIC will not accrue or charge fees in excess of our estimate without the specific permission of the requester.

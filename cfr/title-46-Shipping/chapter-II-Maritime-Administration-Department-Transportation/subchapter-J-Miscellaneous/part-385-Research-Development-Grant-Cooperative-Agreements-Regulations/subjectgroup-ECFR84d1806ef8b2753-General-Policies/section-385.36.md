@@ -1,0 +1,7 @@
+##### § 385.36 Public notice of availability of assistance awards. #####
+
+(a) In order to maximize involvement of prospective recipients in MarAd assistance programs, it is MarAd's policy, wherever possible, to provide timely notice to the public as to the availability of assistance awards.
+
+(b) Early notice regarding legislated grant or other assistance programs will br provided by MarAd to the Office of Management and Budget for publication in the Catalog of Federal Domestic Assistance pursuant to Office of Management and Budget Circular No. A-89. When legislated assistance programs or program objectives which are to be implemented through assistance instruments reach the point where applications or proposals need to be obtained, timely notice of such solicitations will be published in the Federal Register, Commerce Business Daily, trade and professional journals which are widely circulated to state and local governments, and news media, as appropriate to communicate with potentially interested applicants.
+
+(c) When a MarAd assistance project involves making assistance available through prime recipients to subrecipients, such as through states to local governments, prime recipients should provide timely advance notice to subrecipients as to the availability of such assistance, and provide a reasonable time period for subrecipients to prepare applications and secure prerequisite local approvals.

@@ -1,0 +1,7 @@
+##### § 1115.29 Final determination regarding form and content. #####
+
+(a) *Commission or court discretion.* The recall notice content required by this subpart must be included in a recall notice whether or not the firm admits the existence of a defect or of an actual or potential hazard, and whether or not the firm concedes the accuracy or applicability of all of the information contained in the recall notice. The Commission will make the final determination as to the form and content of the recall notice for purposes of an order under section 15(c) or (d) of the CPSA (15 U.S.C. 2064(c) or (d)), and a United States district court will make the final determination as to the form and content of a recall notice for purposes of an order under section 12 of the CPSA (15 U.S.C. 2061).
+
+(b) *Recall notice exceptions.* The Commission for purposes of an order under section 15(c) or (d) of the CPSA (15 U.S.C. 2064(c) or (d)), or a United States district court for purposes of an order under section 12 of the CPSA (15 U.S.C. 2061), may determine that one or more of the recall notice requirements set forth in this subpart is not required, and will not be included, in a recall notice.
+
+(c) *Commission approval.* Before a firm may publish, broadcast, or otherwise disseminate a recall notice to be issued pursuant to an order under section 15(c) or (d) of the CPSA (15 U.S.C. 2064(c) or (d)), the Commission must review and agree in writing to all aspects of the notice.

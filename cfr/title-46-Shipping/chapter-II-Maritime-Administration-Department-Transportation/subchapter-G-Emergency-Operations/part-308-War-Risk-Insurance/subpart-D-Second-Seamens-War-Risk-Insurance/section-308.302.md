@@ -1,0 +1,3 @@
+##### § 308.302 Issuance of interim binder; terms and conditions. #####
+
+Upon acceptance of an application, an interim binder in form as set forth in § 308.3 will be issued and there shall be deemed to be incorporated therein by reference all the terms, conditions, and warranties contained in the application for Second Seamen's war risk insurance (set forth in § 308.3) and the Second Seamen's War Risk Policy (1955) (set forth in § 308.306) to the same extent as if such application and policy were made a part of the binder. The binder fee (not refundable) shall be $75 per application for American vessels and $150 per application for foreign-flag vessels. All fees are payable in U.S. funds by check to the order of “Maritime Administration, Department of Transportation.”

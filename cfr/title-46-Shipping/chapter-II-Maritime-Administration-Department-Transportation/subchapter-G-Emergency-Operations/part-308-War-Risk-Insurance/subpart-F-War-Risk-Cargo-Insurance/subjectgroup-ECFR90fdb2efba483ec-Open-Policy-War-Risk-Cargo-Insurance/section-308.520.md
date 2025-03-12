@@ -1,0 +1,3 @@
+##### § 308.520 Standard optional endorsement No. 3, Form MA-300-C. #####
+
+Standard Optional Endorsement No. 3, which may be obtained from MARAD's underwriting agent or MARAD, amends the policy to include shipments of diamonds for industrial purposes, or rubies or sapphires, natural or synthetic, used for instruments or watch jewels imported to the Continental United States (excluding Alaska). Application for Standard Optional Endorsement No. 3 may be made to the Underwriting Agent, which shall transmit it to the Maritime Administrator for approval or disapproval of the issuance of the endorsement.

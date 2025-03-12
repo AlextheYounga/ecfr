@@ -1,0 +1,3 @@
+##### § 806b.19 Information compiled in anticipation of civil action. #####
+
+Withhold records compiled in connection with a civil action or other proceeding including any action where the Air Force expects judicial or administrative adjudicatory proceedings. This exemption does not cover criminal actions. Do not release attorney work products prepared before, during, or after the action or proceeding.

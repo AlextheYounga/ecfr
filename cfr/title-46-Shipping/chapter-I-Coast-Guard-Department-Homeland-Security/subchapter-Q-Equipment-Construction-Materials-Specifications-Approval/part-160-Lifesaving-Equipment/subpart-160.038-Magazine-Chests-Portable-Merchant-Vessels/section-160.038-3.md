@@ -1,0 +1,7 @@
+##### § 160.038-3 Materials, workmanship, and construction. #####
+
+(a) Portable magazine chests shall be constructed of metal and lined with wood.
+
+(b) The lining shall be so fitted and finished as to form a smooth surface within the interior of the chest. Fastenings shall be recessed below the surface to avoid projections within the interior. Construction shall be such as to separate all containers of explosives or pyrotechnics from contact with metal surfaces.
+
+(c) The metal shall be1/8 inch thick and free from crimps, buckles, and rough edges. All metal surfaces shall be wire brushed and all oil, grease, rust, loose scale, and other extraneous matter, removed before application of any primer. All surfaces of the metal chest and fittings shall be given a heavy coat of quick drying red lead, zinc chromate, or other suitable primer before painting. The finish shall consist of two coats of paint. The interior shall be lined with wood sheathing of a minimum thickness of3/4 inch. Securing means shall be countersunk below the surface of the sheathing. Securing means for the cover and 4 lashing rings shall be provided. The lashing rings shall be 3″ I.D. ×3/8″ wire permanently attached to the magazine chest. Two runners, not less than 2 inches high shall be permanently attached to the bottom of the chest.

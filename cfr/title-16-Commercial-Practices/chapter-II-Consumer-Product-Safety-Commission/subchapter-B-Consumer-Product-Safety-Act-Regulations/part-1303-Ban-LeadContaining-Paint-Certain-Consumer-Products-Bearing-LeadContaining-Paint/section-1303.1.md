@@ -1,0 +1,15 @@
+##### § 1303.1 Scope and application. #####
+
+(a) In this part 1303, the Consumer Product Safety Commission declares that paint and similar surface-coating materials for consumer use that contain lead or lead compounds and in which the lead content (calculated as lead metal) is in excess of 0.06 percent (0.06 percent is reduced to 0.009 percent effective August 14, 2009 as mandated by Congress in section 101(f) of the Consumer Product Safety Improvement Act of 2008, Pub. L. 110-314) of the weight of the total nonvolatile content of the paint or the weight of the dried paint film (which paint and similar surface-coating materials are referred to hereafter as “lead-containing paint”) are banned hazardous products under sections 8 and 9 of the Consumer Product Safety Act (CPSA), 15 U.S.C. 2057, 2058. The following consumer products are also declared to be banned hazardous products:
+
+(1) Toys and other articles intended for use by children that bear “lead-containing paint”.
+
+(2) Furniture articles for consumer use that bear “lead-containing paint”.
+
+(b) This ban applies to the products in the categories described in paragraph (a) of this section that are manufactured after February 27, 1978, and which are “consumer products” as that term is defined in section 3(a)(1) of the Consumer Product Safety Act. Accordingly, those of the products described above that are customarily produced or distributed for sale to or for use, consumption, or enjoyment of consumers in or around a household, in schools, in recreation, or otherwise are covered by the regulation. Paints and coatings for motor vehicles and boats are not included within the scope of the ban because they are outside the statutory definition of “consumer product”. In addition to those products which are sold directly to consumers, the ban applies to products which are used or enjoyed by consumers after sale, such as paints used in residences, schools, hospitals, parks, playgrounds, and public buildings or other areas where consumers will have direct access to the painted surface.
+
+(c) The Commission has issued the ban because it has found that there is an unreasonable risk of lead poisoning in children associated with lead content of over 0.06 percent in paints and coatings to which children have access and that no feasible consumer product safety standard under the CPSA would adequately protect the public from this risk. The 0.06 percent is reduced to 0.009 percent effective August 14, 2009 as mandated by Congress in section 101(f) of the Consumer Product Safety Improvement Act of 2008, Public Law 110-314.
+
+(d) Any ban or rule promulgated under 16 CFR 1303.1 shall be considered a regulation of the Commission promulgated under or for the enforcement of section 2(q) of the Federal Hazardous Substances Act (15 U.S.C. 1261(q)).
+
+[42 FR 44199, Sept. 1, 1977, as amended at 73 FR 77493, Dec. 19, 2008]

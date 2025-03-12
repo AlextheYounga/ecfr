@@ -1,0 +1,3 @@
+##### § 147.23 Breaks in service. #####
+
+If a person who requires access has been retired or separated from U.S. government employment for less than two years and is the subject of an investigation that is otherwise current, the agency regranting the access will, as a minimum, review an updated Standard Form 86 and applicable records. A reinvestigation is not required unless the review indicates the person may no longer satisfy the standards of Executive Order 12968 (60 FR 40245, 3 CFR 1995 Comp., p. 391); (Attachment D to this subpart, Table 2).

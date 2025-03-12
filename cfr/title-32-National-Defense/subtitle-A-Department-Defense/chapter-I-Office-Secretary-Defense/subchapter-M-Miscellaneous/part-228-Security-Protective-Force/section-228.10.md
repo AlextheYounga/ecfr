@@ -1,0 +1,3 @@
+##### § 228.10 Prohibition on alcohol. #####
+
+Entering or being on protected property under the influence of alcoholic beverages is prohibited. Operation of a motor vehicle entering or while on protected property by a person under the influence of alcoholic beverages is prohibited. The use of alcoholic beverages on protected property is also prohibited, except on occasions and on protected property for which the NSA Deputy Director for Support Services or his designee has granted approval for such use.

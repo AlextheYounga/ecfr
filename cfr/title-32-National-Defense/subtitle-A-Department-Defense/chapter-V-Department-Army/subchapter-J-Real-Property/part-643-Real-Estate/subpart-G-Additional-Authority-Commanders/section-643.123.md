@@ -1,0 +1,3 @@
+##### § 643.123 Reserve facilities - Local civic organizations. #####
+
+In order to promote community relations in areas where Army Reserve Centers have been constructed, local civic and similar nonprofit organizations may be permitted to use the armory facilities during such periods that will not cause any interference with the primary use thereof for the administration and training of the Reserve components of the Armed Services of the United States. Procedures and policy are outlined in AR 140-488.

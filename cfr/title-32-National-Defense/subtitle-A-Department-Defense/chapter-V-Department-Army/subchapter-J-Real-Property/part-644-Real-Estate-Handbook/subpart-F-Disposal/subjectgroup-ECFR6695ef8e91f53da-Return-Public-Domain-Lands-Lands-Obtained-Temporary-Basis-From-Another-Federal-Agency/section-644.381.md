@@ -1,0 +1,3 @@
+##### § 644.381 Disposal of buildings and other improvements. #####
+
+Where improvements have a net salvage value and are not to be reported to GSA for disposal with the land, the permitting agency, or Department of the Interior in the case of public domain land, will be required to reimburse the Army for their net salvage value, or the buildings or improvements will be disposed of in accordance with §§ 644.472 through 644.500.

@@ -1,0 +1,3 @@
+##### § 145.1 Purpose. #####
+
+This part establishes policy, assigns responsibilities, and prescribes procedures for cooperation with the Office of Special Counsel (OSC) of the Merit Systems Protection Board (MSPB) in fulfilling the responsibilities of the Special Counsel under Pub. L. 95-454 and 5 CFR 1201 and 1250 to conduct investigations of alleged prohibited personnel practices and to ensure the investigation of other allegations of improper or illegal conduct referred to the Department of Defense by the OSC. This part provides internal guidance to DoD officials, and does not establish an independent basis for any person or organization to assert a right, benefit, or privilege.

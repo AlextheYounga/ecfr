@@ -1,0 +1,3 @@
+##### § 518.1 Purpose. #####
+
+This part provides policies and procedures for implementation of the Freedom of Information Act (5 U.S.C. 552, as amended) and Department of Defense Directive (DoDD) 5400.7 and promotes uniformity in the Department of Defense (DoD) Freedom of Information Act (FOIA) Program. This Army regulation implements provisions for access and release of information from all Army information systems (automated and manual) in support of Army Information Management (AR 25-1).

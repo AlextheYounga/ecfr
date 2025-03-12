@@ -1,0 +1,3 @@
+##### § 27.207 What are the requirements for fuel shut-offs on towing vessels? #####
+
+To stop the flow of fuel in the event of a break in the fuel line, you must have a positive, remote fuel-shut-off valve fitted on any fuel line that supplies fuel directly to an engine or generator. The valve must be near the source of supply (for instance, at the day tank, storage tank, or fuel-distribution manifold). Furthermore, it must be operable from a safe place outside the space where the valve is installed. Each remote valve control should be marked in clearly legible letters, at least 25 millimeters (1 inch) high, indicating the purpose of the valve and the way to operate it.

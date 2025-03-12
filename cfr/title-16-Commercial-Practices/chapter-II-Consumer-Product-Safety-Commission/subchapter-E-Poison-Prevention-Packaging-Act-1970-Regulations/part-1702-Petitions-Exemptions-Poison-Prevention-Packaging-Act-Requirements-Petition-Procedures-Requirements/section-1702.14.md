@@ -1,0 +1,3 @@
+##### § 1702.14 Marketing history. #####
+
+Each petition for an exemption under this part shall include a statement of the marketing history of the substance for which an exemption is requested. The marketing history dates from the year in which each form of the product was introduced onto the market. The marketing history shall include the total number of units of each form or strength and package size of the product distributed since the product was introduced onto the market. In the case of prescription drugs, the average prescription size for the product should also be indicated, if known.

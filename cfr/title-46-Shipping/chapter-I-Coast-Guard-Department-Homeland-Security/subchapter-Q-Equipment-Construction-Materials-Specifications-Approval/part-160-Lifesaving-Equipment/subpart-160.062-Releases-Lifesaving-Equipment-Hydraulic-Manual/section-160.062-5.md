@@ -1,0 +1,15 @@
+##### § 160.062-5 Markings. #####
+
+(a) Hydraulic releases manufactured prior to the granting of a certificate of approval to the manufacturer may be permitted in service only to July 1, 1969. However, such hydraulic releases meeting the type and design requirements covered by a current certificate of approval may be repaired and/or reconditioned as provided in § 160.062-4(f) and be accepted as approved equipment when it bears the following markings:
+
+(1) *Body marking.* The name of the manufacturer and the model designation are plainly visible.
+
+(2) *Inspection tag markings.* Each hydraulic release repaired or reconditioned shall be provided with a 2″ by 31/2″ stainless steel tag of a minimum thickness of 0.032 inches. This tag shall be permanently attached to a hydraulic release with a single stainless steel link made of wire3/16″ in diameter. This link shall provide nonrigid attachment of the tag to the hydraulic release. The top of the inspection tag shall be stamped in block characters not less than1/16″ in height with the manufacturer's name, Coast Guard approval number, the limits of buoyant capacity in pounds, the Marine Inspection Office identification letters, and the letters “USCG.” The remaining space on the tag will be used for the stamping of periodic servicing test dates and the marine inspector's initials as described in § 160.062-4(f).
+
+(b) Hydraulic release manufactured under a certificate of approval issued under this subpart shall be provided with 2 sets of markings as follows:
+
+(1) *Body marking.* The metal body of a hydraulic release shall be stamped in block characters not less than1/8″ in height on a plainly visible portion with the name of the manufacturer, the model designation, the limits of buoyant capacity in pounds, the method of manual release, the notation “DO NOT PAINT”, Coast Guard approval number, the Marine Inspection Office identification letters, and the letters “USCG”.
+
+(2) *Inspection tag markings.* Each hydraulic release shall be provided at its time of manufacture with a 2″ by 31/2″ stainless steel tag of a minimum thickness of 0.032 inch. This tag shall be permanently attached to a hydraulic release with a single stainless steel link made of wire3/16″ in diameter. This link shall provide nonrigid attachment of the tag to the hydraulic release. The top of the inspection tag shall be stamped in block characters not less than1/8″ in height with the original lot number of the hydraulic release, its date of manufacture, and its release depth range in feet. The remaining space on the tag will be used for the stamping of periodic servicing test dates and the Marine Inspection Office identification letters as described in § 160.062-4(f).
+
+[CGFR 68-32, 33 FR 5721, Apr. 12, 1968, as amended by CGD 75-186, 41 FR 10437, Mar. 11, 1976]

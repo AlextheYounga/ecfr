@@ -1,0 +1,3 @@
+##### § 644.434 Cottage site disposal. #####
+
+Disposal of lots for cottage site development and use is authorized by Pub. L. 84-999 (16 U.S.C. 460e). No new allocations of land for private cottage use will be made. The policy concerning phasing out of existing cottage site areas is set out in ER 1130-2-400. The DE has delegated authority to sell or lease cottage sites. Contract of Sale, ENG Form 3297-R, will be used.

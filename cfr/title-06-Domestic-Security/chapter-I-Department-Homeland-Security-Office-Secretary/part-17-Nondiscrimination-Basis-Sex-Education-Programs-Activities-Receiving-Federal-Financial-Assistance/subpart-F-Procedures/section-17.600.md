@@ -1,0 +1,3 @@
+##### § 17.600 Notice of covered programs. #####
+
+Within 60 days of March 6, 2003, each component of the Department that awards Federal financial assistance shall publish in the Federal Register a notice of the programs covered by these Title IX regulations. Each such component shall periodically republish the notice of covered programs to reflect changes in covered programs. Copies of this notice also shall be made available upon request to the Department's office that enforces Title IX.

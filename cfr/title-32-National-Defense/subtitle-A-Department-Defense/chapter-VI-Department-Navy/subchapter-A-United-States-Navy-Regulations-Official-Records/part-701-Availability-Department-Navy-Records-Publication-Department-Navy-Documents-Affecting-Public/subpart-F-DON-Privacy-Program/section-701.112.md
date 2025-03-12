@@ -1,0 +1,3 @@
+##### § 701.112 “Blanket routine uses.” #####
+
+In the interest of simplicity, economy, and to avoid redundancy, DOD has established “DOD Blanket Routine Uses.” These “blanket routine uses” are applicable to every PA system of records notice maintained within DOD, unless specifically stated within a particular systems notice. “DOD Blanket Routine Uses” are downloadable from *http://www.privacy.navy.mil* (Notices) and are published at the beginning of the Department of the Navy's Federal Register compilation of record systems notices.

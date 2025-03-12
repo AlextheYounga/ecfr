@@ -1,0 +1,5 @@
+##### § 1.72 Examination, counseling and staff advice. #####
+
+The Commission maintains a staff to carry out on-the-scene examination of records and procedures utilized to comply with the Fair Credit Reporting Act and to carry out industry counseling. Requests for staff interpretation of the Fair Credit Reporting Act should be directed to the Division of Credit Practices, Bureau of Consumer Protection. Such interpretations represent informal staff opinion which is advisory in nature and is not binding upon the Commission as to any action it may take in the matter. Administrative action to effect correction of minor infractions on a voluntary basis is taken in those cases where such procedure is believed adequate to effect immediate compliance and protect the public interest.
+
+[36 FR 9293, May 22, 1971, as amended at 36 FR 18788, Sept. 22, 1971; 38 FR 32438, Nov. 26, 1973; 46 FR 26290, May 12, 1981]

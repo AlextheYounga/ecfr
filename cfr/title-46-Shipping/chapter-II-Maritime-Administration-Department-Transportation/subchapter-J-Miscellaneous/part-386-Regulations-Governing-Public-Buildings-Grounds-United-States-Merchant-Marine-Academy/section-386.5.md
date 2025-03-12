@@ -1,0 +1,3 @@
+##### § 386.5 Conformity with signs and posted regulations. #####
+
+Persons in and on Academy property shall, at all times, comply with official signs and posted regulations of a prohibitional, instructional or directional nature, and shall also comply with the directions of Academy special police and other authorized officials. These regulations shall be enforced by uniformed special police and other designated security personnel.

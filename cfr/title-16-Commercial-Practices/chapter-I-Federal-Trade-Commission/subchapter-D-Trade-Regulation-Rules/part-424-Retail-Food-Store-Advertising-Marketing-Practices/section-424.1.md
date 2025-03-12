@@ -1,0 +1,5 @@
+##### § 424.1 Unfair or deceptive acts or practices. #####
+
+In connection with the sale or offering for sale by retail food stores of food, grocery products or other merchandise to consumers in or affecting commerce as “commerce” is defined in section 4 of the Federal Trade Commission Act, 15 U.S.C. 44, it is an unfair or deceptive act or practice in violation of section 5(a)(1) of the Federal Trade Commission Act, 15 U.S.C. 45(a)(1), to offer any such products for sale at a stated price, by means of an advertisement disseminated in an area served by any stores which are covered by the advertisement, if those stores do not have the advertised products in stock and readily available to customers during the effective period of the advertisement, unless the advertisement clearly and adequately discloses that supplies of the advertised products are limited or the advertised products are available only at some outlets.
+
+[54 FR 35467, Aug. 28, 1989, as amended at 79 FR 70056, Nov. 25, 2014]

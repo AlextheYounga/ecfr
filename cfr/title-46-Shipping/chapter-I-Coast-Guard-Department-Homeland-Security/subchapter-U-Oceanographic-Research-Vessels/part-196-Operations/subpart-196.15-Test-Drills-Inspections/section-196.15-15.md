@@ -1,0 +1,3 @@
+##### § 196.15-15 Examination of boilers and machinery. #####
+
+(a) It shall be the duty of the chief engineer when he assumes charge of the boilers and machinery of a vessel to examine them thoroughly. If any parts thereof are in unsatisfactory condition, or if the safety-valve seals are broken, the fact shall immediately be reported to the master, owner, or agent, and the Officer in Charge, Marine Inspection.

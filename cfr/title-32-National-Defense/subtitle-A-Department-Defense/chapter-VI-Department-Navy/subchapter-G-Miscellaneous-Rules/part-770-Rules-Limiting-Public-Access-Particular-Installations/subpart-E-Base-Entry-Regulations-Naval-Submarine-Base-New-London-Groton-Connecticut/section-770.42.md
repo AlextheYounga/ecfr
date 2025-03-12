@@ -1,0 +1,3 @@
+##### § 770.42 Background. #####
+
+Naval Submarine Base New London maintains and operates facilities to support training and experimental operations of the submarine force including providing support to submarines, submarine rescue vessels, and assigned service and small craft; within capabilities, to provide support to other activities of the Navy and other governmental activities in the area; and to perform such other functions as may be directed by competent authority.

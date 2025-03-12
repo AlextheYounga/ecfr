@@ -1,0 +1,33 @@
+##### § 3.7 Comptroller General access. #####
+
+(a) A clause must be included in solicitations and agreements for prototype projects awarded under authority of 10 U.S.C. 2371, that provide for total government payments in excess of $5,000,000 to allow Comptroller General access to records that directly pertain to such agreements.
+
+(b) The clause referenced in paragraph (a) of this section will not apply with respect to a party or entity, or subordinate element of a party or entity, that has not entered into any other contract, grant, cooperative agreement or “other transaction” agreement that provides for audit access by a government entity in the year prior to the date of the agreement. The clause must be included in all agreements described in paragraph (a) of this section in order to fully implement the law by covering those participating entities and their subordinate elements which have entered into prior agreements providing for Government audit access, and are therefore not exempt. The presence of the clause in an agreement will not operate to require Comptroller General access to records from any party or participating entity, or subordinate element of a party or participating entity, or subordinate element of a party or participating entity, which is otherwise exempt under the terms of the clause and the law.
+
+(c)(1) The right provided to the Comptroller General in a clause of an agreement under paragraph (a) of this part, is limited as provided by subparagraph (c)(2) of this part in the case of a party to the agreement, an entity that participates in the performance of the agreement, or a subordinate element of that party or entity, if the only cooperative agreements or “other transactions” that the party, entity, or subordinate element entered into with government entities in the year prior to the date of that agreement are cooperative agreements or transactions that were entered into under 10 U.S.C. 2371 or Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Pub. L. 103-160; 10 U.S.C. 2371 note).
+
+(c)(2) The only records of a party, other entity, or subordinate element referred to in subparagraph (c)(1) of this part that the Comptroller General may examine in the exercise of the right referred to in that subparagraph, are records of the same type as the records that the government has had the right to examine under the audit access clauses of the previous cooperative agreements or transactions referred to in such subparagraph that were entered into by that particular party, entity, or subordinate element.
+
+(d) The head of the contracting activity (HCA) that is carrying out the agreement may waive the applicability of the Comptroller General access requirement if the HCA determines it would not be in the public interest to apply the requirement to the agreement. The waiver will be effective with respect to the agreement only if the HCA transmits a notification of the waiver to the Committees on Armed Services of the Senate and the House of Representatives, the Comptroller General, and the Director, Defense Procurement before entering into the agreement. The notification must include the rationale for the determination.
+
+(e) The HCA must notify the Director, Defense Procurement of situations where there is evidence that the Comptroller General Access requirement caused companies to refuse to participate or otherwise restricted the Department's access to companies that typically do not do business with the Department.
+
+(f) In no case will the requirement to examine records under the clause referenced in paragraph (a) of this section apply to an agreement where more than three years have passed after final payment is made by the government under such an agreement.
+
+(g) The clause referenced in paragraph (a) of this section, must provide for the following:
+
+(1) The Comptroller General of the United States, in the discretion of the Comptroller General, shall have access to and the right to examine records of any party to the agreement or any entity that participates in the performance of this agreement that directly pertain to, and involve transactions relating to, the agreement.
+
+(2) Excepted from the Comptroller General access requirement is any party to this agreement or any entity that participates in the performance of the agreement, or any subordinate element of such party or entity, that, in the year prior to the date of the agreement, has not entered into any other contract, grant, cooperative agreement, or “other transaction” agreement that provides for audit access to its records by a government entity.
+
+(3)(A) The right provided to the Comptroller General is limited as provided in subparagraph (B) in the case of a party to the agreement, any entity that participates in the performance of the agreement, or a subordinate element of that party or entity if the only cooperative agreements or “other transactions” that the party, entity, or subordinate element entered into with government entities in the year prior to the date of that agreement are cooperative agreements or transactions that were entered into under 10 U.S.C. 2371 or Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Pub. L. 103-160; 10 U.S.C. 2371 note).
+
+(B) The only records of a party, other entity, or subordinate element referred to in subparagraph (A) that the Comptroller General may examine in the exercise of the right referred to in that subparagraph are records of the same type as the records that the government has had the right to examine under the audit access clauses of the previous agreements or transactions referred to in such subparagraph that were entered into by that particular party, entity, or subordinate element.
+
+(4) This clause shall not be construed to require any party or entity, or any subordinate element of such party or entity, that participates in the performance of the agreement, to create or maintain any record that is not otherwise maintained in the ordinary course of business or pursuant to a provision of law.
+
+(5) The Comptroller General shall have access to the records described in this clause until three years after the date the final payment is made by the United States under this agreement.
+
+(6) The recipient of the agreement shall flow down this provision to any entity that participates in the performance of the agreement.
+
+[65 FR 35576, June 5, 2000. Redesignated at 67 FR 54956, Aug. 27, 2002]

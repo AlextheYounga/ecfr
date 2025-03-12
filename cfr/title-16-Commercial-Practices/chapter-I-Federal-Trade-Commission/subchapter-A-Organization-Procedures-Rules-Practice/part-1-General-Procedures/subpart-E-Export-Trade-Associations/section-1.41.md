@@ -1,0 +1,3 @@
+##### § 1.41 Limited antitrust exemption. #####
+
+The Export Trade Act authorizes the organization and operation of export trade associations, and extends to them certain limited exemptions from the Sherman Act and the Clayton Act. It also extends the jurisdiction of the Commission under the Federal Trade Commission Act to unfair methods of competition used in export trade against competitors engaged in export trade, even though the acts constituting such unfair methods are done without the territorial jurisdiction of the United States.

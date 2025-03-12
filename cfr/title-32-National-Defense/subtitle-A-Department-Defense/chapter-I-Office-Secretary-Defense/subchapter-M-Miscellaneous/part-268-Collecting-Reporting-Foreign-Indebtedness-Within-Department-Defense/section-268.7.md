@@ -1,0 +1,3 @@
+##### § 268.7 Collecting and reporting of foreign debts under long-term loans and debts. #####
+
+The DSAA is responsible for administering FMS long-term loans and credit programs authorized by Section 23 of the Arms Export Control Act, and likewise is responsible for determining foreign indebtedness against these programs. Debts remaining uncollected 90 days after the due date will be referred to the State Department for diplomatic assistance to effect settlement.

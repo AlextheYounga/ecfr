@@ -1,0 +1,3 @@
+##### § 279.6 Reporting. #####
+
+The Department of Defense shall provide a consolidated report to the congressional defense committees on the implementation of section 310 of Public Law 111-32. As such, the Under Secretary of Defense for Personnel and Readiness, in coordination with the Under Secretary of Defense (Comptroller), will establish data formats and narrative requirements for a cumulative quarterly report beginning January 21, 2010, to monitor the program and the remaining balance of funding appropriated for this purpose.

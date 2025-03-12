@@ -1,0 +1,3 @@
+##### § 1112.55 Will the CPSC publish adverse actions? #####
+
+Immediately following a final adverse action, the CPSC may publish the fact of a final adverse action, the text of a final adverse action, or a summary of the substance of a final adverse action. After issuance of a final adverse action, the CPSC will amend its Web site listing of CPSC-accepted third party conformity assessment bodies to reflect the nature and scope of such adverse action.

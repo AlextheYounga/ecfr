@@ -1,0 +1,3 @@
+##### § 1118.8 General or special orders seeking information. #####
+
+The Commission may require by the issuance of general or special orders any person or firm to submit in writing any reports and answers to questions as the Commission may prescribe. The reports or answers shall be made under oath, and shall be filed within the time prescribed by the Commission. Procedures regarding compliance with general or special orders and motions to limit or quash such orders are provided for in § 1118.9.

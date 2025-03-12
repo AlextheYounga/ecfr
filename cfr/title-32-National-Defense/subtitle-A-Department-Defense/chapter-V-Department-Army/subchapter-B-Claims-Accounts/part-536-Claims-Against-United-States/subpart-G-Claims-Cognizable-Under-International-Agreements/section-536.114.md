@@ -1,0 +1,5 @@
+##### § 536.114 Scope for claims arising overseas under international agreements. #####
+
+(a) This section sets forth guidance on claims arising from any act or omission of soldiers or members of the civilian component of the U.S. armed services done in the performance of official duty or arising from any other act or omission or occurrence for which the U.S. armed services are responsible under an international agreement. Claims incidents arising in countries for which the SOFA requires the receiving State to adjudicate and pay the claims in accordance with its laws and regulations are subject to partial reimbursement by the United States.
+
+(b) Claims by foreign inhabitants based on acts or omissions outside the scope of official duties are cognizable under subpart J of this part. Claims arising from nonscope acts or omissions by third parties who are not foreign inhabitants are cognizable under subpart E but not under subparts C or F of this part.

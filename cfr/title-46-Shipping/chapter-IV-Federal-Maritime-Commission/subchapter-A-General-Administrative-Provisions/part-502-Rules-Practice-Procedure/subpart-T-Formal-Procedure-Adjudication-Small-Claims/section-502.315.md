@@ -1,0 +1,5 @@
+##### § 502.315 Request for oral hearing. #####
+
+In the usual course of disposition of complaints filed under this subpart, no oral hearing will be held, but, the administrative law judge, in his or her discretion, may order such hearing. A request for oral hearing may be incorporated in the answer or in complainant's reply to the answer. Requests for oral hearing will not be entertained unless they set forth in detail the reasons why the filing of affidavits or other documents will not permit the fair and expeditious disposition of the claim, and the precise nature of the facts sought to be proved at such oral hearing. The administrative law judge shall rule upon a request for oral hearing within ten (10) days of its receipt. In the event an oral hearing is ordered, it will be held in accordance with the rules applicable to other formal proceedings, as set forth in subparts A through Q of this part. [Rule 315.]
+
+[49 FR 44369, Nov. 6, 1984; 49 FR 47394, Dec. 4, 1984]

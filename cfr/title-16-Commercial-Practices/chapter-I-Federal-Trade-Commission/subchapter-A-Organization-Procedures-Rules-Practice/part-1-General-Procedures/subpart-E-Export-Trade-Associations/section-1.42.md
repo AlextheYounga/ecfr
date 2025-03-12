@@ -1,0 +1,3 @@
+##### § 1.42 Notice to Commission. #####
+
+To obtain the exemptions afforded by the Act, an export trade association is required to file with the Commission, within thirty (30) days after its creation, a verified written statement setting forth the location of its offices and places of business, names, and addresses of its officers, stockholders, or members, and copies of its documents of incorporation or association. On the first day of January of each year thereafter, each association must file a like statement and, when required by the Commission to do so, must furnish to the Commission detailed information as to its organization, business, conduct, practices, management, and relation to other associations, corporations, partnerships, and individuals.

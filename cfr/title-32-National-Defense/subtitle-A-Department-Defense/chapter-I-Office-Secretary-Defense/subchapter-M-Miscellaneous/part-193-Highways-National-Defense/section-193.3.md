@@ -1,0 +1,3 @@
+##### § 193.3 Policy. #####
+
+In order to insure that the national defense is served by adequate, safe and efficient highway transportation, it shall be the policy of the DoD to (a) integrate the highway needs of the national defense into the civil highway programs of the various State and Federal agencies, and (b) cooperate with those agencies in matters pertaining to the use of public highways and in planning their development and construction.

@@ -1,0 +1,7 @@
+##### § 56.35-1 Pipe stress calculations (replaces 119.7). #####
+
+(a) A summary of the results of pipe stress calculations for the main and auxiliary steam piping where the design temperatures exceed 800 °F shall be submitted for approval. Calculations shall be made in accordance with one of the recognized methods of stress analysis acceptable to the Marine Safety Center to determine the magnitude and direction of the forces and movements at all terminal connections, anchor and junction points, as well as the resultant bending stress, longitudinal pressure stress, torsional stress, and combined expansion stress at all such points. The location of the maximum combined stress shall be indicated in each run of pipe between anchor points.
+
+(b) The Marine Safety Center (MSC) will give special consideration to the use of the full tabulated value of “S” in computing Sh and Sc where all material used in the system is subjected to further nondestructive testing specified by the MSC, and where the calculations prescribed in 119.6.4 and 102.3.2 of ASME B31.1 (incorporated by reference; see 46 CFR 56.01-2) and 46 CFR 56.07-10 are performed. The procedures for nondestructive testing and the method of stress analysis must be approved by the MSC before the submission of computations and drawings for approval.
+
+[CGD 77-140, 54 FR 40607, Oct. 2, 1989, as amended by USCG-2003-16630, 73 FR 65178, Oct. 31, 2008]

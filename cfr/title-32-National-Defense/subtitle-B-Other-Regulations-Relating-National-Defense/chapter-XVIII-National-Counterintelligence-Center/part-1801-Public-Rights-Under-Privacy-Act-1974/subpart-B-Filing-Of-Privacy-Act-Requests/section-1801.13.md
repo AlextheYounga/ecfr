@@ -1,0 +1,9 @@
+##### § 1801.13 Requirements as to identification of requester. #####
+
+(a) *In general.* Individuals seeking access to or amendment of records concerning themselves shall provide their full (legal) name, address, date and place of birth, and current citizenship status together with a statement that such information is true under penalty of perjury or a notarized statement swearing to or affirming identity. If NACIC determines that this information is not sufficient, NACIC may request additional or clarifying information.
+
+(b) *Requirement for aliens.* Only aliens lawfully admitted for permanent residence (PRAs) may file a request pursuant to the Privacy Act and this part. Such individuals shall provide, in addition to the information required under paragraph (a) of this section, their Alien Registration Number and the date that status was acquired.
+
+(c) *Requirement for representatives.* The parent or guardian of a minor individual, the guardian of an individual under judicial disability, or an attorney retained to represent an individual shall provide, in addition to establishing the identity of the minor or individual represented as required in paragraph (a) or (b) of this section, evidence of such representation by submission of a certified copy of the minor's birth certificate, court order, or representational agreement which establishes the relationship and the requester's identity.
+
+(d) *Procedure otherwise.* If a requester or representative fails to provide the information in paragraph (a), (b), or (c) of this section within forty-five (45) days of the date of our request, NACIC will deem the request closed. This action, of course, would not prevent an individual from refiling his or her Privacy Act request at a subsequent date with the required information.

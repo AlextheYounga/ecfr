@@ -1,0 +1,3 @@
+##### § 37.1025 Must I report information to the Defense Assistance Awards Data System? #####
+
+Yes, you must give the necessary information about the award to the office in your organization that is responsible for preparing DD Form 2566, “DoD Assistance Award Action Report,” reports for the Defense Assistance Award Data System, to ensure timely and accurate reporting of data required by 31 U.S.C. 6101-6106 (*see* 32 CFR part 21, subpart E).

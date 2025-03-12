@@ -1,0 +1,5 @@
+##### § 7.1 General purpose of boundary lines. #####
+
+The lines in this part delineate the application of the following U.S. statutes: 33 U.S.C. 152 relating to the length of towing hawsers; 33 U.S.C. 1201 *et seq.,* the Vessel Bridge-to-Bridge Radiotelephone Act; 46 U.S.C. 5102(b)(6), which exempt from load line requirements certain vessels on domestic voyages; 46 U.S.C. 3301(6) requiring the inspection of seagoing barges which are defined in 46 U.S.C. 2101(32); 46 U.S.C. 3301(7) requiring the inspection of seagoing motor vessels which are defined in 46 U.S.C. 2101(33); 46 U.S.C. 3302(d) which exempts from inspection requirements certain vessels under 150 gross tons that operate within the waters of southeastern Alaska and the State of Washington; and 46 U.S.C. 8304, “Implementing the Officers' Competency Certificates Convention, 1936.”
+
+[CGD 81-058, 50 FR 25230, June 18, 1985, as amended by CGD 95-028, 62 FR 51195, Sept. 30, 1997; USCG-1998-4442, 63 FR 52188, Sept. 30, 1998]

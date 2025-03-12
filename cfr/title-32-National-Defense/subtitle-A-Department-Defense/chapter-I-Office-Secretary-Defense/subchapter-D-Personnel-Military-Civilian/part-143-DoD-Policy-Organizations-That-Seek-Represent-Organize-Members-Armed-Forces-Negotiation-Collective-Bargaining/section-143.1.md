@@ -1,0 +1,3 @@
+##### § 143.1 Purpose. #####
+
+This part provides DoD policies and procedures for organizations whose objective is to organize or represent members of the Armed Forces of the United States for purposes of negotiating or bargaining about terms or conditions of military service. The policies and procedures set forth herein are designed to promote the readiness of the Armed Forces to defend the United States. This part does not modify or diminish the existing authority of commanders to control access to, or maintain good order and discipline on, military installations; nor does it modify or diminish the obligations of commanders and supervisors under 5 U.S.C. 7101-7135 with respect to organizations representing DoD civilian employees.

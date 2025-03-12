@@ -1,0 +1,5 @@
+##### § 164.008-4 Test requirements. #####
+
+(a) Thermal insulation: The insulation value of the specimens for the full scale test shall be such that the average temperature of thermocouples on the unexposed surface described in § 164.008-3(f)(2) will not rise more than 139 °C. (250 °F.) above the initial temperature, nor will the temperature at any point on the surface, including any joint, rise more than 225 °C. (405 °F.) above the initial temperature at the end of 15 minutes. When failure is due to excessive temperature rise on the joint, consideration will be given to alternate joint construction. The results obtained on the small scale test (2′ × 2′) (60 cm. × 60 cm.) shall be recorded.
+
+(b) The test shall determine the length of time, up to one hour, that the bulkhead panel, including the joint can withstand the passage of flame. Cracks and openings shall not be such as to lead to flaming of a cotton wool test pad as prescribed in § 164.008-3(e)(3) held facing the aperture at about 25 mm. for a period of 30 seconds. If no flaming occurs, the pad shall be removed and reapplied after a suitable interval.

@@ -1,0 +1,5 @@
+##### § 46.10-25 Equivalents. #####
+
+(a) Where in the regulations in this part it is provided that a particular fitting, appliance, apparatus, or type thereof, shall be fitted or carried in a vessel engaged on foreign voyages by sea or that any particular arrangement shall be adopted, there may be substituted any other fitting or appliance or type thereof or any other arrangement provided that the Commandant, U.S. Coast Guard, shall have been satisfied by suitable trials that the fitting, appliance, or apparatus, or type thereof, or that the arrangement substituted is at least as effective as that specified in this part.
+
+(b) Where, in the application of the regulations in this part to passenger vessels engaged in coastwise voyages by sea and on Great Lakes voyages, it is desired to substitute other construction, arrangement, fitting, or appliance, or type thereof, such substitution may be made if approved by the Commandant, U.S. Coast Guard, provided the degree of safety provided by this part is obtained.

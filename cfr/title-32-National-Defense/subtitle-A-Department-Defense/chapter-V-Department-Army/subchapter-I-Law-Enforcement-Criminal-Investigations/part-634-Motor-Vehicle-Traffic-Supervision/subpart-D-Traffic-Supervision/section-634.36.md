@@ -1,0 +1,5 @@
+##### § 634.36 Detection, apprehension, and testing of intoxicated drivers. #####
+
+(a) Law enforcement personnel usually detect drivers under the influence of alcohol or other drugs by observing unusual or abnormal driving behavior. Drivers showing such behavior will be stopped immediately. The cause of the unusual driving behavior will be determined, and proper enforcement action will be taken.
+
+(b) When a law enforcement officer reasonably concludes that the individual driving or in control of the vehicle is impaired, field sobriety tests should be conducted on the individual. The DD Form 1920 may be used by law enforcement agencies in examining, interpreting, and recording results of such tests. Law enforcement personnel should use a standard field sobriety test (such as one-leg stand or walk and turn) horizontal gaze nystagmus tests as sanctioned by the National Highway Traffic and Safety Administration, and screening breath-testing devices to conduct field sobriety tests.

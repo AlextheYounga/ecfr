@@ -1,0 +1,3 @@
+##### § 1212.1 Scope, application, and effective date. #####
+
+This part 1212, a consumer product safety standard, prescribes requirements for multi-purpose lighters. These requirements are intended to make the multi-purpose lighters subject to the standard's provisions resistant to successful operation by children younger than 5 years of age. This standard applies to all multi-purpose lighters, as defined in § 1212.2, that are manufactured in the United States, or imported, on or after December 22, 2000.

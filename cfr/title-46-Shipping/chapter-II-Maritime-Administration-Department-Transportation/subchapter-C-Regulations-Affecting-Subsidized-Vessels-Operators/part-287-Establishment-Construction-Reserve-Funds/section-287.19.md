@@ -1,0 +1,13 @@
+##### § 287.19 Requirements as to new vessels. #####
+
+(a) *Requirements.* For the purposes of section 511 of the Act and the regulations in this part, the new vessel must be—
+
+(1) Documented under the laws of the United States when it is acquired by the taxpayer, or the taxpayer must agree that when acquired it will be documented under the laws of the United States;
+
+(2)(i) Constructed in the United States after December 31, 1939, or (ii) its construction has been financed under Title V or Title VII of the Act, or (iii) its construction has been aided by a mortgage insured under Title XI of the Act; and
+
+(3) Either (i) of such type, size, and speed as the Administration determines to be suitable for use on the high seas or Great Lakes in carrying out the purposes of the Act, but of not less than 2,000 gross tons or of less speed than 12 knots, except that a particular vessel may be of lesser tonnage or speed if the Administration determines and certifies that the particular vessel is desirable for use by the United States in case of war or national emergency, or (ii) constructed to replace a vessel or vessels requisitioned or purchased by the United States, in which event it must be of such type, size, and speed as to constitute a suitable replacement for the vessel requisitioned or purchased, but if a vessel already built is acquired to replace a vessel or vessels requisitioned or purchased by the United States, such vessel must meet the requirements set forth in paragraph (a)(3)(i) of this section. Ordinarily, under paragraph (a)(3)(i) of this section, a vessel constructed more than five years before the date on which deposits in a construction reserve fund are to be expended or obligated for acquisition of such vessel will not be considered suitable for use in carrying out the purpose of the Act, except that the five-year age limitation provided above in this sentence shall not apply to a vessel to be reconstructed before being placed in operation by the taxpayer.
+
+(b) *Time of construction.* A vessel will be deemed to be constructed after December 31, 1939, only if construction was commenced after that date. Subject to the provisions of this section, a new vessel may be newly built for the taxpayer, or may be acquired after it is built.
+
+(c) *Replacement of vessels.* It is not necessary that vessels shall be replaced vessels for vessel. The new vessels may be more or less in number than the replaced vessels, provided the other requirements of this section are met.

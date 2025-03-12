@@ -1,0 +1,3 @@
+##### § 1906.111 Notice. #####
+
+The Agency shall make available, to employees, applicants, participants, beneficiaries, and other interested persons, such information regarding the provisions of this part and its applicability to the programs or activities conducted by the Agency, and make that information available to them in such manner as the Director finds necessary to apprise those persons of the protections against discrimination assured them by section 504 and the regulations in this part.

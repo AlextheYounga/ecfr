@@ -1,0 +1,5 @@
+##### § 516.16 Individual and supervisory procedures upon commencement of legal proceedings. #####
+
+(a) *Individual procedures.* DA personnel served with civil or criminal process concerning a proceeding in which the United States has an interest (§ 516.15) will immediately inform their supervisor and furnish copies of process and pleadings. There is no requirement to notify supervisors of purely private litigation.
+
+(b) *Supervisory procedures.* When supervisors learn that legal proceedings in which the United States has an interest have commenced, the supervisor will forward a copy of all process and pleadings, along with other readily available information, to the SJA or legal adviser. If no legal officer is available locally, the documents will be forwarded to the SJA or legal adviser of the next higher headquarters.

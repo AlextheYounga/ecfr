@@ -1,0 +1,5 @@
+##### § 1021.14 Environmental impact statement. #####
+
+(a) Draft and final EIS's, unless there is a compelling reason to do otherwise, shall conform to the recommended format specified in § 1502.10 of the NEPA regulations and shall contain the material required by §§ 1502.11 through 1502.18 of those regulations.
+
+(b) It may be necessary to include in an EIS a description of effects which are not effects on the natural or physical environment, but rather are, for example, purely economic or health effects. For this reason, an EIS may include issues and facts that are thoroughly analyzed in other comprehensive CPSC documents such as hazard analyses, economic impact analyses, or analyses of impact on particular age groups among consumers. In such cases, the EIS shall not duplicate the other documents, but rather shall cite and summarize from them. A list of background documents and sources of data cited in the EIS shall appear at the end of every EIS.

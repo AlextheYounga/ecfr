@@ -1,0 +1,9 @@
+##### § 1107.20 General requirements. #####
+
+(a) Manufacturers must submit a sufficient number of samples of a children's product, or samples that are identical in all material respects to the children's product, to a third party conformity assessment body for testing to support certification. The number of samples selected must be sufficient to provide a high degree of assurance that the tests conducted for certification purposes accurately demonstrate the ability of the children's product to meet all applicable children's product safety rules.
+
+(b) If the manufacturing process for a children's product consistently creates finished products that are uniform in composition and quality, a manufacturer may submit fewer samples to provide a high degree of assurance that the finished product complies with the applicable children's product safety rules. If the manufacturing process for a children's product results in variability in the composition or quality of children's products, a manufacturer may need to submit more samples to provide a high degree of assurance that the finished product complies with the applicable children's product safety rules.
+
+(c) Except where otherwise specified by a children's product safety rule, component part testing pursuant to 16 CFR part 1109 may be used to support the certification testing requirements of this section.
+
+(d) If a product sample fails certification testing to the applicable children's product safety rule(s), even if other samples have passed the same certification test, the manufacturer must investigate the reasons for the failure and take the necessary steps to address the reasons for the failure. A manufacturer cannot certify the children's product until the manufacturer establishes, with a high degree of assurance that the finished product does comply with all applicable children's product safety rules.

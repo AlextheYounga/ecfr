@@ -1,0 +1,3 @@
+##### § 326.2 Insurer. #####
+
+MARAD shall be responsible for providing or obtaining P&I insurance for all vessels assigned to Agents under an Agreement. At its election, MARAD may be a self-insurer of any one or more vessels covered by the Agreement, or may obtain P&I insurance coverage under one or more policies written by underwriters of marine insurance. MARAD shall determine the amount of coverage to be provided or obtained.

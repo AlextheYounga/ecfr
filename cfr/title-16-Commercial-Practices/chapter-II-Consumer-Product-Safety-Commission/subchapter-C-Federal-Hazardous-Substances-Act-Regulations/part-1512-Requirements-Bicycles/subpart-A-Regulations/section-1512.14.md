@@ -1,0 +1,3 @@
+##### § 1512.14 Requirements for fork and frame assembly. #####
+
+The fork and frame assembly shall be tested for strength by application of a load of 890 N (200 lbf) or at least 39.5 J (350 in-lb) of energy, whichever results in the greater force, in accordance with the frame test, § 1512.18(k)(2), without visible evidence of fracture or frame deformation that significantly limits the steering angle over which the wheel can be turned. Sidewalk bicycles are exempt from this section.

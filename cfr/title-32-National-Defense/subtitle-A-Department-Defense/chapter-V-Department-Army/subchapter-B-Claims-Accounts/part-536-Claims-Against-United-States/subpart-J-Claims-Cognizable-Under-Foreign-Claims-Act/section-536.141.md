@@ -1,0 +1,5 @@
+##### § 536.141 Composition of Foreign Claims Commissions. #####
+
+(a) Normally, an FCC will be composed of either one or three members. Alternate members of three-member FCCs may be appointed when circumstances require, and may be substituted for regular members on specific cases by order of the appointing authority. The appointing orders will clearly designate the president of a three-member FCC. Two members of a three-member FCC will constitute a quorum, and the FCC's decision will be determined by majority vote.
+
+(b) Upon approval by the Commander USARCS and the appropriate authority of another uniformed service, the membership may be composed of one or more members of another uniformed service. If another service has single-service responsibility over the foreign country in which the claim arose, that service is responsible for the claim. If requested, the Commander USARCS may furnish a JAG officer or claims attorney to be a member of another service's FCC.

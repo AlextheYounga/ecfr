@@ -1,0 +1,3 @@
+##### § 1302.4 Banned hazardous products. #####
+
+Any extremely flammable contact adhesive and similar liquid or semiliquid consumer product as defined in § 1302.3 (b), which has been manufactured or initially introduced into commerce after January 17, 1978, is a banned hazardous product. In addition, any other extremely flammable contact adhesive and similar liquid or semiliquid consumer product, as defined in § 1302.3(b), no matter when manufactured or initially introduced into commerce, is a banned hazardous product after June 13, 1978.

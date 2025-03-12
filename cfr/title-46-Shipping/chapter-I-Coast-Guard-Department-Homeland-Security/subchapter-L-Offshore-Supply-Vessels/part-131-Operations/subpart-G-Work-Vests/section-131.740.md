@@ -1,0 +1,3 @@
+##### § 131.740 Shipboard inspections. #####
+
+Each buoyant work vest must be subject to examination by a marine inspector, to determine its serviceability. If found serviceable, it may continue in service; but no buoyant work vest is stamped as inspected. If not found serviceable, and if determined irreparable by the inspector, a buoyant work vest must be destroyed in the presence of the inspector.

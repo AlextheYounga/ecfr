@@ -1,0 +1,5 @@
+##### § 1014.5 Disclosure of requested information to individuals. #####
+
+(a) Upon submission of proof of identity, the Office of the Secretary or the Director of Resource Utilization, as applicable, shall promptly forward the request to the system manager who will promptly allow the individual to see and/or have a copy of the requested record or send a copy of the record to the individual by mail, as requested by the individual. If the individual asks to see the record, the record should be made available for review and/or copying at the location where the record is maintained, in the Office of the Secretary, or the Director of Resource Utilization, or at the nearest Area Office.
+
+(b) If the system manager should determine, for any reason, that the requested records are exempt from the right of access, a notice of denial shall be sent to the requester stating the reasons for denial, and the requester's right to appeal the denial in accordance with the procedures set forth in § 1014.8 of these regulations.

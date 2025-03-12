@@ -1,0 +1,7 @@
+##### § 401.600 Right to hearing. #####
+
+(a) A United States Registered Pilot, on receipt of notice from the U.S. Coast Guard that he or she has violated any regulation made pursuant to the Act, which violation the Director determines is grounds for suspension or revocation of the pilot's Certificate of Registration, shall have fifteen (15) days from the receipt of such notice in which to notify the Director that he or she elects to exercise his or her right to a hearing as to the grounds for the proposed suspension or revocation. A pilot failing to notify the Director within the prescribed period is deemed to have waived his or her right to a hearing.
+
+(b) A United States Registered Pilot whose application was timely filed, on receipt of notice that renewal of his or her Certificate of Registration has been denied pursuant to § 401.240(c), who fails to notify the Director within fifteen (15) days of the receipt of such notice that he or she desires a hearing, is deemed to have waived his or her right to a hearing.
+
+[29 FR 11595, Aug. 13, 1964, as amended at 32 FR 14222, Oct. 13, 1967; 61 FR 5721, Feb. 14, 1996. Redesignated and amended at 61 FR 32655, June 25, 1996, and further redesignated and amended by USCG-1998-3976, 63 FR 35139, 35140, June 29, 1998; USCG-2002-13058, 67 FR 61279, Sept. 30, 2002]

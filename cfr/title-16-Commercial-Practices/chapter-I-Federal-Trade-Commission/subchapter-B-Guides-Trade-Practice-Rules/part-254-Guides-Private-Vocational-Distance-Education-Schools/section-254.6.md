@@ -1,0 +1,9 @@
+##### § 254.6 Deceptive use of diplomas, degrees, or certificates. #####
+
+(a) It is deceptive for an Industry Member to issue a degree, diploma, certificate of completion, or any similar document, that misrepresents, directly or indirectly, expressly or by implication, the subject matter, substance, or content of the course or program of instruction or any other material fact concerning the course or program of instruction for which it was awarded or the accomplishments of the student to whom it was awarded.
+
+(b) It is deceptive for an Industry Member to offer or confer an academic, professional, or occupational degree, if the award of such degree has not been Approved by the appropriate State educational agency or Accredited by a nationally recognized accrediting agency, unless it clearly and conspicuously discloses, in all advertising and promotional materials that contain a reference to such degree, that its award has not been Approved or Accredited by such an agency.
+
+(c) It is deceptive for an Industry Member to offer or confer a high school diploma unless the program of instruction to which it pertains is substantially equivalent to that offered by a resident secondary school, and unless the student is informed, by a clear and conspicuous disclosure in writing prior to enrollment, that the Industry Member cannot guarantee or otherwise control the recognition that will be accorded the diploma by institutions of higher education, other schools, or prospective employers, and that such recognition is a matter solely within the discretion of those entities.
+
+[78 FR 68991, Nov. 18, 2013]

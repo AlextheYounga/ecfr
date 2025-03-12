@@ -1,0 +1,11 @@
+##### § 535.606 Requests for additional information. #####
+
+(a) The Commission may request from the filing party any additional information and documents necessary to complete the statutory review required by the Act. The request shall be made prior to the expiration of the 45-day waiting period. All responses to a request for additional information shall be submitted to the Director, Bureau of Trade Analysis, Federal Maritime Commission, Washington, DC 20573.
+
+(b) Where the Commission has made a request for additional information, the agreement's effective date will be 45 days after receipt of the complete response to the request for additional information. If all questions are not fully answered or requested documents are not supplied, the parties must include a statement of reasons why questions were not fully answered or documents supplied. In the event all material is not submitted, the agreement's effective date will be 45 days after receipt of both the documents and information which are submitted, if any, and the statement indicating the reasons for noncompliance. The Commission may, upon notice to the Attorney General, and pursuant to sections 6(i) and 6(k) of the Act (46 U.S.C. 41307(c) and 41307(d)), request the United States District Court for the District of Columbia to further extend the agreement's effective date until there has been substantial compliance.
+
+(c) A request for additional information may be made orally or in writing. In the case of an oral request, a written confirmation of the request shall be mailed to the filing party within seven days of the oral request.
+
+(d) The Commission will publish a notice in the Federal Register that it has requested additional information and serve that notice on any commenting parties. The notice will indicate only that a request was made and will not specify what information is being sought. Interested parties will have fifteen (15) days after publication of the notice to file further comments on the agreement.
+
+[69 FR 64414, Nov. 4, 2004, as amended at 74 FR 50728, Oct. 1, 2009]

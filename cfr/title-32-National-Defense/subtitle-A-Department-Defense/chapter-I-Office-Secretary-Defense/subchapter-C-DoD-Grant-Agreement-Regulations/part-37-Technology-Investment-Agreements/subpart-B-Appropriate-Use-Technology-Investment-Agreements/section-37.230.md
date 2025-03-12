@@ -1,0 +1,3 @@
+##### § 37.230 May I use a TIA if a participant is to receive fee or profit? #####
+
+In accordance with 32 CFR 22.205(b), you may not use a TIA if any participant is to receive fee or profit. Note that this policy extends to all performers of the research project carried out under the TIA, including any subawards for substantive program performance, but it does not preclude participants' or subrecipients' payment of reasonable fee or profit when making purchases from suppliers of goods (*e.g.,* supplies and equipment) or services needed to carry out the research.

@@ -1,0 +1,17 @@
+##### § 154.56 Procedures. #####
+
+(a) *General.* No final personnel security determination shall be made on a member of the Armed Forces, an employee of the Department of Defense, a consultant to the Department of Defense, or any other person affiliated with the Department of Defense without granting the individual concerned the procedural benefits set forth in paragraph (b) of this section when such determination results in an unfavorable administrative action (see § 154.55(a)). As an exception, Red Cross/United Service Organizations employees shall be afforded the procedures prescribed by 32 CFR part 253.
+
+(b) *Unfavorable administrative action procedures.* Except as provided for below, no unfavorable administrative action shall be taken under the authority of this part unless the person concerned has been given:
+
+(1) A written statement of the reasons why the unfavorable administrative action is being taken. The statement shall be as comprehensive and detailed as the protection of sources afforded confidentiality under the provisions of the Privacy Act of 1974 (5 U.S.C. 552a) and national security permit. The statement will also provide the name and address of the agencies (agencies) to which the individual may write to obtain a copy of the investigative file(s) upon which the unfavorable administrative action is being taken. Prior to issuing a statement of reasons to a civilian employee for suspension or removal action, the issuing authority must comply with the provisions of Federal Personnel Manual, chapter 732, subchapter 1, paragraph 1-6b. The signature authority must be as provided for in § 154.41(b) (1)(ii) and (2)(ii).
+
+(2) An opportunity to reply in writing to such authority as the head of the Component concerned may designate;
+
+(3) A written response to any submission under subparagraph b. stating the final reasons therefor, which shall be as specific as privacy and national security considerations permit. The signature authority must be as provided for in § 154.41(b) (1)(ii) and (2)(ii). Such response shall be as prompt as individual circumstances permit, not to exceed 60 days from the date of receipt of the appeal submitted under paragraph (b)(2) of this section provided no additional investigative action is necessary. If a final response cannot be completed within the time frame allowed, the subject must be notified in writing of this fact, the reasons therefor, and the date a final response is expected, which shall not, in any case, exceed a total of 90 days from the date of receipt of the appeal under paragraph (b) of this section.
+
+(4) An opportunity to appeal to a higher level of authority designated by the Component concerned.
+
+(c) *Exceptions to policy.* Notwithstanding paragraph (b) of this section or any other provision of this part, nothing in this part shall be deemed to limit or affect the responsibility and powers of the Secretary of Defense to find that a person is unsuitable for entrance or retention in the Armed Forces, or is ineligible for a security clearance or assignment to sensitive duties, if the national security so requires, pursuant to section 7532, title 5, U.S. Code. Such authority may not be delegated and may be exercised only when it is determined that the procedures prescribed in paragraph (b) of this section are not appropriate. Such determination shall be conclusive.
+
+[52 FR 11219, Apr. 8, 1987, as amended at 58 FR 61025, Nov. 19, 1993]

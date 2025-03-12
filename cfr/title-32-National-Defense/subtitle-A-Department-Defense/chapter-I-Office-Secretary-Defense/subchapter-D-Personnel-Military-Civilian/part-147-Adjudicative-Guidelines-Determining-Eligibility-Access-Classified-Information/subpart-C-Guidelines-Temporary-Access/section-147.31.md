@@ -1,0 +1,3 @@
+##### § 147.31 Temporary eligibility for access at the top secret levels and temporary eligibility for “Q” access authorization: For someone who is the subject of a favorable investigation not meeting the investigative standards for access at those levels. #####
+
+As a minimum, such temporary eligibility requires completion of the Standard Form 86, including any applicable supporting documentation, favorable review of the form by the appropriate adjudicating authority, and expedited submission of a request for a Single Scope Background Investigation (SSBI).

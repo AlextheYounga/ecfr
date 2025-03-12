@@ -1,0 +1,3 @@
+##### § 177.340 Alternate design considerations. #####
+
+When the structure of vessel is of novel design, unusual form, or special materials, which cannot be reviewed or approved in accordance with § 177.300, § 177.310 or § 177.315, the structure may be approved by the Commanding Officer, Marine Safety Center, when it can be shown by systematic analysis based on engineering principles that the structure provides adequate safety and strength. The owner shall submit detailed plans, material component specifications, and design criteria, including the expected operating environment, resulting loads on the vessel, and design limitations for such vessel, to the Marine Safety Center.

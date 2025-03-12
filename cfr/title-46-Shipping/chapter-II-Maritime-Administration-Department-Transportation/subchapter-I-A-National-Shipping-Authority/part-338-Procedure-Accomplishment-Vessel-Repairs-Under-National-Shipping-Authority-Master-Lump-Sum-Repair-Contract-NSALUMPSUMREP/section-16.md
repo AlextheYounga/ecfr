@@ -1,0 +1,7 @@
+##### Sec. 16 Liquidated damages. #####
+
+(a) The liquidated damages payable for each calendar day of delay shall be placed on each job order and supplemental job order whether awarded on a competitive bid or negotiated basis.
+
+(b) The completion certificates are to contain the date on which work is actually completed, whereas the job order and supplemental job orders are to contain a completion date based on a fair and reasonable estimate of time to be allowed the contractor to perform the work. Thus, the difference between the completion date specified on the job order or supplemental job orders and on the completion certificates will be the period for which liquidated damages are assessed. If an extension of an original completion date is considered justifiable, the completion certificates are to bear in detail in the space provided for “exceptions” the reasons why the completion dates were extended beyond that specified in the original job orders. The face of the Ship Repair Summaries (MA-159) shall reflect the amounts of liquidated damages. The penalty amount shall be deducted from the invoice prior to payment for the work involved.
+
+[18 FR 5035, Aug. 22, 1953; 18 FR 5294, Sept. 2, 1953. Redesignated at 45 FR 44587, July 1, 1980]

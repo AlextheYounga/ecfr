@@ -1,0 +1,3 @@
+##### § 327.7 Administrative disallowance presumption. #####
+
+If MarAd fails to give written notice of allowance or disallowance of a claim in accordance with § 327.6 within sixty (60) calendar days following the date of the receipt of such claim by the proper person designated in § 327.5, such claim shall be presumed to have been “administratively disallowed,” within the meaning in section 1(a) of 50 U.S.C. App. 1291(a).

@@ -1,0 +1,9 @@
+##### § 1800.34 Requests for expedited processing. #####
+
+(a) *In general.* All requests will be handled in the order received on a strictly “first-in, first-out” basis. Exceptions to this section will only be made in accordance with the following procedures. In all circumstances, however, and consistent with established judicial precedent, requests more properly the scope of requests under the Federal Rules of Civil or Criminal Procedure (or other federal, state, or foreign judicial or quasi-judicial rules) will not be granted expedited processing under this or related (e.g., Privacy Act) provisions unless expressly ordered by a federal court of competent jurisdiction.
+
+(b) *Procedure.* Requests for expedited processing will be approved only when a compelling need is established to the satisfaction of NACIC. A requester may make such a request with a certification of “compelling need” and, within ten (10) days of receipt, NACIC will decide whether to grant expedited processing and will notify the requester of its decision. The certification shall set forth with specificity the relevant facts upon which the requester relies and it appears to NACIC that substantive records relevant to the stated needs may exist and be deemed releasable. A “compelling need” is deemed to exist:
+
+(1) When the matter involves an imminent threat to the life or physical safety of an individual; or
+
+(2) When the request is made by a person primarily engaged in disseminating information and the information is relevant to a subject of public urgency concerning an actual or alleged Federal government activity.

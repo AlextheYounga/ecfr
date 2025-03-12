@@ -1,0 +1,5 @@
+##### § 1630.48 Class 4-A-A: Registrant who has performed military service for a foreign nation. #####
+
+In Class 4-A-A shall be placed any registrant who, while an alien, has served on active duty for a period of not less than 12 months in the armed forces of a nation determined by the Department of State to be a nation with which the United States is associated in mutual defense activities and which grants exemptions from training and service in its armed forces to citizens of the United States who have served on active duty in the Armed Forces of the United States for a period of not less than 12 months; *Provided:* That all information which is submitted to the Selective Service System concerning the registrant's service in the armed forces of a foreign nation shall be written in the English language.
+
+[52 FR 24456, July 1, 1987]

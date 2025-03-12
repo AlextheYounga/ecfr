@@ -1,0 +1,3 @@
+##### § 1112.27 Must a third party conformity assessment body allow CPSC inspections related to investigations? #####
+
+A third party conformity assessment body, as a condition of the continued CPSC-acceptance of its accreditation, must allow an officer or employee duly designated by the CPSC to enter and inspect the third party conformity assessment body for purposes of an investigation under this part. The CPSC will conduct such inspections in accordance with 16 CFR 1118.2. Failure to cooperate with such an inspection constitutes failure to cooperate with an investigation and is grounds for suspension under § 1112.45.

@@ -1,0 +1,3 @@
+##### § 2400.41 Office Review Committee. #####
+
+The Office of Science and Technology Policy Review Committee (hereinafter referred to as the Office Review Committee) is hereby established and will be responsible for the continuing review of the administration of this Regulation with respect to the classification and declassification of information or material originated or held by the Office of Science and Technology Policy. The Office Review Committee shall be composed of the Executive Director who shall serve as chairperson, the Assistant Director for National Security & Space, and the Security Officer.

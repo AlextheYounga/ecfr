@@ -1,0 +1,3 @@
+##### § 144.4 Policy. #####
+
+It is DoD policy to permit members of the Armed Forces to maximally fulfill their civic responsibilities consistent with their military duties. For Service members stationed in the United States, serving on a State or local jury is one such civic obligation. Service members are exempt from jury duty, when it unreasonably would interfere with performance of their military duties or adversely affect the readiness of a unit, command, or activity.

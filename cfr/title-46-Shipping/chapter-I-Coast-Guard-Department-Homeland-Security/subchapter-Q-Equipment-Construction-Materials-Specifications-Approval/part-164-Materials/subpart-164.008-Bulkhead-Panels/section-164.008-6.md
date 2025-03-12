@@ -1,0 +1,11 @@
+##### § 164.008-6 Retests. #####
+
+(a) Manufacturers of approved bulkhead panels shall maintain quality control of materials used, manufacturing methods, and the finished product utilizing appropriate quality control testing so as to meet the requirements of this specification, and any other conditions outlined on the certificate of approval. Bulkhead panels are not inspected at regularly scheduled factory inspections; however, approved bulkhead panels are subject to retest for continued compliance with the requirements of this subpart on the following basis:
+
+(1) The Coast Guard may detail a marine inspector or other Coast Guard designated inspector at any time to visit any place where bulkhead panels are manufactured to conduct any inspections or examinations deemed advisable and to select representative samples for further examination, inspection, or tests. The inspector shall be admitted to any place where work is done on bulkhead panels or component materials.
+
+(2) At a frequency of not less than once every 5 years following issuance of approval, samples of an approved bulkhead panel selected from production stock shall be forwarded by the inspector to the Commandant for testing in accordance with the requirements of this subpart. Where the plant is outside the jurisdiction of a Coast Guard District Commander, the frequency of such selection and testing shall be every 2 years. The cost of such testing shall be borne by the manufacturer. The nature of the product or its production may dictate a differing retest frequency.
+
+(3) The Coast Guard reserves the right to make spot-check tests of approved bulkhead panels at any time on samples selected by a marine inspector obtained during installation on a vessel. The manufacturer will incur no expense for such tests, but the results shall be binding upon the approval of his product.
+
+(b) A small scale furnace test (2′ × 2′ furnace test) shall be conducted. The time of failure shall not vary from the original (2′ × 2′ furnace) test values by more than 10 percent. In addition, tests shall be conducted to determine incombustibility (§ 164.009), density and thickness. Values on retesting for density and thickness shall not vary from the original test values by more than 10 percent.

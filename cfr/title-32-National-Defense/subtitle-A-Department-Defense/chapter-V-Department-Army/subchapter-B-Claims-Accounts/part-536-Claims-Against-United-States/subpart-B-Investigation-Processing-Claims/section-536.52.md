@@ -1,0 +1,3 @@
+##### § 536.52 Subrogation. #####
+
+Subrogation is the substitution of one person in place of another with regard to a claim, demand or right. It should not be confused with a lien, which is an obligation of the claimant. Applicable state law should be researched to determine the distinction between subrogation and a lien. Subrogation claims are payable under subparts D and H, but not under subparts C, E, F or J of this part. For further discussion see DA Pam 27-162, paragraph 2-58.

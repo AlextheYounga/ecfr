@@ -1,0 +1,3 @@
+##### § 48.501 General information. #####
+
+Except as provided in § 48.506(a), no annuity payable under the Plan shall be assignable, or subject to execution, levy, attachment, garnishment, or other legal process. Annuities payable under this Plan shall be in addition to any pensions or other payments to which the beneficiaries may now or hereafter be entitled under other provisions of law (except as provided in § 48.507), and may not be considered as income under any law administered by the Veterans Administration, except for the purpose of title 38 U.S. Code, section 415(g) and chapter 15.

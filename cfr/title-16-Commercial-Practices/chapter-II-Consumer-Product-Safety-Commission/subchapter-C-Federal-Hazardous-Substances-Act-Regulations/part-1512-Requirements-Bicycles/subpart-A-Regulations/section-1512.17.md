@@ -1,0 +1,9 @@
+##### § 1512.17 Other requirements. #####
+
+(a) *Road test.* Bicycles, other than sidewalk bicycles, shall be ridden at least 6.4 km (4.0 mi.) by a rider weighing at least 68.1kg (150 lb.) and travel five times over a 30.5 m (100 ft.) cleated course in accordance with the road test, § 1512.18(p), and shall exhibit stable handling, turning, and steering characteristics without difficulty of operation. There shall be no system or component failure of the structure, brakes, or tires, and there shall be no loosening or misalignment of the seat, handlebars, controls, or reflectors during or resulting from this test.
+
+(b) *Sidewalk bicycle proof test.* Sidewalk bicycles shall be dropped a distance of at least 300 mm (1.0 ft.) three times onto a paved surface with weights attached in accordance with the sidewalk bicycle proof test, § 1512.18(q). There shall be no fracture of wheels, frame, seat, handlebars, or fork during or resulting from this test.
+
+(c) *Ground clearance.* With the pedal horizontal and the pedal crank in its lowest position and any training wheels removed, it shall be possible to tilt the bicycle at least 25° from the vertical without the pedal or any other part (other than tires) contacting the ground plane.
+
+(d) *Toe clearance.* Bicycles not equipped with positive foot-retaining devices (such as toe clips) shall have at least 89 mm (31/2 in) clearance between the pedal and the front tire or fender (when turned to any position). The clearance shall be measured forward and parallel to the longitudinal axis of the bicycle from the center of either pedal to the arc swept by the tire or fender, whichever results in the least clearance. (See figure 6 of this part 1512.)

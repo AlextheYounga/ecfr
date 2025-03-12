@@ -1,0 +1,3 @@
+##### § 1018.24 Agenda. #####
+
+Prior to each advisory committee meeting, the Advisory Committee Management Officer shall prepare and, after approval by the officer or employee designated under § 1018.23 (a), shall distribute to each committee member the agenda for that meeting. The agenda for a meeting shall list the matters to be discussed at the meeting and shall indicate whether and when any part of the meeting will concern matters which are exempt from public disclosure under the Freedom of Information Act (5 U.S.C. 552(b) or section 6(a)(2) of the Consumer Product Safety Act (15 U.S.C. 2045(a)(2)).

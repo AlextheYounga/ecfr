@@ -1,0 +1,3 @@
+##### § 201.63 Participation in rule making. #####
+
+Interested persons will be afforded an opportunity to participate in rule making through submission of written data, views, or arguments, with or without opportunity to present the same orally in any manner: *Provided,* That where the proposed rules are such as are required by statute to be made on the record after opportunity for a hearing, or where a hearing is ordered by the Administration upon petition of any party or upon its own initiative, such hearing shall be conducted pursuant to sections 7 and 8 of the Administrative Procedure Act.

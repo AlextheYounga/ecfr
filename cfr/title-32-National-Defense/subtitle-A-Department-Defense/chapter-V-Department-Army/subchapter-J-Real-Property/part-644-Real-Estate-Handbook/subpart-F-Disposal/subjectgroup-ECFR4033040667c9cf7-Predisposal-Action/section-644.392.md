@@ -1,0 +1,3 @@
+##### § 644.392 Air Force - preliminary report of excess. #####
+
+The DAF will issue a preliminary real estate disposal directive when a disposal project is forwarded to the Assistant Secretary of Defense (Manpower, Reserve Affairs and Logistics) for clearance. (Air Force screens its own properties for other defense requirements and clears the disposal with DOD and the Armed Services Committees of the Congress.) When the preliminary real estate disposal directive is received, the DE, unless directed otherwise, will proceed to perform all necessary actions in coordination with the installation commander concerned, for submission of a preliminary Report of Excess to GSA.

@@ -1,0 +1,3 @@
+##### § 651.38 Existing environmental assessments. #####
+
+EAs are dynamic documents. To ensure that the described setting, actions, and effects remain substantially accurate, the proponent or installation Environmental Officer is encouraged to periodically review existing documentation that is still relevant or supporting current action. If an action is not yet completed, substantial changes in the proposed action may require supplementation, as specified in § 651.5 (g).

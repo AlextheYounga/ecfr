@@ -1,0 +1,9 @@
+##### § 148.10 General. #####
+
+(a) Redundant, overlapping, and duplicative policies and practices that govern the co-use of facilities for classified purposes have resulted in excessive protection and unnecessary expenditure of funds. Lack of reciprocity has also impeded achievement of national security objectives and adversely affected economic and technological interest.
+
+(b) Interagency reciprocal acceptance of security policies and procedures for approving, accrediting, and maintaining the secure posture of shared facilities will reduce the aggregate costs, promote interoperability of agency security systems, preserve the vitality of the U.S. industrial base, and advance national security objectives.
+
+(c) Agency heads, or their designee, are encouraged to periodically issue written affirmations in support of the policies and procedures prescribed herein and in the Security Policy Board (SPB) policy, entitled “Reciprocity of Use and Inspections of Facilities.”
+
+(d) The policies and procedures prescribed herein shall be applicable to all agencies. This document does not supersede the authority of the Secretary of Defense under Executive Order 12829 (58 FR 3479, 3 CFR 1993 Comp., p. 570); the Secretary of Energy or the Chairman of the Nuclear Regulatory Commission under the Atomic Energy Act of 1954, as amended; the Secretary of State under the Omnibus Diplomatic Security and Anti-Terrorism Act of 1986; the Secretaries of the military departments and military department installation Commanders under the Internal Security Act of 1950; the Director of Central Intelligence under the National Security Act of 1947, as amended, or Executive Order 12333; the Director of the Information Security Oversight Office under Executive Order 12829 or Executive Order 12958 (60 FR 19825, 3 CFR 1995 Comp., p. 333); or substantially similar authority instruments assigned to any other agency head.

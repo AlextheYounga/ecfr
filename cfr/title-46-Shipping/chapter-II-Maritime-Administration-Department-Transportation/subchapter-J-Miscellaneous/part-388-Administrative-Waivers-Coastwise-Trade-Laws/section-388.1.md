@@ -1,0 +1,3 @@
+##### § 388.1 Purpose. #####
+
+This part prescribes regulations implementing the provisions of Title V of Public Law 105-383 (112 Stat. 3445), which grants the Secretary authority to review and approve applications for waiver of the coastwise trade laws to allow the carriage of no more than twelve passengers for hire on vessels, which are three years old or more, built or rebuilt outside the United States, and grants authority for revocation of those waivers.

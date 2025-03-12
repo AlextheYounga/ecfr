@@ -1,0 +1,3 @@
+##### § 61.30-10 Hydrostatic test. #####
+
+All new installations of thermal fluid heaters must be given a hydrostatic test of 11/2 times the maximum allowable working pressure. The test must be conducted in the presence of a marine inspector. No subsequent hydrostatic tests are required unless, in the opinion of the Officer in Charge Marine Inspection, the condition of the heater warrants such a test. Where hydrostatic tests are required, an inspection is made of all accessible parts under pressure. The thermal fluid may be used as the hydrostatic test medium.

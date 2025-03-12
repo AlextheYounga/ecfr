@@ -1,0 +1,3 @@
+##### § 32.50-25 Cargo pumps and piping on tank vessels constructed prior to November 10, 1936—TB/ALL. #####
+
+On tank vessels, the construction or conversion of which was started prior to November 10, 1936, cargo pumps and piping which do not fully comply with the regulations in this subchapter shall be made as nearly equal to the requirements for tank vessels constructed between November 10, 1936, and July 1, 1951, as is necessary in the interest of safety. Cargo pipe lines may pass through cargo pump engine compartments provided no cargo valves are located therein.

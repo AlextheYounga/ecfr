@@ -1,0 +1,3 @@
+##### § 700.901 The senior officer present. #####
+
+Unless some other officer has been so designated by competent authority, the “senior officer present” is the senior line officer of the Navy on active duty, eligible for command at sea, who is present and in command of any part of the Department of the Navy in the locality or within an area prescribed by competent authority, except where personnel of both the Navy and the Marine Corps are present on shore and the officer of the Marine Corps who is in command is senior to the senior line officer of the Navy. In such cases, the officer of the Marine Corps shall be the senior officer present on shore.

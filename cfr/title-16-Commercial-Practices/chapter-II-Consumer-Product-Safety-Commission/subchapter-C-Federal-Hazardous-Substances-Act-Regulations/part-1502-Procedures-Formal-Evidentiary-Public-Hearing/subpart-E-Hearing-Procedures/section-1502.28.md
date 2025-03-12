@@ -1,0 +1,3 @@
+##### § 1502.28 Conduct at oral hearings or conferences. #####
+
+All participants in a hearing will conduct themselves with dignity and observe judicial standards of practice and ethics. They may not indulge in personal attacks, unseemly wrangling, or intemperate accusations or characterizations. Representatives of parties shall, to the extent possible, restrain clients from improprieties in connection with any proceeding. Disrespectful, disorderly, or contumacious language or conduct, refusal to comply with directions, use of dilatory tactics, or refusal to adhere to reasonable standards of orderly and ethical conduct during any hearing shall constitute grounds for immediate exclusion from the proceeding by the presiding officer.

@@ -1,0 +1,9 @@
+##### § 2.4 Designation of participating programs. #####
+
+(a) Pilot programs may be nominated by a DoD Component Head or Component Acquisition Executive for participation in the Defense Acquisition Pilot Program. The Under Secretary of Defense for Acquisition and Technology shall determine which specific programs will participate in the pilot program and will transmit to the Congressional defense committees a written notification of each defense acquisition program proposed for participation in the pilot program. Programs proposed for participation must be specifically designated as participants in the Defense Acquisition Pilot Program in a law authorizing appropriations for such programs and provisions of law to be waived must be specifically authorized for waiver.
+
+(b) Once included in the Defense Acquisition Pilot Program, decision and approval authority for the participating program shall be delegated to the lowest level allowed in the acquisition regulations consistent with the total cost of the program (e.g., under DoD Directive 5000.1,3 an acquisition program that is a major defense acquisition program would be delegated to the appropriate Component Acquisition Executive as an acquisition category IC program)
+
+3 Copies may be obtained, at cost, from the National Technical Information Service, 5285 Port Royal Road, Springfield, VA 22161.
+
+(c) At the time of nomination approval, the Under Secretary of Defense for Acquisition and Technology will establish measures to judge the success of a specific program, and will also establish a means of reporting progress towards the measures.

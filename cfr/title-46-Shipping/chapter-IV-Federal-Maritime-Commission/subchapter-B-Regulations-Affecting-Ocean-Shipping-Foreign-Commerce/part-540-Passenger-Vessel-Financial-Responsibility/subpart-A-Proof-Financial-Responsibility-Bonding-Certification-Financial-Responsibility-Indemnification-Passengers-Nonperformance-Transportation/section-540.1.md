@@ -1,0 +1,7 @@
+##### § 540.1 Scope. #####
+
+(a) The regulations contained in this subpart set forth the procedures whereby persons in the United States who arrange, offer, advertise or provide passage on a vessel having berth or stateroom accommodations for 50 or more passengers and embarking passengers at U.S. ports shall establish their financial responsibility or, in lieu thereof, file a bond or other security for obligations under the terms of ticket contracts to indemnify passengers for nonperformance of transportation to which they would be entitled. Included also are the qualifications required by the Commission for issuance of a Certificate (Performance) and the basis for the denial, revocation, modification, or suspension of such Certificates.
+
+(b) Failure to comply with this part may result in denial of an application for a certificate. Vessels operating without the proper certificate may be denied clearance by the Department of Homeland Security and their owners may also be subject to a civil penalty of not more than $5,000 in addition to a civil penalty of $200 for each passage sold, such penalties to be assessed by the Federal Maritime Commission (46 U.S.C. 44101-44106, 60105).
+
+[49 FR 36313, Sept. 14, 1984, as amended at 74 FR 50730, Oct. 1, 2009; 78 FR 13277, Feb. 27, 2013]

@@ -1,0 +1,7 @@
+##### § 750.31 Reconsideration. #####
+
+(a) *Request.* Prior to the commencement of suit and prior to the expiration of the 6-month period for filing suit, a claimant or his duly authorized agent or legal representative may present a request for reconsideration to the authority who denied the claim. The request shall be in writing and shall state the reasons for the requested reconsideration. A request for reconsideration is presented on the date it is received by the DON. 28 CFR 14.9(b).
+
+(b) *Proper basis.* A request for reconsideration shall set forth claimant's reasons for the request, and shall include any supplemental supporting evidence or information. Any writing communicating a desire for reconsideration that reasonably appears to have been presented solely for the purpose of extending the statutory period for filing suit, shall not be treated as a request for reconsideration. Claimant or claimant's authorized representative shall be notified promptly that the writing is not considered a proper request for reconsideration.
+
+(c) *Effect of presentment of request.* The presentment of a proper request for reconsideration starts a new 6-month period for the DON to act on the request to reconsider. The claimant may not file suit until the expiration of the new 6-month period, or until after the date of mailing of the final denial of the request. Final denial of a request for reconsideration shall be accomplished in the manner prescribed in § 750.30. 28 CFR 14.9(b).

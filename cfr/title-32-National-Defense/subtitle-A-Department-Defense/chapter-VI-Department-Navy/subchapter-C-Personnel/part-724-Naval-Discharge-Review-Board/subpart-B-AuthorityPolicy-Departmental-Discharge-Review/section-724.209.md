@@ -1,0 +1,3 @@
+##### § 724.209 Evidence supporting applications. #####
+
+In the absence of law, evidence or policy to the contrary, naval discharges shall be considered just, equitable and proper as issued. When hearings are scheduled, applicants must be prepared to present their case at the scheduled time. In the absence of any other evidence, naval discharge review shall be undertaken by examination of available service and health records of the applicant. Normally, the responsibility for presenting evidence from outside available service and health records shall rest with the applicant. Applications in which elements of relevant information are obviously omitted will be returned for completion and resubmission.

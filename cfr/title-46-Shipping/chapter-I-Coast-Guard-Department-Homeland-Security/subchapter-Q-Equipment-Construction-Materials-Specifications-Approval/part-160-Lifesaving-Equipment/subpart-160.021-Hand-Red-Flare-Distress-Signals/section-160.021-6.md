@@ -1,0 +1,9 @@
+##### § 160.021-6 Container. #####
+
+(a) *General.* Containers for stowage of hand red flare distress signals in lifeboats and life rafts on merchant vessels are not required to have specific approval or to be of special design, but they shall meet the following test for watertightness when closed, and shall be capable of being opened and reclosed hand-tight to meet the same watertightness test. The materials shall be copper, brass, bronze, or equally corrosion-resistant to salt water and spray. The type container illustrated by Figure Number 160.021-6(a) is recommended for most purposes.
+
+(b) *Watertightness test for containers.* Whenever a question arises as to the watertightness of a container, the following test may be made to determine whether it is satisfactory in this respect. Open the container, remove the contents, insert colored blotting paper as a lining, re-close container as tightly as possible by hand (no wrenches or special tools permitted), submerge container with top about 30 cm (1 ft.) below the surface of the water for two hours, remove container from water, wipe off excess moisture on outside, then open the container and examine the blotting paper and entire interior for evidence of moisture penetration. If any moisture or water is evidenced, the container is not satisfactory.
+
+![](/graphics/ec03mr91.004.gif)
+
+(c) *Marking of container.* Containers shall be embossed or bear a brass or equivalent corrosion-resistant nameplate, or otherwise be suitably and permanently marked, to plainly show in letters not less than 13 mm (1/2 in.) high the following wording: “HAND RED FLARE DISTRESS SIGNALS”. No additional marking which might cause confusion as to the contents shall be permitted. The vessel's name ordinarily is painted or branded on equipment such as this container, and nothing in this subpart shall be construed as prohibiting same.

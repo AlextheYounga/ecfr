@@ -1,0 +1,5 @@
+##### § 806.18 Initial determinations. #####
+
+(a) Disclosure authorities make final decisions on providing releasable records within the time limits and provide recommendations to the IDA on proposed denials and partial denials after coordination with the appropriate FOIA and JA office. Normally, disclosure authorities are division chiefs or higher at Air Staff level. MAJCOMs will designate their disclosure authority levels. The level should be high enough so a responsible authority makes the disclosure according to the policies outlined in this part. At out sourced units or functions, the disclosure authority must be a government official. Contractors who are functional OPRs for official government records are not authorized to make the decision to disclose government records.
+
+(b) On receipt, Air Force FOIA offices will promptly inform Air Force PAOs of all FOIA requests that are potentially newsworthy, or that are submitted by news media requesters. FOIA offices will coordinate final replies for such cases with public affairs.

@@ -1,0 +1,3 @@
+##### § 277.3 Policy. #####
+
+It is DoD policy to redress fraud in DoD programs and operations through the nonexclusive use of Pub. L. 99-509. All DoD Components shall comply with the requirements of this part in using this new remedy. Changes or modifications to this part by implementing organizations are prohibited. Implementing regulations are authorized only to the extent necessary to effectively carry out the requirements of this part.

@@ -1,0 +1,11 @@
+##### § 806b.12 Requesting the Social Security Number. #####
+
+When asking an individual for his or her Social Security Number, always give a Privacy Act Statement that tells the person: The legal authority for requesting it; the uses that will be made of the Social Security Number; and whether providing the Social Security Number is voluntary or mandatory. Do not deny anyone a legal right, benefit, or privilege for refusing to give their Social Security Number unless the law requires disclosure, or a law or regulation adopted before January 1, 1975 required the Social Security Number and the Air Force uses it to verify a person's identity in a system of records established before that date.
+
+(a) The Air Force requests an individual's Social Security Number and provides the individual information required by law when anyone enters military service or becomes an Air Force civilian employee. The Air Force uses the Social Security Number as a service or employment number to reference the individual's official records. When you ask someone for a Social Security Number as identification to retrieve an existing record, you do not have to restate this information.
+
+(b) Executive Order 9397, *Numbering System for Federal Accounts Relating to Individual Persons*2, authorizes using the Social Security Number as a personal identifier. This order is not adequate authority to collect a Social Security Number to create a record. When law does not require disclosing the Social Security Number or when the system of records was created after January 1, 1975, you may ask for the Social Security Number, but the individual does not have to disclose it. If the individual refuses to respond, use alternative means of identifying records. (c) Social Security Numbers are personal and unique to each individual. Protect them as for official use only (FOUO).
+
+2*http://resource.lawlinks.com/content/legal\_research/Executive\_Orders/1940-1960/executive\_order\_9397.htm.*
+
+Within DoD, do not disclose them to anyone without an official need to know. Outside DoD, they are not releasable without the person's consent, or unless authorized under one of the 12 exceptions to the Privacy Act (see § 806b.47).

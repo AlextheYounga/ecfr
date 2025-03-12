@@ -1,0 +1,3 @@
+##### § 644.493 Release of restrictions on chapels sold. #####
+
+Where the purchaser fails to maintain and use the chapel in accordance with the conditions of sale, or the purchaser requests release of the conditions, the facts will be reported to DAEN-REM with appropriate recommendations. DAEN-REM may release the purchaser from the conditions of sale without payment of a monetary consideration upon a determination that the property no longer serves the purpose for which it was sold, or that such release will not prevent accomplishment of the purpose for which the property was sold.

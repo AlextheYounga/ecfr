@@ -1,0 +1,3 @@
+##### § 552.104 Disposition of confiscated/seized weapons. #####
+
+All weapons, ammunition, explosives or other devices defined in this regulation, that are confiscated pursuant to the commission of a crime or violation of this or other regulation or found unsecured/unattended on the installation, will be immediately turned over to the military police, U.S. Army Criminal Investigation Command (USACIDC), or the Federal Bureau of Investigation (FBI) for investigation, retention as evidence, or other lawful disposition. When retention for investigation or evidence is no longer required by military police, USACIDC, or other law enforcement or judicial agencies, the items will be disposed of under the provisions of AR 195-5, Evidence Procedures.

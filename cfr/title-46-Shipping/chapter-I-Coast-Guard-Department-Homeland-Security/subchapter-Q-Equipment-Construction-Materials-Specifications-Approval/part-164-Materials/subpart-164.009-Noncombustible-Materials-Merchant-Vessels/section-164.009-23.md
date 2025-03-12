@@ -1,0 +1,3 @@
+##### § 164.009-23 Factory inspection. #####
+
+The Coast Guard does not inspect noncombustible materials approved under this subpart on a regular schedule. However, the Commander of the Coast Guard District in which a factory is located may detail a marine inspector at any time to visit a factory where a noncombustible material is manufactured to conduct an inspection of the manufacturing and quality control procedures and to select representative samples of the material for examination or tests to verify that the material is as stated in the original application for approval. The manufacturer is advised in advance of the time of testing samples selected and may witness the tests upon request.

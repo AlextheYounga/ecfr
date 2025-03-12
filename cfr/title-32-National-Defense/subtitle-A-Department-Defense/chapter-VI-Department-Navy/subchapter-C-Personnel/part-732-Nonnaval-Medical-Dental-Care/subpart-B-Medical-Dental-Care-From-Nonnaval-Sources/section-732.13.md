@@ -1,0 +1,5 @@
+##### § 732.13 Sources of care. #####
+
+(a) *Initial application.* If a member requires maternity, medical, or dental care and naval facilities are unavailable, make initial application to other available Federal medical or dental facilities or USTFs. When members are stationed in or passing through a NATO SOFA nation and U.S. facilities are unavailable, ensure that members make initial application for emergency and nonemergency care to military facilities of the host country, or if applicable, to civilian sources under the NATO SOFA nation's health care program. When hospitalized in Hawaii, Alaska, or in a foreign medical facility, members and responsible commands will comply with OPNAVINST 6320.6.
+
+(b) *Secondary sources.* When either emergency or nonemergency care is required and there are no Federal or NATO SOFA facilities available, care may be obtained from non-Federal sources under this part.

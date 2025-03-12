@@ -1,0 +1,3 @@
+##### § 171.1 Background and purpose. #####
+
+The Wildfire Suppression Aircraft Transfer Act of 1996 (the “Act”), as amended, allows the Department of Defense (DOD), during the period 1 October 1996 through 30 September 2005, to sell aircraft and aircraft parts to entities that contract with the Federal Government for the delivery of fire retardant by air in order to suppress wildfire. This part implements the Act.

@@ -1,0 +1,3 @@
+##### § 201.80 Answers to applications, petitions, or motions. #####
+
+A pleading filed in response to an application, petition, or motion is called an answer. An answer may be filed to any application, petition, motion or pleading which is required to be served on the answering party or noticed in the Federal Register. An answer to a written application, petition, or motion shall be in writing and shall be filed within ten days after service of the pleading which it answers. Any new matter raised in an answer shall be deemed to be controverted. A response to an answer is called a reply. A short reply restricted to such new matters may be filed within five days of service of the answer.

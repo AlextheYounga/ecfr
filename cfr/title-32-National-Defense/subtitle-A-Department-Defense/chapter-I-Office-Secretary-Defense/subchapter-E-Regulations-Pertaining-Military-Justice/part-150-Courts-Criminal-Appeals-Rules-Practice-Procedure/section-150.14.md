@@ -1,0 +1,3 @@
+##### § 150.14 Waiver or withdrawal of appellate review. #####
+
+Withdrawals from appellate review, and waivers of appellate review filed after expiration of the period prescribed by the Rule for Courts-Martial 1110(f)(1), will be referred to the Court for consideration. At its discretion, the Court may require the filing of a motion for withdrawal, issue a show cause order, or grant the withdrawal without further action, as may be appropriate. The Court will return the record of trial, in a case withdrawn from appellate review, to the Judge Advocate General for action pursuant to Rule for Courts-Martial 1112.

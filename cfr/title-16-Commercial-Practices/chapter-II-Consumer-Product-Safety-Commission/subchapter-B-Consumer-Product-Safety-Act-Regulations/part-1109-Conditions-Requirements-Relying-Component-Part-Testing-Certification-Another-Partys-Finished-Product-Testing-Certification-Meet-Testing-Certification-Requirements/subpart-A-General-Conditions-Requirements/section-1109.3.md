@@ -1,0 +1,3 @@
+##### § 1109.3 Applicability. #####
+
+The provisions of this part apply to all manufacturers and importers who are required to issue finished product certifications pursuant to section 14(a) of the CPSA and part 1110 of this chapter and to procure tests to ensure continued compliance pursuant to section 14(i) of the CPSA. This part also applies to manufacturers and suppliers of component parts or finished products who are not required to test or certify consumer products pursuant to part 1110 of this chapter, but who voluntarily choose to undertake testing or certification.

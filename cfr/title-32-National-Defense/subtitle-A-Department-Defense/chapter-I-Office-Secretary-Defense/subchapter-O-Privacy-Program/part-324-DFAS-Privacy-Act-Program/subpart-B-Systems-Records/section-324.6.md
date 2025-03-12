@@ -1,0 +1,3 @@
+##### § 324.6 Procedural rules. #####
+
+DFAS procedural rules (regulations having a substantial and direct impact on the public) must be published in the Federal Register first as a proposed rule to allow for public comment and then as a final rule. Procedural rules will be submitted through the appropriate DFAS Privacy Act Officer to the Department of Defense Privacy Office. Appendix B to this part provides the correct format. Guidance may be obtained from the DFAS-HQ and DFAS Center Records Managers on the preparation of procedural rules for publication.

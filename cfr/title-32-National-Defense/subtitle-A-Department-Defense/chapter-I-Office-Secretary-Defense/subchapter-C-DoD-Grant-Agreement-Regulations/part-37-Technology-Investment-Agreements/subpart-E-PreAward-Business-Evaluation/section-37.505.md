@@ -1,0 +1,3 @@
+##### § 37.505 What resources are available to assist me during the pre-award business evaluation? #####
+
+Administrative agreements officers of the Defense Contract Management Agency and the Office of Naval Research can share lessons learned from administering other TIAs. Program officials can be a source of information when you are determining the reasonableness of proposed funding (*e.g.,* on labor rates, as discussed in § 37.520) or establishing observable and verifiable technical milestones for payments (*see* § 37.575). Auditors at the Defense Contract Audit Agency can act in an advisory capacity to help you determine the reasonableness of proposed amounts, including values of in-kind contributions toward cost sharing.

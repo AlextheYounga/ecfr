@@ -1,0 +1,3 @@
+##### § 1802.26 Notification of decision and prohibition on adverse action. #####
+
+The Coordinator shall communicate the decision of NACIC to the authorized holder, the originator, and other interested parties within ten (10) days of the decision by the Coordinator. That correspondence shall include a notice that no adverse action or retribution can be taken in regard to the challenge and that an appeal of the decision may be made to the Interagency Security Classification Appeals Panel (ISCAP) established pursuant to § 5.4 of this Order.

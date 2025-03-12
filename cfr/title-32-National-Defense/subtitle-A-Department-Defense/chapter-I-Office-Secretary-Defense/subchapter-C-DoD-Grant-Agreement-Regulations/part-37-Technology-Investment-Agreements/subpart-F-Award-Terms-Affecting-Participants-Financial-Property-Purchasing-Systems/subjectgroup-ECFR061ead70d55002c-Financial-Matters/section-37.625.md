@@ -1,0 +1,11 @@
+##### § 37.625 What cost principles or standards do I require for for-profit participants? #####
+
+(a) So as not to require any firm to needlessly change its cost-accounting system, your expenditure-based TIAs are to apply the Government cost principles in 48 CFR parts 31 and 231 to for-profit participants that currently perform under expenditure-based Federal procurement contracts or assistance awards (other than TIAs) and therefore have existing systems for identifying allowable costs under those principles. If there are programmatic or business reasons to do otherwise, you may grant an exception from this requirement and use alternative standards as long as the alternative satisfies the conditions described in paragraph (b) of this section; if you do so, you must document the reasons in your award file.
+
+(b) For other for-profit participants, you may establish alternative standards in the agreement as long as that alternative provides, as a minimum, that Federal funds and funds counted as recipients' cost sharing will be used only for costs that:
+
+(1) A reasonable and prudent person would incur in carrying out the research project contemplated by the agreement. Generally, elements of cost that appropriately are charged are those identified with research and development activities under the Generally Accepted Accounting Principles (see Statement of Financial Accounting Standards Number 2, “Accounting for Research and Development Costs,” October 19741). Moreover, costs must be allocated to DoD and other projects in accordance with the relative benefits the projects receive. Costs charged to DoD projects must be given consistent treatment with costs allocated to the participants' other research and development activities (*e.g.,* activities supported by the participants themselves or by non-Federal sponsors).
+
+1 Copies may be obtained from the Financial Accounting Standards Board (FASB), 401 Merritt 7, P.O. Box 5116, Norwalk, CT 06856-5116. Information about ordering also may be found at the Internet site *http://www.fasb.org* or by telephoning the FASB at (800) 748-0659.
+
+(2) Are consistent with the purposes stated in the governing Congressional authorizations and appropriations. You are responsible for ensuring that provisions in the award document address any requirements that result from authorizations and appropriations.

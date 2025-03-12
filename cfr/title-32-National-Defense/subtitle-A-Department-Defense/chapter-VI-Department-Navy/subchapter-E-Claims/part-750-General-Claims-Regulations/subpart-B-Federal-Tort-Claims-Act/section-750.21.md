@@ -1,0 +1,3 @@
+##### § 750.21 Scope of subpart B. #####
+
+This subpart provides information regarding the administrative processing and consideration of claims against the United States under the FTCA. The FTCA is a limited waiver of sovereign immunity. Under the FTCA, an individual can seek money damages for personal injury, death, or property damage caused by the negligent or wrongful act or omission of a Federal employee acting within the scope of employment. The FTCA also provides for compensation for injuries caused by certain intentional, wrongful conduct. The liability of the United States is determined in accordance with the law of the State where the act or omission occured.

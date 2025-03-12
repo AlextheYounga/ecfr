@@ -1,0 +1,3 @@
+##### § 564.57 Procedure. #####
+
+Responsibility for the investigation of claims cognizable under §§ 564.51 to 564.68 and of accidents or incidents which may give rise to such claims rests in the adjutants general of the several States. Accordingly, claims received by the National Guard Bureau, or other agencies of the United States, will be referred to the adjutants general of the interested States. Regulations promulgated by the State adjutants general should require the prompt investigation of all accidents or incidents which might result in claims cognizable hereunder, whether or not claims have been filed.

@@ -1,0 +1,24 @@
+##### § 172.235 Extent of damage. #####
+
+For the purpose of the calculations required in § 172.225—
+
+(a) Design calculations must include both side and bottom damage, applied separately; and
+
+(b) Damage must consist of the penetrations having the dimensions given in Table 172.235 except that, if the most disabling penetrations would be less than the penetrations described in this paragraph, the smaller penetration must be assumed.
+
+|                                                                            Collision Penetration                                                                             |                                                                                           |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|                                                                             Longitudinal extent                                                                              |                                 0.495 L2/3 or 47.6 feet.                                  |
+|                                                                                                                                                                              |                         (1/3 L2/3 or 14.5 m), whichever is less.                          |
+|                                                                              Transverse extent                                                                               |                          4 feet 2 inches (1.25 m). <sup>1</sup>                           |
+|                                                                               Vertical extent                                                                                |                          From the baseline upward without limit.                          |
+|                                                Grounding Penetration Forward of a Point 0.3L Aft of the Forward Perpendicular                                                |                                                                                           |
+|                                                                                 Longitudinal                                                                                 |                                 0.495 L2/3 or 47.6 feet.                                  |
+|                                                                                                                                                                              |                         (1/3 L2/3 or 14.5 m), whichever is less.                          |
+|                                                                                  Transverse                                                                                  |B/6 or 32.8 feet (10 m), whichever is less, but not less than 16.4 feet (5 m). <sup>1</sup>|
+|                                                                               Vertical extent                                                                                |                                 0.75 m from the baseline.                                 |
+|                                                           Grounding Penetration at Any Other Longitudinal Position                                                           |                                                                                           |
+|                                                                             Longitudinal extent                                                                              |                        L/10 or 16.4 feet (5 m), whichever is less.                        |
+|                                                                                  Transverse                                                                                  |                                 4 feet 2 inches (1.25 m).                                 |
+|                                                                               Vertical extent                                                                                |                        2 feet 6 inches (0.75 m) from the baseline.                        |
+|<sup>1</sup> Damage applied inboard from the vessel's side at right angles to the centerline at the level of the summer load line assigned under Subchapter E of this chapter.|                                                                                           |

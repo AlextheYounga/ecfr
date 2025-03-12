@@ -1,0 +1,3 @@
+##### § 1702.6 Trade secrets and other confidential information. #####
+
+Where a petition contains material that the petitioner believes should be exempt from public disclosure under the Freedom of Information Act, 5 U.S.C. 552, the petitioner shall comply with the requirements of 16 CFR part 1015, the Commission's regulation under the Freedom of Information Act concerning requests for treatment as exempt material. The Commission shall act upon any request for treatment as exempt material in accordance with the provisions of 16 CFR part 1015.

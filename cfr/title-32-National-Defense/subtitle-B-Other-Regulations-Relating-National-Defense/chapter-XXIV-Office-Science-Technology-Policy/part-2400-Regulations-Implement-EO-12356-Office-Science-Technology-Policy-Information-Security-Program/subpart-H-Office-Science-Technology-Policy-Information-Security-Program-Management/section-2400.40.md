@@ -1,0 +1,3 @@
+##### § 2400.40 Responsibility. #####
+
+The Director, OSTP is the senior OSTP official having authority and responsibility to ensure effective and uniform compliance with and implementation of Executive Order 12356 and its implementing Directive No. 1. As such, the Director, OSTP, shall have primary responsibility for providing guidance, oversight and approval of policy and procedures governing the OSTP Information Security Program. The Director, OSTP, may approve waivers or exceptions to the provisions of this regulation to the extent such action is consistent with Executive Order 12356 and Directive No. 1.

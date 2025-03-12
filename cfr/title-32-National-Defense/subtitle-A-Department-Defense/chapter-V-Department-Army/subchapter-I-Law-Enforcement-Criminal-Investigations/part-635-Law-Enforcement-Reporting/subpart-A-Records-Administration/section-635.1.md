@@ -1,0 +1,5 @@
+##### § 635.1 General. #####
+
+The proponent of this part is the Provost Marshal General. The proponent has the authority to approve exceptions or waivers to this Part that are consistent with controlling law and regulations. In distributing information on juvenile victims or subjects, the installation Freedom of Information Act (FOIA) Office will ensure that only individuals with a need to know of the personally identifiable information (PII) of a juvenile are provided the identifying information on the juvenile. For example, a community commander is authorized to receive pertinent information on juveniles under their jurisdiction. When a Law Enforcement Report identifying juvenile offenders must be provided to multiple commanders or supervisors, the FOIA Office must sanitize each report to withhold juvenile information not pertaining to that commander's area of responsibility.
+
+[80 FR 28549, May 19, 2015, as amended at 81 FR 17386, Mar. 29, 2016]

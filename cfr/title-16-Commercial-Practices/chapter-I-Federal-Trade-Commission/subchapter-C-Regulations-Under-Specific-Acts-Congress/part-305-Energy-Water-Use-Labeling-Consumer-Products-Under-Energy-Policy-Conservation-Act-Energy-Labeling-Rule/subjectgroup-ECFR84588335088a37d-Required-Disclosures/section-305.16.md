@@ -1,0 +1,29 @@
+##### § 305.16 Labeling and marking for plumbing products. #####
+
+(a) *Showerheads and faucets.* Showerheads and faucets shall be marked and labeled as follows:
+
+(1) Each showerhead and flow restricting or controlling spout end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 325 of the Act, 42 U.S.C. 6295(j). Except where impractical due to the size of the fitting, each flow rate disclosure shall also be given in liters per minute (L/min) or liters per cycle (L/cycle). For purposes of this section, the marking indicating the flow rate will be deemed “legible,” in terms of placement, if it is located in close proximity to the manufacturer's identification marking.
+
+(2) Each showerhead and faucet shall bear a permanent legible marking to identify the manufacturer. This marking shall be the trade name, trademark, or other mark known to identify the manufacturer. Such marking shall be located where it can be seen after installation.
+
+(3) Each showerhead and faucet shall be marked “A112.18.1M” to demonstrate compliance with the applicable ASME standard. The marking shall be by means of either a permanent mark on the product, a label on the product, or a tag attached to the product.
+
+(4) The package for each showerhead and faucet shall disclose the manufacturer's name and the model number.
+
+(5) The package or any label attached to the package for each showerhead or faucet shall contain at least the following: “A112.18.1M” and the flow rate expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 325 of the Act, 42 U.S.C. 6295(j). Each flow rate disclosure shall also be given in liters per minute (L/min) or liters per cycle (L/cycle).
+
+(b) *Water closets and urinals.* Water closets and urinals shall be marked and labeled as follows:
+
+(1) Each such fixture (and flushometer valve associated with such fixture) shall bear a permanent legible marking indicating the flow rate, expressed in gallons per flush (gpf), and the water use value shall be the actual water use or the maximum water use specified by the standards established in subsection (k) of section 325 of the Act, 42 U.S.C. 6295(k). Except where impractical due to the size of the fixture, each flow rate disclosure shall also be given in liters per flush (Lpf). For purposes of this section, the marking indicating the flow rate will be deemed “legible,” in terms of placement, if it is located in close proximity to the manufacturer's identification marking.
+
+(2) Each water closet (and each component of the water closet if the fixture is comprised of two or more components) and urinal shall be marked with the manufacturer's name or trademark or, in the case of private labeling, the name or registered trademark of the customer for whom the unit was manufactured. This mark shall be legible, readily identified, and applied so as to be permanent. The mark shall be located so as to be visible after the fixture is installed, except for fixtures built into or for a counter or cabinet.
+
+(3) Each water closet (and each component of the water closet if the fixture is comprised of two or more components) and urinal shall be marked at a location determined by the manufacturer with the designation “ASME A112.19.2M” to signify compliance with the applicable standard. This mark need not be permanent, but shall be visible after installation.
+
+(4) The package, and any labeling attached to the package, for each water closet and urinal shall disclose the flow rate, expressed in gallons per flush (gpf), and the water use value shall be the actual water use or the maximum water use specified by the standards established in subsection (k) of section 325 of the Act, 42 U.S.C. 6295(k). Each flow rate disclosure shall also be given in liters per flush (Lpf).
+
+(5) With respect to any gravity tank-type white 2-piece toilet offered for sale or sold before January 1, 1997, which has a water use greater than 1.6 gallons per flush (gpf), any printed matter distributed or displayed in connection with such product (including packaging and point-of-sale material, catalog material, and print advertising) shall include, in a conspicuous manner, the words “For Commercial Use Only.”
+
+(c) *Annual operating cost claims for covered plumbing products.* Until such time as the Commission has prescribed a format and manner of display for labels conveying estimated annual operating costs of covered showerheads, faucets, water closets, and urinals or ranges of estimated annual operating costs for the types or classes of such plumbing products, the Act prohibits manufacturers from making such representations on the labels of such covered products. 42 U.S.C. 6294(c)(8). If, before the Commission has prescribed such a format and manner of display for labels of such products, a manufacturer elects to provide for any such product a label conveying such a claim, it shall submit the proposed claim to the Commission so that a format and manner of display for a label may be prescribed.
+
+[73 FR 49973, Aug. 29, 2007]

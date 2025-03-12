@@ -1,0 +1,3 @@
+##### § 148.5 Identification of the security policy board. #####
+
+Agencies which authorize, approve, certify, or accredit facilities shall provide to the Security Policy Board Staff a points of contact list to include names and telephone numbers of personnel to be contacted for verification of authorized, approved, certified, or accredited facility status. The Security Policy Board Staff will publish a comprehensive directory of points of contact.

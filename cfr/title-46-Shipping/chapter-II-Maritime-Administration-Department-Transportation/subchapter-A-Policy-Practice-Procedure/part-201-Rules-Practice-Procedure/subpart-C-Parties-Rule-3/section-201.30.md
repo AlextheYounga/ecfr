@@ -1,0 +1,3 @@
+##### § 201.30 Parties; how designated. #####
+
+The term *party,* whenever used in these Rules, shall include any natural person, corporation, association, firm, partnership, trustee, receiver, agency, public or private organization, or governmental agency. A party requesting official action subject to these Rules shall be designated as *applicant.* A party whose petition for leave to intervene is granted pursuant to § 201.78 shall be designated as *intervenor.* Only a party as designated in this section may introduce evidence or examine witnesses at hearings.

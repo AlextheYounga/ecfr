@@ -1,0 +1,3 @@
+##### § 164.007-2 Purpose. #####
+
+The purpose of this specification is to set forth tests necessary to measure the insulation value of structural insulation specimens under fire exposure conditions. The tests are not intended to measure the integrity of structural components of an assembly Insulation meeting this specification is adequate to limit the average temperature rise of a steel bulkhead to 139 °C. (250 °F.) at the end of a 60-minute standard fire test.

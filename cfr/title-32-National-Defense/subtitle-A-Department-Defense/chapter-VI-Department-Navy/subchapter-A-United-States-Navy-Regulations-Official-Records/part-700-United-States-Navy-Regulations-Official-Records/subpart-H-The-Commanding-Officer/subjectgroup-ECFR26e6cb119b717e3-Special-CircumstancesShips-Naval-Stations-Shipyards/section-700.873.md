@@ -1,0 +1,3 @@
+##### § 700.873 Inspection incident to commissioning of ships. #####
+
+When a ship is to be commissioned, the authority designated to place such ship in commission shall, just prior to commissioning, cause an inspection to be made to determine the cleanliness and readiness of the ship to receive its crew and outfit. In the case of the delivery of a ship by a contractor, the above inspection shall precede acceptance of the ship. A copy of the report of this inspection shall be furnished the officer detailed to command the ship and to appropriate commands.

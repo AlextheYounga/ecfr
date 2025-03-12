@@ -1,0 +1,3 @@
+##### § 67.1 Purpose. #####
+
+This part provides guidance for implementing policy, assigns responsibilities, and prescribes under 10 U.S.C. 12205 for identifying criteria for determining educational institutions that award baccalaureate degrees which satisfy the educational requirement for appointment of officers to a grade above First Lieutenant in the Army Reserve, Air Force Reserve, and Marine Corps Reserve, or Lieutenant (Junior Grade) in the Naval Reserve, or for officers to be federally recognized in a grade level above First Lieutenant as a member of the Army National Guard or Air National Guard.

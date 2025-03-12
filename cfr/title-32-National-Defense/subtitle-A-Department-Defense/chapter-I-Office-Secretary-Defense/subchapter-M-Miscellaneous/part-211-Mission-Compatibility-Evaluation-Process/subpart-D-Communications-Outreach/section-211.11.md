@@ -1,0 +1,3 @@
+##### § 211.11 Communications with the Clearinghouse. #####
+
+All communications to the Clearinghouse by applicants, requesters, or members of the public should be addressed to: Executive Director, DoD Siting Clearinghouse, Office of the Deputy Under Secretary of Defense (Installations and Environment), Room 5C646, 3400 Defense Pentagon, Washington, DC 20301-3400, or, if by electronic mail, to *DoDSitingClearinghouse@osd.mil.* Additional information about the Clearinghouse and means of contacting it are available at the following URL: *http://www.acq.mil/ie/sch.*

@@ -1,0 +1,3 @@
+##### § 564.54 Claims payable. #####
+
+Claims for damage to or loss of private property proximately resulting from authorized activities incident to the operation of camps of instruction, including maneuvers, field exercises, training of units and personnel, movement of vehicles, operation of aircraft, maintenance and support of units and personnel, tortious acts or omissions of military personnel or civilian employees of the National Guard or Air National Guard in the scope of employment, and claims arising under a contract, executed incident to camps of instruction, even though legally enforceable under the express terms of the contract and no other, are payable under §§ 564.51 to 564.58.

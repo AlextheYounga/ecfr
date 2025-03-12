@@ -1,0 +1,3 @@
+##### § 4.09-5 Powers of Marine Board of Investigation. #####
+
+Any Marine Board of Investigation so designated shall have the power to administer oaths, summon witnesses, require persons having knowledge of the subject matter of the investigation to answer questionnaires, and to require the production of relevant books, papers, documents or any other evidence. Attendance of witnesses or the production of books, papers, documents or any other evidence shall be compelled by a similar process as in the United States District Court. The chairman shall administer all necessary oaths to any witnesses summoned before said Board.

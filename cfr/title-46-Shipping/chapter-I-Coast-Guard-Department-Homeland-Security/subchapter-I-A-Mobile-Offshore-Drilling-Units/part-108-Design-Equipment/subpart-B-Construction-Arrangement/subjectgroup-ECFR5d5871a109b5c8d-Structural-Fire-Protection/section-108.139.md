@@ -1,0 +1,3 @@
+##### § 108.139 Boundary bulkheads and decks of a space containing emergency power. #####
+
+Each boundary bulkhead and deck of a space containing an emergency electric power source or components of an emergency electric power source must be an A class bulkhead and A class deck respectively. When separate but adjoining spaces are provided for such equipment, boundary bulkhead type construction is not required for the separating partitions common to each space.

@@ -1,0 +1,5 @@
+##### § 260.17 Source reduction claims. #####
+
+It is deceptive to misrepresent, directly or by implication, that a product or package has been reduced or is lower in weight, volume, or toxicity. Marketers should clearly and prominently qualify source reduction claims to the extent necessary to avoid deception about the amount of the source reduction and the basis for any comparison.
+
+Example:An advertiser claims that disposal of its product generates “10% less waste.” The marketer does not accompany this claim with a general environmental benefit claim. Because this claim could be a comparison to the advertiser's immediately preceding product or to its competitors' products, the advertiser should have substantiation for both interpretations. Otherwise, the advertiser should clarify which comparison it intends and have substantiation for that comparison. A claim of “10% less waste than our previous product” would not be deceptive if the advertiser has substantiation that shows that the current product's disposal contributes 10% less waste by weight or volume to the solid waste stream when compared with the immediately preceding version of the product.

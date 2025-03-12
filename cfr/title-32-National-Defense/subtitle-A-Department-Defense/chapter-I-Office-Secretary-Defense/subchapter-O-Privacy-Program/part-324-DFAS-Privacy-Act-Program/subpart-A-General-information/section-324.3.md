@@ -1,0 +1,3 @@
+##### § 324.3 Policy. #####
+
+DFAS personnel will comply with the Privacy Act of 1974, the DoD Privacy Program and the DFAS Privacy Act Program. Strict adherence is required to ensure uniformity in the implementation of the DFAS Privacy Act Program and to create conditions that will foster public trust. Personal information maintained by DFAS organizational elements will be safeguarded. Information will be made available to the individual to whom it pertains to the maximum extent practicable. Specific DFAS policy is provided for Privacy Act training, responsibilities, reporting procedures and implementation requirements. DFAS Components will not define policy for the Privacy Act Program.

@@ -1,0 +1,7 @@
+##### § 1211.31 Recordkeeping requirements. #####
+
+(a) *General.* Every person issuing certificates of compliance for automatic residential garage door operators subject to the standard set forth in subpart A of this part shall maintain written records which show that the certificates are based on a test of each operator or on a reasonable testing program. The records shall be maintained for a period of at least three years from the date of certification of each operator or the last operator in each production lot. These records shall be available to any designated officer or employee of the Commission upon request in accordance with section 16(b) of the CPSA, 15 U.S.C. 2065(b).
+
+(b) *Content of records.* Records shall identify the operators tested and the production lot and describe the tests the operators were subjected to in sufficient detail so the tests may be replicated. Records shall also provide the results of the tests including the precise nature of any failures, and specific actions taken to address any failures.
+
+(c) *Format for records.* The records required to be maintained by this section may be in any appropriate form or format that clearly provides the required information.

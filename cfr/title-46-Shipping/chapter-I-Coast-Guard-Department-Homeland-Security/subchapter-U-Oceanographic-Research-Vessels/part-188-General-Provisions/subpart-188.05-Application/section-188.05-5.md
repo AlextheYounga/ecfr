@@ -1,0 +1,5 @@
+##### § 188.05-5 Specific application noted in text. #####
+
+(a) At the beginning of the various parts, subparts, and sections, a more specific application is generally given for the particular portion of the text involved. This application sets forth the types, sizes, or services or vessels to which the text pertains, and in many cases limits the application of the text to vessels contracted for before or after a specific date. As used in this subchapter, the term “vessels contracted for” includes not only the contracting for the construction of a vessel, but also the contracting for a material alteration to a vessel, the contracting for the conversion of a vessel to an oceanographic research vessel, and the changing of area of operation of a vessel if such change increases or modifies the general requirements for the vessel or increases the hazards to which it might be subjected.
+
+[CGFR 67-83, 33 FR 1113, Jan. 27, 1968, as amended by CGD 77-081, 46 FR 56204, Nov. 16, 1981]

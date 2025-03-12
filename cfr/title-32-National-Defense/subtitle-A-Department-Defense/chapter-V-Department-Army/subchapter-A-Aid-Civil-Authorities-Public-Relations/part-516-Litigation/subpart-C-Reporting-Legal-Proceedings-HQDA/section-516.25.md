@@ -1,0 +1,7 @@
+##### § 516.25 DA Form 4. #####
+
+(a) *General.* The DA Form 4 (See figure C-2, appendix G, of this part) is used to authenticate Army records or documents. Documents attached to a properly prepared and sealed DA Form 4 are self-authenticating. (See Fed. R. Evid. 902).
+
+(b) *Preparation at the installation level.* A DA Form 4 need not be prepared until the trial attorney presenting the government's case identifies documents maintained at the installation level which he will need at trial. Once documents are identified, the custodian of the documents will execute his portion of the DA Form 4. (See figure C-2, appendix G, of this part). The custodian certifies that the documents attached to the DA Form 4 are true copies of official documents. Documents attached to each form should be generally identified; each document need not be mentioned specifically. Only the upper portion of the form should be executed at the local level.
+
+(c) *Actions at HQDA.* Upon receipt of the DA Form 4 with documents attached thereto, HQDA will affix a ribbon and seal and deliver it to the Office of the Administrative Assistant to the Secretary of the Army. That office will place the official Army seal on the packet.

@@ -1,0 +1,3 @@
+##### § 728.72 Applicants for enrollment in the Senior Reserve Officers' Training Program. #####
+
+When properly authorized, designated applicants (including applicants for enrollment in the 2-year program and Military Science II enrollees applying for Military Science III) may be furnished medical examinations at naval MTFs including hospitalization necessary for the proper conduct thereof. Medical care, including hospitalization, is authorized for diseases contracted or injuries incurred in line of duty while at or traveling to or from a military installation for the purpose of undergoing medical or other examinations or for visits of observation.

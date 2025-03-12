@@ -1,0 +1,3 @@
+##### § 212.4 Policy. #####
+
+It is DoD policy, consistent with 32 CFR part 213, that procedures be established for the operation of non-Federal entities on DoD installations to prevent official sanction, endorsement, or support by the DoD Components except as authorized in DoD 5500.7-R and applicable law. The Department recognizes that non-Federal entity support of Service members and their families can be important to their welfare. Non-Federal entities are not entitled to sovereign immunity and privileges accorded to Federal agencies and instrumentalities. The DoD Components shall take action to preclude unauthorized expenditures of appropriated funds, commissary surcharge, or nonappropriated funds (NAF) in support of these organizations.

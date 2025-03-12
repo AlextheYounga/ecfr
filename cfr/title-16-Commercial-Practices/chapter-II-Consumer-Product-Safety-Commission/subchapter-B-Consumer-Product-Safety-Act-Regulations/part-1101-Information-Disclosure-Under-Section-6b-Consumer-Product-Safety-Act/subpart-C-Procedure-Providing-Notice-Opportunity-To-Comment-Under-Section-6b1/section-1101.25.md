@@ -1,0 +1,9 @@
+##### § 1101.25 Notice of intent to disclose. #####
+
+(a) *Notice to manufacturer or private labeler.* In accordance with section 6(b)(2) of the CPSA, if the Commission, after following the notice provisions of section 6(b)(1), determines that information claimed to be inaccurate by a manufacturer or private labeler in comments submitted under section 6(b)(1) should be disclosed because the Commission believes it has complied with section 6(b)(1), the Commission shall notify the manufacturer or private labeler that it intends to disclose the information not less than 5 days after the date of the receipt of notification by the firm. The notice of intent to disclose will include an explanation of the reason for the Commission's decision, copies of any additional materials, such as explanatory statements and letters to Freedom of Information Act requesters, which were not previously sent to the firm.
+
+(b) *Commission finding a lesser period is required.* The Commission may determine that the public health and safety requires less than 5 days advance notice of its intent to disclose information claimed to be inaccurate. For example, the Commission may determine it is necessary to warn the public quickly because individuals may be in danger from a product hazard or a potential hazard, or to correct product safety information released by third persons, which mischaracterized statements made by the Commission about the product or which attributes to the Commission statements about the product which the Commission did not make.
+
+(c) *Notice of findings.* The Commission will inform a manufacturer or private labeler of a product which is the subject of a public health and safety finding that the public health and safety requires less than 5 days advance notice either orally or in writing, depending on the immediacy of the need for quick action.
+
+[48 FR 57430, Dec. 29, 1983, as amended at 73 FR 72335, Nov. 28, 2008]

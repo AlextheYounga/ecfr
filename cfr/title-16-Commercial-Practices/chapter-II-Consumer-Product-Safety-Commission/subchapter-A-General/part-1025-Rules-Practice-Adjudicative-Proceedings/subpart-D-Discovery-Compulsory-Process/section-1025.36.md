@@ -1,0 +1,3 @@
+##### § 1025.36 Motions to compel discovery. #####
+
+If a party fails to respond to discovery, in whole or in part, the party seeking discovery may move within twenty (20) days for an order compelling an answer, or compelling inspection or production of documents, or otherwise compelling discovery. For purposes of this section, an evasive or incomplete response is to be treated as a failure to respond. When taking depositions, the discovering party shall continue the examination to the extent possible with respect to other areas of inquiry before moving to compel discovery.

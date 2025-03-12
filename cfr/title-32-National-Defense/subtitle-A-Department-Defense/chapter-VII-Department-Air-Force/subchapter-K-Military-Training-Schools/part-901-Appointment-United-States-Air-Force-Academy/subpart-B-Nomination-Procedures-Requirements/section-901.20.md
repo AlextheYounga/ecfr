@@ -1,0 +1,3 @@
+##### § 901.20 Notice of nomination. #####
+
+The Director of Admissions (USAFA/RRS) acknowledges receipt of all applicants' nominations. If not previously received, USAFA/RRS forwards a precandidate questionnaire for completion. If the precandidate questionnaire indicates the potential to qualify for admission to the Academy or the Preparatory School, USAFA/RRS sends the individual a candidate kit which includes: USAFA Form 146, AFA Candidate Personal Data Record; USAFA Form 147, AFA Candidate Activities Record; and USAFA Form 148, AFA Request for Secondary School Transcript; AF Form 2030, Drug Abuse Certificate; and complete processing instructions.

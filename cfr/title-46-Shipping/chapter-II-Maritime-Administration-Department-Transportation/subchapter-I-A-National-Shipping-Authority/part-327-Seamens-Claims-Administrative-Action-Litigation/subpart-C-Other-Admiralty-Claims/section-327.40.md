@@ -1,0 +1,7 @@
+##### § 327.40 Other Admiralty claims. #####
+
+(a) Admiralty claims caused by United States owned and operated vessels on navigable waters or otherwise that are not covered under the Clarification Act (50 U.S.C. app. 1291(a)), the Admiralty Extension Act (46 U.S.C. 30101) or the Contracts Disputes Act (41 U.S.C. 601 *et. seq.*) may be filed with the Maritime Administration in accordance with §§ 327.40 through 327.52.
+
+(b) A civil action against the United States for admiralty claims caused by United States owned and operated vessels on navigable waters or otherwise that are not covered under the Clarification Act (50 U.S.C. App. 1291(a)), the Admiralty Extension Act (46 U.S.C. 30101) or the Contracts Disputes Act (41 U.S.C. 601 *et. seq.*) may be brought without the filing of an administrative claim. This Part III sets forth the optional procedure for filing such claims with the Maritime Administration in advance of litigation. Once litigation is filed, the authority to handle such claims is vested with the Justice Department, not the agency.
+
+(c) Proceeding against the United States pursuant to the requirements this Part III is not a requirement for filing suit against the United States of America, acting by and through the Maritime Administration, with respect to such admiralty claims.

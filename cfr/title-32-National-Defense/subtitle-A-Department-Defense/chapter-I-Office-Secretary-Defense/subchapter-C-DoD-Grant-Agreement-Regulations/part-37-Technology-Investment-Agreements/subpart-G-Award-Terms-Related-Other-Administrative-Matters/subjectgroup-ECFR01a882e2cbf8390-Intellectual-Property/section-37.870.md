@@ -1,0 +1,3 @@
+##### § 37.870 Should I require recipients to mark documents related to inventions? #####
+
+To protect the recipient's interest in inventions, your TIA should require the recipient to mark documents disclosing inventions it desires to protect by obtaining a patent. The recipient should mark the documents with a legend identifying them as intellectual property subject to public release or public disclosure restrictions, as provided in 35 U.S.C. 205.

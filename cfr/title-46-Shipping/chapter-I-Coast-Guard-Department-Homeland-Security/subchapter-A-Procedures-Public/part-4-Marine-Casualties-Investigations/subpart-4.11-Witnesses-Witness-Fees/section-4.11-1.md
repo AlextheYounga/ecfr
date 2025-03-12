@@ -1,0 +1,3 @@
+##### § 4.11-1 Employees of vessels controlled by Army or Navy as witnesses. #####
+
+No officer, seaman, or other employee of any public vessel controlled by the Army or Navy (not including the Coast Guard) of the United States, shall be summoned or otherwise required to appear as a witness in connection with any investigation or other proceeding without the consent of the Government agency concerned.

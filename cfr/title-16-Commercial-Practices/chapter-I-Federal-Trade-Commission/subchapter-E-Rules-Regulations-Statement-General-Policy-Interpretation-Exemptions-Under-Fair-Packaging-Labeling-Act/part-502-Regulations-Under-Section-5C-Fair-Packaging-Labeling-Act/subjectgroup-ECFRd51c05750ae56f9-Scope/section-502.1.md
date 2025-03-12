@@ -1,0 +1,3 @@
+##### § 502.1 Scope of the regulations in this part. #####
+
+The regulations in this part establish requirements for labeling of consumer commodities with respect to use of package size characterizations, retail sale price representations, and common name and ingredient listing. Additionally, the regulations in this part establish criteria to prevent nonfunctional-slack-fill of packages containing consumer commodities.

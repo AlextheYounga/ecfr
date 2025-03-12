@@ -1,0 +1,3 @@
+##### Sec. 13 Insurance. #####
+
+Article 9 of the NSA-LUMPSUMREP Contract sets forth the Contractor's liabilities and obligations with respect to awarded work. Said Article 9 requires that the Contractor shall maintain insurance to cover such liabilities and obligations. Evidence of such insurance shall be submitted to the Chief, Division of Insurance, Washington, DC, by the contractors for approval.

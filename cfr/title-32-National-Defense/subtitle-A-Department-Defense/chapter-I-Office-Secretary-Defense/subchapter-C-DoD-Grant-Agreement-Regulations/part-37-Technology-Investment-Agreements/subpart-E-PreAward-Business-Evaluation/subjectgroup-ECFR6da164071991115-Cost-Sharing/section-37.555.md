@@ -1,0 +1,3 @@
+##### § 37.555 How do I value a recipient's other contributions? #####
+
+For types of participant contributions other than those addressed in §§ 37.535 through 37.550, the general rule is that you are to value each contribution consistently with the cost principles or standards in § 37.625 and § 37.635 that apply to the participant making the contribution. When valuing services and property donated by parties other than the participants, you may use as guidance the provisions of 32 CFR 34.13(b)(2) through (5).

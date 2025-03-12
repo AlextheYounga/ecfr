@@ -1,0 +1,9 @@
+##### § 1003.6 Procedures for closing meetings or withholding information, and requests by affected persons to close a meeting. #####
+
+(a) A meeting or portion of a meeting may be closed and information pertaining to a meeting withheld under § 1003.5 only by vote of a majority of members.
+
+(b) A separate vote of the members shall be taken with respect to each meeting or portion of a meeting proposed to be closed and with respect to information which is proposed to be withheld. A single vote may be taken with respect to a series of meetings or portions of a meeting that are proposed to be closed, so long as each meeting or portion thereof in the series involves the same particular matter and is scheduled to be held no more than 30 days after the initial meeting in the series. The vote of each member shall be recorded and no proxies shall be allowed.
+
+(c) A person whose interests may be directly affected by a portion of a meeting may request in writing that the Board close that portion for any of the reasons referred to in § 1003.5(e), (f) and (g). Upon the request of a member, a recorded vote shall be taken whether to close such meeting or portion thereof.
+
+(d) For every meeting closed, the General Counsel shall publicly certify that, in his or her opinion, the meeting may be closed to the public and shall state each relevant basis for closing the meeting. If the General Counsel invokes the bases set forth in § 1003.5(a) or (c), he/she shall rely upon the classification or designation assigned to the information by the originating agency. A copy of such certification, together with a statement by the presiding officer setting forth the time and place of the meeting and the persons present, shall be retained by the Board as part of the transcript, recording, or minutes required by § 1003.8.

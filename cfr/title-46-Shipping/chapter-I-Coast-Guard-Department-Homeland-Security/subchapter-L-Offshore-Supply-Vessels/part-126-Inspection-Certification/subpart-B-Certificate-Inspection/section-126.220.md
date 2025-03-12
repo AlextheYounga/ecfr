@@ -1,0 +1,3 @@
+##### § 126.220 Description. #####
+
+The Certificate of Inspection issued to an OSV specifies the vessel, the route it may travel, the minimum manning it requires, the minimum fire-extinguishing and lifesaving equipment it must carry, the maximum number of offshore workers and of total persons it may carry, the name of its owner and operator, and such other conditions as the cognizant OCMI may determine.

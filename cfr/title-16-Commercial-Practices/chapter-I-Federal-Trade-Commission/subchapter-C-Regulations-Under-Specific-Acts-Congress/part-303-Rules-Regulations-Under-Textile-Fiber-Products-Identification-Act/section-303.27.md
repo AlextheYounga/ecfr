@@ -1,0 +1,3 @@
+##### § 303.27 Use of the term “All” or “100%.” #####
+
+Where a textile fiber product or part thereof is comprised wholly of one fiber, other than any fiber ornamentation, decoration, elastic, or trimming as to which fiber content disclosure is not required, either the word *All* or the term *100%* may be used in labeling, together with the correct generic name of the fiber and any qualifying phrase, when required; as for example: “100% Cotton,” “All Rayon, Exclusive of Ornamentation,” “100% Acetate, Exclusive of Decoration,” “All Nylon, Exclusive of Elastic,” etc.

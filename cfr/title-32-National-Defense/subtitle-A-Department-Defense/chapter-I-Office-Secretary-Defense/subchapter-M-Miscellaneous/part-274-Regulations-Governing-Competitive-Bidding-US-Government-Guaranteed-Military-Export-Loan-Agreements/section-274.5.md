@@ -1,0 +1,3 @@
+##### § 274.5 Notice of intent to bid. #####
+
+Any individual or organization, syndicates, or other group which intends to submit a bid, must, when required by the notice, give written notice of such intent on the appropriate form at the place and within the time specified in the public notice. Such notice, which shall be given to the Federal Reserve Bank of New York, 33 Liberty Street, New York, NY 10045, will not constitute a commitment to bid.

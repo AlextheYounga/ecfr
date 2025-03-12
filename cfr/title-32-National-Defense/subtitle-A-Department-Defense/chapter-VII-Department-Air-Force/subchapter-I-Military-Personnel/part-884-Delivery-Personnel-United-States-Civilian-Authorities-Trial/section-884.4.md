@@ -1,0 +1,7 @@
+##### § 884.4 Release on bail or recognizance. #####
+
+(a) Before delivering an Air Force member to a civilian authority, the commander or designee directs the member in writing to report to a designated Air Force unit, activity, or recruiting office for further instructions in the event the civilian authority releases the member (see § 884.17). The commander designates the member's unit, if the civilian authority is in the immediate vicinity of the member's base. The commander advises the designated Air Force unit, activity, or recruiting office of the situation. Once the member has been released and has reported to the designated authority, it immediately sends the member's name, rank, Social Security number (SSN). organization, and other pertinent information to the member's commander, who then provides further instructions.
+
+(b) The member's commander notifies the military personnel flight (MPF) of the situation. In turn, the MPF provides an information copy to the Air Force Personnel Center (AFPC) assignment office responsible for the member's Air Force specialty code (AFSC), as listed in AFMAN 36-2105, Officer Classification,3 or AFMAN 36-2108, Airman Classification.3 If contact cannot be made with the member's commander, the Air Force unit, activity, or recruiting office previously designated by the commander obtains instructions from HQ AFPC/DPMARS or DPMRPP2.
+
+3 See footnote in § 884.1.

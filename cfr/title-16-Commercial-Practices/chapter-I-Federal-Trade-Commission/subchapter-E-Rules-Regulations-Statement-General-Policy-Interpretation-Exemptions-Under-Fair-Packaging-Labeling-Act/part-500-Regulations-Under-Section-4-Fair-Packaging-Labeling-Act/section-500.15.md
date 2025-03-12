@@ -1,0 +1,5 @@
+##### § 500.15 Units of count, more than one ply. #####
+
+If the commodity is in distinct usable units made up of one or more components or ply, the statement of net quantity of contents shall (in addition to complying with the requirements of linear and area measurement declaration for each unit as specified in § 500.12) include the number of ply and the total number of usable units.
+
+(Example:“100 2-ply facial tissues, 81/2 inches × 10 inches” (21.5 × 25.4 cm).)For the purposes of this section, roll type commodities (e.g. paper towels), irrespective of perforations, shall not be considered to be usable units, and shall be labeled in terms of total area measurement and the number of ply. Such area measurement, however, shall be supplemented by a count statement and the dimensions of a single unit.

@@ -1,0 +1,3 @@
+##### § 806b.39 Requesting an exemption. #####
+
+A system manager who believes that a system needs an exemption from some or all of the requirements of the Privacy Act will send a request to Air Force Chief Information Officer/P through the Major Command or Field Operating Agency Privacy Act Officer. The request will detail the reasons for the exemption, the section of the Act that allows the exemption, and the specific subsections of the Privacy Act from which the system is to be exempted, with justification for each subsection.

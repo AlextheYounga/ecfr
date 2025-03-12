@@ -1,0 +1,7 @@
+##### § 1656.15 Suspension of order to perform alternative service because of hardship to dependents. #####
+
+(a) Whenever, after an ASW has begun work, a condition develops that results in hardship to his dependent as contemplated by § 1630.30(a) of this chapter which cannot be alleviated by his reassignment under § 1656.12 (a)(3) of this part, the ASW may request a suspension of Order to Perform Alternative Service. If the local board that ordered the ASW to report for Alternative Service determines he would be entitled to classification in Class 3-A, assuming that the ASW were eligible to file a claim for that class, further compliance with his order shall be suspended for a period not to exceed 365 days, as the local board specifies. Extensions of not more than 365 days each may be granted by the local board so long as the hardship continues until the ASW's liability for training and service under the Military Selective Service Act terminates.
+
+(b) An ASW may file a request for the suspension of his Order to Perform Alternative Service with the ASO. This request must be in writing, state as clearly as possible the basis for the request, and be signed and dated by the ASW. The ASW must continue working in his assigned job until his request for the suspension of his Order to Perform Alternative Service has been approved.
+
+(c) Local boards shall follow the procedures established in parts 1642 and 1648 of this chapter to the extent they are applicable in considering a request for the suspension of an Order to Perform Alternative Service.

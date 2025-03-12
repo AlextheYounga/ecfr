@@ -1,0 +1,3 @@
+##### § 385.6 Exclusions. #####
+
+Excluded from this part are requirements pertaining to procurement contracts subject to the Federal Property and Administrative Services Act of 1949 and the Federal and MarAd procurement regulations, interagency agreements, memorandums of understanding and programs or projects which directly disseminate technical information, or provide consultation, technical service, information, and data counseling to recipients without the use of an assistance instrument. Also excluded is the sale, lease, license, or other authorization to use Federal property, when such use is not incidental to the purpose of stimulation or support.

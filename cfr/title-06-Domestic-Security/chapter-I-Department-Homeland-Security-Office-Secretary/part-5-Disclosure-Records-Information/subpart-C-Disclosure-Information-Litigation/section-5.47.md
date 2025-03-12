@@ -1,0 +1,3 @@
+##### § 5.47 Procedure in the event of an adverse ruling. #####
+
+If a stay of, or other relief from, the effect of the demand in response to a request made pursuant to § 5.46 is declined or not obtained, or if the court or other judicial or quasi-judicial authority declines to stay the effect of the demand in response to a request made pursuant to § 5.46, or if the court or other authority rules that the demand must be complied with irrespective of the Department's instructions not to produce the material or disclose the information sought, the employee upon whom the demand has been made shall respectfully decline to comply with the demand, citing this subpart and *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).

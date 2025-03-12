@@ -1,0 +1,3 @@
+##### § 201.122 Application for subpoena duces tecum. #####
+
+An application for a subpoena duces tecum for documentary or tangible evidence shall be in duplicate except that for good cause shown it may be made during the course of a hearing on the record to the presiding officer. Such application need not be served upon all parties. All such applications, whether written or oral, shall contain a statement or showing of general relevance and reasonable scope of the evidence sought and shall be accompanied by an original and two copies of the subpoena sought which shall describe the documentary or tangible evidence to be subpoenaed with as much particularity as is feasible.

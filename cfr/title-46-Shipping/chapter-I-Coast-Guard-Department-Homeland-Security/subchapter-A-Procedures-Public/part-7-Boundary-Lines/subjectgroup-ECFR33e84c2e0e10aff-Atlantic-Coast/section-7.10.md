@@ -1,0 +1,5 @@
+##### § 7.10 Eastport, ME to Cape Ann, MA. #####
+
+(a) A line drawn from the easternmost extremity of Kendall Head to latitude 44°54′45″ N. longitude 66°58′30″ W.; thence to the range marker located in approximate position latitude 44°51′45″ N. longitude 66°59″ W.
+
+(b) A line drawn from West Quoddy Head Light to latitude 44°48.5′ N. longitude 66°56.4′ W. (Sail Rock Lighted Whistle Buoy “1”); thence to latitude 44°37.5′ N. longitude 67°09.8′ W. (Little River Lighted Whistle Buoy “2LR”); thence to latitude 44°14.5′ N. longitude 67°57.2′ W. (Frenchman Bay Approach Lighted Whistle Buoy “FB”); thence to Mount Desert Light; thence to Matinicus Rock Light; thence to Monhegan Island Light; thence to latitude 43°31.6′ N. longitude 70°05.5′ W. (Portland Lighted Horn Buoy “P”); thence to Boon Island Light; thence to latitude 42°37.9′ N. longitude 70°31.2′ W. (Cape Ann Lighted Whistle Buoy “2”).

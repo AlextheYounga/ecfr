@@ -1,0 +1,5 @@
+##### § 1102.28 Publication of reports of harm. #####
+
+(a) *Timing.* Subject to §§ 1102.10, 1102.24, and 1102.26, the Commission will publish reports of harm that meet the requirements for publication in the Database. The Commission will publish reports of harm as soon as practicable, but not later than the tenth business day after such report of harm is transmitted to the manufacturer or private labeler by the CPSC.
+
+(b) *Exceptions.* The Commission may publish a report of harm that meets the requirements of § 1102.10(d) in the Database beyond the 10-business-day time frame set forth in paragraph (a) of this section if the Commission determines that a report of harm misidentifies or fails to identify all manufacturers or private labelers. Such information must be corrected through the procedures set forth in § 1102.26 for materially inaccurate information in a report of harm. Once a manufacturer or a private labeler has been identified correctly, the time frame set forth in paragraph (a) of this section shall apply.

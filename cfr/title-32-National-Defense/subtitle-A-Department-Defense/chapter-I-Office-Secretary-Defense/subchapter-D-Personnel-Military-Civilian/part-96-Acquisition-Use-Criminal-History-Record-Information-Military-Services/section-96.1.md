@@ -1,0 +1,3 @@
+##### § 96.1 Purpose. #####
+
+Under title 10 U.S. Code, sections 503, 504, 505 and 520a, this part establishes policy guidance concerning the acquisition of criminal history record information for use in determining an enlistment applicant's suitability for entry and for participation in special programs that require a determination of trustworthiness (part 156 of this title), assigns responsibilities, and prescribes procedures.

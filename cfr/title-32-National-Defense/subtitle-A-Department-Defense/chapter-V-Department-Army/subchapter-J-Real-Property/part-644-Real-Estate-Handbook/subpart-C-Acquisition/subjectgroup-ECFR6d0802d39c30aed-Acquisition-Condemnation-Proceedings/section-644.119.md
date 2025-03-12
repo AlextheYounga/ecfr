@@ -1,0 +1,7 @@
+##### § 644.119 Procedure after final judgment. #####
+
+Generally, it is not necessary to obtain a final certificate of title or title insurance policy in condemnation cases where the intermediate or continuation certificate of title is continued to a date subsequent to the date of filing of the Notice of Lis Pendens, and the liability of the title company is not limited to an amount less than 50 percent of the total consideration paid for the land by the United States.
+
+(a) *Final title opinion.* After entry of final judgment, the title assembly will be examined and a final title opinion issued. The title opinion and related papers on Army and Air Force projects will be forwarded to HQDA (DAEN-REP) WASH DC 20314 for permanent filing.
+
+(b) *Report required to close case.* When all interests in a proceeding have been disposed of by final judgment, the Division or District Engineer will so advise the Chief of Engineers in order that the case may be closed. This report should not be made until the time for appeal has expired or any pending appeals have been resolved. The report should include a copy of the final judgment or other order of the court disposing of the case, and a statement that all monies deposited in the registry of the court have been disbursed.

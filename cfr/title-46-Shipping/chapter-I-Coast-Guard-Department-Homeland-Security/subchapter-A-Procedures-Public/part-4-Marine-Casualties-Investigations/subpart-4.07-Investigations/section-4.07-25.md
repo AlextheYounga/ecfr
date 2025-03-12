@@ -1,0 +1,3 @@
+##### § 4.07-25 Testimony of witnesses in other districts, depositions. #####
+
+When witnesses are available in a district other than the district in which the investigation is being made, testimony or statements shall be taken from witnesses in the other districts by an investigating officer and promptly transmitted to the investigating officer conducting the investigation. Depositions may be taken in the manner prescribed by regulations in subpart 4.12.

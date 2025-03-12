@@ -1,0 +1,5 @@
+##### § 303.24 Pile fabrics and products composed thereof. #####
+
+The fiber content of pile fabrics or products composed thereof may be stated on the label in such segregated form as will show the fiber content of the face or pile and of the back or base, with percentages of the respective fibers as they exist in the face or pile and in the back or base: *Provided,* That in such disclosure the respective percentages of the face and back be given in such manner as will show the ratio between the face and the back. Examples of the form of marking pile fabric as to fiber content provided for in this section are as follows:
+
+100% Nylon Pile100% Cotton Back(Back constitutes 60% of fabric and pile 40%).Face—60% Rayon, 40% NylonBack—70% Cotton, 30% Rayon(Face constitutes 60% of fabric and back 40%).

@@ -1,0 +1,3 @@
+##### § 453.7 Comprehension of disclosures. #####
+
+To prevent the unfair or deceptive acts or practices specified in §§ 453.2 through 453.5, funeral providers must make all disclosures required by those sections in a clear and conspicuous manner. Providers shall not include in the casket, outer burial container, and general price lists, required by §§ 453.2(b)(2)-(4), any statement or information that alters or contradicts the information required by this part to be included in those lists.

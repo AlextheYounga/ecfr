@@ -1,0 +1,7 @@
+##### § 69.4 Policy. #####
+
+(a) Each DoD DDESS arrangement shall have an elected school board, established and operated in accordance with this part and other pertinent guidance.
+
+(b) Because members of DoD DDESS elected school boards are not officers or employees of the United States appointed under the Appointments Clause of the United States Constitution (Art. II, Sec. 2, Cl. 2), they may not exercise discretionary governmental authority, such as the taking of personnel actions or the establishment of governmental policies. This part clarifies the role of school boards in the development and oversight of fiscal, personnel, and educational policies, procedures, and programs for DoD DDESS arrangements, subject to these constitutional limitations.
+
+(c) The DoD DDESS chain of command for matters relating to school arrangements operated under 10 U.S.C. 2164 and 32 CFR part 345 shall be from the Director, DoD DDESS, to the Superintendent of each school arrangement. The Superintendent will inform the school board of all matters affecting the operation of the local school arrangement. Direct liaison among the school board, the Director, and the Superintendent is authorized for all matters pertaining to the local school arrangement.

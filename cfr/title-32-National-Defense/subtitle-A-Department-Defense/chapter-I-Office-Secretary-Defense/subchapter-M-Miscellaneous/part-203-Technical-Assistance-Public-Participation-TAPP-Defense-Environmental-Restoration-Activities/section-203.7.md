@@ -1,0 +1,3 @@
+##### § 203.7 Eligible applicants. #####
+
+Eligible applicants are community members of RABs or TRCs. Furthermore, the RABs or TRCs must be comprised of at least three community members to ensure community interests are broadly represented. The applicant must certify that the request represents the wishes of a simple majority of the community members of the RAB or TRC. Certification includes, but is not limited to, the results of a roll call vote of community members of the RAB or TRC documented in the meeting minutes. Other requirements of the application are detailed in § 203.9 of this part.

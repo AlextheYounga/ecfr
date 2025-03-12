@@ -1,0 +1,5 @@
+##### § 502.134 Service of subpoenas. #####
+
+If service of a subpoena is made by a United States marshal, or his or her deputy, or an employee of the Commission, such service shall be evidenced by his or her return thereon. If made by any other person, such person shall make affidavit thereto, describing the manner in which service is made, and return such affidavit on or with the original subpoena. In case of failure to make service, the reasons for the failure shall be stated on the original subpoena. In making service, the original subpoena shall be exhibited to the person served, shall be read to him or her if he or she is unable to read, and a copy thereof shall be left with him or her. The original subpoena, bearing or accompanied by required return, affidavit, or statement, shall be returned without delay to the Commission, or if so directed on the subpoena, to the presiding officer before whom the person named in the subpoena is required to appear. [Rule 134.]
+
+[49 FR 44369, Nov. 6, 1984, as amended at 76 FR 10262, Feb. 24, 2011]

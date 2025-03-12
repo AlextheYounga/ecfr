@@ -1,0 +1,7 @@
+##### § 183.1 Purpose. #####
+
+This part:
+
+(a) Establishes DoD policy, assigns responsibilities, and provides procedures for support of civil authorities and qualifying entities during the conduct of special events in accordance with the authority in DoD Directive (DoDD) 5111.1 (see *http://www.dtic.mil/whs/directives/corres/pdf/511101p.pdf*) and the Deputy Secretary of Defense Memorandum, “Delegations of Authority,” November 30, 2006 (available by written request to Deputy Secretary of Defense, 1010 Defense Pentagon, Washington, DC 20301-1010). This support will be referred to as “support of special events.”
+
+(b) Implements provisions of DoDD 5111.1; the Deputy Secretary of Defense Memorandum, “Delegations of Authority,” November 30, 2006; title 2, United States Code (U.S.C.), sections 1966 and 1970; title 10, U.S.C., sections 372-374, 377, 2012, 2553-2555, and 2564; title 18, U.S.C. sections 1385 and 3056; title 31, U.S.C., sections 1535-1536; title 32, U.S.C., sections 502 and 508; Public Law 94-524; Section 5802 of Public Law 104-208, as amended; and title 32, Code of Federal Regulations (CFR) part 185, addressing matters pertaining to Defense Support of Civil Authorities (DSCA) for special events, including support for qualifying entities.

@@ -1,0 +1,3 @@
+##### § 644.491 Coordination with the Chief of Chaplains. #####
+
+The DE will submit applications for the purchase of chapels to DAEN-REM, who will request the Chief of Chaplains to select the purchaser and advise DAEN-REM of his selection. Where no applications are obtained as a result of the advertising, the DE will so advise the Chief of Chaplains, reporting steps taken to obtain a purchaser, and recommending that the chapel be sold without conditions, in the same manner as provided for disposal of other buildings. If the Chief of Chaplains does not approve this recommendation or issue other appropriate disposal instructions within a period of 60 days, DAEN-REM will be informed.

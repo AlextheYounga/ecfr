@@ -1,0 +1,5 @@
+##### § 159.007-7 Application for acceptance for production inspections and tests: Coast Guard action. #####
+
+(a) From the information submitted with the application, the Commandant determines whether or not the laboratory is accepted for production inspections and tests. The Commandant informs the manufacturer of the results of this determination, if the Commandant does not accept a laboratory, the reason for the disapproval will be given.
+
+(b) From the description of the laboratory's procedures for production inspections and tests, the Commandant determines whether or not those procedures are accepted. The Commandant informs the manufacturer of the results of this determination. If the Commandant does not accept the laboratory's procedures, the reasons why they are not accepted will be given.

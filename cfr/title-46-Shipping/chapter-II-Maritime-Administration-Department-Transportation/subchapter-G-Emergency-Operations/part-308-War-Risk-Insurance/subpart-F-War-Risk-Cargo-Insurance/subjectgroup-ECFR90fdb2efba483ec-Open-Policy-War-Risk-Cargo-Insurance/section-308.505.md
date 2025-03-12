@@ -1,0 +1,3 @@
+##### § 308.505 General. #####
+
+The Maritime Administrator is prepared to provide an open cargo war risk insurance policy covering any cargoes described in § 308.501. The policy will be in the standard form of War Risk Open Cargo Policy, Form MA-300, prescribed in § 308.517. All policies will be issued by underwriting agents appointed by the Maritime Administrator. All underwriting agents will be domestic insurance companies authorized to do a marine insurance business in a State of the United States.

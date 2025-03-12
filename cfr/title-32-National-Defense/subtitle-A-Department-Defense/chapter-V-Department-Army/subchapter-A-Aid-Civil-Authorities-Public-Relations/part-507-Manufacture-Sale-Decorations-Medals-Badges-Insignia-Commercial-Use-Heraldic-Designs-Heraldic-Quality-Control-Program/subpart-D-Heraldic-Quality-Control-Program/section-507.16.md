@@ -1,0 +1,3 @@
+##### § 507.16 Violations and penalties. #####
+
+A certificate of authority to manufacture will be revoked by TIOH upon intentional violation by the holder thereof of any of the provisions of this part, or as a result of not complying with the agreement signed by the manufacturer in order to receive a certificate. Such violations are also subject to penalties prescribed in the Acts of Congress (§ 507.5 of this part). A repetition or continuation of violations after official notice thereof will be deemed prima facie evidence of intentional violation.

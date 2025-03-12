@@ -1,0 +1,117 @@
+##### § 305.15 Labeling for lighting products. #####
+
+Link to an amendment published at 80 FR 67299, Nov. 2, 2015.
+
+(a) *Fluorescent lamp ballasts and luminaires* - (1) *Contents.* Fluorescent lamp ballasts that are “covered products,” as defined in § 305.2(n), and to which standards are applicable under section 325 of the Act, shall be marked conspicuously, in color-contrasting ink, with a capital letter “E” printed within a circle. Packaging for such fluorescent lamp ballasts, as well as packaging for luminaires into which they are incorporated, shall also be marked conspicuously with a capital letter “E” printed within a circle. For purposes of this section, the encircled capital letter “E” will be deemed “conspicuous,” in terms of size, if it is as large as either the manufacturer's name or another logo, such as the “UL,” “CBM” or “ETL” logos, whichever is larger, that appears on the fluorescent lamp ballast, the packaging for such ballast or the packaging for the luminaire into which the covered ballast is incorporated, whichever is applicable for purpose of labeling.
+
+(2) *Product labeling.* The encircled capital letter “E” on fluorescent lamp ballasts must appear conspicuously, in color-contrasting ink, (i.e., in a color that contrasts with the background on which the encircled capital letter “E” is placed) on the surface that is normally labeled. It may be printed on the label that normally appears on the fluorescent lamp ballast, printed on a separate label, or stamped indelibly on the surface of the fluorescent lamp ballast.
+
+(3) *Package labeling.* For purposes of labeling under this section, packaging for such fluorescent lamp ballasts and the luminaires into which they are incorporated consists of the plastic sheeting, or “shrink-wrap,” covering pallet loads of fluorescent lamp ballasts or luminaires as well as any containers in which such fluorescent lamp ballasts or the luminaires into which they are incorporated are marketed individually or in small numbers. The encircled capital letter “E” on packages containing fluorescent lamp ballasts or the luminaires into which they are incorporated must appear conspicuously, in color-contrasting ink, on the surface of the package on which printing or a label normally appears. If the package contains printing on more than one surface, the label must appear on the surface on which the product inside the package is described. The encircled capital letter “E” may be printed on the surface of the package, printed on a label containing other information, printed on a separate label, or indelibly stamped on the surface of the package. In the case of pallet loads containing fluorescent lamp ballasts or the luminaires into which they are incorporated, the encircled capital letter “E” must appear conspicuously, in color-contrasting ink, on the plastic sheeting, unless clear plastic sheeting is used and the encircled capital letter “E” is legible underneath this packaging. The encircled capital letter “E” must also appear conspicuously on any documentation that would normally accompany such a pallet load. The encircled capital letter “E” may appear on a label affixed to the sheeting or may be indelibly stamped on the sheeting. It may be printed on the documentation, printed on a separate label that is affixed to the documentation or indelibly stamped on the documentation.
+
+(b) *General service lamps.* Except as provided in paragraph (c) of this section, any covered product that is a general service lamp shall be labeled as follows:
+
+(1) *Principal display panel content.* The principal display panel of the product package shall be labeled clearly and conspicuously with the following information:
+
+(i) The light output of each lamp included in the package, expressed as “Brightness” in average initial lumens rounded to the nearest five; and
+
+(ii) The estimated annual energy cost of each lamp included in the package, expressed as “Estimated Energy Cost” in dollars and based on usage of 3 hours per day and 11 cents ($0.11) per kWh.
+
+(2) *Principal display panel format.* The light output (brightness) and energy cost shall appear in that order and with equal clarity and conspicuousness on the principal display panel of the product package. The format, terms, specifications, and minimum sizes shall follow the specifications and minimum sizes displayed in Prototype Label 5 in appendix L.
+
+(3) *Lighting Facts label content.* The side or rear display panel of the product package shall be labeled clearly and conspicuously with a Lighting Facts label that contains the following information in the following order:
+
+(i) The light output of each lamp included in the package, expressed as “Brightness” in average initial lumens rounded to the nearest five;
+
+(ii) The estimated annual energy cost of each lamp included in the package based on the average initial wattage, a usage rate of 3 hours per day and 11 cents ($0.11) per kWh and explanatory text as illustrated in Prototype Label 6 in Appendix L;
+
+(iii) The life, as defined in § 305.2(w), of each lamp included in the package, expressed in years rounded to the nearest tenth (based on 3 hours operation per day);
+
+(iv) The correlated color temperature of each lamp included in the package, as measured in degrees Kelvin and expressed as “Light Appearance” and by a number and a marker in the form of a scale as illustrated in Prototype Label 6 to appendix L placed proportionately on the scale where the left end equals 2,600 K and the right end equals 6,600 K;
+
+(v) The wattage, as defined in § 305.2(hh), for each lamp included in the package, expressed as energy used in average initial wattage;
+
+(vi) The ENERGY STAR logo as illustrated in Prototype Label 6 to appendix L for certified products, if desired by the manufacturer or private labeler. Only manufacturers or private labelers that have signed a Memorandum of Understanding with the Department of Energy or the Environmental Protection Agency may add the ENERGY STAR logo to labels on certified covered products; such manufacturers or private labelers may add the ENERGY STAR logo to labels only on those products that are covered by the Memorandum of Understanding;
+
+(vii) The design voltage of each lamp included in the package, if other than 120 volts;
+
+(viii) For any general service lamp containing mercury, the following statement:
+
+“Contains Mercury For more on clean up and safe disposal, visit epa.gov/cfl.”
+
+The manufacturer may also print an “Hg[Encircled]” symbol on the label after the term “Contains Mercury”; and
+
+(ix) No marks or information other than that specified in this part shall appear on the Lighting Facts label.
+
+(4) *Standard Lighting Facts label format:* Except as provided in paragraph (b)(5) of this section, information specified in paragraph (b)(3) of this section shall be presented on covered lamp packages in the format, terms, explanatory text, specifications, and minimum sizes as shown in Prototype Labels 6 in appendix L and consistent in format and orientation with Sample Labels 10, 11, or 12 in appendix L. The text and lines shall be all black or one color type, printed on a white or other neutral contrasting background whenever practical.
+
+(i) The Lighting Facts information shall be set off in a box by use of hairlines and shall be all black or one color type, printed on a white or other neutral contrasting background whenever practical.
+
+(ii) All information within the Lighting Facts label shall utilize:
+
+(A) Arial or an equivalent type style;
+
+(B) Upper and lower case letters;
+
+(C) Leading as indicated in Prototype Label 6 in appendix L;
+
+(D) Letters that never touch;
+
+(E) The box and hairlines separating information as illustrated in Prototype Labels 6 in appendix L; and
+
+(F) The minimum font sizes and line thicknesses as illustrated in Prototype Label 6 in appendix L.
+
+(5) *Lighting Facts format for small packages.* If the total surface area of the product package available for labeling is less than 24 square inches and the package shape or size cannot accommodate the standard label required by paragraph (b)(4) of this section, manufacturers may provide the information specified in paragraph (b)(3) of this section using a smaller, linear label following the format, terms, explanatory text, specifications, and minimum sizes illustrated in Prototype Label 7 in appendix L.
+
+(6) *Bilingual labels.* The information required by paragraphs (b)(1) through (5) of this section may be presented in a second language either by using separate labels for each language or in a bilingual label with the English text in the format required by this section immediately followed by the text in the second language. Sample Label 13 in appendix L provides an example of a bilingual Lighting Facts label. All required information must be included in both languages. Numeric characters that are identical in both languages need not be repeated.
+
+(7) *Product Labeling.* Any general service lamp shall be labeled legibly on the product with the following information:
+
+(i) The lamp's average initial lumens, expressed as a number rounded to the nearest five, adjacent to the word “lumens,” both provided in minimum 8 point font; and
+
+(ii) For general service lamps containing mercury, the following statement: “Mercury disposal: epa.gov/cfl” in minimum 8 point font.
+
+(c)(1) Any covered incandescent lamp that is subject to and does not comply with the January 1, 2012 or January 1, 2013 efficiency standards specified in 42 U.S.C. 6295 or the DOE standards at 10 CFR 430.32(n)(5) effective July 14, 2012 shall be labeled clearly and conspicuously on the principal display panel of the product package with the following information in lieu of the labeling requirements specified in paragraph (b):
+
+(2) The light output, energy usage and life ratings of any product covered by paragraph (c)(1) of this section shall appear in that order and with equal clarity and conspicuousness on the product's principal display panel. The light output, energy usage and life ratings shall be disclosed in terms of “lumens,” “watts,” and “hours” respectively, with the lumens, watts, and hours rating numbers each appearing in the same type style and size and with the words “lumens,” “watts,” and “hours” each appearing in the same type style and size. The words “light output,” “energy used,” and “life” shall precede and have the same conspicuousness as both the rating numbers and the words “lumens,” “watts,” and “hours,” except that the letters of the words “lumens,” “watts,” and “hours” shall be approximately 50% of the sizes of those used for the words “light output,” “energy used,” and “life,” respectively.
+
+(d)(1) The required disclosures of any covered product that is a general service lamp shall be measured at 120 volts, regardless of the lamp's design voltage. If a lamp's design voltage is 125 volts or 130 volts, the disclosures of the wattage, light output, energy cost, and life ratings shall in each instance be:
+
+(i) At 120 volts and followed by the phrase “at 120 volts.” In such case, the labels for such lamps also may disclose the lamp's wattage, light output, energy cost, and life at the design voltage (*e.g.*, “Light Output 1710 Lumens at 125 volts”); or
+
+(ii) At the design voltage and followed by the phrase “at (125 volts/130 volts)” if the ratings at 120 volts are disclosed clearly and conspicuously on another panel of the package, and if all panels of the package that contain a claimed light output, energy cost, wattage or lifeclearly and conspicuously identify the lamp as “(125 volt/130 volt),” and if the principal display panel clearly and conspicuously discloses the following statement:
+
+This product is designed for (125/130) volts. When used on the normal line voltage of 120 volts, the light output and energy efficiency are noticeably reduced. See (side/back) panel for 120 volt ratings.
+
+(2) For any covered product that is an incandescent reflector lamp, the required disclosures of light output shall be given for the lamp's total forward lumens.
+
+(3) For any covered product that is a compact fluorescent lamp, the required light output disclosure shall be measured at a base-up position; but, if the manufacturer or private labeler has reason to believe that the light output at a base-down position would be more than 5% different, the label also shall disclose the light output at the base-down position or, if no test data for the base-down position exist, the fact that at a base-down position the light output might be more than 5% less.
+
+(4) For any covered product that is a general service lamp and operates at discrete, multiple light levels (e.g., 800, 1600, and 2500 lumens), the light output, energy cost, and wattage disclosures required by this section must be provided at each of the lamp's levels of light output and the lamp's life provided on the basis of the shortest lived operating mode. The multiple numbers shall be separated by a “/” (e.g., 800/1600/2500 lumens) if they appear on the same line on the label.
+
+(5) A manufacturer or private labeler who distributes general service fluorescent lamps or general service lamps without labels attached to the lamps or without labels on individual retail-sale packaging for one or more lamps may meet the package disclosure requirements of this section by making the required disclosures, in the manner and form required by those paragraphs, on the bulk shipping cartons that are to be used to display the lamps for retail sale.
+
+(6) Any manufacturer or private labeler who makes any representation, other than those required by this section, on a package of any covered product that is a general service fluorescent lamp or general service lamp regarding the cost of operation or life of such lamp shall clearly and conspicuously disclose in close proximity to such representation the assumptions upon which it is based, including, *e.g.*, purchase price, unit cost of electricity, hours of use, patterns of use. If those assumptions differ from those required for the cost and life information on the Lighting Facts label (11 cents per kWh and 3 hours per day), the manufacturer or private labeler must also disclose, with equal clarity and conspicuousness and in close proximity to, the same representation based on the assumptions for cost and life required on the Lighting Facts label.
+
+(e)(1) Any covered product that is a general service fluorescent lamp or an incandescent reflector lamp shall be labeled clearly and conspicuously with a capital letter “E” printed within a circle and followed by an asterisk. The label shall also clearly and conspicuously disclose, either in close proximity to that asterisk or elsewhere on the label, the following statement:
+
+\*[The encircled “E”] means this bulb meets Federal minimum efficiency standards.
+
+(i) If the statement is not disclosed on the principal display panel, the asterisk shall be followed by the following statement:
+
+See [Back,Top, Side] panel for details.
+
+(ii) For purposes of this paragraph, the encircled capital letter “E” shall be clearly and conspicuously disclosed in color-contrasting ink on the label of any covered product that is a general service fluorescent lamp and will be deemed “conspicuous,” in terms of size, if it appears in typeface at least as large as either the manufacturer's name or logo or another logo disclosed on the label, such as the “UL” or “ETL” logos, whichever is larger.
+
+(2) Instead of labeling any covered product that is a general service fluorescent lamp with the encircled “E” and with the statement described in paragraph (e)(1) of this section, a manufacturer or private labeler who would not otherwise put a label on such a lamp may meet the disclosure requirements of that paragraph by permanently marking the lamp clearly and conspicuously with the encircled “E.”
+
+(3) Any cartons in which any covered products that are general service fluorescent lamps and general service lamps are shipped within the United States or imported into the United States shall disclose clearly and conspicuously the following statement:
+
+These lamps comply with Federal energy efficiency labeling requirements.
+
+(f) *Metal halide lamp fixtures and metal halide ballasts* - (1) *Contents.* Metal halide ballasts contained in a metal halide lamp fixture covered by this Part shall be marked conspicuously, in color-contrasting ink, with a capital letter “E” printed within a circle. Packaging for metal halide lamp fixtures covered by this part shall also be marked conspicuously with a capital letter “E” printed within a circle. For purposes of this section, the encircled capital letter “E” will be deemed “conspicuous,” in terms of size, if it is as large as either the manufacturer's name or another logo, such as the “UL,” “CBM” or “ETL” logos, whichever is larger, that appears on the metal halide ballast, or the packaging for the metal halide lamp fixture, whichever is applicable for purposes of labeling.
+
+(2) *Product labeling.* The encircled capital letter “E” on metal halide ballasts must appear conspicuously, in color-contrasting ink (i.e., in a color that contrasts with the background on which the encircled capital letter “E” is placed) on the surface that is normally labeled. It may be printed on the label that normally appears on the metal halide ballast, printed on a separate label, or stamped indelibly on the surface of the metal halide ballast.
+
+(3) *Package labeling.* For purposes of labeling under this section, packaging for metal halide lamp fixtures consists of the plastic sheeting, or “shrink-wrap,” covering pallet loads of metal halide lamp fixtures as well as any containers in which such metal halide lamp fixtures are marketed individually or in small numbers. The encircled capital letter “E” on packages containing metal halide lamp fixtures must appear conspicuously, in color-contrasting ink, on the surface of the package on which printing or a label normally appears. If the package contains printing on more than one surface, the label must appear on the surface on which the product inside the package is described. The encircled capital letter “E” may be printed on the surface of the package, printed on a label containing other information, printed on a separate label, or indelibly stamped on the surface of the package. In the case of pallet loads containing metal halide lamp fixtures, the encircled capital letter “E” must appear conspicuously, in color-contrasting ink, on the plastic sheeting, unless clear plastic sheeting is used and the encircled capital letter “E” is legible underneath this packaging.
+
+[72 FR 49971, Aug. 29, 2007, as amended at 73 FR 63068, Oct. 23, 2008; 75 FR 41714, July 19, 2010; 76 FR 20236, Apr. 12, 2011; 78 FR 2209, Jan. 10, 2013]

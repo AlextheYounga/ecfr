@@ -1,0 +1,3 @@
+##### § 1507.1 Scope. #####
+
+This part 1507 prescribes requirements for those fireworks devices (other than firecrackers) not otherwise banned under the act. Any fireworks device (other than firecrackers) which fails to conform to applicable requirements is a banned hazardous substance and is prohibited from the channels of interstate commerce. Any fireworks device not otherwise banned under the act shall not be a banned hazardous substance by virtue of the fact that there are no applicable requirements prescribed herein.

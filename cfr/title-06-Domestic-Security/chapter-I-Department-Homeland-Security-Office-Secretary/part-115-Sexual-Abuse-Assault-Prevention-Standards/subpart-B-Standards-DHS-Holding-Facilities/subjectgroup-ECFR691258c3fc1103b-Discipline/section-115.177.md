@@ -1,0 +1,5 @@
+##### § 115.177 Corrective action for contractors and volunteers. #####
+
+(a) Any contractor or volunteer suspected of perpetrating sexual abuse shall be prohibited from contact with detainees. The agency shall also consider whether to prohibit further contact with detainees by contractors or volunteers who have not engaged in sexual abuse, but have violated other provisions within these standards. The agency shall be responsible for promptly reporting sexual abuse allegations and incidents involving alleged contractor or volunteer perpetrators to an appropriate law enforcement agency as well as to the Joint Intake Center or another appropriate DHS investigative office in accordance with DHS policies and procedures. The agency shall make reasonable efforts to report to any relevant licensing body, to the extent known, incidents of substantiated sexual abuse by a contractor or volunteer.
+
+(b) Contractors and volunteers suspected of perpetrating sexual abuse may be removed from all duties requiring detainee contact pending the outcome of an investigation, as appropriate.

@@ -1,0 +1,5 @@
+##### § 160.058-4 Inspections. #####
+
+(a) Desalter kits specified by this subpart are not inspected at regularly scheduled factory inspections; however, the Commander of the Coast Guard District in which the desalter kits are manufactured may detail a marine inspector at any time to visit places where desalter kits are manufactured to check materials and construction methods and to satisfy himself that the desalter kits are being manufactured in compliance with the requirements of the specification listed in § 160.058-1(a)(1) as modified by this specification and are suitable for the intended purpose. The manufacturer shall admit the marine inspector to his plant and shall provide a suitable place and the necessary apparatus for the use of the marine inspector in conducting tests at the place of manufacture.
+
+(b) [Reserved]

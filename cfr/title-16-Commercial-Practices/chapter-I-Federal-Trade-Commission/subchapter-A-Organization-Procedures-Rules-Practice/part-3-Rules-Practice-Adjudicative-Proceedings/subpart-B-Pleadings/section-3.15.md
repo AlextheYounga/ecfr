@@ -1,0 +1,7 @@
+##### § 3.15 Amendments and supplemental pleadings. #####
+
+(a) *Amendments*—(1) *By leave.* If and whenever determination of a controversy on the merits will be facilitated thereby, the Administrative Law Judge may, upon such conditions as are necessary to avoid prejudicing the public interest and the rights of the parties, allow appropriate amendments to pleadings or notice of hearing: *Provided, however,* That a motion for amendment of a complaint or notice may be allowed by the Administrative Law Judge only if the amendment is reasonably within the scope of the original complaint or notice. Motions for other amendments of complaints or notices shall be certified to the Commission.
+
+(2) *Conformance to evidence.* When issues not raised by the pleadings or notice of hearing but reasonably within the scope of the original complaint or notice of hearing are tried by express or implied consent of the parties, they shall be treated in all respects as if they had been raised in the pleadings or notice of hearing; and such amendments of the pleadings or notice as may be necessary to make them conform to the evidence and to raise such issues shall be allowed at any time.
+
+(b) *Supplemental pleadings.* The Administrative Law Judge may, upon reasonable notice and such terms as are just, permit service of a supplemental pleading or notice setting forth transactions, occurrences, or events which have happened since the date of the pleading or notice sought to be supplemented and which are relevant to any of the issues involved.

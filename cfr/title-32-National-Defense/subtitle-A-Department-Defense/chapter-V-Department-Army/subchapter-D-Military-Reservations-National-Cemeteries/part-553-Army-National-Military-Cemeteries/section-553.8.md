@@ -1,0 +1,5 @@
+##### § 553.8 Permission to install utilities. #####
+
+(a) The installation of utilities in Army National Military Cemeteries, including but not limited to, telephone and fiber optic lines, electric lines, natural gas lines, water pipes, storm drains, and sanitary sewers, must be authorized by the Executive Director.
+
+(b) Requests for licenses, permits, or easements to install water, gas, or sewer lines, or other utilities or equipment on or across an Army National Military Cemetery or an approach road in which the Government has a right-of-way, fee simple title, or other interest, must be sent to the Executive Director, who will process the request in accordance with Army policy. Requests must include a complete description of the type of license, permit, or easement desired and a map showing the location of the project.

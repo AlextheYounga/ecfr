@@ -1,0 +1,3 @@
+##### § 228.12 Physical protection of facilities. #####
+
+The willful destruction of, or damage to any protected property, or any buildings or personal property thereon, is prohibited. The theft of any personal property, the creation of any hazard on protected property to persons or things, and the throwing of articles of any kind at buildings or persons on protected property is prohibited. The improper disposal of trash or rubbish, or any unauthorized or hazardous materials on protected property is also prohibited.

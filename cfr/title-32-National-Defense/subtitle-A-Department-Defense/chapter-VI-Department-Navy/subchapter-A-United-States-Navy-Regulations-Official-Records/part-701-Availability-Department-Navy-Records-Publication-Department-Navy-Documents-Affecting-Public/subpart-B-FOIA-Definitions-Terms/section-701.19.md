@@ -1,0 +1,3 @@
+##### § 701.19 Appellate authority. #####
+
+SECNAV has delegated the OGC and JAG to review administrative appeals of denials of FOIA requests on his behalf and prepare agency paperwork for use by the DOJ in defending a FOIA lawsuit. JAG is further authorized to delegate this authority to a designated Assistant JAG. The authority of OGC is further delegated to the Principal Deputy General Counsel, the Deputy General Counsel, and the Associate General Counsel (Management).

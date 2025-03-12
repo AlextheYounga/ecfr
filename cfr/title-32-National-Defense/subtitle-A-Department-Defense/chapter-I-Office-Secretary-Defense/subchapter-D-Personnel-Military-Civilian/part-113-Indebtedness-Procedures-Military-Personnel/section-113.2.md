@@ -1,0 +1,3 @@
+##### § 113.2 Applicability. #####
+
+This part applies to the Office of the Secretary of Defense, the Military Departments (including the Coast Guard when it is not operating as a Military Service in the Navy by agreement with the Department of Transportation), the Chairman of the Joint Chiefs of Staff, the Unified Combatant Commands, the Inspector General of the Department of Defense, the Defense Agencies, and the DoD Field Activities (hereafter referred to collectively as “the DoD Components”). The term “Military Services,” as used herein, refers to the Army, the Navy, the Air Force, the Marine Corps, and the Coast Guard.

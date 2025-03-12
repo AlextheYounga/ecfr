@@ -1,0 +1,5 @@
+##### § 201.138 Unsponsored written material. #####
+
+(a) *Material that may be deemed evidence.* Where a formal hearing is held, a party shall be afforded an opportunity to participate through submission of relevant, material, reliable and probative written evidence including official notice matters covered in § 201.132(g): *Provided,* That such evidence submitted by persons not present at the hearing will not be made a part of the record if opposed to by any party for good cause shown.
+
+(b) *Material that may not be deemed evidence.* Letters expressing views or urging action and other unsponsored written material in respect of matters embraced in, or related to, a formal hearing will be placed in the correspondence section of the docket of the proceeding. These data are not to be deemed part of the evidence or part of the record in the material unless sponsored at the public hearing by an authenticating and supporting witness.

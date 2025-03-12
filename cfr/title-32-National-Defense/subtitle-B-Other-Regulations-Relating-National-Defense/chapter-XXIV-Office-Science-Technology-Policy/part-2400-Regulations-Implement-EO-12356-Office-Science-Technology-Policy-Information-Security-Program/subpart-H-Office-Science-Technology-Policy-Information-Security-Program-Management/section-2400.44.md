@@ -1,0 +1,3 @@
+##### § 2400.44 Custodians. #####
+
+Custodians of classified material shall be responsible for providing protection and accountability for such material at all times and particularly for locking classified material in approved security equipment whenever it is not in use or under direct supervision of authorized persons. Custodians shall follow procedures which insure that unauthorized persons do not gain access to classified information or material by sight or sound, and classified information shall not be discussed with or in the presence of unauthorized persons.

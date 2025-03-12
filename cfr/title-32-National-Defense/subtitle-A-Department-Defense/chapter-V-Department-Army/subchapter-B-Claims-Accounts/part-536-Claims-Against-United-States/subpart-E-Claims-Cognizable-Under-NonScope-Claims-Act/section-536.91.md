@@ -1,0 +1,7 @@
+##### § 536.91 Scope for claims under the Non-Scope Claims Act. #####
+
+(a) This subpart applies worldwide and prescribes the substantive bases and special procedural requirements for the administrative settlement and payment of not more than $1,000 for any claim against the United States for personal injury, death or damage to, or loss of, property caused by military personnel or civilian employees, incident to the use of a U.S. vehicle at any location, or incident to the use of other U.S. property on a government installation, which claim is not cognizable under any other provision of law.
+
+(b) For the purposes of this subpart, a “government installation” is a facility having fixed boundaries owned or controlled by the government, and a “vehicle” includes every description of carriage or other artificial contrivance used, or capable of being used, as means of transportation on land (1 U.S.C. 4).
+
+(c) Any claim in which there appears to be a dispute about whether the employee was acting within the scope of employment will be considered under subparts C, D, or F of this part. Only when all parties, including an insurer, agree that there is no “in scope” issue will the claim be considered under this subpart.

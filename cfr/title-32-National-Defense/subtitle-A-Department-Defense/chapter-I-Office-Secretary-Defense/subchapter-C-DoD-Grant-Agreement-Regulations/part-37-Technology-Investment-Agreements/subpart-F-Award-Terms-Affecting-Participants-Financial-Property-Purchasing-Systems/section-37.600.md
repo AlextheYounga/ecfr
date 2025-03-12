@@ -1,0 +1,3 @@
+##### § 37.600 Which administrative matters are covered in this subpart? #####
+
+This subpart addresses “systemic” administrative matters that place requirements on the operation of a participant's financial management, property management, or purchasing system. Each participant's systems are organization-wide and do not vary with each agreement. Therefore, all TIAs should address systemic requirements in a uniform way for each type of participant organization.

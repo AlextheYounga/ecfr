@@ -1,0 +1,3 @@
+##### § 1701.13 Special procedures for medical/psychiatric/psychological records. #####
+
+Current and former ODNI employees, including current and former employees of ODNI contractors, and unsuccessful applicants for employment may seek access to their medical, psychiatric or psychological testing records by writing to: Information and Privacy Coordinator, Central Intelligence Agency, Washington, DC 20505, and provide identifying information as required by paragraphs (d) and (e) of § 1701.7 of this subpart. The Central Intelligence Agency's Privacy Act Regulations will govern administration of these types of records, including appeals from adverse determinations.

@@ -1,0 +1,5 @@
+##### § 637.9 Access to U.S. Army facilities and records. #####
+
+(a) MPI and DAC detectives/investigators will be granted access to all U.S. Army facilities, records or information when necessary for an ongoing investigation, consistent with the investigator's clearance for access to classified national defense information, the requirements of medical confidentiality, and the provisions of applicable regulations.
+
+(b) Upon presentation of proper identification when conducting an official investigation, MPI and DAC detectives/investigators will be authorized access to information contained in medical records and may request extracts or transcripts. Medical records will remain under the control of the records custodian who will make them available for courts-martial or other legal proceedings. Procedures for obtaining information from medical records are contained in AR 40-66.

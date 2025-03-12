@@ -1,0 +1,5 @@
+##### § 381.5 Fix American-flag tonnage first. #####
+
+Each department or agency having responsibility under the Cargo Preference Act of 1954 shall cause each full shipload of cargo subject to said act to be fixed on U.S.-flag vessels prior to any fixture on foreign-flag vessels for at least that portion of all preference cargoes required by that Act and the Food Security Act of 1985 to be shipped on U.S.-flag vessels, computed by purchase authorization or other quantitative unit satisfactory to the agency involved and the Maritime Administration, except where such department or agency determines, with the concurrence of the Maritime Administration, that (a) U.S.-flag vessels are not available at fair and reasonable rates for U.S.-flag commercial vessels, or (b) that there is a substantially valid reason for fixing foreign-flag vessels first.
+
+[G.O. 103, Amdt. 2, 36 FR 19254, Oct. 1, 1971, as amended at 57 FR 13047, Apr. 15, 1992]

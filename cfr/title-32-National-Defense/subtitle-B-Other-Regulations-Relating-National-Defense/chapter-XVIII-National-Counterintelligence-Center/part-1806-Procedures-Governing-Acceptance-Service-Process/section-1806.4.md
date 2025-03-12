@@ -1,0 +1,3 @@
+##### § 1806.4 Notification to NACIC Counsel. #####
+
+A NACIC employee who receives or has reason to expect to receive service of process in an individual, official, or combined individual and official capacity, in a matter that may involve or the furnishing of documents and that could reasonably be expected to involve NACIC interests, shall promptly notify the NACIC Counsel. Such notification should be given prior to providing the requestor, personal counsel or any other representative, any NACIC information and prior to the acceptance of service of process.

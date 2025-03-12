@@ -1,0 +1,37 @@
+##### § 2001.34 Referrals. #####
+
+(a) *General.* Referrals are required under sections 3.3(d)(3) and 3.6(b) of the Order in order to ensure the timely, efficient, and effective processing of reviews and requests and in order to protect classified information from inadvertent disclosure.
+
+(b) *Automatic declassification.* The referral process for records subject to automatic declassification entails identification of records containing classified information that originated with other agencies or the disclosure of which would affect the interests or activities of other agencies. Those records that could reasonably be expected to fall under one or more of the exemptions in section 3.3(b) of the Order are eligible for referral. The referral process also entails formal notification to those agencies, making the records available for review by those agencies, and recording final agency determinations.
+
+(1) In accordance with section 3.3(d)(3) of the Order, the identification of records eligible for referral is the responsibility of the primary reviewing agency and shall be completed prior to the date of automatic declassification established by section 3.3(a) of the Order.
+
+(2) Except as otherwise determined by the Director of the NDC, primary reviewing agencies shall utilize the Standard Form 715, *Government Declassification Review Tab,* to tab and identify any Federal record requiring referral and record the referral in a manner that provides the referral information in an NDC database system.
+
+(3) Notification of referral of records accessioned into NARA or in the custody of the presidential libraries, and making the records available for review, is the responsibility of NARA and shall be accomplished through the NDC.
+
+(4) Within 180 days of the effective date of this provision, the NDC shall develop and provide the affected agencies with a comprehensive and prioritized schedule for the resolution of referrals contained in accessioned Federal records and Presidential records. The schedule shall be developed in consultation with the affected agencies, consider the public interest in the records, and be in accordance with the authorized delays to automatic declassification set forth in section 3.3(d) of the Order. The initial schedule shall cover the balance of the first effective fiscal year and four subsequent fiscal years. Thereafter, the schedule shall cover five fiscal years. The NDC shall consult with the affected agencies and update and provide such schedules annually.
+
+(5) The NDC shall provide formal notification of the availability of a referral to the receiving agency and records will be subject to automatic declassification in accordance with the schedule promulgated by the NDC in paragraph (b)(4) of this section, unless the information has been properly exempted by an equity holding agency under section 3.3 of the Order.
+
+(6) Records in the physical but not legal custody of NARA shall be subject to automatic declassification after accessioning and in accordance with paragraphs (b)(3) and (b)(5) of this section.
+
+(7) Agencies that establish a centralized facility as described in section 3.7(e) may make direct referrals provided such activities fall within the priorities and schedule established by the NDC and the activity is otherwise coordinated with the NDC. In such cases, the centralized facility is responsible for providing formal notification of a referral to receiving agencies and for making the records available for review or direct formal referral to agencies by providing a copy of the records unless another mechanism is identified in coordination with the NDC. As established in section 3.3(d)(3)(B), referrals to agencies from a centralized agency records facility as described in section 3.7(e) of the Order will be automatically declassified up to three years after the formal notification has been made, if the receiving agency fails to provide a final determination.
+
+(8) Records marked as containing Restricted Data or Formerly Restricted Data or identified as potentially containing unmarked Restricted Data or Formerly Restricted Data shall be referred to the Department of Energy through the NDC. If the Department of Energy confirms that the document contains Restricted Data or Formerly Restricted Data, it shall then be excluded from the automatic declassification provisions of the Order until the Restricted Data or Formerly Restricted Data designation is properly removed.
+
+(i) When the Department of Energy provides notification that a Restricted Data or Formerly Restricted Data designation is not appropriate or when it is properly removed, the record shall be processed for automatic declassification through the NDC.
+
+(ii) In all cases, should the record be the subject of an access demand made pursuant to the Order or provision of law, the information classified pursuant to Executive order (rather than the Atomic Energy Act, as amended) must stand on its own merits.
+
+(9) The NDC, as well as any centralized agency facility established under section 3.7(e) of the Order, shall track and document referral actions and decisions in a manner that facilitates archival processing for public access. Central agency facilities must work with the NDC to ensure documentation meets NDC requirements, and transfer all documentation on pending referral actions and referral decisions to the NDC when transferring the records to NARA.
+
+(10) In all cases, receiving agencies shall acknowledge receipt of formal referral notifications in a timely manner. If a disagreement arises concerning referral notifications, the Director of ISOO will determine the automatic declassification date and notify the senior agency official, as well as the NDC or the primary reviewing agency.
+
+(11) *Remote Archives Capture (RAC).* Presidential records or materials scanned in the RAC process shall be prioritized and scheduled for review by the NDC. The initial notification shall be made to the agency with primary equity, which shall have up to one year to act on its information and to identify all other equities eligible for referral. All such additional referrals in an individual record shall be made at the same time, and once notified by the NDC of an eligible referral, such receiving agencies shall have up to one year to review the records before the onset of automatic declassification.
+
+(c) *Agencies eligible to receive referrals.* The Director of ISOO will publish annually a list of those agencies eligible to receive referrals for each calendar year.
+
+(d) *Systematic declassification review.* The identification of equities shall be accomplished in accordance with paragraph (b) of this section. Priorities for review will be established by the NDC.
+
+(e) *Identification of interests other than national security.* Referrals under sections 3.3(d)(3) and 3.6(b) of the Order shall be assumed to be intended for later public release unless withholding is otherwise authorized and warranted under applicable law. If a receiving agency proposes to withhold any such information, it must notify the referring agency at the time they otherwise respond to the referral. Such notification shall identify the specific information at issue and the pertinent law.

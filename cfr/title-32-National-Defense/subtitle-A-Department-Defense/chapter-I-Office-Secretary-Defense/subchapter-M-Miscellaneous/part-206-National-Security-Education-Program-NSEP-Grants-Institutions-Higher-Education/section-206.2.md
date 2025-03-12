@@ -1,0 +1,3 @@
+##### § 206.2 Eligibility. #####
+
+Any accredited U.S. institution of higher education, as defined by section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a)), may apply for and receive a grant. This includes 2- and 4-year colleges and universities, both public and private. Other organizations, associations, and agencies may be included in proposals but may not be direct recipients of a grant. Foreign institutions may also be included in a proposal but may not be direct recipients of a grant. Only U.S. citizens and U.S. institutions may receive funds through a grant awarded by the NSEP.

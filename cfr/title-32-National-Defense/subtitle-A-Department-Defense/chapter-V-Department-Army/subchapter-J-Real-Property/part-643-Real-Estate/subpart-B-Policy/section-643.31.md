@@ -1,0 +1,3 @@
+##### § 643.31 Policy - Flood hazards. #####
+
+Each Determination of Availability Report will include an evaluation of the flood hazards, if any, relative to the property involved in the proposed outgrant action, pursuant to the provisions of Executive Order 11296, August 10, 1966. DA will not authorize the use of lands in flood plains for habitation purposes or any other use which may be uneconomical, hazardous, or unnecessary.

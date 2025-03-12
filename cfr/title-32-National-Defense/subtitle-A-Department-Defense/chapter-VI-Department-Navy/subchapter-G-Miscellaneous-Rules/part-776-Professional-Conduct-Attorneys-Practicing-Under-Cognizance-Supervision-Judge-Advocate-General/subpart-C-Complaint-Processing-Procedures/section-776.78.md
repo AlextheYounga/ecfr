@@ -1,0 +1,3 @@
+##### § 776.78 Informal complaints. #####
+
+Informal, anonymous, or “hot line” type complaints alleging professional misconduct must be referred to the appropriate authority (such as the JAG Inspector General or the concerned supervisory attorney) for inquiry. Such complaints are not, by themselves, cognizable under this subpart but may, if reasonably confirmed, be the basis of a formal complaint described in § 776.79 of this part.

@@ -1,0 +1,3 @@
+##### § 274.4 U.S. guaranty. #####
+
+Under section 24 of the Foreign Military Sales Act (22 U.S.C. 2764), any individual, corporation, partnership, or other juridical entity (excluding U.S. Government agencies) will be guaranteed against political and credit risks of nonpayment arising out of their financing of credit sales of defense articles and defense services to friendly countries and international organizations. Section 24 explicitly provides that guarantees thereunder are backed by the full faith and credit of the United States. Fees in the amount of one-fourth of 1 percent of the amount of credits agreed upon shall be charged for such guaranties.

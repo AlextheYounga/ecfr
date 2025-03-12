@@ -1,0 +1,3 @@
+##### § 746.10 Reports. #####
+
+A license shall require the licensee to submit periodic reports on his efforts to achieve practical application of the invention. The reports shall contain information within his knowledge, or which he may acquire under normal business practices, pertaining to the commercial use being made of the invention, and other information which the Chief of Naval Research may determine is pertinent to its licensing activities and is specified in the license.

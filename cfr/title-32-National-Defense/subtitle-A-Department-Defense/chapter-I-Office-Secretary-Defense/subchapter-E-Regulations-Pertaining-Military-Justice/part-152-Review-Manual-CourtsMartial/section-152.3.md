@@ -1,0 +1,3 @@
+##### § 152.3 Policy. #####
+
+To assist the President in fulfilling his responsibilities under the UCMJ, and to satisfy the requirements of Executive Order 12473, the Department of Defense shall review the Manual for Courts-Martial annually, and, as appropriate, propose legislation amending the UCMJ to ensure that the MCM and the UCMJ fulfill their fundamental purpose as a comprehensive body of military criminal law and procedure. The role of the JSC furthers these responsibilities. Under the direction of the General Counsel of the Department of Defense, the JSC is responsible for reviewing the MCM and proposing amendments to it and, as necessary, to the UCMJ.

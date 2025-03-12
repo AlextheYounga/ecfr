@@ -1,0 +1,7 @@
+##### § 644.535 Support in clearance of Air Force lands. #####
+
+Where Air Force range lands are proposed for disposal, the AFLC, in most cases, will make an economic study to determine the extent of clearance that is justified by the relative values of the property before and after decontamination. For this purpose, AF commands declaring range lands excess will submit a copy of the excess recommendation to the AFLC. Upon request, the DE will prepare and furnish a disposal planning report to the AF Logistics Command for assistance in making the economic study. The disposal planning report will include, but need not be limited to, the following:
+
+(a) A map which depicts and annotates differing areas according to their estimated highest and best use.
+
+(b) An appraisal report reflecting the fair market value of each of the differing areas based on their highest and best use, and based on the assumption that the lands are entirely free of dangerous materials or other contamination. AFLC will compare such evaluation with cost of decontamination work. While needed primarily in connection with the return of AF range lands to the public domain, economic studies may be made and disposal planning reports requested by the AF in other areas.

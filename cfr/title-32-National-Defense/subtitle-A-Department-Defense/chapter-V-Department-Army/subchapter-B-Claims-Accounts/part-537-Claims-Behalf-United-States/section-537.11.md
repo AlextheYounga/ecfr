@@ -1,0 +1,7 @@
+##### § 537.11 Litigation. #####
+
+(a) If a tortfeasor or insurer refuses to settle, or if an injured party's attorney improperly withholds funds, the RJA or recovery attorney must consider litigation to protect the interests of the United States. Litigation is particularly appropriate if a particular insurer consistently refuses to settle claims, or if the government's interests are not adequately represented on a claim over $25,000.
+
+(b) RJAs or recovery attorneys must maintain close contact with local U.S. Attorney's Offices to ensure these offices are willing to initiate litigation on cases.
+
+(c) In order to directly initiate or intervene in litigation, an RJA or recovery attorney must prepare a litigation report and formally refer the case through the Affirmative Claims Branch, USARCS, and the Litigation Division, OTJAG (as required by AR 27-40, chapter 5), to the U.S. Attorney. While the RJA or recovery attorney, in conjunction with the Litigation Division Torts Branch, should attempt to have the U.S. Attorney's Office initiate litigation at least six months before the expiration of the statute of limitations (SOL), the RJA or recovery attorney may contact USARCS telephonically if SOL problems necessitate quick action on a case. The RJA or recovery attorney should also contact USARCS if a U.S. Attorney is reluctant to pursue an important case. An injured party's attorney may represent the government's interest in litigation without any special coordination.

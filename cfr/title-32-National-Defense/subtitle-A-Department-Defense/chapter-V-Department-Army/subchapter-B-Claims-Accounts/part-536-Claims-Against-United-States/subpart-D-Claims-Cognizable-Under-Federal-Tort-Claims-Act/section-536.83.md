@@ -1,0 +1,3 @@
+##### § 536.83 Statutory authority for the Federal Tort Claims Act. #####
+
+The statutory authority for this subpart is the Federal Tort Claims Act (FTCA) (60 Stat. 842, 28 U.S.C. 2671-2680), as amended by Public Law 89-506, July 1966 (80 Stat. 306); Public Law 93-253, March 1974 (88 Stat. 50); Public Law 97-124, December 1981 (93 Stat. 1666); Public Law 100-694, November 1988 (102 Stat. 4563-67); and Public Law 101-552, November 1996 (104 Stat. 734); and as implemented by the Attorney General's Regulations (28 CFR 14.1-14.11 and its appendix), all of which are posted on the USARCS Web site; for the address see § 536.2(a).

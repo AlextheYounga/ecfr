@@ -1,0 +1,11 @@
+##### § 1202.7 Prohibited stockpiling. #####
+
+Section 9(d)(2) of the Consumer Product Safety Act (15 U.S.C. 2058(d)(2)) authorizes the Commission to prohibit manufacturers and importers from stockpiling a product subject to a consumer product safety standard between its date of issuance and its effective date. A manufacturer or importer is in violation of Section 9(d)(2) and of this section if it fails to comply with the following:
+
+(a) *Definitions.* (1) *Base period* means, at the option of the manufacturer or importer concerned, any period of 365 consecutive days beginning on or after January 1, 1973, and ending on or before December 31, 1975.
+
+(2) *Rate of production (or importation)* means the total number of matchbooks manufactured (or imported) during a stated time period. In determining whether a matchbook was manufactured during a stated time period, the date on which the cover and combs were assembled to form a matchbook shall be used. In the event that a manufacturer currently operates a matchbook manufacturing plant that it did not operate during the base period, or that it did not operate for an entire base period, that manufacturer shall use, as the rate of production during the base period for that plant, either (i) the average daily rate of production (including nonproduction days such as Sundays, holidays, and vacations) for the part of the base period he did operate that plant, multiplied by 365 or (ii) the rate of production during the base period of his most nearly similar matchbook manufacturing plant.
+
+(b) *Prohibited act.* Manufacturers and importers of matchbooks, as these products are defined in § 1202.3(i), shall not manufacture or import matchbooks that do not comply with the requirements of this part between the date that this part is issued and the date that it becomes effective at a rate that is greater than the rate of production or importation during the base period plus 15 percent of that rate.
+
+(c) *Documentation.* Manufacturers and importers shall maintain, for a period of six (6) months after the effective date specified in § 1202.1(b), appropriate documentation to be able to substantiate to the Commission that they are in compliance with the provisions of this section.

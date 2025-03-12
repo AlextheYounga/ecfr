@@ -1,0 +1,3 @@
+##### § 1000.24 Office of International Programs and Intergovernmental Affairs. #####
+
+The Office of International Programs and Intergovernmental Affairs provides a comprehensive and coordinated effort in consumer product safety standards development and implementation at the international, Federal, State and local level. The office conducts activities and creates strategies aimed at ensuring greater import compliance with recognized American safety standards and exportation of CPSC regulatory policies, technologies and methodologies into other jurisdictions. The office also works to harmonize the use of standards worldwide.

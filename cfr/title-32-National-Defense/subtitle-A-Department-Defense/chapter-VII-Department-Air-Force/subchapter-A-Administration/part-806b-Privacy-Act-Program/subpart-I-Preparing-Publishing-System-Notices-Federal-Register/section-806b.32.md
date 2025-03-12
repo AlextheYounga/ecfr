@@ -1,0 +1,3 @@
+##### § 806b.32 Submitting notices for publication in the Federal Register. #####
+
+At least 120 days before implementing a new system, or a major change to an existing system, subject to this part, system managers must send a proposed notice, through the Major Command Privacy Office, to Air Force Chief Information Officer/P. Send notices electronically to *af.foia@pentagon.af.mil* using Microsoft Word, using the Track Changes tool in Word to indicate additions/changes to existing notices. Follow the format outlined in appendix B to this part. For new systems, system managers must include a statement that a risk assessment was accomplished and is available should the Office of Management and Budget request it.

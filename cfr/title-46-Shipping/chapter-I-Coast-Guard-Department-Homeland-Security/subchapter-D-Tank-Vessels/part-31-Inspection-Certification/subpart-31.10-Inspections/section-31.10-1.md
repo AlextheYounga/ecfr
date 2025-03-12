@@ -1,0 +1,9 @@
+##### § 31.10-1 Recognized classification society—TB/ALL. #####
+
+(a) In the inspection of hulls, boilers, and machinery, the current standards established by the American Bureau of Shipping and designated *Rules for Building and Classing Steel Vessels* respecting material and construction of hulls, boilers, and machinery, except as otherwise provided for by law and regulations in this chapter, shall be accepted as standard by the Coast Guard.
+
+(b) The current standards established by the American Bureau of Shipping in effect at the time of construction of the vessel, or otherwise as applicable, shall be used. The book *Rules for Building and Classing Steel Vessels* is usually published annually and may be purchased from the American Bureau of Shipping, ABS Plaza, 16855 Northchase Drive, Houston, TX 77060. These standards may also be examined at the Coast Guard Headquarters. Contact Commandant (CG-5PS), Attn: Director of Commercial Regulations and Standards, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7509, or at the office of any Coast Guard District Commander or Officer in Charge, Marine Inspection.
+
+(c) The approved plans and certificate of the American Bureau of Shipping, or other recognized classification society for classed vessels, may be accepted by the Coast Guard as evidence of the structural efficiency of the hull and reliability of machinery of vessels subject to the regulations in this subchapter, except as otherwise provided for by laws and regulations in this chapter.
+
+[CGFR 65-50, 30 FR 16662, Dec. 30, 1965, as amended by CGFR 68-32, 33 FR 5712, Apr. 12, 1968; CGD 88-070, 53 FR 34533, Sept. 7, 1988; 53 FR 37570, Sept. 27, 1988; 53 FR 44011, Nov. 1, 1988; CGD 95-072, 60 FR 50461, Sept. 29, 1995; USCG-2000-7790, 65 FR 58459, Sept. 29, 2000; USCG-2009-0702, 74 FR 49226, Sept. 25, 2009; USCG-2010-0759, 75 FR 60002, Sept. 29, 2010; USCG-2013-0671, 78 FR 60146, Sept. 30, 2013]

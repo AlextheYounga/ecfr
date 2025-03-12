@@ -1,0 +1,5 @@
+##### § 37.220 How involved should the Government program official be in the project? #####
+
+(a) TIAs are used to carry out cooperative relationships between the Federal Government and the recipient, which requires a greater level of involvement of the Government program official in the execution of the research than the usual oversight of a research grant or procurement contract. For example, program officials will participate in recipients' periodic reviews of research progress and will be substantially involved with the recipients in the resulting revisions of plans for future effort. That increased programmatic involvement before and during program execution with a TIA can reduce the need for some Federal financial requirements that are problematic for commercial firms.
+
+(b) Some aspects of their involvement require program officials to have greater knowledge about and participation in business matters that traditionally would be your exclusive responsibility as the agreements officer. TIAs therefore also require closer cooperation between program officials and you, as the one who decides business matters.

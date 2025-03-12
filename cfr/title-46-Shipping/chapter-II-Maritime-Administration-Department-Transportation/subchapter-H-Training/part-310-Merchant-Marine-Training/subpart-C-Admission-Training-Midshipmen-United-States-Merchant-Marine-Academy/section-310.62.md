@@ -1,0 +1,5 @@
+##### § 310.62 Allowances and expenses; required deposit. #####
+
+(a) *Items furnished.* Each midshipman shall receive: Free tuition, quarters and subsistence; limited medical and dental care; and certain travel expenses, in accordance with chapter 5, part A, of the Joint Travel Regulations For Members Of Uniform Services, Vol. 1 (U.S. Department of Defense publication, Serial No. 0516-LP-255-0265), while traveling under official Academy orders.
+
+(b) *Required Deposit.* Prior to admission to the Academy, each midshipman shall make a specified deposit, as established by Academy regulations, to help defray the cost of items and services generally of a personal nature which are not provided by the Academy. Additional deposits, as prescribed in Academy regulations, are required to be made in subsequent years. Failure to make any required deposit will result in denial of admission, suspension or disenrollment.

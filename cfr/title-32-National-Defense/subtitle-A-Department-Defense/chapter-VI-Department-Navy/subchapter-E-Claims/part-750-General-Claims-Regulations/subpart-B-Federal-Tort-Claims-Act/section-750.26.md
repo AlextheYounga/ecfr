@@ -1,0 +1,9 @@
+##### § 750.26 The administrative claim. #####
+
+(a) *Proper claimant.* See § 750.5 of this part.
+
+(b) *Claim presented by agent or legal representative.* A claim filed by an agent or legal representative will be filed in the name of the claimant; be signed by the agent or legal representative; show the title or legal capacity of the person signing; and be accompanied by evidence of the individual's authority to file a claim on behalf of the claimant.
+
+(c) *Proper claim.* A claim is a notice in writing to the appropriate Federal agency of an incident giving rise to Government liability under the FTCA. It must include a demand for money damages in a definite sum for property damage, personal injury, or death alleged to have occurred by reason of the incident. The Attorney General's regulations specify that the claim be filed on a Standard Form 95 or other written notification of the incident. If a letter or other written notification is used, it is essential that it set forth the same basic information required by Standard Form 95. Failure to do so may result in a determination that the administrative claim is incomplete. A suit may be dismissed on the ground of lack of subject matter jurisdiction based on claimant's failure to present a proper claim as required by 28 U.S.C. 2675(a).
+
+(d) *Presentment.* A claim is deemed presented when received by the Navy in proper form. A claim against another agency, mistakenly addressed to or filed with the Navy shall be transferred to the appropriate agency, if ascertainable, or returned to the claimant. A claimant presenting identical claims with more than one agency should identify every agency to which the claim is submitted on every claim form presented. Claims officers shall coordinate with all other affected agencies and ensure a lead agency is designated. 28 CFR 14.2.

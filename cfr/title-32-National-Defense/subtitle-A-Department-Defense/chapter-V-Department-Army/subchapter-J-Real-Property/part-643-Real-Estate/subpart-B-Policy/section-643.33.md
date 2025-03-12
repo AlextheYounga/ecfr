@@ -1,0 +1,7 @@
+##### § 643.33 Policy - Coastal zone management. #####
+
+(a) The Coastal Zone Management Act of 1972 (16 U.S.C. 1456), directs all Federal agencies conducting or supporting activities directly affecting the coastal zone of a state, to conduct or support those activities in a manner which is, to the maximum extent practicable, consistent with approved state management programs. The opinion of the Attorney General of the United States is that Federal lands are excluded from mandatory compliance with the state's coastal zone management program, regardless of the type of Federal jurisdiction exercised thereover. However, it is Army policy that its activities will comply, to the extent practicable, with a state's approved coastal zone management program.
+
+(b) Applications for grants for use of real estate affecting land or water uses in the coastal zone of a state will include a certification that the proposed activity complies with the state's approved program and that applicant's activity will be conducted in a manner consistent with the law.
+
+(c) An activity affecting land or water uses in the coastal zone of a state which will not be conducted in a manner consistent with an approved state program will be exempted from this certification requirement only if the Secretary of Commerce, on his own initiative or upon appeal of the applicant, determines that the activity is consistent with the objectives of the Coastal Zone Management Act or is otherwise necessary in the interest of national security.

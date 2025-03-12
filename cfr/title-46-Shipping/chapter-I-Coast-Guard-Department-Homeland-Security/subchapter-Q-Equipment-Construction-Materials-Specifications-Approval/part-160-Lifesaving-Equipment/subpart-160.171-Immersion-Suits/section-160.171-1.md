@@ -1,0 +1,3 @@
+##### § 160.171-1 Scope. #####
+
+This subpart contains construction and performance requirements, and approval tests for adult and child insulated, buoyant immersion suits that are designed to prevent shock upon entering cold water and lessen the effect of hypothermia (extreme body heat loss due to immersion in cold water). Immersion suits approved under this subpart will meet the requirements of Regulation 33 of Chapter III of the International Convention for Safety of Life at Sea (SOLAS), 1974, under the Second Set of Amendments adopted 17 June 1983.

@@ -1,0 +1,51 @@
+##### § 11.465 Requirements for national endorsements as mate (pilot) of towing vessels. #####
+
+(a) To obtain an endorsement as mate (pilot) of towing vessels endorsed with a route listed in column 1 of Table 1 to paragraph (a) of this section, applicants must complete the service in columns 2 through 5. Mariners holding a license or MMC endorsement as master of towing vessels (limited) wishing to upgrade it to mate (pilot) of towing vessels must complete the service in columns 5 and 6. An endorsement with a route endorsed in column 1 authorizes service on the subordinate routes listed in column 7 without further endorsement. Time of service requirements as an apprentice mate (steersman) of towing vessels may be reduced by an amount equal to the time specified in the approval letter for a completed Coast Guard-approved training program.
+
+Table 1 to § 11.465(a) - Requirements for National Endorsement as Mate (Pilot<sup>1</sup>) of Towing Vessels
+
+|              1              |               2               |                                3                                |                 4                 |                  5                   |                                               6                                                |                7                 |
+|-----------------------------|-------------------------------|-----------------------------------------------------------------|-----------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------|
+|       Route endorsed        |Total  <br/>service<sup>2</sup>|TOS<sup>3</sup> on T/V as apprentice mate (steersman)<sup>4</sup>|TOS on  <br/>particular  <br/>route|TOAR<sup>5</sup> or an approved course|30 days of observation and training while holding master (limited) and pass an  <br/>examination|Subordinate route  <br/>authorized|
+|       (1) OCEANS (O)        |              30               |                               12                                |                 3                 |                 YES                  |                                              YES                                               |            NC, GL-I.             |
+|    (2) NEAR-COASTAL (NC)    |              30               |                               12                                |                 3                 |                 YES                  |                                              YES                                               |              GL-I.               |
+|(3) GREAT LAKES-INLAND (GL-I)|              30               |                               12                                |                 3                 |                 YES                  |                                              YES                                               |                                  |
+|   (4) WESTERN RIVERS (WR)   |              30               |                               12                                |                 3                 |                 YES                  |                                 NO (90 days service required)                                  |                                  |
+
+<sup>1</sup> For all inland routes, as well as Western Rivers, the endorsement as pilot of towing vessels is equivalent to that as mate of towing vessels. All qualifications and equivalencies are the same.
+
+<sup>2</sup> Service is in months unless otherwise indicated.
+
+<sup>3</sup> TOS is time of service.
+
+<sup>4</sup> Time of service requirements as an apprentice mate (steersman) of towing vessels may be reduced by an amount equal to the time specified in the approval letter for a completed Coast Guard-approved training program.
+
+<sup>5</sup> TOAR is a Towing Officer Assessment Record.
+
+(b) Before serving as mate (pilot) of towing vessels on the Western Rivers, mariners must possess 90 days of observation and training and have their MMC include an endorsement for Western Rivers.
+
+(c) Each company must maintain evidence that every vessel it operates is under the direction and control of a mariner with the appropriate endorsement and experience, including 30 days of observation and training on the intended route other than Western Rivers.
+
+(d) Those holding a license or MMC endorsement as a mate of inspected, self-propelled vessels of more than 200 GRT or one as first-class pilot, may operate towing vessels within any restrictions on their credential if they -
+
+(1) Have a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (b) of this section; and
+
+(2) Hold a completed Towing Officer Assessment Record (TOAR) described in § 10.404(c) of this subchapter that shows evidence of assessment of practical demonstration of skills.
+
+(e) A license or MMC does not need to include a towing endorsement if you hold a TOAR or a course completion certificate.
+
+(f) Those holding any endorsement as a master of self-propelled vessels of any tonnage that is less than 200 GRT, except for the limited masters endorsements specified in §§ 11.429 and 11.456 of this subpart, may obtain an endorsement as mate (pilot) of towing vessels by meeting the following requirements:
+
+(1) Providing proof of 36 months of service as a master under the authority of an endorsement described in this paragraph.
+
+(2) Successfully completing the appropriate TOAR.
+
+(3) Successfully completing the appropriate apprentice mate exam.
+
+(4) Having a minimum of 30 days of training and observation on towing vessels for the route being assessed, except as noted in paragraph (b) of this section.
+
+(g) An approved training course for mate (pilot) of towing vessels must include formal instruction and practical demonstration of proficiency either onboard a towing vessel or at a shoreside training facility before a designated examiner, and must cover the material (dependent upon route) required by Table 2 to § 11.910 of this part for apprentice mate (steersman), towing vessels on ocean and near-coastal routes; apprentice mate (steersman), towing vessels on Great Lakes and inland routes; or steersman, towing vessels on Western Rivers routes.
+
+(h) A person holding this endorsement may qualify for an STCW endorsement, according to §§ 11.309, 11.317, 11.319, and 11.321 of this part.
+
+[USCG-2004-17914, 78 FR 77909, Dec. 24, 2013, as amended by USCG-2014-0688, 79 FR 58277, Sept. 29, 2014]

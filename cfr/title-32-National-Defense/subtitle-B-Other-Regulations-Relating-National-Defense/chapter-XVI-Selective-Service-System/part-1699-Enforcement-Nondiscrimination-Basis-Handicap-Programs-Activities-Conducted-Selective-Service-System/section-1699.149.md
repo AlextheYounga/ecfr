@@ -1,0 +1,3 @@
+##### § 1699.149 Program accessibility: discrimination prohibited. #####
+
+Except as otherwise provided in § 1699.150, no qualified handicapped persons shall, because the agency's facilities are inaccessible to or unusable by handicapped persons, be denied the benefits of, be excluded from participation in, or otherwise be subject to discrimination under any program or activity conducted by the agency.

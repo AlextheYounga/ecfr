@@ -1,0 +1,3 @@
+##### § 1110.15 Legal responsibility for certificate information. #####
+
+Any entity or entities may maintain an electronic certificate platform and may enter the requisite data. However, the entity or entities required by CPSA section 14(a) to issue the certificate remain legally responsible for the accuracy and completeness of the certificate information required by statute and its availability in timely fashion.

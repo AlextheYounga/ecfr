@@ -1,0 +1,3 @@
+##### § 1701.3 Contact for general information and requests. #####
+
+Privacy Act requests and appeals and inquiries regarding this subpart or about ODNI's Privacy Act program must be submitted in writing to the Director, Information Management Office (D/IMO), Office of the Director of National Intelligence, Washington, DC 20511 (by mail or by facsimile at 703-482-2144) or to the contact designated in the specific Privacy Act System of Records Notice. Privacy Act requests with the required identification statement and signature pursuant to paragraphs (d) and (e) of § 1701.7 of this subpart must be filed in original form.

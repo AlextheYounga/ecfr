@@ -1,0 +1,7 @@
+##### § 98.01-3 Incorporation by reference. #####
+
+(a) Certain standards and specifications are incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a). To enforce any edition other than the ones listed in paragraph (b) of this section, notice of change must be published in the Federal Register and the material made available to the public. All approved material is at the National Archives and Records Administration (NARA), and is available from the sources indicated in paragraph (b) of this section. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(b) The standards and specifications approved for incorporation by reference in this part and the sections affected, are:
+
+American Society for Nondestructive Testing (ASNT)4153 Arlingate Road, Caller # 28518, Columbus, OH, 43228-0518ASNT “Recommended Practice No. SNT-TC-1A (1988), Personnel Qualification and Certification in Nondestructive Testing” 98.25-97(c)(2)American Society of Mechanical Engineers (ASME) InternationalThree Park Avenue, New York, N.Y. 10016-5990ASME Boiler and Pressure Vessel Code, section V, Nondestructive Examination (1986) 98.25-97(a)(1)[CGD 85-061, 54 FR 50965, Dec. 11, 1989, as amended by USCG-1999-6216, 64 FR 53226, Oct. 1, 1999]

@@ -1,0 +1,3 @@
+##### § 644.313 Authority. #####
+
+The major portion of real property disposal actions performed by the Corps of Engineers is predicated on authority derived from the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471, *et seq.*), hereinafter referred to as the Federal Property Act, and the rules, regulations and delegations of authority issued by the General Services Administration (GSA) thereunder. Other authorities relating to the disposal of military real property are found in AR 405-90. The Army and Air Force Basic Real Estate Agreements covering disposal of Air Force real estate are found in AR 405-5 and AFR 87-15.

@@ -1,0 +1,3 @@
+##### § 770.48 Definition. #####
+
+For the purpose of this subpart, Puget Sound Shipyard shall include that area of land, whether or not fenced or covered by water, in Kitsap County in the State of Washington under the operational control of the Commander, Puget Sound Naval Shipyard or any tenant command. This includes all such areas regardless of whether the areas are being used for purely military purposes, for housing, for support purposes, or for any other purpose by a naval command or other Federal agency.

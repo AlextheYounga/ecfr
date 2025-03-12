@@ -1,0 +1,3 @@
+##### § 644.481 Responsibility of transferee. #####
+
+Where buildings or other improvements are on lands leased to the United States, the agency requesting the buildings will be expected to remove the building and restore the premises, as required by the terms of the lease, or to accept an assignment of the lease together with all obligations thereunder. Where the buildings or other improvements are to be removed from non-excess land, the transferee agency will be expected to perform reasonable site clearance as may be required by the commanding officer.

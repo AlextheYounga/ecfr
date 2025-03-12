@@ -1,0 +1,7 @@
+##### § 295.30 Payment. #####
+
+(a) *Amount payable.* A MSP Operating Agreement shall provide, subject to the availability of appropriations and to the extent the agreement is in effect, for each Agreement Vessel, an annual payment of $2,100,000 for each fiscal year. This amount shall be paid in equal monthly installments at the end of each month. The annual amount payable shall not be reduced except as provided in paragraph (b) of this section and § 295.31(a)(3).
+
+(b) *Reductions in amount payable.* (1) The annual amount otherwise payable under a MSP Operating Agreement shall be reduced on a pro rata basis for each day less than 320 in a fiscal year that an Agreement Vessel is not operated exclusively in the U.S.-foreign trade or in mixed foreign and domestic trade allowed under a registry endorsement issued under 46 U.S.C. 12105. Days during which the vessel is drydocked or undergoing survey, inspection, or repair shall be considered to be days during which the vessel is operated, provided the total of such days within a fiscal year does not exceed 30 days, unless prior to the expiration of a vessel's 30 day period, approval is obtained from MARAD for an extension of the 30 day provision.
+
+(2) There shall be no payment for any day that a MSP Agreement Vessel is engaged in transporting more than 7,500 tons (using the U.S. English standard of short tons, which converts to 6,696.75 long tons, or 6,803.85 metric tons) of civilian bulk preference cargoes pursuant to section 901(a), 901(b), or 901b of the act, provided that it is bulk cargo.

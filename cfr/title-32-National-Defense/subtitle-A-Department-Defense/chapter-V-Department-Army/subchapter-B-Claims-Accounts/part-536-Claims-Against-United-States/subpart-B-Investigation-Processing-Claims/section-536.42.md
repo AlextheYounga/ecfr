@@ -1,0 +1,3 @@
+##### § 536.42 Constitutional torts. #####
+
+A claim for violation of the U.S. Constitution does not constitute a state tort and is not cognizable under any subpart. A constitutional claim will be scrutinized in order to determine whether it is totally or partially payable as a state tort. For example, a Fifth Amendment taking may be payable in an altered form as a real estate claim. For further discussion see DA Pam 27-162, paragraph 2-36.

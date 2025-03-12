@@ -1,0 +1,3 @@
+##### § 268.3 Policy. #####
+
+It is the policy of the Department of Defense that timely and aggressive collection efforts will be conducted to assure that foreign arrearages to DoD Components are held to the absolute minimum. Foreign indebtedness will be uniformly and accurately reported to the Department of the Treasury on forms prescribed by the Treasury Fiscal Requirements Manual. The information system on the status of collection actions will support the information requirements of the National Advisory Council on International Monetary and Financial Policies (NAC).

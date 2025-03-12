@@ -1,0 +1,7 @@
+##### § 989.34 Special and emergency procedures. #####
+
+(a) *Special procedures.* During the EIAP, unique situations may arise that require EIAP strategies different than those set forth in this part. These situations may warrant modification of the procedures in this part. EPFs should only consider procedural deviations when the resulting process would benefit the Air Force and still comply with NEPA and CEQ regulations. EPFs must forward all requests for procedural deviations to HQ USAF/A7CI (or ANGRC/CEV) for review and approval by SAF/IEI.
+
+(b) *Emergency procedures (40 CFR 1506.11).* Emergency situations do not exempt the Air Force from complying with NEPA, but do allow emergency response while completing the EIAP. Certain emergency situations may make it necessary to take immediate action having significant environmental impact, without observing all the provisions of the CEQ regulations or this part. If possible, promptly notify HQ USAF/A7CI, for SAF/IEI coordination and CEQ consultation .The immediate notification requirement does not apply where emergency action must be taken without delay. Coordination in this instance must take place as soon as practicable.
+
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001; 72 FR 37106, July 9, 2007; 79 FR 35287, June 20, 2014]

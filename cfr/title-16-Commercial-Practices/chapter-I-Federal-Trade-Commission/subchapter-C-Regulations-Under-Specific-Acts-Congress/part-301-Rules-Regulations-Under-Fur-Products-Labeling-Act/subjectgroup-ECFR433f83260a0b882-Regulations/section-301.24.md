@@ -1,0 +1,3 @@
+##### § 301.24 Repairing, restyling and remodeling fur products for consumer. #####
+
+When fur products owned by and to be returned to the ultimate-consumer are repaired, restyled or remodeled and used fur or fur is added thereto, labeling of the fur product shall not be required. However, the person adding such used fur or fur to the fur product, or who is responsible therefor, shall give to the owner an invoice disclosing the information required under the act and regulations respecting the used fur or fur added to the fur product, subject, however, to the provisions of § 301.14 of this part as to country of origin requirements.

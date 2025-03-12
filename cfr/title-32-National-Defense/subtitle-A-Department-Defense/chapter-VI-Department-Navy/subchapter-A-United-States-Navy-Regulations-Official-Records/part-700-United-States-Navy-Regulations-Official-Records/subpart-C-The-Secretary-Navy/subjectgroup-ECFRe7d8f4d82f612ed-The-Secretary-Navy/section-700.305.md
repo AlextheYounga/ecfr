@@ -1,0 +1,3 @@
+##### § 700.305 Assignment of functions. #####
+
+The Secretary of the Navy may assign such functions, powers, and duties as he or she considers appropriate to the Under Secretary of the Navy and to the Assistant Secretaries of the Navy. Officers of the Navy and the Marine Corps shall, as directed by the Secretary, report on any matter to the Secretary, the Under Secretary or any Assistant Secretary.

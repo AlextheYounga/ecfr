@@ -1,0 +1,5 @@
+##### § 56.25-5 Flanges. #####
+
+Each flange must conform to the design requirements of either the applicable standards of table 56.60-1(b) of this part, or of those of appendix 2 of section VIII of the ASME Boiler and Pressure Vessel Code (incorporated by reference; see 46 CFR 56.01-2). Plate flanges must meet the requirements of § 56.30-10(b)(5) of this part and the material requirements of § 56.60-1(a) of this part. Flanges may be integral or may be attached to pipe by threading, welding, brazing, or other means within the applicable standards specified in table 56.60-1(b) of this part and the requirements of this subpart. For flange facing gasket combinations other than those specified above, calculations must be submitted indicating that the gaskets will not result in a higher bolt loading or flange moment than for the acceptable configurations.
+
+[CGD 77-140, 54 FR 40605, Oct. 2, 1989, as amended by USCG-2002-13058, 67 FR 61278, Sept. 30, 2002; USCG-2003-16630, 73 FR 65176, Oct. 31, 2008]

@@ -1,0 +1,3 @@
+##### § 3.10-5 Renewal of letter of designation. #####
+
+At least 60 days prior to the expiration date of the letter of designation or certificate of inspection, a request for renewal must be submitted in the same manner as described in 3.10-1. However, if the request for renewal is submitted to the Officer in Charge, Marine Inspection, who made the initial determination and all operating conditions remain unchanged, the information required by § 3.10-1(b) need not be resubmitted with the request.

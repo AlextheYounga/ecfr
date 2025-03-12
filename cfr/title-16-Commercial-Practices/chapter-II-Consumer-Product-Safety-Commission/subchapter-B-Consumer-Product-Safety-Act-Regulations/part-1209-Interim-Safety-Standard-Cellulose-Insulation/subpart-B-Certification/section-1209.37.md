@@ -1,0 +1,5 @@
+##### § 1209.37 Corrective actions. #####
+
+(a) *Test failure.* When any test required by § 1209.36 yields failing or unacceptable results, corrective action must be taken. Corrective action includes changes to the manufacturing process as well as reworking the insulation product itself. Corrective action may consist of equipment adjustment, equipment repair, equipment replacement, change in chemical formulation, change in chemical quantity, change in cellulosic stock, or other action deemed appropriate by the manufacturer, private labeler or importer to achieve passing or acceptable test results.
+
+(b) *New product.* If any corrective action required by this § 1209.37 results in a change in the product specification and a new cellulose insulation product (see § 1209.34(b)), the product specification for the new product must be recorded in accordance with § 1209.35, and qualification tests must be performed with passing or acceptable results in accordance with § 1209.34, before the new product is distributed in commerce.

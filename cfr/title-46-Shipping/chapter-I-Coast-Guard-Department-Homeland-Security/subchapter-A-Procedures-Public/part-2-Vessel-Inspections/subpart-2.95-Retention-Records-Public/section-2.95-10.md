@@ -1,0 +1,3 @@
+##### § 2.95-10 Equipment or material required to be approved. #####
+
+(a) The manufacturer of any equipment or material, which must also be approved by or found satisfactory for use by the Commandant, shall keep the required drawings, plans, blueprints, specifications, production models (if any), qualification tests, and related correspondence containing evidence that the Coast Guard has found such equipment or material satisfactory, during the period of time the approval or listing is valid. Most of the specifications containing detailed descriptions of records required to be retained by the public are in parts 160 to 164, inclusive in subchapter Q (Specifications) of this chapter.

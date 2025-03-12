@@ -1,0 +1,3 @@
+##### § 770.56 Entry restrictions. #####
+
+Except for military personnel, their authorized dependents, or guests, and civilian employees of the United States in the performance of their official duties, entry upon Portsmouth Naval Shipyard, or remaining thereon by any person for any purpose without the advance consent of the Commander, Portsmouth Naval Shipyard, or his authorized representative, is prohibited. In many instances, Commander, Naval Sea Systems Command, approval is required.

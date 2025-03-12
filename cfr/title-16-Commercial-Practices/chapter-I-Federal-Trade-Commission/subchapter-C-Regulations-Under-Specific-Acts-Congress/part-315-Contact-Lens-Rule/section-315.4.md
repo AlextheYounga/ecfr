@@ -1,0 +1,3 @@
+##### § 315.4 Limits on requiring immediate payment. #####
+
+A prescriber may require payment of fees for an eye examination, fitting, and evaluation before the release of a contact lens prescription, but only if the prescriber requires immediate payment in the case of an examination that reveals no requirement for ophthalmic goods. For purposes of the preceding sentence, presentation of proof of insurance coverage for that service shall be deemed to be a payment.

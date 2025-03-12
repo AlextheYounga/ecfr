@@ -1,0 +1,3 @@
+##### § 167.40-30 Guards and rails. #####
+
+On nautical school ships all exposed and dangerous places, such as gears and machinery shall be properly protected with covers, guards, or rails, in order that the danger of accidents may be minimized. On nautical school ships equipped with radio (wireless) the lead-ins shall be efficiently incased or insulated to insure the protection of persons from accidental shock. Such lead-ins shall be located so as not to interfere with the launching of lifeboats and life rafts.

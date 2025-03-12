@@ -1,0 +1,11 @@
+##### § 1665.1 Rules for determining if an individual is the subject of a record. #####
+
+(a) Individuals desiring to know if a specific system of records maintained by the Selective Service System (SSS) contains a record pertaining to them should address their inquiries to the Selective Service System, ATTN: Records Manager, Public & Intergovernmental Affairs, Arlington, VA 22209-2425. The written inquiry should contain a specific reference to the system of records maintained by Selective Service listed in the SSS Notices of Systems of Records or it should describe the type of record in sufficient detail to reasonably identify the system of records. Notice of SSS Systems of Records subject to the Privacy Act is in the Federal Register and copies of the notices will be available upon request to the records manager. A compilation of such notices will also be made and published by the Office of Federal Register, in accord with section 5 U.S.C. 552a(f).
+
+(b) At a minimum, the request should also contain sufficient information to identify the requester in order to allow SSS to determine if there is a record pertaining to that individual in a particular system of records. In instances when the information is insufficient to insure that disclosure will be to the individual to whom the information pertains, in view of the sensitivity of the information, SSS reserves the right to ask the requester for additional identifying information.
+
+(c) Ordinarily the requester will be informed whether the named system of records contains a record pertaining to the requester within 10 days of receipt of such a request (excluding Saturdays, Sundays, and legal federal holidays). Such a response will also contain or reference the procedures which must be followed by the individual making the request in order to gain access to the record.
+
+(d) Whenever a response cannot be made within the 10 days, the records manager will inform the requester of the reason for the delay and the date by which a response may be anticipated.
+
+[47 FR 7224, Feb. 18, 1982; 69 FR 1525, Jan. 9, 2004]

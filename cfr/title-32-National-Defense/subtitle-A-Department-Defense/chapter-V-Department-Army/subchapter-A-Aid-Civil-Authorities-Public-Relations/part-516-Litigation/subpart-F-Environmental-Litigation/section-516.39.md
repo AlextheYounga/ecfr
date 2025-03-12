@@ -1,0 +1,23 @@
+##### § 516.39 Duties and procedures. #####
+
+(a) *Water rights.* Environmental Law Division will conduct direct liaison with DOJ and will represent DA in State and Federal litigation relating to availability and allocation of surface and ground water and the establishment and protection of water rights for Army military installations and activities. This will include litigation in State general adjudications of water rights under the McCarran Amendment, 43 U.S.C. 666, for Army military installations and activities. Such litigation relating solely to COE civil works projects or activities will be handled by attorneys under the technical supervision of the Chief Counsel, COE. With respect to any general adjudication which could affect the civil works or real property functions of COE, The Judge Advocate General, acting through the Chief, Environmental Law Division, and Chief Counsel, COE, will jointly determine which office should maintain primary direct liaison with DOJ and will scope and execute appropriate coordination with each other and with the General Counsel with respect to that litigation.
+
+(b) *Navigable waters.* The Chief Counsel, COE, will conduct direct liaison with DOJ and represent DA in civil litigation involving activities in or across navigable waters of the United States or other activities regulated under the Rivers and Harbors Act of 1899, 33 U.S.C. 401 *et seq.*
+
+(c) *Waters of the United States.* The Chief Counsel, COE, will conduct direct liaison with DOJ and represent DA in civil litigation involving The Clean Water Act section 404 (See 33 U.S.C. 1344) permit authority of COE over the discharge of dredged or fill material into waters of the United States.
+
+(d) *Enforcement.* Environmental Law Division will conduct direct liaison with DOJ and represent DA in all civil litigation involving citizen or State enforcement of applicable State, Federal and local requirements respecting the control or abatement of pollution and involving the management of hazardous wastes, with respect to the missions and functions of, and Federal facilities owned or controlled by, DA, except for civil works facilities.
+
+(e) *Environmental response*—(1) *Except as provided in (a)(2) of this section.* Environmental Law Division will conduct direct liaison with DOJ and represent DA in all civil litigation seeking declaratory or injunctive relief or involving claims of Army liability for the costs of response at Federal facilities currently owned or controlled by DA and at other sites where the Army is a potentially responsible party.
+
+(2) The Chief Counsel, COE, will conduct direct liaison with DOJ and represent DA in all civil litigation seeking declaratory or injunctive relief or involving claims of Army liability for the costs of response at civil works facilities, at former defense sites or at other sites where the Army is a potentially responsible party due to the response actions of the COE or its contractors.
+
+(f) *Fish and wildlife, and plants.* Environmental Law Division will conduct direct liaison with DOJ and represent DA in civil litigation involving citizen or State enforcement of applicable State, Federal, and local laws governing conservation of plant, fish, and wildlife resources at Federal facilities owned or controlled by DA, except that such litigation relating solely to the real estate, civil works, navigation and Clean Water Act section 404 (See 33 U.S.C. 1344) permit functions and activities of the COE will be handled by attorneys under the technical supervision of the Chief Counsel, COE.
+
+(g) *Toxic torts.* (1) Except as otherwise provided in this part, Environmental Law Division will conduct direct liaison with DOJ and represent DA in all civil litigation involving claims of tort liability for exposure to environmental contamination emanating from Federal facilities owned or controlled by DA.
+
+(2) Litigation Division will conduct liaison with DOJ and represent DA in civil litigation involving claims of tort liability for singular and discrete incidents of exposure to environmental contamination emanating from any Federal facility owned or controlled by DA.
+
+(3) The Chief Counsel, COE, will conduct direct liaison with DOJ and will represent DA in civil litigation involving claims of tort liability for exposure to environmental contamination (including singular and discrete incidents) emanating from any civil works activities under the jurisdiction of the Secretary of the Army.
+
+(4) The Chief Counsel, COE, and Chief, Environmental Law Division, will confer and jointly determine which office will conduct direct liaison with DOJ and represent DA in civil litigation involving all other claims of toxic tort liability.

@@ -1,0 +1,3 @@
+##### § 767.14 Amendment, suspension, or revocation of permits. #####
+
+The NHHC Deputy Director, or his/her designee may amend, suspend, or revoke a permit in whole or in part, temporarily or indefinitely, if in his/her view the permit holder has acted in violation of the terms of the permit or of other applicable regulations, or for other good cause shown. Any such action will be communicated in writing to the permit holder or the permit holder's representative and will set forth the reason for the action taken. The permit holder may request the Director of the NHHC reconsider the action in accordance with § 767.7(e).

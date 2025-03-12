@@ -1,0 +1,9 @@
+##### § 700.7 Use of warranty registration cards. #####
+
+(a) Under section 104(b)(1) of the Act, 15 U.S.C. 2304(b)(1), a warrantor offering a full warranty may not impose on consumers any duty other than notification of a defect as a condition of securing remedy of the defect or malfunction, unless such additional duty can be demonstrated by the warrantor to be reasonable. Warrantors have in the past stipulated the return of a “warranty registration” or similar card. By “warranty registration card” the Commission means a card which must be returned by the consumer shortly after purchase of the product and which is stipulated or implied in the warranty to be a condition precedent to warranty coverage and performance.
+
+(b) A requirement that the consumer return a warranty registration card or a similar notice as a condition of performance under a full warranty is an unreasonable duty. Thus, a provision such as, “This warranty is void unless the warranty registration card is returned to the warrantor” is not permissible in a full warranty, nor is it permissible to imply such a condition in a full warranty.
+
+(c) This does not prohibit the use of such registration cards where a warrantor suggests use of the card as one possible means of proof of the date the product was purchased. For example, it is permissible to provide in a full warranty that a consumer may fill out and return a card to place on file proof of the date the product was purchased. Any such suggestion to the consumer must include notice that failure to return the card will not affect rights under the warranty, so long as the consumer can show in a reasonable manner the date the product was purchased. Nor does this interpretation prohibit a seller from obtaining from purchasers at the time of sale information requested by the warrantor.
+
+[42 FR 36114, July 13, 1977, as amended at 80 FR 42721, July 20, 2015]

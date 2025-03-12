@@ -1,0 +1,3 @@
+##### § 131.925 Compliance with provisions of Certificate of Inspection. #####
+
+The master of the vessel shall ensure compliance with each provision of the Certificate of Inspection. Nothing in this subchapter prevents the master's diverting the vessel from the route prescribed in the Certificate, or taking other steps necessary and prudent to assist vessels in distress or to handle similar emergencies.

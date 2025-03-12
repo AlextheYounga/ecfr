@@ -1,0 +1,3 @@
+##### § 30.01-10 Application of regulations governing alterations or repairs—TB/ALL. #####
+
+When major alterations or major repairs of tank vessels become necessary the work shall be done under the direction of the Officer in Charge, Marine Inspection, and shall be in accordance with the regulations in effect for new construction insofar as possible. When minor alterations or minor repairs of tank vessels become necessary such work shall be under the direction of the Officer in Charge, Marine Inspection, and shall be in accordance with the regulations in effect at the time the vessel was contracted for or built, or in accordance with the regulations in effect for new construction insofar as possible.

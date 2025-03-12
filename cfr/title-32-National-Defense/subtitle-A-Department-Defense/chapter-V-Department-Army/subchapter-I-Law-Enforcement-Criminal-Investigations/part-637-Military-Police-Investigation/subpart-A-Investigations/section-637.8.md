@@ -1,0 +1,5 @@
+##### § 637.8 Identification of MPI. #####
+
+(a) During the conduct of investigations, MPI will identify themselves by presenting their credentials and referring to themselves as “INVESTIGATOR.” When signing military police records the title “Military Police Investigator” may be used in lieu of military titles. Civilian personnel will refer to themselves as “INVESTIGATOR” if they are classified in the 1811 series, and as “DETECTIVE” if they are in the 083 series. Civilian personnel will use the title “DAC Investigator” or “DAC Detective”; corresponding to their classification series.
+
+(b) The use of titles such as “Mr.”, “Mrs.”, “Miss” or “Ms.” in connection with an individual's identification as an MPI is prohibited, except when employed in a covert investigative role. When MPI or DAC detectives/investigators are employed in covert roles, supervisors will ensure that coordination with USACIDC or civilian law enforcement agencies is accomplished as appropriate.

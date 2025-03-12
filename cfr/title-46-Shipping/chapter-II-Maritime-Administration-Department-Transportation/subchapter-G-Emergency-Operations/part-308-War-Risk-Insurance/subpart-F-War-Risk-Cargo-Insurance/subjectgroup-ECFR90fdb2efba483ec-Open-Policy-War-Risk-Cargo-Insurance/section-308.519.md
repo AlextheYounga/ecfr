@@ -1,0 +1,3 @@
+##### § 308.519 Standard optional endorsement No. 2, Form MA-300-B. #####
+
+Standard Optional Endorsement No. 2, which may be obtained from MARAD's underwriting agent or MARAD, amends the policy to cover shipments made to the Assured or shipped by the Assured as agent for the account and risk of a principal. Application for Standard Optional Endorsement No. 2 may be made to the Underwriting Agent, which is authorized to issue the endorsement without prior approval of the Maritime Administrator.

@@ -1,0 +1,9 @@
+##### § 303.42 Arrangement of information in advertising textile fiber products. #####
+
+(a) Where a textile fiber product is advertised in such manner as to require disclosure of the information required by the Act and regulations, all parts of the required information shall be stated in immediate conjunction with each other in legible and conspicuous type or lettering of equal size and prominence. In making the required disclosure of the fiber content of the product, the generic names of fibers present in an amount 5 percent or more of the total fiber weight of the product, together with any fibers disclosed in accordance with § 303.3(a), shall appear in order of predominance by weight, to be followed by the designation “other fiber” or “other fibers” if a fiber or fibers required to be so designated are present. The advertisement need not state the percentage of each fiber.
+
+(b) Non-required information or representations shall in no way be false, deceptive, or misleading as to fiber content and shall not include any names, terms, or representations prohibited by the Act and regulations. Such non-required information or representations shall not be set forth or so used as to interfere with, minimize, or detract from the required information.
+
+(c) Non-deceptive terms which are properly and truthfully descriptive of a fiber may be used in conjunction with the generic name of such fiber; as for example: “cross-linked rayon,” “solution dyed acetate,” “combed cotton,” “nylon 66,” etc.
+
+[24 FR 4480, June 2, 1959, as amended at 30 FR 14254, Nov. 13, 1965; 30 FR 15313, Dec. 11, 1965; 63 FR 7523, Feb. 13, 1998; 79 FR 18774, Apr. 4, 2014]

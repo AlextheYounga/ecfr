@@ -1,0 +1,13 @@
+##### § 310.54 General requirements for eligibility. #####
+
+(a) *Citizenship.* All candidates shall be citizens of the United States except: (1) Nominees from foreign nations; (2) nominees from the Northern Mariana Islands; (3) designees from the Trust Territory of the Pacific Islands; and (4) nominees from American Samoa, who may be American nationals. No person who is not a citizen shall be entitled to any office or position in the U.S. merchant marine by reason of his or her graduation from the Academy, until such person shall have become a citizen.
+
+(b) *Age.* On July 1 of the year of admission to the Academy, a candidate shall be not less than seventeen (17) years of age and shall not have passed his or her twenty-fifth (25) birthday.
+
+(c) *Character.* A candidate shall be of good moral character. The Administrator may reject the nomination of any candidate whose character is incompatible with the Academy's standards. No person who has been dismissed or compelled to resign from the U.S. Military Academy, the U.S. Naval Academy, the U.S. Air Force Academy, the U.S. Coast Guard Academy, the Academy or a State maritime academy for improper conduct shall be eligible for appointment as a midshipman at the Academy. No person whose last discharge from any armed force was under conditions other than honorable or who has had a merchant mariner document removed or suspended for cause shall be eligible for appointment as a midshipman.
+
+(d) *Investigation.* To be eligible for appointment, all candidates who are United States citizens shall be completely loyal to the United States and shall meet the requirements established by the Department of the Navy for designation as Midshipman, USNR (including the Merchant Marine Reserve, USNR). Candidates for appointment shall execute documents approved by the Administrator for the purpose of a security and suitability investigation. Appointment as a Midshipman, USNR (including the Merchant Marine Reserve, USNR) shall be a condition of admission for an individual who is a citizen. A candidate who is conditionally appointed to the Academy pending completion of a Navy security and suitability investigation shall be subject to immediate separation should the candidate, as a result of the investigation, fail to meet the requirements established for appointment as Midshipman, USNR.
+
+(e) *Waivers.* There shall be no waivers of general eligibility requirements.
+
+(Sec. 204(b), Merchant Marine Act, 1936, as amended (46 U.S.C. 1114(b)); Pub. L. 97-31 (August 6, 1981); 49 CFR 1.66)[47 FR 21812, May 20, 1982, as amended at 49 FR 45858, Nov. 21, 1984]

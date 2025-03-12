@@ -1,0 +1,3 @@
+##### § 309.202 Definitions. #####
+
+Stores and supplies are those articles and commodities used and consumed in the day-to-day operation of a vessel by the operation and maintenance of machinery and equipment; the maintenance of clean and sanitary conditions; the feeding of passengers, officers, and crew; and stocked for the use and convenience of passengers, officers, and crew. Vessel stores and supplies include (a) consumable stores, (b) subsistence stores, (c) slop chest, (d) bar stock, and (e) fuel, as defined in Maritime Administration Inventory Books, Forms MA-4736, A through K.

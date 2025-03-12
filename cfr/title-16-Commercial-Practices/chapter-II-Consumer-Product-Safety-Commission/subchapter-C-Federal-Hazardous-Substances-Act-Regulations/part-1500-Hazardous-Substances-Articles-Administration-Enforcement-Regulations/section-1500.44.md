@@ -1,0 +1,7 @@
+##### § 1500.44 Method for determining extremely flammable and flammable solids. #####
+
+(a) *Preparation of samples*—(1) *Granules, powders, and pastes.* Pack the sample into a flat, rectangular metal boat with inner dimensions 6 inches long × 1 inch wide × one-fourth inch deep.
+
+(2) *Rigid and pliable solids.* Measure the dimensions of the sample and support it by means of metal ringstands, clamps, rings, or other suitable devices as needed, so that the major axis is oriented horizontally and the maximum surface is freely exposed to the atmosphere.
+
+(b) *Procedure.* Place the prepared sample in a draft-free area that can be ventilated and cleared after each test. The temperature of the sample at the time of testing shall be between 68 °F. and 86 °F. Hold a burning paraffin candle whose diameter is at least 1 inch, so that the flame is in contact with the surface of the sample at the end of the major axis for 5 seconds or until the sample ignites, whichever is less. Remove the candle. By means of a stopwatch, determine the time of combustion with self-sustained flame. Do not exceed 60 seconds. Extinguish flame with a CO2 or similar nondestructive type extinguisher. Measure the dimensions of the burnt area and calculate the rate of burning along the major axis of the sample.

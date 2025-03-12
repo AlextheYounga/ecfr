@@ -1,0 +1,5 @@
+##### § 1500.268 Hearing. #####
+
+(a) If it appears that the hazardous substance may be subject to refusal of admission, the area office director shall give the owner or consignee a written notice to that effect, stating the reasons therefor. The notice shall specify a place and a period of time during which the owner or consignee shall have an opportunity to introduce testimony. Upon timely request, giving reasonable grounds therefor, such time and place may be changed. Such testimony shall be confined to matters relevant to the admissibility of the hazardous substance, and may be introduced orally or in writing.
+
+(b) If such owner or consignee submits or indicates his intention to submit an application for authorization to relabel or perform other action to bring the hazardous substance into compliance with the act, such testimony shall include evidence in support of such application. If such application is not submitted at or prior to the hearing, the area office director shall specify a time limit, reasonable in the light of the circumstances, for filing such application.

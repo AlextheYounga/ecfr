@@ -1,0 +1,21 @@
+##### § 1130.6 Requirements for format and text of registration forms. #####
+
+(a) *Size of form.* The form shall be at least the size of two standard post cards, connected with perforation for later separation, so that each of the two portions is at least 31/2 inches high x 5 inches wide x 0.007 inches thick.
+
+(b) *Layout of form*—(1) *General.* The form shall consist of four parts: top and bottom, divided by perforations for easy separation, and front and back.
+
+(2) *Font size and typeface.* The registration form shall use bold black typeface. The size of the type shall be at least 0.12 in (3.0 mm) for the purpose statement required in paragraph (c)(1) of this section, and no less than 0.10 in (2.5 mm) for the other information in the registration form. The title of the purpose statement and the retention statement required in paragraph (d)(2) of this section shall be in all capitals. All other information shall be in capital and lowercase type.
+
+(c) *Front of form*—(1) *Top front of form: Purpose statement.* The top portion of the front of each form shall state: “PRODUCT REGISTRATION FOR SAFETY ALERT OR RECALL ONLY. We will use the information provided on this card to contact you only if there is a safety alert or recall for this product. We will not sell, rent, or share your personal information. To register your product, please complete and mail the bottom part of this card, or visit our online registration at: *www.Web sitename.com.*” Manufacturers that do not have a Web site may provide an email address and state at the end of the purpose statement: “To register your product, please complete and mail the bottom part of this card, or email your contact information, the model name and number, and date of manufacture of the product, as provided on this card, to: *name@firmname.com.*”
+
+(2) *Bottom front of form: Manufacturer's mailing address.* The bottom portion of the front of each form shall be pre-addressed and postage-paid with the manufacturer's name and mailing address where registration information is to be collected. A manufacturer may list a brand name in addition to the manufacturer's name. If a manufacturer uses a third party to process registration forms, the third party's name may be included as a “c/o” (“in care of”) in the address on the form.
+
+(d) *Back of the form*—(1) *Top back of form*—(i) *Product information and manufacturer's identification.* The top portion of the back of each form shall state: “Manufacturer's Contact Information” and provide the manufacturer's name and contact information (a U.S. mailing address displayed in sentence format, Web site address, a telephone number, toll-free, if available); product model name and number (or other identifier as described in § 1130.4(a)(1) and (2)); and manufacture date of the product. A rectangular box shall be placed around the model name, model number, and manufacture date. A manufacturer may list the brand name in addition to the manufacturer's name.
+
+(ii) *Retention statement.* On the back of each form, just above the perforation line, the form shall state: “KEEP THIS TOP PART FOR YOUR RECORDS. FILL OUT AND RETURN BOTTOM PART.”
+
+(2) *Bottom back of form*—(i) *Consumer information.* The bottom portion of the back of each form shall have blocks for the consumer to provide his/her name, address, telephone number, and email address. These blocks shall be 5 mm wide and 7 mm high, with as many blocks as possible to fill the width of the card allowing for normal printing practices.
+
+(ii) *Product information.* The following product information shall be provided on the bottom portion of the back of each form below the blocks for consumer information printed directly on the form or on a pre-printed label that is applied to the form: the model name and number (or other identifier as described in § 1130.4(a)(1) and (2)), and the date of manufacture of the product. A rectangular box shall be placed around the model name, model number, and manufacture date. A manufacturer may include its name on the bottom portion of the back of the form if they choose to do so.
+
+[77 FR 9524, Feb. 17, 2012]

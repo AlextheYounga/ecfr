@@ -1,0 +1,5 @@
+##### § 154.451 Design vapor pressure. #####
+
+The Po (kPa) of an independent tank type C must be calculated by the following formula:
+
+Po = 196 + AC(ρ)3/2where:A = 1.813 (σm/ΔσA)2;σm = design primary membrane stress;ΔσA = (allowable dynamic membrane stress for double amplitude at probability level Q = 10−8) 53.9 MPa (7821 psi) for ferritic and martensitic steels and 24.5 MPa (3555 psi) for 5083-0 aluminum;C = a characteristic tank dimension that is the greatest of h, 0.75b, or 0.45 l;where:h = the height of the tank or the dimension in the vessel's vertical direction, in meters;b = the width of the tank or the dimension in the vessel's transverse direction; in meters; andl = the length of the tank or the dimension in the vessel's longitudinal direction, in meters; andρ = the specific gravity of the cargo.

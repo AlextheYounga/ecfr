@@ -1,0 +1,3 @@
+##### § 264.2 Scope. #####
+
+This part applies to the activities of all Department of Defense personnel involved in the international interchange for defense purposes of patent rights and technical information. The policy prescribed herein applies to unclassified as well as classified information, owned by the United States Government or privately owned, but does not apply to patents, patent applications, and technical information in the field of atomic energy.

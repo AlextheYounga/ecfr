@@ -1,0 +1,3 @@
+##### § 813.1 Purpose of the visual information documentation (VIDOC) program. #####
+
+Using various visual and audio media, the Air Force VIDOC program records important Air Force operations, historical events, and activities for use as decision making and communicative tools. VIDOC of Air Force combat operations is called COMCAM documentation. Air Force publications are available at NTIS, 5285 Port Royal Road, Springfield, VA 22161 or online at *http://www.afpubs.hq.af.mil.* DoD publications are available at *http://www.defenselink.mil/pubs.*

@@ -1,0 +1,3 @@
+##### § 644.446 Vacation and protection of premises. #####
+
+The DE will take action to insure that the premises are vacated by the using service on or before the date specified in the termination notice (or the date of expiration of the lease where formal notice is not required), and will assure provision is made by either the using service or the DE, as appropriate, for proper protection of the property pending the transfer of custody to the lessor pursuant to §§ 644.368 through 644.375 and AR 405-90.

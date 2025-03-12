@@ -1,0 +1,3 @@
+##### § 150.12 Retention of civilian counsel. #####
+
+When civilian counsel represents an accused before the Court, the Court will notify counsel when the record of trial is received. If both civilian and assigned appellate defense counsel represent the accused, the Court will regard civilian counsel as primary counsel unless notified otherwise. Ordinarily, civilian counsel will use the accused's copy of the record. Civilian counsel may reproduce, at no expense to the government, appellate defense counsel's copy of the record.

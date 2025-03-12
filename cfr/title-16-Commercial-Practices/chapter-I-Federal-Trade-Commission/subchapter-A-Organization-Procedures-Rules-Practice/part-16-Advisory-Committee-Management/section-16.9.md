@@ -1,0 +1,5 @@
+##### § 16.9 Notice of meetings. #####
+
+(a) Notice of each advisory committee meeting, whether open or closed to the public, shall be published in the Federal Register at least 15 days before the meeting date. Such notice shall include the exact name of the advisory committee as chartered; the time, date, place and purpose of the meeting; and a summary of the meeting agenda. Notice shall also state that the meeting is open to the public or closed in whole or in part, and, if closed, cite the specific exemptions of the Sunshine Act as the basis for closure. The Commission may permit the advisory committee to provide notice of less than fifteen days in extraordinary situations, provided that the reasons for doing so are included in the meeting notice.
+
+(b) In addition to the notice required by paragraph (a) of this section, other forms of notice such as press releases and notices in professional journals may be used to inform interested members of the public of advisory committee meetings.

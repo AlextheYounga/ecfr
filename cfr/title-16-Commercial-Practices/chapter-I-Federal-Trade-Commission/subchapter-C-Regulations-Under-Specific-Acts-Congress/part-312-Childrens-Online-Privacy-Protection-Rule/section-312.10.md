@@ -1,0 +1,3 @@
+##### § 312.10 Data retention and deletion requirements. #####
+
+An operator of a Web site or online service shall retain personal information collected online from a child for only as long as is reasonably necessary to fulfill the purpose for which the information was collected. The operator must delete such information using reasonable measures to protect against unauthorized access to, or use of, the information in connection with its deletion.

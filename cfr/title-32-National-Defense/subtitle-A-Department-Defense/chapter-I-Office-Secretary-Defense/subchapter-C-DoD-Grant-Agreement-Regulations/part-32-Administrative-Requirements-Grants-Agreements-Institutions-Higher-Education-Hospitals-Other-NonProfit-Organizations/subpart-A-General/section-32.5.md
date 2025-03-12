@@ -1,0 +1,3 @@
+##### § 32.5 Subawards. #####
+
+Unless sections of this part specifically exclude subrecipients from coverage, the provisions of this part shall be applied to subrecipients performing work under awards if such subrecipients are institutions of higher education, hospitals or other non-profit organizations. State and local government subrecipients are subject to the provisions of 32 CFR part 33. Subrecipients that are for-profit organizations are subject to 32 CFR part 34.

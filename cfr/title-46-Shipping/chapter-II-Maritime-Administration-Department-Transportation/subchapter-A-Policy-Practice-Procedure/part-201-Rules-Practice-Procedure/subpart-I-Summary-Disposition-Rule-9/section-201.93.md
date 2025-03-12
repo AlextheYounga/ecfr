@@ -1,0 +1,3 @@
+##### § 201.93 Review of ruling, appeal. #####
+
+The order of the presiding officer denying a motion for summary disposition shall be subject to interlocutory appeal under the provisions of § 201.123. An order granting a motion for summary disposition is automatically reviewable by the Administration in accordance with the provisions of § 201.133 and shall not be final until acted upon by the Administration.

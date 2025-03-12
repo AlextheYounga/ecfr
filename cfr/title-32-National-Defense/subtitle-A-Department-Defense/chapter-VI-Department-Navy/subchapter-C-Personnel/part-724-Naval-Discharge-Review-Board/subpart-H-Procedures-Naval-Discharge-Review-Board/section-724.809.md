@@ -1,0 +1,3 @@
+##### § 724.809 Final disposition of the record of proceedings. #####
+
+The original decisional document and all appendices thereto, shall in all cases be incorporated in the military service record of the applicant and the service record shall be returned to the custody of the appropriate record holding facility. If a portion of the original record of proceedings cannot be stored with the service record, the service record shall contain a notation as to the place where the record is stored. Other copies including any electromagnetic records, audio and/or videotape recordings or any combination thereof shall be filed in the NDRB case folder and disposed of in accordance with appropriate naval regulations.

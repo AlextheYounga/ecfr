@@ -1,0 +1,3 @@
+##### § 989.23 Contractor prepared documents. #####
+
+All Air Force EIAP documents belong to and are the responsibility of the Air Force. EIAP correspondence and documents distributed outside of the Air Force should generally be signed out by Air Force personnel and documents should reflect on the cover sheet they are an Air Force document. Contractor preparation information should be contained within the document's list of preparers.

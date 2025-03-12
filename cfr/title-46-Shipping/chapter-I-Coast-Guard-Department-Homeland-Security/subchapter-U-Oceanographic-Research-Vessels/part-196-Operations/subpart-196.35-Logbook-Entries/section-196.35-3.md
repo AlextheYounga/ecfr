@@ -1,0 +1,7 @@
+##### § 196.35-3 Logbooks and records. #####
+
+(a) The master or person in charge of an oceanographic research vessel that is required by 46 U.S.C. 11301 to have an official logbook may maintain the logbook on form CG-706 or in the owner's format for an official logbook. Such logs must be kept available for a review for a period of 1 year after the date to which the records refer, or for the period of validity of the vessel's current certificate of inspection, whichever is longer. When the voyage is completed, the master or person in charge shall file the logbook with the Officer in Charge, Marine Inspection.
+
+(b) The master or person in charge of a vessel that is not required by 46 U.S.C. 11301 to have an official logbook, shall maintain, on aboard, an unofficial logbook or record in any form desired for the purposes of making entries therein as required by law or regulations in this subchapter. Such logs or records are not filed with the Officer in Charge, Marine Inspection, but must be kept available for review by a marine inspector for a period of 1 year after the date to which the records refer. Separate records of tests and inspections of fire fighting equipment must be maintained with the vessel's logs for the period of validity of the vessel's certificate of inspection.
+
+[CGD 95-027, 61 FR 26013, May 23, 1996]

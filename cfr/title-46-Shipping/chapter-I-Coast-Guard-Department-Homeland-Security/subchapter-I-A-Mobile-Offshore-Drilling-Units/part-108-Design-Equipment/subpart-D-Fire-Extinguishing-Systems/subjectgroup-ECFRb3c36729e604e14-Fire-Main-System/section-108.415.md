@@ -1,0 +1,3 @@
+##### § 108.415 Fire pump: General. #####
+
+A fire main system must have at least two independently driven fire pumps that can each deliver water at a continuous pitot tube pressure of at least 3.5 kilograms per square centimeter (approximately 50 pounds per square inch) at least two fire hose nozzles that are connected to the highest two fire hydrants on the unit. Alternative designs that meet the pressure requirement of this paragraph will be considered for column stabilized and self elevating units.

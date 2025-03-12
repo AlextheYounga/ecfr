@@ -1,0 +1,3 @@
+##### § 115.302 Certificates and permits. #####
+
+The Certificate of Inspection and any SOLAS Certificates must be posted under glass or other suitable transparent material, such that all pages are visible, in a conspicuous place on the vessel where observation by passengers is likely. If posting is impracticable, such as on open boats, the certificates must be kept on board in a weathertight container readily available for use by the crew and for display to passengers and others on request.

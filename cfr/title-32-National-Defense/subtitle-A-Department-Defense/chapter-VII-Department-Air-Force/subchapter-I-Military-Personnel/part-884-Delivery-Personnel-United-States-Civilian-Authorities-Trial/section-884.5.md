@@ -1,0 +1,3 @@
+##### § 884.5 Requests under the interstate agreement on Detainer's Act. #####
+
+When either the prisoner or state authorities make a request under the Detainer's Act, follow the procedures in Title 18 U.S.C. App. Section 1, *et seq.* The Act applies only to a person who has entered upon a term of imprisonment in a penal or correctional institution and is, therefore inapplicable to members in pretrial confinement.

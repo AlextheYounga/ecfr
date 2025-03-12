@@ -1,0 +1,11 @@
+##### § 67.5 Responsibilities. #####
+
+(a) The Assistant Secretary of Defense for Reserve Affairs, under the Under Secretary of Defense for Personnel and Readiness, shall:
+
+(1) Establish procedures by which an unaccredited educational institution can apply for DoD designation as a qualifying educational institution.
+
+(2) Publish in the Federal Register DoD requirements and procedures for an unaccredited educational institution to apply for designation as a qualifying education institution.
+
+(3) Annually, provide to the Secretaries of the Military Departments a list of those unaccredited educational institutions that have been approved by the Department of Defense as a qualifying educational institution. This list shall include the year or years for which unaccredited educational institutions are designed as qualifying educational institutions.
+
+(b) The Secretaries of the Military Departments shall establish procedures to ensure that after September 30, 1995, those Reserve component officers selected for appointment to a grade above First Lieutenant in the Army Reserve, Air Force Reserve, or Marine Corps Reserve, or Lieutenant (Junior Grade) in the Naval Reserve, or for officers to be federally recognized in a grade above First Lieutenant as a member of the Army National Guard or Air National Guard, who are required to hold a baccalaureate degree, were awarded a baccalaureate degree from a qualifying educational institution before appointment to the next higher grade. For a degree from an unaccredited educational institution that has been recognized as qualifying educational institution by the Department of Defense to satisfy the educational requirements of 10 U.S.C. 12205, the degree must not have been awarded more than 8 years before the date the officer is to be appointed, or federally recognized, in the grade of Captain in the Army Reserve, Army National Guard, Air Force Reserve, Air National Guard, or Marine Corps Reserve, or in the grade of Lieutenant in the Naval Reserve.

@@ -1,0 +1,3 @@
+##### § 1203.14 Peripheral vision test. #####
+
+Position the helmet on a reference headform in accordance with the HPI and place a 5-kg (11-lb) preload ballast on top of the helmet to set the comfort or fit padding. (Note: Peripheral vision clearance may be determined when the helmet is positioned for marking the test lines.) Peripheral vision is measured horizontally from each side of the midsagittal plane around the point K (see Figure 6 of this part). Point K is located on the front surface of the reference headform at the intersection of the basic and midsagittal planes. The vision shall not be obstructed within 105 degrees from point K on each side of the midsagittal plane.

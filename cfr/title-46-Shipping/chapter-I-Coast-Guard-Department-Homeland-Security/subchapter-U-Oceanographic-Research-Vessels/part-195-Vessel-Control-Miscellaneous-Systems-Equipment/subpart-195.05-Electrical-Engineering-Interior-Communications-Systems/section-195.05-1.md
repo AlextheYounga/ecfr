@@ -1,0 +1,5 @@
+##### § 195.05-1 Installation and details. #####
+
+(a) The installation of all systems of an electrical engineering or interior communication nature, together with the details of design, construction, and installation shall be in accordance with the requirements of Subchapter J (Electrical Engineering) of this chapter. Systems of this type include the following:
+
+Ship's Service Generating Systems.Ship's Service Power Distribution Systems.Ship's Lighting Systems.Electric Propulsion and Propulsion Control Systems.Emergency Lighting and Power Systems.Electric Lifeboat Winch Systems.Electric Steering Gear and Steering Control Systems.Fire Detecting and Alarm Systems.Sound Powered Telephone and Voice Tube Systems.Engine Order Telegraph Systems.Rudder Angle Indicator Systems.Refrigerated Spaces Alarm Systems.Navigation Lights Systems.Daylight Signaling Lights.Miscellaneous Machinery Alarms and Controls.General Alarm Systems.

@@ -1,0 +1,3 @@
+##### § 204.1 Scope and procedure for filing claims. #####
+
+This part prescribes the requirements and procedure for administrative settlement of claims against the United States, involving the Maritime Administration, under the Federal Tort Claims Act, based on death, personal injury, or damage to or loss of property. The controlling regulations are promulgated by the Department of Justice at 28 CFR Part 14—Administrative Claims Under Federal Tort Claims Act. These regulations supplement those of the Department of Justice and provide specific guidance regarding claims processing in the Maritime Administration.

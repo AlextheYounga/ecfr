@@ -1,0 +1,3 @@
+##### § 147.28 Introduction. #####
+
+The following minimum investigative standards, implementing section 3.3 of Executive Order 12968, *Access to Classified Information,* are established for all United States Government and military personnel, consultants, contractors, subcontractors, employees of contractors, licensees, certificate holders or grantees and their employees and other individuals who require access to classified information before the appropriate investigation can be completed and a final determination made.

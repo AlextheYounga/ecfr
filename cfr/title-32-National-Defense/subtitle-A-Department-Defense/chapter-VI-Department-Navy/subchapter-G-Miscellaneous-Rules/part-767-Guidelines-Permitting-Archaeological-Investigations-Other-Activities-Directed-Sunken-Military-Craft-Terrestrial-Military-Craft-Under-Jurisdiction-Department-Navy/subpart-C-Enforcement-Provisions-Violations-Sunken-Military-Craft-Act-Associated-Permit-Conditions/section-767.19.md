@@ -1,0 +1,7 @@
+##### § 767.19 Procedures regarding service. #####
+
+(a) Whenever this part requires service of a document, such service may effectively be made either in person or by registered or certified mail (with return receipt requested) on the respondent, the respondent's agent for service of process or on a representative designated by that agent for receipt of service. Refusal by the respondent, the respondent's agent, or other designated representative to be served, or refusal by his or her designated representative of service of a document will be considered effective service of the document as of the date of such refusal. Service will be considered effective on the date the document is mailed to an addressee's last known address.
+
+(b) A document will be considered served and/or filed as of the date of the postmark; or (if not mailed) as of the date actually delivered in person; or as shown by electronic mail transmission.
+
+(c) Time periods begin to run on the day following service of the document or date of the event. Saturdays, Sundays, and Federal holidays will be included in computing such time, except that when such time expires on a Saturday, Sunday, or Federal holiday, such period will be extended to include the next business day. This method of computing time periods also applies to any act, such as paying a civil penalty or liability for damages, required by this part to take place within a specified period of time.

@@ -1,0 +1,3 @@
+##### § 221.65 Criteria for determining penalty. #####
+
+In determining any penalties assessed, the Vessel Transfer Officer under § 221.67 and the Hearing Officer under §§ 221.73 to 221.89 of this part shall take into account the nature, circumstances, extent and gravity of the violation committed and, with respect to the Party, the degree of culpability, any history of prior offenses, ability to pay and other matters that justice requires.

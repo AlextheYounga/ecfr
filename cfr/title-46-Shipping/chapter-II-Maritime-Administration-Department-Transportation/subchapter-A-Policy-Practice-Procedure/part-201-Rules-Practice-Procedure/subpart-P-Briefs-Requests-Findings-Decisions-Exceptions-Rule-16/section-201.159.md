@@ -1,0 +1,3 @@
+##### § 201.159 Decisions; contents and service. #####
+
+All initial, recommended, tentative, and final decisions, whether rendered orally or in writing shall include a statement of findings and conclusions, as well as the reasons or bases therefor, upon the material issues presented, as well as a statement of the appropriate rule, order, sanction, relief to be imposed, or the denial thereof. A copy of each decision when issued or when transcribed if orally rendered (and all orally presented decisions shall be stenographically recorded) shall be served on the parties to the proceeding, and furnished to interested persons upon request.

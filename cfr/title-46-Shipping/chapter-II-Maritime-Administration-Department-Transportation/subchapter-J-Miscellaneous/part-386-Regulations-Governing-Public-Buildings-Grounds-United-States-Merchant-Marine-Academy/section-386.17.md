@@ -1,0 +1,3 @@
+##### § 386.17 Photographs for news, advertising, or commercial purposes. #####
+
+Such photographs for news, advertising or commercial purposes may be taken on Academy premises only with the written consent of the Office of External Affairs at the Academy. Except where national security regulations apply or a Federal Court Order or rule prohibits, photographs for news purposes may be taken in entrances, lobbies, foyers or corridors, or in auditoriums in which public meetings are being held. Photographs for advertising and commercial purposes may be taken only with the written permission of and in locations specified by the Office of External Affairs.

@@ -1,0 +1,3 @@
+##### § 1633.8 Basis of classification. #####
+
+The registrant's classification shall be determined on the basis of the official forms of the Selective Service System and other written information in his file, oral statements, if made by the registrant at his personal appearance before the board, and oral statements, if made by the registrant's witnesses at his personal appearance. Any information in any written summary of the oral information presented at a registrant's personal appearance that was prepared by an official of the Selective Service System or by the registrant will be placed in the registrant's file. The file shall be subject to review by the registrant during normal business hours.

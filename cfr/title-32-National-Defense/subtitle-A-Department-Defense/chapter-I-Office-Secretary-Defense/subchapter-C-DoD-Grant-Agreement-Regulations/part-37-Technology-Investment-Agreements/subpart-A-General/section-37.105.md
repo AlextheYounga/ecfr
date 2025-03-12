@@ -1,0 +1,3 @@
+##### § 37.105 Does this part cover all types of instruments that 10 U.S.C. 2371 authorizes? #####
+
+No, this part covers only TIAs, some of which use the authority of 10 U.S.C. 2371 (*see* appendix B to this part). This part does not cover assistance instruments other than TIAs that use the authority of 10 U.S.C. 2371. It also does not cover acquisition agreements for prototype projects that use 10 U.S.C. 2371 authority augmented by the authority in section 845 of Public Law 103-160, as amended.

@@ -1,0 +1,3 @@
+##### § 196.45-1 Master and chief engineer responsible. #####
+
+(a) It shall be the duty of the master and the engineer in charge of the boilers of any vessel to require that a steam pressure is not carried in excess of that allowed by the certificate of inspection and to require that the safety valves, once set and sealed by the inspector, are in no way tampered with or made inoperative except as provided in § 196.30-20.

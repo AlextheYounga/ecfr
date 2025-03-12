@@ -1,0 +1,5 @@
+##### § 3.55 Reconsideration. #####
+
+Within fourteen (14) days after completion of service of a Commission decision, any party may file with the Commission a petition for reconsideration of such decision, setting forth the relief desired and the grounds in support thereof. Any petition filed under this subsection must be confined to new questions raised by the decision or final order and upon which the petitioner had no opportunity to argue before the Commission. Any party desiring to oppose such a petition shall file an answer thereto within ten (10) days after service upon him of the petition. The filing of a petition for reconsideration shall not operate to stay the effective date of the decision or order or to toll the running of any statutory time period affecting such decision or order unless specifically so ordered by the Commission.
+
+[32 FR 8449, June 13, 1967, as amended at 61 FR 50650, Sept. 26, 1996]

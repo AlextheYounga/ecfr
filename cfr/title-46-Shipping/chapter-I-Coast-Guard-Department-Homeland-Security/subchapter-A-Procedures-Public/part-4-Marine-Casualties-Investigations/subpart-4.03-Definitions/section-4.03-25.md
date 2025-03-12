@@ -1,0 +1,3 @@
+##### § 4.03-25 District Commander. #####
+
+The District Commander is the chief of a Coast Guard district and is charged with the administration of all Coast Guard responsibilities and activities within his respective district, except those functions of administrative law judges under the Administrative Procedure Act (60 Stat. 237, 5 U.S.C. 1001 *et seq.*) and activities of independent units of the Coast Guard, such as the Coast Guard Yard and the Coast Guard Academy.

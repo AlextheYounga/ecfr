@@ -1,0 +1,3 @@
+##### § 460.16 What new home sellers must tell new home buyers. #####
+
+If you are a new home seller, you must put the following information in every sales contract: The type, thickness, and R-value of the insulation that will be installed in each part of the house. There is an exception to this rule. If the buyer signs a sales contract before you know what type of insulation will be put in the house, or if there is a change in the contract, you can give the buyer a receipt stating this information as soon as you find out.

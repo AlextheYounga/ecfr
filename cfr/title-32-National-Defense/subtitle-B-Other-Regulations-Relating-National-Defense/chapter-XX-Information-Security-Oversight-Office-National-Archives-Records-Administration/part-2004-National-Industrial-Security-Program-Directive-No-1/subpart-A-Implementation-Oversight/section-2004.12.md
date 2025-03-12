@@ -1,0 +1,3 @@
+##### § 2004.12 Reviews by ISOO [102(b)(4)]. #####
+
+The Director, ISOO, shall fulfill his monitoring role based, in part, on information received from NISP Policy Advisory Committee (NISPPAC) members, from on-site reviews that ISOO conducts under the authority of EO 12829, as amended, and from complaints and suggestions from persons within or outside the Government. Findings shall be reported to the responsible department or agency.

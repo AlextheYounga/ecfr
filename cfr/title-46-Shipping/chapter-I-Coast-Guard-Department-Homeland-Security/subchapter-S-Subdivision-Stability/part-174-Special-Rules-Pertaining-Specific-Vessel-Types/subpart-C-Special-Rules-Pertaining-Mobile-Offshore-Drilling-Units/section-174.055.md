@@ -1,0 +1,54 @@
+##### § 174.055 Calculation of wind heeling moment (Hm). #####
+
+(a) The wind heeling moment (Hm) of a unit in a given normal operating condition or severe storm condition is the sum of the individual wind heeling moments (H) calculated for each of the exposed surfaces on the unit; *i.e.*, Hm=Σ H.
+
+(b) Each wind heeling moment (H) must be calculated using the equation:
+
+H = k(v)2(Ch)(Cs)(A)(h)where—(1) H = wind heeling moment for an exposed surface on the unit in foot-pounds (kilogram-meters);(2) k = 0.00338 lb./(ft.2-knots2) (0.0623 (kg-sec2)/m4);(3) v = wind velocity of—(i) 70 knots (36 meters per second) for normal operating conditions.(ii) 100 knots (51.5 meters per second) for severe storm conditions.(iii) 50 knots (25.8 meters per second) for damage conditions.(4) A = projected area in square feet (square meters) of an exposed surface on the unit;(5) Ch = height coefficient for “A” from Table 174.055(a);(6) Cs = shape coefficient for “A” from Table 174.055(b); and(7) h = the vertical distance in feet (meters) from the center of lateral resistance of the underwater hull to the center of wind pressure on “A”.
+
+(c) When calculating “A” in the equation described in paragraph (b) of this section—
+
+(1) The projected area of each column or leg; if the unit has columns or legs, must not include shielding allowances;
+
+(2) Each area exposed as a result of heel must be included;
+
+(3) The projected area of a cluster of deck houses may be used instead of the projected area of each individual deck house in the cluster; and
+
+(4) The projected area of open truss work may be calculated by taking 30% of the projected areas of both the front and back sides of the open truss work rather than by determining the projected area of each structural member of the truss work.
+
+|                                                                                                                                         Feet                                                                                                                                         |   Meters    |   Ch.   |             |    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------|-------------|----|
+|                                                                                                                                         Over                                                                                                                                         |Not exceeding|  Over   |Not exceeding|    |
+|                                                                                                                                          0                                                                                                                                           |     50      |   0.0   |    15.3     |1.00|
+|                                                                                                                                          50                                                                                                                                          |     100     |  15.3   |    30.5     |1.10|
+|                                                                                                                                         100                                                                                                                                          |     150     |  30.5   |    46.0     |1.20|
+|                                                                                                                                         150                                                                                                                                          |     200     |  46.0   |    61.0     |1.30|
+|                                                                                                                                         200                                                                                                                                          |     250     |  61.0   |    76.0     |1.37|
+|                                                                                                                                         250                                                                                                                                          |     300     |  76.0   |    91.5     |1.43|
+|                                                                                                                                         300                                                                                                                                          |     350     |  91.5   |    106.5    |1.48|
+|                                                                                                                                         350                                                                                                                                          |     400     |  106.5  |     2.0     |1.52|
+|                                                                                                                                         400                                                                                                                                          |     450     |  122.0  |    137.0    |1.56|
+|                                                                                                                                         450                                                                                                                                          |     500     |  137.0  |    152.5    |1.60|
+|                                                                                                                                         500                                                                                                                                          |     550     |  152.5  |    167.5    |1.63|
+|                                                                                                                                         550                                                                                                                                          |     600     |  167.5  |    183.0    |1.67|
+|                                                                                                                                         600                                                                                                                                          |     650     |  183.0  |    198.0    |1.70|
+|                                                                                                                                         650                                                                                                                                          |     700     |  198.0  |    213.5    |1.72|
+|                                                                                                                                         700                                                                                                                                          |     750     |  213.5  |    228.5    |1.75|
+|                                                                                                                                         750                                                                                                                                          |     800     |  228.5  |    244.0    |1.77|
+|                                                                                                                                         800                                                                                                                                          |     850     |  244.0  |    256.0    |1.79|
+|                                                                                                                                      Above 850                                                                                                                                       |             |Above 256|             |1.80|
+|**Note:** The “Ch” value in this table, used in the equation described in section § 174.055(b), corresponds to the value of the vertical distance in feet (meters) from the water surface at the design draft of the unit to the center of area of the “A” value used in the equation.|             |         |             |    |
+
+|                                                                        Shape                                                                         |Cs. |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+|                                                                  Cylindrical shapes                                                                  |0.5 |
+|                                                                 Hull (surface type)                                                                  |1.0 |
+|                                                                      Deckhouse                                                                       |1.0 |
+|                                                                Cluster of deckhouses                                                                 |1.1 |
+|                                          Isolated structural shapes (cranes, angles, channels, beams, etc.)                                          |1.5 |
+|                                                          Under deck areas (smooth surfaces)                                                          |1.0 |
+|                                                     Under deck areas (exposed beams and girders)                                                     |1.3 |
+|                                                     Rig derrick (each face and open truss works)                                                     |1.25|
+|**Note:** The “Cs” value in this table, used in the equation described in § 174.055(b), corresponds to the shape of the projected “A” in the equation.|    |
+
+[CGD 79-023, 48 FR 51048, Nov. 4, 1983, as amended by USCG-2014-0688, 79 FR 58287, Sept. 29, 2014]

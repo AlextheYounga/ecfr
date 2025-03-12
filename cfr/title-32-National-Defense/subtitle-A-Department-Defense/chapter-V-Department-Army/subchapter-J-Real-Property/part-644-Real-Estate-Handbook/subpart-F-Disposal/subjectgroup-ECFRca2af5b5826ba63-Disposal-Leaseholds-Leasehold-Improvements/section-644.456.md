@@ -1,0 +1,3 @@
+##### § 644.456 Rent during the period required for restoration. #####
+
+A sufficent period of time for performance of the restoration, commencing on the date premises are vacated by the Government, will be specified in the Government's estimate, and rent allowed in the settlement during such period to the extent that the lessor is actually deprived of beneficial use. If there is an outstanding maintenance and operation contract with the lessor, contained in either the lease or in an independent instrument, which fixes compensation in addition to the rent, the settlement agreement with the lessor will include the rent and such part of the compensation for maintenance and operation as will be necessarily incurred by the lessor during the performance of restoration.

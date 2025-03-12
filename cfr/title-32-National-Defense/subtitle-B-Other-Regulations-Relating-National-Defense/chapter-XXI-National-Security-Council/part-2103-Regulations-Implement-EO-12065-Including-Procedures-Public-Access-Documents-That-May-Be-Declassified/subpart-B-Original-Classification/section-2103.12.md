@@ -1,0 +1,3 @@
+##### § 2103.12 Level of original classification. #####
+
+Unnecessary classification, and classification at a level higher than is necessary, shall be avoided. If there is reasonable doubt as to which designation in section 1-1 of Executive Order 12065 is appropriate, or whether information should be classified at all, the less restrictive designation should be used, or the information should not be classified.

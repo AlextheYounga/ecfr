@@ -1,0 +1,5 @@
+##### § 1000.6 Commission decisions and records. #####
+
+(a) Each decision of the Commission, acting in an official capacity as a collegial body, is recorded in Minutes of Commission meetings or as a separate Record of Commission Action. Copies of Minutes or of a Record of Commission Action may be obtained by e-mail (*cpsc-os@cpsc.gov*) or written request to the Secretary, Consumer Product Safety Commission, 4330 East West Highway, Bethesda, Maryland 20814, or may be examined at Commission headquarters. Requests should identify the subject matter of the Commission action and the approximate date of the Commission action, if known.
+
+(b) Other records in the custody of the Commission may be requested by e-mail (*cpsc-os@cpsc.gov*) or in writing from the Office of the Secretary pursuant to the Commission's Procedures for Disclosure or Production of Information under the Freedom of Information Act (16 CFR part 1015).

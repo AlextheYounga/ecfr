@@ -1,0 +1,3 @@
+##### § 502.284 By whom conducted. #####
+
+Investigations are conducted by Commission representatives designated and duly authorized for the purpose. (See § 502.25.) Such representatives are authorized to exercise the duties of their office in accordance with the laws of the United States and the regulations of the Commission, including the resort to all compulsory processes authorized by law, and the administration of oaths and affirmances in any matters under investigation by the Commission. [Rule 284.]

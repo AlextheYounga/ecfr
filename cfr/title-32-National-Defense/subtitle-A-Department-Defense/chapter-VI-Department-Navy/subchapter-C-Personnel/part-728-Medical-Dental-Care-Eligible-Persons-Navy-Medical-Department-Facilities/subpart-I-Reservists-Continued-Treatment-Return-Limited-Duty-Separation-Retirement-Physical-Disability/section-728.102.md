@@ -1,0 +1,3 @@
+##### § 728.102 Care from other than Federal sources. #####
+
+The provisions of this subpart do not authorize care for reservists at other than Federal facilities nor out of funds available for operation of USMTFs (supplemental care) after a period of active duty or a period of training duty ends, including travel to and from such training. Such care may be rendered under the provisions of part 732 of this chapter.

@@ -1,0 +1,3 @@
+##### § 308.550 Certificate, Form MA-320. #####
+
+Wherever any provision of this subpart, or any amendment thereto, requires the Assured to make a declaration or certification under the penalties of perjury, and the form of the declaration or certificate is not prescribed, the Assured may execute a certificate on Form MA-320-A for an individual, on Form MA-320-B for a partnership, or on Form MA-320-C for a corporation, which forms may be obtained from MARAD's underwriting agent or MARAD.

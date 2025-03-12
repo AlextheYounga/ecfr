@@ -1,0 +1,3 @@
+##### § 770.36 Definitions. #####
+
+For purposes of these regulations, U.S. Naval installations and properties in Puerto Rico include, but are not limited to, the U.S. Naval Station, Roosevelt Roads (including the Vieques Island Eastern Annexes, consisting of Camp Garcia, the Eastern Maneuver Area, and the Inner Range); the Naval Ammunition Facility, Vieques Island; and the Naval Security Group Activity, Sabana Seca.

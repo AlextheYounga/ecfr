@@ -1,0 +1,3 @@
+##### § 2700.44 Administrative sanctions. #####
+
+Officers and employees of the United States Government assigned to OMSN shall be subject to appropriate administrative sanctions if they knowingly and willingly commit a violation under section 5-5 of E.O. 12065. These sanctions may include reprimand, suspension without pay, removal, termination of classification authority, or other sanction in accordance with applicable law or the applicable regulations of the agency from which they are assigned to OMSN.

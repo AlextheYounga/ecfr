@@ -1,0 +1,5 @@
+##### § 1201.4 Test procedures. #####
+
+Except as provided in §§ 1201.1(c) and (d), architectural glazing products shall be tested in accordance with all of the applicable test provisions of ANSI Z97.1-2015 “*American National Standard for Safety Glazing Materials Used in Building—Safety Performance Specifications and Methods of Test,”* approved March 2015. The Director of the Federal Register approves the incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may obtain a copy from ANSI Customer Service Department, 25 W. 43rd Street, 4th Floor, New York, NY 10036. You may inspect a copy at the Office of the Secretary, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone 301-504-7923, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+
+[81 FR 15431, Mar. 23, 2016]

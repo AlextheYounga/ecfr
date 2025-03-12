@@ -1,0 +1,15 @@
+##### § 765.13 Insignia to be worn on uniform by persons not in the service. #####
+
+(a) Under title 10 U.S.C., section 773, members of military societies composed of persons discharged honorably or under honorable conditions from the United States Army, Navy, Air Force or Marine Corps, regular or reserve, may, when authorized by regulations prescribed by the President, wear the uniform duly prescribed by such societies to be worn by the members thereof.
+
+(b) The law cited in paragraph (a) of this section further provides that instructors and members of duly organized cadet corps at certain institutions of learning may wear the uniform duly prescribed by the authorities of such institutions.
+
+(c) The law cited in paragraph (a) of this section further provides that the uniform worn by members of the military societies or by members and instructors of the cadet corps referred to in paragraph (a) of this section shall include some distinctive mark or insignia prescribed by the Secretary of the military department concerned to distinguish such uniforms from the uniforms of the Army, Navy, Air Force, or Marine Corps.
+
+(d) Accordingly, except as otherwise provided in this paragraph, the following mark is hereby designated to be worn by all persons wearing the Navy or Marine Corps uniform as provided in paragraphs (a), (b), and (c) of this section: A diamond, 31/2 inches long in the vertical axis, and 2 inches wide in the horizontal axis, of any cloth material, white on blue clothing, forestry green on khaki clothing, and blue on white clothing. The figure shall be worn on all outer clothing on the right sleeve, at the point of the shoulder, the upper tip of the diamond to be one-fourth inch below the shoulder seam. For persons who are participating in United States Marine Corps Junior ROTC programs, the following mark is designated to be worn: A round patch, three inches in diameter, which contains a gold Marine Corps emblem centered on a scarlet field. The scarlet field is surrounded with a blue border containing the words “United States Marine Corps Junior ROTC” in white lettering. Surrounding the blue field will be a gold border. Unless otherwise directed, the patch will be worn in the manner described above in connection with the “diamond” insignia.
+
+(e) Within the meaning of paragraph (a) of this section, the occasions when members of the military societies may wear the uniform of their respective society are official functions which such a member attends in his capacity as a war veteran or as a member of such military society.
+
+(f) Marine Corps Uniform Regulations may be examined and individual copies of pertinent provisions thereof may be purchased in accordance with § 701.1 of this chapter.
+
+(Sec. 773, 70A Stat. 35; 10 U.S.C. 773)[13 FR 8971, Dec. 28, 1948, as amended at 26 FR 11794, Dec. 12, 1961; 37 FR 6472, Mar. 30, 1972; 44 FR 37610, June 28, 1979]

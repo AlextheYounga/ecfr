@@ -1,0 +1,3 @@
+##### § 1804.3 Contact for general information and requests. #####
+
+For general information on this part, to inquire about historical access to NACIC records, or to make a formal request for such access, please direct your communication in writing to the Information and Privacy Coordinator, Executive Secretariat, 3W01 NHB, National Counterintelligence Center, Washington, DC 20505. Inquiries will also be accepted by facsimile at (703) 874-5844. For general information only, the telephone number is (703) 874-4121. Collect calls cannot be accepted.

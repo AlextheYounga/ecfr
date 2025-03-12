@@ -1,0 +1,3 @@
+##### § 201.19 Presiding officers. #####
+
+Hearings on any matter before the Administration will be held by a duly designated Member or Members thereof, or a Hearing Examiner qualified under section 11 of the Administrative Procedure Act, assigned by the Chief Hearing Examiner, who shall be designated as the Presiding Officers. Where appropriate the Administration may designate other members of the staff to serve as Presiding Officers in hearings not required by statute, as provided in § 201.86.

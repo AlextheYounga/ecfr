@@ -1,0 +1,3 @@
+##### § 1908.21 Receipt, recording, and tasking. #####
+
+The Information and Privacy Coordinator shall within ten (10) days record each mandatory declassification review request received under this part, acknowledge receipt to the requester in writing (if received directly from a requester), and shall thereafter task the originator and other interested parties. Additional taskings, as required during the review process, shall be accomplished within ten (10) days of notification.

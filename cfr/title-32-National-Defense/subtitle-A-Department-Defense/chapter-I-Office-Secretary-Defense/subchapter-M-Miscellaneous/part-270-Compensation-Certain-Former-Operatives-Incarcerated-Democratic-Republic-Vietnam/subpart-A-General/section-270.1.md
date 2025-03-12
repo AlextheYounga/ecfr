@@ -1,0 +1,3 @@
+##### § 270.1 Purpose. #####
+
+The purpose of this part is to implement section 657 of the National Defense Authorization Act for Fiscal Year 1997 (Pub. L. 104-201), which authorizes the Secretary of Defense to make payments to persons who demonstrate to the satisfaction of the Secretary of Defense that the persons were captured and incarcerated by the Democratic Republic of Vietnam as a result of the participation by the persons in certain operations conducted by the Republic of Vietnam.

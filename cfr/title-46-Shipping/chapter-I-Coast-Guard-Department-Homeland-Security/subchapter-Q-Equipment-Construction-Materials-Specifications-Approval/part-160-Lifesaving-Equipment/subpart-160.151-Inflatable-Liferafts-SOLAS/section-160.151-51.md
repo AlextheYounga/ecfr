@@ -1,0 +1,3 @@
+##### § 160.151-51 Notice of approval. #####
+
+If the cognizant OCMI determines that the servicing facility meets the applicable requirements of §§ 160.151-39 through 160.151-47, the OCMI notifies the facility that it is approved and notifies the Commandant. The Commandant issues an approval letter to the servicing facility with copies to the OCMI and to the manufacturer(s) whose liferafts the facility is approved to service. The letter will specify any limits on the approval, and will assign the facility's approval code for use on the inspection sticker required by § 160.151-57(m)(3). The Commandant will maintain a current list of approved facilities.

@@ -1,0 +1,3 @@
+##### § 5.60 Scheduling of hearing. #####
+
+The presiding official shall fix the date, time and place of the hearing. The hearing shall not be scheduled earlier than fifteen days after receipt of the respondent's answer and request for a hearing. In fixing the time, date and place of the hearing, the presiding official shall give due regard to the respondent's need for adequate time to prepare a defense and an expeditious resolution of allegations that may be damaging to his or her reputation.

@@ -1,0 +1,3 @@
+##### § 536.1 Purpose of the Army Claims System. #####
+
+This part sets forth policies and procedures that govern the investigating, processing, and settling of claims against, and in favor of, the United States under the authority conferred by statutes, regulations, international and interagency agreements, and Department of Defense Directives (DODDs). It is intended to ensure that claims are investigated properly and adjudicated according to applicable law, and valid recoveries and affirmative claims are pursued against carriers, third-party insurers, and tortfeasors.

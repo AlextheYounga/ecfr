@@ -1,0 +1,3 @@
+##### § 239.2 Applicability and scope. #####
+
+This part applies to the Office of the Secretary of Defense, the Military Departments (including the U.S. Coast Guard), the Chairman of the Joints Chiefs of Staff, the Combatant Commands, the Inspector General of the Department of Defense, the Defense Agencies, DoD Field Activities, and all other organizational entities within the Department of Defense (hereafter referred to collectively as the “DoD Components”). This part for Expanded HAP is applicable until September 30, 2012, or as otherwise extended by law.

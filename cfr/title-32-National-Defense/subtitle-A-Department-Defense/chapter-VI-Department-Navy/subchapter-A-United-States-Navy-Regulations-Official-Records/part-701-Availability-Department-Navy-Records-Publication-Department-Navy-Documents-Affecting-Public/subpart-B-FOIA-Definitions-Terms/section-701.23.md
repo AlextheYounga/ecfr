@@ -1,0 +1,3 @@
+##### § 701.23 Executive Order 12958. #####
+
+Revoked Executive Order 12356 on October 14, 1995 and is the basis for claiming that information is currently and properly classified under (b)(1) exemption of the FOIA. It sets forth new requirements for classifying and declassifying documents. It recognizes both the right of the public to be informed about the activities of its government and the need to protect national security information from unauthorized or untimely disclosure.

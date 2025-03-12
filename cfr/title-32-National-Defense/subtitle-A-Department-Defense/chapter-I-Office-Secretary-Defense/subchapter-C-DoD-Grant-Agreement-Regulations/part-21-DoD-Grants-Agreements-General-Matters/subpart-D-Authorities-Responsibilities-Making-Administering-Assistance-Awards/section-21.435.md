@@ -1,0 +1,3 @@
+##### § 21.435 Must DoD Components formally select and appoint grants officers and agreements officers? #####
+
+Yes, each DoD Component that awards grants or enters into cooperative agreements must have a formal process (see § 21.425) for selecting and appointing grants officers and for terminating their appointments. Similarly, each DoD Component that awards or administers technology investment agreements must have a process for selecting and appointing agreements officers and for terminating their appointments.

@@ -1,0 +1,3 @@
+##### § 67.121 Official number marking requirement. #####
+
+The official number of the vessel, preceded by the abbreviation “NO.” must be marked in block-type Arabic numerals not less than three inches in height on some clearly visible interior structural part of the hull. The number must be permanently affixed to the vessel so that alteration, removal, or replacement would be obvious. If the official number is on a separate plate, the plate must be fastened in such a manner that its removal would normally cause some scarring of or damage to the surrounding hull area.

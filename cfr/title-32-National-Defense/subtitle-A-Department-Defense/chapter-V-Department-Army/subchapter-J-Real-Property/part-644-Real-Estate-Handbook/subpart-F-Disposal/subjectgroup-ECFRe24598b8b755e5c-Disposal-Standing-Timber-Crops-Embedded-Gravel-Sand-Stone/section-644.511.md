@@ -1,0 +1,3 @@
+##### § 644.511 Certificate of competency by SBA. #####
+
+Section 8(b)(7) of the Small Business Act (15 U.S.C. 637(b)(7)) authorizes the SBA to certify the competency of a small business concern as to capacity and credit. In any case where timber is being sold on a credit basis, if the bid is being questioned solely on the financial ability of the bidder and the bidder is a small business concern, the DE will notify the appropriate SBA field office immediately and follow the other procedures provided by Section III of the DOD-SBA Agreement. A certificate of competency issued by SBA will be honored in such cases.

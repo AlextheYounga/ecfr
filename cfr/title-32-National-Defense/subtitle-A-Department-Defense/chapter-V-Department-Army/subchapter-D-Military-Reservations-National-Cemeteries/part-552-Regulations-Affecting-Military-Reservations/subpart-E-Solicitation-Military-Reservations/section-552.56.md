@@ -1,0 +1,3 @@
+##### § 552.56 Licensing requirements. #####
+
+To transact personal commercial business on military installations in the United States, its territories, and the Commonwealth of Puerto Rico, individuals must present, on demand, to the installation commander, or his designee, documentary evidence that the company and its agents meet the licensing requirements of the State in which the installation is located. They must also meet any other applicable regulatory requirements imposed by civil authorities (Federal, State, county, or municipality). For ease of administration, the installation commander will issue a temporary permit to agents who meet these requirements.

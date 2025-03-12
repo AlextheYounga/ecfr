@@ -1,0 +1,9 @@
+##### § 989.20 Final EIS. #####
+
+(a) If changes in the draft EIS are minor or limited to factual corrections and responses to comments, the proponent and EPF may, with the prior approval of HQ USAF/A7CI and SAF/IEI, prepare a document containing only comments on the Draft EIS, Air Force responses, and errata sheets of changes staffed to the HQ USAF ESOHC for coordination. However, the EPF must submit the Draft EIS and all of the above documents, with a new cover sheet indicating that it is a final EIS (40 CFR 1503.4(c)), to HQ USAF/A7CI for filing with the EPA (40 CFR 1506.9). If more extensive modifications are required, the EPF must prepare a preliminary final EIS incorporating these modifications for coordination within the Air Force. Regardless of which procedure is followed, the final EIS must be processed in the same way as the draft EIS, including receipt of copies of the EIS by SAF/LLP, except that the public need not be invited to comment during the 30-day post-filing waiting period. The Final EIS should be furnished to every person, organization, or agency that made substantive comments on the Draft EIS or requested a copy. Although the EPF is not required to respond to public comments received during this period, comments received must be considered in determining final decisions such as identifying the preferred alternative, appropriate mitigations, or if a supplemental analysis is required.
+
+(b) The EPF processes all necessary supplements to EISs (40 CFR 1502.9) in the same way as the original Draft and Final EIS, except that a new scoping process is not required.
+
+(c) If major steps to advance the proposal have not occurred within 5 years from the date of the Final EIS approval, reevaluation of the documentation should be accomplished to ensure its continued validity.
+
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001; 72 FR 37106, July 9, 2007; 79 FR 35287, June 20, 2014]

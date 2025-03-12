@@ -1,0 +1,9 @@
+##### § 536.65 Denial notice. #####
+
+(a) Where there is no reasonable basis for compromise, a settlement authority will deny a claim within his or her monetary jurisdiction or forward the claim recommending denial to the settlement authority that has jurisdiction. The denial notice will contain instructions on the right to sue or request reconsideration. The notice will state the basis for denial. No admission of liability will be made. A notice to an unrepresented claimant should detail the basis for denial in lay language sufficient to permit an informed decision as to whether to request appeal or reconsideration. In the interest of deterring reconsideration, appeal or suit, a denial notice may be releasable under the Federal Rules of Civil Procedure or by the work product documents doctrine.
+
+(b) Regardless of the claim's nature or the statute under which it may be considered, letters denying claims on jurisdictional grounds that are valid, certain, and not easily overcome (and for this reason no detailed investigation as to the merits of the claim was conducted), must state that denial on such grounds is not to be construed as an opinion on the merits of the claim or an admission of liability. In medical malpractice claims, the denial should state that the file is being referred to U.S. Army Medical Command for review. If sufficient factual information exists to make a tentative ruling on the merits of the claim, liability may be expressly denied.
+
+Note to § 536.65:
+
+See § 536.53, on denying a claim for failure to substantiate. In addition, the procedures and rules in DA Pam 27-162, paragraph 2-69, settlement and approval authority, apply equally to the denial of claims. See also DA Pam 27-162, paragraph 2-75.

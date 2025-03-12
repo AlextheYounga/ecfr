@@ -1,0 +1,3 @@
+##### § 536.145 Solatia payment. #####
+
+Payment of solatia in accordance with local custom as an expression of sympathy toward a victim or his or her family is common in some overseas commands. Solatia payments are known to be a custom in the Federated States of Micronesia, Japan, Korea, and Thailand. In other countries, the FCC should consult the command claims service or Commander USARCS for guidance. Such payments are not to be made from the claims expenditure allowance. These payments are made from local operation and maintenance funds. This applies even where a command claims service is directed to administer the command's solatia program. See, for example, United States Forces Korea Regulation 526-11 regarding solatia amounts and procedures.

@@ -1,0 +1,3 @@
+##### § 1909.9 Action by the ARP. #####
+
+The ARP shall meet on a regular schedule and may take action when a simple majority of the total membership is present. A recommendation to the Senior Agency Official concerning whether or not to grant requests for access to classified CIA information by former Presidents or Vice Presidents, by former Presidential or Vice Presidential appointees or designees, or by historical researchers shall be made by a majority vote of the members present.

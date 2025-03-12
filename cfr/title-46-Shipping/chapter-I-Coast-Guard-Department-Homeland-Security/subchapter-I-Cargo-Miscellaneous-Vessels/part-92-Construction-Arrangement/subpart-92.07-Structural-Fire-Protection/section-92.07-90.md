@@ -1,0 +1,7 @@
+##### § 92.07-90 Vessels contracted for prior to July 1, 1968. #####
+
+(a) For all vessels of 4,000 gross tons and over contracted for prior to January 1, 1962, existing structure arrangements and materials previously approved will be considered satisfactory so long as they are maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection. Minor repairs and alterations may be made to the same standard as the original construction. Major alterations and conversions shall be in compliance with the provisions of this subpart to the satisfaction of the Officer in Charge, Marine Inspection.
+
+(b) For industrial vessels of 300 gross tons and over but less than 4,000 gross tons, contracted for prior to July 1, 1968, which carry in excess of 12 industrial personnel, existing structure arrangements and materials previously approved will be considered satisfactory so long as they are maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection. Minor repairs and alterations may be made to the same standard as the original construction. Major alterations and conversions shall be in compliance with this subpart to the satisfaction of the Officer in Charge, Marine Inspection.
+
+[CGFR 67-90, 33 FR 1016, Jan. 26, 1968]

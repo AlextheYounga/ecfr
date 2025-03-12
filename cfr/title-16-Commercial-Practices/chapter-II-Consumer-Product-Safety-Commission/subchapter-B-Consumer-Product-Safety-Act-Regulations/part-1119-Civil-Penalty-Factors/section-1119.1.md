@@ -1,0 +1,3 @@
+##### § 1119.1 Purpose. #####
+
+This part sets forth the Consumer Product Safety Commission's (Commission) interpretation of the statutory factors considered in determining the amount of civil penalties that the Commission may seek or compromise. The policies behind, and purposes of, civil penalties include the following: Deterring violations; providing just punishment; promoting respect for the law; promoting full compliance with the law; reflecting the seriousness of the violation; and protecting the public.

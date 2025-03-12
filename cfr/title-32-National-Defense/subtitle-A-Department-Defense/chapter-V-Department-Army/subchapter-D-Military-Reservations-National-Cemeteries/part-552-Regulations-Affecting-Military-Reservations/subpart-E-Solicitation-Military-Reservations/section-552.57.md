@@ -1,0 +1,5 @@
+##### § 552.57 Authorization to solicit. #####
+
+(a) Solicitation must be authorized by the installation commander. A specific appointment must be made with the individual and must be conducted in family quarters or in other areas designated by the installation commander. Before issuing a permit to solicit, the commander will require and review a statement of past employment. The commander will also determine, if practicable, whether the agent is employed by a reputable firm.
+
+(b) Certain companies seeking solicitation privileges on military installations may arrange personal demonstrations of their products at social gatherings and advise potential customers on their use. If these added services are provided, even though the merchandise sold by these companies is similar to that stocked by the post exchange, the installation commander may authorize solicitation privileges. Requests for this type of solicitation privilege will be coordinated with the local Army and Air Force Exchange Service representative. See paragraph 3-2, Army Regulation 60-10.

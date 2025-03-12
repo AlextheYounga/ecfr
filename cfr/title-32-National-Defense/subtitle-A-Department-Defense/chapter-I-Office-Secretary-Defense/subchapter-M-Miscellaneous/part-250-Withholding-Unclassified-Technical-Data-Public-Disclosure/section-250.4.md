@@ -1,0 +1,17 @@
+##### § 250.4 Policy. #####
+
+(a) In accordance with 10 U.S.C. 140c, the Secretary of Defense may withhold from public disclosure, notwithstanding any other provision of law, any technical data with military or space application in the possession of, or under the control of, the Department of Defense, if such data may not be exported lawfully without an approval, authorization, or license under E.O. 12470 or the Arms Export Control Act. However, technical data may not be withheld under this section if regulations promulgated under either the Order or Act authorize the export of such data pursuant to a general, unrestricted license or exemption in such regulations. (Pertinent portions of such regulations are set forth in §§ 250.7 and 250.8).
+
+(b) Because public disclosure of technical data subject to this part is tantamount to providing uncontrolled foreign access, withholding such data from public disclosure, unless approved, authorized, or licensed in accordance with export control laws, is necessary and in the national interest. Unclassified technical data that are not governed by this part, unless otherwise restricted, shall continue to be made available to the public as well as to state and local governments.
+
+(c) Nothwithstanding the authority provided in paragraph (a), of this section, it is DoD policy to provide technical data governed by this part to individuals and enterprises that are determined to be currently qualified U.S. contractors, when such data relate to a legitimate business purpose for which the contractor is certified. However, when such data are for a purpose other than to permit the requester to bid or perform on a contract with the Department of Defense, or other U.S. Government agency, and the significance of such data for military purposes is such that release for purposes other than direct support of DoD activities may jeopardize an important U.S. technological or operational advantage, those data shall be withheld in such cases.
+
+(d) This part may not be used by DoD Components as authority to deny access to technical data to the Congress, or to any Federal, State, or local governmental agency that requires such data for regulatory or other official governmental purposes. Any such dissemination will include a statement that the technical data are controlled by the Department of Defense in accordance with this part.
+
+(e) The authority provided herein may not be used to withhold from public disclosure unclassified information regarding DoD operations, policies, activities, or programs, including the costs and evaluations of performance and reliability of military and space equipment. When such information does contain technical data subject to this part, the technical data shall be excised from that which is disclosed publicly.
+
+(f) This part may not be used as a basis for the release of “limited rights” or “restricted rights” data as defined in 32 CFR 9-201(c) and 9-601(j) of the DoD Acquisition Regulation or that are authorized to be withheld from public disclosure under the Freedom of Information Act (FOIA).
+
+(g) This part may not be used to provide protection for technical data that should be classified in accordance with E.O. 12356 and DoD 5200.1-R.
+
+(h) This part provides immediate authority to cite 5 U.S.C. 552(b)(3) as the basis for denials under the FOIA of technical data currently determined to be subject to the provisions of this part.

@@ -1,0 +1,21 @@
+##### § 242.5 Admission procedures. #####
+
+(a) *Application* - (1) *Civilians.* Civilians seeking admission to the School of Medicine shall make direct application following instructions published in the School catalog. These applications shall include an indication of Service preference(s).
+
+(2) *Military personnel.* Formal application requirements shall be the same as those for civilians except that military personnel shall be required to have approval, in writing, from the Secretary of the Military Department concerned or his designee prior to submitting formal application to the School of Medicine for admission. The individual concerned shall initiate the request for approval to apply through appropriate Service channels. The Secretaries of the Military Departments, or their designees, shall consider the criteria in § 242.4(a) (1) through (5) and paragraph (a)(8) of that section as the basis for approving/disapproving such requests. An information copy of each approval shall be forwarded to the School of Medicine, USUHS, Attn: Assistant Dean for Academic Support. The School of Medicine shall not process a military person's application until official approval is received from the Military Department concerned.
+
+(b) *Conditional selection of candidates for admission.* The School of Medicine shall review all applications and conditionally select candidates to fill available class spaces. Those conditionally selected shall be the best qualified applicants, based on aptitude, intelligence, maturity, personality, emotional stability, diligence, stamina, enthusiasm, motivation, and other relevant factors, consistent with the practices followed by other professional training institutions.
+
+(1) *Civilian selectees.* The School of Medicine shall ensure that civilian selectees meet the eligibility criteria in § 242.4(a) (1) through (4), paragraph (a) (6) and (7) of that section.
+
+(2) *Military selectees.* Military Departments are required to screen and approve their personnel for criteria in § 242.4(a) (1) through (5), and paragraph (a)(8) of that section before they apply for admission. The School of Medicine shall ensure that all military selectees meet the eligibility criteria of § 242.4 (6) and (7).
+
+(c) *Notification of conditional selection for admission.* The School of Medicine shall notify selectees in writing of their conditional selection for admission, with the stipulation that it is subject to review and confirmation by the Service in which selectees are assigned to serve.
+
+(d) *Confirmation of selectees.* (1) The names and relevant credentials of selectees shall be referred by the School of Medicine to the Secretaries of the Military Departments or their designees. An informational copy of this action will be provided to the Assistant Secretary of Defense Health Affairs.
+
+(2) The Secretaries, or their designees, shall initiate necessary actions (records checks, physical examinations, and National Agency Checks, as required, consistent with § 242.4(a)(5)) to determine whether or not the selected candidates are acceptable for commissioning. (Physical examinations for military personnel, if required, shall be performed at the individual's supporting military medical facility and reviewed by the Department of Defense Medical Examination Review Board (DoDMERB). Physical examinations for civilians shall be scheduled and reviewed by the DoDMERB, in accordance with the procedures and policies that agency establishes.) Secretaries of the Military Departments, or their designees, shall advise the School of Medicine as to the acceptability for commissioning of candidates within 45 days of receipt of referral lists, furnishing reasons for those found nonacceptable.
+
+(e) *Notification of acceptance for admission.* As soon as candidates are approved for commissioning by their appropriate components, they shall be advised in writing by the School of Medicine that they are unconditionally accepted for admission.
+
+[54 FR 31335, July 28, 1989]

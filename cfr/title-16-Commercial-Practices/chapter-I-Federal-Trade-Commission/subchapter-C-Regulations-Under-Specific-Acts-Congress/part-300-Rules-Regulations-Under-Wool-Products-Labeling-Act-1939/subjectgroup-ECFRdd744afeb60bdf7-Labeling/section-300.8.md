@@ -1,0 +1,21 @@
+##### § 300.8 Use of fiber trademark and generic names. #####
+
+(a) Except where another name is required or permitted under the Act or regulations, the respective common generic name of the fiber shall be used when naming fibers in the required information; as for example, “wool,” “recycled wool,” “cotton,” “rayon,” “silk,” “linen,” “acetate,” “nylon,” “polyester.”
+
+(b) The generic names of manufactured fibers as heretofore or hereafter established in § 303.7 of this part (Rule 7) of the regulations promulgated under the Textile Fiber Products Identification Act (72 Stat. 1717; 15 U.S.C. 70) shall be used in setting forth the required fiber content information as to wool products.
+
+(c) A non-deceptive fiber trademark may be used on a label in conjunction with the generic name of the fiber to which it relates. Where such a trademark is placed on a label in conjunction with the required information, the generic name of the fiber must appear in immediate conjunction therewith, and such trademark and generic name must appear in type or lettering of equal size and conspicuousness.
+
+(d) Where a generic name or a fiber trademark is used on any label, whether required or non-required, a full fiber content disclosure with percentages shall be made in accordance with the Act and regulations. Where a generic name or a fiber trademark is used on any hang-tag attached to a wool product that has a label providing required information and the hang-tag provides non-required information, such as a hang-tag stating only a generic fiber name or trademark or providing information about a particular fiber's characteristics, the hang-tag need not provide a full fiber content disclosure; however, if the wool product contains any fiber other than the fiber identified by the generic fiber name or trademark, the hang-tag must disclose clearly and conspicuously that it does not provide the product's full fiber content; for example:
+
+“This tag does not disclose the product's full fiber content.” or
+
+“See label for the product's full fiber content.”
+
+(e) If a fiber trademark is not used in the required information, but is used elsewhere on the label as nonrequired information, the generic name of the fiber shall accompany the fiber trademark in legible and conspicuous type or lettering the first time the trademark is used.
+
+(f) No fiber trademark or generic name or word, coined word, symbol or depiction which connotes or implies any fiber trademark or generic name shall be used on any label or elsewhere on the product in such a manner as to be false, deceptive, or misleading as to fiber content, or to indicate directly or indirectly that a wool product is composed wholly or in part of a particular fiber, when such is not the case.
+
+(g) The term *fur fiber* may be used to describe the hair or fur fiber or mixtures thereof of any animal or animals other than the sheep, lamb, Angora goat, Cashmere goat, camel, alpaca, llama and vicuna. If the name, symbol, or depiction of any animal producing the hair or fur fiber is used on the stamp, tag, label, or other means of identification applied or affixed to the wool product, the percentage by weight of such hair or fur fiber in the total fiber weight of the wool product shall be separately stated in the required fiber content disclosure: *Provided,* That no such name, symbol or depiction shall be used where such hair or fur fiber is present in the amount of less than five per centum of the total fiber weight. No such name, symbol or depiction shall be used in such a way as to imply in any manner that a wool product contains the fur or hair of an animal when the hair or fur fiber of such animal is not present in the product in the amount of five per centum or more of the total fiber weight. The following are examples of fiber content disclosures under this paragraph:
+
+60% Wool40% Fur Fiber or60% Wool30% Fur Fiber10% Angora Rabbit or100% Cashgora Hair or100% Paco-Vicuna Hair[29 FR 6624, May 21, 1964, as amended at 45 FR 44261, July 1, 1980; 63 FR 7516, Feb. 13, 1998; 79 FR 32163, June 4, 2014]

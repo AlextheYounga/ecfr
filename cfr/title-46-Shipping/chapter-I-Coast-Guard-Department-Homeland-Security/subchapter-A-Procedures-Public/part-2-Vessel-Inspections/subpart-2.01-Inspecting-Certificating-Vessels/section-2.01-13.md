@@ -1,0 +1,9 @@
+##### § 2.01-13 Inspection requirements—foreign vessels. #####
+
+(a) Foreign vessels registered in countries which are parties to the effective International Convention for Safety of Life at Sea are normally subject to the examination provided for in chapter I of that Convention. However, in the case of any vessel involving novel features of design or construction, upon which that Convention is silent or which involve potential unusual operating risks, a more extensive inspection may be required when considered necessary to safeguard the life or property in United States ports where such vessel may enter. In such a case, pertinent plans and/or calculations may be required to be submitted sufficiently in advance to permit evaluation before inspection.
+
+(b) Foreign vessels registered in countries which are not parties to the effective International Convention for Safety of Life at Sea, or foreign vessels registered in countries which are parties to the effective Convention but which vessels are exempted from part or all of the Convention, may under conditions specified in applicable inspection laws be subject to inspection and certification as specified in regulations governing specific categories of vessels.
+
+(c) For details concerning application of regulations to foreign vessels, see part 30 (Tank Vessels), part 70 (Passenger Vessels), part 90 (Cargo and Miscellaneous Vessels), § 147.1 (Dangerous Cargoes), part 148 (Bulk Solid Hazardous Materials), parts 153 and 154 (Certain Bulk Dangerous Cargoes), and part 175 (Small Passenger Vessels) of this chapter.
+
+[CGFR 65-50, 30 FR 16604, Dec. 30, 1965, as amended by CGD 73-96, 42 FR 49022, Sept. 26, 1977; CGD 97-057, 62 FR 51041, Sept. 30, 1997]

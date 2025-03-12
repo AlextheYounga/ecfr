@@ -1,0 +1,3 @@
+##### § 1112.31 Who is subject to these audit requirements? #####
+
+Except for certifying organizations described in 16 CFR 1500.14(b)(8), these audit requirements apply to third party conformity assessment bodies operating pursuant to section 14(a)(2) of the CPSA. Third party conformity assessment bodies must comply with the audit requirements as a continuing condition of the CPSC's acceptance of their accreditation.

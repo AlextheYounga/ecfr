@@ -1,0 +1,3 @@
+##### § 189.01-5 Posting. #####
+
+(a) The original certificate of inspection shall, in general, be framed under glass or other transparent material and posted in a conspicuous place where it will be most likely to be observed. On other vessels such as barges, where the framing of the certificate under glass would be impracticable, the original certificate of inspection shall be kept on board to be shown on demand.

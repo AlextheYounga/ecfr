@@ -1,0 +1,19 @@
+##### § 7.31 Classification challenges. #####
+
+(a) Authorized holders of information classified by DHS or any other agency who, in good faith, believe that specific information is improperly or unnecessarily classified are encouraged and expected to challenge the classification status of that information pursuant to section 1.8 of Executive Order 13526. Authorized holders may submit classification challenges in writing to the original classification authority with jurisdiction over the information in question. If an original classification authority cannot be determined, the challenge shall be submitted to the Office of the Chief Security Officer, Administrative Security Division. The challenge need not be more specific than a question as to why the information is or is not classified, or is classified at a certain level.
+
+(b) If anonymity of the challenger is requested, the challenger may submit the challenge to the Office of the Chief Security Officer, Administrative Security Division. The Administrative Security Division will act as an agent for the challenger and the identity of the challenger will be redacted.
+
+(c) The original classification authority shall no later than 60 days from receipt of the challenge, provide a written response to the submitter. The original classification authority may classify or declassify the information subject to the challenge and, if applicable, state specific reasons why the original classification determination was proper. If the original classification authority is not able to respond within 60 days, he or she shall inform the individual who filed the challenge in writing of that fact, and the anticipated determination date.
+
+(d) The individual challenging the classification will be notified of the determination made by the original classification authority and that the individual may appeal this determination to the Chief Security Officer, or in cases involving appeals by Office of Inspector General employees, the Secretary or Deputy Secretary. Upon receipt of such appeals, the Chief Security Officer, or in cases involving appeals by Office of Inspector General employees, the Secretary or Deputy Secretary, shall convene a DHS Classification Appeals Panel (DHS/CAP). The DHS/CAP shall, at a minimum, consist of representatives from the Office of the Chief Security Officer, the Office of General Counsel, and a representative from the component having jurisdiction over the information. Additional members may be added as determined by the Chief Security Officer. The DHS/CAP shall be chaired by the Chief Security Officer.
+
+(e) If the requester files an appeal through the DHS/CAP, and the appeal is denied, the requester shall be notified of the right to appeal the denial to the Interagency Security Classification Appeals Panel (ISCAP) pursuant to section 5.3 of Executive Order 13526, and the rules issued by the ISCAP pursuant to section 5.3 of Executive Order 13526.
+
+(f) Any individual who challenges a classification and believes that any action has been taken against him or her in retaliation or retribution because of that challenge may report the facts to the Office of Inspector General via its Hotline or Web site, or other appropriate office.
+
+(g) Nothing in this section shall prohibit a person from informally challenging the classified status of information directly to the original classification authority.
+
+(h) Classification challenge provisions are not applicable to documents required to be submitted for prepublication review or other administrative process pursuant to an approved non-disclosure agreement.
+
+(i) Requests for review of classified material for declassification by persons other than authorized holders are governed by § 7.32.

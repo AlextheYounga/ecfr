@@ -1,0 +1,3 @@
+##### § 1700.4 Preliminary information. #####
+
+Members of the public shall address all communications to the point of contact specified in § 1700.3 and clearly delineate the communication as a request under the FOIA. ODNI staff who receive a FOIA request shall expeditiously forward the request to the Director, Information Management Office (IMO). Requests and appeals (as well as referrals and consultations) received from FOIA requesters who owe outstanding fees for information services at this or other federal agencies will not be accepted and action on all pending requests shall be terminated in such circumstances.

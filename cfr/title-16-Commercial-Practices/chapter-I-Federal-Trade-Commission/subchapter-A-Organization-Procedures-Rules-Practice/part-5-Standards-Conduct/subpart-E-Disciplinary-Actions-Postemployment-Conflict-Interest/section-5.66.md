@@ -1,0 +1,3 @@
+##### § 5.66 Commission decision and reconsideration. #####
+
+The Commission's decision and any reconsideration or reopening of the proceeding shall be governed by §§ 2.51, 3.54, 3.55, 3.71 and 3.72 of the Commission's Rules of Practice, except that (a) if the initial decision is modified or reversed, the Commission shall specify such findings of fact and conclusions of law as are different from those of the presiding official; and (b) references therein to “court of appeals” shall be deemed for purposes of proceedings under this part to refer to “district court.”

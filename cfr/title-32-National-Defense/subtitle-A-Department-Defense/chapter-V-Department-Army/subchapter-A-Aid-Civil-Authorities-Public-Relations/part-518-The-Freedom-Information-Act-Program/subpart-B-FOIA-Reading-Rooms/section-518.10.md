@@ -1,0 +1,9 @@
+##### § 518.10 “(a)(2)” materials. #####
+
+(a) The DA FOIA/PA Office shall maintain in the facility an index of materials described in paragraphs (b)(1) through (4) of § 518.9, that are issued, adopted, or promulgated after July 4, 1967. No “(a)(2)” materials issued, promulgated, or adopted after July 4, 1967 that are not indexed and either made available or published may be relied upon, used or cited as precedent against any individual unless such individual has actual and timely notice of the contents of such materials. Such materials issued, promulgated, or adopted before July 4, 1967 need not be indexed, but must be made available upon request if not exempted under this part.
+
+(b) The DA FOIA/PA Office shall promptly publish quarterly or more frequently, and distribute, by sale or otherwise, copies of each index of “(a)(2)” materials or supplements thereto unless it publishes in the Federal Register an order containing a determination that publication is unnecessary and impracticable. A copy of each index or supplement not published shall be provided to a requester at a cost not to exceed the direct cost of duplication as set forth in subpart F of this part.
+
+(c) Each index of “(a)(2)” materials or supplement thereto shall be arranged topically or by descriptive words rather than by case name or numbering system so that members of the public can readily locate material. Case name and numbering arrangements, however, may also be included for Army convenience.
+
+(d) A general index of FOIA-processed (a)(2) records shall be made available to the public, both in hard copy and electronically.

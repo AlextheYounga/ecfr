@@ -1,0 +1,3 @@
+##### § 701.36 Release authorities. #####
+
+Commanding officers and heads of Navy and Marine Corps shore activities or their designees are authorized to grant requests on behalf of SECNAV for agency records under their possession and control for which no FOIA exemption applies. As necessary, they will coordinate releases with other officials who may have an interest in the releasability of the record.

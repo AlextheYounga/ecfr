@@ -1,0 +1,3 @@
+##### § 1900.14 Fee estimates (pre-request option). #####
+
+In order to avoid unanticipated or potentially large fees, a requester may submit a request for a fee estimate. The Agency will endeavor within ten (10) days to provide an accurate estimate, and, if a request is thereafter submitted, the Agency will not accrue or charge fees in excess of our estimate without the specific permission of the requester. Effective October 2, 1997, the ten (10) day provision is modified to twenty (20) days pursuant to the Electronic Freedom of Information Act Amendments of 1996.

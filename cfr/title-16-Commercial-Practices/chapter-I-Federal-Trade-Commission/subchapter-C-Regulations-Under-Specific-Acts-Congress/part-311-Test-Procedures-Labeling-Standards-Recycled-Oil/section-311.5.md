@@ -1,0 +1,3 @@
+##### § 311.5 Labeling. #####
+
+A manufacturer or other seller may represent, on a label on a container of processed used oil, that such oil is substantially equivalent to new oil for use as engine oil only if the manufacturer has determined that the oil is substantially equivalent to new oil for use as engine oil in accordance with the NIST test procedures prescribed under § 311.4 of this part, and has based the representation on that determination.

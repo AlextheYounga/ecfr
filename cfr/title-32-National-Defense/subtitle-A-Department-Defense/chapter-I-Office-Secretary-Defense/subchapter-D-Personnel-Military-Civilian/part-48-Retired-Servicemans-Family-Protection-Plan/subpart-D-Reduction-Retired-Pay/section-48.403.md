@@ -1,0 +1,9 @@
+##### § 48.403 Payment of nonwithheld reduction of retired pay. #####
+
+(a) A member of a uniformed service who is entitled to retired pay and has made an election shall, during any period in which he is not receiving retired pay (including periods of active duty), deposit the amount which would have been withheld from his retired pay had he been receiving that pay.
+
+(b) Such deposit will be payable to Treasurer of the United States and shall be forwarded monthly to the disbursing office which would normally pay the member his retired pay.
+
+(c) The disbursing office will in all cases inform the member of the amount to be deposited and when such deposits are to be made.
+
+(d) In the event deposits are not made within 30 days of the due date, the disbursing office will inform the member concerned that he is delinquent from such due date and thereafter his designated beneficiaries will not be eligible for the annuity provided under the Plan until the arrears have been paid. The notification of delinquency will advise the member that 15 additional days have been granted to him in which to remit his deposit, and that if the arrears are not deposited within that period, the member will be charged interest to include the first day of delinquency. In no case will the expiration date of the 15 days exceed a date later than 45 days from the date the deposit was due. The interest will be computed monthly and the rate will be that used in computing the cost tables in effect on the date of the member's retirement. If such member later becomes in receipt of retired pay, any arrears with compound interest will be withheld.

@@ -1,0 +1,3 @@
+##### § 770.38 Entry restrictions. #####
+
+Except for duly authorized military personnel and civilian employees, including contract employees, of the United States in the performance of their official duties, entry upon any U.S. Navy installation or property in Puerto Rico at anytime, by any person for any purpose whatsoever without the advance consent of the Commanding Officer of the installation or property concerned, or an authorized representative of that Commanding Officer, is prohibited.

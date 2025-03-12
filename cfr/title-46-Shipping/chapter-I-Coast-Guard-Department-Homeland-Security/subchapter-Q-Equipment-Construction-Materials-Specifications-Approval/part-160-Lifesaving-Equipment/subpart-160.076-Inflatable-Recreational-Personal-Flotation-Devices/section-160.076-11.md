@@ -1,0 +1,13 @@
+##### § 160.076-11 Incorporation by reference. #####
+
+(a) Certain materials are incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than the one listed in this section, the Coast Guard must publish notice of the change in the Federal Register, and the material must be available to the public. All approved material is available for inspection at the National Archives and Records Administration (NARA) and at Coast Guard Headquarters. Contact Commandant (CG-ENG-4), Attn: Lifesaving and Fire Safety Division, U.S. Coast Guard Stop 7509, 2703 Martin Luther King Jr. Avenue, SE., Washington, DC 20593-7509. The material is available from the sources indicated in paragraph (b) of this section. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(b) Underwriters Laboratories (UL) *Underwriters Laboratories, Inc., 333 Pfingsten Road, Northbrook, IL 60062-2096 (Phone (847) 272-8800; Facsimile: (847) 272-8129; Web site: www.ul.com).*
+
+(1) UL 1123, UL Standard for Safety for Marine Buoyant Devices, Seventh Edition including revisions through February 14, 2011, (dated October 1, 2008), (“UL 1123”), incorporation by reference approved for § 160.076-35.
+
+(2) UL 1180, UL Standard for Safety for Fully Inflatable Recreational Personal Flotation Devices, Second Edition including revisions through December 3, 2010, (dated February 13, 2009), (“UL 1180”), incorporation by reference approved for §§ 160.076-7; 160.076-9; 160.076-21; 160.076-23; 160.076-25; 160.076-31; 160.076-37; and 160.076-39.
+
+(3) UL 1191, UL Standard for Safety for Components for Personal Flotation Devices, Fourth Edition including revisions through August 24, 2011, (dated December 12, 2008), (“UL 1191”), incorporation by reference approved for §§ 160.076-21; 160.076-25; 160.076-29; and 160.076-31.
+
+[CGD 94-110, 60 FR 32848, June 23, 1995, as amended by CGD 95-072, 60 FR 50467, Sept. 29, 1995, CGD 94-110, 61 FR 13945, Mar. 28, 1996; CGD 96-041, 61 FR 50733, Sept. 27, 1996; CGD 97-057, 62 FR 51048, Sept. 30, 1997; USCG-1999-5151, 64 FR 67184, Dec. 1, 1999; USCG-2009-0702, 74 FR 49237, Sept. 25, 2009; USCG-2011-0076, 77 FR 19942, Apr. 3, 2012; USCG-2013-0671, 78 FR 60158, Sept. 30, 2013]

@@ -1,0 +1,3 @@
+##### § 4.07-55 Information to be furnished Marine Board of Investigation. #####
+
+When a Marine Board of Investigation is convened in accordance with § 4.09-1, the investigating officer shall immediately furnish the board with all testimony, statements, reports, documents, papers, a list of witnesses including those whom he has examined, other material which he may have gathered, and a statement of any findings of fact which he may have determined. The preliminary investigation shall cease forthwith and the aforementioned material shall become a part of the Marine Board of Investigation's record.

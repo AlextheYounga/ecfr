@@ -1,0 +1,3 @@
+##### § 189.35-3 Intent. #####
+
+(a) In recognition of the special nature of oceanographic research vessel operations, it is intended that maximum flexibility be given to the owner or operator in complying with the safety requirements for weight handling gear in this subpart. The primary interest of the Coast Guard shall extend to hazards associated with the connections to the vessel, dangerous moving parts, extremes in temperature and shock hazards.

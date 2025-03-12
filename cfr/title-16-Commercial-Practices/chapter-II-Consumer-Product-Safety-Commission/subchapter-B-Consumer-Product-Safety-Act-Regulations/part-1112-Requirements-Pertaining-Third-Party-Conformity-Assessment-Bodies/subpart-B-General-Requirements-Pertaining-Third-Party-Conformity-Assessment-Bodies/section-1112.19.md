@@ -1,0 +1,3 @@
+##### § 1112.19 How does the CPSC publish information identifying third party conformity assessment bodies that have been accepted? #####
+
+The CPSC will maintain on its Web site an up-to-date listing of third party conformity assessment bodies whose accreditations it has accepted and the scope of each acceptance. The CPSC will update the listing regularly to account for changes, such as the addition of new CPSC rules and/or test methods to its scope of accreditation, changes to accreditation certificates, new addresses, as well as changes to the status of a third party conformity assessment body due to voluntary discontinuance, suspension, and/or withdrawal. The CPSC will also list the firewalled or governmental status of accepted laboratories on the CPSC Web site.

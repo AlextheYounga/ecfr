@@ -1,0 +1,5 @@
+##### § 536.108 Claims payable under international agreements (for those arising in the United States). #####
+
+(a) Within the United States, Art. VIII, NATO SOFA applies to claims arising within the North Atlantic Treaty Area, which includes CONUS and its territories and possessions north of the Tropic of Cancer (23.5 degrees north latitude). This excludes Puerto Rico, the Virgin Islands, and parts of Hawaii. Third-party scope claims are payable under subpart D or, if the claim arises incident to noncombat activities, under subpart C of this part. Maritime claims are payable under subpart H of this part. The provisions of these subparts on what claims are payable apply equally here. The members of the foreign force or civilian component must be acting in pursuance of the applicable treaty's objectives.
+
+(b) Within the United States, third-party ex gratia claims are payable only by the sending State and are not payable under subpart E of this part.

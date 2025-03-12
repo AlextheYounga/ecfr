@@ -1,0 +1,11 @@
+##### § 1704.10 Appeals. #####
+
+(a) *Administrative.* Appeals of initial decisions must be received in writing by the D/IMD within 60 days of the date of mailing of the ODNI's decision. The appeal must identify with specificity the documents or information to be considered on appeal and it may, but need not, provide a factual or legal basis for the appeal.
+
+(1) *Exceptions.* No appeal shall be accepted from a foreign government entity or any representative thereof. Appeals will not be accepted for documents required to be submitted for prepublication review or other administrative process pursuant to an approved nondisclosure agreement; for information that is the subject of pending litigation; nor for any document or material containing information from within an operational file exempted from search and review, publication, and disclosure under the FOIA. No appeals shall be accepted if the requester has outstanding fees for information services at ODNI or another federal agency. In addition, no appeal shall be accepted if the information in question has been the subject of a declassification review within the previous two years.
+
+(2) *Receipt, recording, and tasking.* The D/IMD will record each appeal received under this part and acknowledge receipt to the requester.
+
+(3) *Appellate authority.* The ODNI Chief Management Officer (CMO), after consultation with all interested parties or ODNI component organizations, as well as the Office of General Counsel, will make a final determination on the appeal within 60 days.
+
+(b) *Final appeal.* The D/IMD will prepare and communicate the ODNI administrative appeal decision to the requester, NARA, Presidential library, and referring agency, as appropriate. Correspondence will include a notice, if applicable, that a further appeal of ODNI's final decision may be made to the Interagency Security Classification Appeals Panel (ISCAP) established pursuant to section 5.3 of Executive Order 13526. Action by that Panel will be the subject of rules to be promulgated by the Information Security Oversight Office.

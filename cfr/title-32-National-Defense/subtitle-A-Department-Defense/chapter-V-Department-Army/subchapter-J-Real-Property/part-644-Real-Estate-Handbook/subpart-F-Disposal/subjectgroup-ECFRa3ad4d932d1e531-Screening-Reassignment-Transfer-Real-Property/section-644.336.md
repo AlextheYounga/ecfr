@@ -1,0 +1,3 @@
+##### § 644.336 Notices to Departments of Interior (DI); Health and Human Resources (HHR); Education; and Housing and Urban Development (HUD). #####
+
+Simultaneously with screening under § 644.335 notices of availability will be given to DI of land suitable for public park and recreation or an historical monument site; to HHR and/or Department of Education property suitable for educational purposes or to protect the public health, and to HUD of property for housing and related facilities (Section 101-47.203.5 FPMR). Where such notice is given, these departments will be notified promptly, if screening discloses another Federal requirement for the property. They will also be notified if there is no other Federal requirement and the property is determined surplus.

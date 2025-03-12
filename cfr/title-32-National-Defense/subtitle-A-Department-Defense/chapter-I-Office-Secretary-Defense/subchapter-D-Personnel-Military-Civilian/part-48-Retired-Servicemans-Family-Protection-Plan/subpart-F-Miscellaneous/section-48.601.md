@@ -1,0 +1,3 @@
+##### § 48.601 Annual report. #####
+
+Information and data for the preparation of the annual report of the Board of Actuaries will be compiled by the Office of the Secretary of Defense after promulgation of appropriate instructions to each of the uniformed services. These instructions will be in consonance with Executive Order 10499 directing the Secretary of Defense to administer the provisions of the law.

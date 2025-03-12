@@ -1,0 +1,3 @@
+##### § 636.8 Registration policy. #####
+
+In addition to the requirements of § 634.19(a) of this subchapter, motor vehicles which are owned and/or operated by a person who resides, performs duty, is employed on, or “frequently uses” the facilities of Hunter Army Airfield will be registered in accordance with the requirements of § 634.20 of this subchapter. Frequent users include but are not limited to family members, retirees, and civilians whose normal route of travel between home and work takes them through the installation.

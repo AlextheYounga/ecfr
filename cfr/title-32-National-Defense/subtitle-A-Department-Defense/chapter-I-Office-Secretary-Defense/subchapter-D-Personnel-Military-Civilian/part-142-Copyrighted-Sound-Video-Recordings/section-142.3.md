@@ -1,0 +1,5 @@
+##### § 142.3 Policy. #####
+
+(a) It is DoD policy: (1) To recognize the rights to copyright owners by establishing specific guidelines for the use of copyrighted works by individuals within the DoD community, consistent with the Department's unique mission and worldwide commitments, and (2) Not to condone, facilitate, or permit unlicensed public performance or unlawful reproduction for private or personal use of copyrighted sound or video recordings, using government appropriated or nonappropriated-fund-owned or leased equipment or facilities.
+
+(b) Although the policy expressed in this Directive takes into account the copyright law of the United States, the application of that law to specific situations is a matter for interpretation by the U.S. Copyright Office and the Department of Justice.

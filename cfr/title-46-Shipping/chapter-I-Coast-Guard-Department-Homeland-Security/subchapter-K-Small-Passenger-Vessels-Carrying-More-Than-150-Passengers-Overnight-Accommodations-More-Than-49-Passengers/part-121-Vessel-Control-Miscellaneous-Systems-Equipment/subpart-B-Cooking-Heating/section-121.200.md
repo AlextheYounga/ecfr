@@ -1,0 +1,3 @@
+##### § 121.200 General. #####
+
+Cooking and heating equipment must be suitable for marine use. Equipment designed and installed in accordance with American Boat and Yacht Council (ABYC) A-3, “Recommended Practices and Standards Covering Galley Stoves,” and A-7, “Recommended Practices and Standards Covering Boat Heating Systems,” or with National Fire Protection Association (NFPA) 302, “Pleasure and Commercial Motor Craft,” complies with this requirement, except as restricted by § 121.202 of this part.

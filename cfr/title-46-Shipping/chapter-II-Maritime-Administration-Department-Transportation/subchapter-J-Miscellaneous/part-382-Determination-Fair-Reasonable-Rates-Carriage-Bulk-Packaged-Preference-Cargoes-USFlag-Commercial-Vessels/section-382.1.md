@@ -1,0 +1,3 @@
+##### § 382.1 Scope. #####
+
+The regulations in this part prescribe the type of information that shall be submitted to the Maritime Administration (MARAD) by operators interested in carrying bulk and packaged preference cargoes, and the method for calculating fair and reasonable rates for the carriage of dry (including packaged) and liquid bulk preference cargoes on U.S.-flag commercial vessels, except vessels engaged in liner trades, which is defined as service provided on an advertised schedule, giving relatively frequent sailings between specific U.S. ports or ranges and designated foreign ports or ranges.

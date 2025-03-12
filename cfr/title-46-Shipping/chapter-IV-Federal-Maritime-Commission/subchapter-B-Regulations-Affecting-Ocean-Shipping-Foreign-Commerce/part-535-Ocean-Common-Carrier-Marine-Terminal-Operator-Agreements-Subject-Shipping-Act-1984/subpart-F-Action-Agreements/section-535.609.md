@@ -1,0 +1,3 @@
+##### § 535.609 Negotiations. #####
+
+At any time after the filing of an agreement and prior to the conclusion of judicial injunctive proceedings, the filing party or an authorized representative may submit additional factual or legal support for an agreement or may propose modifications of an agreement. Such negotiations between Commission personnel and filing parties may continue during the pendency of injunctive proceedings. Shippers, other government departments or agencies, and other third parties may not participate in these negotiations.

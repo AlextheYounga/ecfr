@@ -1,0 +1,7 @@
+##### § 160.054-7 Procedure for approval. #####
+
+(a) *Manufacturer's plans.* In order to obtain approval, submit detailed plans showing fully the construction, material specification, arrangement, and list of contents to the Commander of the Coast Guard District in which the factory is located. Each drawing shall have an identifying number, and date, and shall indicate the manufacturer's symbol, trade name, or other identification for the first-aid kit. At the time of selection of the pre-approval sample, the manufacturer shall furnish the inspector four copies of all plans and specifications, corrected as may be required, for forwarding to the Commandant.
+
+(b) *Pre-approval sample.* After the first drawings have been examined and found to appear satisfactory, a marine inspector will be detailed to the factory to observe the manufacturing facilities and methods and to obtain two samples, complete with contents which will be forwarded, prepaid by the manufacturer, to the Commandant for the necessary conditioning and tests in accordance with § 160.054-5 to determine the suitability of the first-aid kit for use in conjunction with lifesaving equipment on board merchant vessels. The cost of the tests shall be borne by the manufacturer.
+
+[CGFR 60-36, 25 FR 10637, Nov. 5, 1960, as amended by CGFR 65-16, 30 FR 10899, Aug. 21, 1965; CGD 88-070, 53 FR 34536, Sept. 7, 1988; CGD 95-028, 62 FR 51215, Sept. 30, 1997]

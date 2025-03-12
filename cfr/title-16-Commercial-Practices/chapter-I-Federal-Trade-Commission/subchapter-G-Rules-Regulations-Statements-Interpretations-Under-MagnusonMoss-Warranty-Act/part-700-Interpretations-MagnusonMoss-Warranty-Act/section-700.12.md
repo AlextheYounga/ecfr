@@ -1,0 +1,3 @@
+##### § 700.12 Effective date of 16 CFR parts 701 and 702. #####
+
+The Statement of Basis and Purpose of the final rules promulgated on December 31, 1975, provides that parts 701 and 702 of this chapter will become effective one year after the date of promulgation, December 31, 1976. The Commission intends this to mean that these rules apply only to written warranties on products manufactured after December 31, 1976.

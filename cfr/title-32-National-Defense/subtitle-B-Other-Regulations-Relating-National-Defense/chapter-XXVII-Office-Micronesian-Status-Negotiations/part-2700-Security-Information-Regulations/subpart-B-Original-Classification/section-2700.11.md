@@ -1,0 +1,7 @@
+##### § 2700.11 Basic policy. #####
+
+(a) *General.* It is the policy of OMSN to make available to the public as much information concerning its activities as is possible, consistent with its responsibility to protect the national security.
+
+(b) *Safeguarding national security information.* Within the Federal Government there is some information which because it bears directly on the effectiveness of our national defense and the conduct of our foreign relations, must be subject to some constraints for the security of our nation.
+
+(c) *Balancing test.* To balance the public's interest in access to government information with the need to protect certain national security information from disclosure, these regulations indentify the information to be protected, prescribe classification, downgrading, declassification, and safeguarding procedures to be followed, and establish education, monitoring and sanctioning systems to insure their effectiveness. When questions arise as whether the need to protect information may be outweighed by the public interest in disclosure of the information, they shall be referred to OMSN pursuant to § 2700.32(b) for a determination whether the public interest in disclosure outweighs the damage to national security that might reasonably be expected from disclosure.

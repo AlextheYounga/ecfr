@@ -1,0 +1,3 @@
+##### § 700.103 Purpose and effect of United States Navy Regulations. #####
+
+United States Navy Regulation is the principle regulatory document of the Department of the Navy, endowed with the sanction of law, as to duty, responsibility, authority, distinctions and relationships of various commands, officials and individuals. Other directives issued within the Department of the Navy shall not conflict with, alter or amend any provision of Navy Regulations.

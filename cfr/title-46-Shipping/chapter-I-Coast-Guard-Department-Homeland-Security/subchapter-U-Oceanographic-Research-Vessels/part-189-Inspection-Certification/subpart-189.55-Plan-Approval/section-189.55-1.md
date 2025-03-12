@@ -1,0 +1,5 @@
+##### § 189.55-1 General. #####
+
+(a) The following list of required plans in § 189.55-5 is general in character, but includes all plans which normally show construction and safety features coming under the cognizance of the Coast Guard. In the case of a particular vessel, all of the plans enumerated may not be applicable and it is intended that only those plans and specifications be submitted as will clearly show the vessel's arrangements, construction and required equipment.
+
+(b) In the following list of required plans in § 189.55-5, the items which must be approved by the American Bureau of Shipping for vessels classed by that organization are indicated by an asterisk. When prints bearing record of such approval by the American Bureau of Shipping are forwarded to the Coast Guard they will in general be accepted as satisfactory except insofar as the law or the Coast Guard regulations contain requirements which are not covered by the American Bureau of Shipping.

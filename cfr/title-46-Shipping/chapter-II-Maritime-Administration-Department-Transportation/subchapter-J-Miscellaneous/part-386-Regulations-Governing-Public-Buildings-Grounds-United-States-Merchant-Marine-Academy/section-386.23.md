@@ -1,0 +1,3 @@
+##### § 386.23 Weapons and explosives. #####
+
+No person shall carry or possess firearms, other dangerous or deadly weapons or parts thereof, explosives or items intended to be used to fabricate an explosive or incendiary device, or parts thereof, either openly or concealed, while on Academy property, except for official purposes specifically authorized in writing by the Superintendent or a designee of the Superintendent.

@@ -1,0 +1,9 @@
+##### § 2.01-45 Excursion permit. #####
+
+(a) Under 46 U.S.C. 2113, the Coast Guard may issue a permit to the owner, operator, or agent of a passenger vessel, allowing the vessel to engage in excursions that carry additional numbers of passengers, extend an existing route, or both. Details concerning the application process for excursion permits for inspected passenger vessels are contained in §§ 71.10, 115.204, or 176.204 of this chapter. Details concerning the application process for special permits for uninspected passenger vessels are contained in § 26.03-6 of this chapter.
+
+(b) For Marine Events of National Significance, as determined by the Commandant, U.S. Coast Guard, a vessel may be permitted to engage in these events while carrying passengers-for-hire for the duration of the event. Event sponsors must request this determination in writing from the Commandant (CG-54) at least 1 year prior to the event. Details concerning the application process for special permits for Marine Events of National Significance are contained in § 26.03-8 of this chapter.
+
+(c) The application for an excursion permit is made by the master, owner, or agent of the vessel to the Officer in Charge, Marine Inspection, on Coast Guard Form CG-950, Application for Excursion Permit. If, after inspection, permission is granted, it is given on Coast Guard form CG-949, Permission to Carry Excursion Party. The permit describes the vessel, the route over which and the period during which the excursions may be made, and the safety equipment required for the additional persons indicated.
+
+[USCG-1999-5040, 67 FR 34767, May 15, 2002]

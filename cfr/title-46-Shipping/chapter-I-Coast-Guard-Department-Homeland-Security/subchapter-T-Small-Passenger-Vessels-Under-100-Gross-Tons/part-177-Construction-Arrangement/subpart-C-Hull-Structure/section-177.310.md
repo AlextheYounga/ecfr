@@ -1,0 +1,3 @@
+##### § 177.310 Satisfactory service as a design basis. #####
+
+When scantlings for the hull, deckhouse, and frames of the vessel differ from those specified by the standards listed in § 177.300 of this part, and the owner can demonstrate that the vessel, or another vessel approximating the same size, power, and displacement, has been built to such scantlings and has been in satisfactory service insofar as structural adequacy is concerned for a period of at least 5 years, such scantlings may be approved by the cognizant OCMI instead of the scantlings required by the applicable standards specified in § 177.300 of this part.

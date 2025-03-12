@@ -1,0 +1,3 @@
+##### § 122.504 Passenger count. #####
+
+The master of a vessel, except a vessel listed in § 122.502(a), shall keep a correct, written count of all passengers that embark on and disembark from the vessel. Prior to departing on a voyage, the passenger count must be communicated verbally or in writing, and available ashore at the vessel's normal berthing location or with a representative of the owner or managing operator of the vessel. The passenger count shall be available to the Coast Guard upon request.

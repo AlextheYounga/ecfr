@@ -1,0 +1,3 @@
+##### § 643.84 Easement - Grantees relocate or replace needed facilities. #####
+
+In easement grants, grantees usually will be required to repair and restore damage done to Government land and improvements and to relocate or replace buildings and other needed facilities rendered useless or less useful by the exercise of the easement rights granted. DOD policy requires that in keeping the Army whole, the relocation or replacement of facilities will be limited to those for which there is a continuing requirement. By specific exclusion, establishment of a different category of facility is not authorized. (DODI 4165.12 III C)

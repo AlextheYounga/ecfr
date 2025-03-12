@@ -1,0 +1,17 @@
+##### § 631.11 Off-limits establishments and areas. #####
+
+(a) The establishment of off-limits areas is a function of Command. It may be used by commanders to help maintain good order and discipline, health, morale, safety, and welfare of service members. Off-limits action is also intended to prevent service members from being exposed to or victimized by crime-conducive conditions. Where sufficient cause exists, commanders retain substantial discretion to declare establishments or areas temporarily off-limits to personnel of their respective commands in emergency situations. Temporary off-limits restrictions issued by commanders in an emergency situation will be acted upon by the AFDCB as a first priority. As a matter of policy, a change in ownership, management, or name of any off-limits establishment does not, in and of itself, revoke the off-limits restriction.
+
+(b) Service members are prohibited from entering establishments or areas declared off-limits according to this part. Violations may subject the member to disciplinary action per applicable Service parts, and the Uniform Code of Military Justice (UCMJ). Family members of service members and others associated with the Service or installation should be made aware of off-limits restrictions. As a general policy, these establishments will not be visited by Service law enforcement personnel unless specifically determined by the installation commander that visits or surveillance are warranted.
+
+(c) Prior to initiating AFDCB action, installation commanders will attempt to correct adverse conditions or situations through the assistance of civic leaders or officials.
+
+(d) Prior to recommending an off-limits restriction, the AFDCB will send a written notice (certified mail-return receipt requested) to the individual or firm responsible for the alleged condition or situation. The AFDCB will specify in the notice a reasonable time for the condition or situation to be corrected, along with the opportunity to present any relevant information to the board. If subsequent investigation reveals that the responsible person has failed to take corrective action, the board will recommend the imposition of the off-limits restriction.
+
+(e) A specified time limit will not be established when an off-limits restriction is invoked. The adequacy of the corrective action taken by the responsible individual will be the determining factor in removing an off-limits restriction.
+
+(f) A person whose establishment or area has been declared off-limits may at any time petition the president of the board to remove the off-limits restriction. The petition will be in writing and will include a detailed report of action taken to eliminate the condition or situation that caused imposition of the restriction. The president of the AFDCB may direct an investigation to determine the status of corrective actions noted in the petition. The board will either recommend removal or continuation of the off-limits restriction to the local sponsoring commander based on the results of the investigation.
+
+(g) Off-limits procedures to be followed by the boards are in appendix A of this part. In the United States, off-limits signs will not be posted on civilian establishments by U.S. military authorities.
+
+(h) In areas Outside of the Continental United States (OCONUS), off-limits and other AFDCB procedures must be consistent with existing Status of Forces Agreements (SOFAs).

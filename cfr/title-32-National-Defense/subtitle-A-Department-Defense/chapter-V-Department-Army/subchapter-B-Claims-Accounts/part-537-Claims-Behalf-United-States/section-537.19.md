@@ -1,0 +1,7 @@
+##### § 537.19 Demands arising from maritime claims. #####
+
+(a) It is essential that Army claims personnel demand payment, or notify the party involved of the Army's intention to make such demands, as soon as possible following receipt of information of damage to Army property where the party's legal liability to respond exists or might exist. Except as provided below pertaining to admiralty claims and claims for damage to civil works in favor of the United States pursuant to 33 U.S.C. 408, copies of the initial demand or written notice of intention to issue a demand letter, as well as copies of subsequent correspondence, will be provided promptly to the Commander USARCS, who will monitor the progress of such claims.
+
+(b) Subject to limitation of settlement authority, demands for admiralty claims and civil works damages in favor of the United States pursuant to 33 U.S.C. 408 may be asserted, regardless of amount, by the Chief Counsel COE, or his designees in COE Division or District Counsel offices.
+
+(c) Where, in response to any demand, a respondent denies liability, fails to respond within a reasonable period, or offers a compromise settlement, the file will be promptly forwarded to the Commander USARCS, except in those cases in which a proposed compromise settlement is deemed acceptable and the claim is otherwise within the authority delegated in § 537.18 of this part. Files for admiralty claims and civil works claims in favor of the United States pursuant to 33 U.S.C. 408 will be promptly forwarded to the United States Department of Justice.

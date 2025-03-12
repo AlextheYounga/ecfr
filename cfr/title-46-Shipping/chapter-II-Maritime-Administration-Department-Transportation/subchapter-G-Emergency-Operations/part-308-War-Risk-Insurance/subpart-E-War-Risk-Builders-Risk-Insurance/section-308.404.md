@@ -1,0 +1,3 @@
+##### § 308.404 Application for insurance. #####
+
+Application for insurance shall be made to “Maritime Administration, Attention: Chief, Division of Marine Insurance” at the address in § 308.2(d). The applications shall be signed by all parties to be named as assureds, unless they have filed with the Chief, Division of Marine Insurance, written designations of a broker or brokers to act for them, in which case the applications may be signed by such broker or brokers.

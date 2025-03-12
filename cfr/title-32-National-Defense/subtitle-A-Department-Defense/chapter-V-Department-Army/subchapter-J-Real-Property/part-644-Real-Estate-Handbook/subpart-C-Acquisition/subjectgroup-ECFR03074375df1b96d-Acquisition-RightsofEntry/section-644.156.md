@@ -1,0 +1,3 @@
+##### § 644.156 Definition. #####
+
+A right-of-entry is a bare authority to do a specified act or series of acts upon non-Government-owned property or non-Government-controlled property without acquiring any estate or interest therein. The principal effect of a right-of-entry is to authorize an act which, in the absence of the right-of-entry, would constitute a trespass. The written instrument furnishes evidence of the permission granted to the government and the obligations, responsibilities, and liabilities assumed by the Government. It does not authorize any uses of the property by the Government other than those specified in the instrument.

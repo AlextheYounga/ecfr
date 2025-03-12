@@ -1,0 +1,13 @@
+##### § 503.80 Procedures for withholding information pertaining to meeting. #####
+
+(a) Any member of the agency, or the General Counsel of the agency may request that information pertaining to a portion or portions of a meeting or to a portion or portions of a series of meetings be withheld from public disclosure for any of the reasons set forth in § 503.79 by submitting such request in writing to the Secretary not later than two (2) weeks prior to the commencement of the first meeting in a series of meetings.
+
+(b) Upon receipt of any request made under paragraph (a) of this section, the Secretary shall schedule a time at which the members of the agency shall vote upon the request, which vote shall take place not later than eight (8) days prior to the scheduled meeting of the agency.
+
+(c) At the time scheduled by the Secretary in paragraph (b) of this section, the Members of the agency, upon consideration of the request submitted under paragraph (a) of this section, shall vote upon that request. That vote shall determine whether or not information pertaining to a meeting may be withheld from public disclosure for any of the reasons provided in § 503.79, and whether or not the public interest requires that the information be disclosed notwithstanding the applicability of the reasons provided in § 503.79 permitting the withholding from public disclosure of the information pertaining to a meeting.
+
+(d) In the case of a vote on a request under this section to withhold from public disclosure information pertaining to a portion or portions of a meeting, no such information shall be withheld from public disclosure unless, by a vote on the issues described in paragraph (c) of this section, a majority of the entire membership of the agency shall vote to withhold such information by recorded vote.
+
+(e) In the case of a vote on a request under this section to withhold information pertaining to a portion or portions of a series of meetings, no such information shall be withheld unless, by a vote on the issues described in paragraph (c) of this section, a majority of the entire membership of the agency shall vote to withhold such information. A determination to withhold information pertaining to a portion or portions of a series of meetings from public disclosure may be accomplished by a single vote on the issues described in paragraph (c) of this section, provided that the vote of each member of the agency shall be recorded and the vote shall be cast by each member and not by proxy vote.
+
+[49 FR 44401, Nov. 6, 1984; 49 FR 47395, Dec. 4, 1984]

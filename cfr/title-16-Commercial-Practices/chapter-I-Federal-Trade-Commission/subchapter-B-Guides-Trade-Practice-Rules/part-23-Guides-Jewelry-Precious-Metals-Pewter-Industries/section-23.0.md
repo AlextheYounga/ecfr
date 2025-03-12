@@ -1,0 +1,17 @@
+##### § 23.0 Scope and application. #####
+
+(a) These guides apply to jewelry industry products, which include, but are not limited to, the following: gemstones and their laboratory-created and imitation substitutes; natural and cultured pearls and their imitations; and metallic watch bands not permanently attached to watches. These guides also apply to articles, including optical frames, pens and pencils, flatware, and hollowware, fabricated from precious metals (gold, silver and platinum group metals), precious metal alloys, and their imitations. These guides also apply to all articles made from pewter. For the purposes of these guides, all articles covered by these guides are defined as “industry products.”
+
+(b) These guides apply to persons, partnerships, or corporations, at every level of the trade (including but not limited to manufacturers, suppliers, and retailers) engaged in the business of offering for sale, selling, or distributing industry products.
+
+Note to paragraph (b):
+
+To prevent consumer deception, persons, partnerships, or corporations in the business of appraising, identifying, or grading industry products should utilize the terminology and standards set forth in the guides.
+
+(c) These guides apply to claims and representations about industry products included in labeling, advertising, promotional materials, and all other forms of marketing, whether asserted directly or by implication, through words, symbols, emblems, logos, illustrations, depictions, product brand names, or through any other means.
+
+(d) These guides set forth the Federal Trade Commission's current thinking about claims for jewelry and other articles made from precious metals and pewter. The guides help marketers and other industry members avoid making claims that are unfair or deceptive under Section 5 of the FTC Act, 15 U.S.C. 45. They do not confer any rights on any person and do not operate to bind the FTC or the public. The Commission, however, may take action under the FTC Act if a marketer or other industry member makes a claim inconsistent with the guides. In any such enforcement action, the Commission must prove that the challenged act or practice is unfair or deceptive in violation of Section 5 of the FTC Act.
+
+(e) The guides consist of general principles, specific guidance on the use of particular claims for industry products, and examples. Claims may raise issues that are addressed by more than one example and in more than one section of the guides. The examples provide the Commission's views on how reasonable consumers likely interpret certain claims. Industry members may use an alternative approach if the approach satisfies the requirements of Section 5 of the FTC Act. Whether a particular claim is deceptive will depend on the net impression of the advertisement, label, or other promotional material at issue. In addition, although many examples present specific claims and options for qualifying claims, the examples do not illustrate all permissible claims or qualifications under Section 5 of the FTC Act.
+
+[61 FR 27212, May 30, 1996, as amended at 64 FR 33194, June 22, 1999; 75 FR 81453, Dec. 28, 2010]

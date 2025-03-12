@@ -1,0 +1,3 @@
+##### § 701.16 Administrative appeal. #####
+
+A request made by a FOIA requester asking the appellate authority (JAG or OGC) to reverse a decision to: withhold all or part of a requested record; deny a fee category claim by a requester; deny a request for expedited processing due to demonstrated compelling need; deny a request for a waiver or reduction of fees; deny a request to review an initial fee estimate; and confirm that no records were located during the initial search. FOIA requesters may also appeal a non-response to a FOIA request within the statutory time limits.

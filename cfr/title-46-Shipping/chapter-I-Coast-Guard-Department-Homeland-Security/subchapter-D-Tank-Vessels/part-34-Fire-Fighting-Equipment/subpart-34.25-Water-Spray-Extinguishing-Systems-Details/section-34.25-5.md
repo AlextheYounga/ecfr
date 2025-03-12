@@ -1,0 +1,7 @@
+##### § 34.25-5 Capacity and arrangement—T/ALL. #####
+
+(a) The capacity and arrangement shall be such as to effectively blanket the entire area of the space protected. The rate of discharge and the arrangement of piping and spray nozzles shall be such as to give a uniform distribution over the entire area protected.
+
+(b) The spacing of the spray nozzles shall be on the basis of the spray pattern provided by the lowest pressure at any spray nozzle in the system. In no instance shall a system be designed for any spray nozzle to be operated at a pressure less than that for which it was approved. The maximum permissible height of the spray nozzle above the protected area shall not exceed that specified in its approval. Whenever there are obstructions to coverage by the spray patterns, additional spray nozzles shall be installed to provide full coverage.
+
+(c) The water supply shall be from outside the space protected and shall in no way be dependent upon power from the space protected. The pump supplying water for the system shall either be reserved exclusively for the system or it may be one of the fire pumps, provided the capacity of the fire pump as set forth in subpart 34.10 is increased by the required capacity of the system, so that this system may be operated simultaneously with the fire main system.

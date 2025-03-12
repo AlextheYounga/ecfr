@@ -1,0 +1,13 @@
+##### § 727.7 Limitations on service provided. #####
+
+(a) *Assistance in official military matters.* Legal Assistance duties are separate and apart from the responsibilities of a trial counsel, defense counsel, or other officer involved in the processing of courts-martial, nonjudicial punishment, administrative boards or proceedings, investigations, or other official military matters. Frequently, a service member accused or suspected of an offense or conduct leading to an administrative proceeding will request advice from the legal assistance officer. In such a case, the service member should be advised of the proper procedures for obtaining counsel or advice. This limitation does not prevent the assignment of the same officer to perform the functions of a legal assistance officer and the functions of a defense counsel, counsel for respondent, or counsel for a party.
+
+(b) *Domestic-relations cases.* In domestic-relations cases, a legal assistance officer may provide advice concerning the legal and practical implications of divorce, legal separation, annulment, custody, and paternity. Assistance and advice in domestic violence cases will be consistent with the Department of the Navy family advocacy program. If two or more eligible persons with conflicting interests seek legal assistance from the same office on the same matter, the party first establishing an attorney-client relationship will be provided representation. Other parties shall be advised that they are also eligible for assistance, but that it must be obtained from another source, with the assistance of and referral by the first office.
+
+(c) *Nonlegal advice.* The legal assistance officer, while giving legal advice, may also determine that the client needs or desires advice on related nonlegal matters. The legal assistance officer should provide legal advice only, or defer giving such advice, and refer the client to an appropriate person or agency for such nonlegal counseling. The legal assistance officer should establish and maintain a working relationship with those individuals who are qualified to provide nonlegal counseling services.
+
+(d) *Proceedings involving the United States.* A legal assistance officer shall not advise on, assist in, or become involved with, individual interests opposed to or in conflict with the United States without the specific approval of the Judge Advocate General.
+
+(e) *Telephone inquiries.* In the absence of unusual or compelling circumstances, legal advice should not be given over the telephone. This does not prohibit appropriate follow-up telephone discussions between the legal assistance attorney and the client.
+
+[41 FR 26863, June 30, 1976, as amended at 65 FR 26749, May 9, 2000]

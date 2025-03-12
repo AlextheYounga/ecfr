@@ -1,0 +1,5 @@
+##### § 1205.36 Product certification and labeling by importers. #####
+
+(a) *General.* The importer of any rotary walk-behind power lawn mower subject to the standard must issue the certificate of compliance required by section 14(a) of the Act and § 1205.35 of this regulation. If testing of each mower, or a reasonable testing program, meeting the requirements of this subpart B of part 1205 has been performed by or for the foreign manufacturer of the product, the importer may rely in good faith on such tests to support the certificate of compliance provided the importer is a resident of the United States or has a resident agent in the United States and the records of such tests required by § 1205.34 of this part are maintained in the United States.
+
+(b) *Responsibility of importer.* If the importer relies on tests by the foreign manufacturer to support the certificate of compliance, the importer bears the responsibility for examining the records supplied by the manufacturer to determine that the records of such tests appear to comply with § 1205.34 of this part.

@@ -1,0 +1,5 @@
+##### § 855.17 Fees for landing, parking, and storage. #####
+
+(a) Landing, parking, and storage fees (Tables 3 and 4 to this part) are determined by aircraft maximum gross takeoff weight (MGTOW). All fees are normally due and collectible at the time of use of the Air Force airfield. DD Form 1131, Cash Collection Voucher, is used to deposit the fees with the base accounting and finance officer. In some instances, it may be necessary to bill the user for charges incurred.
+
+(b) Landing fees are not charged when the aircraft is operating in support of official Government business or for any purpose, the cost of which is subject to reimbursement by the US Government. Parking and Storage Fees (Table 4 to this part) are charged if an aircraft must remain beyond the period necessary to conduct official Government business and for all non-official Government business operations.

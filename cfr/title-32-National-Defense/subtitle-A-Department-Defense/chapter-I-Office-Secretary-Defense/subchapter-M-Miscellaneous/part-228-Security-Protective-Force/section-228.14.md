@@ -1,0 +1,3 @@
+##### § 228.14 Prohibition on gambling. #####
+
+Participating in games for money or other personal property, or the operating of gambling devices, the conduct of a lottery, or the selling or purchasing of numbers tickets, in or on protected property is prohibited. This prohibition shall not apply to the vending or exchange of chances by licensed blind operators of vending facilities for any lottery set forth in a State law and conducted by an agency of a State as authorized by section 2(a)(5) of the Randolph-Sheppard Act, as amended (20 U.S.C. 107(a)(5)).

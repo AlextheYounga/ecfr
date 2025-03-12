@@ -1,0 +1,11 @@
+##### § 750.5 Claims: Proper claimants. #####
+
+(a) *Damage to property cases.* A claim for damage to, or destruction or loss of, property shall be presented by the owner of the property or a duly authorized agent or legal representative. “Owner” includes a bailee, lessee, or mortgagor, but does not include a mortgagee, conditional vendor, or other person having title for security purposes only.
+
+(b) *Personal injury and death cases.* A claim for personal injury shall be presented by the person injured or a duly authorized agent or legal representative, or, in the case of death, by the properly appointed legal representative of the deceased's estate or survivor where authorized by State law.
+
+(c) *Subrogation.* A subrogor and a subrogee may file claims jointly or separately. When separate claims are filed and each claim individually is within the Tort Claims Unit Norfolk's adjudicating authority limits, they may be processed by the Tort Claims Unit, even if the aggregate of such claims exceeds the Tort Claims Unit's monetary authority. However, if the aggregate of the claims exceeds the sum for which approval of the Department of Justice (DoJ) is required, currently $200,000.00 under the Federal Tort Claims Act, then the Tort Claims Unit Norfolk must obtain DoJ approval via the Office of the Judge Advocate General, Claims and Tort Litigation Division, before the claims may be settled.
+
+(d) *Limitation on transfers and assignment.* All transfers and assignments made of any claim upon the United States, and all powers of attorney, orders, or other authorities for receiving payment of any such claim, are absolutely null and void unless they are made after the allowance of such a claim, the ascertainment of the amount due, and the issuing of a warrant for the payment thereof. 31 U.S.C. 203. This statutory provision does not apply to the assignment of a claim by operation of law, as in the case of a receiver or trustee in bankruptcy appointed for an individual, firm, or corporation, or the case of an administrator or executor of the estate of a person deceased, or an insurer subrogated to the rights of the insured.
+
+[57 FR 4722, Feb. 7, 1992, as amended at 72 FR 53418, Sept. 19, 2007]

@@ -1,0 +1,3 @@
+##### § 635.15 DA Form 4833 (Commander's Report of Disciplinary or Administrative Action) for Civilian Subjects. #####
+
+Civilian Subjects titled by Army Law Enforcement. PM/DES and USACIDC will complete and submit disposition reports to USACRC for civilian subjects, not subject to the UCMJ, who are titled by Army law enforcement. PM/DES and USACIDC will complete the DA Form 4833 and submit the form to USACRC for these subjects. PM/DES and USACIDC will not include these completed DA Form 4833 for civilian personnel in reporting compliance statistics for commanders. This ensures records of dispositions of civilian subjects titled by military LE are available in CJIS to support NCIC background checks for firearms purchases, employment, security clearances etc.

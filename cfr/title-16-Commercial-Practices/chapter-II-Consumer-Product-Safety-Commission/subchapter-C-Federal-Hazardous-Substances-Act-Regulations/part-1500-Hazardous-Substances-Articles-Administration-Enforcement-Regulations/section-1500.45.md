@@ -1,0 +1,5 @@
+##### § 1500.45 Method for determining extremely flammable and flammable contents of self-pressurized containers. #####
+
+(a) *Equipment required.* The test equipment consists of a base 8 inches wide, 2 feet long, marked in 6-inch intervals. A rule 2 feet long and marked in inches is supported horizontally on the side of the base and about 6 inches above it. A paraffin candle 1 inch or more in diameter, and of such height that the top third of the flame is at the height of the horizontal rule, is placed at the zero point in the base.
+
+(b) *Procedure.* The test is conducted in a draft-free area that can be ventilated and cleared after each test. Place the self-pressurized container at a distance of 6 inches from the flame source. Spray for periods of 15 seconds to 20 seconds (one observer noting the extension of the flame and the other operating the container) through the top third of the flame and at a right angle to the flame. The height of the flame should be approximately 2 inches. Take three readings for each test, and average. As a precaution do not spray large quantities in a small, confined space. Free space of previously discharged material.

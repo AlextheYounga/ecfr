@@ -1,0 +1,3 @@
+##### § 728.91 General. #####
+
+Adjuncts to medical care include but are not limited to prosthetic devices such as artificial limbs, artificial eyes, hearing aids, orthopedic footwear, spectacles, wheel chairs, hospital beds, and similar medical support items or aids which are required for the proper care and management of the condition being treated. Generally, expenses incurred for procurement of such items, either from civilian sources as supplemental care or from stocks maintained by the facility, are payable from operation and maintenance funds available for support of naval MTFs. However, certain adjuncts may be cost-shared under CHAMPUS for CHAMPUS-eligible individuals under circumstances enumerated in the cooperative care or services criteria of § 728.4(z).

@@ -1,0 +1,5 @@
+##### § 719.151 Furnishing of advice and counsel to accused placed in pretrial confinement. #####
+
+The Department of the Navy Corrections Manual, SECNAVINST 1640.9, reiterates the requirement of Article 10, UCMJ, that, when a person is placed in pretrial confinement, immediate steps should be taken to inform the confinee of the specific wrong of which he is accused and try him or to dismiss the charges and release him. The Corrections Manual requires that this information normally will be provided within 48 hours along with advice as to the confinee's right to consult with lawyer counsel and his right to prepare for trial. Lawyer counsel may be either a civilian lawyer provided by the confinee at his own expense or a military lawyer provided by the Government. If a confinee requests to confer with a military lawyer, such lawyer should normally be made available for consultation within 48 hours after the request is made.
+
+[39 FR 18437, May 28, 1974]

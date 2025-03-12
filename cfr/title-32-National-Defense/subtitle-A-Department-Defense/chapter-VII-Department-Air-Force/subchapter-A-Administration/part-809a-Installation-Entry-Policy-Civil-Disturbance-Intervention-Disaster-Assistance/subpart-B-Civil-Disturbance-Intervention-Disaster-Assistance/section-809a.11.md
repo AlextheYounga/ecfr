@@ -1,0 +1,3 @@
+##### § 809a.11 Procedures outside the United States. #####
+
+It is Air Force policy to make every reasonable effort to avoid any confrontation between United States military forces and host nation demonstrators or other dissidents posing a threat to Air Force resources. Intervention by United States military personnel outside the United States is governed by international law, bilateral and other international agreements to which the United States is a party, and host-nation laws. Local plans to counter such situations must include provisions to request and obtain host nation civil or military support as quickly as possible.

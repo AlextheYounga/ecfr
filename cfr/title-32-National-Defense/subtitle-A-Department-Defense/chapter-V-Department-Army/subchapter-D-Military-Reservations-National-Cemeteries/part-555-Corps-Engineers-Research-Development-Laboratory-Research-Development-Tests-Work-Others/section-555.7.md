@@ -1,0 +1,5 @@
+##### § 555.7 Submission of technical proposals. #####
+
+(a) Corps of Engineers research and development laboratories are authorized to submit technical proposals directly to other Federal agencies covering proposed work in their assigned fields except that proposals submitted to DMA must be submitted through DAEN-RD for approval. Proposals for cooperative effort projects under the DOD-DOE Memorandum of Understanding utilizing DOD and DOE resources, will be forwarded to DAEN-RD for securing prior approval from the DA and DOD Program Coordinators. Copies of proposals which exceed the delegation of authority contained in this ER will be submitted to the Chief of Engineers marked for the attention of DAEN-RD.
+
+(b) The above authority for direct submission of technical proposals does not include authority to perform work when proposals are accepted if the estimated cost exceeds the limits stated before. Authority to proceed will be as outlined in § 555.6.

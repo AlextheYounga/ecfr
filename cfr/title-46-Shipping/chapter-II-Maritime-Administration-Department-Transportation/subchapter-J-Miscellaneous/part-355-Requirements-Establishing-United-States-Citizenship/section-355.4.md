@@ -1,0 +1,3 @@
+##### § 355.4 Changes in citizenship data. #####
+
+It shall be incumbent upon the parties filing affidavits under this part to apprise the Maritime Administration promptly in writing relative to changes in data last furnished with respect to officers, directors, and stockholders holding 5 percent or more of the issued and outstanding stock of each class or series, together with statements concerning the citizenship status thereof.

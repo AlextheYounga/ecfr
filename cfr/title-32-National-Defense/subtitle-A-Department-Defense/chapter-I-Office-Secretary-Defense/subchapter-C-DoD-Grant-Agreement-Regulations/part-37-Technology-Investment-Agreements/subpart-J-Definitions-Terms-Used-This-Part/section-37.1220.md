@@ -1,0 +1,3 @@
+##### § 37.1220 Applied research. #####
+
+Efforts that attempt to determine and exploit the potential of scientific discoveries or improvements in technology such as new materials, devices, methods and processes. It typically is funded in Research, Development, Test and Evaluation programs within Budget Activity 2, Applied Research (also known informally as research category 6.2) programs. Applied research normally follows basic research but may not be fully distinguishable from the related basic research. The term does not include efforts whose principal aim is the design, development, or testing of specific products, systems or processes to be considered for sale or acquisition; these efforts are within the definition of “development.”

@@ -1,0 +1,3 @@
+##### § 707.1 Purpose of regulations. #####
+
+All ships are warned that when U.S. naval vessels are met in international and inland waters, some of the navigational lights displayed by them may be special lights for naval purposes. When used, they may be displayed simultaneously with the ordinary navigational lights required by the International Regulations for Preventing Collisions at Sea, 1972, or the Inland Navigational Rules. The lights are located and characterized in such a fashion that, as far as possible, they cannot be mistaken for any light authorized by either set of rules. This part publishes the special rules with respect to these additional station and signal lights promulgated by the Secretary of the Navy for vessels of the Navy.

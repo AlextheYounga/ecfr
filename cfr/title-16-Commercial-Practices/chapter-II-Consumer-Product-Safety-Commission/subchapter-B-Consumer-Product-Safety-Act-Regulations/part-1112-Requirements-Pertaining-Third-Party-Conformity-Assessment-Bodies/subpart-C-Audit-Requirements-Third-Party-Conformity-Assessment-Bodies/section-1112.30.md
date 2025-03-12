@@ -1,0 +1,3 @@
+##### § 1112.30 What is the purpose of this subpart? #####
+
+This subpart establishes the audit requirements for third party conformity assessment bodies pursuant to section 14(i)(1) of the Consumer Product Safety Act (CPSA) (15 U.S.C. 2063(i)(1)). Compliance with these requirements is a condition of the continuing accreditation of such third party conformity assessment bodies pursuant to section 14(a)(3)(C) of the CPSA. However, this subpart does not apply to certifying organizations under the Labeling of Hazardous Art Materials Act, even if such organizations are third party conformity assessment bodies.

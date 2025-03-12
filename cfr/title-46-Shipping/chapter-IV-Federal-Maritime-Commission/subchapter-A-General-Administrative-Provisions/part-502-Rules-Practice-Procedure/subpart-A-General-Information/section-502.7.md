@@ -1,0 +1,3 @@
+##### § 502.7 Documents in foreign languages. #####
+
+Every document, exhibit, or other paper written in a language other than English and filed with the Commission or offered in evidence in any proceeding before the Commission under this part or in response to any rule or order of the Commission pursuant to this part, shall be filed or offered in the language in which it is written and shall be accompanied by an English translation thereof duly verified under oath to be an accurate translation. [Rule 7.]

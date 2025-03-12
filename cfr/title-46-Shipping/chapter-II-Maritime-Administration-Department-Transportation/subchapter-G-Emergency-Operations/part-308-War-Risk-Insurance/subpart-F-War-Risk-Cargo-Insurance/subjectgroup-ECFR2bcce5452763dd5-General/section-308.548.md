@@ -1,0 +1,3 @@
+##### § 308.548 Standard form of underwriting agency agreement for cargo, Form MA-318. #####
+
+This form, which may be obtained from MARAD's underwriting agent or MARAD, is the standard form of underwriting agency agreement applicable with respect to agreements executed by the Maritime Administrator and domestic insurance companies authorized to do a marine insurance business in any State of the United States, appointing such companies as Underwriting Agents to issue war risk cargo policies in accordance with the provision of the agreement and this subpart.

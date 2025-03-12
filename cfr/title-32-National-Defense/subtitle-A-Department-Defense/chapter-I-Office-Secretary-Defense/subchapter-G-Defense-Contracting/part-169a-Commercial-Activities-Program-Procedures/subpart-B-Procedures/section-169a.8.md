@@ -1,0 +1,9 @@
+##### § 169a.8 Inventory and review schedule (Report Control Symbol DD-P&L(A)). #####
+
+(a) Information in each DoD Component's inventory shall be used to assess DoD implementation of OMB Circular A-76 and for other purposes. Each Component's inventory shall be updated at least annually to reflect changes to their review schedule and the results of reviews, cost comparisons, and direct conversions. Updated inventories for all DoD Components except National Security Agency/Central Security Service (NSA/CSS) and the Defense Intelligence Agency (DIA) Shall be submitted to the Assistant Secretary of Defense Production and Logistics) (ASD(P&L)) within 90 days after the end of each fiscal year. Inventory data pertaining to NSA/CSS and DIA shall be held at the specific Agency concerned for subsequent review by properly cleared personnel. Appendix A to this part provides the codes and explanations for functional areas and Appendix B to this part provides procedures for submitting the inventory.
+
+(b) DoD component's review schedules should be coordinated with the DoD Component's Efficiency Review Program and the Defense Regional Interservice Support (DRIS) Program to preclude duplication of efforts and to make use of information already available.
+
+(c) Review of CAs that provide interservice support shall be scheduled by the supplying DoD Component. Subsequent cost comparisons, when appropriate, shall be executed by the same DoD Component. All affected DoD Components shall be notified of the intent to perform a review.
+
+[50 FR 40805, Oct. 7, 1985, as amended at 57 FR 29208, July 1, 1992]

@@ -1,0 +1,3 @@
+##### § 552.64 Sound insurance underwriting and programing. #####
+
+The Department of the Army encourages the acquisition of a sound insurance program that is suitably underwritten to meet the varying needs of the individual and is within his financial means. Accordingly, insurance agents may conduct personal business on an installation, when feasible, with disinterested third-party counseling provided, interviewing hours set aside, and facilities supplied. However, the privilege of insurance solicitation on installations is conditioned on full compliance with this regulation and on the clear understanding that permission is not indorsement of the company or the policies offered for sale.

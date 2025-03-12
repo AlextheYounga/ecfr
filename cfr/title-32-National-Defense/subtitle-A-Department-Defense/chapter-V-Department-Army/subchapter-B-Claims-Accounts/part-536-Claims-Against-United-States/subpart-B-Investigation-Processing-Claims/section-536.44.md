@@ -1,0 +1,3 @@
+##### § 536.44 FECA and LSHWCA claims exclusions. #####
+
+A federal or NAFI employee's personal injury or wrongful death claim payable under the Federal Employees Compensation Act (FECA) or the Longshore and Harbor Workers Compensation Act (LSHWCA) is not payable under any subpart. Derivative claims are also excluded but a claim for indemnity may be payable under certain circumstances. A federal or NAFI employee's claim for an incident-to-service property loss or damage may be payable under AR 27-20, chapter 11 or, if not, under subparts C, D, F, G, H or J of this part. For further discussion see DA Pam 27-162, paragraph 2-38.

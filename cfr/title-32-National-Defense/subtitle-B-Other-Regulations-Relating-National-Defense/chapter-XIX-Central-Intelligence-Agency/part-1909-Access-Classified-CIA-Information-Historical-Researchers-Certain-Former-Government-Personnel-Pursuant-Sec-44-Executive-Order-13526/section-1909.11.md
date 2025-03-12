@@ -1,0 +1,3 @@
+##### § 1909.11 Notification of decision. #####
+
+The Executive Secretary shall inform the requester of the final CIA decision and, if favorable, shall manage the access for such period of time as deemed required, but in no event for more than two years unless renewed by the Senior Agency Official, in accordance with the requirements of this part for waiving need-to-know and granting access in the first instance.

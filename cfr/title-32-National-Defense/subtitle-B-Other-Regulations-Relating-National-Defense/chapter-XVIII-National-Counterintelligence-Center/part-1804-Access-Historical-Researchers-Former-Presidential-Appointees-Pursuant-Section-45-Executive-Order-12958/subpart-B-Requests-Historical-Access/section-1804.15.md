@@ -1,0 +1,3 @@
+##### § 1804.15 Action by hearing authority. #####
+
+Action by Coordinator. The Coordinator shall provide a summation memorandum for consideration of the Director, NACIC, the complete record of the request consisting of the request and the findings of the tasked parties. The Director, NACIC shall decide requests on the basis of the eight factors enumerated at § 1804.14(a). The Director, NACIC shall personally decide each case; no personal appearances shall be permitted without the express permission of the Director, NACIC.

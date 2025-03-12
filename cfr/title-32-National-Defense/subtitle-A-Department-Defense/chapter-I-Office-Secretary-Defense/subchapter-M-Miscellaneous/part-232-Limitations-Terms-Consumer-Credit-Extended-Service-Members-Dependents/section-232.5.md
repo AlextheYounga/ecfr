@@ -1,0 +1,19 @@
+##### § 232.5 Optional identification of covered borrower. #####
+
+(a) *No restriction on method for covered-borrower check.* A creditor is permitted to apply its own method to assess whether a consumer is a covered borrower.
+
+(b) *Safe harbor*—(1) *In general.* A creditor may conclusively determine whether credit is offered or extended to a covered borrower, and thus may be subject to 10 U.S.C. 987 and the requirements of this part, by assessing the status of a consumer in accordance with this paragraph (b).
+
+(2) *Methods to check status of consumer*—(i) *Department database*—(A) *In general.* To determine whether a consumer is a covered borrower, a creditor may verify the status of a consumer by using information relating to that consumer, if any, obtained directly or indirectly from the database maintained by the Department, available at *https://www.dmdc.osd.mil/mla/welcome.xhtml*. A search of the Department's database requires the entry of the consumer's last name, date of birth, and Social Security number.
+
+(B) *Historic lookback prohibited.* At any time after a consumer has entered into a transaction or established an account involving an extension of credit, a creditor (including an assignee) may not, directly or indirectly, obtain any information from any database maintained by the Department to ascertain whether a consumer had been a covered borrower as of the date of that transaction or as of the date that account was established.
+
+(ii) *Consumer report from a nationwide consumer reporting agency.* To determine whether a consumer is a covered borrower, a creditor may verify the status of a consumer by using a statement, code, or similar indicator describing that status, if any, contained in a consumer report obtained from a consumer reporting agency that compiles and maintains files on consumers on a nationwide basis, or a reseller of such a consumer report (as each of those terms is defined in the Fair Credit Reporting Act (15 U.S.C. 1681a) and any implementing regulation (12 CFR part 1022)).
+
+(3) *Determination and recordkeeping; one-time determination permitted.* A creditor who makes a determination regarding the status of a consumer by using one or both of the methods set forth in paragraph (b)(2) of this section shall be deemed to be conclusive with respect to that transaction or account involving consumer credit between the creditor and that consumer, so long as that creditor timely creates and thereafter maintains a record of the information so obtained. A creditor may make the determination described in this paragraph (b), and keep the record of that information obtained at that time, solely at the time—
+
+(i) A consumer initiates the transaction or 30 days prior to that time;
+
+(ii) A consumer applies to establish the account or 30 days prior to that time; or
+
+(iii) The creditor develops or processes, with respect to a consumer, a firm offer of credit that (among the criteria used by the creditor for the offer) includes the status of the consumer as a covered borrower, so long as the consumer responds to that offer not later than 60 days after the time that the creditor had provided that offer to the consumer. If the consumer responds to the creditor's offer later than 60 days after the time that the creditor had provided that offer to the consumer, then the creditor may not rely upon its initial determination in developing or processing that offer, and, instead, may act on the consumer's response as if the consumer is initiating the transaction or applying to establish the account (as described in paragraph (b)(3)(i) or (ii) of this section).

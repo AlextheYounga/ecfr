@@ -1,0 +1,3 @@
+##### § 326.1 Purpose. #####
+
+This part implements the basic policies and procedures outlined in the Privacy Act of 1974, as amended (5 U.S.C. 552a), and 32 CFR part 310; and establishes the National Reconnaissance Office Privacy Program (NRO) by setting policies and procedures for the collection and disclosure of information maintained in records on individuals, the handling of requests for amendment or correction of such records, appeal and review of NRO decisions on these matters, and the application of exemptions.

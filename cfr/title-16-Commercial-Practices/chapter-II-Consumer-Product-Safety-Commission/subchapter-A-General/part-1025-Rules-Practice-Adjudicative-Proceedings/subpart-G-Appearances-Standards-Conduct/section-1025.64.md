@@ -1,0 +1,3 @@
+##### § 1025.64 Attorneys. #####
+
+Any attorney at law who is admitted to practice before any United States court or before the highest court of any State, the District of Columbia, or any territory or commonwealth of the United States, may practice before the Commission. An attorney's own representation that he/she is in good standing before any of such courts shall be sufficient proof thereof, unless otherwise directed by the Presiding Officer or the Commission.

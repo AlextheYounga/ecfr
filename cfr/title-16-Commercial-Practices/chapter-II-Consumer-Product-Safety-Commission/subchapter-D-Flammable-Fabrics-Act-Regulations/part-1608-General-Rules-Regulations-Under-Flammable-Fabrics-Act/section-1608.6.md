@@ -1,0 +1,3 @@
+##### § 1608.6 Reference to guaranty by Government prohibited. #####
+
+No representation nor suggestion shall be made in advertising or otherwise marketing or handling products, fabrics or related materials subject to the act that the act, the Government, or any branch thereof, guarantees, in any manner that such product, fabric, or related material conforms to a flammability standard in effect under the act.

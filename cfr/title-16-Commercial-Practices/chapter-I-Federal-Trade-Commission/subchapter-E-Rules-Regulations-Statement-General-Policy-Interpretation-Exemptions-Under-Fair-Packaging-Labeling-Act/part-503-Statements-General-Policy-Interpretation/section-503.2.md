@@ -1,0 +1,11 @@
+##### § 503.2 Status of specific items under the Fair Packaging and Labeling Act. #####
+
+Recent questions submitted to the Commission concerning whether certain articles, products or commodities are included under the definition of the term *consumer commodity,* as contained in section 10(a) of the Fair Packaging and Labeling Act, have been considered in the light of the Commission's interpretation of that term as set forth in § 503.5 of this part as follows:
+
+(a) The Commission is of the opinion that the following commodities or classes of commodities are not “consumer commodities” within the meaning of the Act.
+
+Antifreeze.Artificial flowers and parts.Automotive accessories.Automotive chemical products.Automotive replacement parts.Bicycle tires and tubes.Books.Brushes (bristle, nylon, etc.).Brooms and mops.Cameras.Chinaware.Christmas light sets.Cigarette lighters.Clothespins (wooden, plastic).Compacts and mirrors.Diaries and calendars.Flower seeds.Footwear.Garden tools.Gift ties and tapes.Glasses and glassware.Gloves (work type).Greeting cards.Hand tools.Handicraft and sewing thread.Hardware.Household cooking utensils.Inks.Jewelry.Luggage.Magnetic recording tape.Metal pails.Motor oil (automobile).Mouse and rat traps.Musical instruments.Paintings and wall plaques.Photo albums.Pictures.Plastic table cloths, plastic placement and plastic shelf paper.Rubber gloves (household).Safety flares.Safety pins.School supplies.Sewing accessories.Silverware, stainless steelware and pewterware.Small arms ammunition.Smoking pipes.Souvenirs.Sporting goods.Toys.Typewriter ribbons.Woodenware.
+
+(b) The Commission is of the opinion that the following commodities or classes of commodities are “consumer commodities” within the meaning of the Act:
+
+Adhesives and sealants.Aluminum foil cooking utensils.Aluminum wrap.Camera supplies.Candles.Christmas decorations.Cordage.Disposable diapers.Dry cell batteries.Light bulbs.Liquified petroleum gas for other than heating and cooking.Lubricants for home use.Photographic chemicals.Pressure sensitive tapes, excluding gift tapes.Solder.Solvents and cleaning fluids for home use.Sponges and chamois.Waxes for home use.[35 FR 6185, Apr. 16, 1970]

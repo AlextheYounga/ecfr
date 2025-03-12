@@ -1,0 +1,3 @@
+##### § 32.55-35 Venting of cargo tanks on tank vessels constructed prior to November 10, 1936—TB/ALL. #####
+
+The venting of cargo tanks of tank vessels, the construction or alteration of which was started prior to November 10, 1936, shall be made to equal the requirements of tank vessels constructed before July 1, 1951, where the changes are, in the opinion of the Officer in Charge, Marine Inspection, necessary in the interests of safety: *Provided,* That on such vessels carrying Grade A cargo the requirements in § 32.55-30(b) shall be met.

@@ -1,0 +1,3 @@
+##### § 1107.1 Purpose. #####
+
+This part establishes the protocols and standards for ensuring continued testing of children's products periodically and when there has been a material change in the product's design or manufacturing process and safeguarding against the exercise of undue influence by a manufacturer on a third party conformity assessment body. It also establishes a program for labeling of consumer products to indicate that the certification requirements have been met pursuant to sections 14(a)(2) and (i)(2)(B) of the Consumer Product Safety Act (CPSA) (15 U.S.C. 2063(a)(2) and (i)(2)(B)).

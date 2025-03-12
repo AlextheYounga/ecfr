@@ -1,0 +1,5 @@
+##### § 5.44 Testimony and production of documents prohibited unless approved by appropriate Department officials. #####
+
+(a) No employee, or former employee, of the Department shall, in response to a demand or request, including in connection with any litigation, provide oral or written testimony by deposition, declaration, affidavit, or otherwise concerning any information acquired while such person is or was an employee of the Department as part of the performance of that person's official duties or by virtue of that person's official status, unless authorized to do so by the Office of the General Counsel, or as authorized in § 5.44(b).
+
+(b) No employee, or former employee, shall, in response to a demand or request, including in connection with any litigation, produce any document or any material acquired as part of the performance of that employee's duties or by virtue of that employee's official status, unless authorized to do so by the Office of the General Counsel or the delegates thereof, as appropriate.

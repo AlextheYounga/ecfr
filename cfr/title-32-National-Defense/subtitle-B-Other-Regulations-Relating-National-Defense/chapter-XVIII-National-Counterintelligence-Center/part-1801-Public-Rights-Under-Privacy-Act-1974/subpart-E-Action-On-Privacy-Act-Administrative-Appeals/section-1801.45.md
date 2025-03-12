@@ -1,0 +1,5 @@
+##### § 1801.45 Notification of decision and right of judicial review. #####
+
+(a) *In general.* The Coordinator shall promptly prepare and communicate the decision of the Director, NACIC to the requester. With respect to any decision to deny information or deny amendment, that correspondence shall state the reasons for the decision, identify the officer responsible, and include a notice of the right to judicial review.
+
+(b) *For amendment requests.* With further respect to any decision to deny an amendment, that correspondence shall also inform the requester of the right to submit within forty-five (45) days a statement of his or her choice which shall be included in the official records of NACIC. In such cases, the applicable record system manager shall clearly note any portion of the official record which is disputed, append the requester's statement, and provide copies of the statement to previous recipients (if any are known) and to any future recipients when and if the disputed information is disseminated in accordance with a routine use.

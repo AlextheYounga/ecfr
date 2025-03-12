@@ -1,0 +1,3 @@
+##### § 750.62 Statutory authority. #####
+
+Section 2737 of title 10, United States Code, provides authority for the administrative settlement in an amount not to exceed $1,000.00 of any claim against the United States not cognizable under any other provision of law for damage, loss, or destruction of property or for personal injury or death caused by military personnel or a civilian official or employee of a military department incident to the use of a vehicle of the United States at any place, or any other property of the United States on a Government installation. There is no right to sue. There are no territorial limitations and the Act has worldwide application.

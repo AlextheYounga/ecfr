@@ -1,0 +1,35 @@
+##### § 206.3 Overall program emphasis. #####
+
+(a) The NSEP grants to institutions program focuses on two broad program areas that reflect the challenges to building the infrastructure for international education in U.S. higher education:
+
+(1) Development and expansion to quality programs in overseas locations.
+
+(i) Programs that offer important opportunities for U.S. students, both undergraduate and graduate, to study in critical areas under-represented by U.S. students, and
+
+(ii) Development of meaningful competencies in foreign languages and cultures.
+
+(2) Development and implementation of programs and curricula on U.S. campuses that provide more opportunities for study of foreign languages and cultures and the integration of these studies into overall programs of study.
+
+(b) *Addressing the need for improving study abroad infrastructure.* The NSEP encourages the study of foreign cultures and languages typically neglected or under-represented in higher education. In the foreign language field these are generally referred to as less commonly taught languages. In area studies, these are generally defined as non-Western European in focus. An integral part of any student's international education is a quality study abroad experience that includes a significant portion devoted to gaining functional competence in an indigenous language and culture. Unfortunately, there are only limited opportunities to study abroad in many foreign areas. In addition, many programs lack a quality foreign language component as well as significantly experiential components. Historically, more attention has been paid to the development of programs in Western Europe where the student demand has been greater. NSEP hopes to encourage, through institutional grants, the development and/or expansion of infrastructure for study abroad in critical areas of the world where capacity does not currently exist. Programs are encouraged that:
+
+(1) Expand program opportunities in critical countries where limited opportunities currently exist.
+
+(2) Establish program opportunities in critical countries where no opportunities exist.
+
+(3) Enhance meaningful opportunities for foreign language and foreign culture acquisition in conjunction with study abroad.
+
+(4) Create and expand study abroad opportunities for students from diverse disciplines. In all cases, grants to develop study abroad infrastructure must address issues of demand (how to increase demand for study in the proposed countries or regions) and diversity (how to attract a diverse student population to study in the proposed countries or regions). Grants may support start-up of programs or the expansion of a program's capacity to benefit more and/or different student or to improve the quality of study abroad instruction. Proposals can address issues concerning either or both issues. of undergraduate and graduate education.
+
+(c) Addressing the infrastructure for international education in U.S. higher education. While studying abroad is an integral part of becoming more proficient in one's understanding of another culture and in becoming more functionally competent in another language, the NSEP also emphasizes the development and expansion of programs that address serious shortfalls that provide a stronger domestic program base in areas consistent with the NSEP mission. The NSEP encourages grant proposals that address infrastructure issues. While not limited to these areas, programs might address the following issues:
+
+(1) Enhancing foreign language skill acquisition through innovative curriculum development efforts. Such efforts may involve intensive language study designed for different types of students. Less traditional approaches should be considered as well as ways to provide foreign language instruction for the student who may not otherwise have an opportunity to pursue such instruction. Functional competency should be stressed but defined as meaningful for the particular discipline or field.
+
+(2) Expanding opportunities for international education in diverse disciplines and fields and in issues that are cross-area or cross-national in character. Efforts are encouraged that offer opportunities for meaningful international education for those in fields where opportunities are not generally available. There are many fields and disciplines that are rapidly becoming international in scope, yet the educational process does not include a meaningful international component. In many cases this is due to a rigid structure in the field itself that cannot accommodate additional requirements, such as language and culture study. There are also issues that involve cross-area or cross-national education or are studied in comparative terms. Students in these areas also need quality opportunities in international education.
+
+(3) Provide opportunities for programmatic studies throughout an undergraduate or graduate career. Students frequently study a foreign language or pursue study abroad opportunities as adjuncts to their overall program of study. Innovations in curriculum are needed to more thoroughly integrate aspects of international education into curriculum throughout a student's undergraduate or graduate career. The NSEP encourages institutions to address these overall international education curriculum issues in their proposals.
+
+(4) Provide opportunities to increase demand for study of foreign areas and languages. Efforts to develop educational programs that offer innovative approaches to increasing demand to include a meaningful international component are encouraged. Proposals are encouraged to address issues of diversity: How to attract students who have historically not pursued opportunities involving international education. Diversity includes geographical, racial, ethnic, and gender factors.
+
+(5) Improve faculty credentials in international education. Efforts to create more opportunities for teachers to become competent in foreign cultures and languages are encouraged. While NSEP is a higher education program, it is interested in the potential dynamics of collaborative efforts that recognize the shared responsibility of all educational levels for promoting international education.
+
+(6) Uses of new technologies. During the last decade tremendous advances have been made in the application of new educational technologies. Such technologies have enhanced our capacity to improve instruction, broaden access, and assess student learning. NSEP's objective is not to support large technology oriented projects. However, NSEP encourages efforts that integrate innovative uses of technology emphasizing how proposed programs will have significance beyond a local setting. Proposals that include proposed uses of technology will be required to demonstrate detailed knowledge of the technology, how it is to be developed and applied and how student learning will be impacted.

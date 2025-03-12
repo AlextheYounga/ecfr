@@ -1,0 +1,5 @@
+##### § 169.209 Routes permitted. #####
+
+(a) The area of operation for each vessel is designated by the Officer in Charge, Marine Inspection and recorded on its Certificate of Inspection. Each area of operation is described on the Certificate of Inspection under the major headings “exposed waters,” “partially protected waters,” or “protected waters,” as applicable. Further limitations imposed or extensions granted are described by reference to bodies of waters, geographical points, distance from geographical points, distances from land, depths of channel, seasonal limitations, etc.
+
+(b) Operation of vessels on routes of lesser severity than those specifically described or designated on the Certificate of Inspection are permitted, unless expressly prohibited on the Certificate of Inspection. The general order of severity is: exposed, partially protected, and protected waters.

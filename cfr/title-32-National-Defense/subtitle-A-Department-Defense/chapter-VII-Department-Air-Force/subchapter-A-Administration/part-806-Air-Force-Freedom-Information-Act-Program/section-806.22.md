@@ -1,0 +1,3 @@
+##### § 806.22 Time limits. #####
+
+Any FOIA appeals received after the 60-day time limit are not processed, unless the requester provides adequate justification for failing to comply with the time limit. If a late appeal is received, and there is no adequate justification for failing to comply with the time limit, the FOIA office will advise the FOIA requester their appeal has been closed. An example of a closure letter is included in § 806.27.

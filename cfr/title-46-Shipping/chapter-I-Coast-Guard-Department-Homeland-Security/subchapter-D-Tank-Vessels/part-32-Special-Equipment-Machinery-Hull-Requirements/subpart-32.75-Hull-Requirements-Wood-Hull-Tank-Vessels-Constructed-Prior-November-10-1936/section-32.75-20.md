@@ -1,0 +1,3 @@
+##### § 32.75-20 Hold spaces and bulkheads—TB/ALL. #####
+
+In wood hull tank vessels containing independent cargo tanks for the transportation of Grade A, B, C, or D liquids, the hold spaces shall be considered as equivalent to a pumproom and shall be safeguarded and ventilated as such as required by § 32.65-20. Where the hold spaces contain equipment or operations which are sources of vapor ignition, such equipment or operations shall be isolated from other spaces by gastight bulkhead or, if it is impracticable to construct a gastight bulkhead, two structurally tight bulkheads without openings, separated by a well-ventilated air space 24 inches wide, where possible may be used.

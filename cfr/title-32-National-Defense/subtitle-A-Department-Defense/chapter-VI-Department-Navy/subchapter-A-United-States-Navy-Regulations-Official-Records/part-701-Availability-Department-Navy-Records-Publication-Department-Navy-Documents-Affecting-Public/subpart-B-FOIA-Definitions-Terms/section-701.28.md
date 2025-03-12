@@ -1,0 +1,3 @@
+##### § 701.28 FOIA request. #####
+
+A written request for DON records, made by “any person” including a member of the public (U.S. or foreign citizen/entity), an organization, or a business, but not including a Federal agency or a fugitive from the law that either explicitly or implicitly invokes the FOIA by citing DoD FOIA regulations or the instruction in this part. FOIA requests can be made for any purpose whatsoever, with no showing of relevancy required. Because the purpose for which records are sought has no bearing on the merits of the request, FOIA requesters do not have to explain or justify their requests. Written requests may be received by postal service or other commercial delivery means, by facsimile or electronically.

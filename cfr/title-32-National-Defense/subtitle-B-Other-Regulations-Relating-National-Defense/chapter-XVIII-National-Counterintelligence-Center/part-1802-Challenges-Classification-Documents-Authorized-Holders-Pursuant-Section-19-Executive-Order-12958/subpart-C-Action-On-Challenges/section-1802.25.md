@@ -1,0 +1,3 @@
+##### § 1802.25 Action on challenge. #####
+
+Action by Coordinator. The Coordinator shall provide a summation memorandum for consideration of the Director, NACIC; the complete package consisting of the challenge, the information at issue, and the findings of the originator and interested parties shall also be provided. The Director, NACIC shall personally decide each case; no personal appearances shall be permitted without the express permission of the Director, NACIC.

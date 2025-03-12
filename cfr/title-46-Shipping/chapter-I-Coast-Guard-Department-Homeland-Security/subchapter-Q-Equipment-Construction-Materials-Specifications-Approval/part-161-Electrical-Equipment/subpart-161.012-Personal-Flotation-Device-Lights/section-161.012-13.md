@@ -1,0 +1,5 @@
+##### § 161.012-13 Production tests and inspections. #####
+
+(a) The manufacturer of approved lights must randomly select a sample of ten lights from each lot of lights produced. Each lot must not exceed 1,000 lights. At least nine of the ten lights, when tested in accordance with the test described in § 161.012-11(c), must meet the test criteria prescribed by that section. If less than nine lights meet the test criteria, another random sample of ten lights must be taken and tested. If less than nine of these lights meet the test criteria, none of the lights in the lot may be sold as Coast Guard approved equipment.
+
+(b) The Coast Guard does not inspect lights approved under this subpart on a regular schedule. However, the Commandant may select samples and conduct tests and examinations whenever necessary to determine whether the lights are being manufactured in compliance with the requirements in this subpart.

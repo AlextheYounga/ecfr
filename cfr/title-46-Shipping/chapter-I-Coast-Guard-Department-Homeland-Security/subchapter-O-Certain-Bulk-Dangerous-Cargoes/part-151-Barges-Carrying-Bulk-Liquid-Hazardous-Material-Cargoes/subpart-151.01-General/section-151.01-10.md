@@ -1,0 +1,15 @@
+##### § 151.01-10 Application of vessel inspection regulations. #####
+
+(a) The regulations in this part are requirements which may be in addition to, supplement, or modify requirements in other subchapters in this chapter. When a specific requirement in another part or section in another subchapter in this chapter is in conflict with or contrary to requirement or intent expressed in this part, the regulations in this part shall take precedence.
+
+(b) Every unmanned tank barge which carries or is intended to carry in bulk any liquid or liquefied gas listed in Table 151.05 and has flammability or combustibility characteristics as indicated by a fire protection requirement in Table 151.05 shall be inspected and certificated under the provisions in subchapter D (Tank Vessels) of this chapter and the regulations in this part.
+
+(c) Every unmanned tank barge prior to the carriage in bulk of any liquid or liquefied gas listed in Table 151.05 which does not have the flammability or combustibility characteristics as indicated by the fire protection requirement in Table 151.05 shall be inspected and certificated under the applicable provisions of subchapter D or subchapter I of this chapter, at the option of the barge owner, in addition to the regulations in this part. However, unless the barge owner notifies the Officer in Charge, Marine Inspection of his option to have the barge inspected and certificated under subchapter I at the time he submits the application for inspection (Form CG-3752), the unmanned tank barge shall be inspected and certificated under the provisions of subchapter D of this chapter and the regulations in this part.
+
+(c-1) Each unmanned tank barge constructed on or after September 6, 1977, that carries in bulk a cargo listed in Table 151.05 and that is certificated under subchapter I of this chapter must meet the loading information requirements in § 31.10-32 of this chapter.
+
+(d) The provisions of subchapter D of this chapter shall apply to all unmanned tank barges which carry in bulk any of the liquids or liquefied gases listed in Table 30.25-1 of this chapter. The provisions of this part shall not apply to such barges unless it is also desired to carry one or more of the liquids or liquefied gases listed in Table 151.05.
+
+(e) Manned barges which carry or intend to carry in bulk the cargoes specified in Table 151.05 will be considered individually by the Commandant and may be required to meet the requirements of this subchapter and of subchapter D (Tank Vessels) or I (Cargo and Miscellaneous Vessels) of this chapter as applicable.
+
+[CGFR 70-10, 35 FR 3714, Feb. 25, 1970]Editorial Note:For Federal Register citations affecting § 151.01-10, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

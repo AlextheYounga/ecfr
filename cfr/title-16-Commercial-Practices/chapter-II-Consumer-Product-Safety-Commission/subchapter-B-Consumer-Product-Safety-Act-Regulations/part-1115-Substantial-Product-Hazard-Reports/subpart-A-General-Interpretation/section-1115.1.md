@@ -1,0 +1,3 @@
+##### § 1115.1 Purpose. #####
+
+The purpose of this part 1115 is to set forth the Consumer Product Safety Commission's (Commission's) interpretation of the reporting requirements imposed on manufacturers (including importers), distributors, and retailers by section 15(b) of the Consumer Product Safety Act, as amended (CPSA) (15 U.S.C. 2064(b)) and to indicate the actions and sanctions which the Commission may require or impose to protect the public from substantial product hazards, as that term is defined in section 15(a) of the CPSA.

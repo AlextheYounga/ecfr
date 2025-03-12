@@ -1,0 +1,3 @@
+##### § 108.159 Stairways and exterior inclined ladders. #####
+
+Each stairway, except a stairway in a machinery or storage space, and each exterior inclined ladder must be at least 70 centimeters (28 inches) wide with an angle of inclination from the horizontal of not more than 50 degrees, except that special consideration may be given to the installation if a 70 centimeters (28 inch) width is impracticable.

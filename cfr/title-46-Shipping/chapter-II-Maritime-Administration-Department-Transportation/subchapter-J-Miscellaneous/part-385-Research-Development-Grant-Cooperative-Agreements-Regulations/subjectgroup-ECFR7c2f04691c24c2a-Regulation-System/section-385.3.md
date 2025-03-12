@@ -1,0 +1,3 @@
+##### § 385.3 Purpose. #####
+
+Sections 385.2 through 385.9 establish the MarAd assistance regulations which codify, implement, and publish uniform assistance policies and selected procedures applicable to MarAd and recipients of MarAd assistance awards. The MarAd assistance regulations do not, in and of themselves, provide authority for the use of assistance instruments nor the making of assistance awards where statutory authority has not been otherwise provided. Generic authority to award grants and cooperative agreements is provided in Pub. L. 95-224, the Federal Grant and Cooperative Agreement Act of 1977. The assistance regulations are distinct from the Federal and MarAd and Department of Transportation procurement regulations.

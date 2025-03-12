@@ -1,0 +1,9 @@
+##### § 756.9 Claims by employees. #####
+
+(a) *Property.* Claims by employees of NAFIs for loss, damage, or destruction of personal property incident to their employment shall be processed and adjudicated in accordance with subparts A or B of part 751 of this chapter, as appropriate. The claims will then be forwarded to the appropriate NAFI for payment from non-appropriated funds.
+
+(b) *Personal injury or death*—(1) *Personal injury or death of citizens or permanent residents of the United States employed anywhere, or foreign nationals employed within the United States.* Compensation is provided by the Longshore and Harbor Workers' Compensation Act (33 U.S.C. 901-950) for employees of NAFIs who have suffered injury or death arising out of, and in the course of, their employment (5 U.S.C. 8171). That Act is the exclusive basis for Government liability for such injuries or deaths that are covered (5 U.S.C. 8173). A claim should first be made under that Act if there is a substantial possibility the injury or death is covered under the Act's provisions.
+
+(2) *Personal injury or death of foreign nationals employed outside of the continental United States.* Employees who are not citizens or permanent residents, and who are employed outside the continental United States, may be protected by private insurance of the NAFI or by other arrangements. When a non-appropriated fund activity has elected not to obtain insurance coverage or to make other arrangements, compensation is separately provided by Federal statute, military regulations, and agreements with foreign countries. See 5 U.S.C. 8172, DoD 1401.1-M, Personnel Policy Manual for Non-appropriated Fund Instrumentalities and BUPERINST 5300.10A, NAF Personnel Manual.
+
+[72 FR 53426, Sept. 19, 2007]

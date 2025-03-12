@@ -1,0 +1,7 @@
+##### § 1804.11 Requirements as to who may apply. #####
+
+(a) *Historical researchers:*—(1) *In general.* Any historian engaged in a historical research project as defined above may submit a request in writing to the Coordinator to be given access to classified information for purposes of that research. Any such request shall indicate the nature, purpose, and scope of the research project.
+
+(2) *Additional considerations.* In light of the very limited resources for NACIC's various historical programs, it is the policy of NACIC to consider applications for historical research privileges only in those instances where the researcher's needs cannot be satisfied through requests for access to reasonably described records under the Freedom of Information Act or the mandatory declassification review provisions of Executive Order 12958 and where issues of internal resource availability and fairness to all members of the historical research community militate in favor of a particular grant.
+
+(b) *Former Presidential appointees.* Any former Presidential appointee as defined herein may also submit a request to be given access to any classified records which they originated, reviewed, signed, or received while serving in that capacity. Such appointees may also request approval for a research associate but there is no entitlement to such enlargement of access and the decision in this regard shall be in the sole discretion of NACIC. Requests from appointees shall be in writing to the Coordinator and shall identify the records of interest.

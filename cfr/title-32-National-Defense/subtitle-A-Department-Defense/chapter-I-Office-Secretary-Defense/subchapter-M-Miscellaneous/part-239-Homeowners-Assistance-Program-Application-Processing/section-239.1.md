@@ -1,0 +1,9 @@
+##### § 239.1 Purpose. #####
+
+This part:
+
+(a) Continues to authorize the Homeowners Assistance Program (HAP) under Section 3374 of title 42, United States Code (U.S.C.), to assist eligible military and civilian Federal employee homeowners when the real estate market is adversely affected directly related to the closure or reduction-in-scope of operations due to Base Realignment and Closure (BRAC). Additionally, in accordance with section 1001, American Recovery and Reinvestment Act of 2009 (ARRA), Public Law 111-5, this part temporarily expands authority provided in section 3374, of title 42 U.S.C., to provide assistance to: Wounded, Injured, or Ill members of the Armed Forces (30 percent or greater disability), wounded Department of Defense (DoD) and Coast Guard civilian homeowners reassigned in furtherance of medical treatment or rehabilitation or due to medical retirement in connection with their disability, surviving spouses of fallen warriors, Base Realignment and Closure (BRAC) 2005 impacted homeowners relocating during the mortgage crisis, and Service member homeowners undergoing Permanent Change of Station (PCS) moves during the mortgage crisis. This authority is referred to as “Expanded HAP.”
+
+(b) Establishes policy, authority, and responsibilities for managing Expanded HAP and defines eligibility for financial assistance.
+
+(c) In accordance with this part, the Under Secretary of Defense for Acquisition, Technology, and Logistics (USD(AT&L)) has overall responsibility and, through the Deputy Under Secretary of Defense for Installations and Environment (DUSD(I&E)), provides oversight for this program. The Army, acting as the DoD Executive Agent for administering the HAP, uses the Headquarters, U.S. Army Corps of Engineers (HQUSACE) to implement the program.

@@ -1,0 +1,3 @@
+##### § 552.55 Restrictions. #####
+
+To maintain discipline; protect property; and safeguard the health, morale, and welfare of his personnel, the installation commander may impose reasonable restrictions on the character and conduct of commercial activities. Members of the Armed Forces must not be subjected to fraudulent, usurious, or unethical business practices. Reasonable and consistent standards must be applied to each company and its agents in their conduct of commercial transactions on the installation.

@@ -1,0 +1,3 @@
+##### § 724.117 Discharge review. #####
+
+A nonadversary administrative reappraisal at the level of the Navy Department of discharges from the naval service. The object of the reappraisal is to determine whether the discharge should be changed, and if so, the nature of the change. This reappraisal includes the type and reason/basis for separation, the procedures followed in accomplishing separation, and the characterization of service. This term includes determinations made under the provisions of 38 U.S.C. 3103(2).

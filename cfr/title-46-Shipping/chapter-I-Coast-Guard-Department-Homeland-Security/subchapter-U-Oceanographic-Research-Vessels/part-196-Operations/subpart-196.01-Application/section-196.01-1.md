@@ -1,0 +1,7 @@
+##### § 196.01-1 General; preemptive effect. #####
+
+(a) The provisions of this part shall apply to all vessels except as specifically noted in this part.
+
+(b) The regulations in this part have preemptive effect over State or local regulations in the same field.
+
+[CGFR 67-83, 33 FR 1158, Jan. 27, 1968, as amended by USCG-2006-24797, 77 FR 33894, June 7, 2012]

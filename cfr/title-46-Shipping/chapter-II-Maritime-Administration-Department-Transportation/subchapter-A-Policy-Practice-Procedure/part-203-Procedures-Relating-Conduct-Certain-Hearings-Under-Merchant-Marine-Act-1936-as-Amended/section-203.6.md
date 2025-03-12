@@ -1,0 +1,3 @@
+##### § 203.6 Oral evidentiary hearing before one or more members. #####
+
+If an oral evidentiary hearing is to be conducted, the Maritime Administration, or the Maritime Subsidy Board or one or more of its members, may conduct such hearing. A member who is not present at the hearing may participate in the consideration and the decision of the case where the oral evidentiary hearing, if held, has been stenographically recorded in full and transcribed for the member's review.

@@ -1,0 +1,3 @@
+##### § 750.9 Claims: Payments. #####
+
+Claims approved for payment shall be expeditiously forwarded to the disbursing office or the General Accounting Office depending on the claims act involved and the amount of the requested payment. Generally, payment of a Federal tort claim above $2,500.00 requires submission of the payment voucher to the General Accounting Office. All other field authorized payment vouchers are submitted directly to the servicing disbursing office for payment.

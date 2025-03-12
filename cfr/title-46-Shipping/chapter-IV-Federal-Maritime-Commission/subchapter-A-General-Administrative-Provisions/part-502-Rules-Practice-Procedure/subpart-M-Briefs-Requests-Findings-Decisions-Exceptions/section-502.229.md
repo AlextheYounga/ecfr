@@ -1,0 +1,3 @@
+##### § 502.229 Certification of record by presiding or other officer. #####
+
+The presiding or other officer shall certify and transmit the entire record to the Commission when (a) exceptions are filed or the time therefor has expired, (b) notice is given by the Commission that the initial decision will be reviewed on its own initiative, or (c) the Commission requires the case to be certified to it for initial decision. [Rule 229.]

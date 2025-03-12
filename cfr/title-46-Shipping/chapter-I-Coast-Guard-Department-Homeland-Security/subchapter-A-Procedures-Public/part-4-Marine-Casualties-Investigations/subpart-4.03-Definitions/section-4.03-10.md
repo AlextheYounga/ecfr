@@ -1,0 +1,3 @@
+##### § 4.03-10 Party in interest. #####
+
+The term *party in interest* shall mean any person whom the Marine Board of Investigation or the investigating officer shall find to have a direct interest in the investigation conducted by it and shall include an owner, a charterer, or the agent of such owner or charterer of the vessel or vessels involved in the marine casualty or accident, and all licensed or certificated personnel whose conduct, whether or not involved in a marine casualty or accident is under investigation by the Board or investigating officer.

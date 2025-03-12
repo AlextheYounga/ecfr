@@ -1,0 +1,3 @@
+##### § 644.377 Formal revocation of public land withdrawals and reservations. #####
+
+When the authorized officer of BLM determines that the land is suitable for return to the public domain, the BLM Land Office will transmit to the DE a draft of public land order (PLO) designed to formally revoke the order or reservation which withdrew or reserved the land. The DE will review the draft PLO for accuracy and return it unsigned. The draft PLO will be transmitted through BLM channels to DAEN-REM for signature of the Secretary of the Army or Air Force and return to the Washington office of BLM.

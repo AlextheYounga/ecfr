@@ -1,0 +1,3 @@
+##### § 308.551 War risk insurance clearing agency agreement for cargo, Form MA-321. #####
+
+The standard form of clearing agency agreement, Form MA-321, shall be executed by the Maritime Administrator and domestic insurance companies, or groups of domestic insurance companies authorized to do a marine insurance business in any State of the United States, appointing such companies or groups of companies as clearing agents, which form may be obtained from MARAD's underwriting agent or MARAD.

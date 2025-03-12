@@ -1,0 +1,3 @@
+##### § 1021.8 Legislative proposals. #####
+
+Draft EISs on legislative proposals which may significantly affect the environment shall be prepared as described in § 1506.8 of the NEPA regulations. The draft EIS, where feasible, shall accompany the legislative proposal or report to Congress and shall be available in time for Congressional hearings and deliberations. The draft EIS shall be forwarded to the Environmental Protection Agency in accordance with § 1506.9 of the NEPA regulations. Comments on the legislative statement and CPSC's responses shall be forwarded to the appropriate Congressional committees.

@@ -1,0 +1,61 @@
+##### § 1107.21 Periodic testing. #####
+
+(a) *General requirements for all manufacturers.* All manufacturers of children's products must conduct periodic testing. All periodic testing must be conducted by a third party conformity assessment body. Periodic testing must be conducted pursuant to either paragraph (b), (c), or (d) of this section or as provided in regulations under this title. The testing interval selected for periodic testing may be based on a fixed production interval, a set number of units produced, or another method chosen by the manufacturer based on the product produced and its manufacturing process, so long as the applicable maximum testing interval specified in paragraph (b), (c), or (d) of this section is not exceeded. Component part testing pursuant to 16 CFR part 1109 may be used to support the periodic testing requirements of this section.
+
+(b) A manufacturer must conduct periodic testing to ensure compliance with the applicable children's product safety rules at least once a year, except as otherwise provided in paragraphs (c), and (d) of this section or as provided in regulations under this title. If a manufacturer does not conduct production testing under paragraph (c) of this section, or testing by a testing laboratory under paragraph (d) of this section, the manufacturer must conduct periodic testing as follows:
+
+(1) *Periodic Testing Plan.* Manufacturers must develop a periodic testing plan to ensure with a high degree of assurance that children's products manufactured after the issuance of a Children's Product Certificate, or since the previous periodic testing was conducted, continue to comply with all applicable children's product safety rules. The periodic testing plan must include the tests to be conducted, the intervals at which the tests will be conducted, and the number of samples tested. At each manufacturing site, the manufacturer must have a periodic testing plan specific to each children's product manufactured at that site.
+
+(2) *Testing Interval.* The testing interval selected must be short enough to ensure that, if the samples selected for testing pass the test, there is a high degree of assurance that the other untested children's products manufactured during the testing interval comply with the applicable children's product safety rules. The testing interval may vary depending upon the specific children's product safety rules that apply to the children's product, but may not exceed one year. Factors to be considered when determining the testing interval include, but are not limited to, the following:
+
+(i) High variability in test results, as indicated by a relatively large sample standard deviation in quantitative tests;
+
+(ii) Measurements that are close to the allowable numerical limit for quantitative tests;
+
+(iii) Known manufacturing process factors which could affect compliance with a rule. For example, if the manufacturer knows that a casting die wears down as the die nears the end of its useful life, the manufacturer may wish to test more often as the casting die wears down;
+
+(iv) Consumer complaints or warranty claims;
+
+(v) Introduction of a new set of component parts into the assembly process;
+
+(vi) The manufacture of a fixed number of products;
+
+(vii) Potential for serious injury or death resulting from a noncompliant children's product;
+
+(viii) The number of children's products produced annually, such that a manufacturer should consider testing a children's product more frequently if the product is produced in very large numbers or distributed widely throughout the United States;
+
+(ix) The children's product's similarity to other children's products with which the manufacturer is familiar and/or whether the children's product has many different component parts compared to other children's products of a similar type; or
+
+(x) Inability to determine the children's product's noncompliance easily through means such as visual inspection.
+
+(c)(1) If a manufacturer implements a production testing plan as described in paragraph (c)(2) of this section to ensure continued compliance of the children's product with a high degree of assurance to the applicable children's product safety rules, the manufacturer must submit samples of its children's product to a third party conformity assessment body for periodic testing to the applicable children's product safety rules at least once every two years. A manufacturer may consider the information obtained from production testing when determining the appropriate testing interval and the number of samples needed for periodic testing to ensure that there is a high degree of assurance that the other untested children's products manufactured during the testing interval comply with the applicable children's product safety rules.
+
+(2) *Production Testing Plan.* A production testing plan describes the production management techniques and tests that must be performed to provide a high degree of assurance that the products manufactured after certification continue to meet all the applicable children's product safety rules. A production testing plan may include recurring testing or the use of process management techniques, such as control charts, statistical process control programs, or failure modes and effects analyses (FMEAs) designed to control potential variations in product manufacturing that could affect the product's ability to comply with the applicable children's product safety rules. A manufacturer may use measurement techniques that are nondestructive and tailored to the needs of an individual product to ensure that a product complies with all applicable children's product safety rules. Any production test method used to conduct production testing must be effective in determining compliance. Production testing cannot consist solely of mathematical methods (such as an FMEA, with no additional components, or computer simulations). Production testing must include some testing, although it is not required that the test methods employed be the test methods used for certification. A manufacturer must document the production testing methods used to ensure continuing compliance and the basis for determining that the production testing plan provides a high degree of assurance that the product being manufactured continues to comply with all applicable children's product safety rules. A production testing plan must contain the following elements:
+
+(i) A description of the production testing plan, including, but not limited to, a description of the process management techniques used, the tests to be conducted, or the measurements to be taken; the intervals at which the tests or measurements will be made; the number of samples tested; and the basis for determining that the combination of process management techniques and tests provide a high degree of assurance of compliance if they are not the tests prescribed for the applicable children's product safety rule;
+
+(ii) At each manufacturing site, the manufacturer must have a production testing plan specific to each children's product manufactured at that site;
+
+(iii) The production testing interval selected for tests must ensure that, if the samples selected for production testing comply with an applicable children's product safety rule, there is a high degree of assurance that the untested products manufactured during that testing interval also will comply with the applicable children's product safety rule. Production testing intervals should be appropriate for the specific testing or alternative measurements being conducted.
+
+(3) If a production testing plan as described in this paragraph (c) fails to provide a high degree of assurance of compliance with all applicable children's product safety rules, the CPSC may require the manufacturer to meet the requirements of paragraph (b) of this section or modify its production testing plan to ensure a high degree of assurance of compliance.
+
+(d)(1) For manufacturers conducting testing to ensure continued compliance with the applicable children's product safety rules using a testing laboratory accredited to ISO/IEC 17025:2005(E), “General requirements for the competence of testing and calibration laboratories,” periodic tests by a third party conformity assessment body must be conducted at least once every three years. Any ISO/IEC 17025:2005(E)-accredited testing laboratory used for ensuring continued compliance must be accredited by an accreditation body that is accredited to ISO/IEC 17011:2004(E), “Conformity assessment - General requirements for accreditation bodies accrediting conformity assessment bodies.” The test method(s) used by an ISO/IEC 17025:2005(E)-accredited testing laboratory when conducting testing to ensure continued compliance must be the same test method(s) used for certification to the applicable children's product safety rules. Manufacturers must conduct testing using the ISO/IEC 17025:2005(E)-accredited testing laboratory frequently enough to provide a high degree of assurance that the children's product continues to comply with the applicable children's product safety rules. A manufacturer may consider the information obtained from testing conducted by an ISO/IEC 17025:2005(E)-accredited testing laboratory when determining the appropriate testing interval and the number of samples for periodic testing that are needed to ensure that there is a high degree of assurance that the other untested children's products manufactured during the testing interval comply with the applicable children's product safety rules.
+
+(2) If the continued testing described in paragraph (d)(1) of this section fails to provide a high degree of assurance of compliance with all applicable children's product safety rules, the CPSC may require the manufacturer to meet the requirements of paragraph (b) of this section or modify the testing frequency or number of samples required to ensure a high degree of assurance of continued compliance.
+
+(e) [Reserved]
+
+(f) A manufacturer must select representative product samples to be submitted to the third party conformity assessment body for periodic testing. The procedure used to select representative product samples for periodic testing must provide a basis for inferring compliance about the population of untested products produced during the applicable periodic testing interval. The number of samples selected for the sampling procedure must be sufficient to ensure continuing compliance with all applicable children's product safety rules. The manufacturer must document the procedure used to select the product samples for periodic testing and the basis for inferring the compliance of the product manufactured during the periodic testing interval from the results of the tested samples.
+
+(g) The Director of the Federal Register approves the incorporations by reference of the standards in this section in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may inspect a copy of the standards at the Office of the Secretary, U.S. Consumer Product Safety Commission, Room 820, 4330 East West Highway, Bethesda, MD 20814, telephone (301) 504-7923, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(1) International Organization for Standardization (ISO), 1, ch. de la Voie-Creuse, Case postale 56, CH-1211 Geneva 20, Switzerland; Telephone + 41 22 749 01 11, Fax + 41 22 733 34 30; *http://www.iso.org/iso/home.html.*
+
+(i) ISO/IEC 17011:2004(E), “Conformity assessment - General requirements for accreditation bodies accrediting conformity assessment bodies,” First Edition, September 1, 2004 (Corrected version February 15, 2005);
+
+(ii) ISO/IEC 17025:2005(E), “General requirements for the competence of testing and calibration laboratories,” Second Edition, May 15, 2005.
+
+(2) [Reserved]
+
+[76 FR 69541, Nov. 8, 2011, as amended at 77 FR 72219, Dec. 5, 2012]

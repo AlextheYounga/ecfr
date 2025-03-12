@@ -1,0 +1,3 @@
+##### § 701.47 FOIA fees must be addressed in response letters. #####
+
+DON activities shall ensure that requesters receive a complete breakout of all fees which are charged and apprised of the “Category” in which they have been placed. For example: “We are treating you as an ‘All Other Requester.’ As such, you are entitled to 2 free hours of search and 100 pages of reproduction, prior to any fees being assessed. We have expended an additional 2 hours of search at $25.00 per hour and an additional 100 pages of reproduction, for a total fee of $65.00.”

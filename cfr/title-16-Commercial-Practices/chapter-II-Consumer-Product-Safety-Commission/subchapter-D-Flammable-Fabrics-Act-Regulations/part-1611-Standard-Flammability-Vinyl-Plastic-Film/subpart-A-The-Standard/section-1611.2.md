@@ -1,0 +1,5 @@
+##### § 1611.2 General description of products covered. #####
+
+The material covered is nonrigid, unsupported, vinyl plastic film, including transparent, translucent, and opaque material, whether plain, embossed, molded or otherwise surface treated.a
+
+a Refer to sections 2 and 4 of the Flammable Fabrics Act of 1953, as amended in 1954, set out at 16 CFR part 1609 for the scope of this standard. The vinyl plastic film covered by Commercial Standard 192-53, as promulgated by the Secretary of Commerce was vinyl plastic film 10 mils and less in thickness (see § 1.3 of the voluntary standard). After CS 191-53 and CS 192-53 were made mandatory by section 4 of the act, the Federal Trade Commission clarified the scope of the standards in rules and regulations now found at §§ 1611.31(i) and 1611.33(b) (formerly 16 CFR 302.1(a)(9) and 302.3(b)).

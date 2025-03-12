@@ -1,0 +1,3 @@
+##### § 308.500 Authority. #####
+
+The Secretary of Transportation has delegated authority to the Maritime Administrator to perform the functions vested in the Secretary by 46 U.S.C. Chapter 539, which authority includes the insurance set forth in this Subpart, as provided under 46 U.S.C. 53903(a)(3). For the purposes of this Subpart F—War Risk Cargo Insurance, the terms “cargo” and “cargoes” as used herein shall include loaded or empty containers located aboard American and foreign-flag vessels insured under 46 U.S.C. Chapter 539. Cargo war risk insurance will be written under either an open policy or a facultative policy in accordance with the provisions of this subpart.

@@ -1,0 +1,3 @@
+##### § 989.25 Base closure and realignment. #####
+
+Base closure or realignment may entail special requirements for environmental analysis. The permanent base closure and realignment law, 10 U.S.C. 2687, requires a report to the Congress when an installation where at least 300 DoD civilian personnel are authorized to be employed is closed, or when a realignment reduces such an installation by at least 50 percent or 1,000 of such personnel, whichever is less. In addition, other base closure laws may be in effect during particular periods. Such nonpermanent closure laws frequently contain provisions limiting the extent of environmental analysis required for actions taken under them. Such provisions may also add requirements for studies not necessarily required by NEPA.

@@ -1,0 +1,113 @@
+##### § 162.060-38 Operation, Maintenance, and Safety Manual (OMSM). #####
+
+(a) Each OMSM must include the following sections:
+
+(1) Table of contents.
+
+(2) Manufacturer's information.
+
+(3) Principles of ballast water management system (BWMS) operation, including—
+
+(i) A complete description of the BWMS, methods and type(s) of technologies used in each treatment stage of the BWMS;
+
+(ii) The theory of the BWMS' operation;
+
+(iii) Any process or technology limitations of the BWMS;
+
+(iv) Performance ranges and expectations of the system; and
+
+(v) A description of the locations and conditions for which the BWMS is intended.
+
+(4) Major system components and shipboard application, including—
+
+(i) A general description of the materials used for construction and installation of the BWMS;
+
+(ii) A list of each major component that may be fitted differently in different vessels with a general description of the different arrangements schemes;
+
+(iii) Any vessel type(s), services, or locations where the BWMS is not intended to be used;
+
+(iv) Maximum and minimum flow and volume capacities of the BWMS;
+
+(v) The dimensions and weight of the complete BWMS and required connection and flange sizes for all major components;
+
+(vi) A description of all actual or potential effects of the BWMS on the vessel's ballast water, ballast water tanks, and ballast water piping and pumping systems;
+
+(vii) A list of all active substances, relevant chemicals, and pesticides generated or stored onboard the vessel to be used by the BWMS; and
+
+(viii) Information on whether the BWMS is designed to be used in hazardous locations.
+
+(5) System and major system component drawings as applicable, including—
+
+(i) Process flow diagram(s) of the BWMS showing the main treatment processes, chemicals, and monitoring and control devices for the BWMS;
+
+(ii) Footprint(s), drawings, and system schematics showing all major components and arrangements;
+
+(iii) Drawings, containing a bill of materials, for the pumping and piping arrangements, and all related equipment provided with the BWMS;
+
+(iv) All treatment application points, waste or recycling streams, and all sampling points integral to the BWMS;
+
+(v) All locations and the sizes of all piping and utility connections for power, water, compressed air or other utilities as required by the BWMS;
+
+(vi) Electrical wiring diagrams that include the location and electrical rating of power supply panels and BWMS control and monitoring equipment;
+
+(vii) Unit(s), construction materials, standards, and labels on all drawings of equipment, piping, instruments, and appurtenances; and
+
+(viii) An index of all drawings and diagrams.
+
+(6) A description of the BWMS's control and monitoring equipment and how it will be integrated with the existing shipboard ballast system, including—
+
+(i) Power demand;
+
+(ii) Main and local control panels;
+
+(iii) Power distribution system;
+
+(iv) Power quality equipment;
+
+(v) Instrumentation and control system architecture;
+
+(vi) Process control description;
+
+(vii) Operational set points, control loops, control algorithms, and alarm settings for routine maintenance, and emergency operations; and
+
+(viii) All devices required for measuring appropriate parameters, such as pressure, temperature, flow rate, water quality, power, and chemical residuals.
+
+(7) A description of all relevant standard operating procedures including, but not limited to—
+
+(i) BWMS start-up and shutdown procedures and times;
+
+(ii) Emergency shutdown and system by-pass procedures;
+
+(iii) Requirements to achieve treatment objectives (e. g., time following initial treatment, critical dosages, residual concentrations, etc);
+
+(iv) Operating, safety, and emergency procedures;
+
+(v) BWMS limitations, precautions, and set points;
+
+(vi) Detailed instructions on operation, calibration and zeroing of each monitoring device used with the BWMS; and
+
+(vii) Personnel requirements for the BWMS, including number and types of personnel needed, labor burden, and operator training or specialty certification requirements.
+
+(8) A description of the preventive and corrective maintenance requirements of the BWMS, including—
+
+(i) Inspection and adjustment procedures;
+
+(ii) Troubleshooting procedures;
+
+(iii) An illustrated list of parts and spare parts;
+
+(iv) A list of recommended spare parts to have during installation and operation of the BWMS;
+
+(v) Use of tools and test equipment in accordance with the maintenance procedures; and
+
+(vi) Point(s) of contact for technical assistance.
+
+(9) A description of the health and safety risks to the personnel associated with the installation, operation, and maintenance of the BWMS including, but not limited to—
+
+(i) The storage, handling, and disposal of any hazardous wastes;
+
+(ii) Any health and safety certification/training requirements for personnel operating the BWMS; and
+
+(iii) All material safety data sheets for hazardous or relevant chemicals used, stored, or generated by or for the system.
+
+(b) If any information in the OMSM changes as a result of approval testing and evaluations, a new OMSM must be submitted.

@@ -1,0 +1,5 @@
+##### § 1115.11 Imputed knowledge. #####
+
+(a) In evaluating whether or when a subject firm should have reported, the Commission will deem a subject firm to have obtained reportable information when the information has been received by an official or employee who may reasonably be expected to be capable of appreciating the significance of the information. (See § 1115.14(b).)
+
+(b) In evaluating whether or when a subject firm should have reported, the Commission will deem a subject firm to know what a reasonable person acting in the circumstances in which the firm finds itself would know. Thus, the subject firm shall be deemed to know what it would have known if it had exercised due care to ascertain the truth of complaints or other representations. This includes the knowledge a firm would have if it conducted a reasonably expeditious investigation in order to evaluate the reportability of a death or grievous bodily injury or other information. (See § 1115.14.)

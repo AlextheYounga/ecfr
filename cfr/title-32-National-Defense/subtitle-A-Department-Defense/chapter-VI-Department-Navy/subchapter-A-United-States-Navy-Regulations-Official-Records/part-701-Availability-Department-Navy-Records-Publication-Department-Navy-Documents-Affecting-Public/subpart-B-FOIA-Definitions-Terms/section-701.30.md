@@ -1,0 +1,3 @@
+##### § 701.30 Initial Denial Authority (IDA). #####
+
+SECNAV has delegated authority to a limited number of officials to act on his behalf to withhold records under their cognizance that are requested under the FOIA for one or more of the nine categories of records exempt from mandatory disclosure; to deny a fee category claim by a requester; to deny a request for expedited processing due to demonstrated compelling need; to deny or grant a request for waiver or reduction of fees when the information sought relates to matters within their respective geographical areas of responsibility or chain of command; fees; to review a fee estimate; and to confirm that no records were located in response to a request. IDAs may also grant access to requests.

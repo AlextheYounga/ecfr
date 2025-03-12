@@ -1,0 +1,19 @@
+##### § 802.23 Amended or renewed tender offers. #####
+
+Whenever a tender offer is amended or renewed after notification has been filed by the offeror, no new notification shall be required, and the running of the waiting period shall be unaffected, except as follows:
+
+(a) If the number of voting securities to be acquired pursuant to the offer is increased such that a greater notification threshold would be met or exceeded, only the acquiring person need again file notification, but a new waiting period must be observed;
+
+(b) If a noncash tender offer is amended to become a cash tender offer, (1) one copy of the amended tender offer shall be filed in the manner prescribed by § 803.10(c) with the Federal Trade Commission and Assistant Attorney General, and (2) subject to the provisions of § 803.10(b)(1), the waiting period shall expire on the 15th day after the date of receipt (determined in accordance with § 803.10(c)) of the amended tender offer, or on the 30th day after filing notification, whichever is earlier; or
+
+(c) If a cash tender offer is amended to become a noncash tender offer, (1) one copy of the amended tender offer shall be filed in the manner prescribed by § 803.10(c) with the Federal Trade Commission and Assistant Attorney General, and (2) subject to the provisions of § 803.10(b)(1), the waiting period shall expire on the 15th day after the date of receipt (as determined in accordance with § 803.10(c)) of the amended tender offer, or on the 30th day after filing notification, whichever is later.
+
+Examples:1. Assume that corporation A makes a tender offer for 20 percent of the voting securities of corporation B and that “A” files notification. Under this section, if A subsequently amends its tender offer only as to the amount of consideration offered, the waiting period so commenced is not affected, and no new notification need be filed.
+
+2. In the previous example, assume that A makes an amended tender offer for 27 percent of the voting securities of B, valued at greater than $1 billion. Since a new notification threshold will be crossed, this section requires that “A” must again file notification and observe a new waiting period. Paragraph (a) of this section, however, provides that “B” need not file notification again.
+
+3. Assume that “A” makes a tender offer for shares of corporation B. “A” includes its voting securities as part of the consideration. “A” files notification. Five days later, “A” changes its tender offer to a cash tender offer, and on the same day files copies of its amended tender offer with the offices designated in § 803.10(c). Under paragraph (b) of this section, the waiting period expires (unless extended or terminated) 15 days after the receipt of the amended offer (on the 20th day after filing notification), since that occurs earlier than the expiration of the original waiting period (which would occur on the 30th day after filing).
+
+4. Assume that “A” makes a cash tender offer for shares of corporation B and files notification. Six days later, “A” amends the tender offer and adds voting securities as consideration, and on the same day files copies of the amended tender offer with the offices designated in § 803.10(c). Under paragraph (c) of this section, the waiting period expires (unless extended or terminated) on the 30th day following the date of filing of notification (determined under § 803.10(c)), since that occurs later than the 15th day after receipt of the amended tender offer (which would occur on the 21st day).
+
+[43 FR 33544, July 31, 1978; 43 FR 36054, Aug. 15, 1978, as amended at 66 FR 8694, Feb. 1, 2001]

@@ -1,0 +1,11 @@
+##### § 37.685 May I allow for-profit firms to purchase real property and equipment with project funds? #####
+
+(a) With the two exceptions described in paragraph (b) of this section, you must require a for-profit firm to purchase real property or equipment with its own funds that are separate from the research project. You should allow the firm to charge to an expenditure-based TIA only depreciation or use charges for real property or equipment (and your cost estimate for a fixed-support TIA only would include those costs). Note that the firm must charge depreciation consistently with its usual accounting practice. Many firms treat depreciation as an indirect cost. Any firm that usually charges depreciation indirectly for a particular type of property must not charge depreciation for that property as a direct cost to the TIA.
+
+(b) In two situations, you may grant an exception and allow a for-profit firm to use project funds, which includes both the Federal Government and recipient shares, to purchase real property or equipment (*i.e.,* to charge to the project the full acquisition cost of the property). The two circumstances, which should be infrequent for equipment and extremely rare for real property, are those in which you either:
+
+(1) Judge that the real property or equipment will be dedicated to the project and have a current fair market value that is less than $5,000 by the time the project ends; or
+
+(2) Give prior approval for the firm to include the full acquisition cost of the real property or equipment as part of the cost of the project (see § 37.535).
+
+(c) If you grant an exception in either of the circumstances described in paragraphs (b)(1) and (2) of this section, you must make the real property or equipment subject to the property management standards in 32 CFR 34.21(b) through (d). As provided in those standards, the title to the real property or equipment will vest conditionally in the for-profit firm upon acquisition. Your TIA, whether it is a fixed-support or expenditure-based award, must specify that any item of equipment that has a fair market value of $5,000 or more at the conclusion of the project also will be subject to the disposition process in 32 CFR 34.21(e), whereby the Federal Government will recover its interest in the property at that time.

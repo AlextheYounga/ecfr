@@ -1,0 +1,3 @@
+##### § 1657.4 Consideration of claims. #####
+
+An overseas registrant's claim shall be determined by a local board (or its supporting area office) or appeal board as may be established in accord with this part or, upon the request of the registrant filed no later than the filing of his claim for reclassification, by the board having geographic jurisdiction over his permanent address within the United States last reported by him to the Selective Service System prior to issuance of his induction order.

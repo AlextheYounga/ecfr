@@ -1,0 +1,3 @@
+##### § 806b.28 Warning banners. #####
+
+Information systems that contain information on individuals that is retrieved by name or personal identifier are subject to the Privacy Act. The Privacy Act requires these systems to have a Privacy Act system notice published in the Federal Register that covers the information collection before collection begins. In addition, all information systems subject to the Privacy Act will have warning banners displayed on the first screen (at a minimum) to assist in safeguarding the information. Use the following language for the banner: “PRIVACY ACT INFORMATION - The information accessed through this system is FOR OFFICIAL USE ONLY and must be protected in accordance with the Privacy Act and Air Force Instruction 33-332.”

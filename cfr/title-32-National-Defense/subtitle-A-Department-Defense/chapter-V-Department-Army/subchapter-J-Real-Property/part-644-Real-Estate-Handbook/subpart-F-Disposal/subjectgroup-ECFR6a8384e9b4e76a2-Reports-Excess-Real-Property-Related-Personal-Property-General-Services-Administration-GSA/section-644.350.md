@@ -1,0 +1,11 @@
+##### § 644.350 Excess property reported for screening. #####
+
+The types of property described in paragraphs (a), (b), and (c) of this section must be reported to GSA for screening purposes notwithstanding the fact that the military departments have been delegated authority to dispose of such property. SF 118 will be utilized for reporting these types of property without attaching the usual Schedules A, B, and C and supporting documents. A notice should be included on the face sheet that “This report is made for screening purposes only. Disposal will be accomplished by the Corps of Engineers.” Distribution of copies of such reports within the departments is not required.
+
+(a) Land held under lease, permit, license, easement, or similar instrument, other than listed in § 644.351.
+
+(b) Improvements located on nonexcess Government-owned lands (including improvements on land held under permit from another Government agency; see §§ 644.376 through 644.384, for preliminary procedure in these cases), which improvements, with related personal property, in the opinion of the responsible DE, have an estimated net salvage value of $1,000 or more.
+
+(c) Improvements located on excess land held under lease or other temporary right of occupancy (even though a report of excess is not required for the leasehold itself or other right of occupancy interest under the criteria set forth in § 644.351) when, in the opinion of the DE, the improvements have a net salvage or market value of $1,000 or more, and it is proposed to dispose of such improvements by sale for removal from site. The report of excess will contain an estimate of the cost of restoration necessary under the lease that a prospective transferee agency will be required to assume.
+
+(d) Fee-owned property which, with improvements and related personal property, in the opinion of the responsible Division or District engineer, have a fair market value of $1,000 or more, and is not reported to the General Services Administration for disposal as a result of the exception contained in § 644.349(a) (because of outstanding options to purchase, etc., or because of rights retained by the Government grantor).

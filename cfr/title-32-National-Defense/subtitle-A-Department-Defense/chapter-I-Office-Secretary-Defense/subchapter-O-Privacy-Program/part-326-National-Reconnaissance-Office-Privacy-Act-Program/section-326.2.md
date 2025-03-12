@@ -1,0 +1,3 @@
+##### § 326.2 Application. #####
+
+Obligations under this part apply to all employees detailed, attached, or assigned to or authorized to act as agents of the National Reconnaissance Office. The provisions of this part shall be made applicable by contract or other legally binding action to government contractors whenever a contract is let for the operation of a system of records or a portion of a system of records.

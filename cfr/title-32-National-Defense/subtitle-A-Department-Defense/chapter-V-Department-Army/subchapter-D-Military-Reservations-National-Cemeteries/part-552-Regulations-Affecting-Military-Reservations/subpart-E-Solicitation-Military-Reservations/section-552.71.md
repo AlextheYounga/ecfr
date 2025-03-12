@@ -1,0 +1,3 @@
+##### § 552.71 Associations—general. #####
+
+The recent growth of quasi-military associations offering various insurance plans to military personnel is recognized. Some associations are not organized within the supervision of insurance laws of either the Federal or State Government. While some are organized for profit, others function as nonprofit associations under Internal Revenue Service regulations. Regardless of how insurance plans are offered to members, the management of the association is responsible for assuring that all aspects of its insurance programs comply fully with the instructions of this regulation.

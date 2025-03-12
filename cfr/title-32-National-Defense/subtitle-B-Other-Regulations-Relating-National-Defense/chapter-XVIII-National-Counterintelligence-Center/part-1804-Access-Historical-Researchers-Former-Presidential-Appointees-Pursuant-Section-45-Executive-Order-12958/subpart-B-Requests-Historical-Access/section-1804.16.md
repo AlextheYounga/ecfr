@@ -1,0 +1,3 @@
+##### § 1804.16 Action by appeal authority. #####
+
+The record compiled (the request, the memoranda filed by the originator and interested parties, and the previous decision(s)) as well as any memorandum of law or policy the referent desires to be considered, shall be certified by the Coordinator and shall constitute the official record of the proceedings and must be included in any subsequent filings. In such cases, the factors to be determined as specified in § 1804.14(a) will be considered by the Director, NACIC de novo and that decision shall be final.

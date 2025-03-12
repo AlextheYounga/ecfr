@@ -1,0 +1,3 @@
+##### § 315.9 Enforcement. #####
+
+Any violation of this Rule shall be treated as a violation of a rule under section 18 of the Federal Trade Commission Act, 15 U.S.C. 57a, regarding unfair or deceptive acts or practices, and the Commission will enforce this Rule in the same manner, by the same means, and with the same jurisdiction, powers, and duties as are available to it pursuant to the Federal Trade Commission Act, 15 U.S.C. 41 *et seq.*

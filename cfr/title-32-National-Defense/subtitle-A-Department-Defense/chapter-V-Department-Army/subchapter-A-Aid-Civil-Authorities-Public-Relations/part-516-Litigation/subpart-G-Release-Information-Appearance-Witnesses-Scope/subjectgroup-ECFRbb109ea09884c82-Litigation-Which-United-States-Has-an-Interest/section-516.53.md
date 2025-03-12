@@ -1,0 +1,3 @@
+##### § 516.53 News media and other inquiries. #####
+
+News media inquiries regarding litigation or potential litigation will be referred to the appropriate public affairs office. DA personnel will not comment on any matter presently or potentially in litigation without proper clearance. Local public affairs officers will refer press inquiries to HQDA (SAPA), WASH DC 20310-1500, with appropriate recommendations for review and approval by the Office of the Chief of Public Affairs. All releases of information regarding actual or potential litigation will be coordinated with Litigation Division prior to release.

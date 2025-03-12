@@ -1,0 +1,5 @@
+##### § 249.2 Policy. #####
+
+(a) It is the policy of the Maritime Administration (MARAD) that companies subject to requirements for the placement of marine hull insurance shall be afforded the widest possible opportunity to obtain the necessary coverage, with minimal regulatory constraints, with financially sound underwriters, and that such placement should not create any unnecessary impediments to competitive maritime operations.
+
+(b) It is also the policy of MARAD to require owners of vessels with ODS or Title XI obligation guarantees to allow the American marine insurance market the opportunity to compete for the marine hull insurance on their vessels before such insurance is placed. Consistent with sound business judgment, owners will be expected to place their insurance with the American market to the maximum extent possible when the rates, terms and conditions offered by American underwriters are competitive with those offered by foreign underwriters.

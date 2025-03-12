@@ -1,0 +1,5 @@
+##### § 536.38 Elements of the investigation. #####
+
+(a) The investigation is conducted to ascertain the facts of an incident. Which facts are relevant often depends on the law and regulations applicable to the conduct of the parties involved but generally the investigation should develop definitive answers to such questions as “When?” “Where?” “Who?” “What?” and “How?”. Typically, the time, place, persons, and circumstances involved in an incident may be established by a simple report, but its cause and the resulting damage may require extensive effort to obtain all the pertinent facts.
+
+(b) The object of the investigation is to gather, with the least possible delay, the best available evidence without accumulating excessive evidence concerning any particular fact. The claimant is often an excellent source of such information and should be contacted early in the investigation, particularly when there is a question as to whether the claim was timely filed.

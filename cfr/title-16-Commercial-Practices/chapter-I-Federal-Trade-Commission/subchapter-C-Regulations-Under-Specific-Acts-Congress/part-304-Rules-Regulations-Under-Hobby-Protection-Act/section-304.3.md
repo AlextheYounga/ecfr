@@ -1,0 +1,5 @@
+##### § 304.3 Applicability. #####
+
+Any person engaged in the manufacturing, or importation into the United States for introduction into or distribution in commerce, of imitation political or imitation numismatic items shall be subject to the requirements of the Act and the regulations promulgated thereunder. Any person engaged in the sale in commerce of imitation numismatic items shall be subject to the requirements of the Act and the regulations promulgated thereunder. It shall be a violation of the Act and the regulations promulgated thereunder for a person to provide substantial assistance or support to any manufacturer, importer, or seller of imitation numismatic items, or to any manufacturer or importer of imitation political items, if that person knows or should have known that the manufacturer, importer, or seller is engaged in any practice that violates the Act and the regulations promulgated thereunder.
+
+[81 FR 70938, Oct. 14, 2016]

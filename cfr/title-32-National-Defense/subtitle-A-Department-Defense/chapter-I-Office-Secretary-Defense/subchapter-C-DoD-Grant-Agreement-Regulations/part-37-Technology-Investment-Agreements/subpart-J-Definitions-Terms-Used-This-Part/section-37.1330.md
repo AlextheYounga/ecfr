@@ -1,0 +1,3 @@
+##### § 37.1330 Procurement contract. #####
+
+A Federal Government procurement contract. It is a legal instrument which, consistent with 31 U.S.C. 6303, reflects a relationship between the Federal Government and a State, a local government, or other recipient when the principal purpose of the instrument is to acquire property or services for the direct benefit or use of the Federal Government. See the more detailed definition of the term “contract” at 48 CFR 2.101.

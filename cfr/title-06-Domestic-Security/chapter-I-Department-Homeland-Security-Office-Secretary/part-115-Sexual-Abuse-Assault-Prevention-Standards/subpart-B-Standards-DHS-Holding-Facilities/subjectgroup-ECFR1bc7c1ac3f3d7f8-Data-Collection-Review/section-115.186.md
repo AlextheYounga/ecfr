@@ -1,0 +1,5 @@
+##### § 115.186 Sexual abuse incident reviews. #####
+
+(a) The agency shall conduct a sexual abuse incident review at the conclusion of every investigation of sexual abuse and, where the allegation was not determined to be unfounded, prepare a written report recommending whether the allegation or investigation indicates that a change in policy or practice could better prevent, detect, or respond to sexual abuse. Such review shall ordinarily occur within 30 days of the agency receiving the investigation results from the investigative authority. The agency shall implement the recommendations for improvement, or shall document its reasons for not doing so in a written response. Both the report and response shall be forwarded to the agency PSA Coordinator.
+
+(b) The agency shall conduct an annual review of all sexual abuse investigations and resulting incident reviews to assess and improve sexual abuse intervention, prevention and response efforts.

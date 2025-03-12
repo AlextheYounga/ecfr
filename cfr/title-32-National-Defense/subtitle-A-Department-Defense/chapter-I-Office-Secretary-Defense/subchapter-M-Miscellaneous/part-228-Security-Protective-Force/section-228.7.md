@@ -1,0 +1,3 @@
+##### § 228.7 Prohibition on weapons and explosives. #####
+
+No persons entering or while on protected property shall carry or possess, either openly or concealed, firearms, any illegal or legally controlled weapon (e.g., throwing stars, switchblades), explosives, or items intended to be used to fabricate an explosive or incendiary device, except as authorized by the NSA Director of Security or his designee at each Agency facility. The use of chemical agents (Mace, tear gas, etc.) on protected property in circumstances that do not include an immediate and unlawful threat of physical harm to any person or persons is prohibited; however, this prohibition does not apply to use by law enforcement personnel in the performance of their duties.

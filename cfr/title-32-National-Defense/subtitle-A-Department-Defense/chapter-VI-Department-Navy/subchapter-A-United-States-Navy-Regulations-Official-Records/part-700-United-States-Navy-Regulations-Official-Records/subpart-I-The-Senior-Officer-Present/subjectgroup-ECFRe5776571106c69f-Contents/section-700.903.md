@@ -1,0 +1,3 @@
+##### § 700.903 Authority and responsibility. #####
+
+At all times and places not excluded in these regulations, or in orders from competent authority, the senior officer present shall assume command and direct the movements and efforts of all persons in the Department of the Navy present, when, in his or her judgment, the exercise of authority for the purpose of cooperation or otherwise is necessary. The senior officer present shall exercise this authority in a manner consistent with the operational command responsibility vested in the commanders of unified or specified commands.

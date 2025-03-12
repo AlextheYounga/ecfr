@@ -1,0 +1,11 @@
+##### § 189.20-15 Scope of inspection. #####
+
+(a) The initial inspection, which may consist of a series of inspections during the construction of a vessel, shall include a complete inspection of the structure, machinery, and equipment, except scientific equipment which does not affect the safety of the vessel or personnel, but including the outside of the vessel's bottom, and the inside and outside of the boilers and unfired pressure vessels. The inspection shall be such as to insure that the arrangements, materials, and scantlings of the structure, boilers and other pressure vessels and their appurtenances, piping, main and auxiliary machinery, electrical installations, lifesaving appliances, fire detecting and extinguishing equipment, pilot boarding equipment, pollution prevention equipment, and other equipment fully comply with the applicable regulations for such vessel and are in accordance with approved plans, and determine that the vessel is in possession of a valid certificate issued by the Federal Communications Commission, if any. The inspection shall be such as to ensure that the workmanship of all parts of the vessel and its equipment is in all respects satisfactory and that the vessel is provided with lights, means of making sound signals, and distress signals as required by applicable statutes and regulations.
+
+(b) When equipment other than scientific equipment is installed which is not required by the applicable regulations in this subchapter, that equipment shall be inspected and tested as may be required for such equipment by the Officer in Charge, Marine Inspection, to assure safety.
+
+(1) The electrical or pressure connections to the ship's supply shall be designed to marine standards and shall be free of personnel hazards.
+
+(2) Scientific equipment will not be inspected but will be examined for external hazards associated with connection to the vessel, dangerous moving parts, extremes in temperature and shock.
+
+[CGFR 67-83, 33 FR 1118, Jan. 27, 1968, as amended by CGFR 68-82, 33 FR 18911, Dec. 18, 1968; CGD 71-161R, 37 FR 28263, Dec. 21, 1972; CGD 82-036, 48 FR 654, Jan. 6, 1983; CGD 79-032, 49 FR 25455, June 21, 1984; CGD 95-012, 60 FR 48052, Sept. 18, 1995; 60 FR 50120, Sept. 28, 1995]

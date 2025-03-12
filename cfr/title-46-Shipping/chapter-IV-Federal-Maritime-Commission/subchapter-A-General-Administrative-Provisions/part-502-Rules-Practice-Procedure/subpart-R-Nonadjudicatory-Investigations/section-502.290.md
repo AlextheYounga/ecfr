@@ -1,0 +1,3 @@
+##### § 502.290 Rights of witness. #####
+
+Any person required to testify or to submit documentary evidence shall be entitled to retain or, on payment of lawfully prescribed cost, procure a copy of any document produced by such person and of his or her own testimony as stenographically reported or, in the depositions, as reduced to writing by or under the direction of the person taking the deposition. Any party compelled to testify or to produce documentary evidence may be accompanied and advised by counsel, but counsel may not, as a matter or right, otherwise participate in the investigation. [Rule 290.]

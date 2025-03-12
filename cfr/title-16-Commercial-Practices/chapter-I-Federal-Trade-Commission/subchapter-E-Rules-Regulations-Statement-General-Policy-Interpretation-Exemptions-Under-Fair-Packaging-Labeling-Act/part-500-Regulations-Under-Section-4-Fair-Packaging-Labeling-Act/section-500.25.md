@@ -1,0 +1,7 @@
+##### § 500.25 Net quantity, average quantity, permitted variations. #####
+
+(a) The statement of net quantity of contents shall accurately reveal the quantity of the commodity in the container exclusive of wrappers and other material packed therewith: *Provided,* that in the case of a commodity packed in a container designed to deliver the commodity under pressure, the statement shall declare the net quantity of the contents that will be expelled when the instructions for use are followed. The propellant is included in the net quantity statement.
+
+(b) Variations from the stated weight or mass or measure shall be permitted when caused by ordinary and customary exposure, after the commodity is introduced into interstate commerce, to conditions which normally occur in good distribution practice and which unavoidably result in change of weight or mass or measure.
+
+(c) Variations from the stated weight or mass, measure, or numerical count shall be permitted when caused by unavoidable deviations in weighing, measuring, or counting the contents of individual packages which occur in good packaging practice: *Provided,* that such variations shall not be permitted to such extent that the average of the quantities in the packages comprising a shipment or other delivery of the commodity is below the quantity stated, and no unreasonable shortage in any package will be permitted even though overages in other packages in the same shipment or delivery compensate for such shortage. Variations from stated quantity of contents shall not be unreasonably large.

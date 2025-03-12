@@ -1,0 +1,3 @@
+##### § 150.9 Conduct of counsel. #####
+
+The conduct of counsel appearing before the Court shall be in accordance with rules of conduct prescribed pursuant to Rule for Courts-Martial 109 by the Judge Advocate General of the service concerned. However, the Court may exercise its inherent power to regulate counsel appearing before it, including the power to remove counsel from a particular case for misconduct in relation to that case. Conduct deemed by the Court to warrant consideration of suspension from practice or other professional discipline shall be reported by the Court to the Judge Advocate General concerned.

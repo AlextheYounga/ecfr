@@ -1,0 +1,3 @@
+##### § 1700.3 Contact for general information and requests. #####
+
+For general information on this Part, to inquire about the FOIA program at ODNI, or to file a FOIA request (or expression of interest), please direct communication in writing to the Office of the Director of National Intelligence, Chief FOIA Officer c/o Director, Information Management Office, Washington, DC 20511 by mail or by facsimile at (703) 482-2144. FOIA requests can also be submitted by electronic mail to *FOIA @ dni.gov.* For general information or status information on pending cases only, call the ODNI FOIA Customer Service Center at (571) 204-4774.

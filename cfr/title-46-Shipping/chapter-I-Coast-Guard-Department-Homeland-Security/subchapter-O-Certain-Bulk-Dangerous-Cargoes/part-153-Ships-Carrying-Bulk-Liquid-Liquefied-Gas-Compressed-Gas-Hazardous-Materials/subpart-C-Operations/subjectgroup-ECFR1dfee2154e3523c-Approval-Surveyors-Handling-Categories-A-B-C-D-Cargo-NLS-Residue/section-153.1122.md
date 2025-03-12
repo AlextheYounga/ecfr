@@ -1,0 +1,3 @@
+##### § 153.1122 Discharges of NLS residue from tank washing other than a prewash: Categories A, B, and C. #####
+
+Tank washings that do not result from a prewash and that contain Category A, B, or C NLS residues must be discharged to a reception facility or discharged to the sea under § 153.1126 or § 153.1128 except those tank washings resulting from washing a tank that has been cleaned following a ventilation procedure in the approved Procedures and Arrangements Manual.

@@ -1,0 +1,13 @@
+##### § 776.56 Professional independence of a covered USG attorney. #####
+
+(a) Notwithstanding a judge advocate's status as a commissioned officer subject, generally, to the authority of superiors, a judge advocate detailed or assigned to represent an individual member or employee of the DoN is expected to exercise unfettered loyalty and professional independence during the representation consistent with subpart B of this part and remains ultimately responsible for acting in the best interest of the individual client.
+
+(b) Notwithstanding a civilian USG attorney's status as a Federal employee subject, generally, to the authority of superiors, a civilian USG attorney detailed or assigned to represent an individual member or employee of the DoN is expected to exercise unfettered loyalty and professional independence during the representation consistent with this part and remains ultimately responsible for acting in the best interest of the individual client.
+
+(c) The exercise of professional judgment in accordance with paragraph (a) or (b) of this section shall not, standing alone, be a basis for an adverse evaluation or other prejudicial action.
+
+(1) Subpart B of this part recognizes that a judge advocate is a military officer required by law to obey the lawful orders of superior officers. It also recognizes the similar status of a civilian USG attorney. Nevertheless, the practice of law requires the exercise of judgment solely for the benefit of the client and free of compromising influences and loyalties. Thus, when a covered USG attorney is assigned to represent an individual client, neither the attorney's personal interests, the interests of other clients, nor the interests of third persons should affect loyalty to the individual client.
+
+(2) Not all direction given to a subordinate covered attorney is an attempt to influence improperly the covered attorney's professional judgment. Each situation must be evaluated by the facts and circumstances, giving due consideration to the subordinate's training, experience, and skill. A covered attorney subjected to outside pressures should make full disclosure of them to the client. If the covered attorney or the client believes the effectiveness of the representation has been or will be impaired thereby, the covered attorney should take proper steps to withdraw from representation of the client.
+
+(3) Additionally, a judge advocate has a responsibility to report any instances of unlawful command influence. See R.C.M. 104, MCM, 1998.

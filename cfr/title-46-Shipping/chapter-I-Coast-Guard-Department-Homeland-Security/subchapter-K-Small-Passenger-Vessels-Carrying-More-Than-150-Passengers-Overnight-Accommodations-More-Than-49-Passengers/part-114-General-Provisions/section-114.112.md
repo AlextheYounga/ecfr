@@ -1,0 +1,3 @@
+##### § 114.112 Specific applicability for individual parts. #####
+
+At the beginning of certain parts of this subchapter, a more specific application is given for all or particular portions of that part. This application sets forth the type, size, service, or age of a vessel to which certain portions of that part apply or particular dates by which an existing vessel must comply with certain portions of that part.

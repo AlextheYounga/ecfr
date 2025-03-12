@@ -1,0 +1,7 @@
+##### § 700.1139 Rules for preventing collisions, afloat and in the air. #####
+
+(a) All persons in the naval service responsible for the operation of naval ships, craft and aircraft shall diligently observe the International Rules for Preventing Collisions at Sea (commonly called the COLREGS) (33 CFR chapter I), Inland Navigation Rules (33 CFR chapter I), domestic and international air traffic regulations (14 CFR chapter I), and such other rules and regulations as may be established by the Secretary of Transportation or other competent authority for regulating traffic and preventing collisions on the high seas, in inland waters or in the air, where such laws, rules and regulations are applicable to naval ships and aircraft. In those situations where such law, rule or regulation is not applicable to naval ships, craft or aircraft, they shall be operated with due regard for the safety of others.
+
+(b) Any significant infraction of the laws, rules and regulations governing traffic or designed to prevent collisions on the high seas, in inland waters, or in the air which may be observed by persons in the naval service shall be promptly reported to their superiors, including the Chief of Naval Operations or Commandant of the Marine Corps when appropriate.
+
+(c) Reports need not be made under this article if the facts are otherwise reported in accordance with other directives, including duly authorized safety programs.

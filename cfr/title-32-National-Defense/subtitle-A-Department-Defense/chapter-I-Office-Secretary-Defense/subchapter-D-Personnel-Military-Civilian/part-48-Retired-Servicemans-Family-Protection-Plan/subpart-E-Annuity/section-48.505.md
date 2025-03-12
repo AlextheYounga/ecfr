@@ -1,0 +1,7 @@
+##### § 48.505 Establishing eligibility of annuitants. #####
+
+(a) Eligibility for the annuity will be established by such evidence as may be required by the department concerned.
+
+(b) If a child as defined in § 48.102(e)(4) is a designated annuitant, the department concerned shall require proof that the incapacity for self-support existed prior to the child's reaching age 18. Proof that continued incapacitation exists will be required every 2 years after the child passes the age of 18 years, except in a case where medical prognosis indicates recovery is impossible.
+
+(c) If a child as defined in § 48.102(e)(5) is a designated annuitant, as specified in § 48.504(b), the department concerned shall require proof from the institution at least semiannually that the child is pursuing a full-time course of training as prescribed. For the purpose of proving eligibility, a child is considered to be pursuing a full-time course of study or training during an interval between school periods that does not exceed 150 days if he has demonstrated to the satisfaction of the department concerned that he has a bona fide intention of commencing, resuming, or continuing to pursue a full-time course of study or training in a recognized educational institution immediately after that interval.

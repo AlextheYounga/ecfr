@@ -1,0 +1,11 @@
+##### § 806b.51 Privacy and the Web. #####
+
+Do not post personal information on publicly accessible DoD web sites unless clearly authorized by law and implementing regulation and policy. Additionally, do not post personal information on .mil private web sites unless authorized by the local commander, for official purposes, and an appropriate risk assessment is performed. *See* Air Force Instruction 33-129 *Transmission of Information Via the Internet.*11
+
+11*http://www.e-publishing.af.mil/pubfiles/af/33/afi33-129/afi33-129.pdf.*
+
+(a) Ensure public Web sites comply with privacy policies regarding restrictions on persistent and third party cookies, and add appropriate privacy and security notices at major web site entry points and Privacy Act statements or Privacy Advisories when collecting personal information. Notices must clearly explain where the collection or sharing of certain information is voluntary, and notify users how to provide consent.
+
+(b) Include a Privacy Act Statement on the web page if it collects information directly from an individual that we maintain and retrieve by his or her name or personal identifier (*i.e.,* Social Security Number). We may only maintain such information in approved Privacy Act systems of records that are published in the Federal Register. Inform the visitor when the information is maintained and retrieved by name or personal identifier in a system of records; that the Privacy Act gives them certain rights with respect to the government's maintenance and use of information collected about them, and provide a link to the Air Force Privacy Act policy and system notices at *http://www.foia.af.mil.*
+
+(c) Anytime a web site solicits personally-identifying information, even when not maintained in a Privacy Act system of records, it requires a Privacy Advisory. The Privacy Advisory informs the individual why the information is solicited and how it will be used. Post the Privacy Advisory to the web page where the information is being solicited, or through a well-marked hyperlink “Privacy Advisory - Please refer to the Privacy and Security Notice that describes why this information is collected and how it will be used.”

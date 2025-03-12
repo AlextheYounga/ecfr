@@ -1,0 +1,5 @@
+##### § 516.37 Proceedings to repossess government real property or quarters or to collect delinquent rent. #####
+
+(a) *General.* U.S. Attorneys are authorized to accept a Federal agency's request for the following purposes: to initiate an action to recover possession of real property from tenants, trespassers, and others; to enjoin trespasses on Federal property; and, to collect delinquent rentals or damages for use and occupancy of real property for amounts less than $200,000.
+
+(b) *Procedures.* When eviction or an action to collect delinquent rent is necessary, the SJA or legal adviser will notify General Litigation Branch, Litigation Division, of the situation. If approved by Litigation Division, the SJA or legal adviser may ask the U.S. Attorney to file suit. A copy of the complaint will be sent to Litigation Division. DOJ can take action to evict the occupants for violation of the terms of occupancy and collect delinquent rent or other charges. Once the matter has been referred to the U.S. Attorney, payments for rent should be sent to the U.S. Attorney. (See AR 210-50, chap 2.)

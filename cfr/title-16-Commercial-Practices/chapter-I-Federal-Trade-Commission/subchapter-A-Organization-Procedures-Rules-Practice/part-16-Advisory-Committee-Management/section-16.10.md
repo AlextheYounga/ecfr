@@ -1,0 +1,7 @@
+##### § 16.10 Minutes and transcripts of meetings. #####
+
+(a) Detailed minutes of each advisory committee meeting shall be kept. The minutes shall reflect the time, date and place of the meeting; and accurate summary of each matter that was discussed and each conclusion reached; and a copy of each report or other document received, issued, or approved by the advisory committee. In addition, the minutes shall include a list of advisory committee members and staff and full-time Federal employees who attended the meeting; a list of members of the public who presented oral or written statements; and an estimated number of members of the public who were present at the meeting. The minutes shall describe the extent to which the meeting was open to the public and the nature and extent of any public participation. If it is impracticable to attach to the minutes of the meeting any document received, issued, or approved by the advisory committee, then the minutes shall describe the document in sufficient detail to enable any person who may request the document to identify it readily.
+
+(b) The accuracy of all minutes shall be certified to by the chairperson of the advisory committee.
+
+(c) Minutes need not be kept if a verbatim transcript is made.

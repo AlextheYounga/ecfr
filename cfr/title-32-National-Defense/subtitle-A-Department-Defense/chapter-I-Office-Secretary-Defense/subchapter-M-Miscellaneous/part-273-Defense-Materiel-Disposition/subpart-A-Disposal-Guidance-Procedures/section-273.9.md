@@ -1,0 +1,17 @@
+##### § 273.9 Through-life traceability of uniquely identified items. #####
+
+(a) *Authority and scope*—(1) *Property accountability.* The accountability of property will be enabled by IUID for identification, tracking, and management in accordance with DoD Instruction 5000.64 and DoD Directive 8320.03, “Unique Identification (UID) Standards for a Net-Centric Department of Defense” (*http://www.acq.osd.mil/dpap/UID/*
+
+(*attachments/832003p1-20070420.pdf*). DoD Component heads post changes to the property records for all transactions as required (*e.g.,* loan, loss, damage, disposal, inventory adjustments, item modification, transfer, sale) pursuant to DoD Instruction 5000.64.
+
+(2) *IUID.* IUID provides a standards-based approach to establish a UII encoded in a machine-readable two-dimensional data matrix barcode that serves to distinguish a discrete item from other items. Qualifying items as defined by DoD Instruction 8320.04, “Item Unique Identification (IUID) Standards for Tangible Personal Property” (*http://www.dtic.mil/whs/directives/corres/pdf/832004p.pdf*) will be marked with a two-dimensional Data Matrix barcode in accordance with Military Standard 130N, “Department of Defense Standard Practice Identification Marking of U.S. Military Property” (available at *http://www.acq.osd.mil/dpap/pdi/uid/docs/mil-std130N\_ch1.pdf*) and registered in the IUID Registry.
+
+(3) *Identification marking of U.S. military property.* Military Standard 130N provides the item marking criteria for development of specific marking requirements and methods for identification of items of military property produced, stocked, stored, and issued by or for the DoD. It also provides the criteria and data content for both free text and machine-readable information applications of item identification two-dimensional data matrix marking and includes the IUID requirements of DoD Instruction 8320.04.
+
+(4) *Registration of UIIs.* Enclosure 3 of DoD Instruction 8320.04 provides procedures for the registration of UIIs in the DoD IUID Registry.
+
+(b) *Updating the DoD IUID Registry*—(1) *Obtaining user access.* Authorized Government users may add items, update, and add events to existing items. Generating activities and DLA Disposal Services can register for access by following the instructions for the Business Partner Network Support Environment Registration System at *https://iuid.logisticsinformationservice.dla.mil/BRS*.
+
+(2) *Life-cycle events for materiel disposition.* When an item leaves DoD inventory, its status, or life-cycle event, must be changed in the DoD IUID. A drop-down menu in the registry contains the possible life-cycle events: abandoned, consumed, destroyed by accident, destroyed by combat, donated, exchanged—repair, exchanged—sold, exchanged—warranty, expended—experimental/target, expended—normal use, leased, loaned, lost, reintroduced, retired, scrapped, sold—foreign government, sold—historic, sold—nongovernment, sold—other federal, sold—state/local, and stolen.
+
+(3) *Updating procedures.* When an item that is marked with a UII enters the materiel disposition process through a transfer between Components or if the item leaves DoD inventory, an update to the IUID Registry is required. Procedures for performing required updates to the IUID Registry can be found in the IUID registry user manual available at *https://iuid.logisticsinformationservice.dla.mil*.

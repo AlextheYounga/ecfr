@@ -1,0 +1,9 @@
+##### § 700.802 Responsibility. #####
+
+(a) The responsibility of the commanding officer for his or her command is absolute, except when, and to the extent, relieved therefrom by competent authority, or as provided otherwise in these regulations. The authority of the commanding officer is commensurate with his or her responsibility. While the commanding officer may, at his or her discretion, and when not contrary to law or regulations, delegate authority to subordinates for the execution of details, such delegation of authority shall in no way relieve the commanding officer of his or her continued responsibility for the safety, well-being, and efficiency of the entire command.
+
+(b) A commanding officer who departs from his or her orders or instructions, or takes official action which is not in accordance with such orders or instructions, does so upon his or her own responsibility and shall report immediately the circumstances to the officer from whom the prior orders or instructions were received. Of particular importance is the commanding officer's duty to take all necessary and appropriate action in self-defense of the command.
+
+(c) The commanding officer shall be responsible for economy within his or her command. To this end the commanding officer shall require from his or her subordinates a rigid compliance with the regulations governing the receipt, accounting, and expenditure of public money and materials, and the implementation of improved management techniques and procedures.
+
+(d) The commanding officer and his or her subordinates shall exercise leadership through personal example, moral responsibility, and judicious attention to the welfare of persons under their control or supervision. Such leadership shall be exercised in order to achieve a positive, dominant influence on the performance of persons in the Department of the Navy.

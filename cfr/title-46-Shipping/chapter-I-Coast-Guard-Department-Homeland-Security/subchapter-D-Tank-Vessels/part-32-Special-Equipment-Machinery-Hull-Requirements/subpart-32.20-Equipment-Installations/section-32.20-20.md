@@ -1,0 +1,3 @@
+##### § 32.20-20 Liquid level gaging—T/ALL. #####
+
+On tankships, the construction or conversion of which is started on or after July 1, 1951, a method for determining the level of the liquid in a cargo tank without opening ullage holes, cargo hatches, or Butterworth plates, shall be provided on all tankships certificated for the carriage of Grade A liquids: *Provided,* That ullage holes fitted with sounding pipes tightly secured to the underside of the tank tops, open at the bottom, and extending to within 18 inches or less of the bottom of the tank shall be considered as complying with the foregoing requirement.

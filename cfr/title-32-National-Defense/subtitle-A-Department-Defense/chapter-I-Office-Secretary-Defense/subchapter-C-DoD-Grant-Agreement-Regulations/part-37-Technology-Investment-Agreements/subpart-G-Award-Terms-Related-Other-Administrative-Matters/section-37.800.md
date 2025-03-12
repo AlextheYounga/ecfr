@@ -1,0 +1,3 @@
+##### § 37.800 Which administrative matters are covered in this subpart? #####
+
+This subpart addresses “non-systemic” administrative matters that do not impose organization-wide requirements on a participant's financial management, property management, or purchasing system. Because an organization does not have to redesign its systems to accommodate award-to-award variations in these requirements, a TIA that you award may differ from other TIAs in the non-systemic requirements that it specifies for a given participant, based on the circumstances of the particular research project. To eliminate needless administrative complexity, you should handle some non-systemic requirements, such as the payment method, in a uniform way for the agreement as a whole.

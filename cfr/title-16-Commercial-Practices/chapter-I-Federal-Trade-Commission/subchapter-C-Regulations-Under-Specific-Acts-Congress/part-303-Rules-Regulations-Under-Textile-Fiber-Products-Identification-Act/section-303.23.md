@@ -1,0 +1,5 @@
+##### § 303.23 Textile fiber products containing superimposed or added fibers. #####
+
+Where a textile fiber product is made wholly of one fiber or a blend of fibers with the exception of an additional fiber in minor proportion superimposed or added in certain separate and distinct areas or sections for reinforcing or other useful purposes, the product may be designated according to the fiber content of the principal fiber or blend of fibers, with an exception naming the superimposed or added fiber, giving the percentage thereof in relation to the total fiber weight of the principal fiber or blend of fibers, and indicating the area or section which contains the superimposed or added fiber. Examples of this type of fiber content disclosure, as applied to products having reinforcing fibers added to a particular area or section, are as follows:
+
+55% Cotton45% RayonExcept 5% Nylon added to toe and heel.All Cotton except 1% Nylon added to neckband.

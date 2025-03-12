@@ -1,0 +1,9 @@
+##### § 5.45 Procedure when testimony or production of documents is sought; general. #####
+
+(a) If official information is sought, through testimony or otherwise, by a request or demand, the party seeking such release or testimony must (except as otherwise required by federal law or authorized by the Office of the General Counsel) set forth in writing, and with as much specificity as possible, the nature and relevance of the official information sought. Where documents or other materials are sought, the party should provide a description using the types of identifying information suggested in § 5.3(b). Subject to § 5.47, Department employees may only produce, disclose, release, comment upon, or testify concerning those matters which were specified in writing and properly approved by the appropriate Department official designated in § 5.44. *See United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951). The Office of the General Counsel may waive the requirement of this subsection in appropriate circumstances.
+
+(b) To the extent it deems necessary or appropriate, the Department may also require from the party seeking such testimony or documents a plan of all reasonably foreseeable demands, including but not limited to the names of all employees and former employees from whom discovery will be sought, areas of inquiry, expected duration of proceedings requiring oral testimony, and identification of potentially relevant documents.
+
+(c) The appropriate Department official designated in § 5.42 will notify the Department employee and such other persons as circumstances may warrant of its decision regarding compliance with the request or demand.
+
+(d) The Office of the General Counsel will consult with the Department of Justice regarding legal representation for Department employees in appropriate cases.

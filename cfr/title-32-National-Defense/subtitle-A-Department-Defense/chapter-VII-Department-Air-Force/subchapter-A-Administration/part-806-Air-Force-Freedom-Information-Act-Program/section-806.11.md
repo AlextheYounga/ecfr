@@ -1,0 +1,3 @@
+##### § 806.11 FOIA reading rooms. #####
+
+Each FOIA office will arrange for a reading room where the public may inspect releasable records. You do not need to co-locate the reading room with the FOIA office. The FOIA does not require creation of a reading room dedicated exclusively to this purpose. A “reading room” is any location where a requester may review records. For FOIA-processed (a)(3) records, if requesters meet the criteria for search and review costs, they must be paid before inspecting records. Assess reproduction costs at the time of inspection, if appropriate.

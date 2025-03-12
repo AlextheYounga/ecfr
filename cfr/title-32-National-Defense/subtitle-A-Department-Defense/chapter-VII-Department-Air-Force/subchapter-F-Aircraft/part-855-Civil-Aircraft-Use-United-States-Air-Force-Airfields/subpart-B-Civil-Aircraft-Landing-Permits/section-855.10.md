@@ -1,0 +1,3 @@
+##### § 855.10 Purpose of use. #####
+
+The purposes of use normally associated with civil aircraft operations at Air Force airfields are listed in Table 1. Requests for use for purposes other than those listed will be considered and may be approved if warranted by unique circumstances. A separate DD Form 2401 is required for each purpose of use. (Users can have multiple DD Forms 2401 that are covered by a single DD Form 2400 and DD Form 2402.)

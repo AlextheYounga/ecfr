@@ -1,0 +1,3 @@
+##### § 300.7 English language requirement. #####
+
+All words, statements and other information required by or under authority of the Act and the rules and regulations thereunder to appear on the stamp, tag, label, or other mark of identification, shall appear in the English language. If the product bears any stamp, tag, label, or mark of identification which contains any of the required information in a language other than English, all of the required information shall appear both in such other language and in the English language.

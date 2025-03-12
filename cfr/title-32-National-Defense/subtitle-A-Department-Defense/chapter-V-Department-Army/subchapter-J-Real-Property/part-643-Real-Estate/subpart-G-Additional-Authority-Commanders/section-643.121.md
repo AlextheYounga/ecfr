@@ -1,0 +1,5 @@
+##### § 643.121 Private organizations on DA installations. #####
+
+(a) AR 210-1 defines and classifies private organizations, such as thrift shops and child-care centers, located on Army installations and provides policy guidance for their authorization and operation. Installation commanders may authorize the use of available facilities or space to such private organizations, without monetary consideration, when the use is on a nonexclusive basis and subject to immediate termination when possession is required by the installation commander for another purpose.
+
+(b) Where the private organization desires exclusive use of facilities or space, or for a specified period of time, the matter will be considered a leasing action, the lease will be granted by the DE and will provide for payment of a rental consideration. The installation commander will consult with the DE if there is a question whether a proposed use of facilities or space by a private organization should be authorized by the DE under lease or by the installation commander by the issuance of a license.

@@ -1,0 +1,3 @@
+##### § 179.1 Purpose. #####
+
+The Department of Defense (the Department) is adopting this Munitions Response Site Prioritization Protocol (MRSPP) (hereinafter referred to as the “rule”) under the authority of 10 U.S.C. 2710(b). Provisions of 10 U.S.C. 2710(b) require that the Department assign to each defense site in the inventory required by 10 U.S.C. 2710(a) a relative priority for response activities based on the overall conditions at each location and taking into consideration various factors related to safety and environmental hazards.

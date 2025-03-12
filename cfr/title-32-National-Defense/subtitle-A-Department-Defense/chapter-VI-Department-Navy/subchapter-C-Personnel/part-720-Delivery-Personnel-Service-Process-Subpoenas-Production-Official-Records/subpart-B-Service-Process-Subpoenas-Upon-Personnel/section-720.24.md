@@ -1,0 +1,3 @@
+##### § 720.24 Interviews and depositions in connection with civil litigation in matters pertaining to official duties. #####
+
+Requests to interview, depose, or call as witnesses, current or former members or civilian employees of the Department of the Navy, regarding information obtained in the course of their official duties, including expert testimony related thereto, shall be processed in accordance with 32 CFR part 725.

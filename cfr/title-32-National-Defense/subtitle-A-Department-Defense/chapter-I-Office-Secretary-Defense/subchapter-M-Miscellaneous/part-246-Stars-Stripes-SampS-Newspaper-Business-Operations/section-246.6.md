@@ -1,0 +1,19 @@
+##### § 246.6 Procedures. #####
+
+(a) *General.* (1) Authority to establish or disestablish S&S operations is from the Secretary of Defense through the ATSD(PA) and the Director of the AFIS. The Unified Commands shall forward such requests to the Director of the AFIS, as required.
+
+(2) Classified information shall be protected in accordance with 32 CFR parts 159 and 159a.
+
+(3) The Stars and Stripes and the S&S business operations shall conform to applicable regulations and laws involving libel, copyright, U.S. Government printing and postal regulations, and DoD personnel policies and procedures.
+
+(4) With the concurrence of the Unified Command, the S&S is authorized direct communication with the Military Services on S&S personnel matters and with the Department of the Army on S&S financial matters. The S&S shall keep the Unified Command and the AFIS informed of all actions.
+
+(b) *Management Review and Evaluation.* (1) The Director of the AFIS provides business counsel, assistance, and policy oversight for the S&S. The Director of the AFIS shall meet annually with the Unified Command representatives, to include the S&S commander/publisher, and senior DoD officials who have S&S responsibilities, such as the S&S MAG.
+
+(2) The Director of the AFIS shall be assisted by a S&S MAG composed of senior representatives from the AFIS, the OASD(FM&P), and the other DoD offices with the authority and expertise to aid in solving S&S problems. As needed, the Director of the AFIS may organize a DoD steering committee to oversee and aid the S&S MAG to address specific concerns identified by the Director of the AFIS and the Unified Command CINCs.
+
+(3) In accordance with DoD Instruction 7600.67, and Army implementation thereof, the S&S shall be audited on an annual basis, either by the Army Audit Agency (AAA) or by an AAA-approved audit contractor. NAF funds of the S&S shall be used for such contracts. The audits will be performance audits and may be financial in nature as prescribed by the Comptroller General of the United States Government Auditing Standards. Each annual audit will determine whether prior audit recommendations have been implemented and the reasons any have not been implemented. When the Inspector General, DoD, elects to perform an audit of the S&S organization, such audit may substitute for the required annual audit. The S&S organizations shall coordinate their audit requirements with each other and the Army Community and Family Support Center to the maximum extent practicable to avoid duplication of costs and to increase the efficiency and effectiveness of these audits. Information copies of the audit contractor reports shall be forwarded by the S&S to the Unified Commands, AFIS and AAA. The S&S shall provide a response to the audit to the Unified Command CINC within 60 days of receiving the completed report. The S&S response to the audit must indicate a concurrence or nonconcurrence for each finding and recommendation. For each concurrence the corrective actions taken or planned should be described and completion dates for actions already taken, as well as the estimated dates for completion of planned actions, should be provided. For each nonconcurrence, specific reasons must be stated. If appropriate, alternative methods for accomplishing desired improvements may be proposed. If nonconcurrences in the findings and recommendations cannot be resolved between the S&S management and the auditors or AAA endorses the contractors' findings and recommendations, then the resolution procedures established by DoD Directive 7650.38, and Army Regulations should be followed. The Unified Command shall forward the response to the Director of the AFIS and the AAA.
+
+7 See footnote 1 to § 246.4(c).
+
+8 See footnote 1 to § 246.4(c).

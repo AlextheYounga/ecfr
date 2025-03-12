@@ -1,0 +1,5 @@
+##### § 32.55-5 Ventilation of tank vessels constructed between November 10, 1936, and July 1, 1951—TB/ALL. #####
+
+(a) On tank vessels, the construction or conversion of which was started on or after November 10, 1936, and prior to July 1, 1951, all enclosed parts of the vessel, other than cargo, fuel, and water tanks and cofferdams, shall be provided with efficient means of ventilation.
+
+(b) Pumprooms and compartments containing machinery where sources of vapor ignition are normally present shall be ventilated in such a way as to remove vapors from points near the floor level or the bilges. Effective steam or air actuated gas ejectors or blowers or ventilators fitted with heads for natural ventilation, will be approved for this purpose. (See § 32.65-20 for other requirements concerning pumprooms.)

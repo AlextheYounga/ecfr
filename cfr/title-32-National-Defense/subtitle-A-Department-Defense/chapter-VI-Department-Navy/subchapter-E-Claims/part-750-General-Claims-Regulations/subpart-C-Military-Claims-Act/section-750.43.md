@@ -1,0 +1,19 @@
+##### § 750.43 Claims payable. #####
+
+(a) *General.* Unless otherwise prescribed, a claim for personal injury, death, or damage or loss of real or personal property is payable under this provision when:
+
+(1) Caused by an act or omission determined to be negligent, wrongful, or otherwise involving fault of DON personnel acting within the scope of their employment; or
+
+(2) Incident to noncombat activities of the DON. A claim may be settled under this provision if it arises from authorized activities essentially military in nature, having little parallel in civilian pursuits, and in which the U.S. Government has historically assumed a broad liability, even if not shown to have been caused by any particular act or omission by DON personnel while acting within the scope of their employment. Examples include practice firing of missiles and weapons, sonic booms, training and field exercises, and maneuvers that include operation of aircraft and vehicles, use and occupancy of real estate, and movement of combat or other vehicles designed especially for military use. Activities incident to combat, whether or not in time of war, and use of DON personnel during civil disturbances are excluded.
+
+(b) *Specific claims payable.* Claims payable by the DON under § 750.43(a) (1) and (2) shall include, but not be limited to:
+
+(1) *Registered or insured mail.* Claims for damage to, loss, or destruction, even if by criminal acts, of registered or insured mail while in the possession of DON authorities are payable under the MCA. This provision is an exception to the general requirement that compensable damage, loss, or destruction of personal property be caused by DON personnel while acting within the scope of their employment or otherwise incident to noncombat activities of the DON. The maximum award to a claimant under this section is limited to that to which the claimant would be entitled from the Postal Service under the registry or insurance fee paid. The award shall not exceed the cost of the item to the claimant regardless of the fees paid. Claimant may be reimbursed for the postage and registry or insurance fees.
+
+(2) *Property bailed to the DON.* Claims for damage to or loss of personal property bailed to the DON, under an express or implied agreement are payable under the MCA, even though legally enforceable against the U.S. Government as contract claims, unless by express agreement the bailor has assumed the risk of damage, loss, or destruction. Claims filed under this paragraph may, if in the best interest of the U.S. Government, be referred to and processed by the Office of the General Counsel, DON, as contract claims.
+
+(3) *Real property.* Claims for damage to real property incident to the use and occupancy by the DON, whether under an express or implied lease or otherwise, are payable under the MCA even though legally enforceable against the DON as contract claims. Claims filed under this paragraph may, if in the best interest of the U.S. Government, be referred to and processed by the Office of the General Counsel, DON, as contract claims.
+
+(4) *Property of U.S. military personnel.* Claims of U.S. military personnel for property lost, damaged, or destroyed under conditions in § 750.43(a) (1) and (2) occurring on a military installation, not payable under the Military Personnel and Civilian Employees' Claims Act, are payable under the MCA.
+
+(5) *Health care and Legal Assistance Providers.* Claims arising from the personal liability of DON health care and legal assistance personnel for costs, settlements, or judgments for negligent acts or omissions while acting within the scope of assigned duties or employment are payable under the MCA. See § 750.54.

@@ -1,0 +1,5 @@
+##### § 518.11 Other materials. #####
+
+(a) Any available index of Army material published in the Federal Register, such as material required to be published by section 552(a)(1) of the FOIA, shall be made available in the Army FOIA Public Reading Room, and electronically to the public.
+
+(b) Although not required to be made available in response to FOIA requests or made available in FOIA Reading Rooms, “(a)(1)” materials shall, when feasible, be made available to the public in FOIA reading rooms for inspection and copying, and by electronic means. Examples of “(a)(1)” materials are descriptions of an agency's central and field organization, and to the extent they affect the public, rules of procedures, descriptions of forms available, instruction as to the scope and contents of papers, reports, or examinations, and any amendment, revision, or report of the aforementioned.

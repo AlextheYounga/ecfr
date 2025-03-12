@@ -1,0 +1,3 @@
+##### § 644.404 Transfers to Federal Prison Industries, Inc. #####
+
+18 U.S.C. 4122 authorizes any department or agency of the Department of Defense to transfer without exchange of funds, to Federal Prison Industries, Inc., any property or equipment suitable for use in performing the functions and duties covered by agreement entered into under subsection (d) of this Act. The provisions include the industrial employment and training of prisoners convicted by general courts-martial and confined in any institution under the jurisdiction of any DOD agency or department.

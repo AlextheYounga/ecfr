@@ -1,0 +1,9 @@
+##### § 97.3 Definitions. #####
+
+(a) *Demand.* Subpoena, order, or other demand of a court of competent jurisdiction, or other specific authority, for the production, disclosure, or release of official DoD information or for the appearance and testimony of DoD personnel as witnesses.
+
+(b) *DoD personnel.* Present and former U.S. military personnel; Service Academy cadets and midshipmen; and present and former civilian employees of any Component of the Department of Defense, including nonappropriated fund activity employees; non-U.S. nationals who perform services overseas, under the provisions of status of forces agreements, for the U.S. Armed Forces; and other specific individuals hired through contractual agreements by or on behalf of the Department of Defense.
+
+(c) *Litigation.* All pretrial, trial, and post-trial stages of all existing or reasonably anticipated judicial or administrative actions, hearings, investigations, or similar proceedings before civilian courts, commissions, boards (including the Armed Services Board of Contract Appeals), or other tribunals, foreign and domestic. This term includes responses to discovery requests, depositions, and other pretrial proceedings, as well as responses to formal or informal requests by attorneys or others in situations involving litigation.
+
+(d) *Official information.* All information of any kind, however stored, that is in the custody and control of the Department of Defense, relates to information in the custody and control of the Department, or was acquired by DoD personnel as part of their official duties or because of their official status within the Department while such personnel were employed by or on behalf of the Department or on active duty with the U.S. Armed Forces.

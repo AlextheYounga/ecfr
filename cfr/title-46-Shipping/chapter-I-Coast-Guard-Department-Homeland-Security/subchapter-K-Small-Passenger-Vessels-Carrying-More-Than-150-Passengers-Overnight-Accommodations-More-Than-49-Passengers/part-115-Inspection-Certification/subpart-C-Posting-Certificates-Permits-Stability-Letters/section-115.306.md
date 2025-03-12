@@ -1,0 +1,3 @@
+##### § 115.306 Stability letter. #####
+
+When, in accordance with § 170.120 in subchapter S of this chapter, a vessel must be provided with a stability letter, the stability letter must be posted under glass or other suitable transparent material, such that all pages are visible, at the operating station of the vessel. If posting is impracticable, the stability letter must be kept on board in a weathertight container readily available for use by the crew and for display to passengers and others on request.

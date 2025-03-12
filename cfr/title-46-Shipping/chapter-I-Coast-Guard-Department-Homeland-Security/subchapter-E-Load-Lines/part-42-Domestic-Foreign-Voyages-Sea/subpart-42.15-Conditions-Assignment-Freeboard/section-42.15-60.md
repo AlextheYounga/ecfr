@@ -1,0 +1,13 @@
+##### § 42.15-60 Scuppers, inlets, and discharges. #####
+
+(a) Discharges led through the shell either from spaces below the freeboard deck or from within superstructures and deckhouses on the freeboard deck fitted with doors complying with the requirements of § 42.15-10 shall be fitted with efficient and accessible means for preventing water from passing inboard. Normally, each separate discharge shall have one automatic nonreturn valve with a positive means of closing it from a position above the freeboard deck. Where, however, the vertical distance from the summer load waterline to the inboard end of the discharge pipe exceeds 0.01*L,* the discharge may have two automatic nonreturn valves without positive means of closing: *Provided,* That the inboard valve is always accessible for examination under service conditions; where that vertical distance exceeds 0.02*L* a single automatic nonreturn valve without positive means of closing may be accepted subject to the approval of the assigning authority. The means for operating the positive action valve shall be readily accessible and provided with an indicator showing whether the valve is open or closed.
+
+(b) In manned machinery spaces main and auxiliary sea inlets and discharges in connection with the operation of machinery may be controlled locally. The controls shall be readily accessible and shall be provided with indicators showing whether the valves are open or closed.
+
+(c) Scuppers and discharge pipes originating at any level and penetrating the shell either more than 171/2 inches below the freeboard deck or less than 231/2 inches above the summer load waterline shall be provided with a nonreturn valve at the shell. This valve, unless required by paragraph (a) of this section, may be omitted if the piping is of thickness as specified in part 56 in subchapter F (Marine Engineering) of this chapter.
+
+(d) Scuppers leading from superstructures or deckhouses not fitted with doors complying with the requirements of § 42.15-10 shall be led overboard.
+
+(e) All valves and shell fittings required by this section shall be of steel, bronze, or other approved ductile material. Valves of ordinary cast iron or similar material are not acceptable. All pipes to which this section refers shall be of steel or other equivalent material to the satisfaction of the assigning authority.
+
+[CGFR 68-60, 33 FR 10062, July 12, 1968, as amended by CGFR 68-126, 34 FR 9014, June 5, 1969]

@@ -1,0 +1,15 @@
+##### § 42.09-15 Surveys by the American Bureau of Shipping or assigning authority. #####
+
+(a) *General.* Before issuing a certificate or placement of load line marks on a vessel, the assigning and issuing authority shall make an initial or periodic survey of the vessel as required by this subchapter. A load line survey report shall be made, reflecting information and facts based on initial surveys, including required and special elements as may be deemed necessary by the assigning authority or the Commandant.
+
+(b) *Initial survey.* An initial survey shall be made before the vessel is put in service or the first time the assigning authority is requested to survey a vessel. The survey shall include a complete examination of its structure and equipment insofar as required by the applicable requirements in this subchapter. This survey shall be such as to ensure that the arrangements, materials, scantlings, and subsequent placement of load line marks fully comply with applicable requirements.
+
+(c) *Periodical survey.* A periodical survey shall be made at intervals not exceeding five (5) years from an initial or previous periodic survey. The survey shall be similar to the initial survey insofar as extent and purpose are concerned.
+
+(1) If the load line marks are found to be correct for the condition the vessel is then in, the assigning and issuing authority shall issue a new load line certificate, valid for such time as the condition of the vessel then warrants but in no case for a period of longer than 5 years. If, after a survey has been passed, a loadline certificate can not be issued before the current certificate expires, the current certificate may be extended by an endorsement in accordance with the requirements contained in § 42.07-45(d). This endorsement of the assigning authority shall be placed on the back of the certificate, as shown on the forms in subpart 42.50. However, if there have been alterations which affect the vessel's freeboards, such extension shall not be granted. This prohibition is the same as in Article 19(2) of the 1966 Convention.
+
+(2) The periodical survey, including certificate extension or reissue, for a vessel holding an international load line exemption certificate for more than one voyage, shall be the same as for any other vessel covered by this section except for load line marks. However, other conditions specified in the exemption certificate shall be verified.
+
+(d) *Annual surveys for endorsements.* Vessels subject to initial and periodic surveys shall have annual surveys, within 3 months either way of the certificate's anniversary date. The annual surveys shall be made by and prove satisfactory to the assigning and issuing authority prior to executing the required annual endorsements on load line certificates or exemption certificates. The scope shall be as defined in § 42.09-40 and such as to ensure that the applicable load line marks are found to be correct for the condition the vessel is then in.
+
+[CGFR 68-60, 33 FR 10056, July 12, 1968, as amended by CGFR 68-126, 34 FR 9012, June 5, 1969; CGD 73-49R, 38 FR 12290, May 10, 1973]

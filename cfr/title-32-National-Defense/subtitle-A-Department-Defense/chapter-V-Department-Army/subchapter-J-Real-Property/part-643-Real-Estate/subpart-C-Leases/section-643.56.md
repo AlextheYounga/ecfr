@@ -1,0 +1,3 @@
+##### § 643.56 Taxation of lessee's interest. #####
+
+The lessee's interest in leased property may be taxed by State or local governments as provided in 10 U.S.C. 2667(e). Each lease will contain a provision that if and to the extent that the property owned by the Government and included in the lease, as opposed to the leasehold interest of the lessee therein, is later made taxable by State or local governments under an act of Congress, the lease will be renegotiated.

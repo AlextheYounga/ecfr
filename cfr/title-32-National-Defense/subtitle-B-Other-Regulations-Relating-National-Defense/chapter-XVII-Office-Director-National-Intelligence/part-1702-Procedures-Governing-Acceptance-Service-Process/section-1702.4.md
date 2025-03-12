@@ -1,0 +1,3 @@
+##### § 1702.4 Notification to Office of General Counsel. #####
+
+An ODNI employee who receives or has reason to expect to receive, service of process in an official, individual or combined individual and official capacity in a matter that may involve testimony or the furnishing of documents that could reasonably be expected to involve ODNI interests, shall promptly notify the OGC ((703) 275-2527) prior to responding to the service in any manner, and if possible, before accepting service.

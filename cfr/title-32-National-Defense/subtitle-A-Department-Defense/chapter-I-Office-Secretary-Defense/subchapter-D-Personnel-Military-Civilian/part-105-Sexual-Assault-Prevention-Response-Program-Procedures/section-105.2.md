@@ -1,0 +1,25 @@
+##### § 105.2 Applicability. #####
+
+(a) This part applies to:
+
+(1) Office of the Secretary of Defense (OSD), the Military Departments, the Office of the Chairman of the Joint Chiefs of Staff and the Joint Staff, the Combatant Commands, the IG, DoD, the Defense Agencies, the DoD Field Activities, and all other organizational entities within the DoD (hereafter referred to collectively as the “DoD Components”).
+
+(2) National Guard and Reserve members, who are sexually assaulted when performing active service, as defined in section 101(d)(3) of title 10, U.S.C., and inactive duty training. If reporting a sexual assault that occurred prior to or while not performing active service or inactive training, NG and Reserve members will be eligible to receive timely access to SAPR advocacy services from a SARC and a SAPR VA, and the appropriate non-medical referrals, if requested, in accordance with section 584(a) of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2012, as amended by section 1724 of NDAA for FY 2014 (Public Law 113-66). They also have access to a Special Victims Counsel in accordance with section 1044e of title 10, U.S.C. and are eligible to file a Restricted or Unrestricted Report. Reports of prior-to-military service sexual assault shall be handled in accordance with the procedures for Restricted and Unrestricted Reports outlined in this part, as appropriate based on the type of report made (Restricted or Unrestricted). Reserve Component members can report at any time and do not have to wait to be performing active service or be in inactive training to file their report.
+
+(3) Military dependents 18 years of age and older who are eligible for treatment in the MHS, at installations continental United States (CONUS) and outside of the continental United States (OCONUS), and who were victims of sexual assault perpetrated by someone other than a spouse or intimate partner (See § 105.3). Adult military dependents may file unrestricted or restricted reports of sexual assault.
+
+(4) The following non-military individuals who are victims of sexual assault are only eligible for limited emergency care medical services at a military treatment facility, unless that individual is otherwise eligible as a Service member or TRICARE (*http://www.tricare.mil*) beneficiary of the military health system to receive treatment in a MTF at no cost to them. At this time, they are only eligible to file an Unrestricted Report. They will also be offered the limited SAPR services to be defined as the assistance of a SARC and SAPR VA while undergoing emergency care OCONUS. These limited medical and SAPR services shall be provided to:
+
+(i) DoD civilian employees and their family dependents 18 years of age and older when they are stationed or performing duties OCONUS and eligible for treatment in the MHS at military installations or facilities OCONUS. These DoD civilian employees and their family dependents 18 years of age and older only have the Unrestricted Reporting option.
+
+(ii) U.S. citizen DoD contractor personnel when they are authorized to accompany the Armed Forces in a contingency operation OCONUS and their U.S. citizen employees. DoD contractor personnel only have the Unrestricted Reporting option. Additional medical services may be provided to contractors covered under this part in accordance with DoDI 3020.41 as applicable.
+
+(5) Service members who were victims of sexual assault PRIOR to enlistment or commissioning are eligible to receive SAPR services (see § 105.3) under either reporting option. The DoD shall provide support to Service members regardless of when or where the sexual assault took place. The SARC or SAPR VA will assist a victim to complete a DD Form 2910, “Victim Reporting Preference Statement,” and provide advocacy services and the appropriate referrals, if requested, for victimization occurring prior to military service.
+
+(i) Prior-to-military service victimization includes adult sexual assault (including stranger sexual assault and intimate partner sexual assault, if the victim is no longer in the same intimate relationship) and sexual assault that was perpetrated on the Service member while he or she was still a child.
+
+(ii) Reports of prior to military service sexual assault will be handled in accordance with the procedures for Restricted and Unrestricted Reports outlined in this part, as appropriate based on the type of report made (Restricted or Unrestricted).
+
+(b) This part does not apply to victims of sexual assault perpetrated by a spouse or intimate partner (see § 105.3), or military dependents under the age of 18 who are sexually assaulted. The FAP, as described in DoD 6400.1-M-1, provides the full range of services to those individuals. When a sexual assault occurs as a result of domestic abuse or involves child abuse, the installation SARC and the installation FAP staff will direct the victim to FAP.
+
+[81 FR 66428, Sept. 27, 2016]

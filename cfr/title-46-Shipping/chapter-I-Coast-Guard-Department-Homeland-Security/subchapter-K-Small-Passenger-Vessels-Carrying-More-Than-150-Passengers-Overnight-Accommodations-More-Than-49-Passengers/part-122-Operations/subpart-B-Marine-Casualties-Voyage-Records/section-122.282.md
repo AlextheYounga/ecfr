@@ -1,0 +1,3 @@
+##### § 122.282 Logbook for vessels of more than 19.8 meters (65 feet) in length with overnight accommodations for more than 49 passengers. #####
+
+Except for a vessel required to have an Official Logbook by § 122.280, the owner, managing operator, or master of a vessel of more than 19.8 meters (65 feet) in length with overnight accommodations for more than 49 passengers shall maintain logs or records in any form, which will be considered to take the place of the Official Logbook and may be used for the purpose of making entries therein as required by law or regulations in this subchapter. Such logs or records shall be kept available for review by a marine inspector for a period of one year after the date to which the records refer.

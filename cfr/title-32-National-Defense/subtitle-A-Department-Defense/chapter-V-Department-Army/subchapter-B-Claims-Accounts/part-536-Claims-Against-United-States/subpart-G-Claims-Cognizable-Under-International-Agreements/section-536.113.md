@@ -1,0 +1,3 @@
+##### § 536.113 Assistance to foreign forces for claims arising under international agreements (as to claims arising in the United States). #####
+
+As claims arising from activities of members of NATO, Partnership for Peace, Singaporean, or Australian forces in the United States are processed in the same manner as those arising from activities of U.S. government personnel. All JAs and legal offices will provide assistance similar to that provided to U.S. armed services personnel.

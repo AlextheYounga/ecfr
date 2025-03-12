@@ -1,0 +1,3 @@
+##### § 776.88 Report to licensing authorities. #####
+
+Upon determination by the JAG that a violation of subpart B of this part or the Code of Judicial Conduct has occurred, the JAG may cause the Rules Counsel to report that fact to the Federal, State, or local bar or other licensing authority of the covered attorney concerned. If so reported, notice to the covered attorney shall be provided by the Rules Counsel. This decision in no way diminishes a covered attorney's responsibility to report adverse professional disciplinary action as required by the attorney's Federal, State, and local bar or other licensing authority.

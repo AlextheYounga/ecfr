@@ -1,0 +1,3 @@
+##### § 2700.2 Purpose. #####
+
+The purpose of this Regulation is to ensure, consistent with the authorities listed in § 2700.1, that national security information originated and/or held by the Office for Micronesian Status Negotiations (OMSN), which includes the Status Liaison Office, Saipan, Northern Mariana Islands (SLNO), is protected. To ensure that such information is protected, but only to the extent and for such period as is necessary, this regulation identifies the information to be protected and prescribes certain classification, declassification and safeguarding procedures to be followed.

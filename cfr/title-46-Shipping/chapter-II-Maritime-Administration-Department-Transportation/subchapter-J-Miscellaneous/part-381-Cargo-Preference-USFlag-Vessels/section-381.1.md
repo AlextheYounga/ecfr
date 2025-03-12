@@ -1,0 +1,3 @@
+##### § 381.1 Purpose. #####
+
+The purpose of this part 381 is to prescribe regulations to be followed by all departments and agencies having responsibility under the Cargo Preference Act of 1954, section 901(b) of the Merchant Marine Act, 1936, as amended (46 U.S.C. 1241(b)), in the administration of their programs with respect to that Act, and to provide a uniform system for the collection of data on the administration of such programs for use in preparing the annual reports to Congress required by that Act.

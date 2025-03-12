@@ -1,0 +1,5 @@
+##### § 1500.271 Bonds. #####
+
+(a) The bonds required under section 14(b) of the act may be executed by the owner or consignee on the appropriate form of a customs single-entry or term bond, containing a condition for the redelivery of the merchandise or any part thereof upon demand of the collector of customs and containing a provision for the performance of conditions as may legally be imposed for the relabeling or other action necessary to bring the hazardous substance into compliance with the act in such manner as is prescribed for such bond in the customs regulations in force on the date of request for authorization. The bond shall be filed with the collector of customs.
+
+(b) The collector of customs may cancel the liability for liquidated damages incurred under the above-mentioned provisions of such a bond, if he receives an application for relief therefrom, upon the payment of a lesser amount or upon such other terms and conditions as shall be deemed appropriate under the law and in view of the circumstances, but the collector shall not act under this regulation in any case unless the area office director is in full agreement with the action.

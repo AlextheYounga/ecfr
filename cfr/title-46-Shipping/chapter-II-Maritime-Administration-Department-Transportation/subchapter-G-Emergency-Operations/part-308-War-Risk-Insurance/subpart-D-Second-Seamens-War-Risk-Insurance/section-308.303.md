@@ -1,0 +1,3 @@
+##### § 308.303 Amounts insured under interim binder. #####
+
+The amounts insured are the amounts specified in the Second Seamen's War Risk Policy (1955) or as modified by shipping articles, collective bargaining agreements or other applicable employment agreements which are in effect as of the date of a casualty involving the subject vessel. Upon the attachment of this binder, the number of crew members and modified benefits payable as of that date shall be declared immediately to the Underwriting Agent that issued the binder. Any subsequent changes shall be likewise declared.

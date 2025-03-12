@@ -1,0 +1,3 @@
+##### § 308.503 Rate schedules. #####
+
+Rate schedules published by the Maritime Administrator may be obtained from an underwriting agent. All rate schedules are subject to change by the Maritime Administrator at any time without notice. If no rate is published for a voyage on which war risk coverage is available, the Maritime Administrator will name a rate through an underwriting agent upon application.

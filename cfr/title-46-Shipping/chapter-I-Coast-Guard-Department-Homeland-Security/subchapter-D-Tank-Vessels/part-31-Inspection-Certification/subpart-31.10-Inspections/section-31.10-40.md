@@ -1,0 +1,3 @@
+##### § 31.10-40 Inspection during trial trip—T/ALL. #####
+
+On the trial trip of each new or converted tankship, an inspector shall be present to observe from the standpoint of safety in the carriage of flammable and/or combustible liquids in bulk, the operation of boilers, engines, steering gear, and auxiliaries; and if not satisfied with the performance of such boilers and machinery, appliances, and apparatus for stowage, he shall make such requirements as in his judgment will overcome any deficiencies which may have come under his observation.

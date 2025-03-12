@@ -1,0 +1,3 @@
+##### § 724.121 Decisional document. #####
+
+The written recordation of the applicant's summary of service, the issue or issues presented together with any evidence offered in support of the application, the NDRB's response to the issue or issues, the votes of the members of the panel, and any recommendations or responses by the President of the NDRB or the Secretarial Reviewing Authority (SRA). The decisional document is promulgated by the “en bloc letter”.

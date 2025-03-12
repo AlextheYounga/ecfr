@@ -1,0 +1,5 @@
+##### § 1145.1 Scope. #####
+
+In this part 1145, the Commission establishes rules which provide that risks of injury associated with consumer products that could be eliminated or reduced to a sufficient extent by action under the Federal Hazardous Substances Act (FHSA) (15 U.S.C. 1261-1274), the Poison Prevention Packaging Act of 1970 (PPPA) (15 U.S.C. 1471-1476), or the Flammable Fabrics Act (FFA) (15 U.S.C. 1191-1204) will be regulated under the Consumer Product Safety Act (CPSA) (15 U.S.C. 2051-2081). Section 30(d) of the CPSA, as amended, provides that a risk of injury which is associated with a consumer product and which could be eliminated or reduced to a sufficient extent by action under the FHSA, PPPA, or the FFA may be regulated under this act only if the Commission by rule finds it is in the public interest to regulate such risk of injury under this act.
+
+[42 FR 44192, Sept. 1, 1977]

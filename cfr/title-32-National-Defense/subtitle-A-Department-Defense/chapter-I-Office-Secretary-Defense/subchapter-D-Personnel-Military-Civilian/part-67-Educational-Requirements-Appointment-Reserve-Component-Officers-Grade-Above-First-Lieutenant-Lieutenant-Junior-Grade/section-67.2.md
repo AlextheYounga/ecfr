@@ -1,0 +1,3 @@
+##### § 67.2 Applicability. #####
+
+This part applies to the Office of the Secretary of Defense, and the Military Departments; the Chairman of the Joint Chiefs of Staff; and the Defense Agencies referred to collectively in this part as the “DoD Components”). The term “Military Departments,” as used in this part, refers to the Departments of the Army, the Navy, and the Air Force. The term “Secretary concerned” refers to the Secretaries of the Military Departments. The term “Military Services” refers to the Army, the Navy, the Air Force, the Marine Corps. The term “Reserve components” refers to the Army Reserve, Army National Guard of the United States, Air Force Reserve, Air National Guard of the United States, Naval Reserve, Marine Corps Reserve.

@@ -1,0 +1,3 @@
+##### § 2400.18 Declassification and downgrading authority. #####
+
+Information shall be declassified or downgraded by the official who authorized the original classification, if that official is still serving the same position; the originator's successor; a supervisory official of either; or officials delegated such authority in writing by the Director, OSTP. The Executive Director, OSTP shall maintain a current listing of persons or positions receiving those delegations. If possible, these listings shall be unclassified.

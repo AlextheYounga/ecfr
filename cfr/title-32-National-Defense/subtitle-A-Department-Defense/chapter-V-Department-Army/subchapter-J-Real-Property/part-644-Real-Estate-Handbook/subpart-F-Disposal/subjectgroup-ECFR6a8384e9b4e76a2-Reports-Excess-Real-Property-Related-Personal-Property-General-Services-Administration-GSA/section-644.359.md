@@ -1,0 +1,3 @@
+##### § 644.359 Supplemental information. #####
+
+The DE will cooperate to the greatest extent practicable in furnishing further information and assistance requested by GSA Regional Offices. However, requests for engineering surveys should be carefully monitored in the interest of economy. When such requests appear excessive or other requests for services appear to require unnecessary expenditures, DAEN-REM will be fully informed, with recommendations, in order that the matter may be resolved through appropriate coordination with the GSA central office.

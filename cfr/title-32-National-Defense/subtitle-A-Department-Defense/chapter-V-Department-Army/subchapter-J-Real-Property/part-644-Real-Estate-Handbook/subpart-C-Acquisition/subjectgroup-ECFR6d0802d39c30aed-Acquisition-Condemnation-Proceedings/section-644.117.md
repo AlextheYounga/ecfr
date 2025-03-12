@@ -1,0 +1,55 @@
+##### § 644.117 Procedure prior to trial. #####
+
+(a) *General.* After filing of condemnation proceedings, the Division or District Engineer will maintain close liaison with the United States Attorneys and will render all possible assistance to the United States Attorneys in negotiating settlements, preparing cases for trial, and in conducting such trials. When the Division or District Engineer is informed that a case has been set for trial involving an unusual or novel issue of fact or law, or where the Government testimony will be $100,000 or more, he will promptly furnish this information to DAEN-REA-C. In addition, the Division or District Engineer should:
+
+(1) In coordination with the United States Attorney, conduct discussions for settlement with landowners and other interested parties defendant. When a satisfactory agreement has been reached, an executed stipulation in a form satisfactory to the United States Attorney will be obtained. A suggested form of stipulation as to just compensation is contained in Figure 5-8 in ER 405-1-12. In this connection, the closest cooperation and collaboration must exist between representatives of the Department of the Army and the Department of Justice; no settlement negotiations should be conducted by Corps personnel without the knowledge and consent of the United States Attorney. If the property owner is unwilling to execute a stipulation until assured that the amount of the settlement will be accepted by the Government, formal execution of the stipulation may, in such instances, be delayed. However, the offer will be processed in accordance with the applicable provisions of paragraph (b) of this section.
+
+(2) Furnish maps, photographs and other necessary exhibits for trial.
+
+(3) Assist in preparing expert witnesses for trial.
+
+(4) Take necessary action to assure the presence of witnesses at the trial. District personnel who qualify as expert witnesses will be made available.
+
+(5) Be represented at the trial by an attorney thoroughly familiar with Federal court procedures, condemnation law, and the details of the project affected by the condemnation proceedings.
+
+(b) *Stipulated settlements.* (1) Where the amount of the stipulation obtained in accordance with paragraph (a)(1) of this section does not exceed the high, approved appraisal prepared by an appraiser employed by, or under contract with, the Corps of Engineers, and the proposed settlement will completely dispose of the issue of compensation for all interests acquired in the tract in the proceeding, approval of the settlement will be recommended by the Division or District Engineer or the Chief of the Real Estate Division directly to the United States Attorney. The Division or District Engineer will inform DAEN-REA-C of the action taken, either by sending a copy of the letter addressed to the United States Attorney of by separate correspondence.
+
+(2) Where the total settlement for all interests acquired in a given tract does not exceed $40,000 and the proposed settlement will completely dispose of the issue of compensation for all interests acquired in the tract in the proceeding, Division and District Engineers and the Chiefs of the Real Estate Divisions are also authorized to recommend approval of settlements directly to the United States Attorney. In leasehold condemnation cases the monetary limitation includes the full lease term and not merely the per annum rental. DAEN-REA-C will be informed of the action taken in the same manner as in paragraph (b)(1) of this section. Even though the total settlement for all interests acquired in a given tract does not exceed $40,000, the proposed settlement will be submitted to DAEN-REA-C for consideration in the following instances:
+
+(i) If the United States Attorney and the Division or District Engineer cannot agree as to whether a particular settlement should be consummated.
+
+(ii) If the stipulation involves a novel issue of law or question of policy which would adversely affect the disposition of other tracts in a project.
+
+(iii) If revestment of any land or interests therein or change in estate is involved.
+
+(3) All proposed settlements not covered by paragraphs (b) (1) and (2) of this section will be forwarded to DAEN-REA-C, together with specific recommendations of the Division and District Engineers and a full statement of the facts. Three copies of the signed stipulation will be forwarded to DAEN-REA-C with the report in those situations where the stipulation contains any unusual conditions or terms. The report should contain the following:
+
+(i) The amount of the deposit and the amount of the proposed settlement.
+
+(ii) The amounts and dates of all Government appraisals. Where the Department of Justice appraisal is substantially above or below the Corps of Engineers' appraisals, the Division and District reviewing appraisers should carefully examine the appraisals and ascertain whether the facts in the case and the appraisal techniques have been consistently applied, and should prepare a comparative analysis.
+
+(iii) The appraisal valuations by the property owners, their appraisers, or other witnesses who may testify for the owners, if such can be ascertained.
+
+(iv) A statement of the recommendation of the United States Attorney as to the proposed settlement.
+
+(v) Such other matters as should be considered by the Chief of Engineers in determining whether the proposed settlement is satisfactory; e.g., any pattern of awards which has been established as the result of other trials concerning land at the same project, or in the same Federal judicial district, disposition of any accepted Offer to Sell, any unusual legal or factual issues involved, any unusual factors which would increase the hazard of proceeding to trial, or the anticipated effect of the settlement on remaining acquisition in the project.
+
+(vi) Whether or not funds are available to satisfy any deficiency.
+
+(vii) The report should contain the required information in tabulated form. For each item the statement should be short and concise; lengthy reports are not required.
+
+(4) A copy of the report and recommendation sent to the Chief of Engineers will be immediately transmitted to the United States Attorney. If the settlement is satisfactory, the Chief of Engineers will forward a letter of approval to the Department of Justice, recommending that the stipulation be approved, filed and judgment entered thereon. A copy of the letter of approval will be sent to the Division or District Engineer. Receipt of such copy is authority to satisfy the judgment when entered, provided funds are available.
+
+(5) If a stipulation is obtained by a United States Attorney in excess of their authority, they will forward the proposed settlement to the Department of Justice. Simultaneously, in accordance with procedures agreed upon by the Chief of Engineers and the Department of Justice, the United States Attorney will transmit copies of the transmittal letter and of the proposed stipulation to the Division or District. The Division or District Engineer will immediately forward the letter outlined in paragraph (b)(3) of this section to the Chief of Engineers.
+
+(6) All settlements negotiated for interests acquired in condemnation proceedings will be inclusive of interest and will include all claims of any nature arising as a result of the taking of the estate recited in the complaint or declaration of taking, with the exception of benefits to which the landowner may be entitled under Pub. L. 91-646 (84 Stat. 1894). In lease-hold condemnation cases, all proposed settlements should include not only an agreement as to compensation for the period of the leasehold but also an agreement as to any and all claims arising from restoration of the premises, if known (§ 644.121(b)).
+
+(7) Where surface and subsurface interests are acquired in a single condemnation proceeding, it is desirable to settle by stipulation, or to go to trial, on the “unit” basis. Many United States Attorneys insists on this course of action. However, Division or District Engineer should cooperate with United States Attorneys who wish to negotiate for stipulated settlements which may not include all of the interests acquired in a given proceeding as to a specific tract or tracts, provided appraisal reports have been prepared in such a manner as to make the appraised value of the several interests ascertainable.
+
+(8) If an offer of settlement is not intended to include the full interest which was condemned in a particular tract, the letter transmitting the settlement offer will specifically identify the interests included in the settlement, the interests which remain unsettled, and the amount of estimated compensation remaining on deposit for the unsettled interests. The amounts remaining on deposit for the unsettled interests should be the appraised valuation of such interests.
+
+(9) Landowners will be advised during negotiations for settlement that offers to settle are not binding on the United States until accepted by a duly authorized representative of the Department of Justice.
+
+(10) In cases where tracts which are covered by accepted Offers to Sell are acquired by declaration of taking because of title defects or the failure of the landowner to carry out the terms of the Offer to Sell, the United States Attorney will be informed by letter and furnished copies of the Offer to Sell. The consideration contained in the Offer to Sell is considered binding upon the landowner despite the fact that condemnation is used to acquire title to the land. No settlement will be approved by the Division or District Engineer in an amount exceeding the amount contained in the Offer to Sell unless the Offer has been set aside by court order. Reports submitted in accordance with paragraph (b)(3) of this section will contain a statement as to the status of any Offer to Sell which may have been accepted.
+
+(c) *Appraisal review.* Land and Natural Resources Division Directive No. 11-68, dated 22 November 1968, provides that where two or more appraisals for a particular property have a valuation spread in excess of 10 percent of the high appraisal figure, the United States Attorney should submit such appraisals to the local representative of the Corps for approval. Every effort should be taken to see that this policy is followed so that the Corps has full knowledge of the appraisal reports on which settlement negotiations or trial preparation is based. In those instances where the United States Attorney and the Division or District Engineer cannot agree as to whether an appraisal or appraiser should be used at trial or in connection with settlement negotiations, copies of all appraisals, together with the analysis of the reviewing appraiser, should be submitted to HQDA (DAEN-REE) WASH DC 20314 for further consideration and possible discussion with the Department of Justice.

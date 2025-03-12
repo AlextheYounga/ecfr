@@ -1,0 +1,3 @@
+##### § 901.19 Qualified alternate selection. #####
+
+Fully qualified candidates not offered appointments in their nominating category are placed in a nationwide pool of qualified alternates. To bring the Cadet Wing up to full strength, additional appointments are selected from this pool in order of merit. The first 150 additional appointments are of individuals having nominations from Members of Congress. Thereafter, three of every four additional appointments are of individuals having nominations from the Vice President, Members of Congress, Delegates to Congress (from the District of Columbia, Virgin Islands, and Guam), Governor of Puerto Rico, Resident Commissioner of Puerto Rico, or Administrator of Panama Canal Commission.

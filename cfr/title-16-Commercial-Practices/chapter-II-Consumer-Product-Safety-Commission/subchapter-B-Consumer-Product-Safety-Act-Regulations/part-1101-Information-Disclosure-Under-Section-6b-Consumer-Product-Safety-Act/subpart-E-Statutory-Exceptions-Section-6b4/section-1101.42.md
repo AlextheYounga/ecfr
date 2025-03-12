@@ -1,0 +1,5 @@
+##### § 1101.42 Imminent hazard exception. #####
+
+(a) *Statutory provision.* Section 6(b)(4)(A) provides that the requirements of section 6(b)(1) do not apply to public disclosure of “information about any consumer product with respect to which product the Commission has filed an action under section 12 (relating to imminently hazardous products).”
+
+(b) *Scope of exception.* This exception applies once the Commission has filed an action under section 12 of the CPSA (15 U.S.C. 2061), in a United States district court. Once the exception applies, information may be disclosed to the public while the proceeding is pending without following the requirements of section 6(b)(1) if the information concerns or relates to the product alleged to be imminently hazardous. Upon termination of the proceeding, information filed with the court or otherwise made public is not subject to section 6(b). Information in the Commission's possession which has not been made public is subject to section 6(b).

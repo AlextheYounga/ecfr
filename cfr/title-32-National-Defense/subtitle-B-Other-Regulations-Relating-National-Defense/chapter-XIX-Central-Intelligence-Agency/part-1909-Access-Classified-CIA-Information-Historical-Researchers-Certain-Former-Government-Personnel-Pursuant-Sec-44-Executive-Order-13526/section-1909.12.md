@@ -1,0 +1,3 @@
+##### § 1909.12 Termination of access. #####
+
+The Coordinator shall cancel any authorization and deny any further access whenever the Director of Security cancels the security clearance of any person who has been granted access to classified CIA information under the part; or whenever the Senior Agency Official, or the Director of the Central Intelligence Agency, determines that continued access would no longer be consistent with the requirements of this part; or at the conclusion of the authorized period of up to two years if there is no renewal under § 1909.11.

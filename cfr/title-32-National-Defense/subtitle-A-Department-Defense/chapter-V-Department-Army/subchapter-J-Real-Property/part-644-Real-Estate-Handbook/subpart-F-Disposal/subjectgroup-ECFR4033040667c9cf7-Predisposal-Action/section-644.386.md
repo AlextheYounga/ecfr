@@ -1,0 +1,3 @@
+##### § 644.386 Utilization for other needs. #####
+
+The DE will determine the feasibility of utilizing each installation classified as excess to fulfill current directives for acquisition of real estate or known or foreseen potential needs of the Army or Air Force, which may have been generated since the screening process. If redistribution for this purpose is deemed advantageous, recommendations will be submitted to HQDA (DAEN-REM) WASH DC 20314 on the proposed action, indicating when excess status was determined and by which element of the Departments of the Army or Air Force.

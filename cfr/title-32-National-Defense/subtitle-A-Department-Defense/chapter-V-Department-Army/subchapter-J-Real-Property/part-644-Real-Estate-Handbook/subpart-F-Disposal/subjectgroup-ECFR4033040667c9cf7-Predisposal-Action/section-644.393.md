@@ -1,0 +1,3 @@
+##### § 644.393 Final report of excess to GSA. #####
+
+Where a preliminary Report of Excess is made to GSA, the DE will promptly finalize the report upon receipt to the final Air Force disposal directive. In all cases where a disposal is reported to the Armed Services Committee, the DE will furnish HQDA (DAEN-REM) advice when the final report is made to GSA. Where the report is finalized by statement confirming a preliminary report as final, copies of the preliminary report and confirming statement should be distributed in accordance with §§ 644.348 through 644.367. Distribution of preliminary Reports of Excess, except to GSA, will not be made in other cases.

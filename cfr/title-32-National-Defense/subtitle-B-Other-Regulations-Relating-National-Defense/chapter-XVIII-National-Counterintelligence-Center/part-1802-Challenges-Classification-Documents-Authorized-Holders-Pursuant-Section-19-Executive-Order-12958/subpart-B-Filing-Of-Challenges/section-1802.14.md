@@ -1,0 +1,3 @@
+##### § 1802.14 Transmission. #####
+
+Authorized holders must direct challenge requests to NACIC as specified in § 1802.3. The classified nature of the challenge, as well as the appended documents, require that the holder transmit same in full accordance with established security procedures. In general, registered U.S. mail is approved for SECRET, non-compartmented material; higher classifications require use of approved Top Secret facsimile machines or NACIC-approved couriers. Further information is available from NACIC as well as corporate or other federal agency security departments.

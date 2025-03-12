@@ -1,0 +1,13 @@
+##### § 855.11 Insurance requirements. #####
+
+Applicants must provide proof of third-party liability insurance on a DD Form 2400, with the amounts stated in US dollars. The policy number, effective date, and expiration date are required. The statement “until canceled” may be used in lieu of a specific expiration date. The geographic coverage must include the area where the Air Force airfield of proposed use is located. If several aircraft or aircraft types are included under the same policy, a statement such as “all aircraft owned,” “all aircraft owned and or operated,” “all non-owned aircraft,” or “all aircraft operated,” may be used in lieu of aircraft registration numbers. To meet the insurance requirements, either split limit coverage for bodily injury (individuals outside the aircraft), property damage, and passengers, or a single limit coverage is required. The coverage will be at the expense of the user with an insurance company acceptable to the Air Force. Coverage must be current during the period the Air Force airfield will be used. The liability required is computed on the basis of aircraft maximum gross takeoff weight (MGTOW) and passenger or cargo configuration. Minimum coverage will not be less than the amount indicated in Table 2 to this part.
+
+(a) Any insurance presented as a single limit of liability or a combination of primary and excess coverage will be an amount equal to or greater than the each accident minimums indicated in Table 2 to this part for bodily injury (individuals outside the aircraft), property damage, and passengers.
+
+(b) The policy will specifically provide that:
+
+(1) The insurer waives any right of subrogation it may have against the US by reason of any payment made under the policy for injury, death, or property damage that might arise, out of or in connection with the insured's use of any Air Force airfield.
+
+(2) The insurance afforded by the policy applies to the liability assumed by the insured under DD Form 2402.
+
+(3) If the insurer or the insured cancels or reduces the amount of insurance afforded under the listed policy before the expiration date indicated on DD Form 2400, the insurer will send written notice of policy cancellation or coverage reduction to the Air Force approving authority at least 30 days before the effective date of the cancellation or reduction. The policy must state that any cancellation or reduction will not be effective until at least 30 days after such notice is sent.

@@ -1,0 +1,3 @@
+##### § 169.203 Description. #####
+
+The certificate of inspection issued to a vessel describes the vessel, the route which it may travel, the minimum manning requirements, the major lifesaving equipment carried, the minimum fire extinguishing equipment and life preservers required to be carried, the maximum number of sailing school students and instructors and the maximum number of persons which may be carried, the name of the owner and operator, and such conditions of operations as may be determined by the Officer in Charge, Marine Inspection.

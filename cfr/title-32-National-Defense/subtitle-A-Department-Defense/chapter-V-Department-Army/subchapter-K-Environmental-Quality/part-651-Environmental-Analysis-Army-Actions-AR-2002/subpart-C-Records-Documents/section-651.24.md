@@ -1,0 +1,3 @@
+##### § 651.24 Supplemental EAs and supplemental EISs. #####
+
+As detailed in § 651.5(g) and in 40 CFR 1502.9(c), proposed actions may require review of existing NEPA documentation. If conditions warrant a supplemental document, these documents are processed in the same way as an original EA or EIS. No new scoping is required for a supplemental EIS filed within one year of the filing of the original ROD. If the review indicates no need for a supplement, that determination will be documented in a REC.

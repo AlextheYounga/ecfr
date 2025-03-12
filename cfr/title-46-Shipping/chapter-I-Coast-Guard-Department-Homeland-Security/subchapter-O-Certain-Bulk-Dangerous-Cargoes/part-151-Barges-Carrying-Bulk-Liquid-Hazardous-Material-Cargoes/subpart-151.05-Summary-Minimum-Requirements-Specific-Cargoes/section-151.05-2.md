@@ -1,0 +1,5 @@
+##### § 151.05-2 Compliance with requirements for tank barges carrying benzene and benzene containing cargoes, or butyl acrylate cargoes. #####
+
+A tank barge certificated to carry benzene and benzene containing cargoes or butyl acrylate cargoes must comply with the gauging requirement of Table 151.05 of this part by August 15, 1998. Until that date, a tank barge certificated to carry benzene and benzene containing cargoes must meet either the gauging requirement of Table 151.05 or the restricted or closed gauging requirements in effect on September 29, 1994; and a tank barge certificated to carry butyl acrylate cargoes must meet either the gauging requirements of Table 151.05 or comply with the open, restricted, or closed gauging requirements in effect on September 29, 1994.
+
+[CGD 95-900, 60 FR 34050, June 29, 1995]

@@ -1,0 +1,5 @@
+##### § 173.1 Scope. #####
+
+(a) The purpose of the Competitive Information Certificate is to provide the Contracting Officer sufficient information and assurance to support award of a contract in those circumstances where certification is required.
+
+(b) Although a Competitive Information Certificate provides reasonable assurance to the Government, the possibility remains that even a diligent internal review by the contractor may fail to identify illegal or improper actions. The purpose of the Profit Reduction Clause is to ensure effective protection of the Government's interest in making contract awards when a Competitive Information Certification is required. The Profit Reduction Clause is required in all competitively awarded new contracts over $100,000 when a Competitive Information Certificate is required prior to award.

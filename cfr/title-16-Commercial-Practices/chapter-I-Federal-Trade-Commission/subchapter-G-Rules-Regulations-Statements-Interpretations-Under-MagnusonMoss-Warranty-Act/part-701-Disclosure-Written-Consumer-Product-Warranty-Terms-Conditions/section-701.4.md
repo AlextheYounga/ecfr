@@ -1,0 +1,3 @@
+##### § 701.4 Owner registration cards. #####
+
+When a warrantor employs any card such as an owner's registration card, a warranty registration card, or the like, and the return of such card is a condition precedent to warranty coverage and performance, the warrantor shall disclose this fact in the warranty. If the return of such card reasonably appears to be a condition precedent to warranty coverage and performance, but is not such a condition, that fact shall be disclosed in the warranty.

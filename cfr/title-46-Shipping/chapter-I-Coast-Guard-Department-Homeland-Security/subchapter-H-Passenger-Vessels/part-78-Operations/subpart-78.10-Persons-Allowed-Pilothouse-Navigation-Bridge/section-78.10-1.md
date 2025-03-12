@@ -1,0 +1,5 @@
+##### § 78.10-1 Persons excluded. #####
+
+Masters and pilots shall exclude from the pilothouse and navigation bridge while underway, all persons not connected with the navigation of the vessel. However, licensed officers of vessels, persons regularly engaged in training, regulating, evaluating or learning the profession of pilot, officials of the United States Coast Guard, United States Navy, National Geospatial-Intelligence Agency, National Ocean Service, United States Army Corps of Engineers, Maritime Administration, and National Transportation Safety Board may be allowed in the pilothouse or upon the navigation bridge upon the responsibility of the master or pilot.
+
+[CGD 91-023, 59 FR 16779, Apr. 8, 1994, as amended by USCG-2001-10224, 66 FR 48620, Sept. 21, 2001; USCG-2014-0688, 79 FR 58282, Sept. 29, 2014]

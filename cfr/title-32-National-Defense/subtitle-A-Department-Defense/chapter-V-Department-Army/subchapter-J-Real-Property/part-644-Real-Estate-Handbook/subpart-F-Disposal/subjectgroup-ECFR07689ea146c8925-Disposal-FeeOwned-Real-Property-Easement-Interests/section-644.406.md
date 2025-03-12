@@ -1,0 +1,3 @@
+##### § 644.406 Transfers to Secretary of Transportation and the National Weather Service. #####
+
+49 U.S.C. 1157 authorizes the Department of Defense to transfer, without charge, to the Secretary of Transportation, airport property and airway property, exclusive of meteorological facilities in territory outside the continental limits of the United States (including Alaska). Section (b) of this Act similarly authorizes transfer of meteorological facilities, without charge, to the National Weather Service.

@@ -1,0 +1,3 @@
+##### § 565.6 Level of rates and charges generally. #####
+
+No controlled carrier may maintain or enforce rates or charges in its tariffs or service contracts that are below a level that is just and reasonable. No controlled carrier may establish or maintain unjust or unreasonable classifications, rules, or regulations in its tariffs or service contracts. An unjust or unreasonable classification, rule or regulation means one that results or is likely to result in the carriage or handling of cargo at rates or charges that are below a just and reasonable level. *See* § 565.9(a)(2) (Rate standards).

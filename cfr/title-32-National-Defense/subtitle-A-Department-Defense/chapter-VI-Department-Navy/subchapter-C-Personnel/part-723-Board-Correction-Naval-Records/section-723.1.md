@@ -1,0 +1,3 @@
+##### § 723.1 General provisions. #####
+
+This part sets up procedures for correction of naval and marine records by the Secretary of the Navy acting through the Board for Correction of Naval Records (BCNR or the Board) to remedy error or injustice. It describes how to apply for correction of naval and marine records and how the BCNR considers applications. It defines the Board's authority to act on applications. It directs collecting and maintaining information subject to the Privacy Act of 1974 authorized by 10 U.S.C. 1034 and 1552.

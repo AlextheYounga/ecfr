@@ -1,0 +1,3 @@
+##### § 505.1 Scope of regulations. #####
+
+These regulations apply to the collection of debts owed to the United States arising from transactions with the Commission, or where a request for an offset is received by the Commission from another agency. These regulations are consistent with the Federal Claims Collection Standards on administrative offset issued jointly by the Department of Justice and the General Accounting Office as set forth in 4 CFR 102.3.

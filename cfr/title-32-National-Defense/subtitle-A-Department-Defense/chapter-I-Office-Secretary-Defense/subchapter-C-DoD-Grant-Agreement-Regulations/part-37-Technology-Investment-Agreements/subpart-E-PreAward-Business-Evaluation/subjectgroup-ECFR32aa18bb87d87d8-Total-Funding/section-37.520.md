@@ -1,0 +1,11 @@
+##### § 37.520 What is my responsibility for determining that the total project funding is reasonable? #####
+
+In cooperation with the program official, you must assess the reasonableness of the total estimated budget to perform the research that will be supported by the agreement. Additional guidance follows for:
+
+(a) *Labor.* Much of the budget likely will involve direct labor and associated indirect costs, which may be represented together as a “loaded” labor rate. The program official is an essential advisor on reasonableness of the overall level of effort and its composition by labor category. You also may rely on your experience with other awards as the basis for determining reasonableness. If you have any unresolved questions, two of the ways that you might find helpful in establishing reasonableness are to:
+
+(1) Consult the administrative agreements officers or auditors identified in § 37.505.
+
+(2) Compare loaded labor rates of for-profit firms that do not have expenditure-based Federal procurement contracts or assistance awards with a standard or average for the particular industry. Note that the program official may have knowledge about customary levels of direct labor charges in the particular industry that is involved. You may be able to compare associated indirect charges with Government-approved indirect cost rates that exist for many nonprofit and for-profit organizations that have Federal procurement contracts or assistance awards (note the requirement in § 37.630 for a for-profit participant to use Federally approved provisional indirect cost rates, if it has them).
+
+(b) *Real property and equipment.* In almost all cases, the project costs may include only depreciation or use charges for real property and equipment of for-profit participants, in accordance with § 37.685. Remember that the budget for an expenditure-based TIA may not include depreciation of a participant's property as a direct cost of the project if that participant's practice is to charge the depreciation of that type of property as an indirect cost, as many organizations do.

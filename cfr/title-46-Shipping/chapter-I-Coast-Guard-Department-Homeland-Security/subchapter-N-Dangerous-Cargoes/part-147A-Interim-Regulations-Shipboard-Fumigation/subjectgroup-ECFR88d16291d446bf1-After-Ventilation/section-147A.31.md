@@ -1,0 +1,3 @@
+##### § 147A.31 Removal of fumigation material and warning signs. #####
+
+After ventilation is completed and a marine chemist or other qualified person determines that there is no danger to the health and safety of any person under § 147A.21(d) or § 147A.23(g), the person in charge of fumigation, or, if the vessel has left port, the person in charge of the vessel, shall ensure that all warning signs are removed and fumigation containers and materials are removed and disposed of in accordance with the manufacturer's recommendations.

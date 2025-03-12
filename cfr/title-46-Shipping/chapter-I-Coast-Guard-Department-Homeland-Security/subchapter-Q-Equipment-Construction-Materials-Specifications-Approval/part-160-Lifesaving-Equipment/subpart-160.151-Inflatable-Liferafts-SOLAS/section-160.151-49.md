@@ -1,0 +1,3 @@
+##### § 160.151-49 Approval of servicing facilities at remote sites. #####
+
+A servicing facility may be approved for servicing liferafts at a remote site, provided that appropriate arrangements have been made to ensure that each such site meets the requirements of §§ 160.151-41(e), 160.151-43, and 160.151-45. The facility must have a portable assortment of test equipment, spare parts, and replacement survival equipment to accompany the technician doing the servicing. However, if repair of liferafts will not be attempted at a remote site, equipment needed for repair does not need to be available at that site. A facility must be specifically authorized in its letter of approval to conduct servicing at a remote site.

@@ -1,0 +1,3 @@
+##### § 644.546 Credit. #####
+
+Payment of the purchase price over an extended period of time should be considered only when the price is a considerable amount, and it may be to the Government's interest to extend credit. Prior to offering property for sale on an extended payment plan basis, approval from DAEN-REM will be obtained. Extension of credit will be within the limitations of FPMR 101-47.304-4. Credit cannot be extended, except to state or local governments, nor can any other special condition be applied, unless provision was made for it in the Invitation for Bids.

@@ -1,0 +1,3 @@
+##### § 552.78 “Show cause” hearing. #####
+
+Before suspending the solicitation privilege, the company and the agent will have a chance to show cause why the action should not be taken. “Show cause” is an opportunity for the company, the agent, or both to present facts informally on their behalf. The company and agent will be notified, by letter, far in advance of the pending hearing. If unable to notify the agent directly or indirectly of the hearing, then the hearing may proceed.

@@ -1,0 +1,7 @@
+##### § 1205.30 Purpose, scope, and application. #####
+
+(a) *Purpose.* Section 14(a) of the Consumer Product Safety Act, 15 U.S.C. 2063(a), requires every manufacturer (including importer) and private labeler of a product which is subject to a consumer product safety standard to issue a certificate that the product conforms to the applicable standard, and to base that certificate either on a test of each product or on a “reasonable testing program.” The purpose of this subpart B of part 1205 is to establish requirements that manufacturers and importers of walk-behind rotary power lawn mowers subject to the Safety Standard for Walk-Behind Power Lawn Mowers (16 CFR part 1205, subpart A), shall issue certificates of compliance in the form of specified labeling and shall keep records of the testing program on which the certificates are based.
+
+(b) *Scope and application.* (1) The provisions of this rule apply to all rotary walk-behind power lawn mowers which are subject to the requirements of the Safety Standard for Walk-Behind Power Lawn Mowers. This rule does not apply to reel-type mowers, which are subject only to the labeling requirements of the standard.
+
+(2) As authorized by section 14(a)(2) of the act, the Commission exempts manufacturers who manufacture or import only component parts, and private labelers, from the requirement to issue certificates. (Private labelers who are also importers must still certify.)

@@ -1,0 +1,7 @@
+##### § 766.10 Cancellation or suspension of the aviation facility license (OPNAV Form 3770/1). #####
+
+(a) *Cancellation.* (1) If the user fails to comply with the terms of the Aviation Facility License (OPNAV Form 3770/1) or of any applicable regulations, all current Aviation Facility Licenses for that user will be canceled. A canceled Aviation Facility License cannot be reinstated; a new application must be submitted for approval as explained in § 766.7.
+
+(2) If the commanding officer of a naval aviation facility has reason to believe that the use of an Aviation Facility License is not in accordance with the terms of the license he should immediately notify the Chief of Naval Operations, giving the name of the user, the Aviation Facility License number, and citing the circumstances of the misuse.
+
+(b) *Suspension.* The approving authority, or the commanding officer of the facility, may suspend an approved Aviation Facility License when such licensed use would be inconsistent with Navy/Marine Corps or national defense interests. Whenever possible, the Department of the Navy will avoid suspension of licenses which have been issued for official business or scheduled air carrier use. In all cases, suspensions will be lifted as quickly as possible. A suspension will not have the effect of extending the expiration date of an approved Aviation Facility License.

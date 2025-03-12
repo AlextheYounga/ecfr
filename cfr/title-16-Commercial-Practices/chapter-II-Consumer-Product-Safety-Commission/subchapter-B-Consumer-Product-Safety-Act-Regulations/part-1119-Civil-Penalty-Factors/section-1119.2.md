@@ -1,0 +1,3 @@
+##### § 1119.2 Applicability. #####
+
+This part applies to all civil penalty determinations the Commission may seek or compromise under the Consumer Product Safety Act (CPSA) (15 U.S.C. 2051-2089), the Federal Hazardous Substances Act (FHSA) (15 U.S.C. 1261-1278), and the Flammable Fabrics Act (FFA) (15 U.S.C. 1191-1204). Any person who knowingly violates section 19 of the CPSA, section 4 of the FHSA, or section 5(e) of the FFA, is subject to a civil penalty.

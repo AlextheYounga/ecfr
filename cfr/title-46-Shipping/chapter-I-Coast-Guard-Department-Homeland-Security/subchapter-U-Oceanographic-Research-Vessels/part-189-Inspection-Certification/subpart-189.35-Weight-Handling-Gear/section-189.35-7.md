@@ -1,0 +1,3 @@
+##### § 189.35-7 Examinations. #####
+
+(a) Examination of weight handling gear will normally consist of a visual examination with access covers removed. Suitability of the equipment for the service intended will be emphasized. Disassembly of the equipment will be required only when there is evidence of a deficiency or an unsafe condition. Non-destructive tests, such as radiography, ultrasonic, electronic, or other methods may be used if appropriate, however will not be required.

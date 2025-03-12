@@ -1,0 +1,3 @@
+##### § 502.311 Applicability. #####
+
+In the event the respondent elects not to consent to determination of the claim under subpart S of this part, it shall be adjudicated by the administrative law judges of the Commission under procedures set forth in this subpart, if timely filed under § 502.302. The previously assigned Docket Number shall be used except that it shall now be followed by capital “F” instead of “I” in parentheses (See § 502.304(c)). The complaint shall consist of the documents submitted by the claimant under subpart S of this part. [Rule 311.]

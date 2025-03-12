@@ -1,0 +1,3 @@
+##### § 166.15 Training for maintenance of discipline; ship sanitation; fire and lifeboat drills. #####
+
+All students shall be trained to obey all lawful orders emanating from their superior officers and schooled in the rules of conduct to be observed in order that proper discipline may be maintained on shipboard. They shall also be instructed in the fundamentals of ship sanitation as prescribed by law and regulations, and shall be given intensive instruction and practical training in all the operations incident to fire and lifeboat drills, both in port and at sea.

@@ -1,0 +1,3 @@
+##### § 537.20 Certification to Congress. #####
+
+Admiralty claims, including claims for damage to civil works in favor of the United States pursuant to 33 U.S.C. 408, proposed for settlement or compromise in a net amount exceeding $100,000 will be submitted through the Commander USARCS to the Secretary of the Army for approval and if in excess of $500,000 for certification to Congress for final approval.

@@ -1,0 +1,3 @@
+##### § 32.65-20 Pumprooms—TB/ALL. #####
+
+(a) Tank vessels handling Grade A, B, C, or D liquids shall have their cargo pumps isolated from all sources of vapor ignition by gastight bulkheads. Totally enclosed motors of the “explosion proof” type, motors ventilated on both the intake and exhaust by ducts to atmosphere, and engines driven by steam shall not be considered to be sources of vapor ignition. The gastight bulkhead between the pumproom and the pump-engine compartment may be pierced by fixed lights, drive shaft and pump-engine control rods, provided that the shafts and rods are fitted with stuffing boxes where they pass through the gastight bulkheads. The access to a cargo pumproom handling such liquids shall be from the open deck. (See § 32.60-20.0.)

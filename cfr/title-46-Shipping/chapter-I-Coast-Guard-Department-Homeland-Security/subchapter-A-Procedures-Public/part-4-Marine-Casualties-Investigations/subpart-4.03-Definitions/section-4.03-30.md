@@ -1,0 +1,3 @@
+##### § 4.03-30 Investigating officer. #####
+
+An investigating officer is an officer or employee of the Coast Guard designated by the Commandant, District Commander or the Officer in Charge, Marine Inspection, for the purpose of making investigations of marine casualties and accidents or other matters pertaining to the conduct of seamen. An Officer in Charge, Marine Inspection, is an investigating officer without further designation.

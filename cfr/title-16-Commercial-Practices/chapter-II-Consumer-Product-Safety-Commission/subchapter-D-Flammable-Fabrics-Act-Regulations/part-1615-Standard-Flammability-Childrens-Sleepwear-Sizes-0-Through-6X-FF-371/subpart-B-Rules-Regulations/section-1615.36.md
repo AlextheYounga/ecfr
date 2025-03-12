@@ -1,0 +1,11 @@
+##### § 1615.36 Use of alternate apparatus or procedures for tests for guaranty purposes. #####
+
+(a) Section 8(a) of the Flammable Fabrics Act (FFA, 15 U.S.C. 1197(a)) provides that no person shall be subject to criminal prosecution under section 7 of the FFA (15 U.S.C. 1196) for a violation of section 3 of the FFA (15 U.S.C. 1192) if that person establishes a guaranty received in good faith which meets all requirements set forth in section 8 of the FFA. One of those requirements is that the guaranty must be based upon “reasonable and representative tests” in accordance with the applicable standard.
+
+(b) Section 1615.31(f) of the regulations implementing the Standard for the Flammability of Children's Sleepwear: Sizes 0 through 6X (the Standard) provides that for purposes of supporting guaranties issued in accordance with section 8 of the FFA for items subject to the Standard, “reasonable and representative tests” are tests “performed pursuant to any sampling plan or authorized alternative sampling plan engaged in pursuant to the requirements of the Standard.”
+
+(c) At § 1615.35, the Commission has set forth conditions under which the Commission will approve the use of test apparatus or procedures other than those prescribed in the Standard for purposes of demonstrating compliance with the requirements of the Standard. Any person or firm meeting the requirements of § 1615.35 for use of alternate test apparatus or procedure for compliance with the Standard may also use such alternate test apparatus or procedures under the same conditions for purposes of conducting “reasonable and representative tests” to support guaranties of items subject to the Standard, following any sampling plan prescribed by the Standard or any approved alternate sampling plan.
+
+(d) The Commission will test fabrics and garments subject to the Standard for compliance with the Standard using the apparatus and procedures set forth in the Standard. The Commission will consider any failing results from compliance testing as evidence that the person or firm using alternate test apparatus or procedures has furnished a false guaranty in violation of section 8(b) of the FFA (15 U.S.C. 1197(b)).
+
+[48 FR 21316, May 12, 1983]

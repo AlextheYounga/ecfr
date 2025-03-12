@@ -1,0 +1,3 @@
+##### § 644.414 MCA acts. #####
+
+The annual military construction authorization acts usually contain general authority for the acquisition, “by donation, purchase, exchange of Government-owned lands, or otherwise,” of lands and interests therein at specified installations or for specified military purposes. The annual acts must be examined to determine that specific authority exists to acquire land by exchange, unless a contemplated exchange falls within the scope of one of the special laws mentioned in §§ 644.415 through 644.419.

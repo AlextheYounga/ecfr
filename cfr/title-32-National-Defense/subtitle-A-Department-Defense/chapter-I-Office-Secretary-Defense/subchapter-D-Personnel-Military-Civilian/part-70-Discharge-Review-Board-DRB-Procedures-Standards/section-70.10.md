@@ -1,0 +1,406 @@
+##### § 70.10 Complaints concerning decisional documents and index entries. #####
+
+(a) *General.* (1) The procedures in this section - are established for the sole purpose of ensuring that decisional documents and index entries issued by the DRBs of the Military Departments comply with the decisional document and index entry principles of this part.
+
+(2) This section may be modified or supplemented by the DASD(MP&FM).
+
+(3) The following persons may submit complaints:
+
+(i) A former member of the Armed Forces (or the former member's counsel) with respect to the decisional document issued in the former member's own case; and
+
+(ii) A former member of the Armed Forces (or the former member's counsel) who states that correction of the decisional document will assist the former member in preparing for an administrative or judicial proceeding in which the former member's own discharge will be at issue.
+
+(4) The Department of Defense is committed to processing of complaints within the priorities and processing goals set forth in paragraph (d)(1)(iii) of this section. This commitment, however, is conditioned upon reasonable use of the complaint process under the following considerations. The DRBs were established for the benefit of former members of the Armed Forces. The complaint process can aid such persons most effectively if it is used by former members of the Armed Forces when necessary to obtain correction of their own decisional documents or to prepare for discharge reviews. If a substantial number of complaints submitted by others interferes with the ability of the DRBs to process applications for discharge review in a timely fashion, the Department of Defense will adjust the processing goals to ensure that the system operates to the primary advantage of applicants.
+
+(5) The DASD(MP&FM) is the final authority with respect to action on such correspondence.
+
+(b) *The Joint Service Review Activity (JSRA).* A three member JSRA consisting of one judge advocate from each Military Department shall advise the DASD(MP&FM). The operations of the JSRA shall be coordinated by a full-time administrative director, who shall serve as recorder during meetings of the JSRA. The members and the administrative director shall serve at the direction of the DASD(MP&FM).
+
+(c) *Classification and control of correspondence* - (1) *Address of the JSRA.* Correspondence with the OSD concerning decisional documents or index entries issued by the DRBs shall be addressed as follows: Joint Service Review Activity, OASD(MRA&L) (MP&FM), Washington, DC 20301.
+
+(2) *Docketing.* All such correspondence shall be controlled by the administrative director through the use of a uniform docketing procedure.
+
+(3) *Classification.* Correspondence shall be reviewed by the administrative director and categorized either as a complaint or an inquiry in accordance with the following:
+
+(i) *Complaints.* A complaint is any correspondence in which it is alleged that a decisional document issued by a DRB or SRA contains a specifically identified violation of the Stipulation of Dismissal, Settlement Agreement, or related Orders in the *Urban Law* case or the decisional document or index entry principles of this Directive. A complainant who alleges error with respect to a decisional document issued to another person is encouraged to set forth specifically the grounds for determining that a reasonable person familiar with the discharge review process cannot understand the basis for the decision. *See* paragraph (d)(1)(i)(B) of this section.
+
+(ii) *Inquiries.* An inquiry is any correspondence other than a complaint.
+
+(d) *Review of complaints* - (1) *Guidance.* The following guidance applies to review of complaints:
+
+(i) *Standards.* Complaints shall be considered under the following standards:
+
+(A) *The applicant's case.* A complaint by an applicant with respect to the decisional document issued in the applicant's own discharge review shall be considered under the Stipulation of Dismissal in the *Urban Law* case and other decisional document requirements applicable at the time the document was issued, including those contained in the Settlement Agreement and related Orders, subject to any limitations set forth therein with respect to dates of applicability. If the authority empowered to take corrective action has a reasonable doubt whether a decisional document meets applicable requirements of the *Urban Law* case or other applicable rules, the complaint shall be resolved in the applicant's favor.
+
+(B) *Other cases.* With respect to all other complaints, the standard shall be whether a reasonable person familiar with the discharge review process can understand the basis for the decision, including the disposition of issues raised by the applicant. This standard is designed to ensure that the complaint process is not burdened with the need to correct minor errors in the preparation of decisional documents.
+
+(ii) *Use of DD Form 293.* With respect to any decisional document issued on or after November 27, 1982, a complaint alleging failure of the DRB to address adequately matter not submitted on DD Form 293 or expressly incorporated therein will be resolved in the complainant's favor only if the failure to address the issue was arbitrary, capricious, or an abuse of discretion.
+
+(iii) *Scope of review.* When a complaint concerns a specific issue in the applicant's own discharge review, the complaint review process shall involve a review of all the evidence that was before the DRB or SRA, including the testimony and written submissions of the applicant, to determine whether the issue was submitted, and if so, whether it was addressed adequately with respect to the Stipulation of Dismissal, Settlement Agreement, or related Orders in the *Urban Law* case and other applicable provisions of this Directive. With respect to all other complaints about specific issues, the complaint review process may be based solely on the decisional document, except when the complainant demonstrates that facts present in the review in question raise a reasonable likelihood of a violation of applicable provisions of the Stipulation of Dismissal and a reasonable person, familiar with the discharge review process, could resolve the complaint only after a review of the evidence that was before the DRB.
+
+(iv) *Allegations pertaining to an applicant's submission.* The following additional requirements apply to complaints about modification of an applicant's issue or the failure to list or address an applicant's issue:
+
+(A) When the complaint is submitted by the applicant, and the record of the hearing is ambiguous on the question whether there was a meeting of minds between the applicant and the DRB as to modification or omission of the issue, the ambiguity will be resolved in favor of the applicant.
+
+(B) When the complaint is submitted by a person other than the applicant, it must set forth facts (other than the mere omission or modification of an issue) demonstrating a reasonable likelihood that the issue was omitted or modified without the applicant's consent.
+
+(C) When the complaint is rejected on the basis of the presumption of regularity, the response to the complaint must be set forth the reasons why the evidence submitted by the complainant was not sufficient to overcome the presumption.
+
+(D) With respect to decisional documents issued on or after the effective date of the amendments to § 70.8, any change in wording of an applicant's issue which is effected in violation of the principles set forth in § 70.8(a)(5)(iii) constitutes an error requiring corrective action. With respect to a decisional document issued before that date, corrective action will be taken only when there has been a complaint by the applicant or counsel with respect to the applicant's own decisional document and it is determined that the wording was changed or the issue was omitted without the applicant's consent.
+
+(E) If there are references in the decisional document to matters not raised by the applicant and not otherwise relied upon in the decision, there is no requirement under the *Urban Law* case that such matters be accompanied by a statement of findings, conclusions, or reasons. For example, when the DRB discusses an aspect of the service record not raised as an issue by the applicant, and the issue is not a basis for the DRB's decision, the DRB is not required to discuss the reasons for declining to list that aspect of the service record as an issue.
+
+(v) *Guidance as to other types of complaints.* The following guidance governs other specified types of complaints:
+
+(A) The Stipulation of Dismissal requires only that those facts that are essential to the decision be listed in the decisional document. The requirement for listing specified facts from the military record was not established until March 29, 1978, in 32 CFR part 70 Decisional documents issued prior to that date are sufficient if they meet the requirements of the Stipulation.
+
+(B) When an applicant submits a brief that contains material in support of a proposed conclusion on an issue, the DRB is not required to address each aspect of the supporting material in the brief. However, the decisional document should permit the applicant to understand the DRB's position on the issue and provide reviewing authorities with an explanation that is sufficient to permit review of the DRB's decision. When an applicant submits specific issues and later makes a statement before the DRB that contains matter in support of that issue, it is not necessary to list such supporting matter as a separate issue.
+
+(C) For all decisional documents issued before November 27, 1982, failure to respond to an issue raised by an applicant constitutes error unless it reasonably may be inferred from the record that the DRB response relied on one of the exceptions listed in § 70.8(d)(3)(ii); (e)(3)(ii)(C) (*3*) through (*4*) and (e)(6)(ii)(C) (*3*) through (*4*). If the decisional document supports a basis for not addressing an issue raised by the applicant (for example, if it is apparent that resolving the issue in the applicant's favor would not warrant an upgrade), there is no requirement in the Stipulation of Dismissal that the decisional document explain why the DRB did not address the issue. With respect to decisional documents issued on or after November 27, 1982, a response shall be prepared in accordance with the decisional document principles set forth in § 70.8.
+
+(D) When a case is reviewed upon request of an applicant, and the DRB upgrades the discharge to “General,” the DRB must provide reasons why it did not upgrade to “Honorable” unless the applicant expressly requests lesser relief. This requirement applies to all requests for corrective action submitted by an applicant with respect to his or her decisional document. In all other cases, this requirement applies to decisional documents issued on or after November 9, 1978. When the DRB upgrades to General, its explanation for not upgrading to Honorable may consist of reference to adverse matter from the applicant's military record. When a discharge is upgraded to General in a review on the DRB's own motion, there is no requirement to explain why the discharge was not upgraded to Honorable.
+
+(E) There is no requirement under the Stipulation of Dismissal to provide reasons for uncontested findings. The foregoing applies to decisional documents issued before November 27, 1982. With respect to decisional documents issued on or after that date, the following guidance applies with respect to an uncontested issue of fact that forms the basis for a grant or denial of a change in discharge: the decisional document shall list the specific source of information relied upon in reaching the conclusion, except when the information is listed in the portion of the decisional document that summarizes the service record.
+
+(F) The requirements of § 70.8(e)(3) (ii)(B)(*2*) and (e)(6) (ii)(B)(*2*) with respect to explaining use of the presumption of regularity apply only to decisional documents issued on or after November 27, 1982. When a complaint concerning a decisional document issued before that date addresses the adequacy of the DRB's use of the presumption of regularity, or words having a similar import, corrective action will be required only if a reasonable person familiar with the discharge review process can not understand the basis for relying on the presumption.
+
+(G) When the DRB balances mitigrating factors against aggravating factors as the reason for a conclusion, the Stipulation of Dismissal does not require the statement of reasons to set forth the specific factors that were balanced if such factors are otherwise apparent on the fact of the decisional document. The foregoing applies to decisional documents prepared before November 27, 1982. With respect to decisional documents prepared after that date, the statements addressing decisional issues in such a case will list or refer to the factors supporting the conclusion in accordance with § 70.8(e)(6)(ii).
+
+(vi) *Documents that were the subject of a prior complaint.* The following applies to a complaint concerning a decisional document that has been the subject of prior complaints:
+
+(A) If the complaint concerns a decisional document that was the subject of a prior complaint in which action was completed, the complainant will be informed of the substance and disposition of the prior complaint, and will be further informed that no additional action will be taken unless the complainant within 30 days demonstrates that the prior disposition did not produce a decisional document that comports with the requirements of paragraph (d)(1)(i)(A) of this section.
+
+(B) If the complaint concerns a decisional document that is the subject of a pending complaint, the complainant will be informed that he or she will be provided with the results of the pending complaint.
+
+(C) These limitations do not apply to the initial complaint submitted on or after the effective date of the amendments to this section by an applicant with respect to his or her own decisional document.
+
+(2) *Duties of the administrative director.* The administrative director shall take the following actions:
+
+(i) Acknowledge receipt of the complaint;
+
+(ii) Assign a docket number and note the date of receipt; and
+
+(iii) Forward the complaint to the Military Department concerned, except that the case may be forwarded directly to the DASD (MP&FM) when the administrative director makes an initial determination that corrective action is not required.
+
+(3) *Administrative processing.* The following guidance applies to administrative processing of complaints:
+
+(i) Complaints normally shall be processed on a first-in/first-out basis, subject to the availability of records, pending discharge review actions, and the following priorities:
+
+(A) The first priority category consists of cases in which (*1*) there is a pending discharge review and the complainant is the applicant; and (*2*) the complainant sets forth the relevance of the complaint to the complainant's pending discharge review application.
+
+(B) The second priority category consists of requests for correction of the decisional document in the complainant's own discharge review case.
+
+(C) The third priority category consists of complaints submitted by former members of the Armed Forces (or their counsel) who state that the complaint is submitted to assist the former member's submission of an application for review.
+
+(D) The fourth priority category consists of other complaints in which the complainant demonstrates that correction of the decisional document will substantially enhance the ability of applicants to present a significant issue to the DRBs.
+
+(E) The fifth priority category consists of all other cases.
+
+(ii) Complainants who request consideration in a priority category shall set forth in the complaint the facts that give rise to the claim of placement in the requested category. If the complaint is relevent to a pending discharge review in which the complainant is applicant or counsel, the scheduled date of the review should be specified.
+
+(iii) The administrative director is responsible for monitoring compliance with the following processing goals:
+
+(A) The administrative director normally shall forward correspondence to the Military Department concerned within 3 days after the date of receipt specified in the docket number. Correspondence forwarded directly to the DASD(MP&FM) under paragraph (d)(2)(iii) of this section, normally shall be transmitted within 7 days after the date of receipt.
+
+(B) The Military Department normally shall request the necessary records within 5 working days after the date of receipt from the administrative director. The Military Department normally shall complete action under paragraph (d)(4) of this section within 45 days after receipt of all necessary records. If action by the Military Department is required under paragraph (d)(9) of this section, normally it shall be completed within 45 days after action is taken by the DASD(MP&FM).
+
+(C) The JSRA normally shall complete action under paragraph (d)(7) of this section at the first monthly meeting held during any period commencing 10 days after the administrative director receives the action of the Military Department under paragraph (d)(5) of this section.
+
+(D) The DASD(MP&FM) normally shall complete action under paragraph (d)(8) of this section within 30 days after action is taken by the JSRA under paragraph (d)(7) of this section or by the administrative director under paragraph (d)(2)(iii) of this section.
+
+(E) If action is not completed within the overall processing goals specified in this paragraph, the complainant shall be notified of the reason for the delay by the administrative director and shall be provided with an approximate date for completion of the action.
+
+(iv) If the complaints are submitted in any 30 day period with respect to more than 50 decisional documents, the administrative director shall adjust the processing goals in light of the number of complaints and discharge review applications pending before the DRBs.
+
+(v) At the end of each month, the administrative director shall send each Military Department a list of complaints, if any, in which action has not been completed within 60 days of the docket date. The Military Department shall inform the administrative director of the status of each case.
+
+(4) *Review of complaints by the Military Departments.* The Military Department shall review the complaint under the following guidance:
+
+(i) *Rejection of complaint.* If the Military Department determines that all the allegations contained in the complaint are not specific or have no merit, it shall address the allegations using the format at attachment 1 (Review of Complaint).
+
+(ii) *Partial agreement.* If the Military Department determines that some of the allegations contained in the complaint are not specific or have no merit and that some of the allegations contained in the complaint have merit, it shall address the allegations using the format at attachment 1 and its DRB shall take appropriate corrective action in accordance with paragraph (d)(4)(v) of this section.
+
+(iii) *Full agreement.* If the Military Department determines that all of the allegations contained in the complaint have merit, its DRB shall take appropriate corrective action in accordance with paragraph (d)(4)(v) of this section.
+
+(iv) *Other defects.* If, during the course of its review, the Military Department notes any other defects in the decisional document or index entries (under the applicable requirements of the *Urban Law* case or under this part) the DRB shall take appropriate corrective action under paragraph (d)(4)(v) of this section. This does not establish a requirement for the Military Department to review a complaint for any purpose other than to determine whether the allegations contained in the complaint are specific and have merit; rather, it simply provides a format for the Military Department to address other defects noted during the course of processing the complaint.
+
+(v) *Appropriate corrective action.* The following procedures govern appropriate corrective action:
+
+(A) If a complaint concerns the decisional document in the complainant's own discharge review case, appropriate corrective action consists of amending the decisional document or providing the complainant with an opportunity for a new discharge review. An amended decisional document will be provided if the applicant requests that form of corrective action.
+
+(B) If a complaint concerns a decisional document involving an initial record review under the Special Discharge Review Program or the Pub. L. 95-126 rereview program, appropriate corrective action consists of (*1*) amending the decisional document; or (*2*) notifying the applicant and counsel, if any, of the opportunity to obtain a priority review using the letter providing at attachment 6. When the DRB takes corrective action under this provision by amending a decisional document, it shall notify the applicant and counsel, if any, of the opportunity to request a *de novo* review under the Special Discharge Review Program or under Pub. L. 95-126 rereview program, as appropriate.
+
+(C) When corrective action is taken with respect to a decisional document in cases prepared under Pub. L. 95-126 the DRB must address issues previously raised by the DRB or the applicant during review of the same case during the SDRP only insofar as required by the following guidance:
+
+(*1*) When the DRB bases its decision upon issues previously considered during the SDRP, the new decisional document under Pub. L. 95-126 must address those issues;
+
+(*2*) If, during consideration of the case under Pub. L. 95-126 the applicant presents issues previously considered during the SDRP, the new decisional document must address those issues; and
+
+(*3*) If a decisional document concerning an initial record review under Pub. L. 95-126 is otherwise defective and corrective action is taken after a request by the applicant for a priority review in response to the letter at attachment 6, the new decisional document shall address all issues previously raised by the applicant during the SDRP.
+
+(D) Except for cases falling under paragraph (d)(4)(v)(B) of this section, if a complaint concerns a decisional document in which the applicant received an Honorable Discharge and the full relief requested, if any, with respect to the reason for discharge, appropriate corrective action consists of amending the decisional document.
+
+(E) In all other cases, appropriate corrective action consists of amending the decisional document or providing the applicant with the opportunity for a new review, except that an amended decisional document will be provided when the complainant expressly requests that form of corrective action.
+
+(vi) *Amended decisional documents.* One that reflects a determination by a DRB panel (or the SRA) as to what the DRB panel (or SRA) that prepared the defective decisional document would have entered on the decisional document to support its decision in this case.
+
+(A) The action of the amending authority does not necessarily reflect substantive agreement with the decision of the original DRB panel (or SRA) on the merits of the case.
+
+(B) A corrected decisional document created by amending a decisional document in response to a complaint will be based upon the complete record before the DRB (or the SRA) at the time of the original defective statement was issued, including, if available, a transcript, tape recording, videotape or other record of a hearing, if any. The new decisional document will be indexed under categories relevant to the new statements.
+
+(C) When an amended decisional document is required under paragraphs (d)(4)(v)(A) and (d)(4)(v)(D) of this section and the necessary records cannot be located, a notation to that effect will be made on the decisional document, and the applicant and counsel, if any, will be afforded an opportunity for a new review, and the complainant will be informed of the action.
+
+(D) When an amended decisional document is requested under paragraph (d)(4)(v)(C) and the necessary records cannot be located, a notation to that effect will be made on the decisional document, and the complainant will be informed that the situation precludes further action.
+
+(vii) *Time limit for requesting a new review.* An applicant who is afforded an opportunity to request a new review may do so within 45 days.
+
+(viii) *Interim notification.* When the Military Department determines that some or all of the allegations contained in the complaint are not specific or have no merit but its DRB takes corrective action under paragraph (d)(4)(ii) or (d)(4)(iv) of this section, the DRB's notification to the applicant and counsel, if any, and to the complainant, if other than the applicant or counsel, should include the following or similar wording: “This is in partial response to (your)/(a) complaint to the Office of the Assistant Secretary of Defense (Manpower, Reserve Affairs, and Logistics) dated \_\_\_\_ concerning \_\_\_\_\_\_\_\_ Discharge Review Board decisional document \_\_\_\_\_\_\_\_. A final response to (your)/(the) complaint, which has been returned to the Office of the Assistant Secretary of Defense (Manpower, Reserve Affairs, and Logistics) for further review, will be provided to you in the near future.”
+
+(ix) *Final notification.* When the Discharge Review Board takes corrective action under paragraphs (d)(4)(iii) and (d)(9) of this section \_\_\_\_\_\_\_\_ its notification to the applicant and counsel, if any, and to the complainant, if other than the applicant or counsel, should include the following or similar wording: “This is in response to (your)/(a) complaint to the Office of the Assistant Secretary of Defense (Manpower, Reserve Affairs, and Logistics) dated \_\_\_\_\_\_\_\_ concerning \_\_\_\_\_\_\_\_ Discharge Review Board decisional document \_\_\_\_\_\_\_\_.
+
+(5) *Transmittal to the administrative director.* The Military Department shall return the complaint to the administrative Director with a copy of the decisional document and, when applicable, any of the following documents:
+
+(i) The “Review of Complaint.”
+
+(ii) A copy of the amendment to the decisional document and the accompanying transmittal letter or letters to the applicant and counsel, if any, and to the complainant, if other than the applicant or counsel.
+
+(iii) A copy of the notification to the applicant and counsel, if any, of the opportunity to request a new review, and a copy of the notification to the complainant, if other than the applicant or counsel, that the applicant has been authorized a new review.
+
+(6) *Review by the administrative director.* The administrative director shall review the complaint and accompanying documents to ensure the following:
+
+(i) If the Military Department determined that any of the allegations contained in the complaint are not specific or have no merit, the JSRA shall review the complaint and accompanying documents. The JSRA shall address the allegations using the format at attachment 2 (Review of and Recommended Action on Complaint) and shall note any other defects in the decisional document or index entries not previously noted by the Military Department. This does not establish a requirement for the JSRA to review such complaints for any purpose other than to address the allegations contained in the complaint; rather, it simply provides a format for the JSRA to address other defects noted in the course of processing the complaint.
+
+(ii) If the Military Department determined that all of the allegations contained in the complaint have merit and its DRB amended the decisional document, the amended decisional document shall be subject to review by the JSRA on a sample basis each quarter using the format at attachment 3 (Review of any Recommendation on Amended Decisional Document).
+
+(iii) If the Military Department determined that all of the allegations contained in the complaint have merit and its DRB notified the applicant and counsel, if any, of the opportunity to request a new review, review of such corrective action is not required.
+
+(7) *Review by the JSRA.* The JSRA shall meet for the purpose of conducting the reviews required in paragraphs (d)(6)(i), (d)(6)(ii), and (d)(9)(iii)(A) of this section. The Administrative director shall call meetings once a month, if necessary, or more frequently depending upon the number of matters before the JSRA. Matters before the JSRA shall be presented to the members by the recorder. Each member shall have one vote in determining matters before the JSRA, a majority vote of the members determining all matters. Determinations of the JSRA shall be reported to the DASD(MP&FM) as JSRA recommendations using the prescribed format. If a JSRA recommendation is not unanimous, the minority member may prepare a separate recommendation for consideration by the DASD(MP&FM) using the same format. Alternatively, the minority member may indicate “dissent” next to his signature on the JSRA recommendation.
+
+(8) *Review by the DASD(MP&FM).* The DASD(MP&FM) shall review all recommendations of the JSRA and the administrative director as follows:
+
+(i) The DASD(MP&FM) shall review complaints using the format at Attachment 4 (Review of and Action on Complaint). The DASD(MP&FM) is the final authority in determining whether the allegations contained in a complaint are specific and have merit. If the DASD(MP&FM) determines that no further action by the Military Department is warranted, the complainant and the Military Department shall be so informed. If the DASD(MP&FM) determines that further action by the Military Department is required, the Military Department shall be directed to ensure that appropriate corrective action is taken by its DRB and the complainant shall be provided an appropriate interim response.
+
+(ii) The DASD(MP&FM) shall review amended decisional documents using the format at attachment 5 (Review of and Action on Amended Decisional Document). The DASD(MP&FM) is the final authority in determining whether an amended decisional document complies with applicable requirements of the *Urban Law* case and, when applicable, this Directive. If the DASD(MP&FM) determines that no further corrective action by the Military Department is warranted, the Military Department shall be so informed. If the DASD(MP&FM) determines that further corrective action by the Military Department is required, the Military Department shall be directed to ensure that appropriate corrective action is taken by its DRB.
+
+(iii) It is noted that any violation of applicable requirements of the *Urban Law* case is also a violation of this part. However, certain requirements under this part are not requirements under the *Urban Law* case. If the allegations contained in a complaint are determined to have merit or if an amended decisional document is determined to be defective on the basis of one of these additional requirements under this part the DASD(MP&FM) determination shall reflect this fact.
+
+(9) *Further action by the Military Department.* (i) With respect to a determination by the DASD (MP&FM) that further action by the Military Department is required, its DRB shall take appropriate corrective action in accordance with paragraph (d)(4) of this section.
+
+(ii) The Military Department shall provide the administrative director with the following documents when relevant to corrective action taken in accordance with paragraph (d)(4) of this section:
+
+(A) A copy of the amendment to the decisional document and the accompanying transmittal letter or letters to the applicant and counsel, if any, and to the complainant, if other than the applicant or counsel.
+
+(B) A copy of the notification to the applicant and counsel, if any, of the opportunity to request a new review, and a copy of the notification to the complainant, if other than the applicant or counsel, that the applicant has been authorized a new review.
+
+(iii) The administrative director shall review the documents relevant to corrective action taken in accordance with paragraph (d)(4) of this section, and ensure the following:
+
+(A) If the DRB amended the decisional document, the amended decisional document shall be subject to review by the JSRA on a sample basis each quarter using the format at attachment 3 (Review of and Recommended Action on Amended Decisional Document).
+
+(B) If the DRB notified the applicant and counsel, if any, of the opportunity to request a new review, review of such corrective action is not required.
+
+(10) *Documents required by the JSRA or DASD (MP&FM).* Upon request, the Military Department shall provide the administrative director with other documents required by the JSRA or the DASD (MP&FM) in the conduct of their reviews.
+
+(e) *Responses to inquiries.* The following procedures shall be used in processing inquiries:
+
+(1) The administrative director shall assign a docket number to the inquiry.
+
+(2) The administrative director shall forward the inquiry to the Military Department concerned.
+
+(3) The Military Department shall prepare a response to the inquiry and provide the administrative director with a copy of the response.
+
+(4) The Military Department's response shall include the following or similar wording: “This is in response to your inquiry to the Office of the Assistant Secretary of Defense (Manpower, Reserve Affairs, and Logistics) dated \_\_\_\_\_\_\_\_ concerning \_\_\_\_\_\_\_\_.
+
+(f) *Indexing.* The DRB concerned shall reindex all amended decisional documents and shall provide copies of the amendments to the decisional documents to the Armed Forces Discharge Review/Correction Board Reading Room.
+
+(g) *Disposition of documents.* The administrative director is responsible for the disposition of all Military Department, DRB, JSRA, and DASD (MP&FM) documents relevant to processing complaints and inquiries.
+
+(h) *Referral by the General Counsel, Department of Defense.* The Stipulation of Dismissal permits *Urban Law* plaintiffs to submit complaints to the General Counsel, DoD, for comment. The General Counsel, DoD, may refer such complaints to the Military Department concerned or to the JSRA for initial comment.
+
+(i) *Decisional document and index entry principles.* The DASD (MP&FM) shall identify significant principles concerning the preparation of decisional documents and index entries as derived from decisions under this section and other opinions of the Office of General Counsel, DoD. This review shall be completed not later than October 1 and April 1 of each year, or more frequently if deemed appropriate by the DASD (MP&FM). The significant principles identified in the review shall be coordinated as proposed as amendments to the sections of this part.
+
+(j) *Implementation of amendments.* The following governs the processing of any correspondence that is docketed prior to the effective date of amendments to this section except as otherwise provided in such amendments:
+
+(1) Any further action on the correspondence shall be taken in accordance with the amendments; and
+
+(2) No revision of any action taken prior to the effective date of such amendments is required.
+
+Attachment 1 - Review of ComplaintMilitary Department:Decisional Document Number:Name of Complainant:Docket Number:Date of this Review:
+
+1. Specific allegation(s) noted:
+
+2. With respect in support of the conclusion, enter the following information:
+
+a. Conclusion whether corrective action is required.
+
+b. Reasons in support of the conclusion, including findings of fact upon which the conclusion is based.
+
+3. Other defects noted in the decisional document or index entries:
+
+(Authentication)Attachment 2 - Joint Service Review ActivityOffice of the Assistant Secretary of Defense (Manpower, Reserve Affairs, and Logistics)Review by the Joint Service Review ActivityMilitary Department:Decisional Document Number:Name of Complainant:Name of Applicant:Docket Number:Date of this Review:
+
+1. The Military Department's “Review of Complaint” is attached as enclosure 1.
+
+2. Specific Allegations: See part 1 of Military Department's “Review of Complaint” (enclosure 1).
+
+3. Specific allegation(s) not noted by the Military Department:
+
+4. With respect to each allegation, enter the following information:
+
+a. Conclusion as to whether corrective action is required.
+
+b. Reasons in support of the conclusion, including findings of fact upon which conclusion is based.
+
+Note.
+
+If JSRA agrees with the Military Departments, the JSRA may respond by entering a statement of adoption.
+
+5. Other defects in the decisional document or index entries not noted by the Military Departments:
+
+6. *Recommendation:*
+
+[ ] The complainant and the Military Department should be informed that no further action on the complaint is warranted.
+
+[ ] The Military Department should be directed to take corrective action consistent with the above comments.
+
+Army Member, JSRAAir Force Member, JSRANavy Member, JSRARecorder, JSRAAttachment 3 - Joint Service Review ActivityOffice of the Assistant Secretary of Defense (Manpower, Reserve Affairs, and Logistics)Review of Amended Decisional Document (Quarterly Review)Military Department:Decisional Document Number:Name of Complainant:Name of Applicant:Docket Number:Date of this Review:Recommendation:
+
+[ ] The amended decisional document complies with the requirements of the Stipulation of Dismissal and, when applicable, DoD Directive 1332.28. The Military Department should be informed that no further corrective action is warranted.
+
+[ ] The amended decisional document does not comply with the Stipulation of Dismissal or DoD Directive 1332.28 as noted herein. The Military Department should be directed to ensure that corrective action consistent with the defects noted is taken by its Discharge Review Board.
+
+Army Member, JSRAAir Force Member, JSRANavy Member, JSRARecorder, JSRA
+
+|               Yes               |No |NA |                                                                                                            Item                                                                                                             |                                                            Source                                                            |
+|---------------------------------|---|---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+|                ☐                | ☐ | ☐ |                                                                                                    1. Date of discharge                                                                                                     |   1. DoD Directive 1332.28, enclosure 3, subsection H.1.; Stipulation (Jan. 31, 1977) para. 5.A.(1)(d)(i) (reference (1)).   |
+|                ☐                | ☐ | ☐ |                                                                                                    a. Date of discharge                                                                                                     |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                  b. Character of discharge                                                                                                  |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                   c. Reason for discharge                                                                                                   |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                              d. Specific regulatory authority under which discharge was issued                                                                              |                                                                                                                              |
+|                ☐                | ☐ | ☐ | 2. Service data. (This requirement applies only in conjunction with Military Department Implementation of General Counsel, DoD, letter dated July 20, 1977, or to discharge reviews conducted on or after March 29, 1978.)  |      2. DoD Directive 1332.28, enclosure 3, subsection H.1.; Annex B, (June \_\_\_\_, 1982) para. 2-2 (reference (1)).       |
+|                ☐                | ☐ | ☐ |                                                                                                    a. Date of enlistment                                                                                                    |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                   b. Period of enlistment                                                                                                   |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                    c. Age at enlistment                                                                                                     |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                    d. Length of service                                                                                                     |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                            e. Periods of unauthorized absence\*                                                                                             |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                f. Conduct and efficiency ratings (numerical and narrative)\*                                                                                |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                  g. Highest rank achieved                                                                                                   |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                 h. Awards and decorations\*                                                                                                 |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                    i. Educational level                                                                                                     |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                   j. Aptitude test scores                                                                                                   |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                             k. Art. 15s (including nature and date of offense or punishment)\*                                                                              |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                              l. Convictions by court-martial\*                                                                                              |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                m. Prior military service and type of discharge(s) received\*                                                                                |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                        3. Reference to materials presented by applicant. (This requirement applies only to discharge reviews conducted on or after March 29, 1978.)                                         |                                 3. DoD Directive 1332.28, enclosure 3, subsection H.2.; H.3.                                 |
+|                ☐                | ☐ | ☐ |                                                                                                     a. Written brief\*                                                                                                      |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                  b. Documentary evidence\*                                                                                                  |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                       c. Testimony\*                                                                                                        |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                    4. Items submitted as issues. (See issues worksheet)                                                                                     |                                    4. DoD Directive 1332.28, enclosure 3, subsection H.6.                                    |
+|                ☐                | ☐ | ☐ |                                                               5. Conclusions. The decisional document must indicate clearly the DRB's conclusion concerning:                                                                |5. Dod Directive 1332.28, enclosure 3, subsection H.5.; Stipulation (Jan. 31, 1977), paragraph 5.A.(1)(d)(iv) (reference (1)).|
+|                ☐                | ☐ | ☐ |   a. Determination of whether a discharge upgraded under SDRP would have been upgraded under DoD Directive 1332.28. (This applies only to mandatory reviews under P.L. 95-126 or Special Discharge Review Program (SDRP)    |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                   b. Character of discharge, when applicable<sup>1</sup>                                                                                    |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                    c. Reason for discharge, when applicable<sup>2</sup>                                                                                     |                                                                                                                              |
+|                ☐                | ☐ | ☐ |6. Reasons for conclusions. The decisional document must list and discuss the items submitted as issues by the applicant; and list and discuss the decisional issues providing the basis for the DRB's conclusion concerning:|6. DoD Directive 1332.28, enclosure 3, subsection H.7., H.8.; Stipulation (Jan. 31, 1977) para. 5.A.(1)(d)(v) (reference (1)).|
+|                ☐                | ☐ | ☐ |                     a. Whether a discharge upgraded under the SDRP would have been upgraded under DoD Directive 1332.28. (This applies only to mandatory rereviews under P.L. 95-126 or SDRP reviews.)                      |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                   b. Character of discharge, where applicable<sup>1</sup>                                                                                   |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                    c. Reason for discharge, where applicable<sup>2</sup>                                                                                    |                                                                                                                              |
+|                ☐                | ☐ | ☐ |                                                                                                   7. Advisory opinions\*                                                                                                    |    7. DoD Directive 1332.28, enclosure 3, subsection H.12., Stipulation (Jan. 31, 1977) para. 5.A.(1)(f) (reference (1)).    |
+|                ☐                | ☐ | ☐ |                                                                                             8. Recommendation of DRB President                                                                                              |    8. DoD Directive 1332.28, enclosure 3, subsection H.12., Stipulation (Jan. 31, 1977) para. 5.A.(1)(g) (reference (1)).    |
+|                ☐                | ☐ | ☐ |                                                                                                    9. A record of voting                                                                                                    |     9. DoD Directive 1332.28, enclosure 3, subsection H.13., Stipulation (Jan. 31, 1977) para. 5.A.(3) (reference (1)).      |
+|                ☐                | ☐ | ☐ |                                                                                             10. Indexing of decisional document                                                                                             |   10. DoD Directive 1332.28, enclosure 3, subsection H.14., Stipulation (Jan. 31, 1977) para. 5.A.(5)(a) (reference (1)).    |
+|                ☐                | ☐ | ☐ |                                            11. Authentication of decisional document. (This requirement applies only to discharge reviews conducted on or after March 29, 1978.)                                            |                                   11. DoD Directive 1332.28, enclosure 3, subsection H.15.                                   |
+|                ☐                | ☐ | ☐ |                                                                                                          12. Other                                                                                                          |                                                     12. As appropriate.                                                      |
+|Explanation of items marked “No.”|   |   |                                                                                                                                                                                                                             |                                                                                                                              |
+
+ Key:
+
+Yes: The decisional document meets the requirements of the Stipulation of Dismissal and, when applicable, DoD Directive 1332.28.
+
+No: The decisional document does not meet the requirements of the Stipulation of Dismissal or DoD Directive 1332.28.
+
+NA: Not applicable.
+
+\*Items marked by an asterisk do not necessarily pertain to each review. If the decisional document contains no reference to such an item, NA shall be indicated. When there is a specific complaint with respect to an item, the underlying discharge review record shall be examined to address the complaint.
+
+<sup>1</sup> In this instance “when applicable” means all reviews except:
+
+a. Mandatory rereviews under P.L. 95-126 or SDRP reviews.
+
+b. Reviews in which the applicant requested only a change in the reason for discharge and the DRB did not raise the character of discharge as a decisional issue.
+
+<sup>2</sup> In this instance “when applicable” means all reviews in which:
+
+a. The applicant requested a change in the reason for discharge.
+
+b. The DRB raised the reason for discharge as a decisional issue.
+
+c. A change in the reason for discharge is a necessary component of a change in the character of discharge.
+
+Attachment 4 - Issues Worksheets<sup>1</sup>
+
+|                                                                                                                                                                               |Listed|Addressed|Corrective action required|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|---------|--------------------------|
+|A. Decisional issues providing a basis for the conclusion regarding a change in the character of or reason for discharge. (DoD Directive 1332.28, enclosure 3, subsection D.2):|      |         |                          |
+|                                                                                      1.                                                                                       |  ☐   |    ☐    |            ☐             |
+|                                                                                      2.                                                                                       |  ☐   |    ☐    |            ☐             |
+|                                                                                      3.                                                                                       |  ☐   |    ☐    |            ☐             |
+|               B. Items submitted as issues by the applicant that are not identified as decisional issues. (DoD Directive 1332.28, enclosure 3, subsection D.3):               |      |         |                          |
+|                                                                                      1.                                                                                       |  ☐   |    ☐    |            ☐             |
+|                                                                                      2.                                                                                       |  ☐   |    ☐    |            ☐             |
+|                                                                                      3.                                                                                       |  ☐   |    ☐    |            ☐             |
+|                                                                                  C. Remarks:                                                                                  |      |         |                          |
+|                                                                                                                                                                               |      |         |                          |
+
+<sup>1</sup> This review may be made based upon the decisional document without reference to the underlying discharge review record except as follows: if there is an allegation that a specific contention made by the applicant to the DRB was not addressed by the DRB. In such a case, the complaint review process shall involve a review of all the evidence that was before the DRB, including the testimony and written submissions of the applicant, to determine whether the contention was made, and if so, whether it was addressed adequately with respect to the Stipulation of Dismissal and, when applicable, DoD Directive 1332.28.
+
+This review may be based upon the decisional document without reference to the regulation governing the discharge in question except as follows: if there is a specific complaint that the DRB failed to address a specific factor required by applicable regulations to be considered for determination of the character of and reason for the discharge in question [where such factors are a basis for denial of any of the relief requested by the applicant]. (The material in brackets pertains only to discharge reviews conducted on or before March 28, 1978.)
+
+Attachment 5 - Office of the Assistant Secretary of Defense (Manpower, Reserve Affairs, and Logistics)Review of Complaint (DASD(MP&FM))Military Department:Decisional Document Number:Name of Complainant:Name of Applicant:Docket Number:Date of this Review:
+
+1. Each allegation is addressed as follows:
+
+a. Allegation.
+
+b. Conclusion whether corrective action is required.
+
+c. Reasons in support of the conclusion, including findngs of fact upon which the conclusion is based.
+
+Note:
+
+If the DASD(MP&FM) agrees with the JSRA, he may respond by entering a statement of adoption.
+
+2. Other defects noted in the decisional document or index entries:
+
+3. *Determinations:*
+
+[ ] No further action on the complaint is warranted.
+
+[ ] Corrective action consistent with the above comments is required.
+
+Deputy Assistant Secretary of Defense(Military Personnel & Force Management)Attachment 6 - Office of the Assistant Secretary of Defense (Manpower, Reserve Affairs, and Logistics)Review of Amended Decisional Document (DASD (MP&FM))Military Department:Decisional Document Number:Name of Complainant:Name of Applicant:Docket Number:Date of this Review:Recommendation:
+
+[ ] The amended decisional document complies with the requirements of the Stipulation of Dismissal and, when applicable, DoD Directive 1332.28. No further corrective action is warranted.
+
+[ ] The amended decisional document does not comply with the Stipulation of Dismissal or DoD Directive 1332.28 as noted herein. Further corrective action is required consistent with the defects noted in the attachment.
+
+Deputy Assistant Secretary of Defense(Military Personnel & Force Management)Remarks:Attachment 7Dear \_\_\_\_\_\_:
+
+It has been determined that the decisional document issued in your case by the (Army) (Navy) (Air Force) Discharge Review Board during the (Special Discharge Review Program) (rereview program under Pub. L. No. 95-126) should be reissued to improve the clarity of the statement of findings, conclusions, and reasons for the decision in your case.
+
+In order to obtain a new decisional document you may elect one of the following options to receive a new review under the (Special Discharge Review Program) (rereview program mandated by Pub. L. No. 95-126):
+
+1. You may request a new review, including a personal appearance hearing if you so desire, by responding on or before the suspense date noted at the top of this letter. Taking this action will provide you with a priority review before all other classes of cases.
+
+2. You may request correction of the original decisional document issued to you by responding on or before the suspense date noted at the top of this letter. After you receive a corrected decisional document, you will be entitled to request a new review, including a personal appearance hearing if you so desire. If you request correction of the original decisional document, you will not receive priority processing in terms of correcting your decisional document or providing you with a new review; instead, your case will be handled in accordance with standard processing procedures, which may mean a delay of several months or more.
+
+If you do not respond by the suspense date noted at the top of this letter, no action will be taken. If you subsequently submit a complaint about this decisional document, it will be processed in accordance with standard procedures.
+
+To ensure prompt and accurate processing of your request, please fill out the form below, cut it off at the dotted line, and return it to the Discharge Review Board of the Military Department in which you served at the address listed at the top of this letter.
+
+Check only one:
+
+[ ] I request a new review of my case on a priority basis. I am requesting this priority review rather than requesting correction of the decisional document previously issued to me. I have enclosed DD Form 293 as an application for my new review.
+
+[ ] I request correction of the decisional document previously issued to me. I understand that this does not entitle me to priority action in correcting my decisional document. I also understand that I will be able to obtain a further review of my case upon my request after receiving the corrected decisional document, but that such a review will not be held on a priority basis.
+
+DatesSignaturesPrinted Name and Address[47 FR 37785, Aug. 26, 1982, as amended at 48 FR 9856, Mar. 9, 1983]

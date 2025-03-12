@@ -1,0 +1,3 @@
+##### § 643.37 Policy - Requests to search for treasure trove. #####
+
+Section 3755 of the Revised Statutes (40 U.S.C. 310) authorizes the Administrator of the GSA to make such contracts and provisions as he deems necessary to protect the interests of the Government in searches for and sales of treasure trove. All searches and sales authorized by GSA under this statute are subject to the Act for the Preservation of American Antiquities (16 U.S.C. 432) and will only be permitted after consent of the Department of the Army has been obtained.

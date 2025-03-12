@@ -1,0 +1,15 @@
+##### § 4.12-1 Application, procedure, and admissibility. #####
+
+(a) Witnesses shall be examined orally, except that for good cause shown, testimony may be taken by deposition upon application of any party in interest or upon the initiative of the investigating officer or Marine Board of Investigation.
+
+(b) Applications to take depositions shall be in writing setting forth the reasons why such deposition should be taken, the name and address of the witness, the matters concerning which it is expected the witness will testify, and the time and place proposed for the taking of the deposition. Such application shall be made to an investigating officer or the Marine Board of Investigation prior to or during the course of the proceedings.
+
+(c) The investigating officer or Marine Board of Investigation, shall, upon receipt of the application, if good cause is shown, make and serve upon the parties an order which will specify the name of the witness whose deposition is to be taken, the name and place of the taking of such deposition and shall contain a designation of the officer before whom the witness is to testify. Such deposition may be taken before any officer authorized to administer oaths by the laws of the United States.
+
+(d) The party desiring the deposition may submit a list of interrogatories to be propounded to the absent witness; then the opposite party after he has been allowed a reasonable time for this purpose, may submit a list of cross-interrogatories. If either party objects to any question of the adversary party, the matter shall be presented to the investigating officer or Marine Board of Investigation for a ruling. Upon agreement of the parties on a list of interrogatories and cross-interrogatories (if any) the investigating officer or Marine Board of Investigation may propound such additional questions as may be necessary to clarify the testimony given by the witness.
+
+(e) The subpoena referred to in subpart F of this subchapter together with the list of interrogatories and cross-interrogatories (if any) shall be forwarded to the officer designated to take such deposition. This officer will cause the subpoena to be served personally on the witness. After service the subpoena shall be endorsed and returned to the investigating officer or Marine Board of Investigation.
+
+(f) When the deposition has been duly executed it shall be returned to the investigating officer or Marine Board of Investigation. As soon as practicable after the receipt of the deposition the investigating officer or Marine Board of Investigation shall present it to the parties for their examination. The investigating officer or Marine Board of Investigation shall rule on the admissibility of the deposition or any part thereof and of any objection offered by either party thereto.
+
+[CGD 74-119, 39 FR 33317, Sept. 17, 1974, as amended by CGD 96-041, 61 FR 50726, Sept. 27, 1996]

@@ -1,0 +1,3 @@
+##### § 644.558 Properties requiring compliance inspections. #####
+
+The principal properties conveyed which require inspections are for the training of civilian components of the Armed Forces. However, other properties are sometimes conveyed under special acts of Congress subject to conditions required by the authorizing act. These properties will also be inspected for compliance with such conditions.

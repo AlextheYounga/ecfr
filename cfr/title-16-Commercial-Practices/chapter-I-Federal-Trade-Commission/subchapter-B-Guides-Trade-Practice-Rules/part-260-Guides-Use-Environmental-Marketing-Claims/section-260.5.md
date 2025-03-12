@@ -1,0 +1,9 @@
+##### § 260.5 Carbon offsets. #####
+
+(a) Given the complexities of carbon offsets, sellers should employ competent and reliable scientific and accounting methods to properly quantify claimed emission reductions and to ensure that they do not sell the same reduction more than one time.
+
+(b) It is deceptive to misrepresent, directly or by implication, that a carbon offset represents emission reductions that have already occurred or will occur in the immediate future. To avoid deception, marketers should clearly and prominently disclose if the carbon offset represents emission reductions that will not occur for two years or longer.
+
+(c) It is deceptive to claim, directly or by implication, that a carbon offset represents an emission reduction if the reduction, or the activity that caused the reduction, was required by law.
+
+Example 1:On its Web site, an online travel agency invites consumers to purchase offsets to “neutralize the carbon emissions from your flight.” The proceeds from the offset sales fund future projects that will not reduce greenhouse gas emissions for two years. The claim likely conveys that the emission reductions either already have occurred or will occur in the near future. Therefore, the advertisement is deceptive. It would not be deceptive if the agency's Web site stated “Offset the carbon emissions from your flight by funding new projects that will begin reducing emissions in two years.”Example 2:An offset provider claims that its product “will offset your own ‘dirty’ driving habits.” The offset is based on methane capture at a landfill facility. State law requires this facility to capture all methane emitted from the landfill. The claim is deceptive because the emission reduction would have occurred regardless of whether consumers purchased the offsets.

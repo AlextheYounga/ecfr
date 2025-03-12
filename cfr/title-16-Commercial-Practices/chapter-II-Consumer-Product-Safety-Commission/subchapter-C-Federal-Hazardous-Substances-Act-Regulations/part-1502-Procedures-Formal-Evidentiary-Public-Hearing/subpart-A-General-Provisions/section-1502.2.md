@@ -1,0 +1,3 @@
+##### § 1502.2 Computation of time periods. #####
+
+Whenever a time period for taking action is specified by these procedures, by the presiding officer, or by the Commission, Saturdays, Sundays, and Federal holidays are included in computing time. However, if the last day for taking such action falls on a Saturday, Sunday, or Federal holiday, the action shall be timely if taken on or before the next Federal Government business day.

@@ -1,0 +1,3 @@
+##### § 37.510 What are my responsibilities for determining that a recipient is qualified? #####
+
+Prior to award of a TIA, your responsibilities for determining that the recipient is qualified are the same as those of a grants officer who is awarding a grant or cooperative agreement. Those responsibilities are described in subpart D of 32 CFR part 22. When the recipient is a consortium that is not formally incorporated, you have the additional responsibility described in § 37.515.

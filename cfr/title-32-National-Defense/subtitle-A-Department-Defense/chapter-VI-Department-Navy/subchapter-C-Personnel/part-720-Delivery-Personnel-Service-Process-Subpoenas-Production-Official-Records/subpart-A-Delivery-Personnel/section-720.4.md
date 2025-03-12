@@ -1,0 +1,5 @@
+##### § 720.4 Persons stationed outside the United States. #####
+
+(a) *Persons desired by local U.S. authorities.* When delivery of any member in the Navy or Marine Corps, or any civilian employee or dependent, is desired for trial by state authorities and the individual whose presence is sought is stationed outside the United States, the provisions of subpart D of this part will be followed. In all such cases, the nearest judge advocate of the Navy or Marine Corps shall be consulted before any action is taken.
+
+(b) *Members desired by U.S. Federal authorities.* When delivery of any member of the Navy or Marine Corps is desired for trial in a Federal district court, upon appropriate representation by the Department of Justice to the Secretary of the Navy (Judge Advocate General), the member will be returned to the United States at the expense of the Department of the Navy and held at a military facility convenient to the Department of the Navy and to the Department of Justice. Delivery may be accomplished as set forth in § 720.7, subject to the exceptions in § 720.9.

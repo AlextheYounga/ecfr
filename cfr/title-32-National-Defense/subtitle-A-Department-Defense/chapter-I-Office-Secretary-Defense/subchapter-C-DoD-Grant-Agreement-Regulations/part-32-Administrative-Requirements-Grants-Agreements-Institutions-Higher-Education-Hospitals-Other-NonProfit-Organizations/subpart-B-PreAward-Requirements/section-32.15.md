@@ -1,0 +1,3 @@
+##### § 32.15 Metric system of measurement. #####
+
+The Metric Conversion Act, as amended by the Omnibus Trade and Competitiveness Act (15 U.S.C. 205) declares that the metric system is the preferred measurement system for U.S. trade and commerce, and for Federal agencies' procurements, grants, and other business-related activities. DoD grants officers shall comply with requirements concerning the use of the metric system at 32 CFR 22.530.

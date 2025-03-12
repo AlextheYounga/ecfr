@@ -1,0 +1,25 @@
+##### § 802.21 Acquisitions of voting securities not meeting or exceeding greater notification threshold (as adjusted). #####
+
+(a) An acquisition of voting securities shall be exempt from the requirements of the act if:
+
+(1) The acquiring person and all other persons required by the act and these rules to file notification filed notification with respect to an earlier acquisition of voting securities of the same issuer;
+
+(2) The waiting period with respect to the earlier acquisition has expired, or been terminated pursuant to § 803.11, and the acquisition will be consummated within 5 years of such expiration or termination; and
+
+(3) The acquisition will not increase the holdings of the acquiring person to meet or exceed a notification threshold (as adjusted) greater than the greatest notification threshold met or exceeded in the earlier acquisition.
+
+Examples:1. In 2004, Corporation A acquired $53 million of the voting securities of corporation B and both “A” and “B” filed notification as required, indicating the $50 million threshold. Within five years of the expiration of the original waiting period, “A” acquires additional voting securities of B but not in an amount sufficient to meet or exceed $100 million (as adjusted) or 50 percent of the voting securities of B. No additional notification is required.
+
+2. In 2004, Corporation A acquired $53 million of the voting securities of corporation B and both “A” and “B” filed notification as required, indicating the $50 million threshold. Suppose that in year three following the expiration of the waiting period, the $50 million notification threshold has been adjusted to $56 million pursuant to Section 7A(a)(2)(a) of the Act. “A” now intends to acquire an additional $5 million of the voting securities of B. “A” is not required to file another notification even though it now holds voting securities in excess of the $56 million notification threshold (which is greater than the $50 million notification threshold indicated in its filing), because it has not met or exceeded a notification threshold (as adjusted) greater than the notification threshold exceeded in the earlier acquisition (i.e. $100 million (as adjusted) or 50% notification thresholds).
+
+3. Same facts as in Example 2 above except now the five year period has expired. Suppose that, the $50 million notification threshold has been adjusted to $57 million pursuant to Section 7A(a)(2)(a) of the Act. “A” now holds $58 million of voting securities of B. Because § 802.21(a)(2) is no longer satisfied, the acquisition of any additional voting securities of B will require a new filing because “A” will hold voting securities valued in excess of the $57 million notification threshold. If, however, the $50 million notification threshold had been adjusted to $60 million at the end of the five-year period, A could acquire up to that threshold without a new filing.
+
+4. This section also allows a person to recross any of the threshold notification levels that were in effect at the time of filing notification any number of times within five years of the expiration of the waiting period following notification. Thus, if in Example 1, “A” had disposed of some voting securities so that it held less than $50 million of the voting securities of B, and thereafter had increased its holdings to more than $50 million but less than $100 million or 50 percent of B, notification would not be required if the increase occurred within 5 years of the expiration of the original waiting period.
+
+5. A files notification at the $50 million notification threshold and acquires $51 million of the voting securities of B in the year following expiration of the waiting period. The next greater notification threshold at the time of filing was $100 million. In year three, the $100 million notification threshold has been adjusted to $106 million. A can now acquire up to, but not meet or exceed, voting securities of B valued at $106 million. As the original $100 million threshold is adjusted upward in years four and five, A can acquire up to those new thresholds as the adjustments are effected.
+
+6. A files notification at the $50 million threshold in January of year one. In February of year one, the $50 million threshold is adjusted to $52 million. A only needs to acquire in excess of $50 million of voting securities of B, not in excess of $52 million, to have exceeded the threshold which was filed for in the year following expiration of the waiting period (see § 803.7). It may then acquire up to the next greater notification threshold (as adjusted) during the five years following expiration of the waiting period.
+
+(b) [Reserved]
+
+[43 FR 33544, July 31, 1978, as amended at 66 FR 8693, Feb. 1, 2001; 67 FR 11906, Mar. 18, 2002; 70 FR 4995, Jan. 31, 2005; 76 FR 42482, July 19, 2011]

@@ -1,0 +1,7 @@
+##### § 634.52 Search incident to impoundment based on criminal activity. #####
+
+Search of a POV in conjunction with impoundment based on criminal activity will likely occur in one of the following general situations:
+
+(a) The owner or operator is not present. This situation could arise during traffic and crime-related impoundments and abandoned vehicle seizures. A property search related to an investigation of criminal activity should not be conducted without search authority unless the item to be seized is in plain view or is readily discernible on the outside as evidence of criminal activity. When in doubt, proper search authority should be obtained before searching.
+
+(b) The owner or operator is present. This situation can occur during either a traffic or criminal incident, or if the operator is apprehended for a crime or serious traffic violation and sufficient probable cause exists to seize the vehicle. This situation could also arise during cases of intoxicated driving or traffic accidents in which the operator is present but incapacitated or otherwise unable to make adequate arrangements to safeguard the vehicle. If danger exists to the police or public or if there is risk of loss or destruction of evidence, an investigative type search of the vehicle may be conducted without search authority. (Air Force, see AFP 125-2).

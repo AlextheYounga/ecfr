@@ -1,0 +1,3 @@
+##### § 172.010 Applicability. #####
+
+This subpart applies to each vessel that loads grain in bulk, except vessels engaged solely on voyages on rivers, lakes, bays, and sounds or on voyages between Great Lake ports and St. Lawrence River ports as far east as a straight line drawn from Cape de Rosiers to West Point, Anticosti Island and as far east of a line drawn along the 63rd meridian from Anticosti Island to the north shore of the St. Lawrence River.

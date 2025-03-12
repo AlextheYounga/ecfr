@@ -1,0 +1,5 @@
+##### § 565.8 Special permission. #####
+
+Section 8(d) of the Shipping Act of 1984 (46 U.S.C. 40501(e)) authorizes the Commission, in its discretion and for good cause shown, to permit increases or decreases in rates, or the issuance of new or initial rates, on less than statutory notice under § 565.7. Section 9(c) of the Shipping Act of 1984 (46 U.S.C. 40703, 40704(a)) authorizes the Commission to permit a controlled carrier's rates, charges, classifications, rules or regulations to become effective on less than 30 days' notice. The Commission may also in its discretion and for good cause shown, permit departures from the requirements of this part. The Commission will consider such requests for special permission by controlled carriers pursuant to its procedures set forth at 46 CFR part 520.
+
+[64 FR 8010, Feb. 18, 1999, as amended at 74 FR 50735, Oct. 1, 2009]

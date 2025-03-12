@@ -1,0 +1,19 @@
+##### § 750.2 Investigations: In general. #####
+
+(a) *Conducting the investigation.* The command where the incident giving rise to the claim is alleged to have happened is responsible for conducting an investigation in accordance with this part.
+
+(b) *Thorough investigation.* Every incident that may result in a claim against or in favor of the United States shall be promptly and thoroughly investigated under this part. Investigations convened for claims purposes are sufficiently complex that they should be performed with the assistance and under the supervision of a judge advocate or other attorney. Where the command has an attorney assigned, he shall be involved in every aspect of the proceedings. When an attorney is not assigned to the investigating command, consultation shall be sought from the appropriate Naval Legal Service Command activity.
+
+(c) *Recovery barred.* Even when recovery must be barred by statute or case law, all deaths, serious injuries, and substantial losses to property that are likely to give rise to claims must be investigated while the evidence is available. Claims against persons in the naval service arising from the performance of their official duties shall be investigated as though they were claims against the United States. When an incident involves an actual or potential claim against the United States for property damage only and the total amount likely to be paid does not exceed $5,000.00, an abbreviated investigative report may be submitted. Where this monetary figure may be exceeded, but the circumstances indicate an abbreviated report may be adequate to preserve the facts and protect the Government's claims interests, approval to submit a limited investigative report may be sought from the Office of the Judge Advocate General (Claims and Tort Litigation Division) (Code 15), the Tort Claims Unit Norfolk, or the nearest Naval Legal Service Command activity.
+
+(d) *Developing the facts.* Any investigation convened for claims purposes must focus on developing the facts of the incident, *i.e.*, the who, what, where, when, why, and how of the matter. Opinions on the possible liability of the United States under any of the claims statutes listed above shall not be expressed. Early and continuous consultation with claims attorneys at Naval Legal Service Command activities is essential to ensure the timely development of all necessary facts, the identification and preservation of relevant evidence, and to void the need for supplemental inquiries.
+
+(e) *Attorney work product.* (1) The convening order and the preliminary statement of an investigative report prepared to inquire into the facts of an incident giving or likely to give rise to a claim against the United States shall include the following:
+
+This investigation has been convened and conducted, and this report prepared, in contemplation of claims adjudication and litigation and for the express purpose of assisting attorneys representing the interests of the United States.
+
+(2) When an investigation is prepared by or at the direction of an attorney representing the Department of the Navy and is prepared in reasonable anticipation of litigation, it is exempt from mandatory disclosure under the Freedom of Information Act exemption (b)(5) and is normally privileged from discovery in litigation under the attorney work product privilege. 5 U.S.C. 552(b)(5). Unless an attorney prepares the report or personally directs its preparation, the investigation may not be privileged, even if it was prepared in reasonable anticipation of litigation.
+
+(f) *Advance copy.* An advance copy of an investigation conducted because a claim has been, or is likely to be, submitted shall be forwarded to the Tort Claims Unit Norfolk.
+
+[57 FR 4722, Feb. 7, 1992, as amended at 72 FR 53418, Sept. 19, 2007]

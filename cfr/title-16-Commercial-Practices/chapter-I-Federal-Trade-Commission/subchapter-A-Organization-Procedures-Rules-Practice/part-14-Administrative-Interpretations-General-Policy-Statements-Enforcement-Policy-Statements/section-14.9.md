@@ -1,0 +1,9 @@
+##### § 14.9 Requirements concerning clear and conspicuous disclosures in foreign language advertising and sales materials. #####
+
+The Federal Trade Commission has noted that, with increasing intensity, advertisers are making special efforts to reach foreign language-speaking consumers. As part of this special effort, advertisements, brochures and sales documents are being printed in foreign languages. In recent years the Commission has issued various cease-and-desist orders as well as rules, guides and other statements, which require affirmative disclosures in connection with certain kinds of representations and business activities. Generally, these disclosures are required to be “clear and conspicuous.” Because questions have arisen as to the meaning and application of the phrase “clear and conspicuous” with respect to foreign language advertisements and sales materials, the Commission deems it appropriate to set forth the following enforcement policy statement:
+
+(a) Where cease-and-desist orders as well as rules, guides and other statements require “clear and conspicuous” disclosure of certain information in an advertisement or sales material in a newspaper, magazine, periodical, or other publication that is not in English, the disclosure shall appear in the predominant language of the publication in which the advertisement or sales material appears. In the case of any other advertisement or sales material, the disclosure shall appear in the language of the target audience (ordinarily the language principally used in the advertisement or sales material).
+
+(b) Any respondent who fails to comply with this requirement may be the subject of a civil penalty or other law enforcement proceeding for violating the terms of a Commission cease-and-desist order or rule.
+
+(Sec. 5, 38 Stat. 719, as amended; 15 U.S.C. 45)[38 FR 21494, Aug. 9, 1973, as amended at 63 FR 34808, June 26, 1998]

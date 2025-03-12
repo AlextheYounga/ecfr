@@ -1,0 +1,17 @@
+##### § 1018.34 Conflict of interest. #####
+
+Members of the Commission's statutory advisory committees are not legally subject to the standards of conduct and conflict of interest statutes and regulations applicable to Commission employees. However, it is important to avoid situations in which a member of an advisory committee has an actual or apparent conflict of interest between the member's private interests (or the interests of the member's organization) and the member's interest in properly performing his or her duties as an advisory committee member. To preclude any such actual or apparent conflict of interest, committee members shall be subject to the following guidelines:
+
+(a) Committee members should not personally participate, either for themselves or on behalf of an organization, in negotiations, or the preparation of negotiations, for contracts with or grants from the Commission. Nor should committee members, either as an individual or on behalf of an organization, become personally involved in the performance of work under such a negotiated contract or grant awarded by the Commission. Committee members may participate in preparing bids for and performing work under advertised contracts where price is the single factor in the determination of award.
+
+(b) Committee members should not become personally involved in the preparation or submission of a proposal to develop a safety standard or regulation under any of the Acts administered by the Commission.
+
+(c) Committee members representing anyone in a professional capacity in a proceeding before the Commission should, pursuant to paragraph (e) and (f) of this section, advise the committee chairperson and the other members of the committee on which he or she serves of the representation prior to the committee's discussion regarding that proceeding. Where the chairperson of the committee determines that the representation involves a conflict or the appearance of a conflict of interest, the member will be asked to withdraw from the discussion of the proceeding. In circumstances where withdrawal from the committee's discussion or consideration of the matter is determined by the Commission to be insufficient to avoid a conflict or apparent conflict of interest, continued representation may be considered incompatible with membership on the committee.
+
+(d) Committee members should exercise caution to ensure that their public statements are not interpreted to be official policy statements of the Commission.
+
+(e) Committee members shall disclose to the committee chairperson and to the other members of the committee on which he or she serves, any special interest in a particular proceeding or matter then pending before the committee which in any way may affect that member's position, views or arguments on the particular proceeding or matter. The disclosure shall be made orally prior to the commencement of the discussion. “Special interest” is not intended to include a member's general interest in presenting a position, views, or arguments in his or her representational capacity.
+
+(f) Where the chairperson of the committee determines that the disclosure referred to in paragraph (e) of this section reveals a conflict or apparent conflict of interest with respect to a member's involvement in the committee's consideration or discussion of a particular matter, the member will be asked to withdraw from the discussion of the matter.
+
+(g) The provisions of paragraphs (a) and (b) of this section do not apply to state and local government officers and employees.

@@ -1,0 +1,11 @@
+##### § 644.529 Supplemental agreement with owner of contaminated leased land. #####
+
+In the event that it becomes necessary to pay damages to a lessor in lieu of restoration *i.e.*, decontamination, the following clause, appropriately modified to fit the circumstances, will be made a part of the supplemental agreement terminating the lease and effecting monetary settlement in lieu of restoration. Additionally, in order to protect the Government from possible claims for damages from future purchasers, the executed supplemental agreement will, in those jurisdictions permitting recordation, be recorded by the DE thus providing legal notice to subsequent purchasers of the condition of the premises.
+
+Suggested Clauses for Use in Supplemental Agreement
+
+Whereas, by reason of the use made of the premises by the Government it is impossible to ascertain after completion of decontamination operations by the Government that the following described portion of land is safe for unrestricted use by the lessor (or state because of use made by Government that use of land must be restricted to grazing, etc.):
+
+(Legal Description; utilize hachured/annotated map(s) as attachment plus legal description.)
+
+Now, therefore, in consideration of the payment by the Government of the United States to the lessor, (Name of Lessor), of dollars ($ ), representing the estimated compensation to which the lessor is entitled by reason of the loss of the unrestricted use of the above described property, the lessor hereby releases the Government from all claims for damages to property and/or injury to persons which may arise out of the existence on the premises of unexploded ammunition or chemical/biological agents. It is mutually understood, however, that for a period of 25 years from the date hereof, the Government shall, upon request of the lessor, remove or destroy any potentially dangerous materials that may be discovered on the land, provided that adequate appropriations are available to cover the cost of such service. (If use of the land is restricted to surface use, the lessor should agree and convenant, in consideration of the payment, to use the land for such purposes only.)

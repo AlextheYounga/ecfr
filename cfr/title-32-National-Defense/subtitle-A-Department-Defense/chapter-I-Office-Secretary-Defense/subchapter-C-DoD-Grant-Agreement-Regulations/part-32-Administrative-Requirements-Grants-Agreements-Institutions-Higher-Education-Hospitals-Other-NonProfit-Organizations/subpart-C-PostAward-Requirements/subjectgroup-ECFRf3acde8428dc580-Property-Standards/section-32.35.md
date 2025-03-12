@@ -1,0 +1,5 @@
+##### § 32.35 Supplies. #####
+
+(a) Title to supplies shall vest in the recipient upon acquisition. If there is a residual inventory of unused supplies exceeding $5,000 in total aggregate value upon termination or completion of the project or program and the supplies are not needed for any other federally-sponsored project or program, the recipient shall retain the supplies for use on non-Federal sponsored activities or sell them, but shall, in either case, compensate the Federal Government for its share. The amount of compensation shall be computed in the same manner as for equipment.
+
+(b) The recipient shall not use supplies acquired with Federal funds to provide services to non-Federal outside organizations for a fee that is less than private companies charge for equivalent services, unless specifically authorized by Federal statute as long as the Federal Government retains an interest in the supplies.

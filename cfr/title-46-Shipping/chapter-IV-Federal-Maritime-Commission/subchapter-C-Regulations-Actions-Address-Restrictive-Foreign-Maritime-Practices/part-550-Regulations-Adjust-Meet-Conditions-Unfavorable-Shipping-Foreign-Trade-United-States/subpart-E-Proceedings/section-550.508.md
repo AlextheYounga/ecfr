@@ -1,0 +1,3 @@
+##### § 550.508 Publication, content, and effective date of regulation. #####
+
+The Commission shall incorporate in any regulations adopted under the rules of this part a concise statement of their basis and purpose. Regulations shall be published in the Federal Register. Except where conditions warrant and for good cause, regulations promulgated under the rules of this part shall not become effective until at least 30 days after the date of publication.

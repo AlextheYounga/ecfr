@@ -1,0 +1,3 @@
+##### § 845.5 Provision of bail in criminal cases. #####
+
+Funds for the posting of bail or bond to secure the release of personnel from confinement by foreign authorities before, during, or after trial may be furnished in all criminal cases. Safeguards should be imposed to assure that at the conclusion of the proceedings or on the appearance of the defendant in court, the bail or bond will be refunded to the military authorities. Bail will be provided only to guarantee the presence of the defendant and will not be provided to guarantee the payment of fines or civil damages. Local US military authorities are expected to provide bail, in any case, only after other reasonable efforts have been made to secure release of pretrial custody to the US.

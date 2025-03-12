@@ -1,0 +1,5 @@
+##### § 1500.4 Human experience with hazardous substances. #####
+
+(a) Reliable data on human experience with any substance should be taken into account in determining whether an article is a “hazardous substance” within the meaning of the act. When such data give reliable results different from results with animal data, the human experience takes precedence.
+
+(b) Experience may show that an article is more or less toxic, irritant, or corrosive to man than to test animals. It may show other factors that are important in determining the degree of hazard to humans represented by the substance. For example, experience shows that radiator antifreeze is likely to be stored in the household or garage and likely to be ingested in significant quantities by some persons. It also shows that a particular substance in liquid form is more likely to be ingested than the same substance in a paste or a solid and that an aerosol is more likely to get into the eyes and the nasal passages than a liquid.

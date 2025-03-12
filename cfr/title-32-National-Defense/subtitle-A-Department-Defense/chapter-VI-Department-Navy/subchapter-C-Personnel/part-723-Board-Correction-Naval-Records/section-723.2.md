@@ -1,0 +1,7 @@
+##### § 723.2 Establishment, function and jurisdiction of the Board. #####
+
+(a) *Establishment and composition.* Under 10 U.S.C. 1034 and 1552, the Board for Correction of Naval Records is established by the Secretary of the Navy. The Board consists of civilians of the executive part of the Department of the Navy in such number, not less than three, as may be appointed by the Secretary and who shall serve at the pleasure of the Secretary. Three members present shall constitute a quorum of the Board. The Secretary of the Navy will designate one member as Chair. In the absence or incapacity of the Chair, an Acting Chair chosen by the Executive Director shall act as Chair for all purposes.
+
+(b) *Function.* The Board is not an investigative body. Its function is to consider applications properly before it for the purpose of determining the existence of error or injustice in the naval records of current and former members of the Navy and Marine Corps, to make recommendations to the Secretary or to take corrective action on the Secretary's behalf when authorized.
+
+(c) *Jurisdiction.* The Board shall have jurisdiction to review and determine all matters properly brought before it, consistent with existing law.

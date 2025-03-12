@@ -1,0 +1,9 @@
+##### § 69.69 Tonnage certificates. #####
+
+(a) On request of the vessel owner, the authorized measurement organization must issue an International Tonnage Certificate (1969) as evidence of the vessel's measurement under this subpart for a vessel that is 24 meters (79.0 feet) or more in registered length, will engage on a foreign voyage, and is not a vessel of war. The Certificate is delivered to the vessel owner or master and must be maintained on board the vessel when it is engaged on a foreign voyage. For a vessel for which a remeasurement under § 69.71 resulted in a net tonnage ITC decrease due to changes other than alterations or modifications to the vessel deemed by the Commandant to be of a major character, an International Tonnage Certificate (1969) reflecting the decreased net tonnage ITC will not be reissued until 12 months have elapsed from the date of measurement indicated on the current certificate.
+
+(b) If an International Tonnage Certificate (1969) is not issued for a vessel measured under this part, the measurement organization must issue a U.S. Tonnage Certificate as evidence of the vessel's measurement under this subpart, which must also indicate the vessel's measurement under any other subpart of this part. There is no requirement to maintain the U.S. Tonnage Certificate on board the vessel.
+
+(c) For a vessel that transfers flag to a foreign country that is party to the Convention, the International Tonnage Certificate (1969) remains valid for a period not to exceed 3 months after the flag transfer, or until an International Tonnage Certificate (1969) is issued under authority of the foreign country to replace it, whichever is earlier.
+
+[USCG-2011-0522, 81 FR 18722, Mar. 31, 2016]

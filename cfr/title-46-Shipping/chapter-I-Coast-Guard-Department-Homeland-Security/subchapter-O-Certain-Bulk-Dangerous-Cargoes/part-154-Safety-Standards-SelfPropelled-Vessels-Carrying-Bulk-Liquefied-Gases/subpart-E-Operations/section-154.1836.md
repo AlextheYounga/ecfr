@@ -1,0 +1,3 @@
+##### § 154.1836 Vapor venting as a means of cargo tank pressure and temperature control. #####
+
+When the vessel is on the navigable waters of the United States, the master shall ensure that the cargo pressure and temperature control system under §§ 154.701 through 154.709 is operating and that venting of cargo is unnecessary to maintain cargo temperature and pressure control, except under emergency conditions.

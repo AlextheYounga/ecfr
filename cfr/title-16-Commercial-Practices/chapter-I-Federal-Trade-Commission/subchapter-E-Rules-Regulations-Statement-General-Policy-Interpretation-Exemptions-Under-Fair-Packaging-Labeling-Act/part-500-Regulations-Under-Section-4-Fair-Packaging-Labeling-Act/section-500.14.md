@@ -1,0 +1,3 @@
+##### § 500.14 Statements of cubic measure and dry measure. #####
+
+Statements of cubic measure and dry measure shall be expressed in terms most appropriate to the providing of accurate information as to the net quantity of contents, and to the facilitating of value comparisons by consumers. When the content declaration on a commodity sold in compressed form is stated in terms of cubic measure there may also be a statement indicating the amount of material from which the final product was compressed. Such statement shall not exceed the actual amount of material that can be recovered.

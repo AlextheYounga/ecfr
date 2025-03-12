@@ -1,0 +1,15 @@
+##### § 3.35 Interrogatories to parties. #####
+
+(a) *Availability; procedures for use.* (1) Any party may serve upon any other party written interrogatories, not exceeding 25 in number, including all discrete subparts, to be answered by the party served or, if the party served is a public or private corporation, partnership, association or governmental agency, by any officer or agent, who shall furnish such information as is available to the party. For this purpose, information shall not be deemed to be available insofar as it is in the possession of the Commissioners, the General Counsel, the office of Administrative Law Judges, or the Secretary in his or her capacity as custodian or recorder of any such information, or their respective staffs.
+
+(2) Each interrogatory shall be answered separately and fully in writing under oath, unless it is objected to on grounds not raised and ruled on in connection with the authorization, in which event the reasons for objection shall be stated in lieu of an answer. The answers are to be signed by the person making them, and the objections signed by the attorney making them. The party upon whom the interrogatories have been served shall serve a copy of the answers, and objections, if any, within 30 days after the service of the interrogatories. The Administrative Law Judge may allow a shorter or longer time.
+
+(3) Except as provided in § 3.31(h), interrogatories shall not be filed with the Office of the Secretary, the Administrative Law Judge, or otherwise provided to the Commission.
+
+(b) *Scope; use at hearing.* (1) Interrogatories may relate to any matters that can be inquired into under § 3.31(c)(1), and the answers may be used to the extent permitted by the rules of evidence.
+
+(2) An interrogatory otherwise proper is not necessarily objectionable merely because an answer to the interrogatory involves an opinion or contention that relates to fact or the application of law to fact, but such an interrogatory need not be answered until after designated discovery has been completed, but in no case later than 3 days before the final prehearing conference.
+
+(c) *Option to produce records.* Where the answer to an interrogatory may be derived or ascertained from the records of the party upon whom the interrogatory has been served or from an examination, audit, or inspection of such records, or from a compilation, abstract, or summary based thereon, and the burden of deriving or ascertaining the answer is substantially the same for the party serving the interrogatory as for the party served, it is a sufficient answer to such interrogatory to specify the records from which the answer may be derived or ascertained and to afford to the party serving the interrogatory reasonable opportunity to examine, audit or inspect such records and to make copies, compilations, abstracts or summaries. The specification shall include sufficient detail to permit the interrogating party to identify readily the individual documents from which the answer may be ascertained.
+
+[74 FR 1828, Jan. 13, 2009, as amended at 80 FR 15162, Mar. 23, 2015]

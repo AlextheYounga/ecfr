@@ -1,0 +1,9 @@
+##### § 555.6 Information demands and subpoenas. #####
+
+(a) In furtherance of this part, the Commission may, by order, require any person (including any common carrier, shipper, shipper's association, ocean freight forwarder, or marine terminal operator, or any officer, receiver, trustee, lessee, agent or employee thereof) to file with the Commission any periodic or special report, answers to questions, documentary material, or other information which the Commission considers necessary or appropriate, and in the form and within the time prescribed by the Commission. Responses to such orders may be required by the Commission to be made under oath.
+
+(b) The Commission may issue subpoenas to compel the attendance and testimony of witnesses and the production of records or other evidence as it deems necessary and appropriate in conducting an investigation under § 555.5 of this part.
+
+(c) The Commission may, in its discretion, determine that any information submitted to it in response to a request (including a subpoena) under this section, or accompanying a petition under § 555.4, or voluntarily submitted by any person pursuant to § 555.5(c), shall not be disclosed to the public. To this end, persons submitting information for consideration in a proceeding or investigation under this part may indicate in writing any factors they wish the Commission to consider relevant to a decision on confidentiality under this section; however, such information will be advisory only, and the actual determination will be made by the Commission. In the event that a request for confidentiality is not accommodated, the person making the request will be so advised before any disclosure occurs.
+
+[54 FR 11533, Mar. 21, 1989. Redesignated at 64 FR 8010, Feb. 18, 1999, and amended at 67 FR 39862, June 11, 2002]

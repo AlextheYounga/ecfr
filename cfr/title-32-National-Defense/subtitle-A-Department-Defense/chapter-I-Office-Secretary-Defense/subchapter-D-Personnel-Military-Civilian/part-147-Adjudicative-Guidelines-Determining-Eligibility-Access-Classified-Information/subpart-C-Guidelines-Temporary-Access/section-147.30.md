@@ -1,0 +1,3 @@
+##### § 147.30 Temporary eligibility for access at the confidential and secret levels and temporary eligibility for “L” access authorization. #####
+
+As a minimum, such temporary eligibility requires completion of the Standard Form 86, including any applicable supporting documentation, favorable review of the form by the appropriate adjudicating authority, and submission of a request for an expedited National Agency Check with Local Agency Checks and Credit (NACLC).

@@ -1,0 +1,5 @@
+##### § 183.2 Applicability and scope. #####
+
+(a) Applies to the Office of the Secretary of Defense (OSD), the Military Departments, the Office of the Chairman of the Joint Chiefs of Staff (CJCS) and the Joint Staff, the Combatant Commands, the Office of the Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, National Guard personnel providing support of special events in title 32, U.S.C., status, and all other organizational entities in DoD (hereinafter referred to collectively as the “DoD Components”).
+
+(b) Does not apply to installation commanders or Heads of DoD Components providing localized support to a special event solely under the auspices of community relations, public outreach, or recruitment efforts pursuant to DoDD 5410.18 (see *http://www.dtic.mil/whs/directives/corres/pdf/541018p.pdf)* and DoD Instruction (DoDI) 5410.19 (see *http://www.dtic.mil/whs/directives/corres/pdf/541019p.pdf)* or other similar authority.

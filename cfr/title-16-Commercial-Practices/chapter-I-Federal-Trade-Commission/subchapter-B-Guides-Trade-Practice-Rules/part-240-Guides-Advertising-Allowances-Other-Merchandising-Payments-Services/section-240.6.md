@@ -1,0 +1,3 @@
+##### § 240.6 Interstate commerce. #####
+
+The term “interstate commerce” has not been precisely defined in the statute. In general, if there is any part of a business which is not wholly within one state (for example, sales or deliveries of products, their subsequent distribution or purchase, or delivery of supplies or raw materials), the business may be subject to sections 2(d) and 2(e) of the Act. (The commerce standard for sections 2(d) and (e) is at least as inclusive as the commerce standard for section 2(a).) Sales or promotional offers within the District of Columbia and most United States possessions are also covered by the Act.

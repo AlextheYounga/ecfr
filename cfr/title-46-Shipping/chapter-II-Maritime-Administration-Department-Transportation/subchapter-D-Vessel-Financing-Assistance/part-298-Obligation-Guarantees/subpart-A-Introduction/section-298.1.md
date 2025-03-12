@@ -1,0 +1,3 @@
+##### § 298.1 Purpose. #####
+
+This part prescribes regulations implementing Title XI of the Merchant Marine Act, 1936, as amended, governing Federal ship financing assistance (46 App. U.S.C. 1271 *et seq.*). This part uses “you” and “we” throughout. You and your refer to the applicant for Title XI financing assistance unless we note or imply otherwise. We, us, and our refer to the Maritime Administration, the Secretary of the Maritime Administration, or the Secretary of Transportation, as applicable.

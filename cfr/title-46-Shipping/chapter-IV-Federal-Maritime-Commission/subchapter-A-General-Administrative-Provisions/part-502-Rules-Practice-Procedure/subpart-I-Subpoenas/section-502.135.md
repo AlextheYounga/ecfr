@@ -1,0 +1,9 @@
+##### § 502.135 Subpoena of Commission staff personnel, documents or things. #####
+
+(a) A subpoena for the attendance of Commission staff personnel or for the production of documentary materials in the possession of the Commission shall be served upon the Secretary. If the subpoena is returnable at hearing, a motion to quash may be filed within seven (7) days of service and attendance shall not be required until the presiding officer rules on said motion. If the subpoena is served in connection with prehearing depositions, the procedure to be followed with respect to motions to quash and replies thereto will correspond to the procedures established with respect to motions and replies in § 502.132(c).
+
+(b) The General Counsel shall designate an attorney to represent any Commission staff personnel subpoenaed under this section. The attorney so designated shall not thereafter participate in the Commission's decision-making process concerning any issue in the proceeding.
+
+(c) Rulings of the presiding officer issued under § 502.135(a) shall become final rulings of the Commission unless an appeal is filed within ten (10) days after date of issuance of such rulings or unless the Commission, on its own motion, reverses, modifies, or stays such rulings within twenty (20) days of their issuance. Replies to appeals may be filed within ten (10) days. No ruling of the presiding officer shall be effective until twenty (20) days from date of issuance unless the Commission otherwise directs. [Rule 135.]
+
+[49 FR 44369, Nov. 6, 1984, as amended at 76 FR 10262, Feb. 24, 2011; 80 FR 57307, Sept. 23, 2015]

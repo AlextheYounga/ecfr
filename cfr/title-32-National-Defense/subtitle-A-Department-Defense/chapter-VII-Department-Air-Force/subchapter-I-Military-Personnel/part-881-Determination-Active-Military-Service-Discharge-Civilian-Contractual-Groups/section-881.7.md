@@ -1,0 +1,3 @@
+##### § 881.7 Discharge upgrade. #####
+
+If you are approved for a General Discharge, you may apply to the Air Force Discharge Review Board for discharge upgrade under AFI 36-3201, *Air Force Discharge Review Board* (formerly AFR 20-10) or to the Air Force Board for Correction of Military Records under AFI 36-2603, *Air Force Board for Correction of Military Records* (formerly AFR 31-3). SAF/MIBR provides copies of these instructions and application forms to individuals who received a General Discharge.

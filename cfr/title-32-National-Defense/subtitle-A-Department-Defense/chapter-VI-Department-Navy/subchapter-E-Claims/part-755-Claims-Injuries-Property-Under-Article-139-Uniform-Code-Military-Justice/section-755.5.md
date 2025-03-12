@@ -1,0 +1,9 @@
+##### § 755.5 Complaint by the injured party and investigation. #####
+
+(a) A claim shall contain a statement setting forth the amount of the claim, the facts and circumstances surrounding the claim and any other information that will assist in the investigation and resolution of the matter. When there is more than one complaint resulting from a single incident, each claimant must file a claim separately and individually. The claim shall be personally signed by the claimant or his duly authorized representative or agent.
+
+(b) Where the claim alleges misconduct by members of the command, a commanding officer to whom the claim is submitted shall convene an investigation under this Manual to inquire into the matter. Where a complaint is received by a commanding officer to whose command the alleged offenders do not report, he shall forward the claim and other pertinent information about the matter to the member's commanding officer who will convene an investigation into the incident. Where the command of the alleged offenders cannot be determined, the claim and supporting materials shall be forwarded to the Chief of Naval Personnel or the Commandant of the Marine Corps, as appropriate, for action.
+
+(c) The investigation shall inquire into the circumstances surrounding the claim, gather all relevant information about the matter (answering the who, what, where, when, why, and how questions) and make findings and opinions, as appropriate, about the validity of the claim under Article 139, UCMJ, and these regulations. The investigation shall determine the amount of damage suffered by the property owner.
+
+(d) The investigation shall make recommendations about the amount to be assessed against the pay of the responsible parties. If more than one person is found responsible, recommendations shall be made about the assessments against all individuals.

@@ -1,0 +1,5 @@
+##### § 727.9 Referrals to civilian lawyers. #####
+
+(a) *General.* If it is determined that the legal assistance requested is beyond the scope of this part, or if no available legal assistance officer is qualified to give the assistance requested, the client should be referred to a civilian lawyer. When the client does not know of a lawyer whom he wishes to represent him, his case may be referred to an appropriate bar organization, lawyer referral service, legal aid society, or other local organization for assistance in obtaining reliable, competent, and sympathetic counsel, or to a civilian lawyer designated by such organization.
+
+(b) *Fees charged by civilian lawyers.* Legal assistance clients being referred to a civilian lawyer should be advised that, even when the fee to be charged is set by statute or subject to court approval, it should be one of the first items discussed to avoid later misunderstandings and eliminate uncertainty. Legal assistance officers should exercise caution in discussing possible fees to be charged by civilian lawyers so as to avoid embarrassment or misunderstanding between the client and his civilian lawyer.

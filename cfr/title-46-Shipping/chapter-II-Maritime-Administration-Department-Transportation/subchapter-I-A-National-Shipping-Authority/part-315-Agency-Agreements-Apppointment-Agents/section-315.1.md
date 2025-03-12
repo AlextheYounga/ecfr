@@ -1,0 +1,3 @@
+##### § 315.1 Purpose. #####
+
+This part summarizes the procedures governing the award and administration of Agency Agreements in the form of Service Agreements and Ship Manager Contracts entered into between the United States of America, acting by and through the Director, National Shipping Authority (NSA) of the Maritime Administration (MARAD), Department of Transportation, and Agents which will manage or otherwise conduct the business of one or more vessels owned, controlled or time-chartered by the United States, which vessel(s) may be assigned to Agents from time to time pursuant to the specific provisions of a Service Agreement or Ship Manager Contract.

@@ -1,0 +1,5 @@
+##### § 705.9 Availability of motion pictures to external audiences. #####
+
+(a) *Public access.* Navy and Marine Corps general motion pictures and motion picture projects not previously cleared for public exhibition will require clearance by the Chief of Information or the Marine Corps Director of Information, as appropriate, prior to public viewing. Concurrent review of legal rights and instruments associated with the production will be carried out by Patent Counsel, Naval Air Systems Command (AIR-OOP). Cleared motion pictures may also be made available for free loan as determined by the individual services. In addition, cleared motion pictures may be provided for rent or sale through the National Audio-Visual Center, National Archives and Records Service (GSA), Washington, DC 20409.
+
+(b) *Foreign military training.* Motion pictures from the Navy inventory may be made available for foreign military training programs on approval by the Chief of Naval Operations. Classified motion pictures selected for such use will also require a security review by the Chief of Naval Operations.

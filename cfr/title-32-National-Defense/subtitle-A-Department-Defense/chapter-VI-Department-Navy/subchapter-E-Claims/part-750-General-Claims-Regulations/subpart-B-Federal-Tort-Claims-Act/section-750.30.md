@@ -1,0 +1,3 @@
+##### § 750.30 Denial of the claim. #####
+
+Final denial of an administrative claim shall be in writing and shall be sent to the claimant, his duly authorized agent or legal representative by certified or registered mail, with return receipt requested. The notification of final denial shall include the reasons for the denial. The notification shall include a statement informing the claimant of his right to file suit in the appropriate Federal district court not later than 6 months after the date of the mailing of the notification. 28 CFR 14.9(a).

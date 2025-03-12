@@ -1,0 +1,3 @@
+##### § 201.142 Further evidence required by presiding officer during hearing. #####
+
+At any time during the hearing the presiding officer may call for the production of further relevant and material evidence, reports, studies, and analyses upon any issue, and require such evidence, where available, to be presented by the party or parties concerned, either at the hearing or adjournment thereof in accordance with § 201.132(b). Such material shall be received subject to appropriate motions, cross-examination and/or rebuttal. If a witness refuses to testify or produce the evidence as requested, the presiding officer shall report such refusal to the Administration forthwith.

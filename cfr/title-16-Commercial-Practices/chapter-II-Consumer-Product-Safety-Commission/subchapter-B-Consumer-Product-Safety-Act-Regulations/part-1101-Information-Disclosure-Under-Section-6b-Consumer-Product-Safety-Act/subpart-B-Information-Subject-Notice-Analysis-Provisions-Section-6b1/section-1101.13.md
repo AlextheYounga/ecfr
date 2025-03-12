@@ -1,0 +1,3 @@
+##### § 1101.13 Public ability to ascertain readily identity of manufacturer or private labeler. #####
+
+The advance notice and analysis provisions of section 6(b)(1) apply only when a reasonable person receiving the information in the form in which it is to be disclosed and lacking specialized expertise can readily ascertain from the information itself the identity of the manufacturer or private labeler of a particular product. The Commission will provide the advance notice and opportunity to comment if there is a question whether the public could readily ascertain the identity of a manufacturer or private labeler.

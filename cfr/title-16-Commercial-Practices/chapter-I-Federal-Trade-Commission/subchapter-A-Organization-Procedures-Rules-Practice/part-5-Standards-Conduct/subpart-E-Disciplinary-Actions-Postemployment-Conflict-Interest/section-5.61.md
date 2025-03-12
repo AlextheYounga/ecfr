@@ -1,0 +1,3 @@
+##### § 5.61 Prehearing procedures; motions; interlocutory appeals; summary decision; discovery; compulsory process. #####
+
+Because of the nature of the issues involved in proceedings under this part, the Commission anticipates that extensive motions, prehearing proceedings and discovery will not be required in most cases. For this reason, detailed procedures will not be established under this part. However, to the extent deemed warranted by the presiding official, prehearing conferences, motions, interlocutory appeals, summary decisions, discovery and compulsory process shall be permitted and shall be governed, where appropriate, by the provisions set forth in subparts C and D, part 3, of the Commission's Rules of Practice.

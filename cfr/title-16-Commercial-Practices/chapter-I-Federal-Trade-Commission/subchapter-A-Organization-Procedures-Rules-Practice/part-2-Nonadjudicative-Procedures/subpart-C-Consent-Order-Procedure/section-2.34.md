@@ -1,0 +1,15 @@
+##### § 2.34 Disposition. #####
+
+(a) *Acceptance of proposed consent agreement.* The Commission may accept or refuse to accept a proposed consent agreement. Except as otherwise provided in paragraph (c) of this section, acceptance does not constitute final approval, but it serves as the basis for further actions leading to final disposition of the matter.
+
+(b) *Effectiveness of hold-separate or asset-maintenance order.* Following acceptance of a consent agreement, the Commission will, if it deems a hold-separate or asset-maintenance order appropriate, issue a complaint and such an order as agreed to by the parties. Such order will be final upon service. The issuance of a complaint under this paragraph will neither commence an adjudicatory proceeding subject to part 3 of this chapter nor subject the consent agreement proceeding to the prohibitions specified in § 4.7 of this chapter.
+
+(c) *Public comment.* Promptly after its acceptance of the consent agreement, the Commission will place the order contained in the consent agreement, the complaint, and the consent agreement on the public record for a period of 30 days, or such other period as the Commission may specify, for the receipt of comments or views from any interested person. At the same time, the Commission will place on the public record an explanation of the provisions of the order and the relief to be obtained thereby and any other information that it believes may help interested persons understand the order. The Commission also will publish the explanation in the Federal Register. The Commission retains the discretion to issue a complaint and a Final Decision and Order, incorporating the order contained in a consent agreement, in appropriate cases before seeking public comment. Unless directed otherwise by the Commission, such Decision and Order will be final upon service.
+
+(d) *Comment on initial compliance report.* If respondents have filed an initial report of compliance pursuant to § 2.33, the Commission will place that report on the public record, except for portions, if any, granted confidential treatment pursuant to § 4.9(c) of this chapter, with the complaint, the order, and the consent agreement.
+
+(e) *Action following comment period.* (1) Following the comment period, on the basis of comments received or otherwise, the Commission may either withdraw its acceptance of the agreement and so notify respondents, in which event it will take such other action as it may consider appropriate, or issue and serve its complaint in such form as the circumstances may require and its decision in disposition of the proceeding.
+
+(2) The Commission, following the comment period, may determine, on the basis of the comments or otherwise, that a Final Decision and Order that was issued in advance of the comment period should be modified. Absent agreement by respondents to the modifications, the Commission may initiate a proceeding to reopen and modify the decision and order in accordance with § 3.72(b) of this chapter or commence a new administrative proceeding by issuing a complaint in accordance with § 3.11 of this chapter.
+
+[64 FR 46269, Aug. 25, 1999]

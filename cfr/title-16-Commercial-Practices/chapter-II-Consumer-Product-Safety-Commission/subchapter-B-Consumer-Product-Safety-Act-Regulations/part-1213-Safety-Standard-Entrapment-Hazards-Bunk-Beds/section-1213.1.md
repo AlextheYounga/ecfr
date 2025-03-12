@@ -1,0 +1,5 @@
+##### § 1213.1 Scope, application, and effective date. #####
+
+(a) *Scope, basis, and purpose.* This part 1213, a consumer product safety standard, prescribes requirements for bunk beds to reduce or eliminate the risk that children will die or be injured from being trapped between the upper bunk and the wall, in openings below guardrails, or in other structures in the bed.
+
+(b) *Application and effective date.* The standard in this part applies to all bunk beds, except those manufactured only for institutional use, that are manufactured in the United States, or imported, on or after June 19, 2000. (Facilities intended for use by children under age 6 are not considered to be institutions.) Bunk beds intended for use by children are subject to the requirements in 16 CFR 1500.18(a)(18) and 16 CFR part 1513, and not to this part 1213. However, those regulations are substantively identical to the requirements in this part 1213.

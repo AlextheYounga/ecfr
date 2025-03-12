@@ -1,0 +1,3 @@
+##### § 2003.7 Support Staff (Article VII). #####
+
+The staff of the Information Security Oversight Office (ISOO), National Archives and Records Administration, provides program and administrative support for the Panel. The Executive Secretary supervises the staff in this function pursuant to the direction of the Chair and ISCAP. On an as-needed basis, the Panel may seek detailees from agencies to augment the ISOO staff in support of the ISCAP. All staff must meet security access criteria in order to fulfill the Panel's functions.

@@ -1,0 +1,5 @@
+##### § 17.100 Purpose and effective date. #####
+
+(a) The purpose of these Title IX regulations is to effectuate Title IX of the Education Amendments of 1972, as amended (except sections 904 and 906 of those Amendments) (20 U.S.C. 1681, 1682, 1683, 1685, 1686, 1687, 1688), which is designed to eliminate (with certain exceptions) discrimination on the basis of sex in any education program or activity receiving Federal financial assistance, whether or not such program or activity is offered or sponsored by an educational institution as defined in these Title IX regulations. The effective date of these Title IX regulations shall be March 6, 2003.
+
+(b) The provisions established by this part shall be effective for all components of the Department, including all Department components that are transferred to the Department, except to the extent that a Department component already has existing Title IX regulations.

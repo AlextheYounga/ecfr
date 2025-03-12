@@ -1,0 +1,3 @@
+##### § 308.100 Insured amount. #####
+
+An applicant for war risk hull insurance shall state the amount of insurance desired but any payment of claim for damage to or actual or constructive total loss of the vessel insured shall be made as provided in § 308.103(a). An applicant desiring disbursements insurance may at his option obtain such additional insurance but any claim for loss of disbursements as a consequence of the actual or constructive total loss of the vessel insured shall be made as provided in § 308.103(c).

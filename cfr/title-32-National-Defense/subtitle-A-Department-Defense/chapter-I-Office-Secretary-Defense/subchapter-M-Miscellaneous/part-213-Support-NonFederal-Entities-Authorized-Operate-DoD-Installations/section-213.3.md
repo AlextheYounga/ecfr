@@ -1,0 +1,3 @@
+##### § 213.3 Definition. #####
+
+*Non-federal entities.* A non-Federal entity is generally a self-sustaining, non-Federal person or organization, established, operated, and controlled by any individual(s) acting outside the scope of any official capacity as officers, employees, or agents of the Federal Government. This Directive addresses only those entities that may operate on DoD installations with the express consent of the installation commander or higher authority under applicable regulations. Non-Federal entities may include elements of state, interstate, Indian tribal, and local government, as well as private organizations.

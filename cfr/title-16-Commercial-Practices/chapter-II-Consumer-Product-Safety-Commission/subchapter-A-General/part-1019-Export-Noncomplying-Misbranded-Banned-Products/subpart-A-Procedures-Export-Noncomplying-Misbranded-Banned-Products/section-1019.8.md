@@ -1,0 +1,3 @@
+##### § 1019.8 Confidentiality. #####
+
+If the exporter believes any of the information submitted should be considered trade secret or confidential commercial or financial information, the exporter must request confidential treatment, in writing, at the time the information is submitted or must indicate that a request will be made within 10 working days. The Commission's regulations under the Freedom of Information Act, 16 CFR part 1015, govern confidential treatment of information submitted to the Commission.

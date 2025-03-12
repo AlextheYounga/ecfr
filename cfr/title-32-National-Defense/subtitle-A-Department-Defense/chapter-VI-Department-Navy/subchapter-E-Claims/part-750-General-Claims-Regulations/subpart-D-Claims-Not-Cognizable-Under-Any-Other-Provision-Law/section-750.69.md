@@ -1,0 +1,3 @@
+##### § 750.69 Measure of damages. #####
+
+Generally, the measure-of-damage provisions under the MCA are used to determine the extent of recovery for nonscope claims. Compensation is computed in accordance with §§ 750.47 and 750.48 of subpart C, except damages for personal injury or death under this section shall not be for more than the cost of reasonable medical, hospital, and burial expenses actually incurred and not otherwise furnished or paid for by the United States.

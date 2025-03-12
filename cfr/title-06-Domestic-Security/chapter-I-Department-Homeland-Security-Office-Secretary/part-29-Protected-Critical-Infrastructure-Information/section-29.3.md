@@ -1,0 +1,5 @@
+##### § 29.3 Effect of provisions. #####
+
+(a) *Freedom of Information Act disclosure exemptions.* Information that is separately exempt from public disclosure under the Freedom of Information Act or applicable State, local, or tribal law does not lose its separate exemption from public disclosure due to the applicability of these procedures or any failure to follow them.
+
+(b) *Restriction on use of PCII by regulatory and other Federal, State, and Local agencies.* A Federal, State or local agency that receives PCII may utilize the PCII only for purposes appropriate under the CII Act, including securing critical infrastructure or protected systems. Such PCII may not be utilized for any other collateral regulatory purposes without the written consent of the PCII Program Manager and of the submitting person or entity. The PCII Program Manager or the PCII Program Manager's designee shall not share PCII with Federal, State or local government agencies without instituting appropriate measures to ensure that PCII is used only for appropriate purposes.

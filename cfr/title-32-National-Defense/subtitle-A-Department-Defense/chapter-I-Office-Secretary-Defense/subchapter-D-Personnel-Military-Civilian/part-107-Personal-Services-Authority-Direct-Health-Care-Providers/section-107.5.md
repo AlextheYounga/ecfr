@@ -1,0 +1,9 @@
+##### § 107.5 Procedures. #####
+
+(a) Each contract under 10 U.S.C. 1091 with an individual or with an entity, such as a professional corporation or partnership, for the personal services of an individual must contain language specifically acknowledging the individual as a personal services contractor whose performance is subject to supervision and direction by designated officials of the Department of Defense.
+
+(b) The appearance of an employer-employee relationship created by the DoD supervision of a personal services contractor will normally support a limited recognition of the contractor as equal in status to a DoD employee in disposing of personal injury claims arising out of the contractor's performance. Personal injury claims alleging negligence by the contractor within the scope of his or her contract performance, therefore, will be processed as claims alleging negligence by DoD military or civil service personnel.
+
+(c) Compensation for personal services contractors under 10 U.S.C. 1091 shall be within the limits established in the Table of Authorized Compensation Rates (see enclosure 1). Prorated compensation based upon hourly, daily, or weekly rates may be awarded when a contractor's services are not required on a full-time basis. In all cases, however, a contractor may be compensated only for periods of time actually devoted to the delivery of services required by the contract.
+
+(d) Contracts for personal services entered into shall be awarded and administered pursuant to the provisions of the Federal Acquisition Regulation (FAR), part 37 and DoD and departmental supplementary contracting provisions.

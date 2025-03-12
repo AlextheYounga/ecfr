@@ -1,0 +1,3 @@
+##### § 1210.1 Scope, application, and effective date. #####
+
+This part 1210, a consumer product safety standard, prescribes requirements for disposable and novelty lighters. These requirements are intended to make the lighters subject to the standard's provisions resistant to successful operation by children younger than 5 years of age. This standard applies to all disposable and novelty lighters, as defined in § 1210.2, that are manufactured or imported after July 12, 1994.

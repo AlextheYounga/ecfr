@@ -1,0 +1,3 @@
+##### § 202.13 Technical assistance for public participation. #####
+
+Community members of a RAB or TRC may request technical assistance for interpreting scientific and engineering issues with regard to the nature of environmental hazards at the installation and environmental restoration activities conducted, or proposed to be conducted, at the installation in accordance with 10 U.S.C. 2705(e) and the TAPP regulations located in 32 CFR Part 203.

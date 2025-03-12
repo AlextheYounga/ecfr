@@ -1,0 +1,47 @@
+##### § 199.16 Supplemental Health Care Program for active duty members. #####
+
+(a) *Purpose and applicability.* (1) The purpose of this section is to implement, with respect to health care services provided under the supplemental health care program for active duty members of the uniformed services, the provision of 10 U.S.C. 1074(c). This section of law authorizes DoD to establish for the supplemental care program the same payment rules, subject to appropriate modifications, as apply under CHAMPUS.
+
+(2) This section applies to the program, known as the supplemental care program, which provides for the payment by the uniformed services to private sector health care providers for health care services provided to active duty members of the uniformed services. Although not part of CHAMPUS, the supplemental care program is similar to CHAMPUS in that it is a program for the uniformed services to purchase civilian health care services for active duty members. For this reason, the Director, OCHAMPUS assists the uniformed services in the administration of the supplemental care program.
+
+(3) This section applies to all health care services covered by the CHAMPUS. For purposes of this section, health care services ordered by a military treatment facility (MTF) provider for an MTF patient (who is not an active duty member) for whom the MTF provider maintains responsibility are also covered by the supplemental care program and subject to the requirements of this section.
+
+(b) *Obligation of providers concerning payment for supplemental health care for active duty members*—(1) *Hospitals covered by DRG-based payment system.* For a hospital covered by the CHAMPUS DRG-based payment system to maintain its status as an authorized provider for CHAMPUS pursuant to § 199.6, that hospital must also be a participating provider for purposes of the supplemental care program. As a participating provider, each hospital must accept the DRG-based payment system amount determined pursuant to § 199.14 as payment in full for the hospital services covered by the system. The failure of any hospital to comply with this obligation subjects that hospital to exclusion as a CHAMPUS-authorized provider.
+
+(2) *Other participating providers.* For any institutional or individual provider, other than those described in paragraph (b)(1) of this section that is a participating provider, the provider must also be a participating provider for purposes of the supplemental care program. The provider must accept the CHAMPUS allowable amount determined pursuant to § 199.14 as payment in full for the hospital services covered by the system. The failure of any provider to comply with this obligation subjects the provider to exclusion as a participating provider.
+
+(c) *General rule for payment and administration.* Subject to the special rules and procedures in paragraph (d) of this section and the waiver authority in paragraph (e) of this section, as a general rule the provisions of § 199.14 shall govern payment and administration of claims under the supplemental care program as they do claims under CHAMPUS. To the extent necessary to interpret or implement the provisions of § 199.14, related provisions of this part shall also be applicable.
+
+(d) *Special rules and procedure.* As exceptions to the general rule in paragraph (c) of this section, the special rules and procedures in this section shall govern payment and administration of claims under the supplemental care program. These special rules and procedures are subject to the TRICARE Prime Remote program for active duty service members set forth in paragraph (e) of this section and the waiver authority of paragraph (f) of this section.
+
+(1) There is no patient cost sharing under the supplemental care program. All amounts due to be paid to the provider shall be paid by the program.
+
+(2) Preauthorization by the Uniformed Services of each service is required for the supplemental care program except for services in cases of medical emergency (for which the definition in Sec. 199.2 shall apply) or in cases governed by the TRICARE Prime Remote program for active duty service members set forth in paragraph (e) of this section. It is the responsibility of the active duty members to obtain preauthorization for each service. With respect to each emergency inpatient admission, after such time as the emergency condition is addressed, authorization for any proposed continued stay must be obtained within two working days of admission.
+
+(3) With respect to the filing of claims and similar administrative matters for which this part refers to activities of the CHAMPUS fiscal intermediaries, for purposes of the supplemental care program, responsibilities for claims processing, payment and some other administrative matters may be assigned by the Director, OCHAMPUS to the same fiscal intermediaries, other contractor, or to the nearest military medical treatment facility or medical claims office.
+
+(4) The annual cost pass-throughs for capital and direct medical education costs that are available under the CHAMPUS DRG-based payment system are also available, upon request, under the supplemental care program. To obtain payment include the number of active duty bed days as a separate line item on the annual request to the CHAMPUS fiscal intermediaries.
+
+(5) For providers other than participating providers, the Director, OCHAMPUS may authorize payment in excess of CHAMPUS allowable amounts. No provider may bill an active duty member any amount in excess of the CHAMPUS allowable amount.
+
+(e) *TRICARE Prime Remote for Active Duty Members*—(1) *General.* The TRICARE Prime Remote (TPR) program is available for certain active duty members of the Uniformed Services assigned to remote locations in the United States and the District of Columbia who are entitled to coverage of medical care, and the standards for timely access to such care, outside a military treatment facility that are comparable to coverage for medical care and standards for timely access to such care as exist under TRICARE Prime under § 199.17. Those active duty members who are eligible under the provisions of 10 U.S.C. 1074(c)(3) and who enroll in the TRICARE Prime Remote program, may not be required to receive routine primary medical care at a military medical treatment facility.
+
+(2) *Eligibility.* To receive health care services under the TRICARE Prime Remote program, an individual must be an active duty member of the Uniformed Services on orders for more than thirty consecutive days who meet the following requirements:
+
+(i) Has a permanent duty assignment that is greater than fifty miles or approximately one hour drive from a military treatment facility or military clinic designated as adequate to provide the needed primary care services to the active duty service member; and
+
+(ii) Pursuant to the assignment of such duty, resides at a location that is greater than fifty miles or approximately one hour from a military medical treatment facility or military clinic designated as adequate to provide the needed primary care services to the active duty service member.
+
+(3) *Enrollment.* An active duty service member eligible for the TRICARE Prime Remote program must enroll in the program. If an eligible active duty member does not enroll in the TRICARE Prime Remote program, the member shall receive health care services provide under the supplemental health program subject to all requirements of this section without application of the provisions of paragraph (e) of this section.
+
+(4) *Preauthorization.* If a TRICARE Prime network under § 199.17 exists in the remote location, the TRICARE Prime Remote enrolled active duty member will select or be assigned a primary care manager. In the absence of a TRICARE primary care manager in the remote location and if the active duty member is not assigned to a military primary care manager based on fitness for duty requirements, the TRICARE Prime Remote enrolled active duty member may use a local TRICARE authorized provider for primary health care services without preauthorization. Any referral for specialty care will require the TRICARE Prime Remote enrolled active duty member to obtain preauthorization for such services.
+
+(f) *Waiver authority.* With the exception of statutory requirements, any restrictions or limitations pursuant to the general rule in paragraph (c) of this section, and special rules and procedures in paragraph (d) of this section, may be waived by the Director, OCHAMPUS, at the request of an authorized official of the uniformed service concerned, based on a determination that such waiver is necessary to assure adequate availability of health care services to active duty members.
+
+(g) *Authorities.* (1) The Uniformed Services may establish additional procedures, consistent with this part, for the effective administration of the supplemental care program in their respective services.
+
+(2) The Assistant Secretary of Defense for Health Affairs is responsible for the overall policy direction of the supplemental care program and the administration of this part.
+
+(3) The Director, OCHAMPUS shall issue procedural requirements for the implementation of this section, including requirement for claims submission similar to those established by § 199.7.
+
+[56 FR 23801, May 24, 1991, as amended at 58 FR 58963, Nov. 5, 1993; 67 FR 5479, Feb. 6, 2002; 71 FR 50348, Aug. 25, 2006]

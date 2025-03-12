@@ -1,0 +1,23 @@
+##### § 536.143 Settlement authority of Foreign Claims Commissions. #####
+
+(a) In order to determine whether the claim will be considered by a one-member or three-member FCC, the claimed amount will be converted to the U.S. dollar equivalent (based on the annual Foreign Currency Fluctuation Account exchange rate, where applicable). However, the FCC's jurisdiction to approve is determined by the conversion rate on the date of final action. Accordingly, if the value of the U.S. dollar has decreased, the FCC will forward the recommendation to a higher authority, if necessary.
+
+(b) Payment will be made in the currency of the country in which the incident occurred or in which the claimant resided at the time of the incident, unless the claimant requests payment in U.S. dollars or another currency and such request is approved by the chief of a command claims service or the Commander USARCS. However, if the claimant resides in another foreign country at the time of payment, payment in an amount equivalent to that which would have been paid under the preceding sentence may be made in the currency of that third country without the approval of the Commander USARCS.
+
+(c) A one-member FCC may consider and pay claims presented in any amount provided a mutually agreed settlement may be reached in an amount not exceeding the FCC's monetary authority. A one-member FCC may deny any claim when the claimed amount does not exceed its monetary authority. Unless otherwise restricted by the appointing authority, a one-member FCC who is a JA or claims attorney has $15,000 monetary authority, while any other one-member commission has $5,000 monetary authority.
+
+(d) A three-member FCC, unless otherwise restricted by the appointing authority, may take the following actions on a claim that is properly before it:
+
+(1) *Disapprove a claim presented in any amount.* After following the procedures in § 536.140, including reconsideration, the disapproval is final and conclusive under 10 U.S.C. 2735. The FCC will inform the appointing authority of its action. After it takes final action and disapproves a claim presented in any amount over $50,000, the FCC will forward to the appointing authority the written notice to the claimant required by § 536.140(f), any response from the claimant, and its notice of final action on the claim.
+
+(2) *Approve and pay meritorious claims presented in any amount.* (i) Claims paid in full or in part for an amount not exceeding $50,000 will be paid after any reconsideration as set forth in § 536.140. This action is final and conclusive under 10 U.S.C. 2735.
+
+(ii) Claims valued at an amount exceeding $50,000, or multiple claims arising from the same incident valued at more than $100,000, will be forwarded through the appointing authority with a memorandum of opinion to the Commander USARCS for action; see DA Pam 27-162, paragraph 2-60. The memorandum of opinion will discuss the amount for which the claimant will settle and include the recommendation of the FCC.
+
+(e) The Judge Advocate General (TJAG), The Assistant Judge Advocate General (TAJAG) and the Commander USARCS, or his or her designee serving at USARCS, may approve and pay, in whole or in part, any claim as long as the amount of the award does not exceed $100,000; may disapprove any claim, regardless of either the amount claimed or the recommendation of the FCC forwarding the claim; or, if a claim is forwarded to USARCS for approval of payment in excess of $50,000, refer the claim back to the FCC or another FCC for further action.
+
+(f) Payments in excess of $100,000 will be approved by the Secretary of the Army, the Army General Counsel as the Secretary's designee, or other designee of the Secretary.
+
+(g) Following approval where required and receipt of an agreement by the claimant accepting the specific sum awarded by the FCC, the claim will be processed for payment in the appropriate currency. The first $100,000 of any award will be paid from Army claims funds. The excess will be reported to the Financial Management Service, Department of the Treasury, with the documents listed in DA Pam 27-162, paragraph 2-81.
+
+(h) If the settlement authority upholds a final offer or authorizes an award on appeal from a denial of a claim, the notice of the settlement authority's action will inform the claimant that he or she must accept the award within 180 days of the date of mailing of the notice of the settlement authority's action or the award will be withdrawn, the claim will be deemed denied, and the file will be closed without future recourse.

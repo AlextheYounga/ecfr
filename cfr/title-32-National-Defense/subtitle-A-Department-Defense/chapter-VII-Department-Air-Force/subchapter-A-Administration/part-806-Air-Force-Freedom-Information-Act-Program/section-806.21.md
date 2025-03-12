@@ -1,0 +1,15 @@
+##### § 806.21 Appeals. #####
+
+(a) FOIA requesters seeking Air Force records must address appeals to the Office of the Secretary of the Air Force, through the FOIA office of the IDA that denied the request. Requesters should attach a copy of the denial letter to their appeal and give reasons for appealing. Air Force IDAs may reconsider any prior denials and may grant all or part of a requester's appeal. When any appellate action sought by a FOIA requester is denied by an IDA, the IDA will include a statement that the issues raised in the appeal were considered and rejected (in full or in part) in any file sent to the Secretary of the Air Force in the course of a FOIA appeal action. Send all appeals to IDA decisions at the wing level through the MAJCOM FOIA office for sending to the Secretary of the Air Force's designated appellate authority, SAF/GCA (and Air Force Legal Services Agency (AFLSA/JACL)). (See §§ 806.4(g), 806.5(b), and § 806.5(k).) Additional steps are required prior to sending an appeal file.
+
+(1) MAJCOM FOIA offices and record OPRs are responsible for ensuring adequate preparation of the FOIA appeal package for reconsideration by the IDA. FOIA offices and records OPRs will coordinate with Air Force attorneys, who will provide written opinions on substantive issues raised in the appeal.
+
+(2) If a requester appeals an Air Force “no records” determination, Air Force elements must search again or verify the adequacy of their first search. The package must include documents that show the Air Force element systematically tried to find responsive records. Tell, for example, what areas or offices were searched and how the search was conducted - manually, by computer, by telephone, and so forth. In the event a requester sues the Air Force to contest a determination that no responsive records exist, formal affidavits are required to support the adequacy of any searches conducted.
+
+(3) FOIA requesters seeking to appeal denials involving Office of Personnel Management's controlled civilian personnel records must appeal to the Office of the General Counsel, Office of Personnel Management, 1900 E Street NW, Washington, DC 20415.
+
+(4) If a requester appeals a denial of a fee waiver, fee estimate, or fee reduction request, FOIA offices and record OPRs must account for actual and estimated costs of processing a request, and will include copies of the DD Forms 2086 or 2086-1 in the appeal package.
+
+(5) When any appellate action sought by a FOIA requester is denied by an IDA, prepare the FOIA appeal package as specified in § 806.29, and then the MAJCOM FOIA office forwards the appeal file to the Secretary of the Air Force's designated appellate authority, SAF/GCA (through AFLSA/JACL), for a final administrative determination.
+
+(b) Air Force activities will process appeal actions expeditiously to ensure they reach the Office of the Secretary of the Air Force in a timely manner.

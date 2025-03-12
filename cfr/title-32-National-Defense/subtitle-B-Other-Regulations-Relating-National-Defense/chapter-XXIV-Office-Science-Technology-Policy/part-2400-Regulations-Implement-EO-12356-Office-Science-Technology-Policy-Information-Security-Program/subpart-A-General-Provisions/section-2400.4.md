@@ -1,0 +1,3 @@
+##### § 2400.4 Atomic Energy Material. #####
+
+Nothing in this Regulation supersedes any requirement made by or under the Atomic Energy act of 1954, as amended. “Restricted Data” and information designated as “Formerly Restricted Data” shall be handled, protected, classified, downgraded, and declassified in conformity with the provisions of the Atomic Energy Act of 1954, as amended, and regulations issued pursuant thereto by the Department of Energy.

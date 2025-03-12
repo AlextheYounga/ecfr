@@ -1,0 +1,3 @@
+##### § 2400.19 Declassification by the Director of the Information Security Oversight Office. #####
+
+If the Director of the Information Security Oversight Office (ISOO) determines that information is classified in violation of Executive Order 12356, the Director, ISOO may require the information to be declassified by the agency that originated the classification. Any such decision by the Director ISOO may be appealed by the Director, OSTP to the National Security Council. The information shall remain classified, pending a prompt decision on the appeal.

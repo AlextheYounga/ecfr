@@ -1,0 +1,3 @@
+##### § 37.610 Must I tell participants what requirements they are to flow down for subrecipients' systems? #####
+
+If it is an expenditure-based award, your TIA must require participants to flow down the same financial management, property management, and purchasing systems requirements to a subrecipient that would apply if the subrecipient were a participant. For example, a for-profit participant would flow down to a university subrecipient the requirements that apply to a university participant. Note that this policy applies to subawards for substantive performance of portions of the research project supported by the TIA, and not to participants' purchases of goods or services needed to carry out the research.

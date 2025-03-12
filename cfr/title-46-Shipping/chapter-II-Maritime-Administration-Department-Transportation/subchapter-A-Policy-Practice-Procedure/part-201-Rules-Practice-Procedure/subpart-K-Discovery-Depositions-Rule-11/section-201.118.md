@@ -1,0 +1,3 @@
+##### § 201.118 Witness fees; expenses of taking depositions. #####
+
+Witnesses whose depositions are taken pursuant to the regulations in this part, and the officer taking such deposition, shall severally be entitled to the same fees and mileage as are paid in the courts of the United States. All expenses of taking such depositions shall be paid by the party at whose instance the deposition is taken.

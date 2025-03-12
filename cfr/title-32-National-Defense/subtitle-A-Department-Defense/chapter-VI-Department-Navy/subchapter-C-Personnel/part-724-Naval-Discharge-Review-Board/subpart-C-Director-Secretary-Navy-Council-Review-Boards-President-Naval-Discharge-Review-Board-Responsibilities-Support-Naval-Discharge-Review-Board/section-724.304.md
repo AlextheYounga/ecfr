@@ -1,0 +1,3 @@
+##### § 724.304 Responsibility for Department of the Navy support of the Naval Discharge Review Board. #####
+
+The Commandant of the Marine Corps; Commander, Naval Military Personnel Command; Commander, Naval Reserve Force; Commander, Naval Medical Command; and chiefs of other bureaus and offices of the Department of the Navy shall provide support, as requested, to the Naval discharge review process.

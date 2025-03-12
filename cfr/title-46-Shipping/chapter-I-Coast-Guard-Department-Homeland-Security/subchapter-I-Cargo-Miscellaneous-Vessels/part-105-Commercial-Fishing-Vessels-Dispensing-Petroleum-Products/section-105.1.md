@@ -1,0 +1,3 @@
+##### § 105.1 Purpose and applicability. #####
+
+This part implements 46 U.S.C. 3702(d), concerning the applicability to fish processing vessels of statutes relating to the carriage of liquid bulk dangerous cargoes. This part applies to each vessel of not more than 5,000 gross tons, the primary use of which is as a commercial fish processing vessel, and that incidental to its primary use, carries and dispenses limited quantities of flammable or combustible liquid cargo in bulk. Certain provisions in §§ 105.12 and 105.13 apply only to vessels the construction of which was contracted for before May 31, 1976.

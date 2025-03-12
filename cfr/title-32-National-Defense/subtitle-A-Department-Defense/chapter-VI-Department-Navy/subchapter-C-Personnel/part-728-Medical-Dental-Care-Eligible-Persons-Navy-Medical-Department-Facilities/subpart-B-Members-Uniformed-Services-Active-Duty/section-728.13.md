@@ -1,0 +1,3 @@
+##### § 728.13 Application for care. #####
+
+Possession of an ID card (a green colored DD 2 (with letter suffix denoting branch of service), Armed Forces Identification Card; a green colored PHS 1866-1, Identification Card; or a red colored DD 2 Res (Reservists on active duty for training)) alone does not constitute sufficient proof of eligibility. Accordingly, make a DEERS check, per § 728.4(cc), before other than emergency care is rendered to the extent that may be authorized.

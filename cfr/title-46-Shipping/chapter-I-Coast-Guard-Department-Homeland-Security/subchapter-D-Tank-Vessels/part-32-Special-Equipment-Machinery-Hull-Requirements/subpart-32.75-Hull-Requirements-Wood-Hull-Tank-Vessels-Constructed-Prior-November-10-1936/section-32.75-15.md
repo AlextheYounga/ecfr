@@ -1,0 +1,3 @@
+##### § 32.75-15 Electric bonding and grounding for tanks—TB/ALL. #####
+
+All independent cargo tanks in wood hull tank vessels shall be electrically bonded together with stranded copper cable of not less than No. 4B and S gage and one end of this cable shall be grounded to a copper or brass plate of not less than 2 square feet in area and one-sixteenth inch in thickness and this plate shall be securely fastened to the hull, on the outside, at a point where it shall be covered by water when the tank vessel is unloaded.

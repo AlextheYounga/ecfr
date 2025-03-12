@@ -1,0 +1,7 @@
+##### § 303.43 Fiber content tolerances. #####
+
+(a) A textile fiber product which contains more than one fiber shall not be deemed to be misbranded as to fiber content percentages if the percentages by weight of any fibers present in the total fiber content of the product, exclusive of permissive ornamentation, do not deviate or vary from the percentages stated on the label in excess of 3 percent of the total fiber weight of the product. For example, where the label indicates that a particular fiber is present in the amount of 40 percent, the amount of such fiber present may vary from a minimum of 37 percent of the total fiber weight of such product to a maximum of 43 percent of the total fiber weight of such product.
+
+(b) Where the percentage of any fiber or fibers contained in a textile fiber product deviates or varies from the percentage stated on the label by more than the tolerance or variation provided in paragraph (a) of this section, such product shall be misbranded unless the person charged proves that the entire deviation or variation from the fiber content percentages stated on the label resulted from unavoidable variations in manufacture and despite the exercise of due care.
+
+(c) Where representations are made to the effect that a textile fiber product is composed wholly of one fiber, the tolerance provided in section 4(b)(2) of the Act and paragraph (a) of this section shall not apply, except as to permissive ornamentation where the textile fiber product is represented to be composed of one fiber “exclusive of ornamentation.”

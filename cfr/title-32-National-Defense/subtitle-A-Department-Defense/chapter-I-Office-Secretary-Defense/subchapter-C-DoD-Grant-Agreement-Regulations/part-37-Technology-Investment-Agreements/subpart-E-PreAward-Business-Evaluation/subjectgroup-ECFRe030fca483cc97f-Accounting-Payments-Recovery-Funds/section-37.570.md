@@ -1,0 +1,11 @@
+##### § 37.570 What must I do if a CAS-covered participant accounts differently for its own and the Federal Government shares of project costs? #####
+
+(a) If a participant has Federal procurement contracts that are subject to the Cost Accounting Standards (CAS) in part 30 of the Federal Acquisition Regulation (FAR) and the associated FAR Appendix (48 CFR part 30 and 48 CFR 9903.201-1, respectively), you must alert the participant during the pre-award negotiations to the potential for a CAS violation, as well as the cognizant administrative contracting officer (ACO) for the participant's procurement contracts, if you learn that the participant plans to account differently for its own share and the Federal Government's share of project costs under the TIA. This may arise, for example, if a for-profit firm or other organization subject to the FAR cost principles in 48 CFR parts 31 and 231 proposes to charge:
+
+(1) Its share of project costs as independent research and development (IR&D) costs to enable recovery of the costs through Federal Government procurement contracts, as allowed under the FAR cost principles; and
+
+(2) The Federal Government's share to the project, rather than as IR&D costs.
+
+(b) The reason for alerting the participant and the ACO is that the inconsistent charging of the two shares could cause a noncompliance with Cost Accounting Standard (CAS) 402. Noncompliance with CAS 402 is a potential issue only for a participant that has CAS-covered Federal procurement contracts (note that CAS requirements do not apply to a for-profit participant's TIAs).
+
+(c) For for-profit participants with CAS-covered procurement contracts, the cognizant ACO in most cases will be an individual within the Defense Contract Management Agency (DCMA). You can identify a cognizant ACO at the DCMA by querying the contract administration team locator that matches contractors with their ACOs (currently on the World Wide Web at *http://alerts.dcmdw.dcma.mil/support,* a site that also can be accessed through the DCMA home page at *http://www.dcma.mil).*

@@ -1,0 +1,3 @@
+##### § 635.23 Standards. #####
+
+The use of NCIC is limited to authorized criminal justice purposes such as, stolen vehicle checks or wants and warrants. Subject to FBI regulations and policy, NCIC checks of visitors to a military installation may be authorized by the Installation/Garrison Commander as set forth in DoD 5200.08-R (Available at *http://www.dtic.mil/whs/directives/corres/pdf/520008r.pdf*) and DoDI 5200.08 (Available at *http://www.dtic.mil/whs/directives/corres/pdf/520008p.pdf*). Visitors to Army installations are non-DoD affiliated personnel.

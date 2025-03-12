@@ -1,0 +1,3 @@
+##### § 644.1 Preface. #####
+
+Subpart A sets out basic procedures to be followed in planning and scheduling for the acquisition of lands in connection with Military and Civil Works projects. It is not intended to be taken as absolute, without modification, but more as a guide to insure all aspects involved and potential problems are fully considered in planning for the acquisition of additional lands. Proper planning in the initial stages of any project can and should eliminate unnecessary delays during the acquisition phase.

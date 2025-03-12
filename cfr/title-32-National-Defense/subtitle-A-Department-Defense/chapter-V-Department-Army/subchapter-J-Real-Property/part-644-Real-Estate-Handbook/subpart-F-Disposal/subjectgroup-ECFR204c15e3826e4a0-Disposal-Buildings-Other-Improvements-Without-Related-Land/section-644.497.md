@@ -1,0 +1,3 @@
+##### § 644.497 Destruction. #####
+
+Disposal by the Corps of Engineers, as authorized in AR 405-90, does not contemplate expenditure of funds for destruction of improvements which have no sale or salvage value. Accordingly, where such improvement have been approved for disposal by the Corps of Engineers, they will be referred back to the appropriate Army of Air Force command for disposal action under AR 405-90 or AFR 87-4 as appropriate. However, improvements with little or no salvage value may be included in the same item with other improvements being offered for sale which are more attractive improvements without an expenditure of Government funds.

@@ -1,0 +1,9 @@
+##### § 1908.33 Designation of authority to hear appeals. #####
+
+(a) *Appeals:* Appeals of initial denial decisions under the Mandatory Declassification Request provisions of Executive Order 13526 shall be reviewed by the Agency Release Panel, which shall issue the final Agency decision.
+
+(b) *Membership:* The Agency Release Panel (ARP) is chaired by the Chief, Information Review and Release Group and composed of the Information Review Officers from the various Directorates and the Director, Central Intelligence Agency area, as well as the representatives of the various release programs and offices. The Information and Privacy Coordinator also serves as Executive Secretary of the ARP.
+
+(c) *Decisions:* The ARP shall meet on a regular schedule and may take action when a simple majority of the total membership is present. Issues shall be decided by a majority of the members present. Any member of the ARP disagreeing with the results of a vote may appeal the decision in writing to the Director, Information Management Services (D/IMS). The appeal shall set forth clearly and concisely the reasons D/IMS should reverse the ARP's decision. Upon receiving the written appeal, D/IMS shall have ten business days to affirm or reverse, in writing the APR's decision and shall so notify the appellant. In the event of a disagreement with any declassification and release decision by D/IMS, Directorate heads may appeal to the Associate Deputy Director of CIA (ADD) for resolution. The final Agency decision shall reflect the vote of the ARP, unless changed by the D/IMS or the ADD.
+
+[76 FR 59034, Sept. 23, 2011]

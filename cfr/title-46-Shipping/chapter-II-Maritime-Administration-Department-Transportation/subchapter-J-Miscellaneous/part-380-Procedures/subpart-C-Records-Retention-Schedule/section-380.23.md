@@ -1,0 +1,7 @@
+##### § 380.23 Supervision of records. #####
+
+(a) Contractors and others subject to the provisions of this subpart shall designate, through formal action, the official company position by title, the incumbent of which shall be responsible for supervision of its document retention and disposal program. Immediately upon designation of the position, a copy of the formal action and name of the incumbent shall be filed with the Records Officer, Maritime Administration. MARAD will accept written or electronic options (such as facsimile and Internet) for transmission of required information, if practicable.
+
+(b) The person in charge of the retention and disposal program shall maintain a record of all books, records, and accounts held in storage, and in such form that the items and their location are readily identifiable. A copy of the written, or by electronic options (such as facsimile and Internet), if practicable, notification requesting permission to dispose of any books, records, and accounts, and the original approval from the Administration, as required in § 380.22(b), together with a statement showing date, place and method of disposal will suffice as a record of such disposed items. These retention and disposal records shall be available at all times for inspection by Administration officials and auditors.
+
+[69 FR 61452, Oct. 19, 2004]

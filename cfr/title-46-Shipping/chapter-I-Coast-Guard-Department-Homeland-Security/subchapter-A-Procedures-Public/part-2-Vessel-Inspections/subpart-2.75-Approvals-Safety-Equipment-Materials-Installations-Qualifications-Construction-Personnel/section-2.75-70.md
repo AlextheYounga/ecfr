@@ -1,0 +1,5 @@
+##### § 2.75-70 Welding procedure and performance qualifications. #####
+
+(a) Welding procedures and welder performance utilized in the fabrication of vessels and their various systems and components subject to Coast Guard inspection shall be qualified as required by the applicable subchapter. For applicable requirements see §§ 32.60-1(a) of subchapter D (Tank Vessels), § 72.01-15 of subchapter H (Passenger Vessels), § 92.01-10 of subchapter I (Cargo and Miscellaneous Vessels), or § 190.01-10 of subchapter U (Oceanographic Vessels) of this chapter. See part 57 of subchapter F (Marine Engineering) for requirements for the welding of pressure piping, boilers, pressure vessels, and nonpressure vessel type tanks, and associated secondary barriers as defined in § 38.05-4 of subchapter D (Tank Vessels) of this chapter.
+
+[CGFR 68-82, 33 FR 18804, Dec. 18, 1968]

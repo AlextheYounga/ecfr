@@ -1,0 +1,3 @@
+##### § 308.504 Definition of territories and possessions. #####
+
+Whenever reference is made to the territories and possessions of the United States in this subpart or in any supplement thereto or any policy of insurance issued pursuant to the provisions thereof, said territories and possessions shall be deemed to include only the Virgin Islands of the United States, the Commonwealth of Puerto Rico, American Samoa, Commonwealth of the Northern Mariana Islands, Guam, Wake Island, Midway Islands, Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Navassa Island, and Wake Island.

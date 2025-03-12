@@ -1,0 +1,5 @@
+##### § 1117.4 Time for filing a report. #####
+
+(a) A subject firm must report within 24 hours of obtaining information which reasonably supports the conclusion that an incident occurred in which a child (regardless of age) choked on a marble, small ball, or latex balloon or on a marble, small ball, latex balloon, or other small part contained in a toy or game and, as a result of that incident the child died, suffered serious injury, ceased breathing for any length of time, or was treated by a medical professional. Section 1117.5 of this part sets forth the information that must be reported.
+
+(b) The Commission will deem a subject firm to have obtained reportable information when the information has been received by an official or employee who may reasonably be expected to be capable of appreciating the significance of the information. Under ordinary circumstances, 5 days shall be the maximum reasonable time for information to reach such an employee, the Chief Executive Officer or the official or employee responsible for complying with the reporting requirements of section 102 of the Child Safety Protection Act.

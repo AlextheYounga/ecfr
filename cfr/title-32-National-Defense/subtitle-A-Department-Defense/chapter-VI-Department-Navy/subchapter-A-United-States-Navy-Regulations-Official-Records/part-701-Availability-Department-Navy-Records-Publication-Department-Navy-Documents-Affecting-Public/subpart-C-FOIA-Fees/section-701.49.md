@@ -1,0 +1,9 @@
+##### § 701.49 Payment of fees. #####
+
+(a) Normally, fees will be collected at the time of providing the documents to the requester when the requester specifically states that the costs involved shall be acceptable or acceptable up to a specified limit that covers the anticipated costs, and the fees do not exceed $250.00.
+
+(b) However, after all work is completed on a request, and the documents are ready for release, DON activities may request payment before forwarding the documents, particularly for those requesters who have no payment history, or for those requesters who have failed previously to pay a fee in a timely fashion (*i.e.*, within 30 calendar days from the date of the billing).
+
+(c) When a DON activity estimates or determines that allowable charges that a requester may be required to pay are likely to exceed $250.00, the activity shall notify the requester of the likely cost and obtain satisfactory assurance of full payment where the requester has a history of prompt payments, or require an advance payment of an amount up to the full estimated charges in the case of requesters with no history of payment.
+
+(d) Advance payment of a fee is also applicable when a requester has previously failed to pay fees in a timely fashion (*i.e.,* 30 calendar days) after being assessed in writing by the activity. Further, where a requester has previously failed to pay a fee charged in a timely fashion (*i.e.*, within 30 calendar days from the date of the billing), the DON activity may require the requester to pay the full amount owed, plus any applicable interest, or demonstrate that he or she has paid the fee, and to make an advance payment of the full amount of the estimated fee before the activity begins to process a new or pending request from the requester. Interest will be at the rate prescribed in 31 U.S.C. 3717 and confirmed with respective finance and accounting offices.

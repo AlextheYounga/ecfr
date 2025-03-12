@@ -1,0 +1,3 @@
+##### § 1018.31 Support services. #####
+
+Unless the statutory authority for a particular advisory committee provides otherwise, the Advisory Committee Management Officer shall be responsible for providing and overseeing all necessary support services for each advisory committee established by or reporting to the Commission. Support services include providing committee staff, meeting rooms, supplies, and funds, including funds for the publication of reports.

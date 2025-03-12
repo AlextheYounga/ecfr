@@ -1,0 +1,3 @@
+##### § 1211.21 Effective date. #####
+
+Under the Consumer Product Safety Act, automatic residential garage door operators must certify that they comply with requirements of subpart A of this part. This certification requirement is currently in effect. The specific labeling requirement of the certification rule in this subpart will become effective for any automatic residential garage door operator manufactured on or after January 21, 1993.

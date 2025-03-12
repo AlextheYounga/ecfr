@@ -1,0 +1,5 @@
+##### § 301.37 Manner of invoicing furs and fur products. #####
+
+(a) In the invoicing of furs and fur products, all of the required information shall be set out in a clear, legible, distinct and conspicuous manner. The invoice shall be issued at the time of the sale or other transaction involving furs or fur products, but the required information need not be repeated in subsequent periodic statements of account respecting the same furs or fur products.
+
+(b) Non-required information or representations appearing in the invoicing of furs and fur products shall in no way be false or deceptive nor include any names, terms or representations prohibited by the act and regulations. Nor shall such information or representations be set forth or used in such manner as to interfere with the required information.

@@ -1,0 +1,3 @@
+##### § 252.4 Policy. #####
+
+It is DoD policy to cooperate with and assist qualified scouting organizations in establishing and providing facilities and services, within available resources, at locations outside the United States to support DoD personnel and their families in accordance with 10 U.S.C. 2606, 2554, and 2555 and Executive Order 12715, “Support of Overseas Scouting Activities for Military Dependents”.

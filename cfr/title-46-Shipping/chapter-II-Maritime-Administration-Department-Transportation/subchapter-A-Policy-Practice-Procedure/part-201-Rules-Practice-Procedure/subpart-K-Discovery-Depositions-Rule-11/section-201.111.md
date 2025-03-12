@@ -1,0 +1,3 @@
+##### § 201.111 Contents of order. #####
+
+The order issued authorizing the taking of a deposition will state the name and address of each witness or a general description sufficient to identify him or the particular class or group to which he belongs, the matters concerning which the witness may be questioned, the place where, the time when, and the officer before whom the deposition is to be taken, any or all of which may or may not be the same as set forth in the motion filed. If the deposition is to be taken upon written interrogatories, a list of the interrogatories will accompany the order.

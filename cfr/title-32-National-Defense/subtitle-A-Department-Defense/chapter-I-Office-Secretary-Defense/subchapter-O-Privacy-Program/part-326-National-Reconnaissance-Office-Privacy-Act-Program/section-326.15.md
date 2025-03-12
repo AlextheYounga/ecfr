@@ -1,0 +1,3 @@
+##### § 326.15 Fees. #####
+
+Individuals requesting copies of their official personnel records are entitled to one free copy; a charge will be assessed for additional copies. There is a cost of $.15 per page. Fees will not be assessed if the cost is less than $30.00. Fees should be paid by check or postal money order payable to the Treasurer of the United States and forwarded to the Privacy Act Coordinator, NRO, at the time the copy of the record is delivered. In some instances, fees will be due in advance.

@@ -1,0 +1,3 @@
+##### § 1292.1 Purpose and scope. #####
+
+“To establish policy, assign responsibilities, and prescribe procedures for the issuance of security regulations and orders by Heads of DLA activities. This part 1292 implements DoD Directive 5200.8, Security of Military Installations and Resources, and is applicable to HQ DLA, DLA field activities and property/places subject to the jurisdiction or administration of the Defense Logistics Agency.

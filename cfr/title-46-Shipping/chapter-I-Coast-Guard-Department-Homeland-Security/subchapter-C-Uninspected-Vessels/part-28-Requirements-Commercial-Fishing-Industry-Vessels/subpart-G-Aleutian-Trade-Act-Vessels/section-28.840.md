@@ -1,0 +1,3 @@
+##### § 28.840 Means for stopping pumps, ventilation, and machinery. #####
+
+All electrically driven fuel oil transfer pumps, fuel oil unit and service pumps, and ventilation fans shall be fitted with remote controls from a readily accessible position outside of the space concerned so that they may be stopped in the event of fire occurring in the compartment in which they are located. These controls shall be suitably protected against accidental operation or tampering and shall be suitably marked.

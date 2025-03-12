@@ -1,0 +1,7 @@
+##### § 564.52 Statutory authority. #####
+
+(a) Limited authority for the payment of claims arising out of National Guard and Air National Guard activities has been granted annually for several years by provisions of the annual Appropriations Act for the Department of Defense. A recent provision is as follows:
+
+The following sums are appropriated, \* \* \* For payment of \* \* \*; claims (not to exceed $1,000 in any one case) for damages to or loss of private property incident to the operation of Army and Air National Guard camps of instruction, either during the stay of units of said organizations at such camps or while en route thereto or therefrom; \* \* \* (Act of August 1, 1953, Public Law 179, 83d Cong.).
+
+(b) In accordance with general principles of law, the National Guard and the Air National Guard when not in Federal service are not agencies of the United States, and the United States is not liable for injury or damage arising from their activities. Thus, claims for such injury or damage are not cognizable under the Federal Tort Claims Act, as revised and codified (62 Stat. 982, 28 U.S.C. 3671-80). By the statutory provisions referred to in paragraph (a) of this section, the United States assumes an obligation to settle administratively limited classes of claims relating to activities of the National Guard and the Air National Guard.

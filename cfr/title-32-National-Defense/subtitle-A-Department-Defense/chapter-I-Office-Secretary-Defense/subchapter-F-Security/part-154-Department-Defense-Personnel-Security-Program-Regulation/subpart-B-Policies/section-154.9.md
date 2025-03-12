@@ -1,0 +1,37 @@
+##### § 154.9 Authorized personnel security investigative agencies. #####
+
+(a) *General.* The DIS provides a single centrally directed personnel security investigative service to conduct personnel security investigations within the 50 States, District of Columbia, and Commonwealth of Puerto Rico for DoD Components, except as provided for in DoD Directive 5100.23.1 DIS will request the Military Departments or other appropriate Federal Agencies to accomplish DoD investigative requirements in other geographic areas beyond their jurisdiction. No other DoD Component shall conduct personnel security investigations unless specifically authorized by the Deputy Under Secretary of Defense for Policy. In certain instances provided for below, the DIS shall refer an investigation to other investigative agencies.
+
+1 See footnote 1 to § 154.2(c).
+
+(b) *Subversive affiliations* - (1) *General.* In the context of DoD investigative policy, subversion refers only to such conduct as is forbidden by the laws of the United States. Specifically, this is limited to information concerning the activities of individuals or groups that involve or will involve the violation of Federal law, for the purpose of:
+
+(i) Overthrowing the Government of the United States or the government of a State;
+
+(ii) Substantially impairing for the purpose of influencing U.S. Government policies or decisions:
+
+(A) The functions of the Government of the United States, or
+
+(B) The functions of the government of a State;
+
+(iii) Depriving persons of their civil rights under the Constitution or laws of the United States.
+
+(2) *Military Department/FBI jurisdiction.* Allegations of activities covered by § 154.7 (a) through (f) are in the exclusive investigative domain of either the counterintelligence agencies of the Military Departments or the FBI, depending on the circumstances of the case and the provisions of the Agreement Governing the Conduct of Defense Department Counterintelligence Activities in Conjunction with the FBI. Whenever allegations of this nature are developed, whether before or after a security clearance has been issued or during the course of a personnel security investigation conducted by DIS, they shall be referred immediately to either the FBI or to a military department counterintelligence agency, as appropriate.
+
+(3) *DIS jurisdiction.* Allegations of activities limited to those set forth in § 154.7 (g) through (j) of this part shall be investigated by DIS.
+
+(c) *Suitability information* - (1) *General.* Most derogatory information developed through personnel security investigations of DoD military or civilian personnel is so-called suitability information, that is, information pertaining to activities or situations covered by § 154.7 (g) through (q). Almost all unfavorable personnel security determinations made by DoD authorities are based on derogatory suitability information, although such information is often used as a basis for unfavorable administrative actions not of a security nature, such as action under the Uniform Code of Military Justice or removal from Federal employment under OPM regulations.
+
+(2) *Pre-clearance investigation.* Derogatory suitability information, except that covered in paragraph (c)(4) of this section, developed during the course of a personnel security investigation, prior to the issuance of an individual's personnel security clearance, shall be investigated by DIS to the extent necessary to confirm or refute its applicability to § 154.7 (g) through (q).
+
+(3) *Postadjudication investigation.* Derogatory suitability allegations, except those covered by paragraph (c)(4) of this section arising subsequent to clearance requiring investigation to resolve and to determine the individual's eligibility for continued access to classified information, reinstatement of clearance/access, or retention in a sensitive position shall be referred to DIS to conduct a Special Investigative Inquiry. Reinvestigation of individuals for adjudicative reconsideration due to the passage of time or evidence of favorable behavior shall also be referred to DIS for investigation. In such cases, completion of the appropriate statement of personal history by the individual constitutes consent to be investigated. Individual consent or completion of a statement of personal history is not required when § 154.19(b) applies. Postadjudication investigation of allegations of a suitability nature required to support other types of unfavorable personnel security determinations or disciplinary procedures independent of a personnel security determination shall be handled in accordance with applicable Component administrative regulations. These latter categories of allegations lie outside the DoD personnel security program and are not a proper investigative function for departmental counterintelligence organizations, Component personnel security authorities, or DIS.
+
+(4) *Allegations of criminal activity.* Any allegations of conduct of a nature indicating possible criminal conduct, including any arising during the course of a personnel security investigation, shall be referred to the appropriate DoD, military department or civilian criminal investigative agency. Military department investigative agencies have primary investigative jurisdiction in cases where there is probable cause to believe that the alleged conduct will be the basis for prosecution under the Uniform Code of Military Justice.
+
+(d) *Hostage situations* - (1) *General.* A hostage situation exists when a member of an individual's immediate family or such other person to whom the individual is bound by obligation or affection resides in a country whose interests are inimical to the interests of the United States. The rationale underlying this category of investigation is based on the possibility that an individual in such a situation might be coerced, influenced, or pressured to act contrary to the best interests of national security.
+
+(2) *DIS jurisdiction.* In the absence of evidence of any coercion, influence or pressure, hostage investigations are exclusively a personnel security matter, rather than counterintelligence, and all such investigations shall be conducted by DIS.
+
+(3) *Military Department and/or FBI jurisdiction.* Should indications be developed that hostile intelligence is taking any action specifically directed against the individual concerned - or should there exist any other evidence that the individual is actually being coerced, influenced, or pressured by an element inimical to the interests of national security - then the case becomes a counterintelligence matter (outside of investigative jurisdiction of DIS) to be referred to the appropriate military department or the FBI for investigation.
+
+(e) *Overseas personnel security investigations.* Personnel security investigations requiring investigation overseas shall be conducted under the direction and control of DIS by the appropriate military department investigative organization. Only postadjudication investigations involving an overseas subject may be referred by the requester directly to the military department investigative organization having investigative responsibility in the overseas area concerned (see Appendix I) with a copy of the investigative request sent to DIS. In such cases, the military department investigative agency will complete the investigation, forward the completed report of investigation directly to DIS, with a copy to the requester.

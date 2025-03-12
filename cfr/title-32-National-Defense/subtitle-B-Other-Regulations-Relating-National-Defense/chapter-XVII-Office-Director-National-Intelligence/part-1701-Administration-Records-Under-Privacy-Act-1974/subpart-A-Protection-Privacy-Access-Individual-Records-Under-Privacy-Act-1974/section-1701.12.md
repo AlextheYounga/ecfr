@@ -1,0 +1,11 @@
+##### § 1701.12 ODNI responsibility for responding to requests for accounting. #####
+
+(a) *Acknowledgement of request.* Upon receipt of a request for accounting, the D/IMO shall acknowledge receipt of the request in writing and provide an assigned request number for further reference.
+
+(b) *Tasking of component.* Upon receipt of a request for accounting, the D/IMO shall forward the request to the POC in the component maintaining the record. The POC shall work with the component's information management officer and the systems administrator to generate the requested disclosure history.
+
+(c) *Action on request for accounting.* The D/IMO will notify the requester when the accounting is available for on-site review or transmission in paper or electronic medium.
+
+(d) *Notice of court-ordered disclosures.* The D/IMO shall make reasonable efforts to notify an individual whose record is disclosed pursuant to court order. Notice shall be made within a reasonable time after receipt of the order; however, when the order is not a matter of public record, the notice shall be made only after the order becomes public. Notice shall be sent to the individual's last known address and include a copy of the order and a description of the information disclosed. No notice shall be made regarding records disclosed from a criminal law enforcement system that has been exempted from the notice requirement.
+
+(e) *Notice of emergency disclosures.* ODNI shall notify an individual whose record it discloses under compelling circumstances affecting health or safety. This notice shall be mailed to the individual's last known address and shall state the nature of the information disclosed; the person, organization, or agency to which it was disclosed; the date of disclosure; and the compelling circumstances justifying the disclosure. This provision shall not apply in circumstances involving classified records that have been exempted from disclosure pursuant to subsection (j) or (k) of the Privacy Act.

@@ -1,0 +1,3 @@
+##### § 308.400 Authority. #####
+
+The Secretary of Transportation has delegated authority to the Maritime Administrator to perform the functions vested in the Secretary of Transportation by 46 U.S.C. Chapter 539. The Maritime Administrator, pursuant to a finding by the Secretary under 46 U.S.C. 53902(a) has authorized the issuance of war risk insurance on American vessels under construction in shipyards in the United States.

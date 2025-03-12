@@ -1,0 +1,3 @@
+##### § 1512.3 Requirements in general. #####
+
+Any bicycle subject to the regulations in this part shall meet the requirements of this part in the condition to which it is offered for sale to consumers; any bicycle offered for sale to consumers in disassembled or partially assembled condition shall meet these requirements after assembly according to the manufacturer's instructions. For the purpose of compliance with this part, where the metric and English units are not equal due to the conversion process the less stringent requirement will prevail.

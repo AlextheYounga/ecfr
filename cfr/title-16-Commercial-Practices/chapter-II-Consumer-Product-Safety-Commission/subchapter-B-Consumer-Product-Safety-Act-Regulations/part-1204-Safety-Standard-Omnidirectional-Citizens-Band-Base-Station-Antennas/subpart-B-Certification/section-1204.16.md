@@ -1,0 +1,9 @@
+##### § 1204.16 Production testing. #####
+
+(a) *General.* Manufacturers and importers shall test antennas subject to the standard periodically as they are manufactured, to demonstrate that the antennas meet the requirements of the standard.
+
+(b) *Types and frequency of testing.* Manufacturers and importers shall determine the types of tests for production testing. Each production test shall be conducted at a production interval short enough to provide a high degree of assurance that, if the samples selected for testing pass the production tests, all other antennas produced during the interval will meet the standard.
+
+(c) *Test failure*—(1) *Sale of antennas.* If any test yields results which do not indicate that all antennas manufactured during the production interval will meet the standard, production must cease and the faulty manufacturing process or design must be corrected. In addition, products manufactured before the appropriate corrective action is taken may not be distributed in commerce unless they meet the standard. It may be necessary to modify the antennas or perform additional tests to ensure that only complying antennas are distributed in commerce. Antennas which are subject to the standard but do not comply with the requirements of the standard cannot be offered for sale, distributed in commerce, or imported in the United States.
+
+(2) *Corrective actions.* When any production test fails to provide a high degree of assurance that all antennas comply with the standard, corrective action must be taken. Corrective action may include changes in the manufacturing and/or assembly process, equipment adjustment, repair or replacement, or other action deemed appropriate by the manufacturer or importer to achieve passing production test results.

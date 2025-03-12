@@ -1,0 +1,5 @@
+##### § 260.14 Refillable claims. #####
+
+It is deceptive to misrepresent, directly or by implication, that a package is refillable. A marketer should not make an unqualified refillable claim unless the marketer provides the means for refilling the package. The marketer may either provide a system for the collection and refill of the package, or offer for sale a product that consumers can purchase to refill the original package.
+
+Example 1:A container is labeled “refillable three times.” The manufacturer has the capability to refill returned containers and can show that the container will withstand being refilled at least three times. The manufacturer, however, has established no collection program. The unqualified claim is deceptive because there is no means to return the container to the manufacturer for refill.Example 2:A small bottle of fabric softener states that it is in a “handy refillable container.” In the same market area, the manufacturer also sells a large-sized bottle that consumers use to refill the smaller bottles. The claim is not deceptive because there is a reasonable means for the consumer to refill the smaller container.

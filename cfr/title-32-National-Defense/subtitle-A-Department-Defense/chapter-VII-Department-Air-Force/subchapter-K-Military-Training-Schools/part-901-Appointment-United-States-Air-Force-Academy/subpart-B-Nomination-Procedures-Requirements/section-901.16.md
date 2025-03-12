@@ -1,0 +1,3 @@
+##### § 901.16 Superintendent category. #####
+
+Fifty eligible applicants who have not secured a nomination to the Academy from any other nominating authority may be nominated by the Superintendent. Highly qualified applicants are selected for nomination from the nationwide precandidate program by the Academy. Appointments from this category are made in order of merit from the nationwide pool of qualified alternates to fill the class.

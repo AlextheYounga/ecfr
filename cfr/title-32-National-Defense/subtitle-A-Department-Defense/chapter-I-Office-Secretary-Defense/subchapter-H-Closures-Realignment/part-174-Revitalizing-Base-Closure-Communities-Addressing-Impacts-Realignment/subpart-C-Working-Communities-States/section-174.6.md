@@ -1,0 +1,9 @@
+##### § 174.6 LRA and the redevelopment plan. #####
+
+(a) The LRA should have broad-based membership, including, but not limited to, representatives from those jurisdictions with zoning authority over the property. Generally, there will be one recognized LRA per installation.
+
+(b) The LRA should focus primarily on developing a comprehensive redevelopment plan based upon local needs. The plan should recommend land uses based upon an exploration of feasible reuse alternatives. If applicable, the plan should consider notices of interest received under a base closure law. This section shall not be construed to require a plan that is enforceable under state and local land use laws, nor is it intended to create any exemption from such laws.
+
+(c)(1) The Secretary concerned will develop a disposal plan and, to the extent practicable, complete the appropriate environmental documentation no later than 12 months after receipt of the redevelopment plan. The redevelopment plan will be used as part of the proposed Federal action in conducting environmental analyses required under NEPA.
+
+(2) In the event there is no LRA recognized by DoD or if a redevelopment plan is not received from the LRA within 9 months from the date referred to in section 2905(b)(7)(F)(iv) of Pub. L. 101-510, (unless an extension of time has been granted by the Deputy Under Secretary of Defense (Installations and Environment)), the Secretary concerned shall, after required consultation with the governor and heads of local governments, proceed with the disposal of property under applicable property disposal and environmental laws and regulations.

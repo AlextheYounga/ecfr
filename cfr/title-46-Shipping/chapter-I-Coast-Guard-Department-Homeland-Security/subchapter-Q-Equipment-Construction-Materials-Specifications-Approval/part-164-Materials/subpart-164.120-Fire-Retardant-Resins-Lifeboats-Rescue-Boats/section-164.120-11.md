@@ -1,0 +1,3 @@
+##### § 164.120-11 Production quality control requirements. #####
+
+The resin manufacturer must institute a quality control procedure to ensure that all Coast Guard-accepted resin is produced to the same standard, and in the same manner as the tested resin accepted by the Commandant. The manufacturer's quality control personnel must not work directly under the department or person responsible for either production or sales.

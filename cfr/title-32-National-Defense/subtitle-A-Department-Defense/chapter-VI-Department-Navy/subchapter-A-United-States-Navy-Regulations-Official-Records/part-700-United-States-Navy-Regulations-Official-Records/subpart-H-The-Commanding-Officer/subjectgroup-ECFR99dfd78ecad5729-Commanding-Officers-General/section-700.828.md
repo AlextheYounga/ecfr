@@ -1,0 +1,5 @@
+##### § 700.828 Search by foreign authorities. #####
+
+(a) The commanding officer shall not permit a ship under his or her command to be searched on any pretense whatsoever by any person representing a foreign state, nor permit any of the personnel within the confines of his or her command to be removed from the command by such person, so long as he has the capacity to repel such act. If force should be exerted to compel submission, the commanding officer is to resist that force to the utmost of his or her power.
+
+(b) Except as may be provided by international agreement, the commanding officer of a shore activity shall not permit his or her command to be searched by any person representing a foreign state, nor permit any of the personnel within the confines of his or her command to be removed from the command by such person, so long as he or she has the power to resist.

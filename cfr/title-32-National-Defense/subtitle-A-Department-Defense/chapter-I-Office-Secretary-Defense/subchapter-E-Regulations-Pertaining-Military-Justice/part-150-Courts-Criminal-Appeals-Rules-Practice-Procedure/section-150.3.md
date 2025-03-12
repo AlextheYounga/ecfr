@@ -1,0 +1,3 @@
+##### § 150.3 Scope of review. #####
+
+In cases referred to it for review pursuant to Article 66, the Court may act only with respect to the findings and sentence as approved by the convening authority. In reviewing a case or action under Article 69(d) or in determining an appeal under Article 62, the Court may act only with respect to matters of law. The Court may, in addition, review such other matters and take such other action as it determines to be proper under substantive law.e

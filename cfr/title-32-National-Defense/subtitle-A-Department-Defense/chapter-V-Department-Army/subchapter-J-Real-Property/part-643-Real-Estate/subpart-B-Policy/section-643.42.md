@@ -1,0 +1,3 @@
+##### § 643.42 Policy - Consents for crossing of rights-of-ways and similar interests owned by the United States. #####
+
+Under the various easement authorities or under the administrative power in cases outside the purview of those authorities, the SA may consent to the granting of an easement by the owner of the servient estate, subject to such conditions as may be required to protect the Government's interest.

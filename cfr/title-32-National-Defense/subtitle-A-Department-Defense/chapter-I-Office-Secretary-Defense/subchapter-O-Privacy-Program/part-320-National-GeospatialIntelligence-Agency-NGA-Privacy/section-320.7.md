@@ -1,0 +1,9 @@
+##### § 320.7 Agency review of request for correction or amendment of record. #####
+
+(a) Not later than 10 working days after receipt of a request to amend a record, in whole or in part, the NGA Office of General Counsel, or NGA office having responsibility for maintenance of the record in question, shall correct any portion of the record which the individual demonstrates is not accurate, relevant, timely or complete, and thereafter either inform the individual of such correction or process the request for denial.
+
+(b) Denials of requests for amendment of a record will be made only by an agency official authorized to act as an Initial Denial Authority, after coordination with the Office of General Counsel. The denial letter will inform the individual of the denial to amend the record setting forth the reasons therefor and notifying the individual of his right to appeal the decision to NGA.
+
+(c) Any person or other agency to whom the record has been previously disclosed shall be informed of any correction or notation of dispute with respect to such records.
+
+(d) These provisions for amending records are not intended to permit the alteration of evidence previously presented during any administrative or quasi-judicial proceeding, such as an employee grievance case. Any changes in such records should be made only through the established procedures for such cases. Further, these provisions are not designed to permit collateral attack upon what has already been the subject of an administrative or quasi-judicial action. For example, an individual may not use this procedure to challenge the final decision on a grievance, but the individual would be able to challenge the fact that such action has been incorrectly recorded in his file.

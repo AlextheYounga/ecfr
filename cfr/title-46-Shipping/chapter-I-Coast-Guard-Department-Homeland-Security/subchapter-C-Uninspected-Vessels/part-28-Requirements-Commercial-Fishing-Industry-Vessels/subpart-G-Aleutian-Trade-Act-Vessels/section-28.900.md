@@ -1,0 +1,3 @@
+##### § 28.900 Post accident inspection. #####
+
+The requirements for providing notice and reporting of marine casualties are contained in part 4 of this chapter. The owner of or master of the vessel shall ensure that the survey guidance provided by a Coast Guard Representative is effectively carried out, that the material and the workmanship of such repairs or renewals are in all respects satisfactory, and that the vessel complies in all respects with the regulations in this part.

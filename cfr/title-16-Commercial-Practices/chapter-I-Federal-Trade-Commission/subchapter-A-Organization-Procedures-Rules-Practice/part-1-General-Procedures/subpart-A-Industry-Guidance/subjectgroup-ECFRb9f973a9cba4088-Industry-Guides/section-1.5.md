@@ -1,0 +1,3 @@
+##### § 1.5 Purpose. #####
+
+Industry guides are administrative interpretations of laws administered by the Commission for the guidance of the public in conducting its affairs in conformity with legal requirements. They provide the basis for voluntary and simultaneous abandonment of unlawful practices by members of industry. Failure to comply with the guides may result in corrective action by the Commission under applicable statutory provisions. Guides may relate to a practice common to many industries or to specific practices of a particular industry.

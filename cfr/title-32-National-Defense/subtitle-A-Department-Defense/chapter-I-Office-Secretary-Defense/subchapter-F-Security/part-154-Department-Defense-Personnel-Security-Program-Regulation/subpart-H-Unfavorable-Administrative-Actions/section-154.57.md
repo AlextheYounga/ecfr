@@ -1,0 +1,5 @@
+##### § 154.57 Reinstatement of civilian employees. #####
+
+(a) *General.* Any person whose civilian employment in the Department of Defense is terminated under the provisions of this part shall not be reinstated or restored to duty or reemployed in the Department of Defense unless the Secretary of Defense, or the head of a DoD Component, finds that such reinstatement, restoration, or reemployment is clearly consistent with the interests of national security. Such a finding shall be made a part of the personnel security record.
+
+(b) *Reinstatement benefits.* A DoD civilian employee whose employment has been suspended or terminated under the provisions of this part and who is reinstated or restored to duty under the provisions of section 3571 of title 5 U.S. Code is entitled to benefits as provided for by section 3 of Pub. L. 89-380.

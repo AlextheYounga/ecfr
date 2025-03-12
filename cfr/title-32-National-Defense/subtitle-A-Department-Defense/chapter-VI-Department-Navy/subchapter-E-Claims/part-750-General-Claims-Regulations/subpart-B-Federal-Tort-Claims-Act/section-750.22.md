@@ -1,0 +1,5 @@
+##### § 750.22 Exclusiveness of remedy. #####
+
+(a) The Federal Employees Liability Reform and Tort Compensation Act of 1988, Public Law 100-694 (amending 28 U.S.C. 2679(b) and 2679(d)), provides that the exclusive remedy for damage or loss of property, or personal injury or death arising from the negligent or wrongful acts or omissions of all Federal employees, acting within the scope of their employment, will be against the United States. This immunity from personal liability does not extend to allegations of constitutional torts, nor to allegations of violations of statutes specifically authorizing suits against individuals.
+
+(b) Other statutory provisions create immunity from personal liability for specific categories of Federal employees whose conduct, within the scope of their employment, gives rise to claims against the Government. Department of Defense health care providers are specifically protected by 10 U.S.C. 1089, the Gonzalez Act. DOD attorneys are specifically protected by 10 U.S.C. 1054.

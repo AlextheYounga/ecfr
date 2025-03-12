@@ -1,0 +1,3 @@
+##### § 150.28 Amendments. #####
+
+Proposed amendments to this part may be submitted to the Chief Judge of any Court named in § 150.1 or to a Judge Advocate General. Before acting on any proposed amendments not received from the Chief Judges, the Judge Advocates General shall refer them to the Chief Judges of the Courts for comment. The Chief Judges shall confer on any proposed changes, and shall report to the Judge Advocates General as to the suitability of proposed changes and their impact on the operation of the Courts and on appellate justice.

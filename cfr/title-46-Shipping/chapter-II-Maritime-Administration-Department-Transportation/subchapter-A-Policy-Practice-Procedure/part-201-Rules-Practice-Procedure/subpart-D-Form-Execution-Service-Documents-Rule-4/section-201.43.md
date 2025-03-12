@@ -1,0 +1,3 @@
+##### § 201.43 Service by parties. #####
+
+All documents, when tendered for filing should show that service has been made upon all parties to the proceeding. Such service shall be made by delivering one copy to each party in person or by mailing by first-class mail properly addressed with postage prepaid. When a party has appeared by attorney or other representative, service upon such attorney or other representative will be deemed service upon the party. All documents served by mail preferably should be mailed in sufficient time to reach the parties on the date on which the original is due to be filed and should be air mailed if addressee is more than 300 miles distant.

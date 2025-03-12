@@ -1,0 +1,3 @@
+##### § 56.4 Policy. #####
+
+It is DoD policy that no qualified handicapped person shall be subjected to discrimination on the basis of handicap under any program or activity that receives or benefits from Federal financial assistance disbursed by a DoD Component or under any Federal program or activity that is conducted by a DoD Component. Guidelines for determining actions that discriminate against handicapped persons are prescribed in § 56.8.

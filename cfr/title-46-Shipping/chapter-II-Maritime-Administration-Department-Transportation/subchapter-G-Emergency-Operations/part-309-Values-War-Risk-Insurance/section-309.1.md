@@ -1,0 +1,3 @@
+##### § 309.1 Procedure. #####
+
+The Ship Valuation Committee, Maritime Administration, shall publish bianually in the notice section of the Federal Register a general notice which shall set forth the stated valuations of individual vessels upon which interim binders for war risk hull insurance have been issued. Such values shall be effective with respect to a six-month period commencing on January 1 and ending on June 30, or a six-month period commencing on July 1 and ending on December 31 of each calendar year; *Provided, however,* That if there is a substantial change in market values during the effective period of a state valuation, the Maritime Administration reserves the right to revise such valuations at any time during such period.

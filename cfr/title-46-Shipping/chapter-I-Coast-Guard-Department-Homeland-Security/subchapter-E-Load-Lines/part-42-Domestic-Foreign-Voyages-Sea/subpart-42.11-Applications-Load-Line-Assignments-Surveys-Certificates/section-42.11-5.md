@@ -1,0 +1,7 @@
+##### § 42.11-5 Applications for load line assignments, surveys, and certificates for U.S.-flag vessels. #####
+
+(a) Normally, the owner, master, or agent of a vessel shall apply in writing, on a timely basis, to the American Bureau of Shipping for the assignment, survey, and certification of load lines. When nonconcurrent, a separate application shall be made for each function desired and submitted on a timely basis. The mailing address of the home office of American Bureau of Shipping is ABS Plaza, 16855 Northchase Drive, Houston, TX 77060.
+
+(b) After the Commandant has approved a recognized classification society as a load line assigning and issuing authority for a vessel, as described in a written request of the shipowner, the owner shall apply in writing, on a timely basis, direct to the approved assigning and issuing authority for the assignment, survey, and certification of load lines. When nonconcurrent, a separate application shall be made to such authority for each function desired, and submitted on a timely basis.
+
+[CGFR 68-60, 33 FR 10057, July 12, 1968, as amended by CGFR 68-126, 34 FR 9013, June 5, 1969; CGD 96-041, 61 FR 50727, Sept. 27, 1996; USCG-2000-7790, 65 FR 58459, Sept. 29, 2000]

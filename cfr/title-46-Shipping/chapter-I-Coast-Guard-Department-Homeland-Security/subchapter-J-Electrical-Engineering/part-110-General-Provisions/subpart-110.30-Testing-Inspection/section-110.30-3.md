@@ -1,0 +1,3 @@
+##### § 110.30-3 Initial inspection. #####
+
+The initial inspection, which may be a series of inspections during the construction of the vessel, includes a complete inspection of the electric installation and electric equipment or apparatus. The inspection is to determine that the arrangement, materials, and their installations meet this chapter and the approved plans. The inspection also is to determine that the workmanship of all equipment and apparatus and the installation is satisfactory.

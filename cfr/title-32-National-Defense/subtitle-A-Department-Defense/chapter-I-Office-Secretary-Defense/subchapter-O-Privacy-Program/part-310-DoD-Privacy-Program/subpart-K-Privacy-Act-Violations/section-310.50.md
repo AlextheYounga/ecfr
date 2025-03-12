@@ -1,0 +1,5 @@
+##### § 310.50 Litigation status sheet. #####
+
+Whenever a complaint citing the Privacy Act is filed in a U.S. District Court against the Department of Defense, a DoD Component, or any DoD employee, the responsible system manager shall notify the DPO. The litigation status sheet at appendix H to this part provides a standard format for this notification. The initial litigation status sheet forwarded shall, as a minimum, provide the information required by items 1 through 6 of the status sheet. A revised litigation status sheet shall be provided at each stage of the litigation. When a court renders a formal opinion or judgment, copies of the judgment and opinion shall be provided to the DPO with the litigation status sheet reporting that judgment or opinion.
+
+[72 FR 18758, Apr. 13, 2007. Redesignated at 81 FR 71830, Oct. 17, 2016]

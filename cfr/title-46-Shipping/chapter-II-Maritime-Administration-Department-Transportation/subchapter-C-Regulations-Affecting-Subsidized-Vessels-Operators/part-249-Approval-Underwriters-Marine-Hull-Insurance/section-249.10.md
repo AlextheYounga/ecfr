@@ -1,0 +1,3 @@
+##### § 249.10 Non-discrimination policy. #####
+
+To administer effectively the policy regarding non-discrimination against U.S. insurers in other countries, as described in §§ 249.6(b)(3) and 249.7(a), MARAD seeks the assistance of the American marine insurance industry to provide information at the time of publication of Notice of Application described in § 249.7(b) concerning the existence of any discriminatory laws or practices in the marine hull insurance market abroad. Upon receipt of such information, MARAD will take whatever action it deems appropriate.

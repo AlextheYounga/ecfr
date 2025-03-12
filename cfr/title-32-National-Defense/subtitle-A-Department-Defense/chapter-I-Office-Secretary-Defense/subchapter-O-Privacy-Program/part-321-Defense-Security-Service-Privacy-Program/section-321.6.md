@@ -1,0 +1,3 @@
+##### § 321.6 Medical records. #####
+
+*General.* Medical records that are part of DSS records systems will generally be included with those records when access is granted to the subject to which they pertain. However, if it is determined that such access could have an adverse effect upon the individual's physical or mental health, the medical record in question will be released only to a physician named by the requesting individual.

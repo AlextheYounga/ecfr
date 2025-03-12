@@ -1,0 +1,5 @@
+##### § 32.70-5 Hull requirements; general—TB/ALL. #####
+
+The scantlings, material, and workmanship, the subdivision of cargo spaces, the arrangement of cofferdams, the testing of tanks and cofferdams, shall be at least equivalent to the requirements of a recognized classification society for the particular service specified in the application for the certificate of inspection and permit for the transportation of liquid flammable cargoes in bulk as of the date when the tank vessel was built or as of the date when the vessel was converted into a tank vessel. In the absence of such classification requirements, the Officer in Charge, Marine Inspection, shall satisfy himself that the vessel's structure as specified in this section is safe for the service to be specified in its certificate of inspection.
+
+[CGFR 66-33, 31 FR 15268, Dec. 6, 1966]

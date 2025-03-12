@@ -1,0 +1,9 @@
+##### § 1209.8 Procedure for calibration of radiation instrumentation. #####
+
+This procedure is used to calibrate the radiation instruments used in the test procedures for measuring critical radiant flux.
+
+(a) *Radition pyrometer.* Calibrate the radiation pyrometer by means of a conventional black body enclosure placed within a furnace and maintained at uniform temperatures of 490, 500, and 510 °C (914, 932, and 950 °F). The black body enclosure may consist of a closed chromel metal cylinder with a small sight hole in one end. Sight the radiation pyrometer upon the opposite end of the cylinder where a thermocouple indicates the black body temperature. Place the thermocouple within a drilled hole and in good thermal contact with the black body. When the black body enclosure has reached the appropriate temperature equilibrium, read the output of the radiation pyrometer. Repeat for each temperature.
+
+(b) *Total heat flux meter.* The total flux meter shall be calibrated by the National Bureau of Standards, (direct request for such calibration services to the: Radiometric Physics Division, 534, National Bureau of Standards (NBS), Washington, DC 20234.), or, alternatively, its calibration shall be developed by transfer calibration methods with an NBS calibrated flux meter. This latter calibration shall make use of the radiant panel tester as the heat source. Measurements shall be made at each of the nine dummy specimen positions and the mean value of these results shall constitute the final calibration.
+
+(c) *Recommendation.* It is recommended that each laboratory maintain a dedicated calibrated reference flux meter against which one or more working flux meters can be compared as needed. The working flux meters should be calibrated according to this procedure at least once per year.

@@ -1,0 +1,3 @@
+##### § 1502.9 Modification or revocation of regulation or order. #####
+
+If, upon review of an objection or request for hearing, the Commission determines that the regulation should be modified or revoked, the Commission will promptly take such action by notice in the Federal Register. Further objections to or requests for hearing on the modification or revocation may be submitted under §§ 1502.5 and 1502.6, but no further issue may be taken with other provisions in the regulation. Objections and requests for hearing that are not affected by the modification or revocation will remain on file and be acted upon in due course.

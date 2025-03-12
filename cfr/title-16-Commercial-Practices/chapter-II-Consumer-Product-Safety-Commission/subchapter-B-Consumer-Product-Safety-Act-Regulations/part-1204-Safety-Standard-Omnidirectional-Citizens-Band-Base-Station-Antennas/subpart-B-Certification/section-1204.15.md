@@ -1,0 +1,5 @@
+##### § 1204.15 Qualification testing. #####
+
+(a) *Testing.* Before any manufacturer or importer of CB antennas which are subject to the standard distributes them in commerce, one or more samples of each model shall be tested to determine that all such antennas manufactured after the effective date of the standard will comply with the standard. The type of tests and the manner of selecting samples shall be determined by the manufacturer or importer to provide a reasonable assurance that all antennas subject to the standard will comply with the standard. Any or all of the qualification testing required by this paragraph may be performed before the effective date of the standard.
+
+(b) *Product modifications.* If any changes are made to a product, after initial qualification testing, that could affect the ability of the product to meet the requirements of the standard, additional qualification tests must be made before the changed antennas are manufactured for sale or distributed in commerce.

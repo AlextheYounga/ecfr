@@ -1,0 +1,3 @@
+##### § 243.7 Inapplicable provisions of law. #####
+
+An airlift services contract for which the rate of payment is determined in accordance with subsection (a) of 10 U.S.C. 9511a shall not be subject to the provisions of 10 U.S.C. 2306a, or to the provisions of subsections (a) and (b) of 41 U.S.C. 1502. Specifically, contracts establishing rates for services provided by air carriers who are participants in the CRAF program are not subject to the cost or pricing data provision of the Truth in Negotiations Act (10 U.S.C. 2306a) or the Cost Accounting Standards (41 U.S.C. 1502). CRAF carriers will, however, continue to submit data in accordance with the MOU and the DOT, Form 41.

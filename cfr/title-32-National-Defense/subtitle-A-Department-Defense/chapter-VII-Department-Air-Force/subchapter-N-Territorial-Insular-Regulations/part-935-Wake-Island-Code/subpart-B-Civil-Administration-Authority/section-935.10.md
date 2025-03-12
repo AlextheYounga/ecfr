@@ -1,0 +1,7 @@
+##### § 935.10 Designation and delegation of authority. #####
+
+(a) The civil administration authority at Wake Island is vested in the Secretary of the Air Force. That authority has been delegated to the General Counsel of the Air Force with authority to redelegate all or any part of his functions, powers, and duties under this part to such officers and employees of the Air Force as he may designate, but excluding redelegation of the power to promulgate, amend, or repeal this part, or any part thereof. Such redelegation must be in writing and must be in accordance with any applicable Secretary of the Air Force Orders. Such redelegation may be further redelegated subject to such restrictions as the delegating authority may impose. A redelegation may also be made to a commissioned officer serving in another United States military service who exercises military command, but such redelegation must explicitly and specifically list the powers redelegated and shall not include the power or authority to issue permits, licenses, or other outgrants unless individually approved by the Air Force official who made the redelegation. The Commander is the agent of the Secretary, his delegate and designee when carrying out any function, power, or duty assigned under this part.
+
+(b) The authority of the General Counsel to appoint Judges shall not be delegated.
+
+(c) Judges and officers of the court may not redelegate their powers or authorities except as specifically noted in this part.

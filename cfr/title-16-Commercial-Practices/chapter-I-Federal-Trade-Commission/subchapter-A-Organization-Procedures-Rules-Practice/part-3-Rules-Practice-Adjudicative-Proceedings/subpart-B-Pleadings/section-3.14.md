@@ -1,0 +1,7 @@
+##### § 3.14 Intervention. #####
+
+(a) Any individual, partnership, unincorporated association, or corporation desiring to intervene in an adjudicative proceeding shall make written application in the form of a motion setting forth the basis therefor. Such application shall be served upon each party to the proceeding in accordance with the provisions of § 4.4(b) of this chapter. The answer filed by any party shall be served upon the applicant in accordance with the provisions of § 4.4(b). The Administrative Law Judge or the Commission may by order permit the intervention to such extent and upon such terms as are provided by law or as otherwise may be deemed proper.
+
+(b) In an adjudicative proceeding where the complaint states that divestiture relief is contemplated, the labor organization[s] representing employees of the respondent[s] may intervene as a matter of right. Applications for such intervention are to be made in accordance with the procedures set forth in paragraph (a) of this section and must be filed within 60 days of the issuance of the complaint. Intervention as a matter of right shall be limited to the issue of the effect, if any, of proposed remedies on employment, with full rights of participation in the proceeding concerning this issue. This paragraph does not affect a labor organization's ability to petition for leave to intervene pursuant to § 3.14(a).
+
+[32 FR 8449, June 13, 1967, as amended at 46 FR 20979, Apr. 8, 1981; 80 FR 25941, May 12, 2015]

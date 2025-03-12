@@ -1,0 +1,3 @@
+##### § 2700.43 Reproduction controls. #####
+
+OMSN and SLNO shall maintain records to show the number and distribution of all OMSN originated classified documents. Reproduction of classified material shall take place only in accordance with section 4-4 of E.O. 12065 and any limitations imposed by the originator. Should copies be made, they are subject to the same controls as the original document. Records showing the number of distribution of copies shall be maintained by the Office Supervisor and the log stored with the original documents. These measures shall not restrict reproduction for the purposes of mandatory review.

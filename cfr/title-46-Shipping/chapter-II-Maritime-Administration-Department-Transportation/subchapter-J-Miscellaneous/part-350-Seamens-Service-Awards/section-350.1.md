@@ -1,0 +1,3 @@
+##### § 350.1 Purpose. #####
+
+The purpose of this part is to prescribe regulations to implement the Merchant Marine Decorations and Medals Act of 1988, 46 App. USC 2001, *et seq.,* to authorize the issue of decorations, medals, and other recognition for service in the U.S. merchant marine, and for other purposes, and to provide for the replacement of awards previously issued for service in the United States Merchant Marine under prior law.

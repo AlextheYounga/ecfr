@@ -1,0 +1,47 @@
+##### § 1505.4 Manufacturing requirements. #####
+
+(a) *General.* (1) Only materials safe and suitable for the particular use for which the electrically operated toy is intended shall be employed.
+
+(2) Toys shall be produced in accordance with detailed material specifications, production specifications, and quality assurance programs. Quality assurance programs shall be established and maintained by each manufacturer to assure compliance with all requirements of this part.
+
+(3) The manufacturer or importer shall keep and maintain for 3 years after production or importation of each lot of toys (i) the material and production specifications and the description of the quality assurance program required by paragraph (a)(2) of this section, (ii) the results of all inspections and tests conducted, and (iii) records of sale and distribution. These records shall be made available upon request at reasonable times to any officer or employee of the Consumer Product Safety Commission. The manufacturer or importer shall permit such officer or employee to inspect and copy such records, to make such inventories of stock as he deems necessary, and to otherwise verify the accuracy of such records.
+
+(4) Toys shall be constructed and finished with a high degree of uniformity and as fine a grade of workmanship as is practicable in a well-equipped manufacturing establishment. Each component of a toy shall comply with the requirements set forth in this part.
+
+(b) [Reserved]
+
+(c) *Protective coatings.* Iron and steel parts shall be suitably protected against corrosion if the lack of a protective coating would likely produce a hazardous condition in normal use or when the toy is subjected to reasonably foreseeable damage or abuse.
+
+(d) *Mechanical assembly*—(1) *General.* A toy shall be designed and constructed to have the strength and rigidity necessary to withstand reasonably foreseeable damage and abuse without producing or increasing a shock, fire, or other accident hazard. An increase in hazards may be due to total or partial structural collapse of the toy resulting in a reduction of critical spacings, loosening or displacement of one or more components, or other serious defects.
+
+(2) *Mounting.* Each switch, lampholder, motor, automatic control, transformer, and similar component shall be securely mounted and shall be prevented from turning, unless the turning of such component is part of the design of the toy and produces no additional hazard such as reduced spacings below acceptable levels or stress on the connection. Friction between tight-fitting surfaces shall not be considered sufficient for preventing the turning of components. The proper use of a suitable lockwasher or a keyed and notched insert plus a suitable lockwasher for single-hole mountings shall be acceptable. Each toy shall be designed and constructed so that vibrations occurring during normal operation and after reasonably foreseeable damage or abuse will not affect it adversely. Brush caps shall be tightly threaded or otherwise designed to prevent loosening.
+
+(3) *Structural integrity.* Heating elements shall be supported in a substantial and reliable manner and shall be structurally prevented from making contacts inside or outside of the toy which may produce shock hazards. The current-carrying component(s) of the heating element shall be enclosed, and the enclosure shall be designed or insulated to prevent the development of a shock or fire hazard that may result from element failure. A toy operating with a gas or liquid under pressure, such as an electrically operated steam engine, shall be tested with respect to its explosion hazard and shall be provided with a pressure relief device that will discharge in the safest possible direction; that is, avoiding direct human contact and avoiding the wetting of electrical contacts.
+
+(e) *Insulating material.* (1) Material to be used for mounting uninsulated live electrical elements shall be generally accepted as suitable for the specific application, particularly with regard to electrical insulation (voltage breakdown) and good aging characteristics (no significant change in insulating characteristics over the expected lifetime of the toy).
+
+(2) Material used to insulate a heating element from neighboring parts shall be suitable for the purpose. If plain asbestos in a glass braid is used to so insulate the heating element, it shall be tightly packed and totally enclosed by the braid, and the overall thickness, including the braid, shall not be less than one-sixteenth inch. Hard fiber may be used for electrically insulating bushings, washers, separators, and barriers, but is not sufficient as the sole support of uninsulated live metal parts.
+
+(f) *Enclosures*—(1) *General.* Each toy shall have an enclosure constructed of protective material suitable for the particular application, for the express purpose of housing all electrical parts that may present a fire, shock, or other accident hazard under any conditions of normal use or reasonably foreseeable damage or abuse. Enclosures shall meet the performance requirements prescribed by § 1505.6(b).
+
+(2) *Accessibility.* An enclosure containing a wire, splice, brush cap, connection, electrical component, or uninsulated live part or parts at a potential of more than 30 volts r.m.s. (42.4 volts peak) to any other part or to ground:
+
+(i) Shall be sealed by welding, riveting, adhesive bonding, and/or by special screws or other fasteners not removable with a common household tool (screwdriver, pliers, or other similar household tool) used as intended; and
+
+(ii) Shall have no opening permitting entry of a 0.010-inch-diameter music wire that could contact a live part. Cross-notch-head screws, spring clips, bent tabs, and similar fasteners shall not be considered suitable sealing devices for enclosures since they are easy to remove with common household tools. Bent tabs shall be acceptable if, due to metal thickness or other factors, they successfully resist forceful attempts to dislodge them with ordinary tools.
+
+(3) *Nonapplication.* The requirements of this paragraph are not applicable to an insulating husk enclosure or equivalent that covers the electrodes of a replaceable incandescent lamp and its lampholder contacts. The primary function of an enclosure containing a lamp shall be to protect it from breakage during normal use or reasonably foreseeable damage or abuse.
+
+(g) *Spacings.* The distance, through air or across the surface of an insulator, between uninsulated live metal parts and a metallic enclosure and between uninsulated live metal parts and all other metal parts shall be suitable for the specific application as determined by the dielectric strength requirements prescribed by § 1505.6(e)(2). Electrical insulating linings on barriers shall be held securely in place.
+
+(h) *Special safety features*—(1) *Moving parts.* If the normal use of a toy involves accident hazards, suitable protection shall be provided for the reduction of such hazards to an acceptable minimum. For example, rotors, pulleys, belting, gearing, and other moving parts shall be enclosed or guarded to prevent accidental contact during normal use or when subjected to reasonably foreseeable damage or abuse. Such enclosure or guard shall not contain openings that permit entrance of a1/4-inch-diameter rod and present a hazardous condition.
+
+(2) *Switch marking.* Any toy having one or more moving parts which perform an inherent function of the toy and which may cause personal injury shall have a switch that can deenergize the toy by a simple movement to a plainly marked “OFF” position. Momentary contact switches which are normally in the “OFF” position need not be so marked.
+
+(3) *Electrically operated sewing machines.* Electrically operated toy sewing machines shall be designed and constructed to eliminate the possibility of a child's finger(s) being pierced by a needle. For the purpose of this paragraph, a clearance of not more than five thirty-seconds of an inch below the point of the needle when in its uppermost position or below the presser foot, if provided, shall be considered satisfactory.
+
+(4) *Pressure relief valves.* A pressurized enclosure shall have an automatic pressure relief device and shall be capable of withstanding hydrostatic pressure equal to at least five times the relief pressure.
+
+(5) *Containers for heated materials.* Containers intended for holding molten compounds and hot liquids shall be designed and constructed to minimize accidental spillage. A pot or pan having a lip and one or more properly located pouring spouts and an adequately thermally insulated handle may provide satisfactory protection. Containers intended solely for baking need not be designed and constructed to minimize accidental spillage. Containers shall be of such material and construction t + at they will not deform or melt when subjected to the maximum operating temperature occurring during normal use or after reasonably foreseeable damage or abuse.
+
+(6) *Water.* Electrically operated toys (such as toy irons) shall not be designed or manufactured to be used with water except for toy steam engines or other devices in which the electrical components are separate from the water reservoir and are completely contained in a sealed chamber. Toys requiring occasional or repeated cleaning with a wet cloth shall be constructed to prevent seepage of water into any electrically active area that may produce a hazardous condition.

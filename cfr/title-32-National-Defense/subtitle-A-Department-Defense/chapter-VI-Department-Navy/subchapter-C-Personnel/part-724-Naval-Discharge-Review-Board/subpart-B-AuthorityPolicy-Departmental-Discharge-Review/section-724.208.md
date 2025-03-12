@@ -1,0 +1,3 @@
+##### § 724.208 Implementation of NDRB decisions. #####
+
+The Commandant of the Marine Corps and the Chief of Naval Operations are responsible for implementing Naval Discharge Review Board decisions within their respective services. The Commandant of the Marine Corps shall be notified of decisions in each discharge review case and shall implement the decisions within the Marine Corps. The Commander, Naval Military Personnel Command, acting for the Chief of Naval Operations and Chief of Naval Personnel, shall be notified of decisions in each discharge review case and shall implement the decisions within the Navy.

@@ -1,0 +1,5 @@
+##### § 260.11 Ozone-safe and ozone-friendly claims. #####
+
+It is deceptive to misrepresent, directly or by implication, that a product, package, or service is safe for, or friendly to, the ozone layer or the atmosphere.
+
+Example 1:A product is labeled “ozone-friendly.” The claim is deceptive if the product contains any ozone-depleting substance, including those substances listed as Class I or Class II chemicals in Title VI of the Clean Air Act Amendments of 1990, Public Law. 101-549, and others subsequently designated by EPA as ozone-depleting substances. These chemicals include chlorofluorocarbons (CFCs), halons, carbon tetrachloride, 1,1,1-trichloroethane, methyl bromide, hydrobromofluorocarbons, and hydrochlorofluorocarbons (HCFCs).Example 2:An aerosol air freshener is labeled “ozone-friendly.” Some of the product's ingredients are volatile organic compounds (VOCs) that may cause smog by contributing to ground-level ozone formation. The claim likely conveys that the product is safe for the atmosphere as a whole, and, therefore, is deceptive.

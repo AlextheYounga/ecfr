@@ -1,0 +1,3 @@
+##### § 1608.5 Salvage operations of common carriers and others. #####
+
+For the purposes of this act the ordinary course of business of common carriers, contract carriers or freight forwarders, as referred to in section 11 of the act, shall not include the marketing or handling of products, fabrics, or related materials subject to the act in the course of performance of salvage or lien realizing operations.

@@ -1,0 +1,3 @@
+##### § 67.501 Application for Certificate of Documentation. #####
+
+An application fee is charged for an initial Certificate of Documentation in accordance with subpart K of this part. If application is made for any trade endorsement, the applicable fee under § 67.511 will be charged in addition to the application fee for the Certificate. The application fee does not include the fee under § 67.527 for filing and recording any required bills of sale or instruments in the nature of a bill of sale, or the application fee under § 67.519 for waivers in accordance with §§ 67.89 or 67.101.

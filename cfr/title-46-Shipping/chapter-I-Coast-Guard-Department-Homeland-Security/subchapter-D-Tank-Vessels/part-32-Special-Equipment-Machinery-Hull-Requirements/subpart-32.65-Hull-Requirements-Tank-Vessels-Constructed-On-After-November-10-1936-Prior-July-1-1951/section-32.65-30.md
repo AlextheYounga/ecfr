@@ -1,0 +1,3 @@
+##### § 32.65-30 Tank vessels with independent tanks—TB/ALL. #####
+
+Independent cargo tanks may be located in hold spaces or in other cargo tanks but in all cases a working space of at least 15 inches shall be provided around such independent tanks, or else provisions shall be made for moving them to secure such space. When independent cargo tanks are located in an enclosed space other than a cargo tank, such enclosed space shall be considered as equivalent to a pumproom, and shall be safeguarded as such, as required in the regulations in this subchapter.

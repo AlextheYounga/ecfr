@@ -1,0 +1,3 @@
+##### § 2.45-30 Penalties. #####
+
+The owner, charterer, managing operator, agent, master, or individual in charge of a vessel that employs a classification society to review, examine, survey, or certify the construction, repair, or alteration of a vessel in the United States is subject to civil penalties in accordance with Title 46 U.S.C. 3318 if the classification society is not approved by the Coast Guard under this subpart.

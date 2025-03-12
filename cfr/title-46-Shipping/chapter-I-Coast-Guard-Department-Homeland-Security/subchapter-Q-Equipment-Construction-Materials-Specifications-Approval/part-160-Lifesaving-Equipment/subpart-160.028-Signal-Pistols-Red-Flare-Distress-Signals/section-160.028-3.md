@@ -1,0 +1,7 @@
+##### § 160.028-3 Materials, workmanship, construction, and performance requirements. #####
+
+(a) *Materials.* The materials used in signal pistols shall conform strictly to the specifications and drawings submitted by the manufacturer and approved by the Commandant. In general, all parts shall be corrosion-resistant or properly protected against corrosion. The ejection mechanism shall be of material possessing excellent wearing qualities.
+
+(b) *Workmanship.* Signal pistols shall be of first class workmanship and shall be free from imperfections of manufacture affecting their serviceability or appearance.
+
+(c) *Construction and performance requirements. (Pistols intended for signals meeting Subpart 160.024).* Signal pistols shall be of rugged construction and shall operate satisfactorily in firing and ejecting pistol-projected parachute red flare distress signals of the type covered by Subpart 160.024. The ejection mechanism shall be of sturdy design capable of withstanding rough and repeated usage. The overall size and weight of signal pistols should be kept to a minimum consistent with adequate strength and safety. When the pistol is cocked and the trigger is pulled, the firing pin shall project between 1.52 mm and 2.54 mm (0.060 in. and 0.100 in.) beyond the face plate of the frame. When the barrel is locked in the firing position, the barrel chamber shall be not more than 0.25 mm (0.010 in.) from the face plate of the frame.

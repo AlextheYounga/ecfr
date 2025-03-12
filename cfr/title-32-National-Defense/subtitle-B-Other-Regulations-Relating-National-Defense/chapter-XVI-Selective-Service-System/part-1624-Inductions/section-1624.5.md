@@ -1,0 +1,11 @@
+##### § 1624.5 Order to report for induction. #####
+
+(a) Immediately upon determining which persons are to be ordered for induction, the Director of Selective Service shall issue to each person selected an Order to Report for Induction. The order will be sent to the current address most recently provided by the registrant to the Selective Service System. The date specified to report for induction shall be at least 10 days after the date on which the Order to Report for Induction is issued. The filing of a claim for reclassification in accord with § 1633.2 of this chapter delays the date the registrant is required to report for induction until not earlier than the tenth day after the claim is determined to have been abandoned or is finally determined is finally determined in accord with the provisions of this chapter. A claim is finally determined when the registrant does not have the right to appeal the last classification action with respect to the claim or he fails to exercise his right to appeal.
+
+(b) Any person who has been ordered for induction who is distant from the address to which the order was sent must either report at the time and place specified in the order, or voluntarily submit himself for induction processing at another MEPS on or before the day that he was required to report in accordance with his induction order.
+
+(c) The Director of Selective Service may direct the cancellation of any Order to Report for Induction at any time.
+
+(d) Any Order to Report for Induction issued by the Director of Selective Service to a registrant who is an alien, who has not resided in the United States for one year will be void. Such order will be deemed only to be an order to produce evidence of his status. When an alien registrant has been within the United States for two or more periods (including periods before his registration) and the total of such periods equals one year, he shall be deemed to have resided in the United States for one year. In computing the length of such periods, any portion of one day shall be counted as a day. Upon establishing a one year residency, the alien registrant will be assigned to the age selection group corresponding to his age.
+
+[47 FR 4648, Feb. 1, 1982, as amended at 52 FR 24455, July 1, 1987]

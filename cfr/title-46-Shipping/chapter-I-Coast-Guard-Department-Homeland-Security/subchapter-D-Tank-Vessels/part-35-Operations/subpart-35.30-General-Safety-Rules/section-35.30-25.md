@@ -1,0 +1,3 @@
+##### § 35.30-25 Explosives—TB/ALL. #####
+
+Fulminates or other detonating compounds in bulk in dry condition; explosive compositions that ignite spontaneously or undergo marked decomposition when subjected for forty-eight consecutive hours to a temperature of 167 °F. or more; composition containing an ammonium salt and a chlorate; and other like explosives shall not be accepted, stored, stowed or transported on board tank vessels.

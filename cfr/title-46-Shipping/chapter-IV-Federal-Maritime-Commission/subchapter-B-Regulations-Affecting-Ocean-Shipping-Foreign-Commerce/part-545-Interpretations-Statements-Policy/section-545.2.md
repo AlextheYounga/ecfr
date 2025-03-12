@@ -1,0 +1,5 @@
+##### § 545.2 Interpretation of Shipping Act of 1984—Unpaid ocean freight charges. #####
+
+Section 10(a)(1) of the Shipping Act of 1984 (46 U.S.C. 41102(a)) states that it is unlawful for any person to obtain or attempt to obtain transportation for property at less than the properly applicable rates, by any “unjust or unfair device or means.” An essential element of the offense is use of an “unjust or unfair device or means.” In the absence of evidence of bad faith or deceit, the Federal Maritime Commission will not infer an “unjust or unfair device or means” from the failure of a shipper to pay ocean freight. An “unjust or unfair device or means” could be inferred where a shipper, in bad faith, induced the carrier to relinquish its possessory lien on the cargo and to transport the cargo without prepayment by the shipper of the applicable freight charges.
+
+[58 FR 7194, Feb. 5, 1993. Redesignated at 64 FR 7813, Feb. 17, 1999, as amended at 74 FR 50732, Oct. 1, 2009]

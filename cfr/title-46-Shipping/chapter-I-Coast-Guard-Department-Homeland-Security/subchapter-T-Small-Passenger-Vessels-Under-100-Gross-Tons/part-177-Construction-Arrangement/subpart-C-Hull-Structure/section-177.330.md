@@ -1,0 +1,3 @@
+##### § 177.330 Sailing vessels. #####
+
+The design, materials, and construction of masts, posts, yards, booms, bowsprits, and standing rigging on a sailing vessel must be suitable for the intended service. The hull structure must be adequately reinforced to ensure sufficient strength and resistance to plate buckling. The cognizant OCMI may require the owner to submit detailed calculations on the strength of the mast, post, yards, booms, bowsprits, and standing rigging to the Marine Safety Center for evaluation.

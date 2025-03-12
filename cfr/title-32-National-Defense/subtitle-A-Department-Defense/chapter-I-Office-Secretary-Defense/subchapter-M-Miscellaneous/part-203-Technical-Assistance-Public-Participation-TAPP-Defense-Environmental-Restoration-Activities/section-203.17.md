@@ -1,0 +1,3 @@
+##### § 203.17 Technical assistance provider reporting requirements. #####
+
+Each technical assistance provider shall submit progress reports, financial status reports, materials prepared for the RAB/TRC, and a final report to the DoD installation for the TAPP project as specified by the specific purchase order agreement. The final report shall document TAPP project activities over the entire period of support and shall describe the achievements with respect to stated TAPP project purposes and objectives.

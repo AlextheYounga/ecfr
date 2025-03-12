@@ -1,0 +1,3 @@
+##### § 644.508 Agreement with Small Business Administration (SBA) on sale of timber. #####
+
+The Department of Defense has entered into an agreement with the SBA for the development of a program of assistance for small concerns operating in the timber business. This agreement is published for compliance as Figure 11-19 in ER 405-1-12. In the implementation of this agreement, the DE will cooperate with field representatives of SBA to the fullest extent compatible with efficient administration of the Army's timber disposal program.

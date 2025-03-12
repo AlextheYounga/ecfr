@@ -1,0 +1,3 @@
+##### § 643.103 Term. #####
+
+A permit may be granted to another military department, a DOD component, or Federal agency for a mutually agreeable period. if the permit is on a permanent or irrevocable basis, it is considered tantamount to a transfer and must be granted under special statutory authority. Where the real property involved is estimated to exceed $50,000 in value, a report must be made to the Congressional Committees on Armed Services, pursuant to title 10 U.S.C. 2662.

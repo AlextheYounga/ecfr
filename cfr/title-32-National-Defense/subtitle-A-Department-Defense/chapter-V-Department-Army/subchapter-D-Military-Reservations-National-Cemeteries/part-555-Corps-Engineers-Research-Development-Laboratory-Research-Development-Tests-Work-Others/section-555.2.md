@@ -1,0 +1,3 @@
+##### § 555.2 Applicability. #####
+
+This regulation applies to the U.S. Army Engineer Waterways Experiment Station (WES), the U.S. Army Construction Engineering Research Laboratory (CERL), the U.S. Army Engineer Topographic Laboratories (ETL), the U.S. Army Coastal Engineering Research Center (CERC), the U.S. Army Cold Regions Research and Engineering Laboratory (CRREL), the U.S. Army Facilities Engineering Support Agency (FESA), the U.S. Army Corps of Engineers Water Resources Support Center (WRSC).

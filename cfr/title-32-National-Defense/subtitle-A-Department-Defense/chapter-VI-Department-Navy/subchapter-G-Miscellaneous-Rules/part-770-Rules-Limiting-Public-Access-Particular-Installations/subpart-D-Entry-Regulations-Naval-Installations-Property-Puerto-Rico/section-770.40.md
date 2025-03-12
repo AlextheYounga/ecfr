@@ -1,0 +1,3 @@
+##### § 770.40 Violations. #####
+
+Any person entering or remaining on U.S. Naval installations and properties in Puerto Rico, without the advance consent of those officials hereinabove enumerated, or their authorized representatives, shall be considered to be in violation of these regulations and therefore subject to the penalties prescribed by 18 U.S.C. 1382, which provides in pertinent part: “Whoever, within the jurisdiction of the United States, goes upon any military, naval \* \* \* reservation, post, fort, arsenal, yard, station, or installation, for any purpose prohibited by law or lawful regulation \* \* \* shall be fined not more than $500.00 or imprisoned not more than six months, or both,” or any other applicable laws or regulations.

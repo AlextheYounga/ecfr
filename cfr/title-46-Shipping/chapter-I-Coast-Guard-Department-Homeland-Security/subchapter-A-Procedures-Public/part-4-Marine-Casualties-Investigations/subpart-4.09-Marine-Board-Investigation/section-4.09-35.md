@@ -1,0 +1,3 @@
+##### § 4.09-35 Preferment of charges. #####
+
+(a) If in the course of an investigation by a Marine Board there appears probable cause for the preferment of charges against any licensed or certificated personnel, the Marine Board shall, either during or immediately following the investigation and before the witnesses have dispersed, apprise the District Commander of such evidence for possible action in accordance with part 5 of this subchapter, without waiting for the approval of the report by the Commandant. Such action or proceedings shall be independent and apart from any other action which may be later ordered by the Commandant or taken by other authorities.

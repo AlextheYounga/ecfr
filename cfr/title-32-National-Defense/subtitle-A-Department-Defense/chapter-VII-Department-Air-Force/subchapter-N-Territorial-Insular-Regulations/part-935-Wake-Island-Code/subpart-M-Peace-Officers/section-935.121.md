@@ -1,0 +1,3 @@
+##### § 935.121 Qualifications of peace officers. #####
+
+Any person appointed as a peace officer must be a citizen of the United States and have attained the age of 18 years. The following persons, while on Wake Island on official business, shall be deemed peace officers: special agents of the Air Force Office of Special Investigations, members of the Air Force Security Forces, agents of the Federal Bureau of Investigation, United States marshals and their deputies, officers and agents of the United States Secret Service, agents of the United States Bureau of Alcohol, Tobacco, and Firearms, agents of the United States Customs Service, and agents of the United States Immigration and Naturalization Service.

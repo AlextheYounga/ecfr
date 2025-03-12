@@ -1,0 +1,3 @@
+##### § 806b.5 Personal notes. #####
+
+The Privacy Act does not apply to personal notes on individuals used as memory aids. Personal notes may become Privacy Act records if they are retrieved by name or other personal identifier and at least one of the following three conditions apply: Keeping or destroying the records is not at the sole discretion of the author; the notes are required by oral or written directive, regulation, or command policy; or they are shown to other agency personnel.

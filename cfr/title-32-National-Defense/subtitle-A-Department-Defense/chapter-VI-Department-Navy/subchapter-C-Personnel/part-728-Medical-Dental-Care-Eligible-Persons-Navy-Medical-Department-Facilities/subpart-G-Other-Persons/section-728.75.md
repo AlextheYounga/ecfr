@@ -1,0 +1,5 @@
+##### § 728.75 Applicants for cadetship at service academies and applicants for the Uniformed Services University of Health Sciences (USUHS). #####
+
+(a) Upon presentation of a letter of authorization from the Department of Defense Medical Examination Review Board (DODMERB), applicants for cadetship at Service Academies (Navy, Army, Air Force, Coast Guard, and Merchant Marine) and applicants for the Uniformed Services University of Health Sciences (USUHS) will be furnished medical examinations at facilities designated by the DODMERB. Hospitalization is authorized when qualifications for service cannot otherwise be determined. Use the hospitalization period for diagnostic purposes only, and not to correct disqualifying or other defects. Perform examinations and make disposition of completed forms per BUMEDINST 6120.3M.
+
+(b) Applicants who suffer injury or acute illness while awaiting or undergoing processing at Navy and Marine Corps facilities or at MEPS may be furnished emergency medical and dental care, including emergency hospitalization, for that injury or illness.

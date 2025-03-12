@@ -1,0 +1,7 @@
+##### § 701.40 Background. #####
+
+(a) The DON follows the uniform fee schedule developed by DoD and established to conform with the Office of Management and Budget's (OMB's) Uniform Freedom of Information Act Fee Schedule and Guidelines.
+
+(b) Fees reflect direct costs for search; review (in the case of commercial requesters); and duplication of documents, collection of which is permitted by the FOIA. They are neither intended to imply that fees must be charged in connection with providing information to the public in the routine course of business, nor are they meant as a substitute for any other schedule of fees, which does not supersede the collection of fees under the FOIA.
+
+(c) FOIA fees do not supersede fees chargeable under a statute specifically providing for setting the level of fees for particular types of records. For example, 5 U.S.C. 552 (a)(4)(A)(vi) enables a Government agency such as the Government Printing Office (GPO) or the National Technical Information Service (NTIS), to set and collect fees. DON activities should ensure that when documents that would be responsive to a request are maintained for distribution by agencies operating statutory-based fee schedule programs, such as GPO or NTIS, they inform requesters of the steps necessary to obtain records from those sources.

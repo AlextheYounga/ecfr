@@ -1,0 +1,3 @@
+##### § 1500.122 Deceptive use of disclaimers. #####
+
+A hazardous substance shall not be deemed to have met the requirements of section 2(p) (1) and (2) of the act (repeated in § 1500.3(b)(14) (i) and (ii)) if there appears in or on the label (or in any accompanying literature; words, statements, designs, or other graphic material that in any manner negates or disclaims any of the label statements required by the act; for example, the statement “Harmless” or “Safe around pets” on a toxic or irritant substance.

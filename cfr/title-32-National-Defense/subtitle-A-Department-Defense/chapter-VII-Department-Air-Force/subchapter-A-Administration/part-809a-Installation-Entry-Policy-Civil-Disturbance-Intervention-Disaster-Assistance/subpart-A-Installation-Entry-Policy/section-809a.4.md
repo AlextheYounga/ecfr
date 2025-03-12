@@ -1,0 +1,3 @@
+##### § 809a.4 Use of Government facilities. #####
+
+Commanders are prohibited from authorizing demonstrations for partisan political purposes. Demonstrations on any Air Force installation for other than political purposes may only occur with the prior approval of the installation commander. Demonstrations that could result in interference with, or prevention of, the orderly accomplishment of the mission of an installation or that present a clear danger to loyalty, discipline or morale of members of the Armed Forces will not be approved.

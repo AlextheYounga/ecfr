@@ -1,0 +1,13 @@
+##### § 287.6 Establishment of fund. #####
+
+(a) *Authorization by the Administration.* If the application is approved by the Administration, the Administration will adopt Orders authorizing the establishment of a construction reserve fund with the depository or depositories designated by the taxpayer and approved by the Administration. The Orders will provide for joint control by the Administration and the taxpayer over such fund, will set forth the conditions governing the establishment and maintenance of the fund and the making of deposits therein and withdrawals therefrom, and will designate the representatives authorized to execute instruments of withdrawal on behalf of the Administration.
+
+(b) *Resolution or agreement of the taxpayer.* A certified copy of the Orders of the Administration will be furnished the taxpayer. If the taxpayer is a corporation, it shall promptly adopt, through its board of directors, a resolution satisfactory in form and substance to the Administration, authorizing the establishment and maintenance of the fund in conformity with the action of the Administration. If the taxpayer is not a corporation, it shall promptly execute an agreement with the depository satisfactory in form and substance to the Administration to conform to the action of the Administration as set forth in the Orders. Certified copies of the Orders of the Administration and of the resolution of the taxpayer (if it is a corporation) will be furnished to the depository by the Administration and the taxpayer, respectively, for its guidance in maintaining the fund and honoring instruments of withdrawal. The taxpayer, if a corporation, shall also furnish the Administration with a certified copy of its resolution, or if not a corporation a duplicate original of its agreement with the depository.
+
+Note:
+
+The resolutions referred to in this section shall be retained 2 years after a final release or settlement agreement is completed between the Maritime Administration/Maritime Subsidy Board and the taxpayer.
+
+(c) *Constructive action not recognized.* Constructive deposits, substitutions or withdrawals will not be recognized by the Administration in the establishment and maintenance of the fund.
+
+(d) *Failure to make deposits as basis for termination of fund.* In the event no deposit is made into the fund for more than five years, any amounts remaining in the fund shall be removed from the fund at the discretion of the Administration and, if so removed, the fund shall be terminated. In the event of such termination, see § 287.23 for recognition of gain.

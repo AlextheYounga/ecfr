@@ -1,0 +1,7 @@
+##### § 136.212 Inspection for certification. #####
+
+(a) *Frequency of inspections.* After a towing vessel receives its initial COI, the OCMI will inspect a towing vessel subject to this subchapter located in his or her jurisdiction at least once every 5 years. The OCMI must ensure that every towing vessel is of a structure suitable for its intended route. If the OCMI deems it necessary, he or she may direct the vessel to get underway, and may adopt any other suitable means to test the towing vessel and its equipment.
+
+(b) *Nature of inspection.* The inspection will ensure that the vessel is in satisfactory condition and fit for the service for which it is intended, and that it complies with the applicable statutes and regulations for such vessels. The inspection will include inspections of the structure, pressure vessels and their appurtenances, piping, main and auxiliary machinery, electrical installations, lifesaving appliances, fire detecting and extinguishing equipment, pilot boarding equipment, and other equipment. The inspection will also determine that the vessel is in possession of any valid certificates or licenses issued by the Federal Communications Commission, if required. The inspection will also include an examination of the vessel's lights, means of making sound signals and distress signals, and pollution prevention systems and procedures.
+
+(c) *Time of issuance of COI.* The OCMI will issue a vessel a new COI after the vessel successfully completes the inspection for certification.

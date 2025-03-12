@@ -1,0 +1,3 @@
+##### § 312.8 Confidentiality, security, and integrity of personal information collected from children. #####
+
+The operator must establish and maintain reasonable procedures to protect the confidentiality, security, and integrity of personal information collected from children. The operator must also take reasonable steps to release children's personal information only to service providers and third parties who are capable of maintaining the confidentiality, security and integrity of such information, and who provide assurances that they will maintain the information in such a manner.

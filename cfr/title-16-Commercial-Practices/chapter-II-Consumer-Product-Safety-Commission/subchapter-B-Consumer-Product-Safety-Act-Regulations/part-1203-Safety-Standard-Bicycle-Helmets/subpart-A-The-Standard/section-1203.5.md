@@ -1,0 +1,3 @@
+##### § 1203.5 Construction requirements—projections. #####
+
+Any unfaired projection extending more than 7 mm (0.28 in.) from the helmet's outer surface shall break away or collapse when impacted with forces equivalent to those produced by the applicable impact-attenuation tests in § 1203.17 of this standard. There shall be no fixture on the helmet's inner surface projecting more than 2 mm into the helmet interior.

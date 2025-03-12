@@ -1,0 +1,3 @@
+##### § 651.8 Disposition of final documents. #####
+
+All NEPA documentation and supporting administrative records shall be retained by the proponent's office for a minimum of six years after signature of the FNSI/ROD or the completion of the action, whichever is greater. Copies of EAs, and final EISs will be forwarded to AEC for cataloging and retention in the Army NEPA library. The DEIS and FEIS will be retained until the proposed action and any mitigation program is complete or the information therein is no longer valid. The ACSIM shall forward copies of all FEISs to DTIC, the National Archives, and Records Administration.

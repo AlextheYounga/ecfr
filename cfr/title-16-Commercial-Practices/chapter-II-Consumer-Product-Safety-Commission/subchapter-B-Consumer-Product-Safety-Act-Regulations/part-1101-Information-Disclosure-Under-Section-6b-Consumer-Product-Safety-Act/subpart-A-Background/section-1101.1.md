@@ -1,0 +1,15 @@
+##### § 1101.1 General background. #####
+
+(a) *Basic purpose.* This rule sets forth the Consumer Product Safety Commission's policy and procedure under sections 6(b)(1)-(5) of the Consumer Product Safety Act (CPSA) (15 U.S.C. 2055(b)(1)-(5)) which relate to public disclosure of information from which the identity of a manufacturer or private labeler of a product can be readily ascertained. In addition, these rules provide for retraction of inaccurate or misleading information the Commission has disclosed that reflects adversely on the safety of a consumer product or class of products or on the practices of any manufacturer, private labeler, distributor or retailer of consumer products as required by section 6(b)(7) of the CPSA (15 U.S.C. 2055(b)(7)).
+
+(b) *Statutory requirements.* Section 6(b) establishes procedures that the Commission must follow when it releases certain firm specific information to the public and when it retracts certain information it has released.
+
+(1) Generally, section 6(b)(1) requires the Commission to provide manufacturers or private labelers with advance notice and opportunity to comment on information the Commission proposes to release, if the public can readily ascertain the identity of the firm from the information. Section 6(b)(1) also requires the Commission to take reasonable steps to assure that the information is accurate and that disclosure is fair in the circumstances and reasonably related to effectuating the purposes of the Acts administered by the Commission. Disclosure of information may not occur in fewer than 15 days after notice to the manufacturer or private labeler unless the Commission publishes a finding that the public health and safety requires a lesser period of notice. Exceptions to these requirements are established in section 6(b)(4). Additional limitations on the disclosure of information reported to the Commission under section 15(b) of the CPSA are established in section 6(b)(5).
+
+(2) Section 6(b)(2) requires the Commission to provide further notice to manufacturers or private labelers where the Commission proposes to disclose product-specific information the firms have claimed to be inaccurate.
+
+(3) Section 6(b)(3) authorizes manufacturers and private labelers to bring lawsuits against the Commission to prevent disclosure of product-specific information after the firms have received the notice specified.
+
+(c) *Internal clearance procedures.* Section 6(b)(6) requires the Commission to establish internal clearance procedures for Commission initiated disclosures of information that reflect on the safety of a consumer product or class of products, even if the information is not product specific. This rule does not address section 6(b)(6) because the Commission has internal clearance procedures in its directives system. (Directive 1450.2 “Clearance Procedures for Commission Staff to Use in Providing Information to the Public.” April 27, 1983.
+
+[48 FR 57430, Dec. 29, 1983, as amended at 73 FR 72334, Nov. 28, 2008]

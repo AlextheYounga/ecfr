@@ -1,0 +1,3 @@
+##### § 770.44 Entry restrictions. #####
+
+Except for military personnel, their authorized dependents, or guests, and employees of the United States in the performance of their official duties, entry upon Naval Submarine Base New London, or remaining thereon by any person for any purpose without the advance consent of the Commanding Officer, Naval Submarine Base New London, or his authorized representative is prohibited. *See* 18 U.S.C. 1382j, the Internal Security Act of 1950 (50 U.S.C. 797); Chief of Naval Operations Instruction 5510.45B of April 19, 1971; and Secretary of the Navy Instruction 5511.36 of December 20, 1980.

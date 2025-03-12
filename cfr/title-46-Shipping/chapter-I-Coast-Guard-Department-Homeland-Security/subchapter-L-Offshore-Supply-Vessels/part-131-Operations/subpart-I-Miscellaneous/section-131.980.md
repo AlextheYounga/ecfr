@@ -1,0 +1,3 @@
+##### § 131.980 Lookouts and watches. #####
+
+Nothing in this part exonerates any master or officer of the watch from the consequences of any neglect to keep a proper lookout or to maintain a proper fire watch, or of any neglect of any precaution that may be required by the ordinary practice of seamen, by general prudence, or by the special circumstances of the case. Each master shall set added watches when necessary to guard against fire or other danger and to give an alarm in case of accident or disaster.

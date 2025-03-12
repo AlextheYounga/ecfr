@@ -1,0 +1,3 @@
+##### § 1025.2 Nature of adjudicative proceedings. #####
+
+Adjudicative proceedings shall be conducted in accordance with Title 5, United States Code, sections 551 through 559, and these Rules. It is the policy of the Commission that adjudicative proceedings shall be conducted expeditiously and with due regard to the rights and interests of all persons affected and in locations chosen with due regard to the convenience of all parties. Therefore, the Presiding Officer and all parties shall make every effort at each stage of any proceedings to avoid unnecessary delay.

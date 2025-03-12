@@ -1,0 +1,3 @@
+##### § 5.52 Nonpublic proceedings. #####
+
+Any investigation or proceedings held under this part shall be nonpublic unless the respondent specifically requests otherwise, except to the extent required by the Freedom of Information Act (5 U.S.C. 552) or by the Sunshine Act (5 U.S.C. 552b). However, the presiding official's initial decision and any final decision of the Commission shall be placed on the public record, except that information may be designated *in camera* in accordance with § 3.45 of the Commission's Rules of Practice.

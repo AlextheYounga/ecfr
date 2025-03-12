@@ -1,0 +1,5 @@
+##### § 884.8 Request for delivery by state authorities when the member is located in a different state. #####
+
+(a) This part applies to members who are located in the United States. With respect to the extradition process, Air Force personnel have the same status as persons not in the Armed Forces. Accordingly, if a state other than the state in which the member is located requests the delivery of a military member, in the absence of a waiver of extradition process by the member concerned, that state must use its normal extradition procedures to make arrangements to take the individual into custody in the state where he or she is located.
+
+(b) The Air Force will not transfer a military member from a base within one state to a base within another state for the purpose of making the member amenable to prosecution by civilian authorities.

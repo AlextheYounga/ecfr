@@ -1,0 +1,3 @@
+##### § 201.91 Filing of motions, answers. #####
+
+Any party or (if a petition to intervene shall have been filed but not have been acted upon) any prospective party may at or before the first prehearing conference in any proceeding, or at such later time as might be allowed by the presiding officer, move with supporting affidavits for a summary disposition in his favor of all or any part of the proceeding. Any adverse party may within 20 days serve opposing affidavits or may countermove for summary disposition. Oral argument thereon may be granted in the discretion of the presiding officer.

@@ -1,0 +1,3 @@
+##### § 324.14 Relationship between the Privacy Act and the Freedom of Information Act. #####
+
+Access requests that specifically state or reasonably imply that they are made under FOIA, are processed pursuant to the DFAS Freedom of Information Act Regulation. Access requests that specifically state or reasonably imply that they are made under the PA are processed pursuant to this regulation. Access requests that cite both the FOIA and the PA are processed under the Act that provides the greater degree of access. Individual access should not be denied to records otherwise releasable under the PA or the FOIA solely because the request does not cite the appropriate statute. The requester should be informed which Act was used in granting or denying access.

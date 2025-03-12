@@ -1,0 +1,5 @@
+##### § 32.55-1 Ventilation of tank vessels constructed on or after July 1, 1951—TB/ALL. #####
+
+(a) On all tanks vessels, the construction or conversion of which is started on or after July 1, 1951, all enclosed parts of the vessel, other than cargo, fuel and water tanks, cofferdams and void spaces, shall be provided with efficient means of ventilation.
+
+(b) Compartments containing machinery where sources of vapor ignition are normally present shall be ventilated in such a way as to remove vapors from points near the floor level or the bilges. Effective steam or air actuated gas ejectors, blowers or ventilators fitted with heads for natural ventilation, with at least one duct extending to immediately below the floor plates will be approved for this purpose. Machinery spaces below the freeboard deck, in which fuels with flash point of 110 °F or lower are used, shall be equipped with power ventilation. (See § 32.60-20 for other requirements concerning pumprooms.)

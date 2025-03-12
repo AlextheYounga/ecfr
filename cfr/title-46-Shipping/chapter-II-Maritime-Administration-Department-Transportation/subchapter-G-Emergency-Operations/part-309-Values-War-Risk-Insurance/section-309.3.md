@@ -1,0 +1,3 @@
+##### § 309.3 Stated valuation. #####
+
+A stated valuation represents just compensation for the vessel to which it applies computed by the Ship Valuation Committee in accordance with sections 902(a) and 1209(a)(2) of the Merchant Marine Act, 1936, as amended (46 U.S.C. 1242(a), 1289(a)(2)). The stated valuation of a vessel does not include vessel stores and supplies, which consist of (a) consumable stores, (b) subsistence stores, (c) slop chest, (d) bar stock, and (e) fuel, as defined in Maritime Administration Inventory Book Forms MA-4736, A through K, which will be valued separately.

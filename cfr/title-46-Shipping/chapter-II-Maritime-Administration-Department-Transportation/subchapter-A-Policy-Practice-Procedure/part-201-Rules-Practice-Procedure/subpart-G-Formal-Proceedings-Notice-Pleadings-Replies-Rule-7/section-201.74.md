@@ -1,0 +1,3 @@
+##### § 201.74 Declaratory orders. #####
+
+The Administration may issue a declaratory order to terminate a proceeding or to remove uncertainty. Petitions for the issuance thereof shall state clearly and concisely the nature of the controversy or uncertainty, shall cite the statutory authority involved, shall include a complete statement of the facts and grounds supporting the petition, together with a full disclosure of petitioner's interest.

@@ -1,0 +1,3 @@
+##### § 644.413 Exchanges of fee-owned land and easement interests. #####
+
+The statutes identified in §§ 644.414 through 644.417 authorize the exchange of Government-owned lands and interests therein for private lands and lands owned by States, other non-Federal agencies, and their instrumentalities. As a general rule, any exchange of lands should be restricted to lands of approximately equal value. Where the Government property proposed for exchange has a value substantially in excess of the private land to be acquired, the question of whether the transaction is truly an exchange arises. In drafting relocation contracts, care must be exercised to insure that there is legal authority for execution of the conveyance or easement proposed.

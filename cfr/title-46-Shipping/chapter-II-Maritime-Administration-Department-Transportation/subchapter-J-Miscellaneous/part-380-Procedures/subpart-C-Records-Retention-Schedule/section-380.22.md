@@ -1,0 +1,13 @@
+##### § 380.22 Responsibility. #####
+
+(a) Notwithstanding the minimum retention periods hereinafter set forth, it shall be the sole responsibility of any party subject to the provisions of this subpart to retain such books, records, and accounts:
+
+(1) For the periods specifically provided by any statutory, regulatory, and contractual requirements of the Administration, or
+
+(2) Pertaining to or related to matters in litigation, to matters which knowingly may become involved in litigation, to unsettled claims of whatsoever nature, and to all unsettled matters specifically reserved by the parties at the time of any final accounting as may be required under statute, contract and/or agreement.
+
+(b) With respect to books, records, and accounts which, subject to the provision of paragraph (a) of this section, are to be disposed of upon the expiration of the minimum retention period prescribed herein, there shall be filed with the Records Officer, Maritime Administration, Washington, DC, 20590, a written notification, at least thirty (30) days prior to the contemplated, disposal requesting permission to dispose of records. MARAD will accept electronic options (such as facsimile and Internet) for transmission of required information to MARAD, if practicable. The request shall be in such form that the books, records, and accounts can be readily identified. Within thirty (30) days after receipt of such notification the Records Officer shall grant approval for disposal, or advise the necessity for continued retention of all or any specified portion thereof. Failure of the Record Officer to reply within the thirty (30) days period following receipt by the Administration of such request shall constitute approval.
+
+(c) Applications for special authority to dispose of certain books, records, and accounts prior to the expiration of prescribed minimum retention periods, and any inquiries as to the interpretation or applicability of this subpart to specific items shall be submitted to the Records Officer, Maritime Administration. MARAD will accept written or electronic options (such as facsimile and Internet) for transmission of required information to MARAD, if practicable. The applicant shall describe in detail the items to be disposed of and explain why continued retention is unnecessary.
+
+[G.O. 101, 30 FR 12356, Sept. 28, 1965, as amended at 68 FR 62538, Nov. 5, 2003; 69 FR 61452, Oct. 19, 2004]

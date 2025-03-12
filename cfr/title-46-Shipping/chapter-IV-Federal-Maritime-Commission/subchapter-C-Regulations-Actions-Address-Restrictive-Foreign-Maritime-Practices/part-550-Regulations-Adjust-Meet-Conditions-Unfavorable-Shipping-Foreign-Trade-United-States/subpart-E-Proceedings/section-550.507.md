@@ -1,0 +1,3 @@
+##### § 550.507 Postponement, discontinuance, or suspension of action. #####
+
+The Commission may, on its own motion or upon petition, postpone, discontinue, or suspend any and all actions taken by it under the provisions of this part. The Commission shall postpone, discontinue or suspend any or all such actions if the President informs the Commission that postponement, discontinuance or suspension is required for reasons of foreign policy or national security.

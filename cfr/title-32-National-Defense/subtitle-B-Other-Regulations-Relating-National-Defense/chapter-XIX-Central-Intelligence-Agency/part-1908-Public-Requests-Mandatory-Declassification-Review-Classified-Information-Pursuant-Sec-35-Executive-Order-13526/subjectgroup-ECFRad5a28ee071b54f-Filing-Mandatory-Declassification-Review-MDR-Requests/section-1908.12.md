@@ -1,0 +1,5 @@
+##### § 1908.12 Exceptions. #####
+
+Mandatory Declassification Review requests will not be accepted from an individual who is not a citizen of the United States or an alien lawfully admitted for permanent residence, nor from a foreign government entity or any representative thereof. Declassification review requests will not be accepted for documents required to be submitted for prepublication review or other administrative process pursuant to an approved nondisclosure agreement; for information that is the subject of pending litigation; nor for any document or material containing information contained within an operational file exempted from search and review, publication, and disclosure under the Freedom of Information Act. If the Agency has reviewed the requested information for declassification within the past two years, the Agency will not conduct another review, but the Coordinator will notify requester of this fact, the prior review decision, and of applicable appeal rights pursuant to section 3.5(e) of the Order.
+
+[76 FR 59033, Sept. 23, 2011]

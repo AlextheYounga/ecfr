@@ -1,0 +1,3 @@
+##### § 54.4 Policy. #####
+
+The Department of Defense is obligated by 42 U.S.C. 665 to require child, or child and spousal, support allotments from the pay and allowances of a member who has failed to make periodic payments under a support order in a total amount equal to the support payable for 2 months or longer. The member's allotment shall be established by the Secretary of the Military Department concerned, or the Secretary's designee, provided all requirements of this part have been met.

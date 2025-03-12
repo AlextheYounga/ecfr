@@ -1,0 +1,3 @@
+##### § 700.812 Postal matters. #####
+
+Commanding officers shall ensure that mail and postal funds are administered in accordance with instructions issued by the Postmaster General and approved for the naval service by the Chief of Naval Operations, and instructions issued by the Chief of Naval Operations, the Chief of Naval Personnel, or the Commandant of the Marine Corps, as appropriate; and that postal clerks or other persons authorized to handle mail perform their duties strictly in accordance with those instructions.

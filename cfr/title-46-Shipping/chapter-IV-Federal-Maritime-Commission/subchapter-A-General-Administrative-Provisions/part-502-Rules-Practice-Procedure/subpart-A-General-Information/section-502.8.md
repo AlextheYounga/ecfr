@@ -1,0 +1,3 @@
+##### § 502.8 Denial of applications and notice thereof. #####
+
+Except in affirming a prior denial or where the denial is self-explanatory, prompt written notice will be given of the denial in whole or in part of any written application, petition, or other request made in connection with any proceeding under this part, such notice to be accompanied by a simple statement of procedural or other grounds for the denial, and of any other or further administrative remedies or recourse applicant may have where the denial is based on procedural grounds. [Rule 8.]

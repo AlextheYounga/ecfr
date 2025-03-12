@@ -1,0 +1,3 @@
+##### § 174.8 Screening for properties covered by the Base Closure Community Redevelopment and Homeless Assistance Act of 1994, cross-reference. #####
+
+The Departments of Defense and Housing and Urban Development have promulgated regulations to address state and local screening and approval of redevelopment plans for installations covered by the Base Closure Community Redevelopment and Homeless Assistance Act of 1994 (Pub. L. 103-421). The Department of Defense regulations can be found at part 176 of this title. The Department of Housing and Urban Development regulations can be found at 24 CFR part 586.

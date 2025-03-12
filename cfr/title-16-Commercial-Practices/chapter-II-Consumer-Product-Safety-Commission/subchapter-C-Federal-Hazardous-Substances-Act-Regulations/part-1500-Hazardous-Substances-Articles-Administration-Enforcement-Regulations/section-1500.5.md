@@ -1,0 +1,3 @@
+##### § 1500.5 Hazardous mixtures. #####
+
+For a mixture of substances, the determination of whether the mixture is a “hazardous substance” as defined by section 2(f) of the act (repeated in § 1500.3(b)(4)) should be based on the physical, chemical, and pharmacological characteristics of the mixture. A mixture of substances may therefore be less hazardous or more hazardous than its components because of synergistic or antagonistic reactions. It may not be possible to reach a fully satisfactory decision concerning the toxic, irritant, corrosive, flammable, sensitizing, or pressure-generating properties of a substance from what is known about its components or ingredients. The mixture itself should be tested.

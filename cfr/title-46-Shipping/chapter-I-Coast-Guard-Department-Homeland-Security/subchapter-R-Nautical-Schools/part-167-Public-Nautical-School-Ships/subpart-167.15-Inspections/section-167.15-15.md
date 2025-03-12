@@ -1,0 +1,3 @@
+##### § 167.15-15 Application for inspection of a new nautical school ship or a conversion of a vessel to a nautical school ship. #####
+
+Prior to the commencement of the construction of a new nautical school ship, or a conversion of a vessel to a nautical school ship, application for the approval of contract plans and specifications and for a certificate of inspection shall be made in writing by the owner or agent to the Officer in Charge, Marine Inspection, at the nearest local Marine Inspection Office, U.S. Coast Guard.

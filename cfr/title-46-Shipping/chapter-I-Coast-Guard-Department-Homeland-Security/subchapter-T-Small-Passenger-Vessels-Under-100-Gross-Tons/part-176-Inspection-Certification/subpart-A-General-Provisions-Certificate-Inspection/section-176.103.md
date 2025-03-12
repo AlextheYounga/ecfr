@@ -1,0 +1,3 @@
+##### § 176.103 Description. #####
+
+The Certificate of Inspection issued to a vessel describes the vessel, the route(s) that it may travel, the minimum manning requirements, the survival and rescue craft carried, the minimum fire extinguishing equipment and lifejackets required to be carried, the maximum number of passengers and total persons that may be carried, the number of passengers the vessel may carry in overnight accommodation spaces, the name of the owner and managing operator, any equivalencies accepted or authorized by the Commandant or any Officer in Charge, Marine Inspection (OCMI) in accordance with § 175.540 or § 175.550 of this chapter, and such other conditions of operations as may be determined by the cognizant OCMI.

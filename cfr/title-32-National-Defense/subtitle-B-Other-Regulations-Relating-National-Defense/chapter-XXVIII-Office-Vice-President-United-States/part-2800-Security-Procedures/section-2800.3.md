@@ -1,0 +1,3 @@
+##### § 2800.3 Policy. #####
+
+The classification, declassification, safeguarding and handling of classified information within the Office of the Vice President will comply with the letter and spirit of those directives listed in § 2800.2. All personnel of the Office of the Vice President are responsible individually for complying with the provisions of these regulations are in all respects. The provisions of these regulations applicable to all personnel assigned or detailed to the Office of the Vice President.

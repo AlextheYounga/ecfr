@@ -1,0 +1,3 @@
+##### § 1109.12 Component part testing for lead content of children's products. #####
+
+A certifier may rely on component part testing of each accessible component part of a children's product for lead content, where such component part testing is performed by a third party conformity assessment body, provided that the requirements in § 1109.5 are met, and the determination of which, if any, parts are inaccessible pursuant to section 101(b)(2) of the Consumer Product Safety Improvement Act of 2008 (CPSIA) and part 1500.87 of this chapter is based on an evaluation of the finished product.

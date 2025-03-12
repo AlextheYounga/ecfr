@@ -1,0 +1,3 @@
+##### § 1251.1 The toy standard and testing requirements. #####
+
+The Consumer Product Safety Improvement Act of 2008 (“CPSIA”) made provisions of ASTM F963, Consumer Product Safety Specifications for Toy Safety (“toy standard”), a mandatory consumer product safety standard. 15 U.S.C. 2056b. The toy standard requires that surface coating materials and accessible substrates of toys that can be sucked, mouthed, or ingested, must comply with solubility limits that the toy standard establishes for eight heavy elements. Materials used in toys subject to the heavy elements limits in the toy standard must comply with the third party testing requirements of section 14(a)(2) of the Consumer Product Safety Act (“CPSA”), unless listed in § 1251.2.

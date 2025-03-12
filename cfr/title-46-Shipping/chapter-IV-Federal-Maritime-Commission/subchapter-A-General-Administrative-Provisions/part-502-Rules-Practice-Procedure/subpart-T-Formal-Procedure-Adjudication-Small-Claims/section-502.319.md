@@ -1,0 +1,7 @@
+##### § 502.319 Date of service and computation of time. #####
+
+(a) The date of service of documents served by the Commission will be the date shown in the service stamp placed on the first page of the document. The date of service of documents served by parties will be the date when the document served is transmitted by email, deposited in the United States mail, delivered to a courier, or delivered in person. If service is made by more than one method, for example email and also U.S. mail service, the date of service will be the earlier of the two actions. In computing the time from such dates, the provisions of § 502.101 shall apply. [Rule 319.]
+
+(b) In computing any time period prescribed or allowed under the rules in this Part, the period begins on the day following the act, event, or default that triggers the period and includes the last day of the time period. If the last day is a Saturday, Sunday, or federal holiday, the time period continues to the next day that is not a Saturday, Sunday, or federal holiday. If the presiding officer prescribes or allows an act, event, or default by reference to a specific date, that date will govern. If the Commission's offices are inaccessible on the last day for a filing, the time for filing is extended to the first accessible day that is not a Saturday, Sunday, or federal holiday.
+
+[80 FR 57307, Sept. 23, 2015]

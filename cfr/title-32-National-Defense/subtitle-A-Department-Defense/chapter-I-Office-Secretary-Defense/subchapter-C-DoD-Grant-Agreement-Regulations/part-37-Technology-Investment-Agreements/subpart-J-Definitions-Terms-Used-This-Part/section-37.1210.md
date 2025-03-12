@@ -1,0 +1,3 @@
+##### § 37.1210 Advanced research. #####
+
+Research that creates new technology or demonstrates the viability of applying existing technology to new products and processes in a general way. Advanced research is most closely analogous to precompetitive technology development in the commercial sector (*i.e.,* early phases of research and development on which commercial competitors are willing to collaborate, because the work is not so coupled to specific products and processes that the results of the work must be proprietary). It does not include development of military systems and hardware where specific requirements have been defined. It is typically funded in Research, Development, Test and Evaluation programs within Budget Activity 3, Advanced Technology Development.

@@ -1,0 +1,3 @@
+##### § 290.3 Applicability and scope. #####
+
+This rule applies to all DCAA organizational elements, and is to govern written responses by DCAA officials for requests from members of the public for permission to examine, or to be provided with copies of DCAA records. This rule also addresses Agency policies and procedures for handling “For Official Use Only” information, including Field Detachment sensitive information.

@@ -1,0 +1,11 @@
+##### § 54.30-3 Introduction. #####
+
+(a) Large conventional pressure vessels used to transport liquefied petroleum and natural gases, at “low temperatures” may often be difficult to thermally stress relieve. Where no other problem, such as corrosion exists, mechanical stress relief will be permitted for Class II-L pressure vessels.
+
+(b) Mechanical stress relief serves to cause small flaws, particularly in the weld zone, to yield plastically at the flaw tip resulting in a local relief of stress and a blunting of the crack tip. To achieve the maximum benefit from mechanical stress relief, it is necessary that the stresses so imposed be more severe than those expected in normal service life. At the same time, it is necessary that the stresses which are imposed are not so high as to result in appreciable deformation or general yielding.
+
+(c) The weld joint efficiencies as listed in table UW-12 of section VIII of the ASME Boiler and Pressure Vessel Code (incorporated by reference; see 46 CFR 54.01-1) shall apply except that a minimum of spot radiography will be required. UW-12(c) of section VIII of the ASME Boiler and Pressure Vessel Code that permits omitting all radiography does not apply. Spot examination shall follow UW-52 of section VIII of the ASME Boiler and Pressure Vessel Code and, in addition, these vessels will be required to have radiographic examination of intersecting circumferential and longitudinal joints for a distance of at least 20 times the plate thickness from the junction. See 46 CFR 54.25-8 on spot radiography.
+
+(d) Severe cold forming will not be permitted unless thermal stress relief is used. For example, parts of the vessels which are individually cold formed, such as heads, must be thermally stress relieved, where the extreme fiber strain measured at the surface exceeds 5 percent as determined by:
+
+Percent strain = (65t/Rf)[1-(Rf/Ro)]where:t = Plate thickness.Rf = Final radius.Ro = Original radius (equals infinity for flat plate).[CGFR 68-82, 33 FR 18828, Dec. 18, 1968, as amended by USCG-2000-7790, 65 FR 58460, Sept. 29, 2000; USCG-2003-16630, 73 FR 65171, Oct. 31, 2008]

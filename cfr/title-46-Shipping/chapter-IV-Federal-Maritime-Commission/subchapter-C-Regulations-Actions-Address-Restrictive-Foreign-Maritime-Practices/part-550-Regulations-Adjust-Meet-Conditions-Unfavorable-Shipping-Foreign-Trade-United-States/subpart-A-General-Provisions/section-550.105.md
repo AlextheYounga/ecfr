@@ -1,0 +1,5 @@
+##### § 550.105 Consultation. #####
+
+(a) *Consultation with other agencies.* The Commission may consult with, seek the cooperation of, or make recommendations to other appropriate agencies prior to taking any action under this part.
+
+(b) *Request for resolution through diplomatic channels.* Upon the filing of a petition, or on its own motion when there are indications that conditions unfavorable to shipping in the foreign trade of the United States may exist, the Commission may notify the Secretary of State that such conditions apparently exist, and may request that the Secretary seek resolution of the matter through diplomatic channels. If request is made, the Commission will give every assistance in such efforts, and the Commission may request the Secretary to report the results of such efforts at a specified time.

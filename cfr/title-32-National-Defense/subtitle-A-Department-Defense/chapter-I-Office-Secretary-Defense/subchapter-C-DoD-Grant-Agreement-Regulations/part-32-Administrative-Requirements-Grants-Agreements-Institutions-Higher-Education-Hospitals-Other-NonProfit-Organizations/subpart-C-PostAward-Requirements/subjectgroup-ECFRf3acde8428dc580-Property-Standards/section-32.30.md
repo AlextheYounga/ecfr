@@ -1,0 +1,3 @@
+##### § 32.30 Purpose of property standards. #####
+
+Sections 32.31 through 32.37 set forth uniform standards governing management and disposition of property furnished by the Federal Government and property whose cost was charged to a project supported by a Federal award. DoD Components shall require recipients to observe these standards under awards and shall not impose additional requirements, unless specifically required by Federal statute. The recipient may use its own property management standards and procedures provided it observes the provisions of §§ 32.31 through 32.37.

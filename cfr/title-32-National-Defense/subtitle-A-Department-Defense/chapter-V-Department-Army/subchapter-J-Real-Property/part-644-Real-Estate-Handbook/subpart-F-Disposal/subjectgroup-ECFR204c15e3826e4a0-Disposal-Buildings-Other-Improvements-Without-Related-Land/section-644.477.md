@@ -1,0 +1,3 @@
+##### § 644.477 Civil works property - reimbursement of appropriation. #####
+
+Under title 33, United States Code, section 558, the proceeds from a sale or transfer of buildings or improvements may be credited to the appropriation for the work for which the property was acquired. Buildings or other improvements, including timber, on non-excess land come within the purview of this law. For further instructions on disposition of proceeds, see § 644.322.

@@ -1,0 +1,3 @@
+##### § 4.09-17 Sessions to be public. #####
+
+(a) All sessions of a Marine Board of Investigation for the purpose of obtaining evidence shall normally be open to the public, subject to the provision that the conduct of any person present shall not be allowed to interfere with the proper and orderly functioning of the Board. Sessions will not be open to the public when evidence of a classified nature or affecting national security is to be received.

@@ -1,0 +1,3 @@
+##### § 536.153 Claims involving tortfeasors other than nonappropriated fund employees: NAFI contractors. #####
+
+AAFES concessionaires and NAFI contractors, such as entertainment performers or groups, carnival operators, and fireworks displayers are considered independent contractors and claims arising from their activities should be disposed of as set forth in DA Pam 27-162, paragraph 2-15f. If a dispute arises as to the availability of liability or workers compensation insurance the claims should be referred to AAFES Dallas (see address in § 536.30(e)(4)) or the Central Insurance Fund, U.S. Army Community and Family Support Agency as applicable.

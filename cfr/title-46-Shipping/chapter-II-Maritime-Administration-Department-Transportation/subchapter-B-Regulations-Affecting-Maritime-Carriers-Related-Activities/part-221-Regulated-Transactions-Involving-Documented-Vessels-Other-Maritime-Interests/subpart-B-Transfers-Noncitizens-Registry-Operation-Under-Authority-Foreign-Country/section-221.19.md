@@ -1,0 +1,9 @@
+##### § 221.19 Possession or sale of vessels by mortgagees or trustees other than pursuant to court order. #####
+
+(a) A mortgagee or a trustee of a preferred mortgage on a Documented Vessel that is not eligible to own a Documented Vessel does not require the express approval of the Maritime Administrator to take possession of the vessel in the event of default by the mortgagor other than by foreclosure pursuant to 46 U.S.C. 31329, if provided for in the mortgage or a related financing document, but in such event the vessel may not be operated, or caused to be operated, in commerce. The vessel may not, except as provided in paragraph (b) of this section, be operated for any other purpose unless approved in writing by the Maritime Administrator, nor may the vessel be sold to a Noncitizen without the approval of the Maritime Administrator.
+
+(b) The Maritime Administrator hereby grants approval for such mortgagee or trustee to operate the vessel to the extent necessary for the immediate safety of the vessel, for its direct return to the United States or for its movement within the United States, or for repairs, drydocking or berthing changes, but only under the command of a Citizen of the United States.
+
+(c) A Noncitizen mortgagee that has brought a civil action *in rem* for enforcement of a preferred mortgage lien on a citizen-owned Documented Vessel pursuant to 46 U.S.C. 31325(b)(1) may petition the court pursuant to 46 U.S.C. 31325(e)(1) for appointment of a receiver and, if the receiver is Person eligible to own a Documented Vessel, to authorize the receiver to operate the mortgaged vessel on such terms and conditions as the court deems appropriate. If the receiver is not a Citizen of the United States, the vessel may not be operated in coastwise trade without prior written approval of the Maritime Administrator.
+
+[57 FR 23478, June 3, 1992, as amended at 63 FR 6881, Feb. 11, 1998]

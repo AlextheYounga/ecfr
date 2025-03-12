@@ -1,0 +1,3 @@
+##### § 203.1 Authority. #####
+
+Part 203 is issued under the authority of section 2705 of Title 10, United States Code. In 1994, Congress authorized the Department of Defense (DoD) to develop a program to facilitate public participation by providing technical assistance to local community members of Restoration Advisory Boards (RABs) and Technical Review Committees (TRCs) (section 326 of the National Defense Authorization Act for Fiscal Year 1995, Pub.L. 103-337). In 1996, Congress revised this authority (section 324 of the National Defense Authorization Act for Fiscal Year 1996, Pub.L. 104-112). It is pursuant to this revised authority, which is codified as new subsection (3) of section 2705, that the Department of Defense issues this part.

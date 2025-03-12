@@ -1,0 +1,3 @@
+##### § 644.422 Authorized widening of a public highway, street, or alley. #####
+
+40 U.S.C. 345c authorizes the conveyance, upon application, of such interest in real property as is determined will not be adverse to the interests of the United States, to the states or political subdivisions for authorized widening of a public highway, street, or alley. The conveyance may be made with or without consideration, and subject to terms and conditions deemed necessary to protect the interests of the United States. Excepted from this authority is the conveyance of any interest in real property that can be transferred under title 23 of the United States Code (see § 644.421), and to public lands in the National Forest System.

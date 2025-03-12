@@ -1,0 +1,5 @@
+##### § 809a.2 Military responsibility and authority. #####
+
+(a) Air Force installation commanders are responsible for protecting personnel and property under their jurisdiction and for maintaining order on installations, to ensure the uninterrupted and successful accomplishment of the Air Force mission.
+
+(b) Each commander is authorized to grant or deny access to their installations, and to exclude or remove persons whose presence is unauthorized. In excluding or removing persons from the installation, the installation commander must not act in an arbitrary or capricious manner. Their action must be reasonable in relation to their responsibility to protect and to preserve order on the installation and to safeguard persons and property thereon. As far as practicable, they should prescribe by regulation the rules and conditions governing access to their installation.

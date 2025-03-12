@@ -1,0 +1,3 @@
+##### § 167.65-25 Steering gear tests. #####
+
+On all nautical school ships making voyages of more than 48 hours' duration, the entire steering gear, the whistle, the means of communication and the signaling appliances between the bridge or pilothouse and engine room shall be examined and tested by an officer of the nautical school ship within a period of not more than 12 hours before leaving port. All nautical school ships making voyages of less than 48 hours' duration shall be so examined and tested at least once in every week. The fact and time of such examination and test shall be recorded in the log book.

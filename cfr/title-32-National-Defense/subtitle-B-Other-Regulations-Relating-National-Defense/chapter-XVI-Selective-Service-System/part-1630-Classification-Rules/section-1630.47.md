@@ -1,0 +1,3 @@
+##### § 1630.47 Class 4-W: Registrant who has completed alternative service in lieu of induction. #####
+
+In Class 4-W shall be placed any registrant who subsequent to being ordered to perform alternative service in lieu of induction has been released from such service after satisfactorily performing the work for a period of 24 months, or has been granted an early release by the Director of Selective Service after completing at least 6 months of satisfactory service.

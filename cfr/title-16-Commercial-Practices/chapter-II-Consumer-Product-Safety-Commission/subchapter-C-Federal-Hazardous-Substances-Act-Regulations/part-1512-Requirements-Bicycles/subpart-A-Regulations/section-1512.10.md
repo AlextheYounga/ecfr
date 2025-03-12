@@ -1,0 +1,3 @@
+##### § 1512.10 Requirements for tires. #####
+
+The manufacturer's recommended inflation pressure shall be molded into or onto the sidewall of the tire in lettering no less than 3.2 mm (1/8 in.) in height. The statement of recommended inflation pressure shall be in the English language utilizing Arabic numerals. (The following language is suggested to indicate recommended inflation pressure: “Inflate to \_\_ PSI.”) After inflation to 110 percent of the recommended inflation pressure, the tire shall remain intact on the rim, including while being tested under a load of 2,000 N (450 lbf) in accordance with the rim test, § 1512.18(j). Tubular sew-up tires, nonpneumatic tires, and nonmolded wired-on tires are exempt from this section.

@@ -1,0 +1,3 @@
+##### § 201.121 Application for subpoena ad testificandum. #####
+
+An application for a subpoena requiring attendance of a witness at a hearing may be made without notice by any party to the presiding officer, or, in the event that a presiding officer has not been assigned to a proceeding or the presiding officer is not available, to the Chief Hearing Examiner, for action by him or by a member of the Administration. A subpoena for the attendance of a witness shall be issued on oral application at any time and shall be issued upon request of any interested party upon tender of an original and two copies of such subpoena. A record of the issuance of such a subpoena shall be entered in the docket.

@@ -1,0 +1,3 @@
+##### § 516.38 Scope. #####
+
+This subpart contains guidance, policies, and procedures applicable to all environmental and natural resources civil litigation and administrative proceedings involving missions and functions of DA, its major and subordinate commands, all installations presently or previously managed by DA, and all other sites or issues in which DA has a substantial interest. In this chapter, “litigation” includes civil administrative proceedings.

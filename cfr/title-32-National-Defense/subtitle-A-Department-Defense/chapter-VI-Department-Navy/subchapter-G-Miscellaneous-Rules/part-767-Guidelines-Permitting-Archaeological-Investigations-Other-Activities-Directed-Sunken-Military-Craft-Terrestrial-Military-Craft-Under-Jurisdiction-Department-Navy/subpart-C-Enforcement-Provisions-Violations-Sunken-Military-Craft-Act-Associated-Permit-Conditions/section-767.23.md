@@ -1,0 +1,5 @@
+##### § 767.23 Payment of final assessment. #####
+
+(a) Respondent must make full payment of the civil penalty, enforcement costs and/or liability for damages assessed within 30 days of the date upon which the assessment becomes effective as the final administrative decision and order of the Agency. Payment must be made by mailing or delivering to the Agency at the address specified in the NOVA a check or money order made payable in U.S. currency in the amount of the assessment to the “Treasurer of the United States”, or as otherwise directed.
+
+(b) Upon any failure to pay the civil penalty, enforcement costs and/or liability for damages assessed, the Agency may request the Department of Justice to recover the amount assessed in any appropriate district court of the United States, or may act under any law or statute that permits any type of recovery, including but not limited to arrest, attachment, seizure, or garnishment, of property and/or funds to satisfy a debt owed to the United States.

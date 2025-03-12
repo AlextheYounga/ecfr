@@ -1,0 +1,19 @@
+##### § 240.6 Retention program. #####
+
+(a) The DoD IASP retention program is open to qualified DoD civilian employees and Service members. Active duty military officers and permanent DoD civilian employees may apply for a master's or doctoral degree program; enlisted personnel may apply for a master's program. DoD Components may further restrict the eligibility of applicants based on Component requirements.
+
+(b) There are three DoD academic institutions participating in the DoD IASP: the Air Force Institute of Technology (AFIT) at Wright-Patterson Air Force Base in Dayton, Ohio; the IRMC of the National Defense University (NDU) at Fort McNair in Washington, DC; and the Naval Postgraduate School (NPS) in Monterey, California. Students at AFIT and NPS attend full-time programs. Participants may attend the IRMC either full or part-time to complete the first part of their required courses and then select a follow-on partner university to complete their remaining degree requirements either full or part-time. There are no part-time doctoral programs. All candidates must meet the eligibility requirements for their selected program, which are outlined in DoD IASP Academic Programs for Retention Students.
+
+(1) Military officers and DoD civilian employees may apply to attend any one of the three DoD academic institutions.
+
+(2) Enlisted personnel may attend AFIT or the NPS, which is authorized to enroll enlisted DoD IASP participants pursuant to 10 U.S.C. 2200 and 7045.
+
+(c) Students must select a degree program in one of the academic disciplines listed in § 240.4(c) and in accordance with DoD Component requirements.
+
+(d) Scholarship funding for AFIT, IRMC, the partner universities, and NPS includes full tuition costs and required fees and books. All travel costs and necessary position back-fill for individuals selected for the program must be paid by the nominating DoD Component. Retention students shall continue to receive their military pay or civilian salary from their DoD Component throughout their course of study.
+
+(e) DoD Component nominations are due by January 31st each year. The student nomination process is outlined in the DoD IASP Nomination Process for Retention Students.
+
+(f) Retention students shall fulfill post-academic service obligations pursuant to 10 U.S.C. 2200a and 7045. Service members shall serve on active duty while fulfilling designated DoD Component service obligations. DoD civilian employees shall sign a continued service agreement that complies with 10 U.S.C. 2200a, prior to commencement of their education, to continue service within the DoD upon conclusion of their education, for a period equal to three times the length of the education period. The period of obligated service is in addition to any other period for which the recipient is obligated to serve on active duty or in the civil service, as the case may be. Individuals who fail to complete the degree program satisfactorily or to fulfill the service commitment shall be required to reimburse the United States pursuant to 10 U.S.C. 2200a(e) for payments made to them through the DoD IASP unless a waiver, in whole or in part, is granted by the DoD IASP Executive Administrator.
+
+(g) DoD IASP retention participants are obligated to remain in good standing in their degree programs, to continue in service as civilian employees or members of the Military Services, and where applicable, to repay program costs for failure to complete the degree program satisfactorily, or to fulfill the service commitment pursuant to 10 U.S.C. 2200 and 7045, DoD policy, and the policies of the respective DoD Component.

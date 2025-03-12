@@ -1,0 +1,25 @@
+##### § 506.4 Cost of living adjustments of civil monetary penalties. #####
+
+(a) The inflation adjustment under § 506.3 will initially be determined by increasing the maximum civil monetary penalty for each civil monetary penalty by the initial cost-of-living adjustment. The inflation adjustment will subsequently be determined by increasing the maximum civil monetary penalty for each civil monetary penalty by the cost-of-living adjustment. Any increase determined under this section shall be rounded to the nearest multiple of $1.
+
+(b) *Inflation adjustment.* For purposes of paragraph (a) of this section, the term `cost-of-living adjustment' means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October preceding the adjustment exceeds the Consumer Price Index for the month of October 1 year before the month of October preceding the adjustment.
+
+(c) *Initial adjustment.* For purposes of paragraph (a) of this section, the term `initial cost-of-living-adjustment' means the percentage (if any) for each civil monetary penalty by which the Consumer Price Index for the month of October, 2015 exceeds the Consumer Price Index for the month of October of the calendar year during which the amount of such civil monetary penalty was established or adjusted under a provision of law of civil monetary penalty. The initial cost-of-living adjustment may not exceed 150 percent of such penalty on November 2, 2015, the date of the enactment of the Federal Civil Penalties Inflation Act Adjustment Improvements Act of 2015.
+
+(d) *Inflation adjustment.* Maximum Civil Monetary Penalties within the jurisdiction of the Federal Maritime Commission are adjusted for inflation as follows:
+
+|United States Code Citation|                            Civil monetary penalty description                            |Maximum  <br/>penalty amount prior to August 1, 2016|New adjusted maximum  <br/>penalty amount as of August 1, 2016|
+|---------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------|
+|      46 U.S.C. 42304      |              Adverse impact on U.S. carriers by foreign shipping practices               |                     1,600,000                      |                          1,978,690                           |
+|    46 U.S.C. 41107(a)     |  Knowing and Willful violation/Shipping Act of 1984, or Commission regulation or order   |                       45,000                       |                            56,467                            |
+|    46 U.S.C. 41107(b)     |Violation of Shipping Act of 1984, Commission regulation or order, not knowing and willful|                       9,000                        |                            11,293                            |
+|    46 U.S.C. 41108(b)     |                  Operating in foreign commerce after tariff suspension                   |                       80,000                       |                           112,934                            |
+|      46 U.S.C. 42104      |          Failure to provide required reports, etc./Merchant Marine Act of 1920           |                       9,000                        |                            8,908                             |
+|      46 U.S.C. 42106      |                 Adverse shipping conditions/Merchant Marine Act of 1920                  |                     1,600,000                      |                          1,781,560                           |
+|      46 U.S.C. 42108      |    Operating after tariff or service contract suspension/Merchant Marine Act of 1920     |                       80,000                       |                            89,078                            |
+|      46 U.S.C. 44102      |   Failure to establish financial responsibility for non-performance of transportation    |                  9,000  <br/>300                   |                       22,500  <br/>750                       |
+|      46 U.S.C. 44103      |            Failure to establish financial responsibility for death or injury             |                  9,000  <br/>300                   |                       22,500  <br/>750                       |
+|   31 U.S.C. 3802(a)(1)    |                    Program Fraud Civil Remedies Act/makes false claim                    |                       9,000                        |                            10,781                            |
+|   31 U.S.C. 3802(a)(2)    |                 Program Fraud Civil Remedies Act/giving false statement                  |                       9,000                        |                            10,781                            |
+
+[81 FR 42553, June 30, 2016]

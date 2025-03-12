@@ -1,0 +1,9 @@
+##### § 318.6 Procedures for requests pertaining to individual records in a record system. #####
+
+(a) An individual seeking notification of whether a system of records, maintained by the Defense Threat Reduction Agency, contains a record pertaining to himself/herself and who desires to review, have copies made of such records, or to be provided an accounting of disclosures from such records, shall submit his or her request in writing. Requesters are encourage to review the systems of records notices published by the Agency so as to specifically identify the particular record system(s) of interest to be accessed.
+
+(b) In addition to meeting the requirements set forth in this section 318.6, the individual seeking notification, review or copies, and an accounting of disclosures will provide in writing his or her full name, address, Social Security Number, and a telephone number where the requester can be contacted should questions arise concerning the request. This information will be used only for the purpose of identifying relevant records in response to an individual's inquiry. It is further recommended that individuals indicate any present or past relationship or affiliations, if any, with the Agency and the appropriate dates in order to facilitate a more thorough search. A notarized statement or an unsworn declaration in accordance with 28 U.S.C. 1746 may also be required.
+
+(c) An individual who wishes to be accompanied by another individual when reviewing his or her records, must provide the Agency with written consent authorizing the Agency to disclose or discuss such records in the presence of the accompanying individual.
+
+(d) Individuals should mail their written request to the FOIA/Privacy Act Division, Defense Threat Reduction Agency, 45045 Aviation Drive, Dulles, VA 20166-7517 and indicate clearly on the outer envelope “Privacy Act Request.”

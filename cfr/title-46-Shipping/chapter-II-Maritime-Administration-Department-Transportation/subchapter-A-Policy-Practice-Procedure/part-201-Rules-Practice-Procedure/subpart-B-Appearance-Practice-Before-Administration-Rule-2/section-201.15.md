@@ -1,0 +1,3 @@
+##### § 201.15 Appearance in person or by representative. #####
+
+A party may appear in person or by an officer, partner, or regular employee of the party, or by or with counsel or other duly qualified representative, in any proceeding under the regulations in this part. A party may offer testimony, produce and examine witnesses, and be heard upon brief and at oral argument if oral argument is granted. Any person compelled to appear in a proceeding pursuant to subpoena may be accompanied, represented, and advised by counsel and may purchase a transcript of his testimony.

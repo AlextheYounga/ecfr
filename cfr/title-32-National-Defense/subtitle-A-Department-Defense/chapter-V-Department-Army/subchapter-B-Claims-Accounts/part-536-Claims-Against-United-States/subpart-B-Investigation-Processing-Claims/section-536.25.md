@@ -1,0 +1,3 @@
+##### § 536.25 Procedures for accepting claims. #####
+
+All ACOs and CPOs will institute procedures to ensure that potential claimants or attorneys speak to a CJA, claims attorney, investigator, or examiner. On initial contact, claims personnel will render assistance, discuss all aspects of the potential claim, and determine what statutes or procedures apply. Assistance will be furnished to the extent set forth in DA Pam 27-162, paragraph 2-4. To advise claimants on the correct remedy, claims personnel will familiarize themselves with the remedies listed in DA Pam 27-162, paragraphs 2-15 and 2-17.

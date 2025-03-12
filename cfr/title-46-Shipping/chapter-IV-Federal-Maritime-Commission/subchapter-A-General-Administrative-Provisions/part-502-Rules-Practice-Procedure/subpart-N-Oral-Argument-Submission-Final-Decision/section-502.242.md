@@ -1,0 +1,3 @@
+##### § 502.242 Submission to Commission for final decision. #####
+
+A proceeding will be deemed submitted to the Commission for final decision as follows: (a) If oral argument is had, the date of completion thereof, or if memoranda on points of law are permitted to be filed after argument, the last date of such filing; (b) if oral argument is not had, the last date when exceptions or replies thereto are filed, or if exceptions are not filed, the expiration date for such exceptions; (c) in the case of an initial decision, the date of notice of the Commission's intention to review the decision, if such notice is given. [Rule 242.]

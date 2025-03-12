@@ -1,0 +1,3 @@
+##### § 1803.11 Preliminary information. #####
+
+Members of the public shall address all communications to the point of contact specified above and clearly delineate the communication as a request under this part. Requests and appeals on requests received from members of the public who owe outstanding fees for information services under this Order or the Freedom of Information Act at this or another federal agency will not be accepted until such debts are resolved.

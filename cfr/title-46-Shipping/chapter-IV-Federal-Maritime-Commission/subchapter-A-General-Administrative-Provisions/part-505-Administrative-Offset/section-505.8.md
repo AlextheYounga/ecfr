@@ -1,0 +1,3 @@
+##### § 505.8 Jeopardy procedure. #####
+
+The Commission may effect an administrative offset against a payment to be made to the debtor prior to the completion of the procedures required by §§ 505.4 and 505.5 of this part if failure to take the offset would substantially jeopardize the Commission's ability to collect the debt, and the time before the payment is to be made does not reasonably permit the completion of those procedures. Such prior offset shall be promptly followed by the completion of those procedures. Amounts recovered by offset but later found not to be owed to the Commission shall be promptly refunded.

@@ -1,0 +1,5 @@
+##### § 989.31 Pollution prevention. #####
+
+The Pollution Prevention Act of 1990, 42 U.S.C. 13101(b), established a national policy to prevent or reduce pollution at the source, whenever feasible. Pollution prevention approaches should be applied to all pollution-generating activities. The environmental document should analyze potential pollution that may result from the proposed action and alternatives and must discuss potential pollution prevention measures when such measures are feasible for incorporation into the proposal or alternatives. Where pollution cannot be prevented, the environmental analysis and proposed mitigation measures should include, wherever possible, recycling, energy recovery, treatment, and environmentally safe disposal actions (see AFI 32-7080, Pollution Prevention Program11).
+
+11 See footnote 1 to § 989.1.

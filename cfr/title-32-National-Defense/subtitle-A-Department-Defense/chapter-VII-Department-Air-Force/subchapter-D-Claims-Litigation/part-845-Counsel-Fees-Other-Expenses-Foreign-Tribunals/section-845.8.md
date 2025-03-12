@@ -1,0 +1,3 @@
+##### § 845.8 Payment of counsel fees and other expenses. #####
+
+Payment of bills submitted by the selected counsel and other costs shall be made in accordance with the general provision of AFM 177-102 (Commercial Transactions at Base Level), relating to payment of contractual obligations and pertinent disbursing regulations. All payments under these procedures will be in local currency. Acceptance of services procured under these procedures shall be certified to by the officer responsible under § 845.3 (or his designee). Payments of bail may be made when authorized by such officers. Such authorization shall be in the form of a directing letter or message citing 10 U.S.C. 1037.

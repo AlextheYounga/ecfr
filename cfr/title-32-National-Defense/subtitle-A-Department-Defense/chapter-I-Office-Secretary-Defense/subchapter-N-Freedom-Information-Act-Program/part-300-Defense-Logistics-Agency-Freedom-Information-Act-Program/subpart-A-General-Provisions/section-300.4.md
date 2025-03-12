@@ -1,0 +1,21 @@
+##### § 300.4 Policy. #####
+
+DLA adopts and supplements the DoD FOIA Program policy and procedures codified at 32 CFR part 286, subpart A, General Provisions and subpart B, FOIA Reading Rooms and 32 CFR part 285.
+
+(a) *General.* As a matter of policy, DLA shall make discretionary disclosures of exempt records or information whenever disclosure would not foreseeably harm an interest protected by a FOIA exemption, but this policy does not create any right enforceable in court. The public has a right to information concerning the activities of its Government. DLA policy is to conduct its activities in an open manner and provide the public with a maximum amount of accurate and timely information concerning its activities, consistent always with the legitimate public and private interests of the American people. A DLA record requested by a member of the public who follows rules established herein shall be withheld only when it is exempt from mandatory public disclosure under the FOIA.
+
+(b) *Customer Service.* Executive Order 13392, Improving Agency disclosure of Information, December 14, 2005, requires agencies to emphasize a new citizen-centered approach to the FOIA that is results-oriented. Because FOIA requesters are seeking a service from the Federal Government, all DLA Components shall respond courteously and professionally to FOIA requesters. Additionally, the Components shall provide the public with information about agency records that are already publicly available, as well as information about the status of a person's FOIA request and an estimated date on which DLA's Component will complete the request. Refer to Appendix A of this part for DLA FOIA Requester Service Center contact information.
+
+(1) To meet the requirements of Executive Order 13392, each FOIA Requester Service Center shall have an internet Web site that serves to educate the public on the FOIA process. At a minimum, each Web site shall have the address, telephone number, facsimile number, and electronic mail address to which FOIA requests can be sent; a link to DoD's FOIA handbook; the name and contact information of DLA's FOIA Officer and Public Liaison; and information on how a requester can obtain the status of a request. Additionally, each FOIA Requester Service Center Web site will have links to DLA's Headquarters FOIA/Privacy Web site reading room.
+
+(2) [Reserved]
+
+(c) *Creating a Record.* (1) There is no obligation to create nor compile a record to satisfy an FOIA request. A DLA activity, however, may compile a new record when doing so would result in a more useful response to the requester or be less burdensome to the activity provided the requester does not object. The cost of creating or compiling such a record may not be charged to the requester unless the fee for creating the record is equal to or less than the fee which would be charged for providing the existing record. Fee assessments shall be in accordance with part 286, subpart F, of this title.
+
+(2) A record must exist and be in the possession and control of DLA at the time the search begins to be considered subject to this part and the FOIA.
+
+(3) When processing FOIA requests for electronic data, if DLA's Component has the capability to respond to the request, and the effort is reasonable and would be a business as usual approach, then the request should be processed. However, the request need not be processed where the capability to respond does not exist without a significant expenditure of resources, thus not being a normal business as usual approach. For example: Processing a request that would cause a significant interference with the operation of DLA's Component's automated system or require a significant amount of programming effort.
+
+(d) *Consultations and Referrals.* The rules published in part 32 CFR part 286, subpart A, §§ 286.4(i) and 286.22(e), Policy, apply to this rule.
+
+(e) *Forms.* This part authorizes the use of forms developed by DoD and DLA for the express use of the FOIA Program. Refer to *www.dla.mil* for a list of all forms prescribed by this part.

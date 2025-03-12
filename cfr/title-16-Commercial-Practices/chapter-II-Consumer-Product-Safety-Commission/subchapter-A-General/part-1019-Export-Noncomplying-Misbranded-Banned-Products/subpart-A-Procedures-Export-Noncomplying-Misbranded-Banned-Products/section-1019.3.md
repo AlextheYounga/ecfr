@@ -1,0 +1,3 @@
+##### § 1019.3 General requirements for notifying the Commission. #####
+
+Not less than 30 days before exporting any noncomplying goods described in § 1019.1(b), the exporter must file a statement with the Consumer Product Safety Commission, as described in §§ 1019.4 and 1019.5 of this subpart A. The exporter need not notify the Commission about the export of items described in § 1019.1 (c), (d), or (e). As described in § 1019.5, the exporter may request the Commission to allow the statement to be filed between 10 and 29 days before the intended export, and the request may be granted for good cause.

@@ -1,0 +1,3 @@
+##### § 127.440 Operability of window coverings. #####
+
+Any covering or protection placed over a window or porthole that could be used as a means of escape must be able to be readily removed or opened. It must be possible to open or remove the covering or protection without anyone's having to go onto a weather deck. It may be necessary to break the glass of a window or porthole before removing or opening the covering or protection.

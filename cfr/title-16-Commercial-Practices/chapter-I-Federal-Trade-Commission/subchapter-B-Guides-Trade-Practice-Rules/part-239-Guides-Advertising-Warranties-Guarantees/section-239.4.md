@@ -1,0 +1,5 @@
+##### § 239.4 “Lifetime” and similar representations. #####
+
+If an advertisement uses “lifetime,” “life,” or similar representations to describe the duration of a warranty or guarantee, then the advertisement should disclose, with such clarity and prominence as will be noticed and understood by prospective purchasers, the life to which the representation refers.
+
+Examples:These examples are for both print and broadcast advertising. These examples are illustrative, not exhaustive.Example A:(In an advertisement mentioning a lifetime guarantee on an automobile muffler where the duration of the guarantee is measured by the life of the car in which it is installed) “Our lifetime guarantee on the Whisper Muffler protects you for as long as your car runs—even if you sell it, trade it, or give it away!”Example B:(In an advertisement mentioning a lifetime guarantee on a battery where the duration of the warranty is for as long as the original purchaser owns the car in which it was installed) “Our battery is backed by our lifetime guarantee. Good for as long as you own the car!”

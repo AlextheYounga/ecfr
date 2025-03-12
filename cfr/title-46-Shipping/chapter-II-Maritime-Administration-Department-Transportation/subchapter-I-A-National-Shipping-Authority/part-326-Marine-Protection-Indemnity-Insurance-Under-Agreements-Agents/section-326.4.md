@@ -1,0 +1,3 @@
+##### § 326.4 Reports of accidents and occurrences. #####
+
+The Agent shall report every accident or occurrence of a P&I nature promptly to both the Director, Office of Trade Analysis and Insurance, Maritime Administration, 500 Seventh Street, SW., Room 8121, Washington, DC 20590, Tel. (202) 366-1461, and the contracting officer named in the Agreement. If MARAD has obtained P&I insurance through a marine insurance underwriter, the Agent also shall concurrently file a report of such accident or occurrence with the underwriter. MARAD shall disclose full details as the identity of such underwriter to the Agent.

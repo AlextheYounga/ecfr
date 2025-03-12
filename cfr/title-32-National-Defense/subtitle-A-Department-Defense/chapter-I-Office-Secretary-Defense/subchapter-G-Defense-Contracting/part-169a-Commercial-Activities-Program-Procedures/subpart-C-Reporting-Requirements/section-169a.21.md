@@ -1,0 +1,25 @@
+##### § 169a.21 Reporting requirements. #####
+
+(a) *Inventory and Review Schedule (Report Control Symbol DD-A&T(A) 1540).* See § 169a.8(a) of this part.
+
+(b) *Commercial Activities Management Information System (CAMIS) (Report Control Symbol DD-A&T(Q) 1542).* (1) The purpose of CAMIS is to maintain an accurate DoD data base of commercial activities that undergo an OMB Circular A-76 cost comparison and CAs that are converted directly to contract without a cost comparison. The CAMIS is used to provide information to the Congress, Office of Management Budget (OMB), General Accounting Office (GAO), OSD, and others. The CAMIS is divided into two parts. Part I contains data on CAs that undergo cost comparison. Part II contains data on commercial activities converted to contract without a full cost comparison.
+
+(2) The CAMIS report shall be submitted in accordance with the procedures in Appendix C.
+
+(c) Congressional Data Reports on CA (Report Control Symbol DD-A&T(A&AR) 1949) and Reports on savings on Costs from Increased Use of DoD Civilian Personnel (Report Control Symbol DD-A&T(AR) 1950). To insure consistent application of the requirements stated in 10 U.S.C. 2461 and 2463, the following guidance is provided:
+
+(1) The geographic scope of section 10 U.S.C. 2461 applies to the United States, its territories and possessions, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+(2) Section 10 U.S.C. 2461 applies to proposed conversions of DoD CAs that on October 1, 1980, were being performed by more than forty-five DoD civilian employees. 10 U.S.C. 2463 applies to conversions from contract to in-house involving 50 or more contractor employees.
+
+(3) DoD Components must not proceed with a CA study until notification to Congress, as required by 10 U.S.C. 2461. DoD Components shall notify the ASD(ES) of any such intent at least 5 working days before congressional notification.
+
+(4) DoD Components shall annotate announcements to Congress when a cost comparison is planned at an activity listed in the report to Congress on Core Logistics (see § 169a.8(b)(1)(i)(2) of this part).
+
+(5) The DoD Components shall notify Congress, at least 5 working days before sending the detailed summary report required by 10 U.S.C. 2461 to Congress. The detailed summary of the cost shall include: the amount of the offer accepted for the performance of the activity by the private contractor; the costs and expenditures that the Government will incur because of the contract; the estimated cost of performance of the activity by the most efficient Government organization; a statement indicating the life of the contract; and certifications that the entire cost comparison is available, and that the Government calculation for the cost of performance of such function by DoD employees is based on an estimate of the most efficient and cost-effective organization for performance of such function by DoD employees.
+
+(6) The potential economic effect on the employees affected, the local community, and the Federal Government of contracting for performance of the function shall be included in the report to accompany the above certifications, if more than 75 total employees (including military and civilian, both permanent and temporary) are potentially affected. It is suggested that the Army Corps of Engineers' model (or equivalent) be used to generate this information. The potential impact on affected employees shall be included in the report, regardless of the number of employees involved. Also include in the report a statement that the decision was made to convert to contractor performance, the projected date of contract award, the projected contract start date, and the effect of contracting the function on the military mission of that function.
+
+(7) By December 15th of each year, each DoD Component shall submit to the ASD(P&L) the data required by 10 U.S.C. 2461(c). In describing the extent to which CA functions were performed by DoD contractors during the preceding fiscal year, include the estimated number of work years for the in-house operation as well as for contract operation (including percentages) by major OSD functional areas in Appendix A to this part; such as, Social Services, Health Services, Installation Services, etc. For the estimate of the percentage of CA functions that will be performed in-house and those that will be performed by contract during the fiscal year during which the report is submitted, include the estimated work years for in-house CAs as well as for contracted CAs and the rationale for significant changes when compared to the previous year's data. Also, include the number of studies you expect to complete in the next fiscal year showing total civilian and military FTEs.
+
+[50 FR 40805, Oct. 7, 1985, as amended at 57 FR 29210, July 1, 1992; 60 FR 67329, Dec. 29, 1995]

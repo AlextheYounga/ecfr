@@ -1,0 +1,5 @@
+##### § 1500.213 Presentation of views under section 7 of the act. #####
+
+(a) Presentation of views under section 7 of the act shall be private and informal. The views presented shall be confined to matters relevant to the contemplated proceeding. Such views may be presented by letter or in person by the person to whom the notice was given, or by his representative. In case such person holds a guaranty or undertaking referred to in section 5(b)(2) of the act applicable to the article on which such notice was based, such guaranty or undertaking, or a verified copy thereof, shall be made a part of such presentation of views.
+
+(b) Upon request, reasonably made, by the person to whom a notice appointing a time and place for the presentation of views under section 7 of the act has been given, or by his representative, such time or place, or both such time and place, may be changed if the request states reasonable grounds therefor. Such request shall be addressed to the office of the Consumer Product Safety Commission that issued the notice.

@@ -1,0 +1,3 @@
+##### § 386.13 Soliciting, vending, and debt collection. #####
+
+Soliciting aims, or commercial soliciting and vending of all kinds, displaying or distributing commercial advertising, or collecting private debts is prohibited on Academy property. This prohibition does not apply to national or local drives for funds for charitable purposes, welfare, health, or other purposes as authorized by the “Manual on Fund Raising Within the Federal Service,” issued by the U.S. Office of Personnel Management under Executive Order 10927 of March 18, 1961, and sponsored or approved by the Superintendent; and to commercial lessees and contractors authorized to sell goods or services.

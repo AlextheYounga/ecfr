@@ -1,0 +1,3 @@
+##### § 1801.23 Notification of decision and right of appeal. #####
+
+Within ten (10) days of receipt of responses to all initial taskings and subsequent coordinations (if any), and dispatch of referrals (if any), NACIC will provide disclosable records to the requester. If a determination has been made not to provide access to requested records (in light of specific exemptions) or that no records are found, NACIC shall so inform the requester, identify the denying official, and advise of the right to administrative appeal.

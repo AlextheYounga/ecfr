@@ -1,0 +1,5 @@
+##### § 700.4 Parties “actually making” a written warranty. #####
+
+Section 110(f) of the Act, 15 U.S.C. 2310(f), provides that only the supplier “actually making” a written warranty is liable for purposes of FTC and private enforcement of the Act. A supplier who does no more than distribute or sell a consumer product covered by a written warranty offered by another person or business and which identifies that person or business as the warrantor is not liable for failure of the written warranty to comply with the Act or rules thereunder. However, other actions and written and oral representations of such a supplier in connection with the offer or sale of a warranted product may obligate that supplier under the Act. If under State law the supplier is deemed to have “adopted” the written affirmation of fact, promise, or undertaking, the supplier is also obligated under the Act. Suppliers are advised to consult State law to determine those actions and representations which may make them co-warrantors, and therefore obligated under the warranty of the other person or business.
+
+[42 FR 36114, July 13, 1977, as amended at 80 FR 42721, July 20, 2015]

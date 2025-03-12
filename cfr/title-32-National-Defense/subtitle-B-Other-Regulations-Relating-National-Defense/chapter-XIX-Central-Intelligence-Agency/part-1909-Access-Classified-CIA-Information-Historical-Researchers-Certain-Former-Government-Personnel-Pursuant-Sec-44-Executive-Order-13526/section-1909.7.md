@@ -1,0 +1,7 @@
+##### § 1909.7 Receipt, recording, and tasking. #####
+
+The Information and Privacy Coordinator shall within ten (10) days make a record of each request for access received under this part, acknowledge receipt to the requester in writing, and take the following actions:
+
+(a) *Compliance with general requirements.* The Coordinator shall review each request under this part and determine whether it meets the general requirements as set forth in § 1909.5 and notify the requester that the request has been accepted for consideration if it does. If it does not, the Coordinator shall so notify the requester and explain the basis for this decision and any steps that can be taken to perfect the request.
+
+(b) *Action on requests meeting general requirements.* For requests which meet the requirements of § 1909.5, the Coordinator shall thereafter task the Director, Center for the Study of Intelligence, the originator(s) of the information for which access is sought, and other interested parties to review the request and provide their input concerning whether or not the required determinations set forth in § 1909.8 can be made. Additional taskings may be directed as required during the review process.

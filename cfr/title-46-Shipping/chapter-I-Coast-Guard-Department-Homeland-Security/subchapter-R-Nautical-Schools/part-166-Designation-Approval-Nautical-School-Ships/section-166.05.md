@@ -1,0 +1,3 @@
+##### § 166.05 Course of study for deck students. #####
+
+The course of study for deck students shall include (a) all the instructions in the rudiments of seamanship and navigation necessary to equip the student fully with the theoretical knowledge required for the proper discharge of the duties developing upon able seaman; (b) a thorough practical training in the mechanics of all operations incident to the sailing and management of a vessel insofar as such operations form a part of the duties of able seamen.

@@ -1,0 +1,3 @@
+##### § 644.318 Compliance with State Coastal Zone Management Programs. #####
+
+Subpart H will outline the provisions of the Coastal Zone Management Act of 1972, as amended (16 U.S.C. 1451 *et seq.*). These provisions also apply to the disposal of land or water resources when the action is subject to the Federal consistency requirements of the Act and when the disposal is consistent with an approved state management program.

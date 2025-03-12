@@ -1,0 +1,5 @@
+##### § 90.15-1 Conditions under which equivalents may be used. #####
+
+(a) Where in this subchapter it is provided that a particular fitting, material, appliance, apparatus, or equipment, or type thereof, shall be fitted or carried in a vessel, or that any particular provision shall be made or arrangement shall be adopted, the Commandant may accept in substitution therefor any other fitting, material, apparatus, or equipment, or type thereof, or any other arrangement: *Provided,* That he shall have been satisfied by suitable trials that the fitting, material, appliance, apparatus, or equipment, or type thereof, or the provision or arrangement is at least as effective as that specified in this subchapter.
+
+(b) In any case where it is shown to the satisfaction of the Commandant that the use of any particular equipment, apparatus, or arrangement not specifically required by law is unreasonable or impracticable, the Commandant may permit the use of alternate equipment, apparatus, or arrangement to such an extent and upon such conditions as will insure, to his satisfaction, a degree of safety consistent with the minimum standards set forth in this subchapter.

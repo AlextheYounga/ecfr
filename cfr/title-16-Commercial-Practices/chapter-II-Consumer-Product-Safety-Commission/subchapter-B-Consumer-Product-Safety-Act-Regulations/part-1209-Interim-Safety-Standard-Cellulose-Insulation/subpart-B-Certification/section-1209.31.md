@@ -1,0 +1,7 @@
+##### § 1209.31 Purpose and applicability. #####
+
+(a) *Purpose.* The purpose of this subpart B of part 1209 is to establish requirements that manufacturers, importers, and private labelers must follow to certify that their products comply with the Amended Interim Standard for Cellulose Insulation (16 CFR part 1209, subpart A). This subpart B includes requirements for conducting a reasonable testing program, certifying with labels and separate certificates, and recordkeeping.
+
+(b) *Applicability.* (1) Cellulose insulation which is subject to the standard includes all cellulose insulation, manufactured after the effective date (as described in § 1209.41), produced or distributed for sale to, or for the personal use, consumption, or enjoyment of, consumers in or around a permanent or temporary household or residence, a school, in recreation or otherwise. The standard applies to cellulose insulation that is produced or distributed for sale to consumers, for their direct installation or use, as well as cellulose insulation that is produced or distributed for installation by professionals.
+
+(2) The term *cellulose insulation* is defined in § 1209.2(a) of the standard to mean cellulosic fiber, loose fill, thermal insulation that is suitable for blowing or pouring applications.

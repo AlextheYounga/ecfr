@@ -1,0 +1,19 @@
+##### § 516.68 Program Fraud Civil Remedies Act (PFCRA). #####
+
+(a) PFCRA was enacted on 21 October 1986 (Public Law 99-509) and implemented by DOD on 30 August 1988 (DOD Directive 5505.5). (See appendix E to this part.)
+
+(b) PFCRA expands the capability of the government to deter and recover losses from false, fictitious or fraudulent claims and statements. It is also applicable to program fraud and provides an administrative remedy in addition to those otherwise available to the Army in procurement fraud or pay and entitlements fraud cases.
+
+(c) As part of the Army implementation, the Secretary of the Army's duties and responsibilities under PFCRA as Authority Head are delegated to the Army General Counsel. The Chief, Intellectual Property Law Division, is the Army's Reviewing Official within the meaning of PFCRA. Army implementation also requires DA to follow the policies and procedures prescribed in enclosure 2 of DOD Directive 5505.5. (See appendix E to this part.)
+
+(d) The DOD Inspector General (IG) is the Investigating Official within DOD. The duties of this position will be performed by the Assistant IG For Investigations. This individual is vested with the authority to investigate all allegations of liability under PFCRA. That authority includes the power to task subordinate investigative agencies to review and report on allegations that are subject to PFCRA. If the Investigative Official concludes that an action under PFCRA is warranted in an Army case, the official will submit a report containing the findings and conclusions of such investigation through PFD to the Army Reviewing Official.
+
+(e) Pursuant to DOD IG guidance, USACIDC will forward appropriate cases that appear to qualify for resolution under PFCRA to the Investigating Official in a timely manner. Additionally, USACIDC will forward current information regarding the status of remedies pending or concluded. USACIDC may obtain remedies information by coordinating with PFD and the cognizant command.
+
+(f) In pay and entitlement or transportation operation fraud cases, USACIDC will coordinate with the Office of the Secretary of the Army, Financial Management, Review and Oversight Directorate (SAFM-RO), to determine the status of any pending or proposed action under the Debt Collection Act. This information, in addition to information obtained under § 517.68(e), will be forwarded with appropriate cases to the Investigating Official.
+
+(g) In those cases where the Investigating Official has submitted a report to the Army Reviewing Official for action under PFCRA, PFD will, at the direction of the Reviewing Official, prepare all legal memoranda as necessary to transmit the Reviewing Official's intention to issue a complaint. As part of this responsibility PFD will do the following: coordinate with the affected command or agency to ensure that all appropriate remedies have been considered; evaluate the overall potential benefits to the Army; and, ensure that action under PFCRA is not duplicative of other remedies already taken. In order to fully supplement the Reviewing Official's file, PFD may request a litigation report.
+
+(h) PFD will coordinate all cases involving transportation operations emanating from Military Traffic Management Command (MTMC) activity, under the military transportation exception to the FAR, and all cases involving pay and entitlements fraud with SAFM-RO, for comments and recommendations. These matters will be forwarded with the case file to the Reviewing Official.
+
+(i) If the Attorney General approves the issuance of a complaint, PFD, at the direction of the Army Reviewing Official, shall prepare the complaint and all necessary memoranda as required. PFD shall also designate attorneys to represent the Authority in hearings under PFCRA.

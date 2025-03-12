@@ -1,0 +1,3 @@
+##### § 502.101 Computation. #####
+
+In computing any time period prescribed or allowed under the rules in this part, the period begins on the day following the act, event, or default that triggers the period and includes the last day of the time period. If the last day is a Saturday, Sunday, or Federal holiday, the time period continues to the next day that is not a Saturday, Sunday, or federal holiday. If the presiding officer prescribes or allows an act, event, or default by reference to a specific date, that date shall govern. If the Commission's offices are inaccessible on the last day for a filing, the time for filing is extended to the first accessible day that is not a Saturday, Sunday, or Federal holiday. [Rule101]

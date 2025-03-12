@@ -1,0 +1,3 @@
+##### § 2700.22 Classification guides. #####
+
+OMSN shall issue classification guides pursuant to section 2-2 of E.O. 12065. These guides, which shall be used to direct derivative classification, shall identify the information to be protected in specific and uniform terms so that the information involved can be readily identified. The classification guides shall be approved in writing by the President's Personal Representative for Micronesian Status Negotiations. Such approval constitutes an original classification decision. The classification guides shall be kept current and shall be reviewed at least every two years.

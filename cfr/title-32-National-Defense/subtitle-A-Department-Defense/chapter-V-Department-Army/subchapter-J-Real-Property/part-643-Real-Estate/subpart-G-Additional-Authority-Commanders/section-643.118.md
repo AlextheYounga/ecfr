@@ -1,0 +1,3 @@
+##### § 643.118 Nonappropriated funds - Authority to permit erection of structures. #####
+
+The authority of installation commanders to permit structures to be erected on military installations with nonappropriated funds, as well as the title status of each, is defined in AR 60-10 and AR 210-55. Use of existing space and structures for activities of a civilian nonappropriated fund is governed by AR 230-81.

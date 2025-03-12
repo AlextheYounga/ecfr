@@ -1,0 +1,41 @@
+##### § 540.9 Miscellaneous. #####
+
+(a) If any evidence filed with the application does not comply with the requirements of this subpart, or for any reason fails to provide adequate or satisfactory protection to the public, the Commission will notify the applicant stating the deficiencies thereof.
+
+(b) Any financial evidence submitted to the Commission under the rules of this subpart shall be written in the full and correct name of the person to whom the Certificate (Performance) is to be issued, and in case of a partnership, all partners shall be named.
+
+(c) The Commission's bond (Form FMC-132A), guaranty (Form FMC-133A), and application (Form FMC-131) forms may be obtained from the Commission's Web site at *http://www.fmc.gov* or from the Bureau of Certification and Licensing at its office in Washington, DC 20573.
+
+(d) Any securities or assets accepted by the Commission (from applicants, insurers, guarantors, escrow agents, or others) under the rules of this subpart must be physically located in the United States.
+
+(e) Each applicant, insurer, escrow agent and guarantor shall furnish a written designation of a person in the United States as legal agent for service of process for the purposes of the rules of this subpart. Such designation must be acknowledged, in writing, by the designee and filed with the Commission. In any instance in which the designated agent cannot be served because of death, disability, or unavailability, the Secretary, Federal Maritime Commission, will be deemed to be the agent for service of process. A party serving the Secretary in accordance with the above provision must also serve the certificant, insurer, escrow agent, or guarantor, as the case may be, by certified mail or courier service at the last known address of them on file with the Commission.
+
+(f) [Reserved]
+
+(g) Financial data filed in connection with the rules of this subpart shall be confidential except in instances where information becomes relevant in connection with hearings which may be requested by applicant pursuant to § 540.8 (a) or (b).
+
+(h) Every person who has been issued a Certificate (Performance) must submit to the Commission a semi-annual statement of any changes with respect to the information contained in the application or documents submitted in support thereof or a statement that no changes have occurred. Negative statements are required to indicate no change. These statements must cover the 6-month period of January through June and July through December, and include a statement of the highest unearned passenger vessel revenue accrued for each month in the 6-month reporting period. Such statements will be due within 30 days after the close of every such 6-month period. The reports required by this paragraph shall be submitted to the Bureau of Certification and Licensing at its office in Washington, DC 20573 by certified mail, courier service, or electronic submission.
+
+(i) [Reserved]
+
+(j) The amount of: the insurance as specified in § 540.5(a), the escrow account as specified in § 540.5(b), the guaranty as specified in § 540.5(c), or the surety bond as specified in § 540.6 shall not be required to exceed $15 million for one year after April 2, 2013. Twelve (12) months after April 2, 2013, the amount shall not exceed $22 million, and twenty four (24) months after April 2, 2013, the amount shall not exceed $30 million. Every two years, on the anniversary after the cap on required financial responsibility reaches $30 million, the cap shall automatically adjust to the nearest $1 million based on changes as reflected in the U.S. Bureau of Labor Statistics' Consumer Price Index. The Bureau of Certification and Licensing will determine the amount of each adjustment and transmit that information to the Secretary of the Federal Maritime Commission for publication on the Commission's Web site (*www.fmc.gov*) and in the Federal Register with an effective date that is no less than sixty (60) days after Federal Register publication.
+
+(k) Every person in whose name a Certificate (Performance) has been issued shall be deemed to be responsible for any unearned passage money or deposits held by its agents or any other person authorized by the certificant to sell the certificant's tickets. Certificants shall promptly notify the Commission of any arrangements, including charters and subcharters, made by it or its agent with any person pursuant to which the certificant does not assume responsibility for all passenger fares and deposits collected by such person or organization and held by such person or organization as deposits or payment for services to be performed by the certificant. If responsibility is not assumed by the certificant, the certificant also must inform such person or organization of the certification requirements of Public Law 89-777 and not permit use of its vessel, name or tickets in any manner unless and until such person or organization has obtained the requisite Certificate (Performance) from the Commission. Failure to follow the procedures in this paragraph means the certificant shall retain full financial responsibility for indemnification of passengers for nonperformance of the transportation.
+
+(l) *Requests to substitute alternative financial responsibility.* (1) A certificant whose unearned passenger revenue at no time for the two immediately prior fiscal years has exceeded 150% of the required cap may submit a request to the Director, Bureau of Certification and Licensing, to substitute alternative forms of financial protection to evidence the financial responsibility as otherwise provided in this part.
+
+(2) The Commission will consider such requests on a case-by-case basis.
+
+(3) The request must include copies of the requesting PVO's most recently available annual and quarterly financial and income statements. Other documents and information in support of its request may also be submitted.
+
+(4) For requests based upon the already existing protections available to credit card purchases of passenger vessel transportation, the requesting PVO must supply the following information for the most recent twelve months preceding the request: Total deposits and payments received for passenger vessel transportation; Credit card receipt totals; Copy of the PVO's policy(ies) governing payments by passengers (i.e., deposits and the number of days prior to sailing the passenger must make final payment).
+
+(5) In determining whether and to what level to reduce the required amount, the Commission may consider the extent to which other statutory requirements provide relevant protections, the certificant's financial data, and other specific facts and circumstances.
+
+(6) For PVOs with payment policies that provide for final payment for the passenger vessel transportation no later than 60 days before the vessel's sailing date, requests based upon credit card receipts may be granted by the Commission permitting a reduction in the financial responsibility otherwise required under this Part. The amount of such a reduction will be established by determining the proportion that the PVO's total credit card receipts bears to its total receipts and applying one half of that percentage to the PVO's highest two-year UPR.
+
+(7) The Bureau of Certification and Licensing may request additional information as may assist it in considering the request.
+
+(8) Where a request is granted, the alternative financial responsibility shall remain in effect until the PVO's Certificate (Performance) expires under § 540.7(b) or until the Director, Bureau of Certification and Licensing determines otherwise based upon changing information pursuant to this paragraph or paragraph (l)(5) of this section. Additional information may be requested at any time by the Commission or BCL from a PVO whose request under this section has been granted.
+
+[49 FR 36313, Sept. 14, 1984, as amended at 55 FR 34568, Aug. 23, 1990; 78 FR 13278, Feb. 27, 2013]

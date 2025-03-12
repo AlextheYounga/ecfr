@@ -1,0 +1,3 @@
+##### § 855.4 Scope. #####
+
+Air Force airfields are available for use by civil aircraft so far as such use does not interfere with military operations or jeopardize the military utility of the installation. Access will be granted on an equitable basis. Air Force requirements take precedence over authorized civil aircraft use. This part carries the force of US law, and exceptions are not authorized without prior approval from the Civil Aviation Branch, Bases and Units Division, Directorate of Operations, (HQ USAF/XOOBC), 1480 Air Force Pentagon, Washington DC 20330-1480. Proposed exceptions or waivers are evaluated as to current and future impact on Air Force policy and operations.

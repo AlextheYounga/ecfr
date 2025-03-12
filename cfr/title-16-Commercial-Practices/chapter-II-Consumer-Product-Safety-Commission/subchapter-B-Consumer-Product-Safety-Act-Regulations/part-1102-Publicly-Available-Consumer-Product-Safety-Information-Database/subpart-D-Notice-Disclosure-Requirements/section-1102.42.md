@@ -1,0 +1,3 @@
+##### § 1102.42 Disclaimers. #####
+
+The Commission does not guarantee the accuracy, completeness, or adequacy of the contents of the Consumer Product Safety Information Database, particularly with respect to the accuracy, completeness, or adequacy of information submitted by persons outside of the CPSC. The Database will contain a notice to this effect that will be prominently and conspicuously displayed on the Database and on any documents that are printed from the Database.

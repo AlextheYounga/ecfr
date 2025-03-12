@@ -1,0 +1,5 @@
+##### § 550.101 Purpose. #####
+
+It is the purpose of the regulations of this part to declare certain conditions resulting from governmental actions by foreign nations or from the competitive methods or practices of owners, operators, agents, or masters of vessels of a foreign country unfavorable to shipping in the foreign trade of the United States and to establish procedures by which persons who are or can reasonably expect to be adversely affected by such conditions may petition the Federal Maritime Commission for the issuance of regulations under the authority of section 19 of the Merchant Marine Act of 1920 (46 U.S.C. 42101-42109). It is the further purpose of the regulations of this part to afford notice of the general circumstances under which the authority granted to the Commission under section 19 may be invoked and the nature of the regulatory actions contemplated.
+
+[58 FR 64910, Dec. 10, 1993. Redesignated at 64 FR 8008, Feb. 18, 1999, as amended at 74 FR 50732, Oct. 1, 2009]

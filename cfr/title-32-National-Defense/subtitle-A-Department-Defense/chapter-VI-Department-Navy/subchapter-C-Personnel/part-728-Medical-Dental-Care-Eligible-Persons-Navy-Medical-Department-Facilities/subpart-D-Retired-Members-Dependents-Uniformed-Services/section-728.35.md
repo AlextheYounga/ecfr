@@ -1,0 +1,3 @@
+##### § 728.35 Coordination of benefits - third party payers. #####
+
+Title 10 U.S.C. 1095 directs the services to collect from third-party payers the reasonable costs of inpatient hospital care incurred by the United States on behalf of retirees and dependents. Naval hospital collection agents have been provided instructions relative to this issue and are responsible for initiating claims to third-party payers for the cost of such care. Admission office personnel must obtain insurance, medical service, or health plan (third-party payer) information from retirees and dependents upon admission and forward this information to the collection agent.

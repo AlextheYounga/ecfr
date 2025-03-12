@@ -1,0 +1,3 @@
+##### § 169.509 Approval for repairs and alterations. #####
+
+No extensive repairs or alterations, except in an emergency, may be made to any item of lifesaving equipment without advance notice to the Officer in Charge, Marine Inspection. Repairs and alterations must be made to the original standard of construction and tested in the manner specified in this subpart and applicable requirements in Subchapter Q of this chapter. Emergency repairs or alterations must be reported as soon as practicable to the nearest Officer in Charge, Marine Inspection.

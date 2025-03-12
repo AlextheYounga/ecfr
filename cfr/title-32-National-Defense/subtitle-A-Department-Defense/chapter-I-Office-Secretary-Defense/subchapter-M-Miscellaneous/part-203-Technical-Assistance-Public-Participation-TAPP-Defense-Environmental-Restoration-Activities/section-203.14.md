@@ -1,0 +1,3 @@
+##### § 203.14 RAB/TRC reporting requirements. #####
+
+The community point of contact of the RAB or TRC must submit a report, to be provided to the installation and to DUSD(ES), to enable the Department of Defense to meet DoD reporting requirements to Congress. This report should include a description of the TAPP project, a summary of services and products obtained, and a statement regarding the overall satisfaction of the community member of the RAB or TRC with the quality of service and/or products received.

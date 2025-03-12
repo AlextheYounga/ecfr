@@ -1,0 +1,3 @@
+##### § 707.11 Flight operations lights. #####
+
+Naval vessels engaged in night flight operations may display various arrangements of light systems containing combinations of different colored lights as a means of assisting in the launch and recovery of aircraft and enhancing flight safety. These light systems will be located at various points on the vessels, depending on the vessel type and the nature of the flight operations being conducted.

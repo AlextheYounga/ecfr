@@ -1,0 +1,3 @@
+##### § 240.12 Checking customer's use of payments. #####
+
+The seller should take reasonable precautions to see that the services the seller is paying for are furnished and that the seller is not overpaying for them. The customer should expend the allowance solely for the purpose for which it was given. If the seller knows or should know that what the seller is paying for or furnishing is not being properly used by some customers, the improper payments or services should be discontinued.

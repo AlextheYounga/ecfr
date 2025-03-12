@@ -1,0 +1,3 @@
+##### § 37.835 What requirements do I include for program income? #####
+
+Your TIA should apply the standards of 32 CFR 34.14 for program income that may be generated. Note the need to specify whether the recipient is to have any obligation to the Federal Government with respect to program income generated after the end of the project period (the period, as established in the award document, during which Federal support is provided). Doing so is especially important if the TIA includes a provision for the recipient to return any amounts to the Federal Government (see § 37.580).

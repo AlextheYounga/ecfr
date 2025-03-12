@@ -1,0 +1,3 @@
+##### § 935.20 Applicable law. #####
+
+Civil acts and deeds taking place on Wake Island shall be determined and adjudicated as provided in this part; and otherwise, as provided in the Act of June 15, 1950 (64 Stat. 217) (48 U.S.C. 644a), according to the laws of the United States relating to such an act or deed taking place on the high seas on board a merchant vessel or other vessel belonging to the United States.

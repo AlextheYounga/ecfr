@@ -1,0 +1,5 @@
+##### § 67.250 General requirements. #####
+
+(a) A notice of claim of lien or supplemental instrument thereto submitted for filing and recording must meet all of the requirements of subpart O of this part.
+
+(b) An instrument assigning or amending a notice of claim of lien must recite information which clearly identifies the notice of claim of lien being assigned or amended. Such information will normally consist of the book and page where the notice of claim is recorded and the date and time of filing. If the submission of the assignment or amendment is contemporaneous with submission of the notice of claim of lien, the information should include the name of each original claimant, the date of the notice of claim, and the amount of the claim and other information to adequately identify the notice of claim of lien being assigned or amended.

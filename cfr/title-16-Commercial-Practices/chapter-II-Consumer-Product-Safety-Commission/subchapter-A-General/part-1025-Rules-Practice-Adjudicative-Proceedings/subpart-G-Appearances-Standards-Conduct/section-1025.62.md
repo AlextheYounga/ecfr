@@ -1,0 +1,3 @@
+##### § 1025.62 Authority for representation. #####
+
+Any individual acting in a representative capacity in any adjudicative proceedings may be required by the Presiding Officer or the Commission to show his/her authority to act in such capacity. A regular employee of a party who appears on behalf of the party may be required by the Presiding Officer or the Commission to show his/her authority to so appear.

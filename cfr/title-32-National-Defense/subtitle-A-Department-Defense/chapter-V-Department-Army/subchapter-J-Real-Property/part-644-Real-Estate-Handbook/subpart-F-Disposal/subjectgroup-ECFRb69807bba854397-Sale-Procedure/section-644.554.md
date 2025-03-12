@@ -1,0 +1,3 @@
+##### § 644.554 Insurance against loss or damages to buildings and improvements by fire or acts of God. #####
+
+The Department does not carry property insurance of any nature. Vendees, however, may be advised as to their liability for certain losses and that insurance protection against such risks is optional. Under the FPMR, the vendee must provide insurance to protect the United States when credit is extended (§ 101-47.304-4(f)).

@@ -1,0 +1,7 @@
+##### § 190.25-5 Where rails required. #####
+
+(a) All vessels shall have efficient guard rails or bulwarks on decks and bridges. The height of rails or bulwarks shall be at least 391/2 inches from the deck. At exposed peripheries of the freeboard and superstructure decks, the rails shall be in at least three courses, including the top. The opening below the lowest course shall not be more than 9 inches. The courses shall not be more than 15 inches apart. In the case of ships with rounded gunwales the guard rail supports shall be placed in the flat of the deck. On other decks and bridges the rails shall be in at least two courses, including the top, approximately evenly spaced. If it can be shown to the satisfaction of the Officer in Charge, Marine Inspection, that the installation of rails of such height will be unreasonable and impracticable, having regard to the business of the vessel, rails of a lesser height or in some cases grab rails may be accepted and inboard rails may be eliminated if the deck is not generally accessible.
+
+(b) Where it can be shown to the satisfaction of the Commandant that a vessel is engaged exclusively in voyages of a sheltered nature, the provisions of paragraph (a) of this section may be relaxed.
+
+[CGFR 69-72, 34 FR 17503, Oct. 29, 1969]

@@ -1,0 +1,3 @@
+##### § 1110.5 Acceptable certificates. #####
+
+A certificate that is in hard copy or electronic form and complies with all applicable requirements of this part 1110 meets the certificate requirements of section 14 of the CPSA. This does not relieve the importer or domestic manufacturer from the underlying statutory requirements concerning the supporting testing and/or other bases to support certification and issuance of certificates.

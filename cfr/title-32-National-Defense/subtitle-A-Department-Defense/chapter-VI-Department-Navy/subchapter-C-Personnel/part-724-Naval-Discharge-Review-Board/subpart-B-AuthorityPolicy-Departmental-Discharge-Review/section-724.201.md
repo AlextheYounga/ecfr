@@ -1,0 +1,7 @@
+##### § 724.201 Authority. #####
+
+The Naval Discharge Review Board, established pursuant to 10 U.S.C. 1553, is a component of the Secretary of the Navy Council of Review Boards. On December 6, 2004, the Assistant Secretary of the Navy (Manpower & Reserve Affairs) approved the change in name from Naval Council of Personnel Boards to Secretary of the Navy Council of Review Boards. By SECNAVINST 5730.7 series, the Assistant Secretary of the Navy (Manpower and Reserve Affairs) is authorized and directed to act for the Secretary of the Navy within his/her assigned area of responsibility and exercises oversight over the Secretary of the Naval Council of Review Boards. SECNAVINST 5420.135 series states the organization, mission, duties and responsibilities of the Secretary of the Naval Council of Review Boards to include the Naval Discharge Review Board. The Chief of Naval Operations established the Office of Naval Disability Evaluation and the Navy Council of Personnel Boards on 1 October 1976 (OPNAVNOTE 5450 Ser 09b26/535376 of 9 Sep 1976 (Canc frp: Apr 77)). The Chief of Naval Operations approved the change in name of the Office of Naval Disability Evaluation and Navy Council of Personnel Boards to Naval Council of Personnel Boards on 1 February 1977 (OPNAVNOTE 5450 Ser 099b26/32648 of 24 Jan 1977 (Canc frp: Jul 77)) with the following mission Statement:
+
+To administer and supervise assigned boards and councils.
+
+[75 FR 747, Jan. 6, 2010]

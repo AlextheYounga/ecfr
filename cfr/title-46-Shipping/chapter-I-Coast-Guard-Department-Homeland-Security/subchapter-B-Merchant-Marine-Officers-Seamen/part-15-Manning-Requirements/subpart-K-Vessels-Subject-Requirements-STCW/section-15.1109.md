@@ -1,0 +1,3 @@
+##### § 15.1109 Watches. #####
+
+Except those serving on vessels listed in § 15.105(f) and (g) of this part, each master of a vessel that operates beyond the boundary line, as described in part 7 of this chapter, must ensure observance of the principles concerning watchkeeping set out in Regulation VIII/2 of the STCW Convention and section A-VIII/2 of the STCW Code (both incorporated by reference, see § 15.103 of this part).

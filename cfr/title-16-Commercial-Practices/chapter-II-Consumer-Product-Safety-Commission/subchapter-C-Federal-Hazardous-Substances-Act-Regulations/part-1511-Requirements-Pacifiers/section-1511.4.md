@@ -1,0 +1,5 @@
+##### § 1511.4 Protrusions. #####
+
+(a) *Protrusions limitation.* No protrusion from the face of the guard or shield opposite from the nipple shall exceed 0.63 inches (16mm) when measured in accordance with the procedure specified in paragraph (b) of this section.
+
+(b) *Protrusion test.* Secure the pacifier by clamping the nipple with its axis horizontal. For pacifiers with hinged handles or rings the orientation of the hinge axis shall be horizontal. A plane surface shall be applied to any protrusion from the guard or shield with a force gradually attaining but not exceeding 2.0 pounds (8.9 newtons) applied in a direction along the axis of the nipple. The normal of the plane surface shall be maintained parallel to the axis of the nipple. Any protrusion shall be allowed to flex or rotate about its hinge as the plane surfact is applied to it. Measure the distance from the plane surface to the guard or shield at the base of the nipple.

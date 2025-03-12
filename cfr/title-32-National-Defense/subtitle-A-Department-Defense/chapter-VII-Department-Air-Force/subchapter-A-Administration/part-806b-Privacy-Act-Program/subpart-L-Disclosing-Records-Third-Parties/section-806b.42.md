@@ -1,0 +1,3 @@
+##### § 806b.42 Social rosters. #####
+
+Before including personal information such as spouses names, home addresses, home phones, and similar information on social rosters or directories that are shared with groups of individuals, ask for signed consent statements. Otherwise, do not include the information. Consent statements must give the individual a choice to consent or not consent, and clearly tell the individual what information is being solicited, the purpose, to whom you plan to disclose the information, and that consent is voluntary. Maintain the signed statements until no longer needed.

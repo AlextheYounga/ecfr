@@ -1,0 +1,3 @@
+##### § 643.74 Consideration. #####
+
+When a license is granted under the authority of an easement or leasing statute, the same rules will apply in regard to consideration as is applicable to the granting of an easement or lease under the statute. Since the administrative power may be relied upon for the grant of a license only when such grant is of direct benefit to the Government, such grants may be made without consideration.

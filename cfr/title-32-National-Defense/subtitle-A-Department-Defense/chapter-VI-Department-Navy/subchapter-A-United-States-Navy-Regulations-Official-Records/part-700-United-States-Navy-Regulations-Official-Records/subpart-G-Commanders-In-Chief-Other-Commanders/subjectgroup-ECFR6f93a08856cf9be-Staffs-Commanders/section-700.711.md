@@ -1,0 +1,5 @@
+##### § 700.711 Authority and responsibilities of officers of a staff. #####
+
+(a) The chief of staff and aide or chief staff officer, under the commander, shall be responsible for supervising and coordinating the work of the staff and shall be kept informed of all matters pertaining to that work. All persons attached to the staff, except a vice commander or deputy responsible directly to the commander shall be subordinate to the chief of staff and aide or chief staff officer while he or she is executing the duties of that office.
+
+(b) The officers of a staff shall be responsible for the performance of those duties assigned to them by the commander and shall advise the commander on all matters pertaining thereto. In the performance of their staff duties they shall have no command authority of their own. In carrying out such duties, they shall act for, and in the name of, the commander.

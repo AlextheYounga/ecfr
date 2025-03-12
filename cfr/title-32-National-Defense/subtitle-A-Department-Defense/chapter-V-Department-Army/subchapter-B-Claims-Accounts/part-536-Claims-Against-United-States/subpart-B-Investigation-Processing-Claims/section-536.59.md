@@ -1,0 +1,3 @@
+##### § 536.59 Settlement or approval authority. #####
+
+“Settlement authority” is a statutory term (10 U.S.C. 2735) meaning that officer authorized to approve, deny or compromise a claim, or make final action. “Approval authority” means the officer empowered to settle, pay or compromise a claim in full or in part, provided the claimant agrees. “Final action authority” means the officer empowered to deny or make a final offer on a claim. Determining the proper officer empowered to approve or make final action on a claim depends on the claims statute involved and any limitations that apply under that statute. DA Pam 27-162, paragraph 2-69, outlines how various authority is delegated among offices.

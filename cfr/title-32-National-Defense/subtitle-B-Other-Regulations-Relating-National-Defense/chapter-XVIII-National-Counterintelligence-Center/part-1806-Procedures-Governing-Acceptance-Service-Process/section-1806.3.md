@@ -1,0 +1,15 @@
+##### § 1806.3 Procedures governing acceptance of service of process. #####
+
+(a) *Service of Process Upon the NACIC or a NACIC Employee in an Official Capacity*—(1) *Personal Service.* Unless otherwise expressly authorized by NACIC Counsel, or designee, personal service of process may be accepted only by NACIC Counsel, Director, NACIC, or Deputy Director, NACIC, located at Central Intelligence Agency Headquarters, Langley, Virginia.
+
+(2) *Mail Service.* Where service of process by registered or certified mail is authorized by law, unless expressly directed otherwise by the NACIC Counsel or designee, personal service of process may be accepted only by NACIC Counsel, Director, NACIC, or Deputy Director, NACIC. Process by mail should be addressed as follows: NACIC Counsel, National Counterintelligence Center, Washington, DC 20505.
+
+(b) *Service of Process Upon a NACIC Employee Solely in An Individual Capacity*—(1) *General.* NACIC will not provide the name or address of any current or former NACIC employee to individuals or entities seeking to serve process upon such employee solely in his or her individual capacity, even when the matter is related to NACIC activities.
+
+(2) *Personal Service.* Subject to the sole discretion of appropriate officials of the CIA, where NACIC is physically located, process servers generally will not be allowed to enter CIA Headquarters for the purpose of serving process upon any NACIC employee solely in his or her individual capacity. Subject to the sole discretion of the Director, NACIC, process servers will generally not be permitted to enter NACIC office space for the purpose of serving process upon a NACIC employee solely in his or her individual capacity. The NACIC Counsel, the Director, NACIC, and the Deputy Director, NACIC are not permitted to accept service of process on behalf of a NACIC employee in his or her individual capacity.
+
+(3) *Mail Service.* Unless otherwise expressly authorized by the NACIC Counsel, or designee, NACIC personnel are not authorized to accept or forward mailed service of process directed to any NACIC employee in his or her individual capacity. Any such process will be returned to the sender via appropriate postal channels.
+
+(c) *Service of Process Upon a NACIC Employee in a Combined Official and Individual Capacity*—Unless expressly directed otherwise by the NACIC Counsel, or designee, any process to be served upon a NACIC employee in his or her combined official and individual capacity, in person or by mail, can be accepted only by NACIC Counsel, Director, NACIC, or Deputy Director, NACIC, National Counterintelligence Center, Langley, Virginia.
+
+(d) *Service of Process Upon a NACIC Counsel.* The documents for which service is accepted in official capacity only shall be stamped “Service Accepted in Official Capacity Only.” Acceptance of Service of Process shall not constitute an admission or waiver with respect to jurisdiction, propriety of service, improper venue, or any other defense in law or equity available under the laws or rules applicable to the service of process.

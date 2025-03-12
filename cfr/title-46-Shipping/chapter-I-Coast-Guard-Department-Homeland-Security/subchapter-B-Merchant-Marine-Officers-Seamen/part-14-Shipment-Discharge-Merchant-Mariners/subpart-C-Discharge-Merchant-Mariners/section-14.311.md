@@ -1,0 +1,7 @@
+##### § 14.311 Report of discharge of merchant mariner. #####
+
+(a) At the end of each foreign, intercoastal, and coastwise voyage by a vessel of the United States, or of each voyage by such a vessel that sails exclusively on bays or sounds (or by such a vessel at the close of the season on the Great Lakes, or once the vessel is withdrawn from service there, whichever occurs later), the shipping company may electronically transmit the data from the certificates of discharge to the electronic address provided by the Coast Guard in § 14.103 of this part .
+
+(b) If the data is submitted manually, the shipping companies must provide the data for foreign and intercoastal voyages at the end of each voyage. For coastwise voyages or of each voyage by such a vessel that sails exclusively on bays or sounds (or by such a vessel at the close of the season of the Great Lakes, or once the vessel is withdrawn from service there, whichever occurs later), the shipping companies must submit a copy of each certificate of discharge to the address in § 14.103(a) at least once per calendar month.
+
+[CGD 94-004, 61 FR 56637, Nov. 4, 1996, as amended by USCG-2007-29018, 72 FR 53964, Sept. 21, 2007; USCG-2004-17914, 78 FR 78000, Dec. 24, 2013]

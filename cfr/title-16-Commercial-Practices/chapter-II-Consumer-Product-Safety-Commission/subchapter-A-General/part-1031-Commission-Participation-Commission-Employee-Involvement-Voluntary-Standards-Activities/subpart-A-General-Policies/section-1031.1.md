@@ -1,0 +1,5 @@
+##### § 1031.1 Purpose and scope. #####
+
+(a) This part 1031 sets forth the Consumer Product Safety Commission's guidelines and requirements on participating in the activities of voluntary standards bodies. Subpart A sets forth general policies on Commission involvement, and subpart B sets forth policies and guidelines on employee involvement in voluntary standards activities. Subpart C sets forth the criteria governing public review and comment on staff involvement in voluntary standards activities.
+
+(b) For purposes of both subpart A and subpart B of this part 1031, voluntary standards bodies are private sector domestic or multinational organizations or groups, or combinations thereof, such as, but not limited to, all non-profit organizations, industry associations, professional and technical societies, institutes, and test laboratories, that are involved in the planning, development, establishment, revision, review or coordination of voluntary standards. Voluntary standards development bodies are voluntary standards bodies, or their sub-groups, that are devoted to developing or establishing voluntary standards.

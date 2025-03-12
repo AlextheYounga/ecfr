@@ -1,0 +1,33 @@
+##### § 1001.10 Fees. #####
+
+(a) We will charge fees that recoup the full allowable direct costs we incur in processing your FOIA request. Fees may be charged for search, review or duplication. As a matter of administrative discretion, the Board may release records without charge or at a reduced rate whenever the Board determines that the interest of the United States government would be served. We will use the most efficient and least costly methods to comply with your request.
+
+(b) With regard to manual searches for records, we will charge the salary rate(s) (calculated as the basic rate of pay plus 16 percent of that basic rate to cover benefits) of the employee(s) performing the search.
+
+(c) In calculating charges for computer searches for records, we will charge at the actual direct cost of providing the service, including the cost of operating the central processing unit directly attributable to searching for records potentially responsive to your FOIA request and the portion of the salary of the operators/programmers performing the search.
+
+(d) We may only charge requesters seeking documents for commercial use for time spent reviewing records to determine whether they are exempt from mandatory disclosure. Charges may be assessed only for the initial review - that is the review undertaken the first time we analyze the applicability of a specific exemption to a particular record or portion of a record. Records or portions of records withheld in full under an exemption that is subsequently determined not to apply may be reviewed again to determine the applicability of other exemptions not previously considered. We may assess the costs for such subsequent review.
+
+(e) Records will be duplicated at a rate of $.10 per page, except that the Board may adjust this rate from time to time by rule published in the Federal Register. For copies prepared by computer, such as tapes, CDs, DVDs, or printouts, we will charge the actual cost, including operator time, of production. For other methods of reproduction or duplication, we will charge the actual direct costs of producing the document(s). If we estimate that duplication charges are likely to exceed $25, we will notify you of the estimated amount of fees, unless you indicated in advance your willingness to pay fees as high as those anticipated. Our notice will offer you an opportunity to confer with Board personnel to reformulate the request to meet your needs at a lower cost.
+
+(f) We will charge you the full costs of providing you with the following services:
+
+(1) Certifying that records are true copies; or
+
+(2) Sending records by special methods such as express mail.
+
+(g) We may assess interest charges on an unpaid bill starting on the 31st calendar day following the day on which the billing was sent. Interest shall be at the rate prescribed in 31 U.S.C. 3717 and will accrue from the date of the billing.
+
+(h) We will not charge a search fee for requests by educational institutions, non-commercial scientific institutions, or representatives of the news media. A search fee will be charged for a commercial use requests.
+
+(i) Except for a commercial use request, we will not charge you for the first 100 pages of duplication and the first two hours of search.
+
+(j) You may not file multiple requests, each seeking portions of a document or documents, solely for the purpose of avoiding payment of fees. When the Board reasonably believes that a requester, or a group of requesters acting in concert, has submitted requests that constitute a single request involving clearly related matters, we may aggregate those requests and charge accordingly.
+
+(k) We may not require you to make payment before we begin work to satisfy the request or to continue work on a request, unless:
+
+(1) We estimate or determine that the allowable charges that you may be required to pay are likely to exceed $250; or
+
+(2) You have previously failed to pay a fee charged within 30 days of the date of billing.
+
+(l) Upon written request, we may waive or reduce fees that are otherwise chargeable under this part. If you request a waiver or reduction in fees, you must demonstrate that a waiver or reduction in fees is in the public interest because disclosure of the requested records is likely to contribute significantly to the public understanding of the operations or activities of the government and is not primarily in your commercial interest. After processing, actual fees must be equal to or exceed $25, for the Board to require payment of fees.

@@ -1,0 +1,5 @@
+##### § 502.223 Decisions—Administrative law judges. #####
+
+To the administrative law judges is delegated the authority to make and serve initial or recommended decisions. All initial and recommended decisions will include a statement of findings and conclusions, as well as the reasons or basis therefor, upon all the material issues presented on the record, and the appropriate rule, order, sanction, relief, or denial thereof. Where appropriate, the statement of findings and conclusions should be numbered. Initial decisions should address only those issues necessary to a resolution of the material issues presented on the record. A copy of each decision when issued shall be served on the parties to the proceeding. In proceedings involving overcharge claims, the presiding officer may, where appropriate, require that the carrier publish notice in its tariff of the substance of the decision. This provision shall also apply to decisions issued pursuant to subpart T of this part. [Rule 223.]
+
+[64 FR 7810, Feb. 17, 1999]

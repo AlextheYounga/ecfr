@@ -1,0 +1,9 @@
+##### § 249.11 Confidentiality. #####
+
+(a) If the data submitted under this rule contain information that the submitter considers to be commercial or financial information and privileged or confidential, or otherwise exempt from disclosure under the Freedom of Information Act (FOIA) (5 U.S.C. 552), the submitter shall assert a claim of exemption at the time the data are submitted. The claim shall be made in a letter contained in a sealed enveloped marked “Confidential Information,” addressed to the Secretary, Maritime Administration. The submitter shall stamp or mark “confidential” on the top of each page containing information claimed to be confidential.
+
+(b) In claiming an exemption under FOIA, the submitter must state the basis for such action, including supporting information showing: (1) That the information claimed to be confidential is a trade secret or commercial or financial information in accordance with statutory and decisional authority; and (2) that measures have been taken by the submitter of the information to ensure that the information has not been disclosed or otherwise made available to the public, or, if the information has been disclosed or otherwise becomes available to the public, why such disclosure or availability does not compromise the confidential nature of the information.
+
+(c) In the event of a subsequent request for any portion of the data under the FOIA, those submissions not so claimed by the submitter will be disclosed, and those so claimed will be subject to the initial determination by the Secretary, Maritime Administration.
+
+(d) If the Secretary makes a determination unfavorable to the submitter, the submitter will be advised that MARAD will not honor the request for confidentiality at the time of any request for production of information under the FOIA by third parties.

@@ -1,0 +1,3 @@
+##### § 503.38 General prohibition. #####
+
+(a) No employee or former employee of the Commission shall, in response to a demand or request, produce any material contained in the files of the Commission, or disclose any information relating to or based upon material contained in the files of the Commission, or disclose any information or produce any material acquired as part of the performance of that person's official duties or because of that person's official status, without prior approval of the Commission in accordance with §§ 503.39 and 503.40.

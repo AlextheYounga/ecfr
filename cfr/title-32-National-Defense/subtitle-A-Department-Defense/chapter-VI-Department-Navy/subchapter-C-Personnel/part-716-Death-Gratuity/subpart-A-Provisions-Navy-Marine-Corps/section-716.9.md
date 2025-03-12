@@ -1,0 +1,5 @@
+##### § 716.9 Erroneous payment. #####
+
+Where through administrative mistake of fact or law, payment of the death gratuity is made to a person clearly not entitled thereto, and it is equally clear that another person is entitled to the death gratuity, the Chief of Naval Personnel (Pers-732) or the Commandant of the Marine Corps (Code MSPA-1), as appropriate, will certify payment to the proper payee, irrespective of recovery of the erroneous payment. On the other hand, where a payment of the death gratuity has been made to an individual on the basis of representations of record made by the deceased member as to his marital and dependency status, and the Government otherwise has no information which would give rise to doubt that such status is as represented, the payment is not to be regarded as “erroneous.” The Government has a good acquittance in such cases even though it may subsequently develop that the payee is not the proper statutory payee of the gratuity and no second payment is authorized.
+
+[24 FR 7523, Sept. 18, 1959, as amended at 44 FR 25647, May 2, 1979]

@@ -1,0 +1,3 @@
+##### § 37.1285 Expenditure-based award. #####
+
+A Federal Government contract or assistance award for which the amounts of interim payments or the total amount ultimately paid (*i.e.,* the sum of interim payments and final payment) are subject to redetermination or adjustment, based on the amounts expended by the recipient in carrying out the purposes for which the award was made. Most Federal Government grants and cooperative agreements are expenditure-based awards.

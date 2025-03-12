@@ -1,0 +1,7 @@
+##### § 115.86 Sexual abuse incident reviews. #####
+
+(a) Each facility shall conduct a sexual abuse incident review at the conclusion of every investigation of sexual abuse and, where the allegation was not determined to be unfounded, prepare a written report within 30 days of the conclusion of the investigation recommending whether the allegation or investigation indicates that a change in policy or practice could better prevent, detect, or respond to sexual abuse. The facility shall implement the recommendations for improvement, or shall document its reasons for not doing so in a written response. Both the report and response shall be forwarded to the agency PSA Coordinator.
+
+(b) The review team shall consider whether the incident or allegation was motivated by race; ethnicity; gender identity; lesbian, gay, bisexual, transgender, or intersex identification, status, or perceived status; or gang affiliation; or was motivated or otherwise caused by other group dynamics at the facility.
+
+(c) Each facility shall conduct an annual review of all sexual abuse investigations and resulting incident reviews to assess and improve sexual abuse intervention, prevention and response efforts. If the facility has not had any reports of sexual abuse during the annual reporting period, then the facility shall prepare a negative report. The results and findings of the annual review shall be provided to the facility administrator, Field Office Director or his or her designee, and the agency PSA Coordinator.

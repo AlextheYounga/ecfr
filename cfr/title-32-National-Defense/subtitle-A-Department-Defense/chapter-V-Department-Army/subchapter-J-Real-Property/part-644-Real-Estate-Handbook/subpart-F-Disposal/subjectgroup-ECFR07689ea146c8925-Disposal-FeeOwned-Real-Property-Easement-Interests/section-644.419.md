@@ -1,0 +1,3 @@
+##### § 644.419 Public Law 87-852 easements. #####
+
+Public Law 87-852, approved 23 October 1962 (76 Stat. 1129), authorizes executive agencies to grant easements on real property of the United States for rights-of-way or other purposes on terms and considerations deemed necessary to protect the interest of the United States, with or without monetary consideration, or other consideration, including any interest in real property. The Act also authorizes the relinquishment of legislative jurisdiction to the State.

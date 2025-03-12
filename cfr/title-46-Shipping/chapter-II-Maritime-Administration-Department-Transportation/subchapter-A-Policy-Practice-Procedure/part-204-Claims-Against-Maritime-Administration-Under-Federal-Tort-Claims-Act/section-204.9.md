@@ -1,0 +1,5 @@
+##### § 204.9 Indemnity or contribution. #####
+
+(a) *Sought by the United States.* If a claim arises under circumstances in which the United States is entitled to indemnity or contribution under a contract or the applicable law governing joint tort-feasors, the Chief Counsel of the Maritime Administration shall notify the third party of the claim and request the third party to honor its obligation to the United States or to accept its share of joint liability. If the issue of third party indemnity or contribution is not satisfactorily adjusted, the underlying claim shall be settled only after consultation with the Department of Justice as provided in 28 CFR 14.7
+
+(b) *Sought from the United States.* Claims for indemnity or contribution from the United States shall be settled under this part only if the incident giving rise to liability and the claim is otherwise cognizable under this part.

@@ -1,0 +1,3 @@
+##### § 1500.123 Condensation of label information. #####
+
+Whenever the statement of the principal hazard or hazards itself provides the precautionary measures to be followed or avoided, a clear statement of the principal hazard will satisfy the requirements of section 2(p)(1) (E) and (F) of the act (repeated in § 1500.3(b)(14)(i) (E) and (F)). When the statement of precautionary measures in effect provides instruction for first-aid treatment, the statement of the precautionary measures will satisfy the requirements of section 2(p)(1) (F) and (G) of the act (repeated in § 1500.3(b)(14)(i) (F) and (G)).

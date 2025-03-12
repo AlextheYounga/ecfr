@@ -1,0 +1,3 @@
+##### § 386.25 Enforcement, penalties and other laws. #####
+
+Whoever shall be found guilty of violating any regulations in this part while in or on Academy property is subject to a fine of not more than $50 or imprisonment of not more than 30 days, or both (40 U.S.C. 318c). Nothing in these regulations shall be construed to abrogate any other Federal laws or regulations or any State and local laws and regulations applicable to any area in which the property is situated. These regulations shall be posted prominently throughout the Academy. Penalties for their violation shall be incorporated in the Schedule of Fines for Petty Offenses established by order of the United States District Court for the Eastern District of New York.

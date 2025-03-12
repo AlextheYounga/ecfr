@@ -1,0 +1,9 @@
+##### § 144.140 Qualifications. #####
+
+Use the following table to determine the individual or entity that may conduct a verification of compliance with design standards required by § 144.135.
+
+|                                             Verification of compliance with design standards may be performed by—                                              |                                                                                 Provided that—                                                                                 |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                 (a) A registered professional engineer (P.E.) licensed by one of the states of the United States or the District of Columbia;                  |                                                 The PE ensures he or she does not exceed the scope of his or her P.E. license.                                                 |
+|(b) An authorized classification society that has been delegated the authority to issue the SOLAS Cargo Ship Safety Construction Certificate under 46 CFR 8.320;|The authorized classification society ensures that the employees that perform the verification of compliance holds proper qualifications for the type of verification performed.|
+|                                                                      (c) The Coast Guard                                                                       |                                                                                                                                                                                |

@@ -1,0 +1,3 @@
+##### § 174.17 NEPA. #####
+
+At installations subject to this part, NEPA analysis shall comply with the promulgated NEPA regulations of the Military Department exercising real property accountability for the installation, including any requirements relating to responsibility for funding the analysis. See 32 CFR parts 651 (for the Army), 775 (for the Navy), and 989 (for the Air Force). Nothing in this section shall be interpreted as releasing a Military Department from complying with its own NEPA regulation.

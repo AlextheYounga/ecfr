@@ -1,0 +1,3 @@
+##### § 190.10-90 Vessels contracted for prior to March 1, 1968. #####
+
+(a) Existing arrangements previously approved will be considered satisfactory so long as they are maintained in good condition to the satisfaction of the Officer in Charge, Marine Inspection. Minor repairs and alterations may be made to the same standards as the original design: *Provided,* That in no case will a greater departure from the standards of §§ 190.10-5 through 190.10-45 be permitted than presently exists. Nothing in this paragraph shall be construed as exempting any vessel from having two means of escape from all main compartments where persons on board may be quartered or normally employed.

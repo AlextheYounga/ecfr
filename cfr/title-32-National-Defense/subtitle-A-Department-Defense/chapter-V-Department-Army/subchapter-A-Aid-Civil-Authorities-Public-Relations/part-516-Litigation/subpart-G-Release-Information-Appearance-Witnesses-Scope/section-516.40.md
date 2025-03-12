@@ -1,0 +1,5 @@
+##### § 516.40 General. #####
+
+(a) *Introduction.* This subpart implements DOD Directive 5405.2 (See appendix C to this part and 32 CFR part 97). It governs the release of official information and the appearance of present and former DA personnel as witnesses in response to requests for interviews, notices of depositions, subpoenas, and other requests or orders related to judicial or quasi-judicial proceedings. Requests for records, if not in the nature of legal process, should be processed under AR 25-55 (The Department of the Army Freedom of Information Act Program) or AR 340-21 (The Army Privacy Program). This subpart pertains to any request for witnesses, documents, or information for all types of litigation, including requests by private litigants, requests by State or U.S. attorneys, requests by foreign officials or tribunals, subpoenas for records or testimony, notices of depositions, interview requests, civil cases, criminal proceedings, private litigation, or litigation in which the United States has an interest.
+
+(b) *Definitions.* (See appendix F to this part).

@@ -1,0 +1,3 @@
+##### § 201.173 Reopening by Administration and modification or setting aside of decision. #####
+
+Upon petition and a showing of compelling cause, filed in accordance with § 201.174, or on its own motion, the Administration may at any time reopen any proceeding under the regulation in this part for rehearing, reargument, or reconsideration in whole or in part. After reasonable notice and opportunity for hearing or such other procedure as the Administration may direct, the Administration may alter, modify or set aside in whole or in part its decision therein if it finds such action is required by changed conditions in fact or law or by the public interest.

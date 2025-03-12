@@ -1,0 +1,3 @@
+##### § 160.151-25 Additional equipment for inflatable liferafts. #####
+
+The manufacturer may specify additional equipment to be carried in inflatable liferafts if the equipment is identified in the manufacturer's approved drawings and if the packing and inspection of the equipment is covered in the servicing manual. Any such additional equipment for which performance or approval standards are prescribed in this part or in 47 CFR part 80 must comply with those standards.

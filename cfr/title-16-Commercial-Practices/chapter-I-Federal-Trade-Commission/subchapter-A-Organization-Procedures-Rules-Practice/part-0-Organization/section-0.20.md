@@ -1,0 +1,5 @@
+##### § 0.20 Office of International Affairs. #####
+
+The Office of International Affairs (OIA) comprises international antitrust, international consumer protection, and international technical assistance. OIA is responsible for designing and implementing the Commission's international program, which provides support and advice to the Bureaus of Competition and Consumer Protection with regard to the international aspects of investigation and prosecution of unlawful conduct. OIA builds cooperative relationships between the Commission and foreign authorities; works closely with Bureau personnel to recommend agency priorities and policies and works, through bilateral relationships and multilateral organizations, to promote those policies internationally; and implements Commission policy and participation in the competition and consumer protection aspects of trade fora and negotiations, such as the U.S. inter-agency delegations negotiating bilateral and multilateral free trade agreements. OIA works with authorized funding sources to develop and implement competition and consumer protection technical assistance programs.
+
+[72 FR 9434, Mar. 2, 2007]

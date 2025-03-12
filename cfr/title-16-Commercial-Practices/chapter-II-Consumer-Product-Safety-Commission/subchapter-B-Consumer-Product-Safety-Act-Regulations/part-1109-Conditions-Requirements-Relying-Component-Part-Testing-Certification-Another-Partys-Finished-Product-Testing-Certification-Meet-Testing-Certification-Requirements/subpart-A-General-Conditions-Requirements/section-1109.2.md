@@ -1,0 +1,3 @@
+##### § 1109.2 Purpose. #####
+
+The purpose of this part is to set forth the conditions and requirements under which passing component part test reports, certification of component parts of consumer products, or finished product testing or certification procured or issued by another party, can be used to meet, in whole or in part, the testing and certification requirements of sections 14(a) and 14(i) of the CPSA.

@@ -1,0 +1,3 @@
+##### § 11.12 Suspending or terminating collection activity. #####
+
+DHS will suspend or terminate collection activity, or discharge indebtedness, in accordance with 31 CFR part 903. The Chief Financial Officer is delegated authority to suspend or terminate collection activity, or to discharge indebtedness regarding debts owed to DHS, but for any such action involving a debt over $10,000, the Chief Financial Officer must obtain the concurrence of the Office of the General Counsel. The Chief Financial Officer is authorized to act on behalf of the Secretary in selling a debt, and in determining whether or not it is in the best interests of the United States to do so.

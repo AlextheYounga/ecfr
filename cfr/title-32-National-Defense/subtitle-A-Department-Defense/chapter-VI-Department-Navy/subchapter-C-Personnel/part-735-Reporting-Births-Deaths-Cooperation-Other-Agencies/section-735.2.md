@@ -1,0 +1,3 @@
+##### § 735.2 Background. #####
+
+For Armed Forces members and their dependents on duty overseas, registration of vital statistics with an appropriate foreign government may be a distinct advantage should documentary evidence, acceptable in all courts, be required at any future time. Department of Defense (DOD) policy is that military services will require their members to make official record of births, deaths, marriages, etc., with local civil authorities in whose jurisdiction such events occur.

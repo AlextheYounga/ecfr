@@ -1,0 +1,3 @@
+##### § 167.65-60 Examination of boilers and machinery by engineer. #####
+
+It shall be the duty of an engineer when he assumes charge of the boilers and machinery of a nautical school ship to examine the same forthwith and thoroughly, and if he finds any part thereof in bad condition, he shall immediately report the facts to the master, owner, or agent, and to the Officer in Charge, Marine Inspection, of the district, who shall thereupon investigate the matter and take such actions as may be necessary.

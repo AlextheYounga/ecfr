@@ -1,0 +1,5 @@
+##### § 78.17-5 Valves and closing appliances. #####
+
+(a) It shall be the duty of the master to see that all valves, including cross connecting valves where fitted, and other appliances such as port lights, closing mechanism of scuppers, ash chutes, and rubbish chutes, the closing of which is necessary to make a compartment watertight, are operated at least once in every week that the vessel is navigated to be assured that they are in proper operating condition. Any remote controls or indicating mechanisms shall be inspected at this time to test their efficiency. Where such valves are accessible, they shall be inspected at this time, otherwise, they shall be inspected at the first opportunity when they are accessible. On vessels in which the voyage exceeds one week in duration, these appliances shall be operated before the vessel leaves port.
+
+(b) The date of the test and the condition of the equipment shall be noted in the official logbook.

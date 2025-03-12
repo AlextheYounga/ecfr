@@ -1,0 +1,3 @@
+##### § 133.03 Relationship to international standards. #####
+
+This subpart and subpart B of this part are based on Chapter III, SOLAS. Section numbers in this subpart and subpart B of this part are generally related to the regulation numbers in Chapter III, SOLAS, but paragraph designations are not related to the numbering in Chapter III, SOLAS. To find the corresponding Chapter III, SOLAS regulation for this subpart and subpart B of this part, beginning with § 133.10, divide the section number following the decimal point by 10.

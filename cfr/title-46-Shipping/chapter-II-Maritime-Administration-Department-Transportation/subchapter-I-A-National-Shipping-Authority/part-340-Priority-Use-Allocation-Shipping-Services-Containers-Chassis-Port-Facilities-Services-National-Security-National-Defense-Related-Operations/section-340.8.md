@@ -1,0 +1,5 @@
+##### § 340.8 Priorities for materials and production. #####
+
+(a) Vessel operators, port authorities and container and chassis suppliers may request priority ratings to obtain production materials and services necessary to comply with orders issued under this regulation. Requests for priority rating authority must be made through and sponsored by the Maritime Administrator, in accordance with the Defense Priorities and Allocation System (15 CFR part 330 *et seq.* (49 FR 30412, July 30, 1984)) and Departmental policies governing supporting resources support.
+
+(b) Vessel operators, port authorities and container and chassis suppliers may request priority ratings to obtain fuels necessary to comply with orders issued under this regulation. Requests for priority ratings will be made in accordance with regulations issued by the Department.

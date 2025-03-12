@@ -1,0 +1,5 @@
+##### § 326.14 Disclosure of records to person other than subject. #####
+
+(a) Personal records contained in a Privacy Act system of records maintained by NRO shall not be disclosed by any means to any person or agency outside the NRO except with the written consent of the individual subject of the record, unless as provided in this part.
+
+(b) Except for disclosure made to members of the NRO in connection with their official duties and disclosures required by the Freedom of Information Act, an accounting will be kept of all disclosures of records maintained in NRO systems of records and of all disclosures of investigative information. Accounting entries will record the date, kind of information, purpose of each disclosure, and the name and address of the person or agency to whom the disclosure is made. Accounting records will be maintained for at least five years after the last disclosure or for the life of the record, whichever is longer. Subjects of NRO records will be given access to associated accounting records upon request except for disclosures made pursuant to § 326.4, or where an exemption has been properly claimed for the system of records.

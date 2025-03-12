@@ -1,0 +1,9 @@
+##### § 1012.7 Telephone conversations. #####
+
+(a) Telephone conversations present special problems regarding Agency meetings. The Commission recognizes that persons outside the Agency have a legitimate right to receive information and to present their views regarding Agency activities. The Commission also recognizes that such persons may not have the financial means to travel to meet with Agency employees. However, because telephone conversations, by their very nature, are not susceptible to public attendance, or participation, Agency employees must take care to ensure that telephone conversations are not utilized to circumvent the provisions of this part.
+
+(b) Two basic rules apply to telephone conversations:
+
+(1) Any Agency employee holding a telephone conversation in which substantial interest matters are discussed with an outside party must prepare a telephone call summary of the conversation. The summary must meet the requirements of § 1012.5(b), and must be submitted to the Office of the Secretary within twenty (20) calendar days of the conversation. The Office of the Secretary shall maintain file of telephone call summaries in chronological order which shall be available to the public to the extent permitted by law.
+
+(2) All Agency employees must exercise sound judgment in discussing substsantial interest matters during a telephone conversation. In the exercise of such discretion Agency employees should not hesitate to terminate a telephone conversation and insist that the matters being discussed be postponed until an Agency meeting with appropriate advance public notice may be scheduled, or, if the outside party is financially or otherwise unable to meet with the Agency employee, until the matter is presented to the Agency in writing.

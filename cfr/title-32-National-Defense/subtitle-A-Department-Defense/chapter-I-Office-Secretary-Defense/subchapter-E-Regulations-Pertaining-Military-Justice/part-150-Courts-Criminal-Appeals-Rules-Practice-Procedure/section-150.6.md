@@ -1,0 +1,3 @@
+##### § 150.6 Signing of papers. #####
+
+All formal papers shall be signed and shall show, typewritten or printed, the signer's name, address, military grade (if any), and the capacity in which the paper is signed. Such signature constitutes a certification that the statements made therein are true and correct to the best of the knowledge, information, and belief of the persons signing the paper and that the paper is filed in good faith and not for purposes of unnecessary delay.

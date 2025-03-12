@@ -1,0 +1,3 @@
+##### § 67.30 Requirement for citizen owner. #####
+
+Certificates of Documentation may be issued under this part only to vessels which are wholly owned by United States citizens. Pursuant to extraordinary legislation at 46 U.S.C. app. 883-1 (Bowater Amendment) and 46 U.S.C. 12106(d) (Oil Pollution Act of 1990), Certificates of Documentation with limited endorsements may be issued in accordance with part 68 of this chapter to vessels owned by certain persons who are not citizens as defined in this part.

@@ -1,0 +1,3 @@
+##### § 11.6 Reporting debts. #####
+
+DHS will report delinquent debts to credit bureaus and other automated databases in accordance with 31 U.S.C. 3711(e), 31 CFR 901.4, and the Office of Management and Budget Circular A-129, “Policies for Federal Credit Programs and Non-tax Receivables,” which may be found at *http://www.fms.treas.gov/debt.* At least sixty (60) days prior to reporting a delinquent debt to a consumer reporting agency, DHS sends a notice to the debtor in accordance with 6 CFR 11.3. DHS may authorize the Treasury Department's Financial Management Service to report to credit bureaus those delinquent debts that have been transferred to the Financial Management Service for administrative offset.

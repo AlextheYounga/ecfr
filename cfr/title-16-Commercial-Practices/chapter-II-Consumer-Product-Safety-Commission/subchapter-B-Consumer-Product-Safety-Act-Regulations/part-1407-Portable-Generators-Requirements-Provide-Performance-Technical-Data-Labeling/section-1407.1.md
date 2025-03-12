@@ -1,0 +1,3 @@
+##### § 1407.1 Purpose, scope, and effective date. #####
+
+This part 1407 establishes requirements under section 27(e) of the Consumer Product Safety Act (15 U.S.C. 2076(e)) for manufacturers to provide consumers with a specified notification concerning the carbon monoxide poisoning hazard associated with the use of portable generators. The notification is intended to provide consumers with technical and performance information related to the safety of portable generators. This part applies to any generator manufactured or imported on or after May 14, 2007.

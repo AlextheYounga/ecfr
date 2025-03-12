@@ -1,0 +1,3 @@
+##### § 1502.3 Confidential information. #####
+
+Whenever any participant desires or is required to submit information in any proceeding under this part 1502, and the participant believes that such information consists of trade secret or other confidential business or financial information that should not be disclosed publicly, the participant may, instead of submitting such information, file a motion for a protective order containing a general description of the information desired to be withheld, together with a detailed argument supporting the claim that the information should be held in confidence.

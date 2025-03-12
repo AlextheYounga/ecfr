@@ -1,0 +1,9 @@
+##### § 203.2 Applications. #####
+
+(a) Notice of all applications subject to this part shall be published in the Federal Register, in accordance with the provisions of 46 CFR 201.72.
+
+(b) All applications under section 605(c) of the Act shall specify, at a minimum, full details of the existing or proposed new or amended service, to include itineraries and the number and type of vessels currently operated in the trade or trade route, the number and type of vessels proposed to be operated in the trade or trade route, the frequency of sailings and port calls and the nature and extent of U.S.-flag and any foreign-flag competition. As a matter of discretion, the Administration may request additional information, which may be protected by a confidentiality ruling, if justified. If the application is one for additional service on a route in which the applicant has an established service, or for an existing service, then the applicant must include information on its previous three years of operation. Applicants for permission under section 805(a) of the Act must describe clearly the scope of permission sought, including details of proposed domestic service and existing or proposed foreign service, as well as the applicant's operating structure.
+
+(c) Applications under section 605(c) of the Act shall be filed on Form MA-964, in accordance with the instructions annexed thereto. Copies of Form MA-964 may be obtained on request from the Secretary of the Administration.
+
+(d) Applications for permission under section 805(a) of the Act shall be submitted in accordance with the procedures set forth in 46 CFR part 380, and shall comply with all of the requirements of that part.

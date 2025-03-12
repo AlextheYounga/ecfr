@@ -1,0 +1,21 @@
+##### § 15.1103 Employment and service within the restrictions of an STCW endorsement or of a certificate of training. #####
+
+(a) Onboard a seagoing vessel of 500 GT or more, driven by main propulsion machinery of 1,000 HP/750 kW propulsion power or more or on an international voyage beyond the boundary line as described in part 7 of this chapter, no person may employ or engage any person to serve, and no person may serve, in a position requiring a person to hold an STCW endorsement, including master, chief mate, chief engineer officer, second engineer officer, officer of the navigational or engineering watch, or GMDSS radio operator, unless the person serving holds an appropriate, valid STCW endorsement issued in accordance with part 11 of this subchapter.
+
+(b) Onboard a seagoing vessel of 500 GT or more, no person may employ or engage any person to serve, and no person may serve, as an RFPNW, except for training, unless the person serving holds an appropriate, valid STCW endorsement issued in accordance with part 12 of this subchapter.
+
+(c) As of January 1, 2017, onboard a seagoing vessel of 500 GT or more, no person may employ or engage any person to serve, and no person may serve, as an able seafarer-deck, except for training, unless the person serving holds an appropriate, valid STCW endorsement issued in accordance with part 12 of this subchapter.
+
+(d) Onboard a seagoing vessel driven by main propulsion machinery of 1,000 HP/750 kW propulsion power or more, no person may employ or engage any person to serve, and no person may serve, as an RFPEW, nor may any person be designated to perform duties in a periodically unmanned engine-room, except for training or for the performance of duties of an unskilled nature, unless the person serving holds an appropriate, valid STCW endorsement issued in accordance with part 12 of this subchapter.
+
+(e) As of January 1, 2017, onboard a seagoing vessel driven by main propulsion machinery of 1,000 HP/750 kW propulsion power or more, no person may employ or engage any person to serve, and no person may serve, as an able seafarer-engine, except for training, unless the person serving holds an appropriate, valid STCW endorsement issued in accordance with part 12 of this subchapter.
+
+(f) Onboard a passenger ship, as defined by the Convention for the Safety of Life at Sea, 1974, as amended (SOLAS) (incorporated by reference, see § 15.103 of this part), on an international voyage, any person serving as master, chief mate, mate, chief engineer, engineer officer, or any person holding a license, MMD, or MMC and performing duties relating to safety, cargo handling, or care for passengers, must meet the appropriate requirements of Regulation V/2 of the STCW Convention (incorporated by reference, see § 15.103 of this part). These individuals must hold documentary evidence to show they meet these requirements.
+
+(g) Onboard a seagoing vessel required to comply with provisions of the GMDSS in Chapter IV of SOLAS, no person may employ or engage any person to serve, and no person may serve, as the person designated to maintain GMDSS equipment at sea, when the service of a person so designated is used to meet the maintenance requirements of SOLAS Regulation IV/15, which allows for capability of at-sea electronic maintenance to ensure that radio equipment is available for radio communication, unless the person so serving holds documentary evidence that he or she is competent to maintain GMDSS equipment at sea.
+
+(h) *Medical certificate.* (1) A person may not employ or engage an individual unless that individual maintains a current medical certificate.
+
+(2) After January 1, 2017, all persons employed or engaged onboard vessels to which STCW applies must hold a medical certificate valid for 2 years unless the mariner is under the age of 18, in which case the maximum period of validity will be 1 year.
+
+(3) If a mariner's medical certificate expires during a voyage, it will remain valid until the next United States port of call, provided that the period after expiration does not exceed 90 days.

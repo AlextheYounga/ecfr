@@ -1,0 +1,3 @@
+##### § 301.3 English language requirements. #####
+
+All information required under the act and rules and regulations to appear on labels, invoices, and in advertising, shall be set out in the English language. If labels, invoices or advertising matter contain any of the required information in a language other than English, all of the required information shall appear also in the English language. The provisions of this section shall not apply to advertisements in foreign language newspapers or periodicals, but such advertising shall in all other respects comply with the act and regulations.

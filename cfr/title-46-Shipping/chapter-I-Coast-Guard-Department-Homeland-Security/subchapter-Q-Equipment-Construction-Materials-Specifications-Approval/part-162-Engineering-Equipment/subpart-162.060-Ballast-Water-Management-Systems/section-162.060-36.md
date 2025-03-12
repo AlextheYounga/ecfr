@@ -1,0 +1,3 @@
+##### § 162.060-36 Quality Assurance Project Plan (QAPP) requirements. #####
+
+The approval testing and evaluation process must contain a rigorous Quality Assurance and Quality Control program consisting of a QAPP developed in accordance with ISO/IEC 17025:2005(E), as amended ISO/IEC 17025:2005/Cor.1:2006(E) (incorporated by reference, *see* § 162.060-5). The independent laboratory performing approval tests and evaluations is responsible for ensuring the appropriate Quality Assurance and Quality Control procedures are implemented.

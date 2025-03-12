@@ -1,0 +1,19 @@
+##### § 651.6 NEPA analysis staffing. #####
+
+(a) NEPA analyses will be prepared by the proponent using appropriate resources (funds and manpower). The proponent, in coordination with the appropriate NEPA program manager, shall determine what proposal requires NEPA analysis, when to initiate NEPA analysis, and what level of NEPA analysis is initially appropriate. The proponent shall remain intimately involved in determining appropriate milestones, timelines, and inputs required for the successful conduct of the NEPA process, including the use of scoping to define the breadth and depth of analysis required. In cases where the document addresses impacts to an environment whose management is not in the proponents' chain of command (for example, installation management of a range for MATDEV testing or installation management of a fielding location), the proponent shall coordinate the analysis and preparation of the document and identify the resources needed for its preparation and staffing through the command structure of that affected activity.
+
+(b) The approving official is responsible for approving NEPA documentation and ensuring completion of the action, including any mitigation actions needed. The approving official may be an installation commander; or, in the case of combat/materiel development, the MATDEV, MDA, or AAE.
+
+(c) Approving officials may select a lead reviewer for NEPA analysis before approving it. The lead reviewer will determine and assemble the personnel needed for the review process. Funding needed to accomplish the review shall be negotiated with the proponent, if required. Lead reviewer may be an installation EC or a NEPA POC designated by an MDA for a combat/materiel development program.
+
+(d) The most important document is the initial NEPA document (draft EA or draft EIS) being processed. Army reviewers are accountable for ensuring thorough early review of draft NEPA analyses. Any organization that raises new concerns or comments during final staffing will explain why issues were not raised earlier. NEPA analyses requiring public release in the FR will be forwarded to ASA(I&E), through the chain of command, for review. This includes all EISs and all EAs that are of national interest or concern. The activities needed to support public release will be coordinated with ASA(I&E). Public release will not proceed without ASA(I&E) approval.
+
+(e) Public release of NEPA analyses in the FR should be limited to EISs, or EAs that are environmentally controversial or of national interest or concern. When analyses address actions affecting numerous sites throughout the Continental United States (CONUS), the proponent will carefully evaluate the need for publishing an NOA in the FR, as this requires an extensive review process, as well as supporting documentation alerting EPA and members of Congress of the action. At a minimum, and depending on the proponent's command structure, the following reviews must be accomplished:
+
+(1) The NEPA analysis must be reviewed by the MACOM Legal Counsel or TJAG, ACSIM, ASA(I&E), and Office of General Counsel (OGC).
+
+(2) The supporting documentation must be reviewed by Office of the Chief of Legislative Liaison (OCLL) and Office of the Chief of Public Affairs (OCPA).
+
+(3) Proponents must allow a minimum of 30 days to review the documentation and must allow sufficient time to address comments from these offices prior to publishing the NOA.
+
+(4) The proponent may consider publishing the NOA in local publication resources near each site. Proponents are strongly advised to seek the assistance of the local environmental office and command structure in addressing the need for such notification.

@@ -1,0 +1,13 @@
+##### § 552.129 Requirements for carrying and use. #####
+
+Persons legally authorized to possess firearms, ammunition, knives (with blades longer than 3 inches), bows and arrows, and crossbows, may carry or transport legally possessed and registered (if required) weapons under the following conditions:
+
+(a) For purposes of hunting: From quarters, on or off the installation, by the most direct route to hunting area and return. Stopping at other installation facilities while en route is prohibited (*i.e.*, post exchange, club, offices, etc.). Individual must have in his/her possession weapon registration (if applicable), valid state hunting license, valid Fort Gordon hunting permit and an area access pass (if applicable).
+
+(b) For purposes of target shooting, selling the weapon or having the weapon repaired: From quarters by the most direct route to approved range or to the location where the weapon is to be sold or repaired and returned. Stopping at other installation facilities while en route is prohibited. Individual must have in his/her possession at all times his/her registration (if applicable).
+
+(1) When carried, weapons will be carried in an open manner (not concealed). Firearms will be unloaded when carried (*i.e.*, projectiles physically separated from the firearms, not just removed from the chamber), except when actually engaged in hunting or shooting. Knives will be carried in a sheath or scabbard worn in a clearly visible manner. Commanders may authorize the carrying of a privately-owned, knife with a blade over 3 inches to field duty. The provost marshal may authorize the carrying of a privately-owned, sheathed, lock blade knife on military and DOD police officers' pistol belts.
+
+(2) When transported in a vehicle, weapons will be in plain view in the passenger area of the vehicle or secured (locked) in the trunk or other rear compartment of the vehicle, not readily accessible from the passenger area (*i.e.*, locked tool box secured to bed of a truck). Firearms will be unloaded and the ammunition physically separated from the firearms. THE GLOVE COMPARTMENT OF A VEHICLE IS NOT AN AUTHORIZED COMPARTMENT FOR STORING PISTOLS.
+
+(3) Firearms, bows and arrows, crossbows, pellet and BB guns will not be loaded, fired, or used within any housing area or cantonment area of the installation; within 50 yards of any public highway, street or Fort Gordon named street or numbered road, or across same; within 100 yards of any designated recreation area, managed waters, building or similar structures; any aircraft landing facility; any ammunition storage area (except on approved firing ranges when properly authorized); be discharged from vehicles.

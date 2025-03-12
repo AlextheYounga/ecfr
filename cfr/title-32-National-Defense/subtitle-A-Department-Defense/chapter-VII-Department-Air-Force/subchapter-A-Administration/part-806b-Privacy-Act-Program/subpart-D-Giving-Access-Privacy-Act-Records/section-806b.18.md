@@ -1,0 +1,3 @@
+##### § 806b.18 Third party information in a Privacy Act System of Record. #####
+
+Ordinarily a person is entitled to their entire record under the Privacy Act. However, the law is not uniform regarding whether a subject is entitled to information that is not “about” him or her (for example, the home address of a third party contained in the subject's records). Consult your servicing Staff Judge Advocate before disclosing third party information. Generally, if the requester will be denied a right, privilege or benefit, the requester must be given access to relevant portions of the file.

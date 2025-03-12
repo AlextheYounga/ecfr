@@ -1,0 +1,3 @@
+##### § 1633.4 Information relating to claims for deferment or exemption. #####
+
+The registrant shall be entitled to present all relevant written information which he believes to be necessary to assist the classifying authority in determining his proper classification; such information may include documents, affidavits, and depositions. The affidavits and depositions shall be as concise and brief as possible.

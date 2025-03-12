@@ -1,0 +1,3 @@
+##### § 1510.1 Scope and purpose of part 1510. #####
+
+This part 1510 sets forth the requirement whereby rattles (as defined in § 1510.2) are not banned articles under § 1500.18(a)(15) of this chapter. The purpose of these requirements is to ensure that certain infant rattles which may cause choking and/or suffocation because their design or construction permits them to enter into an infant's mouth and become lodged in the throat are eliminated from interstate commerce.

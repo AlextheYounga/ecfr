@@ -1,0 +1,3 @@
+##### § 644.465 Physical restoration where stipulation not obtained. #####
+
+If such stipulation is not obtainable, then, whether or not a declaration of taking has been filed, the owner will be requested to designate, in writing, the restoration for which he believes the Government is liable. The Government will restore the property to the condition existing at the time of first entry by the Government, except for reasonable and ordinary wear and tear, damage due to acts of God, or circumstances over which the Government has no control. The cost of restoration or settlement in lieu thereof will be limited as outlined in this subpart.

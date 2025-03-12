@@ -1,0 +1,5 @@
+##### § 644.26 Required clearances. #####
+
+(a) As stated in AR 405-10 and AFR 87-1, no real estate or interests therein will be acquired until there is legislative authorization for the acquisition (41 U.S.C. 14) and an appropriation available for the purpose.
+
+(b) AR 405-10 and AFR 87-1 also outline the clearances which must be made within the Departments of the Army and the Air Force, with the Department of Defense, and with the Committees on Armed Services of the Senate and the House of Representatives before acquisition may proceed. The Chief of Engineers is responsible for initiating all clearance actions as to Army acquisitions. The Director of Engineering and Services (AF/PRE) and the Director of Planning, Programming and Analysis (AF/RDXI), as to industrial installations, of Headquarters, USAF, are responsible for initiating all clearance actions as to Air Force acquisitions.

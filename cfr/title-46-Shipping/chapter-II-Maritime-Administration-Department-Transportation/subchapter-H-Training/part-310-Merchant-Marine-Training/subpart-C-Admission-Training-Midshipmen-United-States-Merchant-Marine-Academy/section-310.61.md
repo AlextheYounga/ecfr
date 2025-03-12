@@ -1,0 +1,3 @@
+##### § 310.61 Training on other vessels and by other facilities or agencies. #####
+
+The Administrator may arrange for training of midshipmen on Government-owned vessels, in cooperation with other governmental and private agencies, and on other vessels documented under the laws of the United States if the owner of such vessel cooperates in such use. Midshipmen may be assigned for training in shipyards, plants, and industrial and educational organizations for instructional purposes only.

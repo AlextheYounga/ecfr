@@ -1,0 +1,3 @@
+##### § 144.830 Protection against hot piping. #####
+
+Each exhaust pipe from an internal combustion engine which is within reach of personnel must be insulated or otherwise guarded to prevent burns. On a new vessel, each pipe that contains vapor, gas, or liquid that has a temperature exceeding 150 °F (65.5 °C) which is within reach of personnel must be insulated where necessary or otherwise guarded to prevent injury.

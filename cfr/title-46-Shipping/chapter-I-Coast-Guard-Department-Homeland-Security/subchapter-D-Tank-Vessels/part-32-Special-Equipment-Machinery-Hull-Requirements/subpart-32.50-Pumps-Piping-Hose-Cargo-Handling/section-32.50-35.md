@@ -1,0 +1,5 @@
+##### § 32.50-35 Remote manual shutdown for internal combustion engine driven cargo pump on tank vessels—TB/ALL. #####
+
+(a) Any tank vessel which is equipped with an internal combustion engine driven cargo pump on the weather deck shall be provided with a minimum of one remote manual shutdown station, conspicuously marked, and located at the midpoint of such vessel, or 100 feet from the engine, whichever is the more practical. The remote quick acting manual shutdown shall be installed on the engine so as to provide a quick and effective means of stopping the engine (such as by cutting off the intake air).
+
+(b) This regulation applies to all installations of this type on tank vessels, but for such installations now on existing tankships at the date of next biennial inspection or October 1, 1963, whichever occurs later.

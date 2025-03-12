@@ -1,0 +1,25 @@
+##### § 516.41 Policy. #####
+
+(a) *General Rule.* Except as authorized by this subpart, present or former DA personnel will not disclose official information (See appendix F—Glossary) in response to subpoenas, court orders, or requests.
+
+(b) *Exception.* Present or former DA personnel may disclose official information if they obtain the written approval of the appropriate SJA, legal adviser, or Litigation Division.
+
+(c) *Referral to deciding official.* If present or former DA personnel receive a subpoena, court order, request for attendance at a judicial or quasi-judicial proceeding, or request for an interview related to actual or potential litigation, and it appears the subpoena, order, or request seeks disclosures described in a above, the individual should immediately advise the appropriate SJA or legal adviser. If the SJA or legal adviser cannot informally satisfy the subpoena, order, or request in accordance with §§ 516.43 through 516.50 of this subpart, he should consult with Litigation Division.
+
+(d) *Requesters' responsibilities.* Individuals seeking official information must submit, at least 14 days before the desired date of production, a specific written request setting forth the nature and relevance of the official information sought. (Requesters can be referred to this subpart G). Subject to § 516.47(a), present and former DA personnel may only produce, disclose, release, comment upon, or testify concerning those matters specified in writing and properly approved by the SJA, legal adviser, or Litigation Division. (See United States ex. rel. Touhy v. Ragen, 340 U.S. 462 (1951)).
+
+(e) *Litigation in which the United States has an interest.* If a subpoena, order, or request relates to litigation in which the United States has an interest and for which litigation responsibility has not been delegated, the SJA or legal adviser will coordinate with Litigation Division under § 516.42.
+
+(f) *Motions to stay or quash subpoenas.* A subpoena should never be ignored, and an SJA or legal adviser should seek assistance from Litigation Division or the U.S. Attorney's office whenever necessary. If a response to a subpoena or order is required before a release determination can be made or before Litigation Division or the U.S. Attorney can be contacted, the SJA or legal adviser will do the following:
+
+(1) Furnish the court or tribunal a copy of this regulation (32 CFR part 516, subpart G) and applicable case law (See United States ex. rel. Touhy v. Ragen, 340 U.S. 462 (1951));
+
+(2) Inform the court or tribunal that the requesting individual has not complied with this Chapter, as set out in 32 CFR 97 & 516, or that the subpoena or order is being reviewed;
+
+(3) Seek to stay the subpoena or order pending the requestor's compliance with this chapter or final determination by Litigation Division; and,
+
+(4) If the court or other tribunal declines to quash or stay the subpoena or order, inform Litigation Division immediately so a decision can be made whether to challenge the subpoena or order. If Litigation Division decides not to challenge the subpoena or order, the affected personnel will comply with the subpoena or order. If Litigation Division decides to challenge the subpoena or order, it will direct the affected personnel to respectfully decline to comply with the subpoena or order. (See United States ex. rel. Touhy v. Ragen, 340 U.S. 462 (1951)).
+
+(g) *Classified or sensitive information.* Only Litigation Division may authorize the release of official information or appearance of DA personnel as witnesses in litigation involving terrorism, espionage, nuclear weapons, or intelligence sources and methods.
+
+(h) *Requests for Inspector General records or testimony.* IG records, and information obtained through performance of IG duties, are official information under the exclusive control of the Secretary of the Army. (See AR 20-l, Chapter 3.) IG records frequently contain sensitive official information that may be classified or obtained under guarantees of confidentiality. When justification exists, DA attorneys will seek court protection from disclosure of IG records and information. No DA personnel will release IG records or disclose information obtained through performance of IG duties without the approval of The Secretary of the Army, The Inspector General, TIG Legal Advisor, or Chief, Litigation Division. When IG personnel receive a subpoena, court order, request for attendance at a judicial or quasi-judicial proceeding, or a request for an interview which the IG reasonably believes is related to actual or potential litigation concerning IG records or related information, they should immediately notify the Inspector General Legal Adviser or the Chief, Litigation Division. IG personnel will follow the guidance of this subpart concerning actions to be taken regarding disclosure and testimony.

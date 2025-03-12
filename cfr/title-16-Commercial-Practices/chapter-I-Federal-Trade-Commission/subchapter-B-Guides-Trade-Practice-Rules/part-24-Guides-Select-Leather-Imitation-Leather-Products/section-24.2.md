@@ -1,0 +1,37 @@
+##### § 24.2 Deception as to composition. #####
+
+It is unfair or deceptive to misrepresent, directly or by implication, the composition of any industry product or part thereof. It is unfair or deceptive to use the unqualified term “leather” or other unqualified terms suggestive of leather to describe industry products unless the industry product so described is composed in all substantial parts of leather.1 This section includes, but is not limited to, the following:
+
+1 For purposes of these Guides, footwear is composed of three parts: the upper, the lining and sock, and the outersole. These three parts are defined as follows: (1) The upper is the outer face of the structural element which is attached to the outersole; (2) the lining and sock are the lining of the upper and the insole, constituting the inside of the footwear article; and (3) the outersole is the bottom part of the footwear article subjected to abrasive wear and attached to the upper.
+
+(a) *Imitation or simulated leather.* If all or part of an industry product is made of non-leather material that appears to be leather, the fact that the material is not leather, or the general nature of the material as something other than leather, should be disclosed. For example: Not leather; Imitation leather; Simulated leather; Vinyl; Vinyl coated fabric; or Plastic.
+
+(b) *Embossed or processed leather.* The kind and type of leather from which an industry product is made should be disclosed when all or part of the product has been embossed, dyed, or otherwise processed so as to simulate the appearance of a different kind or type of leather. For example:
+
+(1) An industry product made wholly of top grain cowhide that has been processed so as to imitate pigskin may be represented as being made of Top Grain Cowhide.
+
+(2) Any additional representation concerning the simulated appearance of an industry product composed of leather should be immediately accompanied by a disclosure of the kind and type of leather in the product. For example: Top Grain Cowhide With Simulated Pigskin Grain.
+
+(c) *Backing material.* (1) The backing of any material in an industry product with another kind of material should be disclosed when the backing is not apparent upon casual inspection of the product, or when a representation is made which, absent such disclosure, would be misleading as to the product's composition. For example: Top Grain Cowhide Backed With Vinyl.
+
+(2) The composition of the different backing material should be disclosed if it is visible and consists of non-leather material with the appearance of leather, or leather processed so as to simulate a different kind of leather.
+
+(d) *Misuse of trade names, etc.* A trade name, coined name, trademark, or other word or term, or any depiction or device should not be used if it misrepresents, directly or by implication, that an industry product is made in whole or in part from animal skin or hide, or that material in an industry product is leather or other material. This includes, among other practices, the use of a stamp, tag, label, card, or other device in the shape of a tanned hide or skin or in the shape of a silhouette of an animal, in connection with any industry product that has the appearance of leather but that is not made wholly or in substantial part from animal skin or hide.
+
+(e) *Misrepresentation that product is wholly of a particular composition.* A misrepresentation should not be made, directly or by implication, that an industry product is made wholly of a particular composition. A representation as to the composition of a particular part of a product should clearly indicate the part to which the representation applies.2 Where a product is made principally of leather but has certain non-leather parts that appear to be leather, the product may be described as made of leather so long as accompanied by clear disclosure of the non-leather parts. For example:
+
+2 With regard to footwear, it is sufficient to disclose the presence of non-leather materials in the upper, the lining and sock, or the outersole, provided that the disclosure is made according to predominance of materials. For example, if the majority of the upper is composed of manmade material: Upper of manmade materials and leather.
+
+(1) An industry product made of top grain cowhide except for frame covering, gussets, and partitions that are made of plastic but have the appearance of leather may be described as: Top Grain Cowhide With Plastic Frame Covering, Gussets and Partitions; or Top Grain Cowhide With Gussets, Frame Covering and Partitions Made of Non-Leather Material.
+
+(2) An industry product made throughout, except for hardware, of vinyl backed with cowhide may be described as: Vinyl Backed With Cowhide (See also disclosure provision concerning use of backing material in paragraph (c) of this section).
+
+(3) An industry product made of top grain cowhide except for partitions and stay, which are made of plastic-coated fabric but have the appearance of leather, may be described as: Top Grain Cowhide With Partitions and Stay Made of Non-leather Material; or Top Grain Cowhide With Partitions and Stay Made of Plastic-Coated Fabric.
+
+(f) *Ground, pulverized, shredded, reconstituted, or bonded leather.* A material in an industry product that contains ground, pulverized, shredded, reconstituted, or bonded leather and thus is not wholly the hide of an animal should not be represented, directly or by implication, as being leather. This provision does not preclude an accurate representation as to the ground, pulverized, shredded, reconstituted, or bonded leather content of the material. However, if the material appears to be leather, it should be accompanied by either:
+
+(1) An adequate disclosure as described by paragraph (a) of this section; or
+
+(2) If the terms “ground leather,” “pulverized leather,” “shredded leather,” “reconstituted leather,” or “bonded leather” are used, a disclosure of the percentage of leather fibers and the percentage of non-leather substances contained in the material. For example: An industry product made of a composition material consisting of 60% shredded leather fibers may be described as: Bonded Leather Containing 60% Leather Fibers and 40% Non-leather Substances.
+
+(g) *Form of disclosures under this section.* All disclosures described in this section should appear in the form of a stamping on the product, or on a tag, label, or card attached to the product, and should be affixed so as to remain on or attached to the product until received by the consumer purchaser. All such disclosures should also appear in all advertising of such products irrespective of the media used whenever statements, representations, or depictions appear in such advertising which, absent such disclosures, serve to create a false impression that the products, or parts thereof, are of a certain kind of composition. The disclosures affixed to products and made in advertising should be of such conspicuousness and clarity as to be noted by purchasers and prospective purchasers casually inspecting the products or casually reading, or listening to, such advertising. A disclosure necessitated by a particular representation should be in close conjunction with the representation.

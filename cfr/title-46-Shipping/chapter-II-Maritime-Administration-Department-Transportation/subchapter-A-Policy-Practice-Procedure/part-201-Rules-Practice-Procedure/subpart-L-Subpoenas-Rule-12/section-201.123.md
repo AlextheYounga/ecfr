@@ -1,0 +1,3 @@
+##### § 201.123 Standards for issuance of subpoena duces tecum. #####
+
+The officer considering any application for a subpoena duces tecum shall issue the subpoena requested if he is satisfied the application complies with this section and the request is not unreasonable, oppressive, excessive in scope or unduly burdensome. No attempt shall be made to determine the admissibility of evidence in passing upon an application for a subpoena duces tecum and no detailed or burdensome showing shall be required as a condition to the issuance of any subpoena.

@@ -1,0 +1,3 @@
+##### § 2700.32 Declassification general. #####
+
+Declassification of classified information shall be given emphasis comparable to that accorded to classification. The determination to declassify information shall not be made on the basis of the level of classification assigned, but on the loss of the sensitivity of the information with the passage of time, and with due regard for the public interest in access to official information. At the time of review, any determination not to declassify shall be based on a determination that despite the passage of time since classification, release of information reasonably could still be expected to cause at least identifiable damage to the national security.

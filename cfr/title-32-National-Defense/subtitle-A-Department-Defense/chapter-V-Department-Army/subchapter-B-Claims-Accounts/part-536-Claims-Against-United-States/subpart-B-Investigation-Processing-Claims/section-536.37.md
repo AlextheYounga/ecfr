@@ -1,0 +1,3 @@
+##### § 536.37 Importance of the claims investigation. #####
+
+Prompt and thorough investigation will be conducted on all potential and actual claims for and against the government. Evidence developed during an investigation provides the basis for every subsequent step in the administrative settlement of a claim or in the pursuit of a lawsuit. Claims personnel must gather and record adverse as well as favorable information. The CJA, claims attorney or unit claims officer must preserve their legal and factual findings.

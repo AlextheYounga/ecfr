@@ -1,0 +1,5 @@
+##### § 151.01-30 Effective date. #####
+
+(a) The regulations in this subchapter are effective on and after June 1, 1970. However, amendments, revisions, or additions shall become effective ninety (90) days after the date of publication in the Federal Register unless the Commandant shall fix a different time.
+
+(b) The regulations in this subchapter are not retroactive in effect unless specifically made so at the time the regulations are issued. Changes in specification requirements of articles of equipment, or materials used in construction of tank barges, shall not apply to such items which have been passed as satisfactory until replacement shall become necessary, unless a specific finding is made that such equipment or materials used is unsafe or hazardous and has to be removed from tank barges.

@@ -1,0 +1,7 @@
+##### § 644.140 Physical protection. #####
+
+It is essential that the Division or District Engineer make provision for the physical protection for all facilities under Corps control. Coordination with state, county, and city law enforcement officials as well as the U.S. Attorney's Office is required. These officials should be alerted at the first indication of possible disturbances. The U.S. Attorney's Office should be provided with an up-to-date list of the locations of such facilities.
+
+(a) *Self-protection plan.* Space or property controlled by GSA is the responsibility of GSA for physical protection. In accordance with 41 CFR 101-20.504, a Facility Self-Protection Plan is to be established by agencies in GSA-controlled space. This requirement should be coordinated with appropriate GSA Regional personnel. A similar plan should be made operational, where feasible, in other space over which the Corps has responsibility.
+
+(b) *Funding.* Space under GSA control may require protection and the GSA Regional Offices may not have funds. In these situations, the facts will be made known to DAEN-REA-L, accompanied by a request for funds. Likewise, for Corps leases, funds for physical protection shall be requested from DAEN-REP if they are not already available to the Division or District Engineer.

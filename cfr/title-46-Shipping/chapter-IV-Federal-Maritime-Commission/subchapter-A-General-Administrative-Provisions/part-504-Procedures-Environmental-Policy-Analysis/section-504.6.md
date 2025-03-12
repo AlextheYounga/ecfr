@@ -1,0 +1,7 @@
+##### § 504.6 Finding of no significant impact. #####
+
+(a) If upon completion of an environmental assessment, it is determined that a potential or proposed action will not have a significant impact on the quality of the human environment of the United States or of the global commons, a finding of no significant impact shall be prepared and notice of its availability published in the Federal Register. This document shall include the environmental assessment or a summary of it, and shall briefly present the reasons why the potential or proposed action, not otherwise excluded under § 504.4, will not have a significant effect on the human environment and why, therefore, an environmental impact statement (EIS) will not be prepared.
+
+(b) Petitions for review of a finding of no significant impact must be received by the Commission within ten (10) days from the date of publication of the notice of its availability in the Federal Register. The Commission shall review the petitions and either deny them or order prepared an EIS pursuant to § 504.7. The Commission shall, within ten (10) days of receipt of the petition, serve copies of its order upon all parties who filed comments concerning the potential or proposed action or who filed petitions for review.
+
+[64 FR 23549, May 3, 1999]

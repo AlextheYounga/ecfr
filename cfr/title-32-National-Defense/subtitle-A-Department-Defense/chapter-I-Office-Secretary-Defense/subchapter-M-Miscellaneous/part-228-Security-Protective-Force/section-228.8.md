@@ -1,0 +1,3 @@
+##### § 228.8 Prohibition on photographic or electronic recording or transmitting equipment. #####
+
+No person entering or while on protected property shall bring or possess any kind of photographic, recording or transmitting equipment (including but not limited to cameras, cellular telephones, or recorders), except as specially authorized by the NSA Director of Security or his designee at each Agency facility.

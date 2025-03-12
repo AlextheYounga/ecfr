@@ -1,0 +1,5 @@
+##### § 720.7 Delivery of persons to Federal authorities. #####
+
+(a) *Authority to deliver.* When Federal law enforcement authorities display proper credentials and Federal warrants for the arrest of members, civilian employees, civilian contractors and their employees, or dependents residing at or located on a Department of the Navy installation, commanding officers are authorized to and should allow the arrest of the individual sought. The exceptions in § 720.9 may be applied to members. A judge advocate of the Navy or Marine Corps should be consulted before delivery is effected.
+
+(b) *Agreement not required of Federal authorities.* The agreement described in § 720.6 is not a condition to the delivery of members to Federal law enforcement authorities. Regardless of whether the member is convicted or acquitted, after final disposition of the case, the member will be returned to the Naval Service (provided that naval authorities desire his return) and the necessary expenses will be paid from an appropriation under the control of the Department of Justice.

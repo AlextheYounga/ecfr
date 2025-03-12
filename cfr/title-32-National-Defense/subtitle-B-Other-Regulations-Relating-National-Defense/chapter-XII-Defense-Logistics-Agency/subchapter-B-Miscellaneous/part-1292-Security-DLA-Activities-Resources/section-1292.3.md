@@ -1,0 +1,3 @@
+##### § 1292.3 Background. #####
+
+Section 21 of the Internal Security Act of 1950 (appendix A) authorizes the Secretary of Defense to designate military commanders to promulgate or approve regulations and orders for the protection of property and places under their command. DoD Directive 5200.8 designates military commanders of Army, Navy, Air Force, and Defense Agency activities as having authority to promulgate regulations and orders pursuant to the Internal Security Act of 1950.

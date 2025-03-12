@@ -1,0 +1,5 @@
+##### § 1112.1 Purpose. #####
+
+This part defines the term “third party conformity assessment body” and describes the types of third party conformity assessment bodies whose accreditations are accepted by the CPSC to test children's products under section 14 of the CPSA. It describes the requirements and procedures for becoming a CPSC-accepted third party conformity assessment body; the audit requirement applicable to CPSC-accepted third party conformity assessment bodies; how a third party conformity assessment body may voluntarily discontinue participation as a CPSC-accepted third party conformity assessment body; the grounds and procedures for withdrawal or suspension of CPSC acceptance of the accreditation of a third party conformity assessment body; and how an individual may submit information alleging grounds for adverse action.
+
+[78 FR 15858, Mar. 12, 2013]

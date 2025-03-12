@@ -1,0 +1,5 @@
+##### § 1511.3 Guard or shield requirements. #####
+
+(a) *Performance requirements.* Place the pacifier in the opening of the fixture illustrated in Figure 1(a) of this part so that the nipple of the pacifier is centered in the opening and protrudes through the back of the fixture as shown in Figure 1(b). For pacifiers with non-circular guards or shields, align the major axis of the guard or shield with the major axis of the opening in the fixture. Apply a tensile force to the pacifier nipple in the direction shown. The force shall be applied gradually attaining but not exceeding 2.0 pounds (8.9 newtons) within a period of 5 seconds and maintained at 2.0 pounds for an additional 10 seconds. Any pacifier which can be completely drawn through an opening with dimensions no greater than those of Figure 1(a) by such a force shall fail the test in this part.
+
+(b) *Ventilation holes.* The pacifier guard or shield shall contain at least two holes symmetrically located and each being at least 0.20 inches (5 millimeters) in minor dimension. The edge of any hole shall be no closer than 0.20 inches (5 millimeters) to the perimeter of the pacifier guard or shield.

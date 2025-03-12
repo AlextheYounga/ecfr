@@ -1,0 +1,3 @@
+##### § 806b.13 Making a Request for Access. #####
+
+Persons or their designated representatives may ask for a copy of their records in a system of records. Requesters need not state why they want access to their records. Verify the identity of the requester to avoid unauthorized disclosures. How you verify identity will depend on the sensitivity of the requested records. Persons may use a notary or an unsworn declaration in the following format: “I declare under penalty of perjury (if outside the United States, add “under the laws of the United States of America”) that the foregoing is true and correct. Executed on (date). (Signature).”

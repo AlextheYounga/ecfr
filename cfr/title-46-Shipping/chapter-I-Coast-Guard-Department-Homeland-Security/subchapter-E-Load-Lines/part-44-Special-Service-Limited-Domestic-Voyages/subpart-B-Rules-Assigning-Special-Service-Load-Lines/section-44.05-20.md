@@ -1,0 +1,9 @@
+##### § 44.05-20 Conditions of assignment. #####
+
+(a) *Steam colliers.* The conditions of assignment for steam colliers shall be in accordance with the requirements of part 42 of this subchapter, except that in the case of steam colliers constructed with bulwarks, the freeing port may be of a practically continuous slot type, located as low as possible, the clear area of the slot to be not less than 20 percent of the superficial area of the unpierced bulwarks. If, due to sheer, or other conditions, the assigning authority considers that extra local provision should be made for freeing decks of water, the slots are to be located so as to have maximum efficacy.
+
+(b) *Towed barges.* The conditions of assignment for towed cargo barges where the cargo is carried under deck shall be in accordance with §§ 45.10-5 to 45.10-100 of this subchapter. In the case of tank barges and cargo barges carrying cargo only on deck, compliance will also be required with the supplementary conditions of §§ 45.20-1 to 45.20-70 of this subchapter. In the case of cargo barges of the open type, assignment will be limited to barges in unmanned operation and the construction of the vessel must be such as to satisfy the assigning authority that no unusual hazards will be experienced.
+
+(c) *Self-propelled barges.* The conditions of assignment for self-propelled cargo barges carrying cargo under decks shall be in accordance with the provisions of §§ 45.10-5 to 45.10-100 of this subchapter. In the case of self-propelled tank barges and self-propelled cargo barges carrying cargo only on deck, compliance will also be required with the supplementary conditions of §§ 45.20-1 to 45.20-70 of this subchapter.
+
+[CGFR 65-50, 30 FR 16755, Dec. 30, 1965, as amended by CGFR 68-60, 33 FR 10076, July 12, 1968]

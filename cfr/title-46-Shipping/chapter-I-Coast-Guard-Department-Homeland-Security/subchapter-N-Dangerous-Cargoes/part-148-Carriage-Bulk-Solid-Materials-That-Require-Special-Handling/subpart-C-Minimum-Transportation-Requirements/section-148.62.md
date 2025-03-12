@@ -1,0 +1,5 @@
+##### § 148.62 Location of shipping papers and emergency response information. #####
+
+(a) The shipping paper and emergency response information required by §§ 148.60 and 148.61 of this part must be kept on board the vessel along with the dangerous cargo manifest required by § 148.70 of this part. When the shipment is by unmanned barge the shipping papers and emergency response information must be kept on the tug or towing vessel. When an unmanned barge is moored, the shipping paper and emergency response information must be on board the barge in a readily retrievable location.
+
+(b) Any written certification or statement from the shipper to the master of a vessel or to the person in charge of a barge must be on, or attached to, the shipping paper. See Subparts E and F of this part for required certifications.

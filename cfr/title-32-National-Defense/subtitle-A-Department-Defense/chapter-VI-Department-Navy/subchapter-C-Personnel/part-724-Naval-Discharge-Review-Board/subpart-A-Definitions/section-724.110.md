@@ -1,0 +1,3 @@
+##### § 724.110 Reason/basis for administrative discharge. #####
+
+The terms “reason for discharge” and “basis for discharge” have the same meaning. The first is a Navy term and the second is a Marine Corps term. These terms identify why an administrative discharge was issued, e.g., Convenience of the Government, Misconduct. Reasons/basis for discharge are found in the Naval Military Personnel Manual and Marine Corps Separation and Retirement Manual as well as predecessor publications.

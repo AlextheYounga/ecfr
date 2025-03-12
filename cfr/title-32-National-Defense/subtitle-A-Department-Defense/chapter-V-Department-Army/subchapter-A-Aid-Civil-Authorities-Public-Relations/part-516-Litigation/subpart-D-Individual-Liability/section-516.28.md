@@ -1,0 +1,5 @@
+##### § 516.28 Policy. #####
+
+(a) *General.* Commanders, supervisors, and SJAs or legal advisers will give highest priority to compliance with the requirements of this chapter with regard to current or former DA personnel who face criminal charges or civil litigation in their individual capacity as a result of performance of their official duties.
+
+(b) *DOJ policy on representation.* If in the best interest of the United States, upon request of the individual concerned, and upon certification by his agency that he was acting within the scope of his employment, DOJ may represent present and former DA personnel sued individually as a result of actions taken within the scope of their employment. Representation can be declined for a variety of reasons, including but not limited to the following: the employee was not acting within the scope of his office; there is a conflict of interest; or, actions were not taken in a good faith effort to conform to law.

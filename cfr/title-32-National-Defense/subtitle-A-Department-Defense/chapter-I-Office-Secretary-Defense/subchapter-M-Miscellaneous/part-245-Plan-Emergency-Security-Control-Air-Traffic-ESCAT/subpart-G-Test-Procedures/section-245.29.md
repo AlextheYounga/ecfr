@@ -1,0 +1,3 @@
+##### § 245.29 Purpose. #####
+
+The purpose of establishing training/test procedures is to specify procedures that will allow all participants to determine the time required and assure the capability to notify all agencies/personnel, down to the lowest action level, that ESCAT has been implemented. To ensure the proper level of participation, the appropriate military authority will provide, at a minimum, 30 days notice of a test to the appropriate civil agencies. Testing shall be conducted at least annually.

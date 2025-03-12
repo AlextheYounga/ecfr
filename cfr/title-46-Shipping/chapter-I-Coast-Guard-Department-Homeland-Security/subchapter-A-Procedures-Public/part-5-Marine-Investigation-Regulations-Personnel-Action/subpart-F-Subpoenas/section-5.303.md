@@ -1,0 +1,3 @@
+##### § 5.303 Service of subpoenas on behalf of the respondent. #####
+
+Service of subpoenas issued on behalf of the respondent is the responsibility of the respondent. However, if the Administrative Law Judge finds that the respondent or respondent's counsel is physically unable to effect the service, despite diligent and bona fide attempts to do so, and if the Administrative Law Judge further finds that the existing impediment to the service of the subpoena is peculiarly within the authority of the Coast Guard to overcome, the Administrative Law Judge will have the subpoena delivered to an investigating officer participating in the case for the purpose of effecting service.

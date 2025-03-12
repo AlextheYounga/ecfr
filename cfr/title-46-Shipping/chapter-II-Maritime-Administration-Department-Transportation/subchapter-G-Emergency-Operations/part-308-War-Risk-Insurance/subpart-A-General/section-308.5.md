@@ -1,0 +1,3 @@
+##### § 308.5 Voluntary contract of commitment. #####
+
+Applications for insurance on vessels described in § 308.1(b) shall be accompanied by a contract of commitment, in triplicate originals, executed by the owner (or by the owner and the charterer where required by § 308.3). Contracts of commitment to make the vessel available to the United States during any period in which vessels may be requisitioned under 46 U.S.C. Chapter 563 shall be submitted on standard contract form which may be obtained from MARAD's underwriting agent or MARAD. The effective date of the contract of commitment will be the effective date of the binder and will be inserted in the contract of commitment by MARAD.

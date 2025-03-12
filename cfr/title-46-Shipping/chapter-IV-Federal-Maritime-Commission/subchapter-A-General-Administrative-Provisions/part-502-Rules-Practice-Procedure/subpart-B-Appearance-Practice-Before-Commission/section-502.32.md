@@ -1,0 +1,29 @@
+##### § 502.32 Former employees. #####
+
+Title V of the Ethics in Government Act proscribes certain activities by certain former Federal employees (18 U.S.C. 207). In summary, as applied to former Commission employees, the restrictions and basic procedures are as follows:
+
+(a) *Restrictions.* (1) No former Commission employee may represent in any formal or informal appearance or make any oral or written communication with intent to influence a U.S. Government agency in a particular matter involving a specific party or parties in which the employee participated personally and substantially while with the Commission.
+
+(2) No former Commission employee may, within two years of terminating Commission employment, act as a representative in the manner described in paragraph (a)(1) of this section, as to a particular matter which was actually pending under the employee's official responsibility within one year prior to termination of the employment.
+
+(3) Former senior Commission employees (defined as Commissioners and members of the Senior Executive Service as designated by the Office of Government Ethics under 18 U.S.C. 207(d)(1)) may not, for two years after terminating Commission employment, assist in representing a person by personal presence at an appearance before the Government on a matter in which the former employee had participated personally and substantially while at the Commission.
+
+(4) Former senior Commission employees, as defined in paragraph (a)(3) of this section, are barred for one year from representing parties before the Commission or communicating with intent to influence the Commission, regardless of prior involvement in the particular proceeding.
+
+(b) *Prior consent for appearance.* (1) Prior to making any appearance, representation or communication described in paragraph (a) of this section, and, in addition to other requirements of this subpart, every former employee must apply for and obtain prior written consent of the Commission for each proceeding or matter in which such appearance, representation, or communication is contemplated. Such consent will be given only if the Commission determines that the appearance, representation or communication is not prohibited by the Act, this section or other provisions of this chapter.
+
+(2) To facilitate the Commission's determination that the intended activity is not prohibited, applications for written consent shall:
+
+(i) Be directed to the Commission, state the former connection of the applicant with the Commission and date of termination of employment, and identify the matter in which the applicant desires to appear; and
+
+(ii) Be accompanied by an affidavit to the effect that the matter for which consent is requested is not a matter in which the applicant participated personally and substantially while at the Commission and, as made applicable by paragraph (a) of this section, that the particular matter as to which consent is requested was not pending under the applicant's official responsibility within one year prior to termination of employment and that the matter was not one in which the former employee had participated personally and substantially while at the Commission. The statements contained in the affidavit shall not be sufficient if disproved by an examination of the files and records of the case.
+
+(3) The applicant shall be promptly advised as to his or her privilege to appear, represent or communicate in the particular matter, and the application, affidavit and consent, or refusal to consent, shall be filed by the Commission in its records relative thereto.
+
+(c) *Reporting possible violations.* Possible violations of section 207 of Title 18 of the United States Code, 18 U.S.C. 207, by the Commission's former officers and employees are required to be reported to the Attorney General and the Office of Government Ethics, pursuant to the regulations of the Office of Government Ethics at 5 CFR 2641.103(a) and 5 CFR 2638.603.
+
+(d) *Partners or associates.* (1) In any case in which a former member, officer, or employee of the Commission is prohibited under this section from practicing, appearing, or representing anyone before the Commission in a particular Commission matter, any partner or legal or business associate of such former member, officer, or employee shall be prohibited from (i) utilizing the services of the disqualified former member, officer, or employee in connection with the matter, (ii) discussing the matter in any manner with the disqualified former member, officer, or employee, and (iii) sharing directly or indirectly with the disqualified former member, officer, or employee in any fees or revenues received for services rendered in connection with such matter.
+
+(2) The Commission may require any practitioner or applicant to become a practitioner to file an affidavit to the effect that the practitioner or applicant will not: (i) Utilize the service of, (ii) discuss the particular matter with, or (iii) share directly or indirectly any fees or revenues received for services provided in the particular matter, with a partner, fellow employee, or legal or business associate who is a former member, officer or employee of the Commission and who is either permanently or temporarily precluded from practicing, appearing or representing anyone before the Commission in connection with the particular matter; and that the applicant's employment is not prohibited by any law of the United States or by the regulations of the Commission. [Rule 32.]
+
+[49 FR 44369, Nov. 6, 1984; 49 FR 47394, Dec. 4, 1984, as amended at 77 FR 61524, Oct. 10, 2012]

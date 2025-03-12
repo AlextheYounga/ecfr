@@ -1,0 +1,3 @@
+##### § 104.1 Purpose. #####
+
+The purpose of this part is to establish policy, assign responsibilities, and promulgate procedures for informing current and former uniformed Service members of the Department of Defense (DoD) and individuals who apply for uniformed service with DoD of their rights, benefits, and obligations under USERRA and its implementing regulations at 20 CFR part 1002 (applicable to States, local governments, and private employers) and 5 CFR part 353 (applicable to the Federal Government). Additionally, this part establishes procedures for DOD components' responsibilities related to fulfilling their USERRA obligations

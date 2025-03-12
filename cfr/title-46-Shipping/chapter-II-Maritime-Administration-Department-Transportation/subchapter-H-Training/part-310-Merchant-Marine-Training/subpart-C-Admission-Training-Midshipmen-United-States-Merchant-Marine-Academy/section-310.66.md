@@ -1,0 +1,39 @@
+##### § 310.66 Foreign students. #####
+
+(a) *Appointments from the Trust Territory of the Pacific Islands.* The Administrator may permit, upon designation by the Secretary of the Interior, individuals from the Trust Territory of the Pacific Islands to receive instruction at the Academy. Not more than 4 such individuals may receive instruction at any one time. Residents of the Trust Territory of the Pacific Islands are neither citizens nor nationals of the United States.
+
+(b) *Appointments from the Northern Mariana Islands.* The Governor of the Northern Mariana Islands may nominate individuals for one position each year allocated to residents of the Northern Mariana Islands. Such residents are neither citizens nor nationals of the United States.
+
+(c) *Appointments from nations located in the Western Hemisphere.* The President may designate individuals from nations located in the Western Hemisphere, other than the United States, to receive instruction at the Academy. Not more than 12 individuals may receive instruction under this paragraph at any one time, and not more than 2 individuals receiving instruction under this paragraph at any one time may be from the same nation. The Secretary may allow, upon approval of the Secretary of State, additional individuals from the Republic of Panama to receive instruction at the Academy on a reimbursable basis.
+
+(d) *Appointments from nations other than the United States.* In addition to the appointments under paragraphs (a), (b) and (c) of this section, the Administrator, with the approval of the Secretary of State, may permit individuals from any nations other than the United States to receive instruction at the Academy. Not more than 30 such individuals may receive instruction at any one time.
+
+(e) *Candidate Sponsors.* A representative of the Administration or a diplomatic representative of the United States in the candidate's country of residence will be designated as the Candidate's Sponsor. It will be the responsibility of the Candidate's Sponsor to act as liaison with the appropriate officials of the candidate's country of residence and to coordinate all activities, including funding arrangements, entrance examinations, medical examinations, country clearances, travel papers, transportation to the Academy, obtaining the necessary designation by the Department of the Interior in the case of candidates from the Trust Territory of Pacific Islands under paragraph (a) of this section, the nomination of the Governor of the Northern Mariana Islands under paragraph (b) of this section, the nomination of a designee of the President in the case of candidates from nations located in the Western Hemisphere under paragraph (c) of this section, and the approval of the Department of State in the case of candidates from nations other than the United States under paragraph (d) of this section. In addition, the Candidate's Sponsor shall furnish to the Admissions Office of the Academy a report as to the candidate's proficiency in the use of idiomatic English.
+
+(f) *Admissions Procedure*—(1) *Applications.* Applications for enrollment of foreign students shall be processed through the appropriate diplomatic channels of the applicant's country and the appropriate offices in the United States Departments of State or of the Interior, whichever is applicable. Applications shall reach the appropriate office of the United States Government by January 1 of the year in which admission is sought. After endorsement by the authorized official of the United States Government, the application will be forwarded promptly to the Academy's Admissions Office.
+
+(2) *Qualifications.* Each candidate shall:
+
+(i) Be a bona fide citizen of the country transmitting the application and meet the requirements as to age and character set forth in § 310.54 of this subpart;
+
+(ii) Possess the physical qualifications, specified in § 310.56 of this subpart, and undergo a physical examination as arranged by the Academy's Admissions Office;
+
+(iii) Be proficient in reading, writing and speaking idiomatic English; and,
+
+(iv) Satisfy the following scholastic requirements:
+
+(A) Meet the minimum qualifying scores on the entrance examinations as specified in § 310.55 of this subpart. When available, special foreign language College Board examinations may be substituted for the College Board or American College Testing Program examinations. Detailed certificates covering schoolwork of foreign students are required. Transcripts shall be submitted in the English language.
+
+(B) Submit a certificate from his or her Government that he or she is conversant with the literature of his or her native country and that he or she has completed a course in the literature of his or her native language generally equivalent to two (2) years of secondary schoolwork in literature in the United States. In lieu of this certificate, a candidate may produce evidence of having acquired the units for literature from accredited United States schools.
+
+(g) *Cost of instruction.* Students admitted to the Academy pursuant to paragraphs (a), (b) and (c) of this section shall be subject only to the same fees as are paid by citizen midshipmen. The cost of instruction (including the same allowances as received by midshipmen at the Academy appointed from the United States) for students admitted to the Academy under paragraph (d) of this section must be reimbursed to the Administrator by the nation from which the student comes. Such reimbursement shall be the incremental cost of providing the instruction to each of such foreign students (including the cost of allowances). The amount of reimbursement shall be established by the Academy separately for each entering class and each upper class prior to January 1 of the year in which the academic year begins and will be payable annually in advance of commencement of the academic year. Instructions as to payment procedures will be provided with the statement of the amount to be reimbursed. Students admitted to the Academy pursuant to paragraph (d) of this section shall pay the same fees paid by citizen midshipmen.
+
+(h) *Uniforms, textbooks and allowances.* The Academy shall provide to foreign students receiving instruction at the Academy all required uniforms and textbooks and allowances for transportation as are provided to citizen midshipmen.
+
+(i) *Rules and regulations.* Subject to such exceptions as shall be jointly agreed to by the Administrator and the Secretary of the Interior with respect to individuals from the Trust Territory of the Pacific Islands, foreign students, including students from the Northern Mariana Islands, receiving instruction at the Academy shall be subject to the same rules and regulations governing admission, attendance, discipline, resignation, discharge, dismissal and graduation as citizen midshipmen; but such persons shall not be entitled to hold any license authorizing service on any merchant vessel of the United States solely by reason of graduation from the Academy.
+
+(j) *Oath.* In lieu of the oath of allegiance to the United States, a substitute oath shall be required of students who are not citizens of the United States, as follows:
+
+“I, \_\_\_\_\_\_, a citizen of \_\_\_\_\_\_, aged \_\_ years and \_\_ months, having been appointed to receive instruction at the U.S. Merchant Marine Academy, do solemnly swear (or affirm) to comply with all regulations of the U.S. Merchant Marine Academy and to give my utmost efforts to accomplish satisfactorily the required curriculum with the full knowledge that I shall be disenrolled from the U.S. Merchant Marine Academy if deficient in conduct, health or studies.”
+
+[47 FR 21812, May 20, 1982, as amended at 60 FR 44439, Aug. 28, 1995]

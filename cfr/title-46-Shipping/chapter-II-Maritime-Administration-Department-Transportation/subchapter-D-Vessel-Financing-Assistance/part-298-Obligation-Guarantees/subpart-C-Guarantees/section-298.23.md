@@ -1,0 +1,5 @@
+##### § 298.23 Refinancing. #####
+
+(a) We may approve guarantees of Obligations to be secured by one or more Vessels or a Shipyard Project issued to refinance existing Title XI debt for either Vessels or for Shipyard Project and existing non-Title XI debt, so long as the existing debt has been previously issued for one of the purposes set forth in sections 1104(a)(1) through (4) of the Act. Section 1104 (a) (1) of the Act requires that, if the existing indebtedness was incurred more than one year after the delivery or redelivery of the related Vessel or Shipyard Project, the proceeds of such Obligations will be applied to the construction, reconstruction or reconditioning of other Vessels or Shipyard Project or as provided in § 298.24.
+
+(b) We shall require any security lien on the Vessel(s) or Shipyard Project to be discharged immediately before we place a Mortgage or other security interest on any of the above assets. You must satisfy all necessary eligibility requirements as set forth in subpart B of this part, including economic soundness.

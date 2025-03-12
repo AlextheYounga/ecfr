@@ -1,0 +1,3 @@
+##### § 201.51 Computation. #####
+
+In computing any period of time under these Rules, the time begins with the day following the act, event, or default, and includes the last day of the period, unless it is a Saturday, Sunday, or national legal holiday. When the period of time prescribed or allowed is less than seven (7) days, intermediate Saturdays, Sundays, and holidays shall be excluded from the computation.

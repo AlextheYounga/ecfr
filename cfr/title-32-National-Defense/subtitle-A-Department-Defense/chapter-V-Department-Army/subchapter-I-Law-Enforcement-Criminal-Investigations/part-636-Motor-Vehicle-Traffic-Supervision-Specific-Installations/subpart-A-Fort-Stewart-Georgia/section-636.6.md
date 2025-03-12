@@ -1,0 +1,3 @@
+##### § 636.6 Remedial driver training program. #####
+
+For this installation remedial driving training program referenced in § 634.12(b) of this subchapter is operated by the Installation Safety Office. Driving privileges may be withheld beyond expiration of the sanction to complete remedial driving or alcohol and drug rehabilitation programs in accordance with AR 190-5, paragraphs 2-12c and d, and 5-4f (32 CFR 634.17(c) and (d) and 634.17(f)).

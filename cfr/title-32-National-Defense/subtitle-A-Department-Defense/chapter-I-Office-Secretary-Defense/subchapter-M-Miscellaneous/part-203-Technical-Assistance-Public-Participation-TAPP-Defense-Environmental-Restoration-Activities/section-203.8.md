@@ -1,0 +1,3 @@
+##### § 203.8 Evaluation criteria. #####
+
+The Department of Defense will begin the TAPP procurement process only after it has determined that all eligibility and responsibility requirements listed in §§ 203.6, 203.7, and 203.9 of this part are met, and after review of the specific provider qualifications as submitted in the narrative section of the application. In addition, the proposed TAPP project must meet the eligibility criteria as specified in §§ 203.10 and 203.11 of this part. Projects that fail to meet those requirements relating to the relevance of the proposed project to the restoration activities at the installation will not be approved.

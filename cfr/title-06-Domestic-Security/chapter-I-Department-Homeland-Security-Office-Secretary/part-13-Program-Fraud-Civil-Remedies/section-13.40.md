@@ -1,0 +1,3 @@
+##### § 13.40 Stays ordered by the Department of Justice. #####
+
+If at any time the Attorney General or an Assistant Attorney General designated by the Attorney General transmits to the Authority Head a written finding that continuation of the administrative process described in this part with respect to a Claim or Statement may adversely affect any pending or potential criminal or civil action related to such Claim or Statement, the Authority Head will stay the process immediately. The Authority Head may order the process resumed only upon receipt of the written authorization of the Attorney General.

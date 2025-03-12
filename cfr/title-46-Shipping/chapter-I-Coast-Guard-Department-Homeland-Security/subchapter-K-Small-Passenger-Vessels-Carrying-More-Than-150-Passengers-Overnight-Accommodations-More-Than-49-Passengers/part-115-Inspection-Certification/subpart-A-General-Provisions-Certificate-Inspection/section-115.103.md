@@ -1,0 +1,5 @@
+##### § 115.103 Description. #####
+
+The Certificate of Inspection issued to a vessel describes the vessel, the route(s) that it may travel, the minimum manning requirements, the survival and rescue craft carried, the minimum fire extinguishing equipment and life jackets required to be carried, the maximum number of passengers and total persons that may be carried, the number of passengers the vessel may carry in overnight accommodation spaces, the name of the owner and managing operator, any equivalences accepted or authorized by the Commandant or any Officer in Charge, Marine Inspection (OCMI) in accordance with § 114.540 or § 114.550 of this subchapter and such other conditions of operations as may be determined by the cognizant OCMI.
+
+[CGD 85-080, 61 FR 892, Jan. 10, 1996, as amended by CGD 97-057, 62 FR 51047, Sept. 30, 1997]

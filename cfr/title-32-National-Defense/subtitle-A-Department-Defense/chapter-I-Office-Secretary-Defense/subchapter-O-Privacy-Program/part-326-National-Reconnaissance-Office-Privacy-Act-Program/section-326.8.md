@@ -1,0 +1,15 @@
+##### § 326.8 Procedures for requesting access. #####
+
+(a) *Request in writing.* An individual seeking notification of whether a system of records contains a record pertaining to him, or an individual seeking access to records pertaining to him which are available under the Privacy Act, shall address the request in writing to the Privacy Act Coordinator, National Reconnaissance Office, 14675 Lee Road, Chantilly, VA 20151-1715. The request should contain at least the following information:
+
+(1) *Identification.* Reasonable identification, including first name, middle name or initial, surname, any aliases or nicknames, Social Security Number, and return address of the individual concerned, accompanied by a signed notarized statement that such information is true under penalty of perjury and swearing to or affirming his identity. An unsworn declaration, under 28 U.S.C. 1746, also is acceptable. In the case of a request for records of a sensitive nature if the PA Coordinator determines that this information does not sufficiently identify the individual, the PA Coordinator may requests additional identification or clarification of information submitted by the individual.
+
+(i) In addition, an alien lawfully admitted for permanent residence shall provide his Alien Registration Number and the date that status was acquired.
+
+(ii) The parent or guardian of a minor or of a person judicially determined to be incompetent, or an attorney retained to represent an individual, in addition to establishing the identity of the minor or person represented as required in this part, shall provide evidence of his own identity as required in this part and evidence of such parentage, guardianship, or representation by submitting a certified copy of the minor's birth certificate, the court order establishing such guardianship, or the representation agreement which establishes the relationship.
+
+(2) *Cost.* A statement of willingness to pay reproduction costs. Processing of requests and administrative appeals from individuals who owe outstanding fees will be held in abeyance until such fees are paid.
+
+(3) *Record sought.* A description, to the best of his ability, of the nature of the record sought and the system in which it is thought to be included. In lieu of this, a requester may simply describe why and under what circumstances he believes that the NRO maintains responsive records; the NRO will undertake the appropriate searches.
+
+(b) *Access on behalf of the individual.* If the requester wishes another person to obtain the records on his behalf, the requester will furnish a notarized statement or unsworn declaration appointing that person as his representative, authorizing him access to the record, and affirming that access will not constitute an invasion of the requester's privacy or a violation of his rights under the Privacy Act. The NRO requires a written statement to authorize discussion of the individual's record in the presence of a third person.

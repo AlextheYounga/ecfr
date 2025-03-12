@@ -1,0 +1,3 @@
+##### § 34.01-10 Protection for unusual arrangements or special products—TB/ALL. #####
+
+(a) The provisions of this part contemplate fire protection for tank vessels of conventional design carrying the usual liquid petroleum products in internal tanks. Whenever unusual arrangements exist or special cargoes are carried upon which the vessel's normal firefighting equipment will be ineffective, additional suitable firefighting equipment of approved type shall be carried.

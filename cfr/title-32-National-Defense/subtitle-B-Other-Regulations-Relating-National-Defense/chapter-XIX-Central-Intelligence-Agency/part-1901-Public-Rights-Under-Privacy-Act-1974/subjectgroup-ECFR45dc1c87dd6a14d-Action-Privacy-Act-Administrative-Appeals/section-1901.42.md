@@ -1,0 +1,9 @@
+##### § 1901.42 Right of appeal and appeal procedures. #####
+
+(a) *Right of Appeal.* A right of administrative appeal exists whenever access to any requested record or any portion thereof is denied, no records are located in response to a request, or a request for amendment is denied. The Agency will apprise all requesters in writing of their right to appeal such decisions to the CIA Agency Release Panel through the Coordinator.
+
+(b) *Requirements as to time and form.* Appeals of decisions must be received by the Coordinator within forty-five (45) days of the date of the Agency's initial decision. The Agency may, for good cause and as a matter of administrative discretion, permit an additional thirty (30) days for the submission of an appeal. All appeals to the Panel shall be in writing and addressed as specified in 32 CFR 1901.03. All appeals must identify the documents or portions of documents at issue with specificity, provide the desired amending language (if applicable), and may present such information, data, and argument in support as the requester may desire.
+
+(c) *Exceptions.* No appeal shall be accepted if the requester has outstanding fees for information services at this or another federal agency. In addition, no appeal shall be accepted if the information in question has been the subject of an administrative review within the previous two (2) years or is the subject of pending litigation in the federal courts.
+
+(d) *Receipt, recording, and tasking.* The Agency shall promptly record each administrative appeal, acknowledge receipt to the requester in writing, and thereafter effect the necessary taskings to the Deputy Director(s) in charge of the directorate(s) which originated or has an interest in the record(s) subject to the appeal. As used herein, the term Deputy Director includes an equivalent senior official within the DCI-area as well as a designee known as the Information Review Officer for a directorate or area.

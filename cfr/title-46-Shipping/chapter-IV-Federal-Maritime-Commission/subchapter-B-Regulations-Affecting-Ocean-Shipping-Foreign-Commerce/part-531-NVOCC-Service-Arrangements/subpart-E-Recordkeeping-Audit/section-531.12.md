@@ -1,0 +1,5 @@
+##### § 531.12 Recordkeeping and audit. #####
+
+(a) *Records retention for five years.* Every NVOCC shall maintain original signed NSAs, amendments, and their associated records in an organized, readily accessible or retrievable manner for a period of five (5) years from the termination of each NSA. These records must be kept in a form that is readily available and usable to the Commission; electronically maintained records shall be no less accessible than if they were maintained in paper form.
+
+(b) *Production for audit within 30 days of request.* Every NVOCC shall, upon written request of the FMC's Director, Bureau of Enforcement, any Area Representative or the Director, Bureau of Trade Analysis, submit copies of requested original NSAs or their associated records within thirty (30) days of the date of the request.

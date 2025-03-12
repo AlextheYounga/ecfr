@@ -1,0 +1,15 @@
+##### § 25.7 Litigation management. #####
+
+(a) Liability for all claims against a Seller arising out of, relating to, or resulting from an Act of Terrorism when such Seller's Qualified Anti-Terrorism Technology has been deployed in defense against, response to, or recovery from such act and such claims result or may result in loss to the Seller shall not be in an amount greater than the limits of liability insurance coverage required to be maintained by the Seller under this section or as specified in the applicable Designation.
+
+(b) In addition, in any action for damages brought under section 442 of Title 6, United States Code:
+
+(1) No punitive damages intended to punish or deter, exemplary damages, or other damages not intended to compensate a plaintiff for actual losses may be awarded, nor shall any party be liable for interest prior to the judgment;
+
+(2) Noneconomic damages may be awarded against a defendant only in an amount directly proportional to the percentage of responsibility of such defendant for the harm to the plaintiff, and no plaintiff may recover noneconomic damages unless the plaintiff suffered physical harm; and
+
+(3) Any recovery by a plaintiff shall be reduced by the amount of collateral source compensation, if any, that the plaintiff has received or is entitled to receive as a result of such Acts of Terrorism that result or may result in loss to the Seller.
+
+(c) Without prejudice to the authority of the Under Secretary to terminate a Designation pursuant to paragraph (h) of § 25.6, the liability limitations and reductions set forth in this section shall apply in perpetuity to all sales or deployments of a Qualified Anti-Terrorism Technology in defense against, response to, or recovery from any Act of Terrorism that occurs on or after the effective date of the Designation applicable to such Qualified Anti-Terrorism Technology, regardless of whether any liability insurance coverage required to be obtained by the Seller is actually obtained or maintained or not, provided that the sale of such Qualified Anti-Terrorism Technology was consummated by the Seller on or after the earliest date of sale of such Qualified Anti-Terrorism Technology specified in such Designation and prior to the earlier of the expiration or termination of such Designation.
+
+(d) There shall exist only one cause of action for loss of property, personal injury, or death for performance or non-performance of the Seller's Qualified Anti-Terrorism Technology in relation to an Act of Terrorism. Such cause of action may be brought only against the Seller of the Qualified Anti-Terrorism Technology and may not be brought against the buyers, the buyers' contractors, or downstream users of the Technology, the Seller's suppliers or contractors, or any other person or entity. In addition, such cause of action must be brought in the appropriate district court of the United States.

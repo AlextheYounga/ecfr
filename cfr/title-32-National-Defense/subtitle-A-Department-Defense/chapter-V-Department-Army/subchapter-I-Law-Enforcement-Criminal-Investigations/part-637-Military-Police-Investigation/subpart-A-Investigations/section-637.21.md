@@ -1,0 +1,3 @@
+##### § 637.21 Recording interviews and interrogations. #####
+
+The recording of interviews and interrogations by military police personnel is authorized, provided the interviewee is on notice that the testimony or statement is being recorded. This procedure is a long-accepted law enforcement procedure, not precluded by DA policies pertaining to wiretap, investigative monitoring, and eavesdrop activities.

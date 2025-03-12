@@ -1,0 +1,3 @@
+##### § 201.147 Official transcript. #####
+
+The Administration will designate the official reporter for all hearings. The official transcript of testimony taken, together with any exhibits and any briefs or memoranda of law filed therewith shall be filed with the Administration. Transcripts of testimony will be available in any proceeding under the regulations in this section, and will be supplied by the official reporter to the parties and to the public except when required for good cause to be held confidential, at rates not to exceed the maximum rates fixed by the contract between the Administration and the reporter.

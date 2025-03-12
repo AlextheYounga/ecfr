@@ -1,0 +1,3 @@
+##### § 644.479 Authority for transfer of buildings and improvements to other Federal agencies. #####
+
+Buildings and other imporvements which have been screened for defense requirements, as outlined in §§ 644.333 through 644.339, may be transfered to another Federal agency as hereinafter outlined. The authority for the transfer of such property to other Federal agencies is outlined in §§ 644.400 through 644.443. The responsible DE is authorized to transfer buildings or structures for removal from the site, which have been made available for disposal by proper authority, upon receipt of a request signed by an official of another Federal agency.

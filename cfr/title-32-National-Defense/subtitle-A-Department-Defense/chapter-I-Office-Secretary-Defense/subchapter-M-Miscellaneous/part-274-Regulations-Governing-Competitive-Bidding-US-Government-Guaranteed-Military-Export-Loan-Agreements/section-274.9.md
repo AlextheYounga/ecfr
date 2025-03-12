@@ -1,0 +1,3 @@
+##### § 274.9 Delegation of authority to the Secretary of the Treasury. #####
+
+There is hereby delegated to the Secretary or Acting Secretary of the Treasury the authority, in the name of and title of the Secretary of the Treasury, to invite bids under this memorandum, to issue, modify and revoke public notices, notices, and announcements concerning such bids, to prescribe additional terms and conditions with respect thereto, consistent with this memorandum, to receive, return, open, reject, and accept bids, and to take such other actions as may be necessary and proper to execute this delegation of authority to implement this memorandum, excluding, however, the issuance of guaranties under § 274.4.

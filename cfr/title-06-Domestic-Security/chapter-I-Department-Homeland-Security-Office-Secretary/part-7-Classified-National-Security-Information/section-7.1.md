@@ -1,0 +1,3 @@
+##### § 7.1 Purpose. #####
+
+The purpose of this part is to ensure that information within the Department of Homeland Security (DHS) relating to the national security is classified, safeguarded, and declassified pursuant to the provisions of Executive Order 13526, and implementing directives from the Information Security Oversight Office (ISOO) of the National Archives and Records Administration (NARA).

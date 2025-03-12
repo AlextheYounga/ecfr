@@ -1,0 +1,9 @@
+##### § 115.53 Detainee access to outside confidential support services. #####
+
+(a) Each facility shall utilize available community resources and services to provide valuable expertise and support in the areas of crisis intervention, counseling, investigation and the prosecution of sexual abuse perpetrators to most appropriately address victims' needs. The facility shall maintain or attempt to enter into memoranda of understanding or other agreements with community service providers or, if local providers are not available, with national organizations that provide legal advocacy and confidential emotional support services for immigrant victims of crime.
+
+(b) Each facility's written policies shall establish procedures to include outside agencies in the facility's sexual abuse prevention and intervention protocols, if such resources are available.
+
+(c) Each facility shall make available to detainees information about local organizations that can assist detainees who have been victims of sexual abuse, including mailing addresses and telephone numbers (including toll-free hotline numbers where available). If no such local organizations exist, the facility shall make available the same information about national organizations. The facility shall enable reasonable communication between detainees and these organizations and agencies, in as confidential a manner as possible.
+
+(d) Each facility shall inform detainees, prior to giving them access to outside resources, of the extent to which such communications will be monitored and the extent to which reports of abuse will be forwarded to authorities in accordance with mandatory reporting laws.

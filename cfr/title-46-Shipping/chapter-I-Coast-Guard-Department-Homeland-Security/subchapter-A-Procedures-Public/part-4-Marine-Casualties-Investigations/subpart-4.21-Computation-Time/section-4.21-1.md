@@ -1,0 +1,3 @@
+##### § 4.21-1 Computation of time. #####
+
+The time, within which any act, provided by the regulation in this subchapter, or an order of the Marine Board of Investigation is to be done, shall be computed by excluding the first day and including the last unless the last day is Sunday or a legal holiday, in which case the time shall extend to and include the next succeeding day that is not a Sunday or legal holiday: *Provided, however,* That where the time fixed by the regulations in this subchapter or an order of the Board is five days or less all intervening Sundays or legal holidays, other than Saturdays, shall be excluded.

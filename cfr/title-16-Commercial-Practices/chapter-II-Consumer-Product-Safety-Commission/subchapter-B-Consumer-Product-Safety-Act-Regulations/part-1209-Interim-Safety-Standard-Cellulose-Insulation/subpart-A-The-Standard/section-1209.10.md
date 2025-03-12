@@ -1,0 +1,5 @@
+##### § 1209.10 Certification and enforcement. #####
+
+(a) While this part 1209 prescribes test methods to determine whether cellulose insulation subject to this interim standard meets its requirements, the interim standard itself does not require that a manufacturer or private labeler test any cellulose insulation. However, section 14 of the Consumer Product Safety Act (15 U.S.C. 2063) requires manufacturers and private labelers of products subject to safety standards to certify that the product conforms to the standard based on either a test of each product or a reasonable testing program. (Elsewhere in this issue of the Federal Register, 44 FR 39983, the Commission has issued a certification rule that prescribes requirements that manufacturers and private labelers shall follow to certify that their cellulose insulation complies with the requirements of the amended standard.)
+
+(b) The Commission intends to use the test procedures set forth in this part 1209 to determine whether insulation subject to the interim standard meets the requirements of the interim standard.

@@ -1,0 +1,3 @@
+##### § 537.7 Notice to USARCS. #####
+
+Upon receipt of notice of a claim involving either actual or potential amounts within USARCS' monetary jurisdiction, that is, where final action will be taken by USARCS or the Department of Justice, immediate notice will be given to USARCS. Forwarding a copy of the serious incident report, discussed in § 536.22(c) of this chapter, to USARCS, will meet this requirement. Thereafter, mirror file copies will be furnished to USARCS in accordance with AR 27-20, paragraph 2-12. This allows for continuous monitoring and discussion between the ACO and the USARCS area action officer (AAO).

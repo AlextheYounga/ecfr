@@ -1,0 +1,3 @@
+##### § 700.815 Deaths. #####
+
+The commanding officer, in the event of the death of any person within his or her command, shall ensure that the cause of death and the circumstances under which death occurred are established, that the provisions of the Manual of the Judge Advocate General are adhered to in documenting the cause and circumstances, and that the appropriate casualty report is submitted.

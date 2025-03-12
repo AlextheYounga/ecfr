@@ -1,0 +1,23 @@
+##### § 264.3 Background. #####
+
+(a) Pursuant to the provisions of the Mutual Security Act of 1954, as amended, and of predecessor legislation superseded by that Act, the United States has entered into agreements for the Interchange of Patent Rights and Technical Information for Defense Purposes with Australia, Belgium, Denmark, France, the Federal Republic of Germany, Greece, Italy, Japan, The Netherlands, Norway, Portugal, Spain, Turkey, and the United Kingdom. The agreements, which are published in the Treaties and Other International Act Series, are basically similar in substance but are not identical. Under the agreements:
+
+(1) Each government undertakes to facilitate the interchange of privately owned patent rights and of technical information through the medium of commercial relationships, to the extent permitted by the laws and security requirements of the contracting governments.
+
+(2) When technical information is supplied by one government to the other for information only, the recipient government undertakes to treat the information as disclosed in confidence and to use its best endeavors to ensure that the information is not dealt with in any manner likely to prejudice the rights of the owner to obtain patent or similar statutory protection.
+
+(3) When technical information supplied by one government to the other discloses an invention which is the subject of a patent or patent application held in secrecy in the country of origin, the recipient government undertakes to accord similar treatment to a corresponding patent application filed in that country.
+
+(4) When privately owned technical information is released by one government to the other and the recipient government uses or disclosed the information, the owner shall, subject to the extent that the owner may be entitled thereto under the applicable law and subject to arrangements between the contracting governments regarding the assumption as between them of liability for compensation, receive prompt, just and effective compensation for such use and for any damages resulting from such use or disclosure.
+
+(5) Each government is entitled to use for defense purposes without cost any invention which the other government (including government corporations) owns or to which it has the right to grant a license to use, except to the extent that there may be liability to any private owner of an interest in the invention.
+
+(b) Each of these agreements establishes a Technical Property Committee consisting of a representative of each contracting government, whose function it is to consider and make recommendations to the contracting governments on all matters relating to the subject of the agreement and to assist where appropriate in the negotiation of commercial or other agreements for the use of patent rights and technical information in the military assistance program.
+
+(1) The Patent Advisor assigned to the Defense Staff of the U.S. Mission to the North Atlantic Treaty Organization and European Regional Organizations (USRO), Paris, France, is the United States representative to the Technical Property Committees in Europe. The J-4, Hq. United States Forces Japan, Tokyo, Japan is the United States representative to the United States-Japanese Technical Property Committee. A member of the Office of Assistant General Counsel, International Affairs, Office of the Secretary of Defense, is the United States representative to the United States-Australian Technical Property Committee. The appropriate representative should be consulted on all problems dealing with patent rights, technical information and related matters under the agreements.
+
+(2) These representatives receive policy guidance from the Department of Defense. The Assistant Secretary of Defense for International Security Affairs is responsible within the Department of Defense for transmitting such policy guidance through appropriate channels. Guidance transmitted for the United States representative in Europe shall be forwarded to the Defense Advisor, USRO; guidance transmitted for the United States representative in Japan shall be transmitted to the Commanding General, United States Forces Japan.
+
+(c) Department of Defense problems arising in the United States in connection with the interchange of patent rights and privately owned technical information should be referred to the patent activity of the appropriate Military Department.
+
+[25 FR 14456, Dec. 31, 1960, as amended at 26 FR 1993, Mar. 8, 1961; 26 FR 6479, July 19, 1961]

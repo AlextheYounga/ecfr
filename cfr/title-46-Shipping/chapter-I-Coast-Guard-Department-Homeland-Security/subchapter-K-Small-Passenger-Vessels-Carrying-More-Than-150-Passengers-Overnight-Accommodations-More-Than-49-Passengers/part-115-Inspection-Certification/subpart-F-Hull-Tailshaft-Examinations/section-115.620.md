@@ -1,0 +1,9 @@
+##### § 115.620 Description of the Alternative Hull Examination (AHE) Program for certain passenger vessels. #####
+
+The Alternative Hull Examination (AHE) Program provides you with an alternative to a drydock examination by allowing your vessel's hull to be examined while it remains afloat. If completed using only divers, this program has four steps: the application process, the preliminary examination, the pre-survey meeting, and the hull examination. If the vessel is already participating in the program or if a remotely operated vehicle (ROV) is used during the program, the preliminary exam step may be omitted. Once you complete these steps, the Officer in Charge, Marine Inspection (OCMI), will evaluate the results and accept the examination as a credit hull exam if the vessel is in satisfactory condition. If only divers are used for the underwater survey portion of the examination process, you may receive credit for a period of time such that subsequent AHEs would be conducted at intervals of twice in every five years, with no more than three years between any two AHEs. The OCMI may waive an underwater survey in accordance with § 115.655(d) provided that the interval does not exceed five years between any two underwater surveys. If an underwater ROV is used as the predominate method to examine the vessel's underwater hull plating, you may receive credit up to five years. At the end of this period, you may apply for further participation under the AHE Program.
+
+Note to § 115.620:
+
+The expected hull coverage when using an ROV must be at least 80 percent.
+
+[USCG-2000-6858, 69 FR 47383, Aug. 5, 2004]

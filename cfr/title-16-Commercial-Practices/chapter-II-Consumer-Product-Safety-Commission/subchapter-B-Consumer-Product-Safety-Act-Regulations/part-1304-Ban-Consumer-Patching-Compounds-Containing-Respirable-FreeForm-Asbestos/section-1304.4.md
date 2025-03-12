@@ -1,0 +1,3 @@
+##### § 1304.4 Consumer patching compounds as banned hazardous products. #####
+
+On the basis that airborne asbestos fibers present the hazards of cancer, including lung cancer and mesothelioma to the public, consumer patching compounds containing intentionally-added, respirable free-form asbestos, which have been manufactured or initially introduced into commerce after January 16, 1978, are banned hazardous products. In addition, all other consumer patching compounds containing intentionally-added, respirable free-form asbestos, no matter when manufactured or initially introduced into commerce, are banned hazardous products after June 11, 1978.

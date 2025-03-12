@@ -1,0 +1,5 @@
+##### § 295.40 Administrative determinations. #####
+
+(a) *Policy.* A Contractor who disagrees with the findings, interpretations or decisions of the Contracting Officer with respect to the administration of this part may submit an appeal to the Maritime Administrator. Such appeals shall be made in writing to the Maritime Administrator, within 60 days following the date of the document notifying the Contractor of the administrative determination of the Contracting Officer. Such an appeal should be addressed to the Maritime Administrator, Att.: MSP Contract Appeals, Maritime Administration, 400 Seventh St., S.W. Washington, D.C. 20590.
+
+(b) *Process.* The Maritime Administrator may require the person making the request to furnish additional information, or proof of factual allegations, and may order any proceeding appropriate in the circumstances. The decision of the Maritime Administrator shall be final.

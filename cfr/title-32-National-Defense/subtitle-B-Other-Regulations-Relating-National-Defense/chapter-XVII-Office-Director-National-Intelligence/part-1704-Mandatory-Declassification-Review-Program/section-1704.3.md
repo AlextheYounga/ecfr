@@ -1,0 +1,3 @@
+##### § 1704.3 Contact information. #####
+
+For general information on the regulation in this part or to submit a request for a MDR, please direct your communication by mail to the Office of the Director of National Intelligence, Director of the Information Management Division, Washington, DC 20511; by facsimile to (703) 874-8910; or by email to *DNI-FOIA@dni.gov.* For general information on the ODNI MDR program or status information on pending MDR cases, call (703) 874-8500.

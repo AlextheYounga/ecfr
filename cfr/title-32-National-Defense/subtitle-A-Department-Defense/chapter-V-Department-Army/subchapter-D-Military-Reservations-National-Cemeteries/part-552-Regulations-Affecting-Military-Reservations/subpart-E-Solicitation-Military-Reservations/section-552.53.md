@@ -1,0 +1,3 @@
+##### § 552.53 Regulatory requirements. #####
+
+Commanders may issue regulations governing solicitation within their commands and on their installations. These regulations will avoid discriminatory requirements which could eliminate or restrict competition. When there is a clear need to prescribe more restrictive requirements for solicitation than those in this regulation or the regulations of the major commander, these additional requirements or restrictions must first be reviewed and confirmed by The Adjutant General Center (DAAG-PSI), or by the overseas commander.

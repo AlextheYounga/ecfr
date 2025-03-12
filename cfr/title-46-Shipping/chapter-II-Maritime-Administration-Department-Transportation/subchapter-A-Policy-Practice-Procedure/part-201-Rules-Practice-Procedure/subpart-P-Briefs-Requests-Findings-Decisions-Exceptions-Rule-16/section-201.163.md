@@ -1,0 +1,3 @@
+##### § 201.163 Request for extension of time for filing exceptions and replies thereto. #####
+
+Requests for extension of time within which to file exceptions, and briefs in support thereof, or replies to exceptions shall conform to the applicable provisions of subpart E of this part. Except for good cause shown, such requests shall be filed and served not later than five (5) days before the expiration of the time fixed for the filing of such documents.

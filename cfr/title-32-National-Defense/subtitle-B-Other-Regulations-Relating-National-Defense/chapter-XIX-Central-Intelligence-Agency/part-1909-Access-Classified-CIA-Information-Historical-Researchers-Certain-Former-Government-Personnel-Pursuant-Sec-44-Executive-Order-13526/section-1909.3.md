@@ -1,0 +1,3 @@
+##### § 1909.3 Contact for general information and requests. #####
+
+For general information on this part, to inquire about access to CIA information under this part, or to make a formal request for such access, please direct your communication in writing to the Information and Privacy Coordinator, Central Intelligence Agency, Washington, DC 20505. Inquiries will also by accepted by facsimile at (703) 613-3007. For general information only, the telephone number is (703) 613-1287. Collect calls cannot be accepted.

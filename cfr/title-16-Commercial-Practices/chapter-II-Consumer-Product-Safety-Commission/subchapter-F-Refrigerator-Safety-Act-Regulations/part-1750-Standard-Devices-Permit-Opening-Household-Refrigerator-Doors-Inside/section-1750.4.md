@@ -1,0 +1,3 @@
+##### § 1750.4 General requirements. #####
+
+Household refrigerators shall be equipped with a device enabling the doors thereof to be opened easily from the inside, either by the application of an outwardly directed force to the inside of the door or by the rotation of a knob similar to a conventional doorknob. The device shall not render the refrigerator unsatisfactory for the preservation of food under any or all normal conditions of use.

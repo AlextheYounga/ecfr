@@ -1,0 +1,9 @@
+##### § 101.8 Reserve training in sovereign foreign nations. #####
+
+(a) The Secretaries of the Military Departments may authorize the conduct of scheduled drills or training periods, correspondence courses, and such other active or inactive duty training as they consider appropriate for members of the Reserve components who may be temporarily residing in sovereign foreign nations which permit the United States to maintain troops of the Active Forces (other than Military Advisory Assistance Group or attached personnel) within their boundaries.
+
+(b) Prior to authorizing such training, the Secretaries of the Military Departments will instruct the attaches representing their respective Departments to inform the U.S. Ambassador and the appropriate officials of the foreign government of the intent to conduct such training. If the foreign government objects, the Secretaries of the Military Departments will furnish all the facts and their recommendations to the Secretary of Defense.
+
+(c) This policy does not prohibit the conduct of inactive duty training, such as correspondence courses, in those sovereign foreign countries in which the United States does not maintain Active Forces and where an agreement exists between the United States and the sovereign foreign nation concerned for the conduct of such training.
+
+(d) This policy does not prohibit for a limited duration the augmentation of Defense Attache Offices by attache reservists (mobilization augmentees or mobilization designees) during periods of local emergencies or for short-term (less than 30 days) training periods, provided the provisions of paragraph (b) of this section are respected. Attache reservists who are available, possess the expertise required, and reside temporarily in foreign countries, shall be utilized to the maximum extent to augment Defense Attache Offices before the continental United States-based attache reservists are utilized.

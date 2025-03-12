@@ -1,0 +1,5 @@
+##### § 1621.3 Duty to report for and submit to examination. #####
+
+When the Director orders a registrant for examination, it shall be the duty of the registrant to report for and submit to examination at the time and place ordered unless the order has been canceled. If the time when the registrant is ordered to report for examination is postponed, it shall be the continuing duty of the registrant to report for and submit to examination at such time and place as he may be reordered. Regardless of the time when, or the circumstances under which a registrant fails to report for examination when it is his duty to do so, it shall thereafter be his continuing duty from day to day to report for and submit to examination at the place specified in the order to report for examination.
+
+[52 FR 8890, Mar. 20, 1987]

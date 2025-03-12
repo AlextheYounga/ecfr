@@ -1,0 +1,3 @@
+##### § 455.4 Contrary statements. #####
+
+You may not make any statements, oral or written, or take other actions which alter or contradict the disclosures required by §§ 455.2 and 455.3. You may negotiate over warranty coverage, as provided in § 455.2(b) of this part, as long as the final warranty terms are identified in the contract of sale and summarized on the copy of the window form you give to the buyer.

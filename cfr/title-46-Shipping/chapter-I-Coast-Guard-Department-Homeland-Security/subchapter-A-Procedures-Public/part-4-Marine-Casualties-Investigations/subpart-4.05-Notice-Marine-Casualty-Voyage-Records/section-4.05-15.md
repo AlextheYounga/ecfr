@@ -1,0 +1,5 @@
+##### § 4.05-15 Voyage records, retention of. #####
+
+(a) The owner, agent, master, or person in charge of any vessel involved in a marine casualty shall retain such voyage records as are maintained by the vessel, such as both rough and smooth deck and engine room logs, bell books, navigation charts, navigation work books, compass deviation cards, gyro records, stowage plans, records of draft, aids to mariners, night order books, radiograms sent and received, radio logs, crew and passenger lists, articles of shipment, official logs and other material which might be of assistance in investigating and determining the cause of the casualty. The owner, agent, master, other officer or person responsible for the custody thereof, shall make these records available upon request, to a duly authorized investigating officer, administrative law judge, officer or employee of the Coast Guard.
+
+(b) The investigating officer may substitute photostatic copies of the voyage records referred to in paragraph (a) of this section when they have served their purpose and return the original records to the owner or owners thereof.

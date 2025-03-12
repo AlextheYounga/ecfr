@@ -1,0 +1,3 @@
+##### § 809a.3 Unauthorized entry. #####
+
+Under Section 21 of the Internal Security Act of 1950 (50 U.S.C. 797), any directive issued by the commander of a military installation or facility, which includes the parameters for authorized entry to or exit from a military installation, is legally enforceable against all persons whether or not those persons are subject to the Uniformed Code of Military Justice (UCMJ). Military personnel who reenter an installation after having been properly ordered not to do so may be apprehended. Civilian violators may be detained and either escorted off the installation or turned over to proper civilian authorities. Civilian violators may be prosecuted under 18 U.S.C. 1382.

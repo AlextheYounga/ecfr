@@ -1,0 +1,3 @@
+##### § 540.20 Scope. #####
+
+The regulations contained in this subpart set forth the procedures whereby owners or charterers of vessels having berth or stateroom accommodations for 50 or more passengers and embarking passengers at U.S. ports shall establish their financial responsibility to meet any liability which may be incurred for death or injury to passengers or other persons on voyages to or from U.S. ports. Included also are the qualifications required by the Commission for issuance of a Certificate (Casualty) and the basis for the denial, revocation, suspension, or modification of such Certificates.

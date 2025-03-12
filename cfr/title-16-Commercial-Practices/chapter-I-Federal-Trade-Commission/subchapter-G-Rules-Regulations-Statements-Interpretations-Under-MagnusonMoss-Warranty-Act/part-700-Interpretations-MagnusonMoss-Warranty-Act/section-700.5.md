@@ -1,0 +1,7 @@
+##### § 700.5 Expressions of general policy. #####
+
+(a) Under section 103(b), 15 U.S.C. 2303(b), statements or representations of general policy concerning customer satisfaction which are not subject to any specific limitation need not be designated as full or limited warranties, and are exempt from the requirements of sections 102, 103, and 104 of the Act, 15 U.S.C. 2302-2304, and rules thereunder. However, such statements remain subject to the enforcement provisions of section 110 of the Act, 15 U.S.C. 2310, and to section 5 of the Federal Trade Commission Act, 15 U.S.C. 45.
+
+(b) The section 103(b), 15 U.S.C. 2303(b), exemption applies only to general policies, not to those which are limited to specific consumer products manufactured or sold by the supplier offering such a policy. In addition, to qualify for an exemption under section 103(b), 15 U.S.C. 2303(b), such policies may not be subject to any specific limitations. For example, policies which have an express limitation of duration or a limitation of the amount to be refunded are not exempted. This does not preclude the imposition of reasonable limitations based on the circumstances in each instance a consumer seeks to invoke such an agreement. For instance, a warrantor may refuse to honor such an expression of policy where a consumer has used a product for 10 years without previously expressing any dissatisfaction with the product. Such a refusal would not be a specific limitation under this provision.
+
+[42 FR 36114, July 13, 1977, as amended at 80 FR 42721, July 20, 2015]

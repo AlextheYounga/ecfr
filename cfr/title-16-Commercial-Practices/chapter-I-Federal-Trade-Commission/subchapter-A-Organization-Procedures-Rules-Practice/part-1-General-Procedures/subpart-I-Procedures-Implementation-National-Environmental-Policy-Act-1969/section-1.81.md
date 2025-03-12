@@ -1,0 +1,5 @@
+##### § 1.81 Authority and incorporation of CEQ Regulations. #####
+
+This subpart is issued pursuant to 102(2) of the National Environmental Policy Act of 1969 (NEPA), as amended (42 U.S.C. 4321 *et seq.*). Pursuant to Executive Order 11514 (March 5, 1970, as amended by Executive Order 11991, May 24, 1977) and the Environmental Quality Improvement Act of 1980, as amended (42 U.S.C. 4371 *et seq.*) the Council on Environmental Quality (CEQ) has issued comprehensive regulations for implementing the procedural provisions of NEPA (40 CFR parts 1500 through 1508) (“CEQ Regulations”). Although it is the Commission's position that these regulations are not binding on it, the Commission's policy is to comply fully with the CEQ Regulations unless it determines in a particular instance or for a category of actions that compliance would not be consistent with the requirements of law. With this caveat, the Commission incorporates into this subpart the CEQ Regulations. The following are supplementary definitions and procedures to be applied in conjunction with the CEQ Regulations.
+
+[47 FR 3096, Jan. 22, 1982, as amended at 50 FR 53304, Dec. 31, 1985]

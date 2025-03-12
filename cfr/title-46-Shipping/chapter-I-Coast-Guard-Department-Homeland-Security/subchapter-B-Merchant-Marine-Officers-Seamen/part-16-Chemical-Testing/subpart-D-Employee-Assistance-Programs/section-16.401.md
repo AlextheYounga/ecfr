@@ -1,0 +1,7 @@
+##### § 16.401 Employee Assistance Program (EAP). #####
+
+The employer shall provide an Employee Assistance Program (EAP) for all crewmembers. The employer may establish the EAP as a part of its internal personnel services or the employer may contract with an entity that will provide EAP services to a crewmember. Each EAP must include education and training on drug use for crewmembers and the employer's supervisory personnel as provided below:
+
+(a) *EAP education program:* Each EAP education program must include at least the following elements: display and distribution of informational material; display and distribution of a community service hot-line telephone number for crewmember assistance, and display and distribution of the employer's policy regarding drug and alcohol use in the workplace.
+
+(b) *EAP training program:* An EAP training program must be conducted for the employer's crewmembers and supervisory personnel. The training program must include at least the following elements: the effects and consequences of drug and alcohol use on personal health, safety, and work environment; the manifestations and behavioral cues that may indicate drug and alcohol use and abuse; and documentation of training given to crewmembers and the employer's supervisory personnel. Supervisory personnel must receive at least 60 minutes of training.

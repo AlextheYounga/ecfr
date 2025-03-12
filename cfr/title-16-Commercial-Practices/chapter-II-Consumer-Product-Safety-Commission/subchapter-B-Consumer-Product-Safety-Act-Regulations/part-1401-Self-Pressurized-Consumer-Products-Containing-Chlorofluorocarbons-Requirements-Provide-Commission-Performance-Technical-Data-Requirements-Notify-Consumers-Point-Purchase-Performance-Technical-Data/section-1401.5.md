@@ -1,0 +1,7 @@
+##### § 1401.5 Providing performance and technical data to purchasers by labeling. #####
+
+(a) Manufacturers of self-pressurized consumer products containing a chlorofluorocarbon propellant shall provide performance and technical data concerning such products that they import or initially introduce into interstate commerce after February 19, 1978, to prospective purchasers at the time of original purchase and to the first purchaser for purposes other than resale. The data shall consist of the following identification and warning statement: “WARNING—Contains a chlorofluorocarbon that may harm the public health and environment by reducing ozone in the upper atmosphere.”
+
+(b) The identification and warning statement required by paragraph (a) of this section shall be in addition to any other required labeling and shall be sufficiently prominent and conspicuous as to be likely to be read and understood by ordinary individuals under normal conditions of purchase. This identification and warning statement shall appear on the immediate container of the product and also on any outside container or wrapper in which the product is normally offered for sale at retail. The identification and warning statement may appear on a firmly affixed tag, tape, card, or sticker or similar overlabeling attached to the package.
+
+[42 FR 42783, Aug. 24, 1977; 42 FR 46285, Sept. 15, 1977]

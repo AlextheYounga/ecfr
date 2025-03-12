@@ -1,0 +1,3 @@
+##### § 1630.41 Class 4-B: Official deferred by law. #####
+
+In Class 4-B shall be placed any registrant who is the Vice President of the United States, a governor of a State, Territory or possession, or any other official chosen by the voters of the entire State, Territory or Possession; a member of a legislative body of the United States or of a State, Territory or Possession; a judge of a court of record of the United States or of a State, Territory or Possession, or the District of Columbia.

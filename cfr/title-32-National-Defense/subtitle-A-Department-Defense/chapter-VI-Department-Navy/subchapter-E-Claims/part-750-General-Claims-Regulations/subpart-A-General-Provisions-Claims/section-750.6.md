@@ -1,0 +1,9 @@
+##### § 750.6 Claims: Presentment. #####
+
+(a) *Written demand and Standard Form 95.* A claim shall be submitted by presenting a written statement with the amount of the claim expressed in a sum certain, and, as far as possible, describing the detailed facts and circumstances surrounding the incident from which the claim arose. The Claim for Damage or Injury, Standard Form 95, shall be used whenever practical for claims under the Federal Tort and Military Claims Acts. Claims under the Personnel Claims Act shall be submitted on DD Form 1842.2 The claim and all other papers requiring the signature of the claimant shall be signed by the claimant personally or by a duly authorized agent. If signed by an agent or legal representative, the claim shall indicate the title or capacity of the person signing and be accompanied by evidence of appointment. When more than one person has a claim arising from the same incident, each person shall file a claim separately.
+
+2 The Claim for Damage or Injury, Standard Form 95 and the DD Form 1842 are available at the Web site of the United States Navy Judge Advocate General's Corps at *http://www.jag.navy.mil.*
+
+(b) *To whom submitted.* Claims under the Federal Tort and Military Claims Acts should be submitted to the Tort Claims Unit Norfolk at the address provided in Sec. 750.3 above, or the Office of the Judge Advocate General, Claims and Tort Litigation Division, 1322 Patterson Avenue, SE., Suite 3000, Washington Navy Yard, Washington, DC 20374-5066. Claims may also be submitted to the commanding officer of the Navy or Marine Corps activity involved if known, the commanding officer of any Navy or Marine activity, preferably the one nearest to where the accident occurred, or the local Naval Legal Service Command activity. The claim should be immediately forwarded to the Tort Claims Unit Norfolk.
+
+[72 FR 53418, Sept. 19, 2007]

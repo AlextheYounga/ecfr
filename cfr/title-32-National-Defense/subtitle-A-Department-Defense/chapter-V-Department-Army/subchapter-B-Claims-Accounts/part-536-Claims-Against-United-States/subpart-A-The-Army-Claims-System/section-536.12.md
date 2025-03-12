@@ -1,0 +1,5 @@
+##### § 536.12 Commanding General, U.S. Army Medical Command. #####
+
+(a) After consulting with the Commander USARCS on the selection of medical claims attorneys, the Commander of the U.S. Army MEDCOM, the European Medical Command, or other regional medical command, through his or her SJA/Center Judge Advocate, shall ensure that an adequate number of qualified MCJAs or medical claims attorneys and medical claims investigators are assigned to investigate and process medical malpractice claims arising at Army medical centers under the Commander's control. In accordance with an agreement between TJAG and The Surgeon General, such personnel shall be used primarily to investigate and process medical malpractice claims and affirmative claims and will be provided with the necessary funding and research materials to carry out this function.
+
+(b) Upon request of a claims judge advocate or claims officer, shall provide a qualified health care provider at a medical treatment facility (MTF) to examine a claimant for his injuries even if the claimant is not otherwise entitled to care at an MTF (See AR 40-400, Patient Administration, paragraph 3-47).

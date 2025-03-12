@@ -1,0 +1,11 @@
+##### § 516.31 Private counsel at government expense. #####
+
+(a) *General.* DA personnel, sued in their individual capacity or facing criminal charges as a result of performance of official duties, have no right to employ a private sector counsel at government expense or to expect reimbursement for the same. For proceedings in the United States, a request for employment of counsel at government expense may be approved by DOJ, contingent among other things upon availability of funds and a determination that employment of private counsel at government expense is in the best interests of the United States. (See 28 CFR 50.16). Special rules apply in overseas areas. (See paragraph (e) of this section).
+
+(b) *Individual request procedures.* The individual will prepare a request that private counsel be employed for him at government expense. The request must also contain the following statement: “I understand that the United States is not required to employ private counsel on my behalf, and that I may be responsible for expenses incurred prior to proper authorization by the Department of the Army or the Department of Justice.”
+
+(c) *Supervisory and legal adviser procedures.* The request will be submitted through the individual's supervisors, who will make a recommendation and forward the packet to the local SJA or legal adviser. The SJA or legal adviser will prepare his own recommendation and forward the matter to Litigation Division.
+
+(d) *Chief, Litigation Division, procedures.* If the Chief, Litigation Division, determines that the request for private counsel is meritorious, he will prepare an appropriate recommendation and forward the packet to Civil Division, DOJ, for final approval.
+
+(e) *Special actions in foreign countries.* Employment of private counsel in foreign proceedings is governed by AR 27-50 (Status of Forces Policies, Procedures, and Information). Under the authority of 10 U.S.C. 1037, soldiers, as well as employees or those accompanying the armed forces overseas, may be granted individual counsel in civil and criminal proceedings, under the criteria of AR 27-50.

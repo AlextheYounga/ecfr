@@ -1,0 +1,3 @@
+##### § 315.11 Vessel deactivation procedures. #####
+
+When an Agent is responsible as vessel operator to decommission and deliver a vessel to the NDRF, that Agent shall observe all the procedures and requirements prescribed by MARAD contained in instructions which may be obtained from the MARAD Division of Reserve Fleet (MAR-743) at the address specified in § 315.5(b) of this part. Tel. (202) 366-5752.

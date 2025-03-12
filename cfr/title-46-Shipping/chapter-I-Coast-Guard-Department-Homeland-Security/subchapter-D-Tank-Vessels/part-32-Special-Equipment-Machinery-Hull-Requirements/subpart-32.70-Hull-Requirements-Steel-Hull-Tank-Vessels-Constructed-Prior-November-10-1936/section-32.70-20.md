@@ -1,0 +1,3 @@
+##### § 32.70-20 Pump-engine compartment—TB/ALL. #####
+
+No cofferdam will be required between a cargo tank and a compartment containing pumping engines and their auxiliaries which are used exclusively during pumping operations, provided the pumping engine compartment contains no cargo valves and is well ventilated and provided further that internal combustion exhaust within the compartment are completely water jacketed or insulated and that gasoline engine intakes are fitted with effective flame arresters.

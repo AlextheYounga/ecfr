@@ -1,0 +1,3 @@
+##### § 196.30-5 Accidents to machinery. #####
+
+(a) In the event of an accident to a boiler, unfired pressure vessel, or machinery tending to render the further use of the item unsafe until repairs are made, or if by ordinary wear such items become unsafe, a report shall be made by the Chief Engineer immediately to the Officer in Charge, Marine Inspection, or if at sea, immediately upon arrival at port.

@@ -1,0 +1,15 @@
+##### § 1904.3 Procedures governing acceptance of service of process. #####
+
+(a) *Service of Process Upon the CIA or a CIA Employee in An Official Capacity*—(1) *Personal service.* Unless otherwise expressly authorized by the General Counsel, or designee, personal service of process may be accepted only by attorneys of the Office of General Counsel at CIA Headquarters in Langley, Virginia.
+
+(2) *Mail service.* Where service of process by registered or certified mail is authorized by law, unless expressly directed otherwise by the General Counsel or designee, such process may only be accepted by attorneys of the Office of General Counsel. Process by mail should be addressed as follows: Litigation Division, Office of General Counsel, Central Intelligence Agency, Washington, DC 20505.
+
+(b) *Service of Process Upon a CIA Employee Solely in An Individual Capacity*—(1) *General.* Consistent with section 6 of the CIA Act of 1949, as amended, 50 U.S.C. 403g, CIA will not provide the name or address of any current or former employee of CIA to individuals or entities seeking to serve process upon such employee solely in his or her individual capacity, even where the matter is related to CIA activities.
+
+(2) *Personal Service.* Subject to the sole discretion of appropriate officials of the CIA, process servers generally will not be allowed to enter CIA facilities or premises for the purpose of serving process upon any CIA employee solely in his or her individual capacity. The Office of General Counsel is not authorized to accept service of process on behalf of a CIA employee—except the Director and Deputy Director of Central Intelligence—in his or her individual capacity.
+
+(3) *Mail Service.* Unless otherwise expressly authorized by the General Counsel, or designee, CIA personnel are not authorized to accept or forward mailed service of process directed to any CIA employee in his or her individual capacity. Any such process will be returned to the sender via appropriate postal channels.
+
+(c) *Service of Process Upon a CIA Employee in A Combined Official and Individual Capacity.* Unless expressly directed otherwise by the General Counsel, or designee, any process to be served upon a CIA employee in his or her combined official and individual capacity, in person or by mail, can be accepted only by attorneys of the Office of General Counsel at CIA Headquarters in Langley, Virginia.
+
+(d) The documents for which service is accepted in official capacity only shall be stamped “Service Accepted in Official Capacity Only.” Acceptance of service of process shall not constitute an admission or waiver with respect to jurisdiction, propriety of service, improper venue, or any other defense in law or equity available under the laws or rules applicable to the service of process.

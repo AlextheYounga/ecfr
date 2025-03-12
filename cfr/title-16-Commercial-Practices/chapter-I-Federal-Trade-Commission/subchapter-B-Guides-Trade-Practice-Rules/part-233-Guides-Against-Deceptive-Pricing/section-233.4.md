@@ -1,0 +1,7 @@
+##### § 233.4 Bargain offers based upon the purchase of other merchandise. #####
+
+(a) Frequently, advertisers choose to offer bargains in the form of additional merchandise to be given a customer on the condition that he purchase a particular article at the price usually offered by the advertiser. The forms which such offers may take are numerous and varied, yet all have essentially the same purpose and effect. Representative of the language frequently employed in such offers are “Free,” “Buy One—Get One Free,” “2-For-1 Sale,” “Half Price Sale,” “1¢ Sale,” “50% Off,” etc. Literally, of course, the seller is not offering anything “free” (i.e., an unconditional gift), or1/2 free, or for only 1¢, when he makes such an offer, since the purchaser is required to purchase an article in order to receive the “free” or “1¢” item. It is important, therefore, that where such a form of offer is used, care be taken not to mislead the consumer.
+
+(b) Where the seller, in making such an offer, increases his regular price of the article required to be bought, or decreases the quantity and quality of that article, or otherwise attaches strings (other than the basic condition that the article be purchased in order for the purchaser to be entitled to the “free” or “1¢” additional merchandise) to the offer, the consumer may be deceived.
+
+(c) Accordingly, whenever a “free,” “2-for-1,” “half price sale,” “1¢ sale,” “50% off” or similar type of offer is made, all the terms and conditions of the offer should be made clear at the outset. [Guide IV]

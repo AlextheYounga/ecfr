@@ -1,0 +1,5 @@
+##### § 1621.2 Duty to report for and submit to induction. #####
+
+When the Director of Selective Service orders a registrant for induction, it shall be the duty of the registrant to report for and submit to induction at the time and place ordered unless the order has been canceled. If the time when the registrant is ordered to report for induction is postponed, it shall be the continuing duty of the registrant to report for and submit to induction at such time and place as he may be reordered. Regardless of the time when or the circumstances under which a registrant fails to report for induction when it is his duty to do so, it shall thereafter be his continuing duty from day to day to report for and submit to induction at the place specified in the order to report for induction.
+
+[47 FR 4648, Feb. 1, 1982]

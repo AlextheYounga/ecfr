@@ -1,0 +1,11 @@
+##### § 1012.5 Recordkeeping for agency meetings. #####
+
+(a) This section describes and establishes requirements for the two types of records maintained for Agency meetings, Agency meeting summaries and transcripts.
+
+(b) *Agency meeting summaries.* Agency meeting summaries are written records settling forth the issues discussed at all Agency meetings with outside parties involving substantial interest matters. Any Commission employee who holds or attends an Agency meeting involving a substantial interest matter must prepare a meeting summary. However, only one agency meeting summary is required for each meeting even if more than one CPSC employee holds or attends the meeting. Agency meeting summaries are generally available to the public in the Agency's Public Reading Room in the Office of the Secretary as described in paragraph (b)(2) of this section.
+
+(1) An agency meeting summary should state the essence of all substantive matters relevant to the Agency, especially any matter discussed which was not listed on the Public Calendar, and should describe any decisions made or conclusions reached regarding substantial interest matters. An agency meeting summary should also indicate the date of the meeting and the identity of persons who attended.
+
+(2) An agency meeting summary or a notice of cancellation of the meeting must be submitted to the Office of the Secretary within twenty (20) calendar days after the meeting for which the summary is required. The Office of the Secretary shall maintain a file of the meeting summaries in chronological order, which shall be available to the public to the extent permitted by law.
+
+(c) *Transcripts.* Transcripts are generally taken at public hearings and certain Agency meetings when complex subjects indicate *verbatim* records are desirable. The transcript may also include exhibits submitted to be part of the formal record of an Agency meeting. Copies of such transcripts are placed on file for public inspection in the Office of the Secretary.

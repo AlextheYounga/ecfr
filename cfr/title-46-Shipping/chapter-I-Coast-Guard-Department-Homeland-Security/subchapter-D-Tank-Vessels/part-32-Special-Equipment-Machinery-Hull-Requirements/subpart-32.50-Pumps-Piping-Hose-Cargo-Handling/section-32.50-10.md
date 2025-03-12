@@ -1,0 +1,3 @@
+##### § 32.50-10 Cargo pumps on tank vessels with independent cargo tanks which were constructed prior to November 10, 1936—TB/ALL. #####
+
+(a) Cargo pumps on tank vessels, the construction or conversion of which was started prior to November 10, 1936, may be located in a hold space containing independent cargo tanks or on deck. If the pump driving unit is of the type permitted in cargo pumprooms, it also may be located in the hold space. If other types of driving units are used, they shall be located on deck or in an engine compartment. If the pump drive shaft passes through decks or bulkheads into a hold space or pumproom, it shall be provided with suitable stuffing boxes at such points.

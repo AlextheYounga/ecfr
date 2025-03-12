@@ -1,0 +1,25 @@
+##### § 701.6 Reading rooms. #####
+
+The FOIA requires that (a)(2) records created on or after 1 November 1996, be made available electronically (starting 1 November 1997) as well as in hard copy, in the FOIA reading room for inspection and copying, unless such records are published and copies are offered for sale. DoD 5400.7-R, “DoD Freedom of Information Act Program,” requires that each DoD Component provide an appropriate facility or facilities where the public may inspect and copy or have copied the records held in their reading rooms. To comply, the Navy FOIA website includes links that assist members of the public in locating Navy libraries, online documents, and Navy electronic reading rooms maintained by SECNAV/CNO, CMC, OGC, JAG and Echelon 2 commands. Although each of these activities will maintain their own document collections on their own servers, the Navy FOIA website provides a common gateway for all Navy online resources. To this end, DON activities shall:
+
+(a) Establish their reading rooms and link them to the Navy FOIA Reading Room Lobby which is found on the Navy FOIA website.
+
+(b) Ensure that responsive documents held by their subordinate activities are also placed in the reading room.
+
+Note to paragraph (b):
+
+SECNAV/ASN and OPNAV offices shall ensure that responsive documents are provided to CNO (N09B30) for placement in the reading room.
+
+(c) Ensure that documents placed in a reading room are properly excised to preclude the release of personal or contractor-submitted information prior to being made available to the public. In every case, justification for the deletion must be fully explained in writing, and the extent of such deletion shall be indicated on the record which is made publicly available, unless such indication would harm an interest protected by an exemption under which the deletion was made. If technically feasible, the extent of the deletion in electronic records or any other form of record shall be indicated at the place in the record where the deletion was made. However, a DON activity may publish in the Federal Register a description of the basis upon which it will delete identifying details of particular types of records to avoid clearly unwarranted invasions of privacy, or competitive harm to business submitters. In appropriate cases, the DON activity may refer to this description rather than write a separate justification for each deletion. DON activities may remove (a)(2)(D) records from their electronic reading room when the appropriate officials determine that access is no longer necessary.
+
+(d) Should a requester submit a FOIA request for FOIA-processed (a)(2) records, and insist that the request be processed, DON activities shall process the FOIA request. However, DON activities have no obligation to process a FOIA request for 5 U.S.C. 552(a)(2)(A), (B), and (C) [5 U.S.C. 552] records because these records are required to be made public and not FOIA-processed under paragraph (a)(3) of the FOIA.
+
+(e) DON activities may share reading room facilities if the public is not unduly inconvenienced. When appropriate, the cost of copying may be imposed on the person requesting the material in accordance with FOIA fee guidelines (see subpart C of this part).
+
+(f) DON activities shall maintain an index of all available documents. A general index of FOIA-processed (a)(2) records shall be made available to the public, both in hard copy and electronically by 31 December 1999. To comply with this requirement, DON activities shall establish a GILS record for each document it places in a reading room. No (a)(2) materials issued or adopted after 4 July 1967, that are not indexed and either made available or published may be relied upon, used or cited as precedent against any individual unless such individual has actual and timely notice of the contents of such materials. Such materials issued or adopted before 4 July 1967, need not be indexed, but must be made available upon request if not exempted under the instruction in this part.
+
+(g) An index and copies of unclassified Navy instructions, forms, and addresses for DON activities (*i.e.*, the Standard Navy Distribution List (SNDL) are located on the Navy Electronics Directives System (*http://neds.nebt.daps.mil/*).
+
+(h) DON material published in the Federal Register, such as material required to be published by Section 552(a)(1) of the FOIA, shall be made available by JAG in their FOIA reading room and electronically to the public.
+
+(i) Although not required to be made available in response to FOIA requests or made available in FOIA Reading Rooms, “(a)(1)” materials may, when feasible, be made available to the public in FOIA reading rooms for inspection and copying, and by electronic means. Examples of “(a)(1)” materials are: descriptions of an agency's central and field organization, and to the extent they affect the public, rules of procedures, descriptions of forms available, instruction as to the scope and contents of papers, reports, or examinations, and any amendment, revision, or report of the aforementioned.

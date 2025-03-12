@@ -1,0 +1,3 @@
+##### § 228.18 Penalties and the effect on other laws. #####
+
+Whoever shall be found guilty of violating any provision of these regulations is subject to a fine of not more than $50 or imprisonment of not more than 30 days, or both. In the case of traffic and parking violations, fines assessed shall be in accordance with the schedule(s) of fines adopted by the United States District Court for the District where the offense occurred. Nothing in these regulations shall be construed to abrogate or supersede any other Federal laws or any State or local laws or regulations applicable to any area in which the protected property is situated.

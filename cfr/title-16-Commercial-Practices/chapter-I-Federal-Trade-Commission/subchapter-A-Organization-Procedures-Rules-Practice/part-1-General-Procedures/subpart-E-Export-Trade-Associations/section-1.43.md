@@ -1,0 +1,3 @@
+##### § 1.43 Recommendations. #####
+
+Whenever the Commission has reason to believe that an association has violated the prohibitions of section 2 of the Act, it may conduct an investigation. If, after investigation, it concludes that the law has been violated, it may make to such association recommendations for the readjustment of its business. If the association fails to comply with the recommendations, the Commission will refer its findings and recommendations to the Attorney General for appropriate action.

@@ -1,0 +1,3 @@
+##### § 536.48 Federal employee requirement. #####
+
+To be payable, a claim under any subpart except subpart K of this part, §§ 536.153 through 536.157 (Claims involving tortfeasors other than nonappropriated fund employees), must be based on the acts or omissions of a member of the armed forces, a member of a foreign military force within the United States with which the United States has a reciprocal claims agreement, or a federal civilian employee. This does not include a contractor of the United States. Apply federal case law for interpretation. See parallel discussion at DA Pam 27-162, paragraph 2-46.

@@ -1,0 +1,3 @@
+##### § 167.40-25 Signaling lamp. #####
+
+Nautical school ships of over 150 gross tons shall be equipped with an efficient signaling lamp. This lamp shall be permanently fixed above the bridge and equipped with a Fresnel lens and high-speed bulb, operated by a weatherproof key, fitted with a suitable condenser. The lamp shall be so connected that it can be operated from the normal source of the nautical school ship's current, the emergency source, and other emergency batteries if provided.

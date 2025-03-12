@@ -1,0 +1,3 @@
+##### § 169.849 Posting placards containing instructions for launching and inflating inflatable liferafts. #####
+
+Every vessel equipped with inflatable liferafts must have posted in conspicuous places readily accessible to the ship's company and guests approved placards containing instructions for launching and inflating inflatable liferafts. The number and location of such placards for a particular vessel shall be determined by the Officer in Charge, Marine Inspection.

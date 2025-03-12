@@ -1,0 +1,3 @@
+##### § 1662.3 Identification of information requested. #####
+
+Any person who requests information under FOIA shall provide a reasonably specific description of the information sought so that it may be located without undue search. If the description is not sufficient, the records manager will notify the requester and, to the extent possible, indicate the additional information required. Every reasonable effort shall be made to assist a requester in the identification and location of the record or records sought.

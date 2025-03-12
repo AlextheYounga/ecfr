@@ -1,0 +1,5 @@
+##### § 167.65-70 Reports of accidents, repairs, and unsafe boilers and machinery by engineers. #####
+
+(a) Before making repairs to a boiler of a nautical school ship the engineer in charge shall report, in writing, the nature of such repairs to the nearest Officer in Charge, Marine Inspection, where such repairs are to be made.
+
+(b) And it shall be the duty of all engineers when an accident occurs to the boilers or machinery in their charge tending to render the further use of such boilers or machinery unsafe until repairs are made, or when, by reason of ordinary wear, such boilers or machinery have become unsafe, to report the same to the Officer in Charge, Marine Inspection, immediately upon the arrival of the nautical school ship at the first port reached subsequent to the accident, or after the discovery of such unsafe condition by said engineer.

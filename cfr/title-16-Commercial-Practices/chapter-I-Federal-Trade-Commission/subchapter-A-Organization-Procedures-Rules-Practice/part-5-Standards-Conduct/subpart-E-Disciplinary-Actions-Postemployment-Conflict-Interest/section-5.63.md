@@ -1,0 +1,3 @@
+##### § 5.63 Evidence; transcript; in camera orders; proposed findings of fact and conclusions of law. #####
+
+Sections 3.43, 3.44, 3.45, and 3.46 of the Commission's Rules of Practice shall govern, respectively, the receipt and objections to admissibility of evidence, the transcript of the hearing, *in camera* orders and the submission and consideration of proposed findings of fact and conclusions of law except that (a) a copy of the hearing transcript shall be provided the respondent; and (b) the Commission has the burden of establishing, by a preponderance of the evidence on the record as a whole, the allegations stated in the order to show cause.

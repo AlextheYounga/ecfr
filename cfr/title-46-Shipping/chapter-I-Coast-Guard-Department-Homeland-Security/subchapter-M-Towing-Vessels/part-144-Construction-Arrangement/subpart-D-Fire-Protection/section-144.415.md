@@ -1,0 +1,3 @@
+##### § 144.415 Combustibles insulated from heated surfaces. #####
+
+Internal combustion engine exhaust ducts, galley exhaust ducts and similar ignition sources must be insulated with noncombustible insulation if less than 450 mm (18 inches) away from combustible material. Installations in accordance with ABYC P-1 or NFPA 302 (incorporated by reference, see § 136.112 of this subchapter) will be considered as meeting the requirements of this section.

@@ -1,0 +1,5 @@
+##### § 643.34 Policy - Public utilities on installations. #####
+
+(a) Contracting officers, with the approval of Installation Commanders, are authorized to permit the extension of public utilities upon installations, as part of the contract for furnishing to the Government electricity, water, and gas, where such extension is necessary solely to serve the installation and not in part to serve private consumers outside the installation. The above authorization is covered by the provisions of the contract for purchase of utilities services contained in Armed Services Procurement Regulations.
+
+(b) Contracts or agreements for the sale of surplus utilities services as authorized by law or regulations will include similar authority for the purchaser to install and maintain such facilities on the installation as necessary in connection with the sale of such utilities services, in accordance with AR 420-41 and AR 105-23.

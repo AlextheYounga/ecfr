@@ -1,0 +1,3 @@
+##### § 37.865 Should my patent provision include march-in rights? #####
+
+Your TIA's patent rights provision should include the Bayh-Dole march-in rights clause at paragraph (j)(1) of 37 CFR 401.14, or an equivalent clause, concerning actions that the Government may take to obtain the right to use subject inventions, if the recipient fails to take effective steps to achieve practical application of the subject inventions within a reasonable time. The march-in provision may be modified to best meet the needs of the program. However, only infrequently should the march-in provision be entirely removed (*e.g.,* you may wish to do so if a recipient is providing most of the funding for a research project, with the Government providing a much smaller share).

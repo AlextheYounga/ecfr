@@ -1,0 +1,3 @@
+##### § 158.1 Purpose. #####
+
+This part establishes policy, assigns responsibilities, and provides procedures for operational contract support (OCS), including OCS program management, contract support integration, and integration of defense contractor personnel into contingency operations outside the United States in accordance with the guidance in DoD Directive 3020.49 (see *http://www.dtic.mil/whs/directives/corres/pdf/302049p.pdf*) and the authority in DOD Directive 5134.01 (see *http://www.dtic.mil/whs/directives/corres/pdf/513401p.pdf*).

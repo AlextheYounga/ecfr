@@ -1,0 +1,5 @@
+##### § 1251.2 Wood. #####
+
+(a) Unfinished and untreated wood does not exceed the limits for the heavy elements established in the toy standard with a high degree of assurance as that term is defined in 16 CFR part 1107, provided that the material has been neither treated nor adulterated with materials that could result in the addition of any of the heavy elements listed in the toy standard at levels above their respective solubility limits.
+
+(b) For purposes of this section, unfinished and untreated wood means wood harvested from the trunks of trees with no added surface coatings (such as, varnish, paint, shellac, or polyurethane) and no materials added to the wood substrate (such as, stains, dyes, preservatives, antifungals, or insecticides). Unfinished and untreated wood does not include manufactured or engineered woods (such as pressed wood, plywood, particle board, or fiberboard).

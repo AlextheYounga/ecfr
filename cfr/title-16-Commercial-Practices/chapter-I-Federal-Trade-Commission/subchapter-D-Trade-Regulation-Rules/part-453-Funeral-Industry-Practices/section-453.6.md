@@ -1,0 +1,3 @@
+##### § 453.6 Retention of documents. #####
+
+To prevent the unfair or deceptive acts or practices specified in §§ 453.2 and 453.3 of this rule, funeral providers must retain and make available for inspection by Commission officials true and accurate copies of the price lists specified in §§ 453.2(b) (2) through (4), as applicable, for at least one year after the date of their last distribution to customers, and a copy of each statement of funeral goods and services selected, as required by § 453.2(b)(5), for at least one year from the date of the arrangements conference.

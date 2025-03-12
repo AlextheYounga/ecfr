@@ -1,0 +1,3 @@
+##### § 2102.51 Penalties. #####
+
+Title 18, U.S.C. section 1001, Crimes and Criminal Procedures, makes it a criminal offense, subject to a maximum fine of $10,000 or imprisonment for not more than five years or both, to knowingly and willfully make or cause to be made any false or fraudulent statements or representations in any matter within the jurisdiction of any agency of the United States. Section (i)(3) of the Privacy Act (5 U.S.C. 552a) makes it a misdemeanor, subject to a maximum fine of $5,000, to knowingly and willfully request or obtain any record concerning an individual under false pretenses. Sections (i)(1) and (2) of 5 U.S.C. 552a provide penalties for violations by agency employees, of the Privacy Act or regulations established thereunder.

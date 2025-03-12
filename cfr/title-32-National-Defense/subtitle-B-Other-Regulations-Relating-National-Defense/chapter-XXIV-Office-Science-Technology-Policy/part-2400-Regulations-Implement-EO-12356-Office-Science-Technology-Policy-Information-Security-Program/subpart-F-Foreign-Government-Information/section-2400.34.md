@@ -1,0 +1,5 @@
+##### § 2400.34 Classification. #####
+
+(a) Foreign government information classified by a foreign government or international organization of governments shall retain its original classification designation or be assigned a United States classification designation that will ensure a degree of protection equivalent to that required by the government or organization that furnished the information. Original classification authority is not required for this purpose.
+
+(b) Foreign government information that was not classified by a foreign entity but was provided with the expectation, expressed or implied, that it be held in confidence must be classified because Executive Order 12356 states a presumption of damage to the national security in the event of unauthorized disclosure of such information.

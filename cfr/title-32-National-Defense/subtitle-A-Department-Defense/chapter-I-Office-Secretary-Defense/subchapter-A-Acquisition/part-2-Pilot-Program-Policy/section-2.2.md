@@ -1,0 +1,7 @@
+##### § 2.2 Statutory relief for participating programs. #####
+
+(a) Within the limitations prescribed, the applicability of any provision of law or any regulation prescribed to implement a statutory requirement may be waived for all programs participating in the Defense Acquisition Pilot Program, or separately for each participating program, if that waiver or limit is specifically authorized to be waived or limited in a law authorizing appropriations for a program designated by statute as a participant in the Defense Acquisition Pilot Program.
+
+(b) Only those laws that prescribe procedures for the procurement of supplies or services; a preference or requirement for acquisition from any source or class of sources; any requirement related to contractor performance; any cost allowability, cost accounting, or auditing requirements; or any requirement for the management of, testing to be performed under, evaluation of, or reporting on a defense acquisition program may be waived.
+
+(c) The requirements in section 809 of Public Law 101-510, as amended by section 811 of Public Law 102-484, the requirements in any law enacted on or after the enactment of Public Law 101-510 (except to the extent that a waiver or limitation is specifically authorized for such a defense acquisition program by statute), and any provision of law that ensures the financial integrity of the conduct of a Federal Government program or that relates to the authority of the Inspector General of the Department of Defense may not be considered for waiver.

@@ -1,0 +1,15 @@
+##### § 220.9 Rights and obligations of beneficiaries. #####
+
+(a) *No additional cost share.* Pursuant to 10 U.S.C. 1095(a)(2), uniformed services beneficiaries will not be required to pay to the facility of the uniformed services any amount greater than the normal medical services or subsistence charges (under 10 U.S.C. 1075 or 1078). In every case in which payment from a third party payer is received, it will be considered as satisfying the normal medical services or subsistence charges, and no further payment from the beneficiary will be required.
+
+(b) *Availability of healthcare services unaffected.* The availability of healthcare services in any facility of the Uniformed Services will not be affected by the participation or nonparticipation of a Uniformed Services beneficiary in a health care plan of a third party payer. Whether or not a Uniformed Services beneficiary is covered by a third party payer's plan will not be considered in determining the availability of healthcare services in a facility of the Uniformed Services.
+
+(c) *Obligation to disclose information and cooperate with collection efforts.* (1) Uniformed Services beneficiaries are required to provide correct information to the facility of the Uniformed Services regarding whether the beneficiary is covered by a third party payer's plan. Such beneficiaries are also required to provide correct information regarding whether particular health care services might be covered by a third party payer's plan, including services arising from an accident or workplace injury or illness. In the event a third party payer's plan might be applicable, a beneficiary has an obligation to provide such information as may be necessary to carry out 10 U.S.C. 1095 and this part, including identification of policy numbers, claim numbers, involved parties and their representatives, and other relevant information.
+
+(2) Uniformed Services beneficiaries are required to take other reasonable steps to cooperate with the efforts of the facility of the Uniformed Services to make collections under 10 U.S.C. 1095 and this part, such as submitting to the third party payer (or other entity involved in adjudicating a claim) any requests or documentation that might be required by the third party payer (or other entity), if consistent with this part, to facilitate payment under this part.
+
+(3) Intentionally providing false information or willfully failing to satisfy a beneficiary's obligations are grounds for disqualification for health care services from facilities of the Uniformed Services.
+
+(d) *Mandatory disclosure of Social Security account numbers.* Pursuant to 10 U.S.C. 1095(k)(2), every covered beneficiary eligible for care in facilities of the Uniformed Services is, as a condition of eligibility, required to disclose to authorized personnel his or her Social Security account number.
+
+[55 FR 21748, May 29, 1990, as amended at 57 FR 41102, Sept. 9, 1992; 63 FR 11600, Mar. 10, 1998; 65 FR 7729, Feb. 16, 2000]

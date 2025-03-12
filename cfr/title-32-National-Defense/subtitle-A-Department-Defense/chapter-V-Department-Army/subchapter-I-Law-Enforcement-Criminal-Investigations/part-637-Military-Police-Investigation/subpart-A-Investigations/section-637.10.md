@@ -1,0 +1,3 @@
+##### § 637.10 Authority to apprehend or detain. #####
+
+MPI and DAC detectives/investigators have authority to make apprehensions in accordance with Article 7, Uniform Code of Military Justice (UCMJ); Rule for Courts-Martial 302 (b)(1), Manual for Courts-Martial, United States 2002 (Revised Edition). They may detain personnel for identification and remand custody of persons to appropriate civil or military authority as necessary. Civilians committing offenses on U.S. Army installations may be detained until they can be released to the appropriate Federal, state, or local law enforcement agency.

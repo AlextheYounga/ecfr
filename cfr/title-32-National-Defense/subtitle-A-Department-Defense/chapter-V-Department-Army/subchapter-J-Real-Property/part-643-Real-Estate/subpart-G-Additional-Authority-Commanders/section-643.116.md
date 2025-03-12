@@ -1,0 +1,3 @@
+##### § 643.116 Credit unions. #####
+
+The establishment of credit unions on Army installations is governed by AR 210-24. Installation commanders are authorized to allot space in existing buildings, without charge for rent or services, to any credit union organized under State law or to any Federal credit union organized in accordance with the Federal Credit Union Act, (12 U.S.C. 1770), provided that, in either case, that 95 percent of the membership is composed of Federal employees, including former Federal employees who acquire membership while employed by the Federal Government and retained such membership.

@@ -1,0 +1,13 @@
+##### § 46.01-15 Application of regulations. #####
+
+(a) The regulations in this part establish subdivision load lines required on passenger vessels engaged in foreign voyages, as well as on passenger vessels of 150 gross tons or over engaged in coastwise or Great Lakes voyages.
+
+(b) When engaged in voyages subject to this part, no passenger vessel required to be marked with subdivision load lines shall depart from or arrive at any port or place under the jurisdiction of the United States, nor shall such United States vessel operate on the high seas nor the Great Lakes, unless such vessel has been marked with subdivision load lines in accordance with the regulations in this part, has on board a valid certificate certifying to the correctness of the location of such subdivision load line marks, and is otherwise in compliance with the applicable requirements of law and regulations in this part.
+
+(c) No passenger vessel of the United States of 150 gross tons or over and subject to 46 U.S.C. 5101-5116, shall engage in coastwise voyages or voyages on the Great Lakes unless such vessel has been marked with subdivision load lines in accordance with the regulations in this part and has on board a valid certificate certifying to the correctness of the location of such subdivision load line marks.
+
+(d) No foreign passenger vessel belonging to a country that has ratified or acceded to the applicable International Convention for Safety of Life at Sea shall arrive or depart from any port or place under the jurisdiction of the United States, and no foreign passenger vessel subject to 46 U.S.C. 5101-5116, shall arrive or depart from any port or place under the jurisdiction of the United States, including ports on the Great Lakes, unless that vessel has been marked with subdivision load lines in accordance with the regulations in this part and has on board a valid certificate certifying to the correctness of the location of such subdivision load line marks.
+
+(e) Subdivision load lines shall be marked on both sides of passenger vessels where determined and in a manner described in subpart 46.15 as applicable to the vessel's service. The subdivision load line certificates shall be in accordance with §§ 46.10-30 and 46.10-35.
+
+[CGFR 65-50, 30 FR 16769, Dec. 30, 1965, as amended by CGD 80-120, 47 FR 5723, Feb. 8, 1982; CGD 97-057, 62 FR 51044, Sept. 30, 1997; USCG-1998-4442, 63 FR 52190, Sept. 30, 1998]

@@ -1,0 +1,3 @@
+##### § 202.14 Documenting and reporting activities and expenses. #####
+
+The installation at which a RAB is established shall document the activities and meeting minutes and record the administrative expenses associated with the RAB in the information repository at a publicly accessible location. Installations shall use internal department and Military Component-specific reporting mechanisms to submit required information on RAB activities and expenditures.

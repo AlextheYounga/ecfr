@@ -1,0 +1,3 @@
+##### § 1807.149 Program accessibility: discrimination prohibited. #####
+
+Except as otherwise provided in § 1807.150, no qualified individual with disabilities shall, because the NACIC's facilities are inaccessible to or unusable by individuals with disabilities, be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity conducted by the NACIC.

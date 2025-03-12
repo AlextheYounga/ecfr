@@ -1,0 +1,11 @@
+##### § 176.920 Exemptions. #####
+
+(a) In accordance with Chapter I (General Provisions) Regulation 4, of SOLAS, the Commandant may exempt a vessel, which is not normally engaged on an international voyage but that in exceptional circumstances is required to undertake a single international voyage from any of the requirements of the regulations of SOLAS provided that the vessel complies with safety requirements that are adequate, in the Commandant's opinion, for the voyage that is to be undertaken.
+
+(b) In accordance with Chapter II-1 (Construction—Subdivision and Stability, Machinery and Electrical Installations) Regulation 1, Chapter II-2 (Construction—Fire Protection, Fire Detection and Fire Extinction) Regulation 1, and Chapter III (Life Saving Appliances and Arrangements) Regulation 2 of SOLAS, the Commandant may exempt a vessel that does not proceed more than 20 miles from the nearest land from any of the specific requirements of Chapters II-1, II-2, and III of SOLAS if the Commandant determines that the sheltered nature and conditions of the voyage are such as to render the application of such requirements unreasonable or unnecessary.
+
+(c) The Commandant may exempt a vessel from requirements of the regulations of SOLAS in accordance with paragraphs (a) and (b) of this section upon a written request from the owner or managing operator submitted to the Commandant via the cognizant OCMI.
+
+(d) When the Commandant grants an exemption to a vessel in accordance with this section, the Commandant will authorize the cognizant OCMI to issue the original SOLAS Exemption Certificate describing the exemption. Subsequent SOLAS Exemption Certificates are issued by the cognizant OCMI unless any changes to the vessel or its operations have occurred that changes the information on the SOLAS Exemption or Passenger Ship Safety Certificates, in which case the Commandant will authorize the cognizant OCMI to reissue the certificate. A SOLAS Exemption Certificate is not valid for longer than the period of the SOLAS Passenger Ship Safety Certificate to which it refers.
+
+[CGD 85-080, 61 FR 953, Jan. 10, 1996; 61 FR 20557, May 7, 1996, as amended by USCG-2007-0030, 75 FR 78087, Dec. 14, 2010]

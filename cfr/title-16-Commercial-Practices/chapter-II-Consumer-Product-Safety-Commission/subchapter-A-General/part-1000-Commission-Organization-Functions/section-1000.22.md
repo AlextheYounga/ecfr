@@ -1,0 +1,3 @@
+##### § 1000.22 Office of Human Resources Management. #####
+
+The Office of Human Resources Management, which is managed by the Director of the Office, provides human resources management support to the Commission in the areas of recruitment and placement, position classification, training and executive development, employee and labor relations, employee benefits and retirement assistance, employee assistance programs, drug testing, leave administration, disciplinary and adverse actions, grievances and appeals, and performance management.

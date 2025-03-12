@@ -1,0 +1,9 @@
+##### § 776.66 Bar admission and disciplinary matters. #####
+
+(a) A covered attorney, in connection with any application for bar admission, appointment as a judge advocate, employment as a civilian USG attorney, certification by the JAG or his designee, or in connection with any disciplinary matter, shall not:
+
+(1) Knowingly make a false statement of fact; or
+
+(2) Fail to disclose a fact necessary to correct a misapprehension known by the person to have arisen in the matter, or knowingly fail to respond to a lawful demand for information from an admissions or disciplinary authority, except that this part does not require disclosure of information otherwise protected by § 776.25 of this part.
+
+(b) The duty imposed by subpart B of this part extends to covered attorneys and other attorneys seeking admission to a bar, application for appointment as a covered USG attorney (military or civilian) or certification by the JAG or his designee. Hence, if a person makes a false statement in connection with an application for admission or certification (e.g., misstatement by a civilian attorney before a military judge regarding qualifications under R.C.M. 502), it may be the basis for subsequent disciplinary action if the person is admitted, and in any event may be relevant in a subsequent admission application. The duty imposed by subpart B of this part applies to a covered attorney's own admission or discipline as well as that of others. Thus, it is a separate professional offense for a covered attorney to make a knowing misrepresentation or omission in connection with a disciplinary investigation of the covered attorney's own conduct. Subpart B of this part also requires affirmative clarification of any misunderstanding on the part of the admissions, certification, or disciplinary authority of which the person involved becomes aware.

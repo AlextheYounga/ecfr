@@ -1,0 +1,3 @@
+##### § 460.15 How installers must handle fact sheets. #####
+
+If you are an installer, you must have fact sheets for the insulation products you sell. Before customers agree to buy insulation from you, you must show them the fact sheet(s) for the type(s) of insulation they want. You can decide how to do this. For example, you can give each customer a copy of the fact sheet(s). You can keep the fact sheets in a binder, and show customers the binder before they agree to buy.

@@ -1,0 +1,3 @@
+##### § 887.0 Purpose. #####
+
+This part tells who may apply for a certificate in lieu of a lost or destroyed certificate of separation. It explains where and how to apply. It implements 10 U.S.C. 1041 and DOD Instruction 1332.13, December 23, 1968. This publication applies to ANG and USAFR members. It authorizes collection of information protected by the Privacy Act of 1974. The authority to collect the information is title 10, U.S.C. 8912 and Executive Order 9397. Each form used to collect personal information has an associated Privacy Act Statement that will be given to the individual before information is collected. System of records notice F035 AF MP C, Military Personnel Records System, applies.

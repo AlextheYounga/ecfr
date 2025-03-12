@@ -1,0 +1,5 @@
+##### § 187.1 Purpose. #####
+
+Executive Order 12114 provides the exclusive and complete requirement for taking account of considerations with respect to actions that do significant harm to the environment of places *outside* the United States. This part provides policy and procedures to enable Department of Defense (DoD) officials to be informed and take account of environmental considerations when authorizing or approving certain major Federal actions that do significant harm to the environment of places outside the United States. Its sole objective is to establish internal procedures to achieve this purpose, and nothing in it shall be construed to create a cause of action. Guidance for taking account of considerations with respect to the environment of places *within* the United States is set out in 32 CFR part 188 (under rev.) That guidance is grounded on legal and policy requirements different from those applicable to this part.
+
+[44 FR 21786, Apr. 14, 1979. Redesignated and amended at 56 FR 64481, Dec. 10, 1991]

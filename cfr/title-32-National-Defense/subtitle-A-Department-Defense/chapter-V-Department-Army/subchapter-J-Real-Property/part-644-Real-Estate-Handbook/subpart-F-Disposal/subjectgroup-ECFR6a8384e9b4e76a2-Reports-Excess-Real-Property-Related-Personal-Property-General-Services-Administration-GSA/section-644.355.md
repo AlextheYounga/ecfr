@@ -1,0 +1,11 @@
+##### § 644.355 Preparation and submission of reports of excess. #####
+
+(a) *Preparation* - (1) *General.* Reports of excess will be prepared on SF 118, with schedules, in accordance with the instructions contained in FPMR section 101-47.4902, and § 644.349 herein. However, since the type of information called for a Block 9 of standard form (SF) 118 and Columns f, g, h, and i of schedule A is not generally applicable to camps, airfields, etc., such information will be furnished only when it is available and can be furnished without additional cost. Reports of excess will include all related or appurtenant easements, licenses, and related personal property. Decontamination data will be included as prescribed in §§ 644.516 through 644.539. Information on flood hazard will be included as required by § 644.352.
+
+(2) *GSA regulations.* Pursuant to GSA regulations, all final reports of excess will be made only after the property has been determined excess to the needs of the Department of Defense and will bear the statement: “This property has been screened against the known defense needs of the Department of Defense.” Report of excess will indicate that the provisions of title 10, United States Code, section 2662, requiring reports to the Armed Services Committees of Congress, have been met, or that the report of excess is not subject to this section.
+
+(3) *Reports of excess - Air Force property.* The Air Force will prepare SF 118, with Schedules A and C, and transmit them to the DE for completion and execution. Land descriptions, title reports, and other data required by the FPMR will be the responsibility of the DE.
+
+(4) *Reports of excess - Army property.* DEs will prepare the SF 118 and the schedules for excess Army property.
+
+(b) *Submission.* Reports of excess will be transmitted directly by the DE to the appropriate regional office of GSA. Each DE making such reports of excess will assign a number in Block 1 of SF 118, beginning with No. 1 for the first report and continuing in numerical sequence for succeeding reports made during the calendar year. The number will be preceded by the symbol of the DE making the report and the calendar year e.g., SWF-79-6, for the sixth report submitted by Fort Worth District of Southwestern Division for calendar year 1979.

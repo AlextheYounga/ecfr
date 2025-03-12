@@ -1,0 +1,3 @@
+##### § 1801.3 Contact for general information and requests. #####
+
+For general information on this part, to inquire about the Privacy Act program at NACIC, or to file a Privacy Act request, please direct your communication in writing to the Information and Privacy Coordinator, Executive Secretariat Office, National Counterintelligence Center, 3W01 NHB, Washington, DC 20505. Requests with the required identification statement pursuant to § 1801.13 must be filed in original form by mail. Subsequent communications and any inquiries will be accepted by mail or facsimile at (703) 874-5844 or by telephone at (703) 874-4121. Collect calls cannot be accepted.

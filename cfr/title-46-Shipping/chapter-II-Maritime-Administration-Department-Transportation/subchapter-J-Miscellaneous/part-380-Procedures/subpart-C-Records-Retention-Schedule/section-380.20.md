@@ -1,0 +1,5 @@
+##### § 380.20 Purpose. #####
+
+The purpose of this subpart is to prescribe the procedure to be followed by contractors for the retention and disposal of books, records, and accounts created and maintained by them under construction or operating-differential subsidy contracts with the Maritime Administration/Maritime Subsidy Board (hereinafter referred to as the “Administration”). The minimum retention periods prescribed herein govern only the Administration's requirements for the preservation of the hereinafter specified books, records, and accounts. The failure to describe a particular book, record, or account shall not exempt a contractor from retaining the particular book, record, or account, unless expressly so authorized by the Administration.
+
+(Sec. 204(b), Merchant Marine Act, 1936, as amended (46 U.S.C. 1114(b)); Pub. L. 97-31 (August 6, 1981); 49 CFR 1.66 (46 FR 47458, Sept. 28, 1981))[48 FR 45560, Oct. 6, 1983]

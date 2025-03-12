@@ -1,0 +1,3 @@
+##### § 1501.1 Purpose. #####
+
+Section 1500.18(a)(9) of this chapter classifies as a banned hazardous substance any toy or other article intended for use by children under 3 years of age that presents a choking, aspiration, or ingestion hazard because of small parts. This part 1501 describes certain articles that are subject to § 1500.18(a)(9); lists certain articles that are specifically exempted; and provides a test method for determining whether an article is hazardous to children under 3 because it, or one of its components that can be detached or broken off during normal or reasonable foreseeable use, is too small.

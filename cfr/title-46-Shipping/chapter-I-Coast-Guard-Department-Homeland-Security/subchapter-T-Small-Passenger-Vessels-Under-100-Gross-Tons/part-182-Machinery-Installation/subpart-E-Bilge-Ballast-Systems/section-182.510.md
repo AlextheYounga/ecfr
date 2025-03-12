@@ -1,0 +1,9 @@
+##### § 182.510 Bilge piping system. #####
+
+(a) A vessel of at least 7.9 meters (26 feet) in length must be provided with individual bilge lines and bilge suctions for each watertight compartment, except that the space forward of the collision bulkhead need not be fitted with a bilge suction line when the arrangement of the vessel is such that ordinary leakage may be removed from this compartment by the use of a hand portable bilge pump or other equipment, and such equipment is provided.
+
+(b) A bilge pipe in a vessel of not more than 19.8 meters (65 feet) in length must be not less than 25 millimeters (1 inch) nominal pipe size. A bilge pipe in a vessel of more than 19.8 meters (65 feet) in length must be not less than 40 millimeters (1.5 inches) nominal pipe size. A bilge suction must be fitted with a suitable strainer having an open area not less than three times the area of the bilge pipe.
+
+(c) Except when individual pumps are provided for separate spaces, individual bilge suction lines must be led to a central control point or manifold and provided with a stop valve at the control point or manifold and a check valve at some accessible point in the bilge line. A stop-check valve located at a control point or manifold will meet the requirements for both a stop valve and a check valve.
+
+(d) A bilge pipe piercing the collision bulkhead must be fitted with a screw-down valve located on the forward side of the collision bulkhead and operable from the weather deck, or, if it is readily accessible under service conditions, a screw-down valve without a reach rod may be fitted to the bilge line on the after side of the collision bulkhead.

@@ -1,0 +1,3 @@
+##### § 500.20 Conspicuousness. #####
+
+The statement of net quantity of contents shall appear in conspicuous and easily legible boldface type or print in distinct contrast (by typography, layout, color, embossing, or molding) to other matter on the package; except that a statement of net quantity blown, embossed, or molded on a glass or plastic surface is permissible when all label information is so formed on the surface.

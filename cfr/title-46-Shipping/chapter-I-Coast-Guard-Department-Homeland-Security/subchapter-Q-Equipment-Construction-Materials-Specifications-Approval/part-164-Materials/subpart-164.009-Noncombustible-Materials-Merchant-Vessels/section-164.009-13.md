@@ -1,0 +1,3 @@
+##### § 164.009-13 Furnace calibration. #####
+
+A calibration is performed on each new furnace and on each existing furnace as often as necessary to ensure that the furnace is in good working order. In each calibration the energy input to the furnace is adjusted so that the furnace thermocouple gives a steady reading of 750 ±10 °C. The wall temperature of the furnace tube is then measured by an optical micro-pyrometer at intervals of 10mm on 3 equally spaced vertical axes. The furnace is correctly calibrated if the temperature of the furnace tube wall is between 825 and 875 °C. 50 mm above and below the midline of the wall and if the average wall temperature is approximately 850 °C.

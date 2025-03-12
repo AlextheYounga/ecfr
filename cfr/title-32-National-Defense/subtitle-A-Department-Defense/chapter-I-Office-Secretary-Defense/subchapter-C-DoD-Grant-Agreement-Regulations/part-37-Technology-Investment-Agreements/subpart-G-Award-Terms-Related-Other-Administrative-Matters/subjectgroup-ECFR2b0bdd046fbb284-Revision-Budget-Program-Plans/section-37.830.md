@@ -1,0 +1,3 @@
+##### § 37.830 May I let a recipient charge pre-award costs to the agreement? #####
+
+Pre-award costs, as long as they are otherwise allowable costs of the project, may be charged to an expenditure-based TIA only with the specific approval of the agreements officer. All pre-award costs are incurred at the recipient's risk (*i.e.,* no DoD Component is obligated to reimburse the costs if for any reason the recipient does not receive an award or if the award is less than anticipated and inadequate to cover the costs).

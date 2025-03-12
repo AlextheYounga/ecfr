@@ -1,0 +1,9 @@
+##### § 2.2 Complaint or request for Commission action. #####
+
+(a) A complaint or request for Commission action may be submitted via the Commission's web-based complaint site (*https://www.ftccomplaintassistant.gov/*); by a telephone call to 1-877-FTC-HELP (1-877-382-4357); or by a signed statement setting forth the alleged violation of law with such supporting information as is available, and the name and address of the person or persons complained of, filed with the Office of the Secretary in conformity with § 4.2(d) of this chapter. No forms or formal procedures are required.
+
+(b) The person making the complaint or request is not regarded as a party to any proceeding that might result from the investigation.
+
+(c) Where the complainant's identity is not otherwise made public, the Commission's policy is not to publish or divulge the name of a complainant except as authorized by law or by the Commission's rules. Complaints or requests submitted to the Commission may, however, be lodged in a database and made available to federal, state, local, and foreign law enforcement agencies that commit to maintain the privacy and security of the information provided. Further, where a complaint is by a consumer or consumer representative concerning a specific consumer product or service, the Commission in the course of a referral of the complaint or request, or in furtherance of an investigation, may disclose the identity of the complainant. In referring any such consumer complaint, the Commission specifically retains its right to take such action as it deems appropriate in the public interest and under any of the statutes it administers.
+
+[77 FR 59305, Sept. 27, 2012]

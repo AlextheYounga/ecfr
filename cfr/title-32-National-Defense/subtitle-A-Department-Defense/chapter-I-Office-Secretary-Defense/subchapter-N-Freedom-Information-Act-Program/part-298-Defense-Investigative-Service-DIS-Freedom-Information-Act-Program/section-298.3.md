@@ -1,0 +1,9 @@
+##### § 298.3 Records maintained by DIS. #####
+
+It is the policy of DIS to make publicly available all information which may be released under the Freedom of information Act (FOIA), consistent with its other responsibilities. In implementing this policy, DIS follows the procedures set forth in 32 CFR part 286. DIS maintains the following records which may be of interest to the public:
+
+(a) The Defense Clearance and Investigations Index (DCII), which contains references to investigative records created and held by DoD Components. The records indexed are primarily those prepared by the investigative agencies of the DoD, covering criminal, fraud, counterintelligence, and personnel security information. This index also includes security clearance determinations made by the various components of the Department of Defense. Information in the DCII is not usually available to the general public, since general release would violate the privacy of individuals whose names are indexed therein.
+
+(b) Records created as required by DoD Directive 5105.42, “Defense Investigative Service (DA&M),” (32 CFR part 361) including investigative and industrial security records.
+
+(c) Publications referenced in “DIS Directives Listing” (DIS 00-1-L). A copy of DIS 00-1-L may be obtained upon request from the DIS Office of Information and Public Affairs (V0020), 1340 Braddock Place, Alexandria, VA 22314-1651. While this document will be provided for the convenience of possible users of the materials, such release does not constitute a determination that all or any of the publications listed affect the public or have been cleared for public release.

@@ -1,0 +1,3 @@
+##### § 9.16 Billing for services. #####
+
+Overtime services shall be billed to the steamship companies on collection voucher provided for that purpose. Remittance shall be made by postal money order or certified check payable to the *Collector of Customs, Treasury Department* and forwarded to that officer at the port indicated on the voucher, who shall in turn deposit such remittance to a properly designated receipt account.

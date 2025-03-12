@@ -1,0 +1,3 @@
+##### § 502.184 Complainant's memorandum in reply. #####
+
+Within fifteen (15) days after the date of service of the answering memorandum prescribed in § 502.183, unless a shorter period is fixed, each complainant may file a memorandum in reply, subscribed and verified according to § 502.112, served as provided in § 502.114, and accompanied by copies for the Commission's use. This will close the record for decision unless the presiding officer determines that the record is insufficient and orders the submission of additional evidentiary materials. [Rule 184.]

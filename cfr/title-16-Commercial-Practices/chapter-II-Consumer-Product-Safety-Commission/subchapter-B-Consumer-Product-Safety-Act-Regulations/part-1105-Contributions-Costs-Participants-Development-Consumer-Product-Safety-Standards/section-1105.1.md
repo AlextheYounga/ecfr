@@ -1,0 +1,3 @@
+##### § 1105.1 Purpose. #####
+
+The purpose of this part is to describe the factors the Commission considers when determining whether or not to contribute to the cost of an individual, a group of individuals, a public or private organization or association, partnership or corporation (hereinafter “participant”) who participates with the Commission in developing standards. The provisions of this part do not apply to and do not affect the Commission's ability and authority to contract with persons or groups outside the Commission to aid the Commission in developing proposed standards.

@@ -1,0 +1,3 @@
+##### § 108.421 Location of fire pumps and associated equipment. #####
+
+Each fire pump required by § 108.415, and the source of power, controls, sea connections for the fire pump, and booster pumps, if installed, must be installed in locations where, if a fire occurs in an enclosed space, all of the fire pumps on the unit are not made inoperative, except that if compliance with this requirement is impracticable, a gas type extinguishing system may be installed to protect at least one of the fire pumps, its source of power, and controls.

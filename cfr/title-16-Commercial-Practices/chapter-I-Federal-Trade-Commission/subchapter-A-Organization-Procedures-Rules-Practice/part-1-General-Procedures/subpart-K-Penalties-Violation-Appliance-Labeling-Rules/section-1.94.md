@@ -1,0 +1,3 @@
+##### § 1.94 Commission proceeding to assess civil penalty. #####
+
+If the respondent fails to elect to have the procedures of § 1.95 apply, the Commission shall determine whether to issue a complaint and thereby commence an adjudicative proceeding in conformance with section 333(d)(2)(A) of the Energy Policy and Conservation Act, 42 U.S.C. 6303(d)(2)(A). If the Commission votes to issue a complaint, the proceeding shall be conducted in accordance with subparts B, C, D, E and F of part 3 of this chapter, unless otherwise ordered in the notice of proposed penalty. In assessing a penalty, the Commission shall take into account the factors listed in § 1.97.

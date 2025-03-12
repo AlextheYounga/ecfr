@@ -1,0 +1,3 @@
+##### § 1014.1 Purpose and scope. #####
+
+This part sets forth the regulations of the Consumer Product Safety Commission implementing the Privacy Act of 1974 (Pub. L. 93-579). The purpose of these regulations is to inform the public about records maintained by the Commission which contain personal information about individuals, and to inform those individuals how they may seek access to and correct records concerning themselves. These regulations do not apply to requests for information made pursuant to the Freedom of Information Act (except where such disclosures would constitute an invasion of privacy of an individual).

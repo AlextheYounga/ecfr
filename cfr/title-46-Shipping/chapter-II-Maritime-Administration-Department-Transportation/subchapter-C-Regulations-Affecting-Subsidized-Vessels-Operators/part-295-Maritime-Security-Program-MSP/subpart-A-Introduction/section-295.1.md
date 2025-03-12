@@ -1,0 +1,3 @@
+##### § 295.1 Purpose. #####
+
+This part prescribes regulations implementing the provisions of subtitle B (Maritime Security Fleet Program) of title VI of the Merchant Marine Act, 1936, as amended, governing Maritime Security Program payments for vessels operating in the foreign trade or mixed foreign and domestic commerce of the United States allowed under a registry endorsement issued under 46 U.S.C. 12105.

@@ -1,0 +1,3 @@
+##### § 536.54 Joint tortfeasors. #####
+
+When joint tortfeasors are liable, it is DA policy to pay only the fair share of a claim attributable to the fault of the United States rather than pay the claim in full and then bring suit against the joint tortfeasor for contribution. If payment from a joint tortfeasor is not forthcoming after the CJA's demand, the United States should settle for its fair share, provided the claimant is willing to hold the United States harmless. Where a joint tortfeasor's liability greatly outweighs that of the United States, the claim should be referred to the joint tortfeasor for action.

@@ -1,0 +1,3 @@
+##### § 460.2 What is home insulation. #####
+
+Insulation is any material mainly used to slow down heat flow. It may be mineral or organic, fibrous, cellular, or reflective (aluminum foil). It may be in rigid, semirigid, flexible, or loose-fill form. Home insulation is for use in old or new homes, condominiums, cooperatives, apartments, modular homes, or mobile homes. It does not include pipe insulation. It does not include any kind of duct insulation except for duct wrap.

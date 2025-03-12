@@ -1,0 +1,3 @@
+##### § 887.9 Furnishing photocopies of documents. #####
+
+This part does not prohibit authorities (see § 887.8) from supplying photocopies of certificates of service, reports of separation, or similar documents. Agencies that provide copies of DD Form 214 (or their equivalent) will conspicuously affix an “official” seal or stamp on them to indicate that these documents are copies made from official United States Air Force military personnel records.

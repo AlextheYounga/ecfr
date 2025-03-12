@@ -1,0 +1,5 @@
+##### § 70.05-5 Specific application noted in text. #####
+
+(a) At the beginning of the various parts, subparts, and sections, a more specific application is generally given for the particular portion of the text involved. This application sets forth the types, sizes, or services or vessels to which the text pertains, and in many cases limits the application of the text to vessels contracted for before or after a specific date. As used in this subchapter, the term *vessels contracted for* includes not only the contracting for the construction of a vessel, but also the contracting for a material alteration to a vessel, the contracting for the conversion of a vessel to a passenger vessel, and the changing of service or route of a vessel if such change increases or modifies the general requirements for the vessel or increases the hazards to which it might be subjected.
+
+(b) [Reserved]

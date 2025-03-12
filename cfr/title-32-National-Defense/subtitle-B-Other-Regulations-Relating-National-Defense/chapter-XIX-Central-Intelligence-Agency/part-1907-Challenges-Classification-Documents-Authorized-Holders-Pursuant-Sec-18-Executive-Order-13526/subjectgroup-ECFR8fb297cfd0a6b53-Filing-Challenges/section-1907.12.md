@@ -1,0 +1,5 @@
+##### § 1907.12 Requirements as to form. #####
+
+The challenge shall include identification of the challenger by full name, Executive Branch agency, title of position, and information required for verification of access, security clearance, and status as an authorized holder of the CIA information in question. In addition, the challenger must clearly identify documents or portions of documents at issue and identify and describe the reasons why it is believed that the information is improperly classified. The challenge, itself, must be properly marked and classified and, in this regard, the authorized holder must assume the current classification status and marking of the information is correct until determined otherwise unless the challenger asserts that the information marked unclassified should be classified or that the information should be classified at a higher level, in which case the challenger should mark the challenge and related documents at the asserted classification level.
+
+[76 FR 59031, Sept. 23, 2011]

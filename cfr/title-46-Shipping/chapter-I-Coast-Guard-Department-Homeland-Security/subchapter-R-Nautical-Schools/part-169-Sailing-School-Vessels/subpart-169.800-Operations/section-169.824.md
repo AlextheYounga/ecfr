@@ -1,0 +1,3 @@
+##### § 169.824 Compliance with provisions of certificate of inspection. #####
+
+The master or person in charge of the vessel shall see that all of the provisions of the certificate of inspection are strictly adhered to. Nothing in this subpart shall be construed as limiting the master or person in charge of the vessel, on his own responsibility, from diverting from the route prescribed in the certificate of inspection or taking such other steps as he deems necessary and prudent to assist vessels in distress or for other similar emergencies.

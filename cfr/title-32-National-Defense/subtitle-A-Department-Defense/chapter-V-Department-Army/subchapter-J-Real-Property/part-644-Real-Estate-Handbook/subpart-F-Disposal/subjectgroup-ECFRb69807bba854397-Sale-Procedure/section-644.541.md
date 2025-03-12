@@ -1,0 +1,9 @@
+##### § 644.541 Award of contract. #####
+
+(a) *Opening of bids.* All bids shall be opened and publicly disclosed by a duly authorized representative of the responsible DE at the time and place stated in the Invitation and advertisements.
+
+(b) *Award and notice to bidders.* Award shall be made with reasonable promptness by notice to the responsible bidder whose bid, conforming to the Invitation for Bids, will be most advantageous to the Government, price and other factors considered, provided that any or all bids may be rejected when it is in the public interest to do so. When an award is made, unsuccessful bidders should be notified promptly and their earnest money deposits returned.
+
+(c) *Equal offers.* Equal offers mean two or more offers that are equal in all respects taking into consideration the best interests of the Government. When equal acceptable offers are received, award shall be made by a drawing by lot limited to the equal acceptable offers received (See also § 644.542.)
+
+(d) *Public auction.* When authorized by GSA, sales of surplus property may be made through contract auctioneers. Consideration should be given to auction sales when there is likely to be considerable interest in the property. GSA Regional Offices have had experience with actions, maintain lists of qualified auctioneers, are in a position to give other advice and assistance, and may authorize auction sales on behalf of GSA, pursuant to FPMR 101-47.304-7. Auctioneers retained under contract shall be required to publicly advertise for bids in accordance with applicable provisions of that regulation. The prior approval of DAEN-REM will be obtained before auction sales are undertaken.

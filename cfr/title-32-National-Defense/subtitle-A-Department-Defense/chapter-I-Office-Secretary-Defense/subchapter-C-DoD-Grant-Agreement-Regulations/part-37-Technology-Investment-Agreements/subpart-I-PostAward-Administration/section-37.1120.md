@@ -1,0 +1,3 @@
+##### § 37.1120 When and how may I request an award-specific audit? #####
+
+Guidance on when and how you should request additional audits for expenditure-based TIAs is identical to the guidance for grants officers in 32 CFR 34.16(d). If you require an award-specific examination or audit of a for-profit participant's records related to a TIA, you must use the auditor specified in the award terms and conditions, which should be the same auditor who performs periodic audits of the participant. The DCAA and the OIG, DoD, are possible sources of advice on audit-related issues, such as appropriate audit objectives and scope.

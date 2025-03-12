@@ -1,0 +1,3 @@
+##### § 1304.2 Purpose. #####
+
+The purpose of this rule is to ban consumer patching compounds containing intentionally added respirable, free-form asbestos. These products present an unreasonable risk of injury due to inhalation of fibers which increase the risk of developing cancer, including lung cancer and mesothelioma, diseases which have been demonstrated to be caused by exposure to asbestos fibers.

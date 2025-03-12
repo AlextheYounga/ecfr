@@ -1,0 +1,17 @@
+##### § 1631.34 Small carpets and rugs not meeting acceptance criterion. #####
+
+(a) If any small carpet or rug as defined in the Standard for the Surface Flammability of Small Carpets and Rugs (pill test) FF 2-70, is manufactured, imported, or otherwise marketed or handled and does not meet the acceptance criterion of such standard, it shall, prior to its introduction into commerce, be legibly and conspicuously labeled with a permanent label which sets forth the following statement:
+
+“FLAMMABLE (FAILS U.S. DEPARTMENT OF COMMERCE STANDARD FF 2-70): SHOULD NOT BE USED NEAR SOURCES OF IGNITION.”The required cautionary statement may be set out on or affixed to the small carpet or rug on the same label as the fiber content label required to be affixed under the Textile Fiber Products Identification Act, if said label is permanent, or said statement shall be set forth on a separate permanent label on or affixed to the small carpet or rug in immediate proximity to the said required label under the Textile Fiber Products Identification Act. A label on the front of a small carpet or rug shall be considered to be in immediate proximity to a label on the back, provided they are directly opposite each other and are in immediate proximity to the edge of the small carpet or rug.
+
+(b) Such cautionary statements shall also appear in a conspicuous manner in all advertisements in which said small carpets or rugs are being offered for sale through direct mail, telephone solicitation, or under any other circumstances where the consumer, in the ordinary course of dealing, will not have an opportunity to inspect the label before receiving the merchandise. The phrase “Flammable—Read The Label” shall conspicuously appear in all other advertisements of small carpets or rugs which do not meet the acceptance criterion of the standard.
+
+(c) The information required by this section shall be set forth separately from any other information, representations, or disclosures appearing on the same label or elsewhere on the small carpet or rug, and any such other information, representations, or disclosures shall in no way interfere with, minimize, detract from, or conflict with the information required by this section.
+
+(d) Samples, swatches, or specimens used to promote or effect the sale of small carpets or rugs shall be labeled with the information required by this section, in addition to the label required to be affixed to the small carpets or rugs.
+
+(e) Where small carpets or rugs are marketed at retail in packages, and the labeling information required by this section is not readily visible to prospective purchasers, the packages must also be prominently, conspicuously, and legibly labeled with the information required by this section.
+
+(f) No person, other than the ultimate consumer, shall remove, mutilate, or cause or participate in the removal or mutilation of any affixed labeling information required by this section.
+
+(g) No person subject to the Flammable Fabrics Act shall manufacture, import, distribute, or otherwise market or handle any small carpet or rug, including samples, swatches, or specimens used to promote or effect the sale thereof, which is not in compliance with this section.

@@ -1,0 +1,5 @@
+##### § 1025.63 Written appearances. #####
+
+(a) *Filing.* Any person who appears in any proceedings shall file a written notice of appearance with the Secretary or deliver a written notice of appearance to the Presiding Officer at the hearing, stating for whom the appearance is made and the name, address, and telephone number (including area code) of the person making the appearance and the date of the commencement of the appearance. The written appearance shall be made a part of the record.
+
+(b) *Withdrawal.* Any person who has previously appeared in any proceedings may withdraw his/her appearance by filing a written notice of withdrawal of appearance with the Secretary. The notice of withdrawal of appearance shall state the name, address, and telephone number (including area code) of the person withdrawing the appearance, for whom the appearance was made, and the effective date of the withdrawal of the appearance. Such notice of withdrawal shall be filed within five (5) days of the effective date of the withdrawal of the appearance.

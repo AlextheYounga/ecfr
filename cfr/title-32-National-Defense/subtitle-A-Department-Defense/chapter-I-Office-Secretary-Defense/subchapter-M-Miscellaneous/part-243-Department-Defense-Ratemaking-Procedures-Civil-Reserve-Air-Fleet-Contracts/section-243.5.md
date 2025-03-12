@@ -1,0 +1,7 @@
+##### § 243.5 Commitment of aircraft as a business factor. #####
+
+For the purpose of rate making, the average fleet cost of aircraft proposed by the carriers for the forecast year is used. Actual awards to CRAF carriers are based upon the aircraft accepted into the CRAF program. The Secretary may, in determining the quantity of business to be received under an airlift services contract for which the rate of payment is determined in accordance with subsection (a) of 10 U.S.C. 9511a, use as a factor the relative amount of airlift capability committed by each air carrier to the CRAF.
+
+(a) *Adjustments in commitment to target specific needs of the contract period.* The amount of business awarded in return for commitment to the program under a CRAF contract may be adjusted prior to the award of the contract to reflect increased importance of identified aircraft categories (e.g., Aeromedical Evacuation) or performance factors (e.g., flyer's bonus, superior on-time performers, etc.). These adjustments will be identified in the solicitation.
+
+(b) *Exclusions of categories of business from commitment based awards.* Where adequate competition is available and USTRANSCOM determines some part of the business is more appropriate for award under competitive procedures, the rate-making will not apply. Changes to areas of business will be reflected in the solicitation.

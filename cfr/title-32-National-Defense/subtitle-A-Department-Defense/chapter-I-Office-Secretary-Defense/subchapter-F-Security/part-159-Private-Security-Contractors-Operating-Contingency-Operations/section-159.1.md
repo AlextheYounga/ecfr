@@ -1,0 +1,3 @@
+##### § 159.1 Purpose. #####
+
+This part establishes policy, assigns responsibilities and provides procedures for the regulation of the selection, accountability, training, equipping, and conduct of personnel performing private security functions under a covered contract. It also assigns responsibilities and establishes procedures for incident reporting, use of and accountability for equipment, rules for the use of force, and a process for administrative action or the removal, as appropriate, of PSCs and PSC personnel.

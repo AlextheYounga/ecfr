@@ -1,0 +1,5 @@
+##### § 300.27 Wool products containing superimposed or added fibers. #####
+
+Where a wool product is made wholly of one fiber or a blend of fibers with the exception of an additional fiber in minor proportion superimposed or added in certain separate and distinct areas or sections for reinforcing or other useful purposes, the product may be designated according to the fiber content of the principal fiber or blend of fibers, with an excepting naming the superimposed or added fiber, giving the percentage thereof in relation to the total fiber weight of the principal fiber or blend of fibers, and indicating the area or section which contains the superimposed or added fiber. An example of this type of fiber content disclosure, as applied to products having reinforcing fibers added to a particular area or section, is as follows:
+
+55% Recycled Wool45% RayonExcept 5% Nylon added to toe and heel[29 FR 6626, May 21, 1964, as amended at 45 FR 44262, July 1, 1980]

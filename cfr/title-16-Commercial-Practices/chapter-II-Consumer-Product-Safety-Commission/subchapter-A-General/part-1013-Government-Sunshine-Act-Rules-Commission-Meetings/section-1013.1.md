@@ -1,0 +1,5 @@
+##### § 1013.1 General policy considerations; scope. #####
+
+(a) In enacting the Government in the Sunshine Act, 5 U.S.C. 552b, the Congress stated the policy that, to the fullest practicable extent, the public is entitled to information regarding the decisionmaking processes of the Federal Government. The purpose of the Government in the Sunshine Act is to provide the public with such information while protecting both the rights of individuals and the ability of the Government to carry out its responsibilities. When the Commissioners of the Consumer Product Safety Commission hold meetings for the purpose of jointly conducting or disposing of Commission business they will conduct these meetings in accordance with the provisions of the Government in the Sunshine Act.
+
+(b) This part 1013 prescribes rules the Commission follows in carrying out the Government in the Sunshine Act.

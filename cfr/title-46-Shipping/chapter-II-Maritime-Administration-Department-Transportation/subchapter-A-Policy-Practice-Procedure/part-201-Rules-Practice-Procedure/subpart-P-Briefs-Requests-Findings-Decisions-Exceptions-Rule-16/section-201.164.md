@@ -1,0 +1,3 @@
+##### § 201.164 Certification of record by presiding officer. #####
+
+The presiding officer shall certify and transmit the entire record to the Administration when: (a) Exceptions are filed or the time therefor has expired, (b) notice is given by the Administration that the initial or recommended decision will be reviewed on its own initiative, or (c) the Administration requires the case to be certified to it for initial decision.

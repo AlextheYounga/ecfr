@@ -1,0 +1,9 @@
+##### § 17.6 Disclosures. #####
+
+(a) *General.* Unless directed otherwise by the Presiding Officer upon a showing of good cause or for some other reason, counsel for the Prosecution and the Defense shall provide to opposing counsel, at least one week prior to the scheduled convening of a military commission, copies of all information intended for presentation as evidence at trial, copies of all motions the party intends to raise before the military commission, and names and contact information of all witnesses a party intends to call. Motions shall also be provided to the Presiding Officer at the time they are provided to opposing counsel. Unless directed otherwise by the Presiding Officer, written responses to any motions will be provided to opposing counsel and the Presiding Officer no later than three days prior to the scheduled convening of a military commission.
+
+(b) *Notifications by the prosecution.* The Prosecution shall provide the Defense with access to evidence known to the Prosecution that tends to exculpate the Accused as soon as practicable, and in no instance later than one week prior to the scheduled convening of a military commission.
+
+(c) *Notifications by the defense.* The Defense shall give notice to the Prosecution of any intent to raise an affirmative defense to any charge at least one week prior to the scheduled convening of a military commission.
+
+(d) *Evidence related to mental responsibility.* If the Defense indicates an intent to raise a defense of lack of mental responsibility or introduce expert testimony regarding an Accused's mental condition, the prosecution may require that the Accused submit to a mental examination by a military psychologist or psychiatrist, and both parties shall have access to the results of that examination.

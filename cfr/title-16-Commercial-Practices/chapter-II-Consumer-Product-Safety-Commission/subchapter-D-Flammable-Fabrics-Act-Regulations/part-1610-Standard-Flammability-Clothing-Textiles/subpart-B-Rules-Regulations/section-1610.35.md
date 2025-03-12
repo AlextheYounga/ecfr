@@ -1,0 +1,9 @@
+##### § 1610.35 Procedures for testing special types of textile fabrics under the standard. #####
+
+(a) *Fabric not customarily washed or dry cleaned.* (1) Except as provided in paragraph (a)(2) of this section, any textile fabric or article of wearing apparel which, in its normal and customary use as wearing apparel would not be dry cleaned or washed, need not be dry cleaned or washed as prescribed in § 1610.6(b) when tested under the Standard if such fabric or article of wearing apparel, when marketed or handled, is marked in a clear and legible manner with the statement: “Fabric may be dangerously flammable if dry cleaned or washed.” An example of the type of fabric referred to in this paragraph is bridal illusion.
+
+(2) Section 1610.3, which requires that all textiles shall be refurbished before testing, shall not apply to disposable fabrics and garments. Additionally, such disposable fabrics and garments shall not be subject to the labeling requirements set forth in paragraph (a)(1) of this section.
+
+(b) A coated fabric need not, upon test under the procedures outlined in subpart A of part 1610, be dry cleaned as set forth in § 1610.6(b)(1)(i).
+
+(c) In determining whether a textile fabric having a raised-fiber surface, which surface is to be used in the covered or unexposed parts of articles of wearing apparel, is so highly flammable as to be dangerous when worn by individuals, only the opposite surface or surface intended to be exposed need be tested under the applicable procedures set forth in § 1610.6, providing an invoice or other paper covering the marketing or handling of such fabric is given which clearly designates that the raised-fiber surface is to be used only in the covered or unexposed parts of articles of wearing apparel.

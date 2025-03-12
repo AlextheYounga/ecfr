@@ -1,0 +1,3 @@
+##### § 1000.15 Office of Congressional Relations. #####
+
+The Office of Congressional Relations is the principal contact with the committees and members of Congress and state legislative bodies. It performs liaison duties for the Commission, provides information and assistance to Congress on matters of Commission policy, and coordinates testimony and appearances by Commissioners and agency personnel before Congress.

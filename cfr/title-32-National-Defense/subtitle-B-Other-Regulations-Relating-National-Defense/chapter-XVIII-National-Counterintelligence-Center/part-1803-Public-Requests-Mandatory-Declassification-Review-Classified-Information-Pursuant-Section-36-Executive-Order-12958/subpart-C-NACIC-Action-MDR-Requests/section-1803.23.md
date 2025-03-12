@@ -1,0 +1,7 @@
+##### § 1803.23 Determination by originator or interested party. #####
+
+(a) *In general.* The originator of the classified information (document) is a required party to any mandatory declassification review request; other interested parties may become involved through a referral by the Coordinator when it is determined that some or all of the information is also within their official cognizance.
+
+(b) *Required determinations.* These parties shall respond in writing to the Coordinator with a finding as to the classified status of the information including the category of protected information as set forth in § 1.5 of this Order, and, if older than ten (10) years, the basis for the extension of classification time under §§ 1.6 and 3.4 of this Order. These parties shall also provide a statement as to whether or not there is any other statutory, common law, or Constitutional basis for withholding as required by § 6.1(c) of this Order.
+
+(c) *Time.* This response shall be provided expeditiously on a first-in, first-out basis taking into account the business requirements of the originator or interested parties and consistent with the information rights of members of the general public under the Freedom of Information Act and the Privacy Act.

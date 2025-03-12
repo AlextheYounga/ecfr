@@ -1,0 +1,3 @@
+##### § 204.2 Applicability. #####
+
+This part applies to the Office of the Secretary of Defense, the Military Departments, the Chairman of the Joint Chiefs of Staff, the Combatant Commands, and the Defense Agencies (hereafter referred to collectively as “DoD Components”). None of the provisions in this part should be construed as giving authority for the sale or lease of property, or the rendering of special services. Actions to convey such special benefits must be authorized by separate authority. This user fee policy is applicable except when other statutes or directives specifically direct other practices or procedures.

@@ -1,0 +1,3 @@
+##### § 651.46 Existing EISs. #####
+
+A newly proposed action must be the subject of a separate EIS. The proponent may extract and revise the existing environmental documents in such a way as to bring them completely up to date, in light of the new proposals. Such a revised EIS will be prepared and processed entirely under the provisions of this part. If an EIS of another agency is adopted, it must be processed in accordance with 40 CFR 1506.3. Figures 4 through 8 to Subpart F of part 651 follow:

@@ -1,0 +1,3 @@
+##### § 700.832 Environmental pollution. #####
+
+The commanding officer shall cooperate with Federal, state and local governmental authorities in the prevention, control and abatement of environmental pollution. If the requirements of any environmental law cannot be achieved because of operational considerations, insufficient resources or other reason, the commanding officer shall report to the immediate superior in the chain of command. The commanding officer shall be aware of existing policies regarding pollution control, and should recommend remedial measures when appropriate.

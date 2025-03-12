@@ -1,0 +1,3 @@
+##### § 643.119 Licenses incidental to post administration. #####
+
+Installation commanders may authorize the use of property incidental to post administration which in the absence of such authority would amount to a trespass, such as licenses to merchants to enter the reservation to make deliveries. The authority noted herein may not be used to grant licenses in situations otherwise covered by this regulation.

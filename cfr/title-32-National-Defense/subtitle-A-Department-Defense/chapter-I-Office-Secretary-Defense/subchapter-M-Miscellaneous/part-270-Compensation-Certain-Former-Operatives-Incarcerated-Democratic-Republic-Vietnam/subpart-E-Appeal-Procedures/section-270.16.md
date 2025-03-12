@@ -1,0 +1,3 @@
+##### § 270.16 Notice of the Commission's determinations. #####
+
+Applicants whose claims for payment are denied in whole or in part by the Commission will be notified in writing of the determination. Applicants may petition the Assistant Secretary of Defense, Force Management Policy (or his designee) for a reconsideration of the Commission's determinations, and may submit any documentation in support of such petitions.

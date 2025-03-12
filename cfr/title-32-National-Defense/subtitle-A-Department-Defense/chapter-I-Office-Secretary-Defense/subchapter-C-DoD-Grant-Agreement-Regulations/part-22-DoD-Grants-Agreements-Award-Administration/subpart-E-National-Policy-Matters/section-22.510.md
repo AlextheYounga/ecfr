@@ -1,0 +1,19 @@
+##### § 22.510 Certifications, representations, and assurances. #####
+
+(a) *Certifications* - (1) *Policy.* Certifications of compliance with national policy requirements are to be obtained from recipients only for those national policies where a statute, Executive order, or codified regulation specifically states that a certification is required. Other national policy requirements may be addressed by obtaining representations or assurances (see paragraph (b) of this section). Grants officers should utilize methods for obtaining certifications, in accordance with Executive Order 12866 (3 CFR, 1993 Comp., p. 638), that minimize administration and paperwork.
+
+(2) *Procedures.* (i) When necessary, grants officers may obtain individual, written certifications.
+
+(ii) Whenever possible, and to the extent consistent with statute and codified regulation, grants officers should identify the certifications that are required for the particular type of recipient and program, and consolidate them into a single certification provision that cites them by reference.
+
+(A) If a grants officer elects to have proposers incorporate certifications by reference into their proposals, he or she must do so in one of the two following ways. When required by statute or codified regulation, the solicitation must include the full text of the certifications that proposers are to provide by reference. In other cases, the grants officer may include language in the solicitation that informs the proposers where the full text may be found (*e.g.,* in documents or computer network sites that are readily available to the public) and offers to provide it to proposers upon request.
+
+(B) Appendix A to this part provides language that may be used for incorporating by reference the certification on lobbying, which currently is the only certification requirement that commonly applies to DoD grants and agreements. Because that certification is required by law to be submitted at the time of proposal, rather than at the time of award, Appendix A includes language to incorporate the certification by reference into a proposal.
+
+(C) Grants officers may incorporate certifications by reference in award documents when doing so is consistent with statute and codified regulation (that is not the case for the lobbying certification addressed in paragraph (a)(2)(ii)(B) of this section). The provision that a grants officer would use to incorporate certifications in award documents, when consistent with statute and codified regulation, would be similar to the provision in Appendix A to this part, except that it would be modified to state that the recipient is providing the required certifications by signing the award document or by accepting funds under the award.
+
+(b) *Representations and assurances.* Many national policies, either in statute or in regulation, require recipients of grants and cooperative agreements to make representations or provide assurances (rather than certifications) that they are in compliance with the policies. As discussed in § 22.610(b), Appendix B to this part suggests award terms and conditions that may be used to address several of the more commonly applicable national policy requirements. These terms and conditions may be used to obtain required assurances and representations, if the grants officer wishes to do so at the time of award, rather than through the use of the standard application form (SF-4248) or other means at the time of proposal.
+
+8 For copies of Standard Forms listed in this part, contact regional grants administration offices of the Office of Naval Research. Addresses for the offices are listed in the “Federal Directory of Contract Administration Services (CAS) Components,” which may be accessed through the Defense Contract Management Agency homepage at: *http://www.dcma.mil.*
+
+[63 FR 12164, Mar. 12, 1998, as amended at 70 FR 49464, Aug. 23, 2005]

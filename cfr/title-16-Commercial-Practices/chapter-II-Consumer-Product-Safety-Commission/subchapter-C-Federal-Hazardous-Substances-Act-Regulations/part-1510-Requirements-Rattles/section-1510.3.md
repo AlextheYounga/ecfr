@@ -1,0 +1,3 @@
+##### § 1510.3 Requirements. #####
+
+No portion of a rattle, when tested in accordance with the procedure of § 1510.4 below, shall be capable of entering and penetrating to the full depth of a cavity in a test fixture with dimensions shown in figure 1. (In determining these dimensions for compliance purposes, the English measurements shall be used. Metric equivalents are included for convenience.) Rattles shall meet this requirement both before and after performing the use and abuse tests of § 1500.51 of this chapter (excluding the bite and flexure tests of paragraphs (c) and (d)).

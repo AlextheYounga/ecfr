@@ -1,0 +1,3 @@
+##### § 770.28 Entry restrictions. #####
+
+Each commander is responsible for the security of his/her command. Therefore, entry onto a command or into part of a command may be controlled by the commander through the imposition of such restrictions as may be required by attendant circumstances. Within the State of Hawaii, entry into a naval installation is not permitted without the permission of the responsible commander.

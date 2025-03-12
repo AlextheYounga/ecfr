@@ -1,0 +1,5 @@
+##### § 763.3 Background. #####
+
+(a) Kaho'olawe Island is used by the armed forces of the United States as a training area including bombing and gunnery training ranges under authority granted by Executive Order No. 10436. Training operations frequently involve the use of live ordnance, creating an obvious danger to persons on or near the island. Moreover, a large amount of unexploded ordnance is present on Kaho'olawe Island and in adjacent waters.
+
+(b) Individuals who enter the island of Kaho'olawe without authority expose themselves to extremely hazardous conditions. In addition, the presence of unauthorized persons on Kaho'olawe Island or in adjacent waters is likely to interfere with the use of the island for military training. Accordingly, it is necessary to prohibit entry to Kaho'olawe Island except under the controlled circumstances set forth in this subpart.

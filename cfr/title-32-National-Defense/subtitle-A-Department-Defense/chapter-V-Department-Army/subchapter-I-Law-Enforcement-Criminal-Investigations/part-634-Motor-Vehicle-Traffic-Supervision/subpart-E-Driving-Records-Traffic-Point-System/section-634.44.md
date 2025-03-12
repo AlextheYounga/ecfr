@@ -1,0 +1,3 @@
+##### § 634.44 The traffic point system. #####
+
+The traffic point system provides a uniform administrative device to impartially judge driving performance of Service and DLA personnel. This system is not a disciplinary measure or a substitute for punitive action. Further, this system is not intended to interfere in any way with the reasonable exercise of an installation commander's prerogative to issue, suspend, revoke, deny, or reinstate installation driving privileges.

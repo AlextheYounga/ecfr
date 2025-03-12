@@ -1,0 +1,3 @@
+##### § 2400.37 Mandatory review. #####
+
+Except as provided in this paragraph, OSTP shall process mandatory review requests for classified records containing foreign government information in accordance with § 2400.21. The agency that initially received or classified the foreign government information shall be responsible for making a declassification determination after consultation with concerned agencies. If OSTP receives a request for mandatory review and is not the agency that received or classified the foreign government information, it shall refer the request to the appropriate agency for action. Consultation with the foreign originator through appropriate channels may be necessary prior to final action on the request.

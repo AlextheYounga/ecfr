@@ -1,0 +1,3 @@
+##### § 2001.20 General. #####
+
+A uniform security classification system requires that standard markings or other indicia be applied to classified information. Except in extraordinary circumstances, or as approved by the Director of ISOO, the marking of classified information shall not deviate from the following prescribed formats. If markings cannot be affixed to specific classified information or materials, the originator shall provide holders or recipients of the information with written instructions for protecting the information. Markings shall be uniformly and conspicuously applied to leave no doubt about the classified status of the information, the level of protection required, and the duration of classification.

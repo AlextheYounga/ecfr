@@ -1,0 +1,3 @@
+##### § 4.09-15 Time and place of investigation, notice of; rights of witnesses, etc. #####
+
+Reasonable notice of the time and place of the investigation shall be given to any person whose conduct is or may be under investigation and to any other party in interest. All parties in interest shall be allowed to be represented by counsel, to cross-examine witnesses, and to call witnesses in their own behalf.

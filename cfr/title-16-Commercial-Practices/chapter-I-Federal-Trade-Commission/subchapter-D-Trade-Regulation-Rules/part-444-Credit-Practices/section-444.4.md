@@ -1,0 +1,5 @@
+##### § 444.4 Late charges. #####
+
+(a) In connection with collecting a debt arising out of an extension of credit to a consumer in or affecting commerce, as commerce is defined in the Federal Trade Commission Act, it is an unfair act or practice within the meaning of section 5 of that Act for a creditor, directly or indirectly, to levy or collect any deliquency charge on a payment, which payment is otherwise a full payment for the applicable period and is paid on its due date or within an applicable grace period, when the only delinquency is attributable to late fee(s) or delinquency charge(s) assessed on earlier installment(s).
+
+(b) For purposes of this section, *collecting a debt* means any activity other than the use of judicial process that is intended to bring about or does bring about repayment of all or part of a consumer debt.

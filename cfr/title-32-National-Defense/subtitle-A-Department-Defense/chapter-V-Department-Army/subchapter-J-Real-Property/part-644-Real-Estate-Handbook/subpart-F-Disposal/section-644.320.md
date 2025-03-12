@@ -1,0 +1,3 @@
+##### § 644.320 Floodplain management. #####
+
+The requirements of Executive Order 11988, Floodplain Management, 42 FR 26951, (24 May 1977) and its implementation will be outlined in subpart H (to be published). In accordance with ER 1165-2-26, paragraph 13, when civil works property in floodplains is proposed for disposal to non-Federal public or private parties, the Corps of Engineers shall reference in the conveyance those uses that are restricted under Federal, State and local floodplain regulations and attach other restrictions to uses of the property as may be deemed appropriate.

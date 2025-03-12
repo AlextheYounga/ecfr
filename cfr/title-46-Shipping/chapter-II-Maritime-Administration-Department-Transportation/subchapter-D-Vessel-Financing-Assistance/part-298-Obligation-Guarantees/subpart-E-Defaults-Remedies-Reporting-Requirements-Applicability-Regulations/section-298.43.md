@@ -1,0 +1,5 @@
+##### § 298.43 Applicability of the regulations. #####
+
+(a) The regulations in this part are effective August 21, 2000, and apply to all applications made, Letter Commitments, Commitments to Guarantee Obligations or Guarantees issued or entered into on or after August 21, 2000, under section 1104(a) of the Merchant Marine Act, 1936, as amended.
+
+(b) The regulations in this part do not apply to any applications made, Letter Commitments, Commitments to Guarantee Obligations, or Guarantees issued under those regulations in effect before August 21, 2000. See 46 CFR, parts 200 to 499, edition revised as of October 1, 1996 and 46 CFR, parts 200 to 499, edition revised as of October 1, 1999 for regulations that apply to applications made, Letter Commitments, Commitments to Guarantee Obligations, or Guarantees issued before August 21, 2000.

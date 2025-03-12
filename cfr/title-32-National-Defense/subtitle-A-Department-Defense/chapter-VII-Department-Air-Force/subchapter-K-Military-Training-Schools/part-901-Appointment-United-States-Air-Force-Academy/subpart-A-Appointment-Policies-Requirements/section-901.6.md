@@ -1,0 +1,3 @@
+##### § 901.6 Candidate fitness test requirement. #####
+
+Before being offered an appointment, candidates must take a Candidate Fitness Test (CFT) which consists of exercises designed to measure muscular strength, coordination, and aerobic power. Waivers to the CFT requirement may be granted by the Air Force Academy Director of Athletics if a candidate's participation in high school athletics conflicts with test administration dates and the candidate clearly demonstrates an acceptable level of physical fitness.

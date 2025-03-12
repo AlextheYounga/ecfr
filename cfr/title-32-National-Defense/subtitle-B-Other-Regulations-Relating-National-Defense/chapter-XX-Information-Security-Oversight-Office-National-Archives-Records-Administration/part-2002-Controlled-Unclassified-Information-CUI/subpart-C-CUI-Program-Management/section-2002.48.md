@@ -1,0 +1,3 @@
+##### § 2002.48 CUI and the Administrative Procedure Act (APA). #####
+
+Nothing in the regulations in this part alters the Administrative Procedure Act (APA) or the powers of Federal administrative law judges (ALJs) appointed thereunder, including the power to determine confidentiality of information in proceedings over which they preside. Nor do the regulations in this part impose requirements concerning the manner in which ALJs designate, disseminate, control access to, decontrol, or mark such information, or make such determinations.

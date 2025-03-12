@@ -1,0 +1,3 @@
+##### § 700.721 Administration and discipline: Staff based ashore. #####
+
+When a staff is based ashore, the enlisted persons serving with the staff shall, when practicable, be assigned to an appropriated activity for purposes of administration and discipline. The staff officers may be similarly assigned. Members of a staff assigned for any purpose to a command or activity shall conform in matters of general discipline to the internal regulations and routine of that command or activity.

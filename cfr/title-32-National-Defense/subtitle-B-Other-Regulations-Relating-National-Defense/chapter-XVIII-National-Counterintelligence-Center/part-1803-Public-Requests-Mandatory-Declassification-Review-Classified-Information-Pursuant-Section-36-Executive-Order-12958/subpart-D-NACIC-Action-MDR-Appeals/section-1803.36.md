@@ -1,0 +1,3 @@
+##### § 1803.36 Notification of decision and right of further appeal. #####
+
+The Coordinator shall communicate the decision of the Director, NACIC to the requester, NARA, or the particular Presidential Library within ten (10) days of such decision. That correspondence shall include a notice that an appeal of the decision may be made to the Interagency Security Classification Appeals Panel (ISCAP) established pursuant to § 5.4 of this Order.

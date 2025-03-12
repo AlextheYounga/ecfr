@@ -1,0 +1,3 @@
+##### § 525.4 OMB control number assigned pursuant to the Paperwork Reduction Act. #####
+
+The Commission has received Office of Management and Budget approval for this collection of information pursuant to the Paperwork Reduction Act of 1995, as amended. In accordance with that Act, agencies are required to display a currently valid control number. In this regard, the valid control number for this collection of information is 3072-0061.

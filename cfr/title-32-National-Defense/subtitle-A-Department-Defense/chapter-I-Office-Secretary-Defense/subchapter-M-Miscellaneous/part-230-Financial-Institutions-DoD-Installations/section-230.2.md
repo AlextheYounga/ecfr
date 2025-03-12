@@ -1,0 +1,3 @@
+##### § 230.2 Applicability. #####
+
+This part applies to the Office of the Secretary of Defense (OSD), the Military Departments, the Chairman of the Joint Chiefs of Staff (JCS), the Combatant Commands, the Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities within the Department of Defense (hereafter collectively referred to as “the DoD Components”) and all nonappropriated fund instrumentalities including the Military Exchange Services and morale, welfare and recreation (MWR) activities.

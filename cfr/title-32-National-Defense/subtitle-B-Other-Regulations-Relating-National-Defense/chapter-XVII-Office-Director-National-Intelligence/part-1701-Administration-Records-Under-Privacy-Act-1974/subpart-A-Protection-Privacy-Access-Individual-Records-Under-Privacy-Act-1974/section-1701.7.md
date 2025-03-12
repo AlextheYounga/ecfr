@@ -1,0 +1,17 @@
+##### § 1701.7 Requests for notification of and access to records. #####
+
+(a) *How to request.* Unless records are not subject to access (see paragraph (b) of this section), individuals seeking access to records about themselves may submit a request in writing to the D/IMO, as directed in Sec. 1701.3 of this subpart, or to the contact designated in the specific Privacy Act System of Records Notice. To ensure proper routing and tracking, requesters should mark the envelope “Privacy Act Request.”
+
+(b) *Records not subject to access.* The following records are not subject to review by subject individuals:
+
+(1) Records in ODNI systems of records that ODNI has exempted from access and correction under the Privacy Act, 5 U.S.C. 552a(j) or (k), by notice published in the Federal Register, or where those exemptions require that ODNI can neither confirm nor deny the existence or nonexistence of responsive records (see § 1701.10(c)(iii)).
+
+(2) Records in ODNI systems of records that another agency has exempted from access and correction under the Privacy Act, 5 U.S.C. 552a(j) or (k), by notice published in the Federal Register, or where those exemptions require that ODNI can neither confirm nor deny the existence or nonexistence of responsive records (see § 1701.10(c)(iii)).
+
+(c) *Description of records.* Individuals requesting access to records about themselves should, to the extent possible, describe the nature of the records, why and under what circumstances the requester believes ODNI maintains the records, the time period in which they may have been compiled and, ideally, the name or identifying number of each Privacy Act System of Records in which they might be included. The ODNI publishes notices in the Federal Register that describe its systems of records. The Federal Register compiles these notices biennially and makes them available in hard copy at large reference libraries and in electronic form at the Government Printing Office's World Wide Web site, *http://www.gpoaccess.gov.*
+
+(d) *Verification of identity.* A written request for access to records about oneself must include full (legal) name, current address, date and place of birth, and citizenship status. Aliens lawfully admitted for permanent residence must provide their Alien Registration Number and the date that status was acquired. The D/IMO may request additional or clarifying information to ascertain identity. Access requests must be signed and the signature either notarized or submitted under 28 U.S.C. 1746, authorizing statements made under penalty of perjury as a substitute for notarization.
+
+(e) *Verification of guardianship or representational relationship.* The parent or guardian of a minor, the guardian of an individual under judicial disability, or an attorney retained to represent an individual shall provide, in addition to establishing the identity of the minor or individual represented as required in paragraph (d) of this section, evidence of such representation by submitting a certified copy of the minor's birth certificate, court order, or representational agreement which establishes the relationship and the requester's identity.
+
+(f) ODNI will permit access to or provide copies of records to individuals other than the record subject (or the subject's legal representative) only with the requester's written authorization.

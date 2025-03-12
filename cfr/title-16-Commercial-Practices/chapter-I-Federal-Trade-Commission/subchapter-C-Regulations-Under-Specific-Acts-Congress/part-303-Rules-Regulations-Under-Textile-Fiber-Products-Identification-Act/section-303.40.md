@@ -1,0 +1,5 @@
+##### § 303.40 Use of terms in written advertisements that imply presence of a fiber. #####
+
+The use of terms in written advertisements, including advertisements disseminated through the Internet and similar electronic media, that are descriptive of a method of manufacture, construction, or weave, and that by custom and usage are also indicative of a textile fiber or fibers, or the use of terms in such advertisements that constitute or connote the name or presence of a fiber or fibers, shall be deemed to be an implication of fiber content under section 4(c) of the Act, except that the provisions of this section shall not be applicable to non-deceptive shelf or display signs in retail stores indicating the location of textile fiber products and not intended as advertisements.
+
+[63 FR 7523, Feb. 13, 1998]

@@ -1,0 +1,3 @@
+##### § 776.5 Judicial conduct. #####
+
+To the extent that it does not conflict with statutes, regulations, or this part, the current version of the American Bar Association Model Code of Judicial Conduct (as amended), hereafter referred to as the `Code of Judicial Conduct,' applies to all military and appellate judges and to all other covered USG attorneys performing judicial functions under the JAG's supervision within the DoN.

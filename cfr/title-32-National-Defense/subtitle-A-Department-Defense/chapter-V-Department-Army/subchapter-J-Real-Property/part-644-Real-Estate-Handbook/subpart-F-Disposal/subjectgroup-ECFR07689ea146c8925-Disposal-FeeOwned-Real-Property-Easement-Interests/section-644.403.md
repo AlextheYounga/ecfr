@@ -1,0 +1,3 @@
+##### § 644.403 Transfers to Tennessee Valley Authority. #####
+
+10 U.S.C. 831f(b) authorizes the President of the United States to provide for the transfer to the Tennessee Valley Authority of the use, possession and control of such real or personal property of the United States as he may from time to time deem necessary and proper for its purposes. This authority is applicable to property under the jurisdiction or control of the Secretaries of the Army and the Air Force. The authority vested in the President by this law has been delegated to the Office of Management and Budget by Executive Order No. 10530 dated 11 May 1954, as amended (see footnote to 3 U.S.C. 301).

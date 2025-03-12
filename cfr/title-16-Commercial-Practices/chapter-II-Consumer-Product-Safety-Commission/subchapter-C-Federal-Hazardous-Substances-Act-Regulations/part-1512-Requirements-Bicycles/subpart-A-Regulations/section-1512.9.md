@@ -1,0 +1,5 @@
+##### § 1512.9 Requirements for protective guards. #####
+
+(a) *Chain guard.* Bicycles having a single front sprocket and a single rear sprocket shall have a chain guard that shall cover the top strand of the chain and at least 90° of the perimeter where the drive chain contacts the drive sprocket as shown in figure 7. The chain guard shall extend rearward to a point at least 8 cm (3.2 in.) forward of the centerline of the rear axle. The minimum width of the top area of the chain guard shall be twice the width of the chain in that portion forward of the rear wheel rim. The rear part of the top area may be tapered. The minimum width at the rear of the guard shall be one-half the chain width. Such chain guard shall prevent a rod of 9.4 mm (3/8 in.) diameter and 76 mm (3.0 in.) length from entrapment between the upper junction of the chain and the sprocket when introduced from the chain side of the bicycle in any direction within 45° from a line normal to the sprocket.
+
+(b) *Derailleur guard.* Derailleurs shall be guarded to prevent the drive chain from interfering with or stopping the rotation of the wheel through improper adjustments or damage.

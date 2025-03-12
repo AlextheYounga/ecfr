@@ -1,0 +1,7 @@
+##### § 61.15-10 Liquefied-petroleum-gas piping for heating and cooking. #####
+
+(a) Leak tests as described in paragraph (b) of this section shall be conducted at least once each month, at each inspection for certification, and at each periodic inspection. The tests required at monthly intervals shall be conducted by an appropriately credentialed officer of the vessel or qualified personnel acceptable to the Officer in Charge, Marine Inspection. The owner, master, or person in charge of the vessel shall keep records of such tests showing the dates when performed and the name(s) of the person(s) and/or company conducting the tests. Such records shall be made available to the marine inspector upon request and shall be kept for the period of validity of the vessel's current certificate of inspection. Where practicable, these records should be kept in or with the vessel's logbook.
+
+(b) Test the system for leakage in accordance with the following procedure: With the appliance valve closed, the master shutoff valve on the appliance open, and one cylinder valve open, note pressure in gauge.
+
+[CGFR 68-82, 33 FR 18890, Dec. 18, 1968, as amended by USCG-1999-4976, 65 FR 6500, Feb. 9, 2000; USCG-2003-16630, 73 FR 65189, Oct. 31, 2008; USCG-2006-24371, 74 FR 11265, Mar. 16, 2009]

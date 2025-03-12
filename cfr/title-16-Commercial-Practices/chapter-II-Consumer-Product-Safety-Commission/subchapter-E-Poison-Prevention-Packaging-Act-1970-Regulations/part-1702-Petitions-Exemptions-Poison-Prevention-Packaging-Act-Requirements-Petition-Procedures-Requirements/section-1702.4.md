@@ -1,0 +1,3 @@
+##### § 1702.4 Petitions with insufficient or incomplete information. #####
+
+If a petition is submitted that is not complete and does not explain the reason for the absence of the information, the Commission shall afford the petitioner a reasonable opportunity to provide additional information. If the required information is not submitted to the Commission, or if the petitioner does not satisfactorily explain the absence of the information within a reasonable time, the petition shall be closed if insufficient or incomplete information has been submitted to enable the Commission to evaluate the merits of the exemption request.

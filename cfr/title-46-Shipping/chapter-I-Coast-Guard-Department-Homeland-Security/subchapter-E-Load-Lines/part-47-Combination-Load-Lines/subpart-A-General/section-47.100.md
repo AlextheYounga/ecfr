@@ -1,0 +1,3 @@
+##### § 47.100 Purpose. #####
+
+(a) The purpose of the regulations in this part is to set forth simplified alternative marking schemes for those vessels operating in more than one service. Operating requirements for a given vessel could vary depending on the service, the season of the year, stability requirements, manning requirements and tonnage requirements. The conditions of assignment, restrictions applicable, form of the certificate and the load line marks are described.

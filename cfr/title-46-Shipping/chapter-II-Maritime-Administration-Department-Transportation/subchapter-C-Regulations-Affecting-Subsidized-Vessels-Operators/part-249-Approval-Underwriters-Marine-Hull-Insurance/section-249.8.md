@@ -1,0 +1,5 @@
+##### § 249.8 Limitation on risk. #####
+
+(a) Underwriters may take a line on any single risk in excess of five percent of its Policyholders' Surplus only with the prior approval of MARAD. MARAD will grant such approval to certain underwriters only in special circumstances, and for good cause shown. The standard to be applied in such cases shall be that the underwriter's *net* retention on any single risk may not exceed five percent of its Policyholders' Surplus, the gross amount of the risk may not exceed its surplus, and the reinsurers must have a high (A or comparable) rating from an accepted international rating service.
+
+(b) The vessel owner shall also provide MARAD with a mortgagee's interest policy in an amount equal to the difference between the net retention and the amount of the line taken by such underwriter.

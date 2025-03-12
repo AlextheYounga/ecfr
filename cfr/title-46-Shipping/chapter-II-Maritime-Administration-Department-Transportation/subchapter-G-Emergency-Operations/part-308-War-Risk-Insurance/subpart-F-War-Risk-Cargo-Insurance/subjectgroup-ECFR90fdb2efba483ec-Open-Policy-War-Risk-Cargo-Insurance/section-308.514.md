@@ -1,0 +1,3 @@
+##### § 308.514 Return premium. #####
+
+No premium will be returned to the assured with respect to a shipment of goods that attached under the policy except where there was a declaration of value at variance with Clause 8, or an error in the application of a rate or in the computation of a premium, or the insured goods were short-shipped. An application for the return of a premium shall be made on Form MA-307, prescribed in § 308.527, filed in duplicate with the Underwriting Agent who will transmit it to the Maritime Administrator for payment.

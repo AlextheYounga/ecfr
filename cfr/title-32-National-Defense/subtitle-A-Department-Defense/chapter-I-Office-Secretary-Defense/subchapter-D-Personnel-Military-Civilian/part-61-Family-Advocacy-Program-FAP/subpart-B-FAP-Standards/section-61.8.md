@@ -1,0 +1,3 @@
+##### § 61.8 Applicability. #####
+
+This subpart applies to OSD, the Military Departments, the Chairman of the Joint Chiefs of Staff and the Joint Staff, the Combatant Commands, the Office of the Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities in the DoD (referred to collectively in this subpart as the “DoD Components”).

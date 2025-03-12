@@ -1,0 +1,7 @@
+##### § 37.23 Reissued REAL ID driver's licenses and identification cards. #####
+
+(a) *State procedure.* States must establish an effective procedure to confirm or verify an applicant's identity each time a REAL ID driver's license or identification card is reissued, to ensure that the individual receiving the reissued REAL ID driver's license or identification card is the same individual to whom the driver's license or identification card was originally issued.
+
+(b) *Remote/Non-in-person reissuance.* Except as provided in paragraph (c) of this section a State may conduct a non-in-person (remote) reissuance if State procedures permit the reissuance to be conducted remotely. Except for the reissuance of duplicate driver's licenses and identification cards as defined in this rule, the State must reverify pursuant to § 37.13, the applicant's SSN and lawful status prior to reissuing the driver's license or identification card.
+
+(c) *In-person reissuance.* The State may not remotely reissue a driver's license or identification card where there has been a material change in any personally identifiable information since prior issuance. All material changes must be established through an applicant's presentation of an original source document as provided in this subpart, and must be verified as specified in § 37.13.

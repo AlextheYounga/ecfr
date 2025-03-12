@@ -1,0 +1,7 @@
+##### § 32.52-5 Bilge piping for pump rooms and adjacent cofferdams on tank vessels constructed or converted on or after November 19, 1952—TB/ALL. #####
+
+(a) Provisions shall be made for removing drainage from the pumproom bilges and adjacent cofferdams. A separate bilge pump, ejector, or bilge suction from a cargo pump or cargo stripping pump may be provided for this purpose. The bilge pump shall not be located in nor shall the piping pass through spaces containing machinery where sources of vapor ignition are normally present.
+
+(b) Where a bilge suction is provided from a cargo or stripping pump, a stopcheck valve shall be fitted in the suction branch, and an additional stop valve shall be fitted also if the bilge suction branch can be subjected to a head of oil from the filling line.
+
+(c) Means shall be provided for controlling the cargo or pump room bilge pumps and their suctions or discharges in order that a flooded pump room may be pumped out. Suitable portable or manually operated pumps may be accepted as complying with this provision, or alternatively, the pump controls shall be arranged so that they are operable from inside the pump room and either from an accessible position outside the pump room, or from the pump room casing above the freeboard deck.

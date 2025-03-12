@@ -1,0 +1,5 @@
+##### § 2.75-40 Suspension of approval. #####
+
+(a) Whenever it is determined that a specific item is not in compliance with the applicable laws, rules, and regulations, and the requirements specified in the approval issued by the Coast Guard, the District Commander or the Officer in Charge, Marine Inspection, will immediately notify the holder of the approval wherein the specific item fails to meet applicable requirements. If the defects, deficiencies or variations in the item are deemed important, such officer is authorized and may immediately suspend the approval, may require the holder to surrender the certificate of approval (if any), and may direct the holder to cease claiming the defective items are Coast Guard approved, pending a final decision from the Commandant in the matter.
+
+(b) The procedures for appealing the temporary suspension shall be those described in § 2.01-70.

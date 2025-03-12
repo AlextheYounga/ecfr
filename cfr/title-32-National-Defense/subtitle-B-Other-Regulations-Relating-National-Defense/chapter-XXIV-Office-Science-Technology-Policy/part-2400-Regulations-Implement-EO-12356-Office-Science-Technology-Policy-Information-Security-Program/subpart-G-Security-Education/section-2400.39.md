@@ -1,0 +1,3 @@
+##### § 2400.39 Responsibility and objectives. #####
+
+The OSTP Security Officer shall establish a security education program for OSTP personnel. The program shall be sufficient to familiarize all OSTP personnel with the provisions of Executive Order 12356 and Directive No. 1, and this regulation. It shall be designed to provide initial, refresher, and termination briefings to impress upon them their individual security responsibilities.

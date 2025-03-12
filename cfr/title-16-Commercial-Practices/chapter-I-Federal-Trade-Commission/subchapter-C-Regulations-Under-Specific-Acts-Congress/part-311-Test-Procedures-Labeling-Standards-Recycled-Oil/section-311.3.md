@@ -1,0 +1,3 @@
+##### § 311.3 Preemption. #####
+
+No law, regulation, or order of any State or political subdivision thereof may apply, or remain applicable, to any container of recycled oil, if such law, regulation, or order requires any container of recycled oil, which container bears a label in accordance with the terms of § 311.5 of this part, to bear any label with respect to the comparative characteristics of such recycled oil with new oil that is not identical to that permitted by § 311.5 of this part.

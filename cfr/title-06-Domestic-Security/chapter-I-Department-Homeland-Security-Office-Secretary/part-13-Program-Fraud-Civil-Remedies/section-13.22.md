@@ -1,0 +1,7 @@
+##### § 13.22 Exchange of witness lists, Statements, and exhibits. #####
+
+(a) At least 15 days before the hearing or at such other time as may be ordered by the ALJ, the parties will exchange witness lists, copies of prior Statements of proposed witnesses, and copies of proposed hearing exhibits, including copies of any written Statements that the party intends to offer in lieu of live testimony in accordance with § 13.33(b). At the time the above Documents are exchanged, any party that intends to rely on the transcript of deposition testimony in lieu of live testimony at the hearing, if permitted by the ALJ, will provide each party with a copy of the specific pages of the transcript it intends to introduce into evidence.
+
+(b) If a party objects, the ALJ will not admit into evidence the testimony of any witness whose name does not appear on the witness list of any exhibit not provided to the opposing party as provided above unless the ALJ finds good cause for the failure or that there is no prejudice to the objecting party.
+
+(c) Unless another party objects within the time set by the ALJ, Documents exchanged in accordance with paragraph (a) of this section will be deemed to be authentic for the purpose of admissibility at the hearing.

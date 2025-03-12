@@ -1,0 +1,7 @@
+##### § 776.18 Preamble. #####
+
+(a) A covered attorney is a representative of clients, an officer of the legal system, an officer of the Federal Government, and a public citizen who has a special responsibility for the quality of justice and legal services provided to the DoN and to individual clients. These Rules of Professional Conduct (Subpart B of this part) govern the ethical conduct of covered attorneys practicing under the Uniform Code of Military Justice, the MCM, 10 U.S.C. 1044 (Legal Assistance), other laws of the United States, and regulations of the DoN.
+
+(b) Subpart B of this part not only address the professional conduct of judge advocates, but also apply to all other covered attorneys who practice under the cognizance and supervision of the Navy JAG.
+
+(c) All covered attorneys are subject to professional disciplinary action, as outlined in this part, for violation of subpart B of this part. Action on allegations of professional or personal misconduct undertaken per subpart B of this part does not prevent other Federal, state, or local bar associations, or other licensing authorities, from taking professional disciplinary or other administrative action for the same or similar conduct.

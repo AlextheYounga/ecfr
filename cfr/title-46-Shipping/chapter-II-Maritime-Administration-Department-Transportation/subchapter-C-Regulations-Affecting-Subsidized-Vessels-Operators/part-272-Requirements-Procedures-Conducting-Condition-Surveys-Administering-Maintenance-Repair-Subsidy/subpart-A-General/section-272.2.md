@@ -1,0 +1,3 @@
+##### § 272.2 Scope. #####
+
+Except as otherwise provided in subpart B, the provisions of this part apply only to vessels operating under an operating-differential subsidy agreement which provides for the payment of M&R subsidy, except that this part does not apply to any vessel operating under an operating-differential subsidy agreement for the carriage of bulk raw and processed agricultural commodities from the United States to the Union of Soviet Socialist Republics, pursuant to part 294 of this chapter.

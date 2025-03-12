@@ -1,0 +1,3 @@
+##### § 766.3 Authority. #####
+
+Section 1107(a) of the Federal Aviation Act of 1958 (49 U.S.C. 1507, 1508) states that “Air navigation facilities owned or operated by the United States may be made available for public use under such conditions and to such extent as the head of the department or other agency having jurisdiction thereof deems advisable and may by regulation prescribe.” (See § 766.13 for restrictions imposed by the Federal Aviation Act of 1958.)

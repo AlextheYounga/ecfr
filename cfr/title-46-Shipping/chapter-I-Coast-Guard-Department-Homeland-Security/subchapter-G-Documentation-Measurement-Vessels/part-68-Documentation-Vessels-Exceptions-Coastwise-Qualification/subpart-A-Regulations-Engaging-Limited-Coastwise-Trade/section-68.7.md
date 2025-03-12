@@ -1,0 +1,7 @@
+##### § 68.7 Qualification as an 883-1 corporation. #####
+
+(a) To be formally qualified as an 883-1 corporation for all purposes under the Act, a corporation which meets the requirements of § 68.5 must file with the Director, National Vessel Documentation Center a certificate under oath as described in appendix A.
+
+(b) Upon the filing of the certificate required under paragraph (a) of this section, the Director, National Vessel Documentation Center will furnish the corporation a Certificate of Compliance which is valid for a period of 3 years from the date of its issuance, unless there is a change in corporate status requiring a report under § 68.11(a). On or before the date of expiration of the Certificate of Compliance, a new certificate under oath as described in appendix A of this subpart must be filed with the Director, National Vessel Documentation Center.
+
+(Approved by the Office of Management and Budget under control number 1625-0027)[CGD 89-007; CGD 89-007a, 58 FR 60266, Nov. 15, 1993, 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31605, June 15, 1995; USCG-1999-6216, 64 FR 53225, Oct. 1, 1999; USCG-2002-13058, 67 FR 61279, Sept. 30, 2002; USCG-2006-25697, 71 FR 55746, Sept. 25, 2006. Redesignated and amended by USCG-2005-20258, 71 FR 61418, 61419, Oct. 18, 2006]

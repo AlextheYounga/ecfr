@@ -1,0 +1,17 @@
+##### § 183.3 Definitions. #####
+
+Unless otherwise noted, these terms and definitions are for the purpose of this part only.
+
+*Civil Authorities.* Defined in Joint Publication 1-02 (see *http://www.dtic.mil/doctrine/new\_pubs/jp1\_02.pdf.*)
+
+*Integrated Federal Support Overview (IFSO).* A collaborative effort of the Special Events Working Group. The purpose of the IFSO is to inform the Secretary of Homeland Security and other appropriate senior Federal officials, including the Federal coordinator for the special event, of all the Federal activities and support in preparation for and execution of a special event. The IFSO facilitates the Federal coordinator's ability to lead a unified coordination group initially in case of an incident to support the Secretary of Homeland Security's incident management responsibilities. It also educates Federal interagency partners on Federal resources committed to the special event.
+
+*National Special Security Event (NSSE).* An event of national significance as determined by the Secretary of Homeland Security. These national or international events, occurrences, contests, activities, or meetings, which, by virtue of their profile or status, represent a significant target, and therefore warrant additional preparation, planning, and mitigation efforts. The USSS, FBI, and FEMA are the Federal agencies with lead responsibilities for NSSEs; other Federal agencies, including DoD, may provide support to the NSSE if authorized by law.
+
+*NSSE Executive Steering Committee.* Established when the Secretary of Homeland Security designates a specific event to be an NSSE. The group, led by the USSS, comprises Federal, State, and local public safety and security officials whose primary responsibility is to coordinate and develop a specific security plan for the designated NSSE.
+
+*Qualifying entity.* A non-governmental organization to which the Department of Defense may provide assistance by virtue of statute, regulation, policy, or other approval by the Secretary of Defense or his or her authorized designee.
+
+*Special event.* An international or domestic event, contest, activity, or meeting, which by its very nature, or by specific statutory or regulatory authority, may warrant security, safety, and other logistical support or assistance from the Department of Defense. Event status is not determined by the Department of Defense, and support may be requested by either civil authorities or non-governmental entities. Support provided may be reimbursable.
+
+*Special Event Working Group.* A single forum designed to ensure comprehensive and coordinated Federal interagency awareness of, and appropriate support to, special events. The Special Event Working Group is co-chaired by representatives from DHS (including the USSS and FEMA) and the FBI, and comprises representatives from more than 40 Federal departments and agencies, including the Department of Defense, the Departments of Homeland Security, Justice, State, Energy, Labor, Health and Human Services, and Commerce, the Office of the Director of National Intelligence, and the Environmental Protection Agency. The Department of Defense representative on the Special Event Working Group is designated by the Assistant Secretary of Defense for Homeland Defense and Americas' Security Affairs (ASD(HD&ASA)).

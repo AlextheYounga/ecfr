@@ -1,0 +1,3 @@
+##### § 1018.33 Change of status. #####
+
+Any advisory committee member who changes his or her affiliation or who assumes an additional affiliation, so as to actually or potentially affect his or her representational capacity on an advisory committee (upon which the member's application was based), shall immediately notify, in writing, the Advisory Committee Management Officer. Such notification shall include all relevant information concerning the change in affiliation and a statement by the member expressing his or her opinion regarding the implications of such change. The notification and any other relevant information shall be evaluated by the Commissioners to determine the appropriateness of the member's continued membership on the advisory committee.

@@ -1,0 +1,5 @@
+##### § 733.2 Delegations. #####
+
+The Director, Navy Family Allowance Activity, Anthony J. Celebrezze Federal Building, Cleveland, OH 44199, with respect to personnel of the Navy, and the Head, Personal Affairs Branch, Manpower Department, Headquarters United States Marine Corps, Washington, DC 20380, with respect to personnel of the Marine Corps, have been granted the authority by the Secretary of the Navy to make determinations including determinations of dependency and relationship when required by legislation or policy for eligibility for BAH, transportation and medical care in behalf of dependents of Navy and Marine personnel and to administer matters involving adequacy of support for dependents and waivers of support of a spouse, and on the basis of new evidence or for other good cause to reconsider or modify any such determination.
+
+[44 FR 42190, July 19, 1979, as amended at 65 FR 62617, Oct. 19, 2000]

@@ -1,0 +1,3 @@
+##### § 1616.64 Policy regarding recordkeeping requirements. #####
+
+No provision of the Standard for the Flammability of Children's Sleepwear: Sizes 7 through 14 (FF 5-74) (subpart A of this part) or of the enforcement regulations at § 1616.31 prohibits the utilization of fabric which was manufactured before May 1, 1975, and which was not manufactured in production units, in the manufacture of children's sleepwear garments which are subject to the Standard. When such fabric is utilized in the manufacture of such garments, the inability of the garment manufacturer to record the fabric production unit identification of such fabric does not constitute a violation of § 1616.31(d)(4)(i).

@@ -1,0 +1,3 @@
+##### § 201.139 Documents containing matter both material and not material. #####
+
+Where written matter offered in evidence is embraced in a document containing other matter which is not intended to be offered in evidence, the party offering shall present the original document to all parties at the hearing for their inspection, and shall offer a true copy of the matter which is to be introduced unless the presiding officer determines that the matter is short enough to be read into the record. Opposing parties shall be afforded an opportunity to introduce in evidence, or by stipulations other portions of the original document which are material and relevant.

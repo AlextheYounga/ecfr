@@ -1,0 +1,3 @@
+##### § 152.2 Applicability. #####
+
+This part applies to the Office of the Secretary of Defense, the Military Departments (including the Coast Guard by agreement with the Department of Homeland Security when it is not operating as a Service of the Department of the Navy), the Chairman of the Joint Chiefs of Staff, the Combatant Commands, the Inspector General of the Department of Defense, the Defense Agencies, the DoD Field Activities, and all other organizational entities in the Department of Defense (hereafter collectively referred to as “the DoD Components”).

@@ -1,0 +1,5 @@
+##### § 855.23 Other agreements. #####
+
+(a) Temporary use of Air Force runways occasionally is needed for extended periods when a local civil airport is unavailable or to accommodate special events or projects. Such use requires agreement between the Air Force and the local airport authority or other equivalent responsible entity.
+
+(b) The local proponent and Air Force personnel should draft and submit an agreement to the MAJCOM Director for Operations, or equivalent level, for review and comment. The agreement must address all responsibilities for handling aircraft, cargo, and passengers, and hold the Air Force harmless of all liabilities. The agreement will not exceed 3 years. Although each agreement will be unique, attachment 5 of this part provides one example. The draft agreement, with all comments and recommendations, must be sent to HQ USAF/XOOBC for final approval.

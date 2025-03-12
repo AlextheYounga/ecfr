@@ -1,0 +1,5 @@
+##### § 154.452 External pressure. #####
+
+The design external pressure, Pe, for an independent tank type C must be calculated by the following formula:
+
+Pe = P1 + P2 + P3 + P4where:P1 = the vacuum relief valve setting for tanks with a vacuum relief valve, or 24.5 kPa gauge (3.55 psig) for tanks without a vacuum relief valve.P2 = 0, or the pressure relief valve setting for an enclosed space containing any portion of a pressure vessel.P3 = total compressive load in the tank shell from the weight of the tank, including corrosion allowance, weight of insulation, weight of dome, weight of pipe tower and piping, the effect of the partially filled tank, the effect of acceleration and hull deflection, and the local effect of external and internal pressure.P4 = 0, or the external pressure from the head of water from any portion of the pressure vessel on exposed decks.

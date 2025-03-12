@@ -1,0 +1,3 @@
+##### § 21.1 Purpose. #####
+
+The purpose of this part is to effectuate the provisions of title VI of the Civil Rights Act of 1964 (the Act) to the end that no person in the United States shall, on the grounds of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under any program or activity receiving Federal financial assistance from the Department of Homeland Security. The provisions established by this part shall be effective for all components of the Department, including all Department components that are transferred to the Department, except to the extent that a Department component already has existing title VI regulations.

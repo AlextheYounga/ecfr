@@ -1,0 +1,3 @@
+##### § 901.1 General policy. #####
+
+Appointments as U.S. Air Force Academy cadets are offered to those candidates having the strongest potential to become successful career officers. Offers of appointment are made according to the law and guidance provided by HQ USAF to most effectively accomplish the Academy's mission. All candidates are appointed as cadets under the authority of the President; however, an appointment is conditional until the candidate is admitted.

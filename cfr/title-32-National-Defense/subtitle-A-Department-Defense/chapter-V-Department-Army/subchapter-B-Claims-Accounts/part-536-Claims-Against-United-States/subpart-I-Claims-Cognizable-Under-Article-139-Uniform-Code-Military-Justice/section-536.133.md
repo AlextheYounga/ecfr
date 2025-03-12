@@ -1,0 +1,11 @@
+##### § 536.133 Reconsideration of UCMJ claims. #####
+
+(a) *General.* Although Article 139, UCMJ, does not provide for a right of appeal, either the claimant or a soldier whose pay is assessed may request the approval authority (SPCMCA or GCMCA, depending on the amount assessed) or successor in command to reconsider the action. Either party must submit such a request for reconsideration in writing and clearly state the factual or legal basis for the relief requested. The approval authority may direct that the matter be reinvestigated.
+
+(b) *Reconsideration by the original approval authority.* The original approval authority may reconsider the action at any time while serving as the approval authority for the claim in question, even after the transfer of the soldier whose pay was assessed. The original approval authority may modify the action if it was incorrect, subject to paragraph (d) of this section. However, the approval authority should modify the action only because of fraud, substantial new evidence, errors in calculation, or mistake of law.
+
+(c) *Reconsideration by a successor in command.* Subject to paragraph (d) of this section, a successor in command may modify an action only because of fraud, substantial new evidence, errors in calculation, or mistake of law apparent on the face of the record.
+
+(d) *Legal review and action.* Prior to modifying the original action, the approval authority will have the servicing claims office render a legal opinion and fully explain the basis for modification as part of the file. If the legal review agrees that a return of the assessed pay is appropriate, the approval authority should request in writing that the claimant return the money, setting forth in the letter the basis for the request. There is no authority for repayment from appropriated funds.
+
+(e) *Disposition of files.* After completing action on reconsideration, the approval authority will forward the reconsideration action to the servicing claims office, which will then file the action per § 536.132(h).

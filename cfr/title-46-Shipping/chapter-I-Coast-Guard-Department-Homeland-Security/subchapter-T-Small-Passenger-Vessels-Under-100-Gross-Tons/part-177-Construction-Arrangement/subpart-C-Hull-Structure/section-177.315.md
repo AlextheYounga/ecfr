@@ -1,0 +1,3 @@
+##### § 177.315 Vessels of not more than 19.8 meters (65 feet) in length carrying not more than 12 passengers. #####
+
+The scantlings for a vessel of not more than 19.8 meters (65 feet) in length carrying not more than 12 passengers that do not meet the standards in § 177.300 or § 177.310 may be approved by the cognizant OCMI if the builder of the vessel establishes to the satisfaction of the OCMI that the design and construction of the vessel is adequate for the intended service.

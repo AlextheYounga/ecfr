@@ -1,0 +1,3 @@
+##### § 1402.2 Background. #####
+
+As a result of numerous electrocutions which have occurred when consumers contacted powerlines with CB base station and outside TV antennas while putting these antennas up or taking them down, the Consumer Product Safety Commission has determined that it is necessary to require that warnings and instructions be furnished with these antennas and their supporting structures so that consumers can be made aware of the hazards involved and of safe ways to put up and take down these antennas. The Commission anticipates that this regulation will help protect the public against the unreasonable risk of injury associated with CB base station antennas, outside TV antennas, and supporting structures due to contact with overhead powerlines.

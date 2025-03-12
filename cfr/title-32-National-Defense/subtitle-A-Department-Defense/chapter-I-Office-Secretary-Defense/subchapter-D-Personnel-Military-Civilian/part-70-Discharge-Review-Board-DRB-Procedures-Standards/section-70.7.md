@@ -1,0 +1,3 @@
+##### § 70.7 Effective date and implementation. #####
+
+This part is effective immediately for the purpose of preparing implementing documents. DoD Directive 1332.28, March 29, 1978, is officially canceled, effective November 27, 1982. This part applies to all discharge review proceedings conducted on or after November 27, 1982. § 70.10 applies to all complaint proceedings conducted on or after September 28, 1982. Final action on complaints shall not be taken until September 28, 1982, unless earlier corrective action is requested expressly by the applicant (or the applicant's counsel) whose case is the subject of the decisional document. If earlier corrective action is requested, it shall be taken in accordance with § 70.10.

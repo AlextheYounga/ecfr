@@ -1,0 +1,3 @@
+##### § 201.167 Submission to Administration for final decision. #####
+
+A proceeding will be deemed submitted to the Administration for its determination as follows: (a) If oral argument is had, on the date of completion thereof, or if memoranda on points of law are permitted to be filed after argument, the last date of such filing; (b) if oral argument is not had, the last date when exceptions or replies thereto are filed, or if exceptions are not filed, the expiration date for such exceptions or the date when all parties have stated that no exceptions will be filed; (c) in the case of an initial decision, the date of notice of the Administration to review the decision, if such notice is given.

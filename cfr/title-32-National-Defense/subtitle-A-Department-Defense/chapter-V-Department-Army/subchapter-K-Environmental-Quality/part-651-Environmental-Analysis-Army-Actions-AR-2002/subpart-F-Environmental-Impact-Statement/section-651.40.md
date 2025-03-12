@@ -1,0 +1,5 @@
+##### § 651.40 Introduction. #####
+
+(a) An EIS is a public document designed to ensure that NEPA policies and goals are incorporated early into the programs and actions of federal agencies. An EIS is intended to provide a full, open, and balanced discussion of significant environmental impacts that may result from a proposed action and alternatives, allowing public review and comment on the proposal and providing a basis for informed decision-making.
+
+(b) The NEPA process should support sound, informed, and timely (early) decision-making; not produce encyclopedic documents. CEQ guidance (40 CFR 1502.7) should be followed, establishing a page limit of 150 pages (300 pages for complex projects). To the extent practicable, EISs will “incorporate by reference” any material that is reasonably available for inspection by potentially interested persons within the time allowed for comment. The incorporated material shall be cited in the EIS and its content will be briefly described. Material based on proprietary data, that is itself not available for review and comment, shall not be incorporated by reference.

@@ -1,0 +1,5 @@
+##### § 143.210 Alternate design or operational considerations. #####
+
+(a) Machinery or electrical systems of a novel design, unusual form, or special material that cannot be reviewed or approved in accordance with this part, may be approved by the Commanding Officer, Marine Safety Center. It must be shown by systematic analysis, based on engineering principles, that the machinery or electrical equipment or system provides an equivalent level of safety. The owner or managing operator must submit detailed plans, material component specifications, and design criteria, including the expected towing vessel service and operating environment, to the Marine Safety Center. Examples of novel design include use of liquefied natural gas, compressed natural gas, or propane fuel for propulsion, and hybrid, fuel cell, or battery propulsion.
+
+(b) Alternate arrangements or equipment to comply with this part may be approved in accordance with § 136.115 of this subchapter.

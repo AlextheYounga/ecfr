@@ -1,0 +1,3 @@
+##### Sec. 1 Purpose. #####
+
+This part prescribes the standard form of marine terminal contract to be entered into by the United States of America, acting by and through the Director, National Shipping Authority (NSA) of the Maritime Administration, U.S. Department of Transportation, with State or municipal authorities or private terminal operators for the provision of terminal operating services during civil defense emergencies or national emergencies declared by the President of the United States in accordance with existing statutory authority or by concurrent resolution of the Congress.

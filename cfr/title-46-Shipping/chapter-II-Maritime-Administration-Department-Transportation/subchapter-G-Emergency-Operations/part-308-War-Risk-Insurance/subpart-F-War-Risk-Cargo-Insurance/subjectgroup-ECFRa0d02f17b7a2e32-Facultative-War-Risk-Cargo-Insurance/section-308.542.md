@@ -1,0 +1,3 @@
+##### § 308.542 Warranty regarding thirty-day shipments. #####
+
+If, after an effective binding of war risk insurance on a shipment of cargo, the assured believes that it will be impossible to comply with the warranty requiring the goods to be shipped and in transit within thirty days from the effective date of binding, such an assured may apply to the Maritime Administrator, through the Underwriting Agent, to modify the warranty. If the Maritime Administrator is satisfied that an extension of time within which the goods are warranted to be shipped and in transit should be granted, he will do so, but additional premium may be charged in the discretion of the Maritime Administrator.
