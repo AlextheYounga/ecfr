@@ -1,5 +1,7 @@
 ##### § 1280.403 Refunds. #####
 
+Link to an amendment published at 83 FR 35106, July 25, 2018.
+
 (a) *Procedure for obtaining a refund.* Any producer, seedstock producer, feeder, first handler, or exporter from whom an assessment is collected and remitted to the Secretary, or who pays an assessment directly to the Secretary, under the authority of the Act and the Order through the announcement of the results of the required referendum, shall have a right to receive a refund of such assessment, or pro rata share thereof, upon submission of proof satisfactory that such person paid the assessment for which the refund is sought. Any such demand shall be made in accordance with the provision of the Order and this subpart.
 
 (b) *Refund application form.* A producer shall obtain an approved application from the Secretary. Such form may be obtained by written request to the Lamb Promotion, Research, and Information Program, c/o the Secretary at USDA, P.O. Box 23198, Washington, DC 20026-3198.

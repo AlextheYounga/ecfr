@@ -1,8 +1,6 @@
-##### § 712.35 Director, Office of Health and Safety. #####
+##### § 712.35 Associate Under Secretary for Environment, Health, Safety and Security. #####
 
-Link to an amendment published at 83 FR 18208, Apr. 26, 2018.
-
-The Director, Office of Health and Safety or his or her designee must:
+The Associate Under Secretary for Environment, Health, Safety and Security or his or her designee must:
 
 (a) Develop policies, standards, and guidance for the medical aspects of the HRP, including the psychological testing inventory to be used;
 
@@ -10,4 +8,4 @@ The Director, Office of Health and Safety or his or her designee must:
 
 (c) Provide technical assistance on medical aspects of the HRP to all DOE elements and DOE contractors.
 
-[69 FR 3223, Jan. 23, 2004, as amended at 71 FR 68732, Nov. 28, 2006]
+[69 FR 3223, Jan. 23, 2004, as amended at 71 FR 68732, Nov. 28, 2006; 83 FR 18208, Apr. 26, 2018]

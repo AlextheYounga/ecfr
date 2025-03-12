@@ -1,5 +1,7 @@
 ##### § 590.102 Definitions. #####
 
+Link to an amendment published at 83 FR 35119, July 25, 2018.
+
 As used in this part:
 
 (a) *Assistant Secretary* means the Assistant Secretary for Fossil Energy or any employee of the DOE who has been delegated final decisional authority.

@@ -1,5 +1,7 @@
 ##### § 1280.214 Refund escrow accounts. #####
 
+Link to an amendment published at 83 FR 35106, July 25, 2018.
+
 (a) The Board shall establish an interest bearing escrow account with a financial institution which is a member of the Federal Reserve System and will deposit into such account an amount equal to the product obtained by multiplying:
 
 (1) The total amount of assessments collected by the Board during the period beginning on the effective date of the Order and ending on the date the Secretary announces the results of the required referendum; by

@@ -1,7 +1,5 @@
 ##### § 712.36 Medical assessment process. #####
 
-Link to an amendment published at 83 FR 18208, Apr. 26, 2018.
-
 (a) The Designated Physician, under the supervision of the SOMD, is responsible for the medical assessment of HRP candidates and HRP-certified individuals. In carrying out this responsibility, the Designated Physician or the SOMD must integrate the medical evaluations, psychological evaluations, psychiatric evaluations, and any other relevant information to determine an individual's overall medical qualification for assigned duties.
 
 (b) Employers must provide a job task analysis for those individuals involved in HRP duties to both the Designated Physician and the Designated Psychologist before each medical assessment and psychological evaluation. HRP medical assessments and psychological evaluations may not be performed if a job task analysis has not been provided.
@@ -18,11 +16,11 @@ Link to an amendment published at 83 FR 18208, Apr. 26, 2018.
 
 (d) Psychological evaluations must be conducted:
 
-(1) For initial certification. This psychological evaluation consists of a generally accepted psychological assessment (test) approved by the Director, Office of Health and Safety or his or her designee and a semi-structured interview.
+(1) For initial certification. This psychological evaluation consists of a generally accepted psychological assessment (test) approved by the Associate Under Secretary for Environment, Health, Safety and Security or his or her designee and a semi-structured interview.
 
 (2) For recertification. This psychological evaluation consists of a semi-structured interview, which is conducted annually at the time of the medical examination.
 
-(3) Every third year. The medical assessment for recertification must include a generally accepted psychological assessment (test) approved by the Director, Office of Health and Safety or his or her designee.
+(3) Every third year. The medical assessment for recertification must include a generally accepted psychological assessment (test) approved by the Associate Under Secretary for Environment, Health, Safety and Security or his or her designee.
 
 (4) When the SOMD determines that additional psychological or psychiatric evaluations are required to resolve HRP concerns as listed in § 712.13(c).
 
@@ -40,6 +38,4 @@ Link to an amendment published at 83 FR 18208, Apr. 26, 2018.
 
 (3) Any periodic monitoring plan, approved by the Designated Physician or the Designated Psychologist and the SOMD, used to evaluate the reliability of the individual.
 
-(i) If the disqualifying condition was of a security concern, the appropriate procedure described in 10 CFR part 710, subpart A, applies.
-
-[69 FR 3223, Jan. 23, 2004, as amended at 71 FR 68731, Nov. 28, 2006]
+[69 FR 3223, Jan. 23, 2004, as amended at 71 FR 68731, Nov. 28, 2006; 83 FR 18208, Apr. 26, 2018]

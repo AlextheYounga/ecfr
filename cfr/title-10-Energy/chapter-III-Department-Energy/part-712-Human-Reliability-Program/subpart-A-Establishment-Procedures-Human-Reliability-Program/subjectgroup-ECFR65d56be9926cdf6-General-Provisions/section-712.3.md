@@ -16,19 +16,23 @@ The following definitions are used in this part:
 
 *Alcohol use disorder* means a maladaptive pattern in which a person's intake of alcohol is great enough to damage or adversely affect physical or mental health or personal, social, or occupational function; or when alcohol has become a prerequisite to normal function.
 
+*Associate Under Secretary for Environment, Health, Safety and Security* means the DOE individual with responsibility for policy and quality assurance for DOE occupational medical programs.
+
+*Case chronology* means a written recitation of all actions that support a recommendation to revoke an individual's HRP certification under § 712.19.
+
 *Certification* means the formal action the HRP certifying official takes that permits an individual to perform HRP duties after it is determined that the individual meets the requirements for certification under this part.
 
-*Contractor* means subcontractors at all tiers and any industrial, educational, commercial, or other entity, grantee, or licensee, including an employee that has executed an agreement with the Federal government for the purpose of performing under a contract, license, or other arrangement.
+*Contractor* means contractors and subcontractors at all tiers and any industrial, educational, commercial, or other entity, grantee, or licensee, including an employee that has executed an agreement with the Federal government for the purpose of performing under a contract, license, or other arrangement.
 
-*Designated Physician* means a licensed doctor of medicine or osteopathy who has been nominated by the Site Occupational Medical Director (SOMD) and approved by the Manager or designee, with the concurrence of the Director, Office of Health and Safety, to provide professional expertise in occupational medicine for the HRP.
+*Designated Physician* means a licensed doctor of medicine or osteopathy who has been nominated by the Site Occupational Medical Director (SOMD) and approved by the Manager or designee, with the concurrence of the Associate Under Secretary for Environment, Health, Safety and Security or his or her designee to provide professional expertise in occupational medicine for the HRP.
 
-*Designated Psychologist* means a licensed Ph.D., or Psy.D., in clinical psychology who has been nominated by the SOMD and approved by the Manager or designee, with the concurrence of the Director, Office of Health and Safety, to provide professional expertise in the area of psychological assessment for the HRP.
+*Designated Psychologist* means a licensed Ph.D., or Psy.D., in clinical psychology who has been nominated by the SOMD and approved by the Manager or designee, with the concurrence of the Associate Under Secretary for Environment, Health, Safety and Security or his or her designee to provide professional expertise in the area of psychological assessment for the HRP.
 
 *Diagnostic and Statistical Manual of Mental Disorders* means the current version of the American Psychiatric Association's manual containing definitions of psychiatric terms and diagnostic criteria of mental disorders.
 
-*Director, Office of Health and Safety* means the DOE individual with responsibility for policy and quality assurance for DOE occupational medical programs.
-
 *Drug abuse* means use of an illegal drug or misuse of legal drugs.
+
+*Evaluative report* means the document that sets forth the bases supporting the revocation of an individual's certification.
 
 *Evidential-grade breath alcohol device* means a device that conforms to the model standards for an evidential breath-testing device as listed on the Conforming Products List of Evidential Breath Measurement Devices published by the National Highway Traffic Safety Administration (NHTSA).
 
@@ -46,7 +50,7 @@ The following definitions are used in this part:
 
 *Illegal drug* means a controlled substance, as specified in Schedules I through V of the Controlled Substances Act, 21 U.S.C. 811 and 812; the term does not apply to the use of a controlled substance in accordance with the terms of a valid prescription, or other uses authorized by Federal law.
 
-*Impaired or impairment* means a decrease in functional capacity of a person that is caused by a physical, mental, emotional, substance abuse, or behavioral disorder.
+*Impaired* or *impairment* means a decrease in functional capacity of a person that is caused by a physical, mental, emotional, substance abuse, or behavioral disorder.
 
 *Incident* means an unplanned, undesired event that interrupts the completion of an activity and that may include property damage or injury.
 
@@ -90,19 +94,21 @@ The following definitions are used in this part:
 
 *Reasonable suspicion* means a suspicion based on an articulable belief that an individual uses illegal drugs or is under the influence of alcohol, drawn from reasonable inferences from particular facts, as detailed further in part 707 of this title.
 
-*Recertification* means the formal action the HRP certifying official takes annually, not to exceed 12 months, that permits an employee to remain in the HRP and perform HRP duties.
+*Recertification* means the action the HRP certifying official takes annually, not to exceed 12 months, that permits an employee to remain in the HRP and perform HRP duties.
 
-*Reinstatement* means the action the HRP certifying official takes after it has been determined that an employee who has been temporarily removed from the HRP meets the certification requirements of this part and can be returned to HRP duties.
+*Reinstatement* means the action taken after it has been determined that an employee who has been temporarily removed from the HRP meets the certification requirements of this part and can be returned to HRP duties, contingent on the individual completing any and all components of the annual recertification process under § 712.11 and any other specific requirements that must be completed in order to return to full HRP duties.
 
 *Reliability* means an individual's ability to adhere to security and safety rules and regulations.
 
-*Safety concern* means any condition, practice, or violation that causes a substantial probability of physical harm, property loss, and/or environmental impact.
+*Restoration* means the actions necessary to restore an individual's HRP duties after a final decision has been made by the cognizant Under Secretary or his/her designee to overturn the revocation decision. The restoration of HRP duties is contingent on the individual completing any and all components of the annual recertification process under § 712.11 and any other specific requirements that must be completed in order to return to full HRP duties.
 
-*Security concern* means the presence of information regarding an individual applying for or holding an HRP position that may be considered derogatory under the criteria listed in 10 CFR part 710, subpart A.
+*Safety concern* means any condition, practice, or violation that causes a reasonable probability of physical harm, property loss, and/or environmental impact.
+
+*Security concern* means the presence of information regarding an individual that raises a question as to whether HRP certification and recertification would endanger the common defense and security and would be clearly consistent with the national interest.
 
 *Semi-structured interview* means an interview by a Designated Psychologist, or a psychologist under his or her supervision, who has the latitude to vary the focus and content of the questions depending on the interviewee's responses.
 
-*Site Occupational Medical Director (SOMD)* means the physician responsible for the overall direction and operation of the occupational medical program at a particular site.
+*Site Occupational Medical Director (SOMD)* means the physician responsible for the overall direction and operation of the occupational medical program at a particular site or program.
 
 *Supervisor* means the individual who has oversight and organizational responsibility for a person holding an HRP position, and whose duties include evaluating the behavior and performance of the HRP-certified individual.
 
@@ -111,5 +117,3 @@ The following definitions are used in this part:
 *Unacceptable damage* means an incident that could result in a nuclear detonation; high-explosive detonation or deflagration from a nuclear explosive; the diversion, misuse, or removal of Category I special nuclear material; or an interruption of nuclear explosive operations with a significant impact on national security.
 
 *Unsafe practice* means either a human action departing from prescribed hazard controls or job procedures or practices, or an action causing a person unnecessary exposure to a hazard.
-
-[69 FR 3223, Jan. 23, 2004, as amended at 71 FR 68731, Nov. 28, 2006; 78 FR 56135, Sept. 12, 2013]

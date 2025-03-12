@@ -1,5 +1,7 @@
 ##### § 1221.120 Procedure for obtaining a refund. #####
 
+Link to an amendment published at 83 FR 35106, July 25, 2018.
+
 Upon failure of the required referendum, each producer or importer who paid an assessment pursuant to this subpart during the period beginning on the effective date of the Order and ending on the date the required referendum results are announced may obtain a refund of such assessment only by following the procedures prescribed in this section and any regulations recommended by the Board and prescribed by the Secretary:
 
 (a) A producer or importer shall obtain a Board-approved refund application form from the Board. Such forms may be obtained by written request to the Board and the request shall bear the producer's or importer's signature or properly witnessed mark.

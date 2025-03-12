@@ -1,5 +1,7 @@
 ##### § 1221.128 Qualification. #####
 
+Link to an amendment published at 83 FR 35106, July 25, 2018.
+
 (a) Organizations receiving qualification from the Secretary will be entitled to submit requests for funding to the Board pursuant to § 1221.112(j). Only one sorghum producer organization per State may be qualified.
 
 (b) State-legislated sorghum promotion, research, and information organizations may request qualification and will be considered first for qualification by the Secretary.

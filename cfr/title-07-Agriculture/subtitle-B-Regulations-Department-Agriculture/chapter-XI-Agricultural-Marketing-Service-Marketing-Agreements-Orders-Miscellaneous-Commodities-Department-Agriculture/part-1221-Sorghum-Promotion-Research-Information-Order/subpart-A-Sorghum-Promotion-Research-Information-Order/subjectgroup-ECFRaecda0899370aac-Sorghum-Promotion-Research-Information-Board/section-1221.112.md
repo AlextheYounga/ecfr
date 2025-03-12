@@ -1,5 +1,7 @@
 ##### § 1221.112 Budget and expenses. #####
 
+Link to an amendment published at 83 FR 35106, July 25, 2018.
+
 (a) Prior to the beginning of each fiscal period, and as may be necessary thereafter, the Board shall prepare and submit to the Secretary a budget for the fiscal period covering its anticipated expenses and disbursements in administering this subpart. Each such budget shall include:
 
 (1) A statement of objectives and strategy for each program, plan, or project;

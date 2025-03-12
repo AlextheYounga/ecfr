@@ -10,10 +10,8 @@
 
 (4) Is not included in paragraphs (a)(1) through (3) of this section but affords the potential to significantly impact national security or cause unacceptable damage and is approved pursuant to paragraph (b) of this section.
 
-(b) The Manager or the HRP management official may nominate positions for the HRP that are not specified in paragraphs (a)(1) through (3) of this section or that have not previously been designated HRP positions. All such nominations must be submitted to and approved by either the NNSA Administrator, his or her designee, the Chief Health, Safety and Security Officer, or the appropriate Lead Program Secretarial Officer, or his or her designee.
+(b) The Manager or the HRP management official may nominate positions for the HRP that are not specified in paragraphs (a)(1) through (3) of this section or that have not previously been designated HRP positions. All such nominations must be submitted to and approved by either the NNSA Administrator, his or her designee, the Associate Under Secretary for Environment, Health, Safety and Security or the appropriate Lead Program Secretarial Officer, or his or her designee.
 
 (c) Before nominating a position for designation as an HRP position, the Manager or the HRP management official must analyze the risks the position poses for the particular operational program. If the analysis shows that more restrictive physical, administrative, or other controls could be implemented that would prevent the position from being designated an HRP position, those controls will be implemented, if practicable.
 
 (d) Nothing in this part prohibits contractors from establishing stricter employment standards for individuals who are nominated to DOE for certification or recertification in the HRP.
-
-[69 FR 3223, Jan. 23, 2004, as amended at 71 FR 68731, Nov. 28, 2006]

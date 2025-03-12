@@ -1,12 +1,12 @@
 ##### § 712.13 Supervisory review. #####
 
-(a) The supervisor must ensure that each HRP candidate and each individual occupying an HRP position but not yet HRP certified, executes the appropriate HRP releases, acknowledgments, and waivers. If these documents are not executed:
+(a) The supervisor must ensure that each HRP candidate and each individual occupying an HRP position but not yet HRP certified executes the appropriate HRP releases, acknowledgments, and waivers. If these documents are not executed:
 
 (1) The request for HRP certification may not be further processed until these requirements are completed; and
 
 (2) The individual is immediately removed from the position.
 
-(b) Each supervisor of HRP-certified personnel must conduct an annual review of each HRP-certified individual during which the supervisor must evaluate information (including security concerns) relevant to the individual's suitability to perform HRP tasks in a reliable and safe manner.
+(b) Each supervisor of HRP-certified personnel must conduct an annual review of each HRP-certified individual during which the supervisor must evaluate information, based on his or her personal knowledge that is relevant to the individual's suitability to perform HRP tasks in a reliable and safe manner.
 
 (c) The supervisor must report any concerns resulting from his or her review to the appropriate HRP management official. Types of behavior and conditions that would indicate a concern include, but are not limited to:
 
@@ -30,16 +30,26 @@
 
 (10) Inability to deal with stress, or the appearance of being under unusual stress;
 
-(11) Failure to comply with work directives, hostility or aggression toward fellow workers or authority, uncontrolled anger, violation of safety or security procedures, or repeated absenteeism; and
+(11) Failure to comply with work directives, hostility or aggression toward fellow workers or authority, uncontrolled anger, violation of safety or security procedures, or repeated absenteeism;
 
-(12) Significant behavioral changes, moodiness, depression, or other evidence of loss of emotional control.
+(12) Significant behavioral changes, moodiness, depression, or other evidence of loss of emotional control; and
 
-(d) The supervisor must immediately remove an HRP-certified individual from HRP duties, pursuant to § 712.19, and temporarily reassign the individual to a non-HRP position if the supervisor believes the individual has demonstrated a security or safety concern that warrants such removal. If temporary removal is based on a security concern, the HRP management official must immediately notify the applicable DOE personnel security office and the HRP certifying official.
+(13) Any unusual conduct or being subject to any circumstances which tend to show that the individual is not reliable.
 
-(1) Based on the DOE personnel security office recommendation, the HRP certifying official will make the final decision about whether to reinstate an individual into an HRP position.
+(d) A supervisor must immediately remove an individual from HRP duties:
 
-(2) If temporary removal is based on a medical concern, the Designated Physician, the Designated Psychologist, or the SOMD must immediately recommend the medical removal or medical restriction in writing to the appropriate HRP management official, who will make the final determination in temporary removal actions and immediately notify the appropriate HRP certifying official.
+(1) When the supervisor has a reasonable belief that the individual is not reliable, based on either a safety or security concern based on one or more of the types of behaviors and conditions identified in § 712.13(c);
 
-(e) The supervisor must immediately remove from HRP duties any Federal employee who does not obtain HRP recertification. The supervisor may reassign the individual or realign the individual's current duties. If these actions are not feasible, the supervisor must contact the appropriate personnel office for guidance.
+(2) When the individual does not obtain HRP recertification; or
 
-(f) The supervisor who has been informed by the breath alcohol technician that an HRP-certified individual's confirmatory breath alcohol test result is at or above an alcohol concentration of 0.02 percent shall send the individual home and not allow that individual to perform HRP duties for 24 hours, and inform the HRP management official of this action.
+(3) When requested to do so by the HRP certifying official and/or HRP management official.
+
+(e) The supervisor must contact the appropriate personnel office for guidance as to any actions that should occur as a result of the immediate removal.
+
+(f) Immediate removal: If the supervisor immediately removes an HRP-certified individual for any reason specified in this part, he or she must, at a minimum:
+
+(1) Require the individual to stop performing HRP duties;
+
+(2) Take action to ensure the individual is denied both escorted and unescorted access to the material access areas; and
+
+(3) Notify, within 24 hours, the HRP management official of the immediate removal. The HRP management official shall take actions consistent with § 712.19.
