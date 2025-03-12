@@ -1,0 +1,15 @@
+##### § 24.1a Temporary postponement of deadline to deposit certain estimated duties, taxes, and fees because of the COVID-19 national emergency. #####
+
+(a) *General.* Pursuant to the authority of 19 U.S.C. 1318(a), subject to the conditions in paragraphs (a)(1) through (4) of this section, the deadline for the deposit of estimated duties, taxes, and fees that an importer of record would ordinarily be obligated to pay as of the date of entry, or withdrawal from warehouse, for consumption, of imported merchandise into the United States is postponed for a period of 90 days from the date that the deposit would otherwise have been due. No interest will accrue for the delayed deposit of such estimated duties, taxes, and fees during this 90-day temporary postponement.
+
+(1) This temporary postponement applies only to entries, or withdrawals from warehouse, for consumption, made on or after March 1, 2020, and no later than April 30, 2020, by importers of record with a significant financial hardship. This temporary postponement does not permit return of any deposits of estimated duties, taxes, and/or fees that have been paid.
+
+(2) An importer will be considered to have a significant financial hardship if the operation of such importer is fully or partially suspended during March or April 2020 due to orders from a competent governmental authority limiting commerce, travel, or group meetings because of COVID-19, and as a result of such suspension, the gross receipts of such importer for March 13-31, 2020, or April 2020 are less than 60 percent of the gross receipts for the comparable period in 2019. An eligible importer need not file additional documentation with CBP to be eligible for this relief but must maintain documentation as part of its books and records establishing that it meets the requirements for relief.
+
+(3) No penalty, liquidated damages claim, or other sanction will be imposed for the delayed deposit of estimated duties, taxes, and fees in accordance with a deadline postponed under this section.
+
+(4) This temporary postponement does not apply to any entry, or withdrawal from warehouse, for consumption, or any deposit of estimated duties, taxes, or fees for the entry, or withdrawal from warehouse, for consumption, where the entry summary includes any merchandise subject to one or more of the following: Antidumping duties (assessed pursuant to 19 U.S.C. 1673 *et seq.*), countervailing duties (assessed pursuant to 19 U.S.C. 1671 *et seq.*), duties assessed pursuant to Section 232 of the Trade Expansion Act of 1962 (19 U.S.C. 1862), duties assessed pursuant to Section 201 of the Trade Act of 1974 (19 U.S.C. 2251 *et seq.*), and duties assessed pursuant to Section 301 of the Trade Act of 1974 (19 U.S.C. 2411 *et seq.*).
+
+(b) *Time of entry.* For entries eligible for the temporary postponement of deposits under paragraph (a) of this section, the requirement to deposit estimated duties, taxes, and fees for the purpose of establishing the time of entry stated in 19 CFR 141.68 is waived.
+
+[CBP Dec. 20-05, 85 FR 22352, Apr. 22, 2020]

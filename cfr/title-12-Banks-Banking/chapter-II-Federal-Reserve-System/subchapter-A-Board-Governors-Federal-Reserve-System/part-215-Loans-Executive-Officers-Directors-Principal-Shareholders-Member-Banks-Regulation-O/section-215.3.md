@@ -46,9 +46,17 @@
 
 (B) The indebtedness is incurred under terms that are not more favorable than those offered to the general public;
 
-(6) Indebtedness of $5,000 or less arising by reason of an interest-bearing overdraft credit plan of the type specified in § 215.4(e) of this part; or
+(6) Indebtedness of $5,000 or less arising by reason of an interest-bearing overdraft credit plan of the type specified in § 215.4(e);
 
-(7) A discount of promissory notes, bills of exchange, conditional sales contracts, or similar paper, without recourse.
+(7) A discount of promissory notes, bills of exchange, conditional sales contracts, or similar paper, without recourse; or
+
+(8) Except for purposes of § 215.5, a loan:
+
+(i) In which the participation by the Small Business Administration on a deferred basis is 100 percent pursuant to section 1102(a)(1) of Public Law 116-136 (to be codified at 15 U.S.C. 636(a)(2)(F));
+
+(ii) That is made during the period beginning on February 15, 2020, and ending on June 30, 2020; and
+
+(iii) That would not be prohibited by 13 CFR 120.110(o) or rules or interpretations thereof issued by the Small Business Administration.
 
 (c) Non-interest-bearing deposits to the credit of a bank are not considered loans, advances, or extensions of credit to the bank of deposit; nor is the giving of immediate credit to a bank upon uncollected items received in the ordinary course of business considered to be a loan, advance or extension of credit to the depositing bank.
 
@@ -64,4 +72,4 @@
 
 (ii) The proceeds of the extension of credit are used in a bona fide transaction to acquire property, goods, or services from the insider.
 
-[Reg. O, 59 FR 8837, Feb. 24, 1994; 59 FR 37930, July 26, 1994; 63 FR 58621, Nov. 2, 1998]
+[Reg. O, 59 FR 8837, Feb. 24, 1994; 59 FR 37930, July 26, 1994; 63 FR 58621, Nov. 2, 1998; 85 FR 22349, Apr. 22, 2020]

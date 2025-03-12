@@ -1,3 +1,3 @@
 ##### § 218.81 Effective dates. #####
 
-Regulations in this subpart are effective November 14, 2018 through November 13, 2023.
+Regulations in this subpart are effective from December 23, 2019 through November 13, 2025.

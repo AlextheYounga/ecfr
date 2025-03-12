@@ -18,7 +18,7 @@
 
 (c) A notice of issuance or denial of a renewal of a Letter of Authorization shall be published in the Federal Register.
 
-(d) Adaptive Management - NMFS may modify or augment the existing mitigation or monitoring measures (after consulting with the U.S. Air Force regarding the practicability of the modifications) if doing so creates a reasonable likelihood of more effectively accomplishing the goals of mitigation and monitoring set forth in the preamble of these regulations. Below are some of the possible sources of new data that could contribute to the decision to modify the mitigation or monitoring measures:
+(d) Adaptive Management—NMFS may modify or augment the existing mitigation or monitoring measures (after consulting with the U.S. Air Force regarding the practicability of the modifications) if doing so creates a reasonable likelihood of more effectively accomplishing the goals of mitigation and monitoring set forth in the preamble of these regulations. Below are some of the possible sources of new data that could contribute to the decision to modify the mitigation or monitoring measures:
 
 (1) Results from the U.S. Air Force's monitoring from the previous year;
 

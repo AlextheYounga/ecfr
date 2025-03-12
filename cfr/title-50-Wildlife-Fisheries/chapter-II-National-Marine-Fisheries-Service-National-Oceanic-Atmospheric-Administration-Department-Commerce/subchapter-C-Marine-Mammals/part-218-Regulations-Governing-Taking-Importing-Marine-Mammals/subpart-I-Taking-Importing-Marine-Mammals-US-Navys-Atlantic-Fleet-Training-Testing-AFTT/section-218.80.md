@@ -1,4 +1,4 @@
-##### § 218.80 Specified activity and specified geographical region. #####
+##### § 218.80 Specified activity and geographical region. #####
 
 (a) Regulations in this subpart apply only to the U.S. Navy for the taking of marine mammals that occurs in the area described in paragraph (b) of this section and that occurs incidental to the activities listed in paragraph (c) of this section.
 
@@ -6,20 +6,22 @@
 
 (c) The taking of marine mammals by the Navy is only authorized if it occurs incidental to the Navy conducting training and testing activities, including:
 
-(1) *Training.* (i) Amphibious warfare.
+(1) *Training.* (i) Amphibious warfare;
 
-(ii) Anti-submarine warfare.
+(ii) Anti-submarine warfare;
 
-(iii) Electronic warfare.
+(iii) Electronic warfare;
 
-(iv) Expeditionary warfare.
+(iv) Expeditionary warfare;
 
-(v) Mine warfare.
+(v) Mine warfare;
 
-(vi) Surface warfare.
+(vi) Surface warfare, and
 
-(2) *Testing.* (i) Naval Air Systems Command Testing Activities.
+(vii) Pile driving.
 
-(ii) Naval Sea System Command Testing Activities.
+(2) *Testing.* (i) Naval Air Systems Command Testing Activities;
+
+(ii) Naval Sea System Command Testing Activities; and
 
 (iii) Office of Naval Research Testing Activities.
